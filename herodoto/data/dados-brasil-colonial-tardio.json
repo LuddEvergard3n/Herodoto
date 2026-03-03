@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "fonte": "Compilado - História do Brasil",
+    "lingua": "pt",
+    "tema": "Brasil Colonial Tardio",
+    "periodo": "1690-1808"
+  },
+  "entidades": [
+    {
+      "id": "brct-004",
+      "nome": "Revoltas Coloniais Nativistas",
+      "nome_en": "Nativist Colonial Revolts",
+      "nome_es": "Revueltas Coloniales Nativistas",
+      "tipo": "periodo",
+      "descricao": "Rebeliões locais (1640-1710) contra autoridades coloniais portuguesas expressando insatisfação de colonos. Guerra dos Mascates (Pernambuco, 1710-1711): conflito entre aristocracia rural de Olinda (produtores de açúcar) e comerciantes portugueses de Recife ('mascates'). Recife tornou-se vila independente (1709) gerando revolta de olindenses. Bernardo Vieira de Melo liderou rebeldes, invadindo Recife. Coroa reprimiu revolta restabelecendo ordem. Beckman (Maranhão, 1684): Manuel Beckman liderou revolta contra monopólio da Companhia de Comércio do Maranhão (preços altos, falta de escravos). Expulsaram jesuítas e governador. Coroa enviou novo governador que enforcou Beckman. Revolta de Felipe dos Santos (Vila Rica, 1720): protesto contra casas de fundição (derretimento do ouro para cobrança do quinto). Felipe dos Santos liderou movimento, foi capturado, enforcado e esquartejado. Revoltas eram nativistas (contra portugueses 'de fora') mas não separatistas, mantinham lealdade ao rei.",
+      "descricao_en": "Local rebellions (1640-1710) against Portuguese colonial authorities expressing colonist dissatisfaction. War of Mascates (Pernambuco, 1710-1711): conflict between Olinda rural aristocracy (sugar producers) and Portuguese merchants of Recife ('mascates'). Recife became independent village (1709) generating revolt of Olindenses. Bernardo Vieira de Melo led rebels, invading Recife. Crown suppressed revolt reestablishing order. Beckman (Maranhão, 1684): Manuel Beckman led revolt against Maranhão Trading Company monopoly (high prices, lack of slaves). Expelled Jesuits and governor. Crown sent new governor who hanged Beckman. Revolt of Felipe dos Santos (Vila Rica, 1720): protest against foundry houses (gold melting for quinto collection). Felipe dos Santos led movement, was captured, hanged and quartered. Revolts were nativist (against Portuguese 'outsiders') but not separatist, maintaining loyalty to king.",
+      "descricao_es": "Rebeliones locales (1640-1710) contra autoridades coloniales portuguesas expresando insatisfacción de colonos. Guerra de Mascates (Pernambuco, 1710-1711): conflicto entre aristocracia rural de Olinda (productores de azúcar) y comerciantes portugueses de Recife ('mascates'). Recife se convirtió en villa independiente (1709) generando revuelta de olindenses. Bernardo Vieira de Melo lideró rebeldes, invadiendo Recife. Corona reprimió revuelta restableciendo orden. Beckman (Maranhão, 1684): Manuel Beckman lideró revuelta contra monopolio de Compañía de Comercio de Maranhão (precios altos, falta de esclavos). Expulsaron jesuitas y gobernador. Corona envió nuevo gobernador que ahorcó Beckman. Revuelta de Felipe dos Santos (Vila Rica, 1720): protesta contra casas de fundición (derretimiento del oro para cobro del quinto). Felipe dos Santos lideró movimiento, fue capturado, ahorcado y descuartizado. Revueltas eran nativistas (contra portugueses 'de fuera') pero no separatistas, manteniendo lealtad al rey.",
+      "inicio": 1640,
+      "fim": 1710,
+      "tags": [
+        "brasil",
+        "colonial",
+        "revoltas"
+      ],
+      "importancia": "As Revoltas Nativistas do século XVIII (Beckman, Guerra dos Mascates, Emboabas) foram conflitos entre grupos coloniais distintos — colonos estabelecidos vs. comerciantes portugueses, elites regionais vs. poder central — não movimentos de independência. Revelam que a colônia tinha interesses próprios divergentes da metrópole antes de qualquer influência iluminista. A tensão entre autonomia colonial e controle metropolitano foi estrutural, não acidental — e preparou o terreno ideológico para as revoltas emancipacionistas que viriam depois.",
+      "century_start": 17,
+      "century_end": 18,
+      "region": "Americas",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Revolts were nativist (against Portuguese 'outsiders') but not separatist, maintaining loyalty to king.",
+      "importancia_es": "Revueltas eran nativistas (contra portugueses 'de fuera') pero no separatistas, manteniendo lealtad al rey."
+    },
+    {
+      "id": "brct-001",
+      "nome": "Ciclo do Ouro",
+      "nome_en": "Gold Cycle",
+      "nome_es": "Ciclo del Oro",
+      "tipo": "periodo",
+      "descricao": "Descoberta de ouro (1690s) em Minas Gerais transformou economia e sociedade colonial. Bandeirantes encontraram aluviões em rios da região (Ouro Preto, Mariana, Sabará). Corrida do ouro atraiu ~800.000 pessoas incluindo portugueses, paulistas e nordestinos. População colonial saltou de ~300.000 (1690) para ~3 milhões (1800). Mineração usou trabalho escravo africano (crescimento do tráfico). Vila Rica (Ouro Preto) tornou-se cidade mais populosa (40.000 hab), superando Salvador e Rio. Coroa portuguesa cobrou quinto (20%) e criou sistema de tributação: capitação (imposto por escravo), derrama (cobrança forçada de quotas atrasadas). Intendência das Minas fiscalizava produção. Produção estimada: ~1.000 toneladas de ouro (1700-1800), enriquecendo Portugal mas escoando para Inglaterra (Tratado de Methuen 1703). Desenvolvimento urbano: igrejas barrocas (Aleijadinho, Mestre Athaíde), cultura mineira. Declínio após 1760 por esgotamento das jazidas. Diamantes descobertos em 1729 (Diamantina).",
+      "descricao_en": "Discovery of gold (1690s) in Minas Gerais transformed colonial economy and society. Bandeirantes found alluvial deposits in regional rivers (Ouro Preto, Mariana, Sabará). Gold rush attracted ~800,000 people including Portuguese, Paulistas and Northeasterners. Colonial population jumped from ~300,000 (1690) to ~3 million (1800). Mining used African slave labor (traffic growth). Vila Rica (Ouro Preto) became most populous city (40,000 inhab), surpassing Salvador and Rio. Portuguese Crown collected quinto (20%) and created taxation system: capitation (tax per slave), derrama (forced collection of overdue quotas). Mining Superintendency supervised production. Estimated production: ~1,000 tons of gold (1700-1800), enriching Portugal but flowing to England (Methuen Treaty 1703). Urban development: baroque churches (Aleijadinho, Master Athaíde), mining culture. Decline after 1760 from deposit exhaustion. Diamonds discovered in 1729 (Diamantina).",
+      "descricao_es": "Descubrimiento de oro (1690s) en Minas Gerais transformó economía y sociedad colonial. Bandeirantes encontraron aluviones en ríos de región (Ouro Preto, Mariana, Sabará). Fiebre del oro atrajo ~800.000 personas incluyendo portugueses, paulistas y nordestinos. Población colonial saltó de ~300.000 (1690) a ~3 millones (1800). Minería usó trabajo esclavo africano (crecimiento del tráfico). Vila Rica (Ouro Preto) se convirtió en ciudad más populosa (40.000 hab), superando Salvador y Río. Corona portuguesa cobró quinto (20%) y creó sistema de tributación: capitación (impuesto por esclavo), derrama (cobro forzado de cuotas atrasadas). Intendencia de Minas fiscalizó producción. Producción estimada: ~1.000 toneladas de oro (1700-1800), enriqueciendo Portugal pero escurriendo a Inglaterra (Tratado de Methuen 1703). Desarrollo urbano: iglesias barrocas (Aleijadinho, Maestro Athaíde), cultura minera. Declive tras 1760 por agotamiento de yacimientos. Diamantes descubiertos en 1729 (Diamantina).",
+      "inicio": 1690,
+      "fim": 1800,
+      "tags": [
+        "brasil",
+        "colonial",
+        "ouro"
+      ],
+      "importancia": "O Ciclo do Ouro (1690s-1770s) financiou o Iluminismo português e a industrialização britânica — mas não o Brasil. O Tratado de Methuen (1703) ligou o ouro brasileiro ao vinho português ao câmbio inglês: o ouro atravessava Portugal e ia direto para Londres. Minas Gerais gerou 800 toneladas de ouro em 80 anos, mas a colônia ficou com a dívida fiscal, a urbanização acelerada de Vila Rica e as contradições que explodiram na Inconfidência. É o exemplo clássico de como recursos naturais enriquecem metrópoles sem desenvolver periferias.",
+      "century_start": 17,
+      "century_end": 18,
+      "region": "Americas",
+      "type": "economic",
+      "period": "EarlyModern",
+      "importancia_en": "Decline after 1760 from deposit exhaustion. Diamonds discovered in 1729 (Diamantina).",
+      "importancia_es": "Declive tras 1760 por agotamiento de yacimientos. Diamantes descubiertos en 1729 (Diamantina)."
+    },
+    {
+      "id": "brct-006",
+      "nome": "Economia Colonial Diversificada",
+      "nome_en": "Diversified Colonial Economy",
+      "nome_es": "Economía Colonial Diversificada",
+      "tipo": "periodo",
+      "descricao": "Além de açúcar e ouro, economia colonial (1700-1808) diversificou-se regionalmente. Nordeste: além de açúcar (Pernambuco, Bahia), tabaco (Bahia - usado para troca por escravos na África), algodão (Maranhão, Ceará - exportação aumentou com Revolução Industrial inglesa). Sul: pecuária extensiva forneceu carne, couro e tração para minas. Charqueadas gaúchas produziram carne seca. Mulas criadas em Virazópolis vendidas em feira de Sorocaba. Tropeirismo conectou Sul-Sudeste. Amazônia: drogas do sertão (cacau, guaraná, castanha, especiarias) coletadas por indígenas. Norte: arroz (Maranhão). Economia de subsistência: produção interna de alimentos (mandioca, milho, feijão), manufaturas caseiras. Comércio interno cresceu conectando regiões. Portugal proibiu manufaturas (Alvará de 1785) para manter dependência de produtos metropolitanos. Sistema mercantilista: Brasil fornecia matérias-primas, Portugal controlava comércio, lucros escoavam para metrópole.",
+      "descricao_en": "Beyond sugar and gold, colonial economy (1700-1808) diversified regionally. Northeast: besides sugar (Pernambuco, Bahia), tobacco (Bahia - used for exchange for slaves in Africa), cotton (Maranhão, Ceará - export increased with English Industrial Revolution). South: extensive cattle ranching supplied meat, leather and traction for mines. Gaucho charqueadas produced dried meat. Mules bred in Virazópolis sold at Sorocaba fair. Tropeirismo connected South-Southeast. Amazon: sertão drugs (cocoa, guarana, chestnuts, spices) collected by indigenous people. North: rice (Maranhão). Subsistence economy: internal food production (cassava, corn, beans), home manufactures. Internal trade grew connecting regions. Portugal prohibited manufactures (Alvará of 1785) to maintain dependence on metropolitan products. Mercantilist system: Brazil supplied raw materials, Portugal controlled trade, profits flowed to metropolis.",
+      "descricao_es": "Además de azúcar y oro, economía colonial (1700-1808) se diversificó regionalmente. Nordeste: además de azúcar (Pernambuco, Bahía), tabaco (Bahía - usado para intercambio por esclavos en África), algodón (Maranhão, Ceará - exportación aumentó con Revolución Industrial inglesa). Sur: ganadería extensiva suministró carne, cuero y tracción para minas. Charqueadas gauchas produjeron carne seca. Mulas criadas en Virazópolis vendidas en feria de Sorocaba. Tropeirismo conectó Sur-Sudeste. Amazonía: drogas del sertão (cacao, guaraná, castañas, especias) recolectadas por indígenas. Norte: arroz (Maranhão). Economía de subsistencia: producción interna de alimentos (mandioca, maíz, frijoles), manufacturas caseras. Comercio interno creció conectando regiones. Portugal prohibió manufacturas (Alvará de 1785) para mantener dependencia de productos metropolitanos. Sistema mercantilista: Brasil suministraba materias primas, Portugal controlaba comercio, lucros escurrían a metrópoli.",
+      "inicio": 1700,
+      "fim": 1808,
+      "tags": [
+        "brasil",
+        "colonial",
+        "economia"
+      ],
+      "importancia": "A diversificação econômica colonial revela a resiliência do sistema colonial português: quando o ouro de Minas esgotou nos anos 1760-70, o Brasil não colapsou economicamente — voltou ao açúcar renovado, expandiu o algodão (que financiou a Revolução Industrial britânica), desenvolveu o couro no Sul. Essa flexibilidade econômica, baseada em trabalho escravizado e exportação de commodities, criou o padrão de desenvolvimento dependente-exportador que o Brasil ainda luta para superar.",
+      "century_start": 17,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "economic",
+      "period": "EarlyModern",
+      "importancia_en": "Mercantilist system: Brazil supplied raw materials, Portugal controlled trade, profits flowed to metropolis.",
+      "importancia_es": "Sistema mercantilista: Brasil suministraba materias primas, Portugal controlaba comercio, lucros escurrían a metrópoli."
+    },
+    {
+      "id": "brct-003",
+      "nome": "Reformas Pombalinas",
+      "nome_en": "Pombaline Reforms",
+      "nome_es": "Reformas Pombalinas",
+      "tipo": "periodo",
+      "descricao": "Modernização administrativa (1750-1777) implementada pelo Marquês de Pombal, ministro de D. José I, aplicando despotismo esclarecido. Objetivos: fortalecer Estado português, aumentar arrecadação, reduzir dependência da Inglaterra, modernizar colônias. Principais medidas no Brasil: criação de companhias de comércio monopolistas (Grão-Pará/Maranhão, Pernambuco/Paraíba) para estimular exportações; extinção do Estado do Maranhão integrando-o ao Brasil; expulsão dos jesuítas (1759) por conflitos com colonos e acusações de formar 'Estado dentro do Estado'. Aldeamentos jesuíticos transformados em vilas de índios; incentivo à miscigenação entre colonos e indígenas; proibição de discriminação contra mestiços e judeus; reformas educacionais substituindo educação jesuítica por aulas régias (ensino público). Tratado de Madrid (1750) definiu fronteiras baseado em uti possidetis. Reformas modernizaram administração mas mantiveram o sistema colonial. Pombal demitido (1777) após morte de D. José, sucessora D. Maria I reverteu algumas medidas.",
+      "descricao_en": "Administrative modernization (1750-1777) implemented by Marquis of Pombal, minister of Joseph I, applying enlightened despotism. Objectives: strengthen Portuguese State, increase collection, reduce English dependence, modernize colonies. Main measures in Brazil: creation of monopolistic trading companies (Grão-Pará/Maranhão, Pernambuco/Paraíba) to stimulate exports; extinction of Maranhão State integrating it to Brazil; expulsion of Jesuits (1759) for conflicts with colonists and accusations of forming 'State within State'. Jesuit settlements transformed into indigenous villages; incentive to miscegenation between colonists and indigenous; prohibition of discrimination against mestizos and Jews; educational reforms replacing Jesuit education with royal classes (public education). Treaty of Madrid (1750) defined borders based on uti possidetis. Reforms modernized administration but maintained colonial exploitation. Pombal dismissed (1777) after Joseph's death, successor Maria I reversed some measures.",
+      "descricao_es": "Modernización administrativa (1750-1777) implementada por Marqués de Pombal, ministro de José I, aplicando despotismo ilustrado. Objetivos: fortalecer Estado portugués, aumentar recaudación, reducir dependencia de Inglaterra, modernizar colonias. Principales medidas en Brasil: creación de compañías de comercio monopolistas (Grão-Pará/Maranhão, Pernambuco/Paraíba) para estimular exportaciones; extinción del Estado de Maranhão integrándolo a Brasil; expulsión de jesuitas (1759) por conflictos con colonos y acusaciones de formar 'Estado dentro del Estado'. Aldeas jesuíticas transformadas en villas de indios; incentivo a mestizaje entre colonos e indígenas; prohibición de discriminación contra mestizos y judíos; reformas educacionales sustituyendo educación jesuítica por clases régias (enseñanza pública). Tratado de Madrid (1750) definió fronteras basado en uti possidetis. Reformas modernizaron administración pero mantuvieron explotación colonial. Pombal destituido (1777) tras muerte de José, sucesora María I revirtió algunas medidas.",
+      "inicio": 1750,
+      "fim": 1777,
+      "tags": [
+        "brasil",
+        "colonial",
+        "pombal"
+      ],
+      "importancia": "As Reformas Pombalinas foram a mais ambiciosa tentativa de modernização colonial da história portuguesa — e a mais contraditória. Pombal expulsou os jesuítas (1759), que controlavam a educação e a proteção indígena, para liberar mão de obra e centralizar o Estado. Mas a expulsão destruiu o único sistema educacional colonial existente sem substituí-lo, e deixou as populações indígenas das missões sem proteção. As reformas aumentaram a eficiência fiscal mas aprofundaram as contradições que gerariam as revoltas emancipacionistas de 1789-98.",
+      "century_start": 18,
+      "century_end": 18,
+      "region": "Americas",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Pombal dismissed (1777) after Joseph's death, successor Maria I reversed some measures.",
+      "importancia_es": "Pombal destituido (1777) tras muerte de José, sucesora María I revirtió algunas medidas."
+    },
+    {
+      "id": "brct-002",
+      "nome": "Transferência da Capital",
+      "nome_en": "Capital Transfer",
+      "nome_es": "Transferencia de la Capital",
+      "tipo": "evento",
+      "descricao": "Mudança da capital (1763) de Salvador para Rio de Janeiro refletiu deslocamento do eixo econômico. Salvador foi capital por 214 anos (1549-1763) durante apogeu açucareiro nordestino. Descoberta de ouro em Minas Gerais e importância crescente do Sul (contrabando de prata via Colônia do Sacramento, gado) tornaram Rio geograficamente mais central. Rio tinha porto natural excelente, proximidade com Minas Gerais (facilitando escoamento de ouro e fiscalização) e posição estratégica para defesa contra espanhóis no sul. Marquês de Pombal, ministro português, decidiu transferência durante governo de vice-rei Conde da Cunha. Salvador manteve importância econômica (açúcar, tabaco) mas perdeu primazia política. Rio consolidou-se como principal cidade colonial, recebendo melhorias urbanas, fortificações, aqueduto da Carioca. População do Rio ultrapassou Salvador. Mudança antecipou escolha do Rio como capital do Império (1822-1960) e simbolizou integração Sul-Sudeste como núcleo econômico.",
+      "descricao_en": "Capital change (1763) from Salvador to Rio de Janeiro reflected economic axis shift. Salvador was capital for 214 years (1549-1763) during Northeastern sugar apex. Discovery of gold in Minas Gerais and growing Southern importance (silver smuggling via Colônia do Sacramento, cattle) made Rio geographically more central. Rio had excellent natural port, proximity to Minas Gerais (facilitating gold flow and inspection) and strategic position for defense against Spanish in south. Marquis of Pombal, Portuguese minister, decided transfer during viceroy Count of Cunha's government. Salvador maintained economic importance (sugar, tobacco) but lost political primacy. Rio consolidated as main colonial city, receiving urban improvements, fortifications, Carioca aqueduct. Rio population surpassed Salvador. Change anticipated Rio's choice as Imperial capital (1822-1960) and symbolized South-Southeast integration as economic nucleus.",
+      "descricao_es": "Cambio de capital (1763) de Salvador a Río de Janeiro reflejó desplazamiento de eje económico. Salvador fue capital por 214 años (1549-1763) durante apogeo azucarero nordestino. Descubrimiento de oro en Minas Gerais e importancia creciente del Sur (contrabando de plata vía Colonia del Sacramento, ganado) hicieron Río geográficamente más central. Río tenía puerto natural excelente, proximidad con Minas Gerais (facilitando escurrimiento de oro e inspección) y posición estratégica para defensa contra españoles en sur. Marqués de Pombal, ministro portugués, decidió transferencia durante gobierno de virrey Conde da Cunha. Salvador mantuvo importancia económica (azúcar, tabaco) pero perdió primacía política. Río se consolidó como principal ciudad colonial, recibiendo mejoras urbanas, fortificaciones, acueducto da Carioca. Población de Río superó Salvador. Cambio anticipó elección de Río como capital del Imperio (1822-1960) y simbolizó integración Sur-Sudeste como núcleo económico.",
+      "inicio": 1763,
+      "fim": 1763,
+      "tags": [
+        "brasil",
+        "colonial",
+        "capital"
+      ],
+      "importancia": "A transferência da capital de Salvador para o Rio de Janeiro (1763) refletiu a mudança do centro econômico do açúcar nordestino para o ouro mineiro — e antecipou a chegada da Corte em 1808. O Rio tornou-se o nó da rede colonial: porto de escoamento do ouro, entrada de escravizados africanos e centro administrativo. Essa centralidade geográfica e política construída no período colonial explica por que o Rio permaneceu capital até 1960 — e por que sua perda do status de capital gerou ressentimento que ainda ecoa na política carioca.",
+      "century_start": 18,
+      "century_end": 18,
+      "region": "Americas",
+      "type": "economic",
+      "period": "EarlyModern",
+      "importancia_en": "Change anticipated Rio's choice as Imperial capital (1822-1960) and symbolized South-Southeast integration as economic nucleus.",
+      "importancia_es": "Cambio anticipó elección de Río como capital del Imperio (1822-1960) y simbolizó integración Sur-Sudeste como núcleo económico."
+    },
+    {
+      "id": "brct-005",
+      "nome": "Revoltas Coloniais Emancipacionistas",
+      "nome_en": "Emancipationist Colonial Revolts",
+      "nome_es": "Revueltas Coloniales Emancipacionistas",
+      "tipo": "periodo",
+      "descricao": "Movimentos separatistas (1789-1798) influenciados por Iluminismo e independência americana/francesa. Inconfidência Mineira (1789): conspiração de elite mineira (Tiradentes, Cláudio Manuel da Costa, Tomás Antônio Gonzaga, Alvarenga Peixoto) planejando independência de Minas Gerais. Motivações: derrama (cobrança forçada de impostos atrasados), monopólio real, influência iluminista. Traição de Joaquim Silvério dos Reis denunciou conspiração. Líderes presos, Cláudio Manuel morreu na prisão (suicídio ou assassinato), Tiradentes executado e esquartejado (21 abril 1792). Outros degredados para África. Conjuração Baiana/Revolta dos Alfaiates (1798, Salvador): movimento popular incluindo alfaiates, soldados, escravos. Propunham república, abolição da escravidão, igualdade racial. Líderes (João de Deus, Manuel Faustino, Lucas Dantas, Luís Gonzaga) enforcados e esquartejados. Primeira revolta brasileira propondo abolição. Ambas falharam mas alimentaram ideário independentista.",
+      "descricao_en": "Separatist movements (1789-1798) influenced by Enlightenment and American/French independence. Minas Conspiracy (1789): conspiracy of Minas elite (Tiradentes, Cláudio Manuel da Costa, Tomás Antônio Gonzaga, Alvarenga Peixoto) planning Minas Gerais independence. Motivations: derrama (forced collection of overdue taxes), royal monopoly, Enlightenment influence. Betrayal of Joaquim Silvério dos Reis denounced conspiracy. Leaders imprisoned, Cláudio Manuel died in prison (suicide or murder), Tiradentes executed and quartered (April 21, 1792). Others exiled to Africa. Bahian Conspiracy/Tailors' Revolt (1798, Salvador): popular movement including tailors, soldiers, slaves. Proposed republic, slavery abolition, racial equality. Leaders (João de Deus, Manuel Faustino, Lucas Dantas, Luís Gonzaga) hanged and quartered. First Brazilian revolt proposing abolition. Both failed but fed independentist ideals.",
+      "descricao_es": "Movimientos separatistas (1789-1798) influenciados por Ilustración e independencia americana/francesa. Inconfidencia Minera (1789): conspiración de elite minera (Tiradentes, Cláudio Manuel da Costa, Tomás Antônio Gonzaga, Alvarenga Peixoto) planificando independencia de Minas Gerais. Motivaciones: derrama (cobro forzado de impuestos atrasados), monopolio real, influencia ilustrada. Traición de Joaquim Silvério dos Reis denunció conspiración. Líderes presos, Cláudio Manuel murió en prisión (suicidio o asesinato), Tiradentes ejecutado y descuartizado (21 abril 1792). Otros desterrados a África. Conjuración Bahiana/Revuelta de Sastres (1798, Salvador): movimiento popular incluyendo sastres, soldados, esclavos. Propusieron república, abolición de esclavitud, igualdad racial. Líderes (João de Deus, Manuel Faustino, Lucas Dantas, Luís Gonzaga) ahorcados y descuartizados. Primera revuelta brasileña proponiendo abolición. Ambas fracasaron pero alimentaron ideario independentista.",
+      "inicio": 1789,
+      "fim": 1798,
+      "tags": [
+        "brasil",
+        "colonial",
+        "inconfidencia"
+      ],
+      "importancia": "As revoltas coloniais emancipacionistas (Inconfidência Mineira 1789, Conjuração Baiana 1798) mostram o paradoxo da Ilustração nas colônias: as idéias de Locke, Rousseau e Jefferson chegavam via livros contrabandeados e formação dos filhos das elites em Coimbra, mas encontravam uma sociedade escravista onde 'liberdade' significava coisas radicalmente diferentes para brancos proprietários, mulatos livres e escravizados. A repressão violenta demonstrou que Portugal ainda tinha capacidade de controle — mas que a legitimidade imperial estava se erodindo.",
+      "century_start": 18,
+      "century_end": 18,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "First Brazilian revolt proposing abolition. Both failed but fed independentist ideals.",
+      "importancia_es": "Primera revuelta brasileña proponiendo abolición. Ambas fracasaron pero alimentaron ideario independentista."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "brct-001",
+      "destino": "brct-002",
+      "tipo": "causalidade",
+      "descricao": "Ciclo do ouro justificou transferência da capital para o Rio"
+    },
+    {
+      "origem": "brct-004",
+      "destino": "brct-005",
+      "tipo": "evolucao",
+      "descricao": "Revoltas nativistas evoluíram para movimentos emancipacionistas"
+    },
+    {
+      "origem": "brct-003",
+      "destino": "brct-005",
+      "tipo": "causalidade",
+      "descricao": "Reformas pombalinas e tributação geraram insatisfação levando à Inconfidência"
+    }
+  ]
+}

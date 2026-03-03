@@ -1,0 +1,238 @@
+/* ================================================================
+   HERÓDOTO — Tema Manuscrito Histórico
+   Paleta: pergaminho, pigmentos naturais, iluminação de vela
+   ================================================================ */
+
+/* Fontes via HTML <link> — IM Fell English + Crimson Text */
+
+/* ─── Variáveis de pigmentos históricos ─── */
+:root {
+  --perg-claro:   #f6f1e4;
+  --perg-medio:   #e8dfc8;
+  --perg-escuro:  #c8b898;
+  --tinta-pena:   #2a1e0f;
+  --tinta-desbotada: #5a4030;
+  --borda-pergaminho: #b09870;
+  --vermelho-ocre: #8b3a2a;
+  --azul-lapislazuli: #2b4b7e;
+  --dourado-velho: #7a6228;
+
+  --fonte-titulo: 'IM Fell English', 'Palatino Linotype', Palatino, Georgia, serif;
+  --fonte-texto:  'Crimson Text', 'Palatino Linotype', Palatino, Georgia, serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ─── FUNDO GLOBAL: textura de pergaminho com vinheta ─── */
+body {
+  font-family: var(--fonte-texto);
+  color: var(--tinta-pena);
+  overflow: hidden;
+  background-color: #a89070;
+
+  /* Textura base */
+  background-image: url('../assets/pergaminho.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+/* Overlay: escurecimento + vinheta (pseudo-element via wrapper) */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at center, transparent 30%, rgba(15,8,2,0.42) 100%),
+    rgba(15,8,2,0.16);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ─── CABEÇALHO: como faixa de manuscrito iluminado ─── */
+header {
+  position: relative;
+  z-index: 10;
+  background:
+    linear-gradient(180deg, #2a1e0f 0%, #3d2e1a 100%);
+  color: var(--perg-medio);
+  padding: 1rem 2rem;
+  border-bottom: 3px solid var(--dourado-velho);
+  box-shadow: 0 3px 18px rgba(0,0,0,0.55);
+}
+
+header::after {
+  content: '';
+  position: absolute;
+  bottom: -6px;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, var(--borda-pergaminho), transparent);
+}
+
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1800px;
+  margin: 0 auto;
+}
+
+.titulo h1 {
+  font-family: var(--fonte-titulo);
+  font-size: 1.7rem;
+  font-weight: 400;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  color: var(--perg-claro);
+  text-shadow: 0 1px 6px rgba(0,0,0,0.6);
+  margin-bottom: 0.1rem;
+}
+
+.titulo p {
+  font-family: var(--fonte-texto);
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--perg-escuro);
+  opacity: 0.88;
+  letter-spacing: 0.02em;
+}
+
+.controls-top {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.lang-label {
+  font-family: var(--fonte-texto);
+  font-size: 0.85rem;
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  color: var(--perg-escuro);
+}
+
+select {
+  padding: 0.45rem 2rem 0.45rem 0.75rem;
+  border: 1px solid var(--borda-pergaminho);
+  background: rgba(42, 30, 15, 0.55);
+  color: var(--perg-claro);
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 0.88rem;
+  font-family: var(--fonte-texto);
+  font-variant: small-caps;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23c8b898' d='M6 9L1 4h10z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.5rem center;
+  min-width: 120px;
+  letter-spacing: 0.03em;
+}
+
+select:hover {
+  background-color: rgba(42, 30, 15, 0.75);
+  border-color: var(--perg-claro);
+}
+
+select option {
+  background: #2a1e0f;
+  color: var(--perg-claro);
+}
+
+/* ─── LAYOUT PRINCIPAL ─── */
+.container {
+  display: flex;
+  /* dvh = dynamic viewport height (mobile c/ barra retrátil), fallback para --app-height */
+  height: calc(var(--app-height, 100dvh) - 88px);
+  position: relative;
+  z-index: 1;
+}
+
+/* ─── SIDEBAR: índice de manuscrito ─── */
+.sidebar {
+  width: 280px;
+  background: rgba(38, 26, 12, 0.88);
+  padding: 1.2rem 1rem;
+  /* Fita decorativa: border-image não rola com o conteúdo */
+  border-left: 5px solid transparent;
+  border-image: linear-gradient(
+    180deg,
+    var(--dourado-velho)   0%,
+    var(--vermelho-ocre)  35%,
+    var(--dourado-velho)  65%,
+    var(--vermelho-ocre)  85%,
+    var(--dourado-velho) 100%
+  ) 1;
+  border-right: 3px solid var(--borda-pergaminho);
+  overflow-y: auto;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: 3px 0 20px rgba(0,0,0,0.4);
+}
+
+.sidebar h2 {
+  font-family: var(--fonte-titulo);
+  font-size: 1.05rem;
+  font-variant: small-caps;
+  letter-spacing: 0.12em;
+  color: var(--perg-escuro);
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid rgba(184, 152, 112, 0.35);
+  text-align: center;
+  font-weight: 400;
+}
+
+/* ─── ÁREA DO GRAFO: folha de pergaminho aberta ─── */
+.main-content {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: stretch;
+  padding: 16px;
+}
+
+#grafo {
+  width: 100%;
+  height: 100%;
+  background: var(--perg-claro);
+  border-radius: 3px;
+  box-shadow:
+    0 0 0 1px var(--borda-pergaminho),
+    0 4px 40px rgba(0,0,0,0.45),
+    inset 0 0 60px rgba(180,155,110,0.12);
+  position: relative;
+}
+
+/* Scrollbar da sidebar: estilo antiquado */
+.sidebar::-webkit-scrollbar { width: 6px; }
+.sidebar::-webkit-scrollbar-track { background: rgba(0,0,0,0.2); }
+.sidebar::-webkit-scrollbar-thumb {
+  background: var(--borda-pergaminho);
+  border-radius: 1px;
+}
+
+/* ─── RESPONSIVE ─── */
+@media (max-width: 1024px) {
+  .header-inner { flex-direction: column; gap: 0.75rem; text-align: center; }
+}
+
+@media (max-width: 768px) {
+  header { padding: 0.75rem 1rem; }
+  .titulo h1 { font-size: 1.35rem; }
+  .container { flex-direction: column; }
+  .sidebar {
+    width: 100%;
+    max-height: 38vh;
+    border-right: none;
+    border-bottom: 3px solid var(--borda-pergaminho);
+  }
+  .main-content { padding: 8px; }
+}

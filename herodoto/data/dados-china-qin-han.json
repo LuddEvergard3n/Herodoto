@@ -1,0 +1,106 @@
+{
+  "entidades": [
+    {
+      "id": "cqh-001",
+      "nome": "Qin Shi Huang: O Primeiro Imperador",
+      "nome_en": "Qin Shi Huang: The First Emperor",
+      "nome_es": "Qin Shi Huang: El Primer Emperador",
+      "tipo": "periodo",
+      "descricao": "Ying Zheng unificou os Sete Reinos entre 230–221 a.C. e proclamou-se 'Qin Shi Huang' — Primeiro Augusto Imperador Soberano. Padronizou pesos, medidas, eixos de carroça, moeda (meio-dinheiro) e escrita (10.000 caracteres uniformes). Queimou livros e executou ~460 letrados confucionistas (213 a.C.). Construiu núcleo da Grande Muralha (~6.250 km). Exército de Terracota: ~8.000 guerreiros, 130 carros de guerra, 150 cavalos em tamanho natural — descoberto em 1974. Morreu em 210 a.C. aos 49 anos; seu filho perdeu o trono em 206 a.C. — a Qin durou 15 anos.",
+      "descricao_en": "Ying Zheng unified the Seven Kingdoms between 230–221 BC and proclaimed himself 'Qin Shi Huang' — First August Sovereign Emperor. Standardized weights, measures, carriage axles, currency (ban liang) and writing (10,000 uniform characters). Burned books and executed ~460 Confucian scholars (213 BC). Built core of Great Wall (~6,250 km). Terracotta Army: ~8,000 warriors, 130 war chariots, 150 horses in life size — discovered in 1974. Died in 210 BC at 49; his son lost the throne in 206 BC — Qin lasted 15 years.",
+      "descricao_es": "Ying Zheng unificó los Siete Reinos (230–221 a.C.) y se proclamó Primer Augusto Soberano. Estandarizó pesos, medidas, moneda y escritura. Quemó libros y ejecutó ~460 letrados confucionistas. Gran Muralla (~6.250 km). Ejército de Terracota: ~8.000 guerreros, 130 carros, 150 caballos a tamaño natural — descubierto en 1974. El Qin duró 15 años.",
+      "inicio": -221,
+      "fim": -206,
+      "tags": [
+        "qin-shi-huang",
+        "terracota",
+        "grande-muralha",
+        "unificacao"
+      ],
+      "importancia": "Qin Shi Huang unificou a China em 15 anos e criou o modelo de Estado centralizado que durou 2.100 anos — mas sua própria dinastia durou apenas 15 anos após a unificação.",
+      "century_start": -3,
+      "century_end": -3,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "Died in 210 BC at 49; his son lost the throne in 206 BC — Qin lasted 15 years.",
+      "importancia_es": "Ejército de Terracota: ~8.000 guerreros, 130 carros, 150 caballos a tamaño natural — descubierto en 1974."
+    },
+    {
+      "id": "cqh-002",
+      "nome": "Dinastia Han e a Criação da Identidade Chinesa",
+      "nome_en": "Han Dynasty and the Creation of Chinese Identity",
+      "nome_es": "Dinastía Han y la Creación de la Identidad China",
+      "tipo": "periodo",
+      "descricao": "Han (206 a.C.–220 d.C.): 426 anos — dinastia que deu o nome ao povo 'Han' (92% da China hoje). Liu Bang (fundador): camponês que venceu a aristocracia. Confucionismo como ideologia oficial de Estado: funcionários precisavam conhecer os Clássicos. Exame imperial: único sistema meritocrático da Antiguidade. Zhang Qian (139 a.C.): abriu a Rota da Seda até a Ásia Central — conectou Roma à China. Papel inventado por Cai Lun (105 d.C.). Ban Zhao: primeira historiadora da China. Crise e queda: corrupção das famílias nobres, eunucos, rebelião dos Turbantes Amarelos (184 d.C.).",
+      "descricao_en": "Han (206 BC–220 AD): 426 years — dynasty that gave its name to the 'Han' people (92% of China today). Liu Bang (founder): peasant who defeated the aristocracy. Confucianism as official state ideology: officials needed to know the Classics. Imperial exam: only meritocratic system in Antiquity. Zhang Qian (139 BC): opened the Silk Road to Central Asia — connected Rome to China. Paper invented by Cai Lun (105 AD). Ban Zhao: China's first female historian. Crisis and fall: corruption of noble families, eunuchs, Yellow Turban Rebellion (184 AD).",
+      "descricao_es": "Han (206 a.C.–220 d.C.): 426 años. Liu Bang: campesino que venció a la aristocracia. Confucianismo como ideología oficial. Examen imperial: único sistema meritocrático de la Antigüedad. Rota da Seda inaugurada por Zhang Qian (139 a.C.). Papel inventado por Cai Lun (105 d.C.). Caída: corrupción, Rebelión de los Turbantes Amarillos (184 d.C.).",
+      "inicio": -206,
+      "fim": 220,
+      "tags": [
+        "han",
+        "rota-seda",
+        "papel",
+        "exame-imperial",
+        "ban-zhao"
+      ],
+      "importancia": "O Exame Imperial Han — única meritocracia da Antiguidade — foi o primeiro sistema de recrutamento por competência intelectual, não por nascimento.",
+      "century_start": -3,
+      "century_end": 3,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "Crisis and fall: corruption of noble families, eunuchs, Yellow Turban Rebellion (184 AD).",
+      "importancia_es": "Caída: corrupción, Rebelión de los Turbantes Amarillos (184 d.C.)."
+    },
+    {
+      "id": "cqh-003",
+      "nome": "Rota da Seda: Comércio, Doenças e Religiões",
+      "nome_en": "Silk Road: Trade, Diseases and Religions",
+      "nome_es": "Ruta de la Seda: Comercio, Enfermedades y Religiones",
+      "tipo": "periodo",
+      "descricao": "Rota da Seda (~130 a.C.–1453 d.C.): rede de rotas terrestres e marítimas conectando China, Índia, Ásia Central, Pérsia, Arábia e Mediterrâneo. Não apenas seda: papel, pólvora, porcelana (leste→oeste); algodão, especiarias, vidro, cavalos ferganenses (oeste→leste). Transmissão de religiões: budismo chegou à China (~60 d.C.), islamismo à Ásia Central (séc. VIII). Pragas: a Peste de Antonino (~165 d.C.) e a Morte Negra (1347) viajaram pela Rota. Cidades-oásis: Samarkand, Bukhara, Kashgar — centros cosmopolitas. Fechada pela queda de Constantinopla (1453) e expansão mongola-timurida.",
+      "descricao_en": "Silk Road (~130 BC–1453 AD): network of land and sea routes connecting China, India, Central Asia, Persia, Arabia and the Mediterranean. Not just silk: paper, gunpowder, porcelain (east→west); cotton, spices, glass, Ferghana horses (west→east). Transmission of religions: Buddhism reached China (~60 AD), Islam to Central Asia (8th c.). Plagues: Antonine Plague (~165 AD) and Black Death (1347) traveled the Route. Oasis cities: Samarkand, Bukhara, Kashgar — cosmopolitan centers. Closed by fall of Constantinople (1453) and Mongol-Timurid expansion.",
+      "descricao_es": "Ruta de la Seda (~130 a.C.–1453 d.C.): red de rutas terrestres y marítimas. Transmisión de religiones: el budismo llegó a China (~60 d.C.), el islam a Asia Central (siglo VIII). Las plagas (Antonina ~165 d.C. y la Muerte Negra 1347) viajaron por la Ruta. Ciudades-oasis: Samarcanda, Bujará, Kashgar.",
+      "inicio": -130,
+      "fim": 1453,
+      "tags": [
+        "rota-seda",
+        "samarkand",
+        "comercio",
+        "buddhismo-china"
+      ],
+      "importancia": "A Rota da Seda transportou não só mercadorias — mas religiões, pragas, tecnologias e ideias que definiram o mundo medieval.",
+      "century_start": -2,
+      "century_end": 15,
+      "region": "EastAsia",
+      "type": "economic",
+      "period": "Ancient",
+      "importancia_en": "Closed by fall of Constantinople (1453) and Mongol-Timurid expansion.",
+      "importancia_es": "y la Muerte Negra 1347) viajaron por la Ruta. Ciudades-oasis: Samarcanda, Bujará, Kashgar."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "cqh-001",
+      "destino": "cqh-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A unificação Qin criou o Estado que a Han herdou e transformou em civilização duradoura"
+    },
+    {
+      "origem": "cqh-002",
+      "destino": "cqh-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A Han inaugurou a Rota da Seda que conectou a China ao mundo por 1.500 anos"
+    },
+    {
+      "origem": "cn-004",
+      "destino": "cq-qin-001",
+      "tipo": "evolucao",
+      "intensidade": 0.9,
+      "descricao": "Período dos Reinos Combatentes culmina na unificação Qin"
+    }
+  ]
+}

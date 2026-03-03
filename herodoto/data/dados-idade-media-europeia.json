@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "fonte": "Compilado - História Medieval",
+    "lingua": "pt",
+    "tema": "Idade Média Europeia",
+    "periodo": "500-1500"
+  },
+  "entidades": [
+    {
+      "id": "medieval-001",
+      "nome": "Alta Idade Média",
+      "nome_en": "Early Middle Ages",
+      "nome_es": "Alta Edad Media",
+      "tipo": "periodo",
+      "descricao": "Período (500-1000 d.C.) de transição entre Antiguidade e mundo medieval. Reinos germânicos (francos, visigodos, lombardos, anglo-saxões) estabeleceram-se sobre ruínas romanas mantendo estruturas administrativas e adotando cristianismo. População europeia declinou para ~25 milhões. Economia ruralizada baseada em agricultura de subsistência. Comércio de longa distância reduziu-se drasticamente. Igreja Católica tornou-se instituição mais estável, preservando alfabetização e cultura latina através de monastérios beneditinos. Bizâncio preservou herança greco-romana no Oriente. Islã emergiu (622) conquistando Oriente Médio, norte da África e Hispânia. Carolíngios unificaram Europa Ocidental temporariamente. Período marcado por invasões vikings, magiares e sarracenas que desestabilizaram regiões costeiras.",
+      "descricao_en": "Period (500-1000 AD) of transition between Antiquity and medieval world. Germanic kingdoms (Franks, Visigoths, Lombards, Anglo-Saxons) established themselves over Roman ruins maintaining administrative structures and adopting Christianity. European population declined to ~25 million. Ruralized economy based on subsistence agriculture. Long-distance trade drastically reduced. Catholic Church became most stable institution, preserving literacy and Latin culture through Benedictine monasteries. Byzantium preserved Greco-Roman heritage in East. Islam emerged (622) conquering Middle East, North Africa and Hispania. Carolingians temporarily unified Western Europe. Period marked by Viking, Magyar and Saracen invasions destabilizing coastal regions.",
+      "descricao_es": "Período (500-1000 d.C.) de transición entre Antigüedad y mundo medieval. Reinos germánicos (francos, visigodos, lombardos, anglosajones) se establecieron sobre ruinas romanas manteniendo estructuras administrativas y adoptando cristianismo. Población europea declinó a ~25 millones. Economía ruralizada basada en agricultura de subsistencia. Comercio de larga distancia se redujo drásticamente. Iglesia Católica se convirtió en institución más estable, preservando alfabetización y cultura latina a través de monasterios benedictinos. Bizancio preservó herencia greco-romana en Oriente. Islam emergió (622) conquistando Medio Oriente, norte de África e Hispania. Carolingios unificaron temporalmente Europa Occidental. Período marcado por invasiones vikingas, magiares y sarracenas desestabilizando regiones costeras.",
+      "inicio": 500,
+      "fim": 1000,
+      "tags": [
+        "idade_media",
+        "alta",
+        "germanos"
+      ],
+      "importancia": "A Alta Idade Média (476-1000) não foi a 'Idade das Trevas' que o Renascimento propagandeou — foi um período de transformação cultural criativa. As ilhas celtas (Irlanda, especialmente) preservaram a cultura clássica quando o continente estava fragmentado. O Islão preservou e expandiu o conhecimento grego. Os mosteiros beneditinos criaram a rede de alfabetização e preservação de manuscritos que manteve a tradição intelectual viva. A Alta Idade Média foi escura apenas para quem procurava o modelo da Antiguidade — ela estava construindo algo diferente.",
+      "century_start": 5,
+      "century_end": 10,
+      "region": "Multiple",
+      "type": "religious",
+      "period": "Medieval",
+      "importancia_en": "Period marked by Viking, Magyar and Saracen invasions destabilizing coastal regions.",
+      "importancia_es": "Período marcado por invasiones vikingas, magiares y sarracenas desestabilizando regiones costeras."
+    },
+    {
+      "id": "medieval-002",
+      "nome": "Império Carolíngio",
+      "nome_en": "Carolingian Empire",
+      "nome_es": "Imperio Carolingio",
+      "tipo": "periodo",
+      "descricao": "Estado franco (751-888 d.C.) fundado por Pepino, o Breve, atingindo apogeu sob Carlos Magno (768-814). Carlos conquistou território do Elba aos Pirineus, sendo coroado Imperador dos Romanos pelo Papa Leão III (800), restaurando simbolicamente império ocidental. Reformas administrativas dividiram território em condados supervisionados por missi dominici. Renascimento Carolíngio revitalizou educação, arte e arquitetura: escola palatina de Aachen (Alcuíno de York), escrita carolina minúscula padronizou manuscritos, cópias de textos clássicos preservaram literatura. Exército baseado em cavalaria pesada sustentada por sistema de benefícios. Tratado de Verdun (843) dividiu império entre netos de Carlos Magno, fragmentando-o permanentemente em França, Germânia e Lotaríngia. Legado: conceito de Europa cristã unificada.",
+      "descricao_en": "Frankish state (751-888 AD) founded by Pepin the Short, reaching apex under Charlemagne (768-814). Charlemagne conquered territory from Elba to Pyrenees, being crowned Emperor of Romans by Pope Leo III (800), symbolically restoring Western empire. Administrative reforms divided territory into counties supervised by missi dominici. Carolingian Renaissance revitalized education, art and architecture: palace school of Aachen (Alcuin of York), Carolingian minuscule standardized manuscripts, classical text copies preserved literature. Army based on heavy cavalry sustained by benefice system. Treaty of Verdun (843) divided empire among Charlemagne's grandsons, permanently fragmenting it into France, Germany and Lotharingia. Legacy: concept of unified Christian Europe.",
+      "descricao_es": "Estado franco (751-888 d.C.) fundado por Pipino el Breve, alcanzando apogeo bajo Carlomagno (768-814). Carlomagno conquistó territorio del Elba a Pirineos, siendo coronado Emperador de Romanos por Papa León III (800), restaurando simbólicamente imperio occidental. Reformas administrativas dividieron territorio en condados supervisados por missi dominici. Renacimiento Carolingio revitalizó educación, arte y arquitectura: escuela palatina de Aquisgrán (Alcuino de York), escritura carolina minúscula estandarizó manuscritos, copias de textos clásicos preservaron literatura. Ejército basado en caballería pesada sostenida por sistema de beneficios. Tratado de Verdún (843) dividió imperio entre nietos de Carlomagno, fragmentándolo permanentemente en Francia, Germania y Lotaringia. Legado: concepto de Europa cristiana unificada.",
+      "inicio": 751,
+      "fim": 888,
+      "tags": [
+        "idade_media",
+        "carolingio",
+        "carlos_magno"
+      ],
+      "importancia": "O Império Carolíngio foi o primeiro grande projeto de reconstrução europeia após o colapso romano — e durou menos que um século como entidade unificada. Mas o que criou foi duradouro: a ideia de 'Europa' como projeto político-cultural cristão, o modelo de aliança entre poder temporal e poder eclesiástico, e o 'Renascimento Carolíngio' de padronização da escrita (minúscula carolíngia), educação e latinidade. A divisão do Império pelos netos de Carlos Magno (Tratado de Verdun, 843) criou os contornos da França e Alemanha modernas.",
+      "century_start": 8,
+      "century_end": 9,
+      "region": "Multiple",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Treaty of Verdun (843) divided empire among Charlemagne's grandsons, permanently fragmenting it into France, Germany and Lotharingia. Legacy: concept of unified Christian Europe.",
+      "importancia_es": "Tratado de Verdún (843) dividió imperio entre nietos de Carlomagno, fragmentándolo permanentemente en Francia, Germania y Lotaringia. Legado: concepto de Europa cristiana unificada."
+    },
+    {
+      "id": "medieval-003",
+      "nome": "Feudalismo",
+      "nome_en": "Feudalism",
+      "nome_es": "Feudalismo",
+      "tipo": "periodo",
+      "descricao": "Sistema socioeconômico europeu (900-1300 d.C.) baseado em relações pessoais de vassalagem e posse descentralizada de terra (feudos). Estrutura piramidal: rei → senhores → vassalos → servos. Senhores feudais (nobres, bispos) controlavam castelos fortificados e justiça local, oferecendo proteção militar em troca de serviço militar (40 dias/ano) e rendas agrícolas. Servos (90% população) cultivavam terra senhorial sem liberdade de movimento, pagando corveia (trabalho obrigatório), talha (parte da produção) e banalidades (uso de moinho, forno). Igreja possuía ~1/3 das terras cobrando dízimo (10% produção). Economia baseada em autossuficiência de vilas (manors). Cavalaria desenvolveu código de honra (cavalaria cortês). Sistema enfraqueceu com renascimento comercial urbano, Peste Negra (1347-1353) e centralização monárquica.",
+      "descricao_en": "European socioeconomic system (900-1300 AD) based on personal relationships of vassalage and decentralized land ownership (fiefs). Pyramidal structure: king → lords → vassals → serfs. Feudal lords (nobles, bishops) controlled fortified castles and local justice, offering military protection in exchange for military service (40 days/year) and agricultural rents. Serfs (90% population) cultivated lord's land without freedom of movement, paying corvée (forced labor), tallage (part of production) and banalities (mill, oven use). Church owned ~1/3 of lands collecting tithe (10% production). Economy based on manor self-sufficiency. Chivalry developed honor code (courtly love). System weakened with urban commercial renaissance, Black Death (1347-1353) and monarchical centralization.",
+      "descricao_es": "Sistema socioeconómico europeo (900-1300 d.C.) basado en relaciones personales de vasallaje y posesión descentralizada de tierra (feudos). Estructura piramidal: rey → señores → vasallos → siervos. Señores feudales (nobles, obispos) controlaban castillos fortificados y justicia local, ofreciendo protección militar a cambio de servicio militar (40 días/año) y rentas agrícolas. Siervos (90% población) cultivaban tierra señorial sin libertad de movimiento, pagando corvea (trabajo obligatorio), talla (parte de producción) y banalidades (uso de molino, horno). Iglesia poseía ~1/3 de tierras cobrando diezmo (10% producción). Economía basada en autosuficiencia de villas (señoríos). Caballería desarrolló código de honor (amor cortés). Sistema se debilitó con renacimiento comercial urbano, Peste Negra (1347-1353) y centralización monárquica.",
+      "inicio": 900,
+      "fim": 1300,
+      "tags": [
+        "idade_media",
+        "feudalismo",
+        "vassalagem"
+      ],
+      "importancia": "O feudalismo não foi um sistema jurídico codificado — foi uma série de acordos locais entre senhores e vassalos que nunca teve coerência pan-europeia. Mas como modelo de organização social baseado em obrigações pessoais hierárquicas e posse condicional de terra, moldou toda a política medieval. A questão das 'investiduras' — quem nomeia bispos e abades, o papa ou o rei? — foi o conflito central da política medieval europeia por 300 anos. A solução (Concordata de Worms, 1122) criou a distinção entre poder temporal e espiritual que ainda estrutura o Ocidente.",
+      "century_start": 9,
+      "century_end": 13,
+      "region": "Multiple",
+      "type": "religious",
+      "period": "Medieval",
+      "importancia_en": "System weakened with urban commercial renaissance, Black Death (1347-1353) and monarchical centralization.",
+      "importancia_es": "Sistema se debilitó con renacimiento comercial urbano, Peste Negra (1347-1353) y centralización monárquica."
+    },
+    {
+      "id": "medieval-005",
+      "nome": "Renascimento Comercial",
+      "nome_en": "Commercial Renaissance",
+      "nome_es": "Renacimiento Comercial",
+      "tipo": "periodo",
+      "descricao": "Revitalização econômica europeia (1000-1300) com expansão demográfica (~35→80 milhões), agrícola e comercial. Inovações técnicas: arado pesado, rotação trienal, moinho hidráulico aumentaram produtividade. Excedente alimentar permitiu crescimento urbano: cidades italianas (Veneza, Gênova, Florença, Milão) tornaram-se centros comerciais com 50.000-100.000 habitantes. Feiras de Champagne integraram comércio norte-sul europeu. Guildas (corporações de ofício) regulamentavam produção artesanal. Bancos italianos (Medici, Bardi) desenvolveram letras de câmbio, contabilidade de partida dobrada e crédito. Liga Hanseática dominou comércio Báltico. Burguesia mercantil emergiu desafiando hierarquia feudal. Universidades fundadas (Bolonha 1088, Paris 1150, Oxford 1167) ensinavam direito, teologia, medicina. Gótico arquitetônico (Notre-Dame, Chartres) expressou riqueza urbana.",
+      "descricao_en": "European economic revitalization (1000-1300) with demographic (~35→80 million), agricultural and commercial expansion. Technical innovations: heavy plow, three-field rotation, water mill increased productivity. Food surplus enabled urban growth: Italian cities (Venice, Genoa, Florence, Milan) became commercial centers with 50,000-100,000 inhabitants. Champagne fairs integrated north-south European trade. Guilds regulated craft production. Italian banks (Medici, Bardi) developed bills of exchange, double-entry bookkeeping and credit. Hanseatic League dominated Baltic trade. Merchant bourgeoisie emerged challenging feudal hierarchy. Universities founded (Bologna 1088, Paris 1150, Oxford 1167) teaching law, theology, medicine. Gothic architecture (Notre-Dame, Chartres) expressed urban wealth.",
+      "descricao_es": "Revitalización económica europea (1000-1300) con expansión demográfica (~35→80 millones), agrícola y comercial. Innovaciones técnicas: arado pesado, rotación trienal, molino hidráulico aumentaron productividad. Excedente alimentario permitió crecimiento urbano: ciudades italianas (Venecia, Génova, Florencia, Milán) se convirtieron en centros comerciales con 50.000-100.000 habitantes. Ferias de Champaña integraron comercio norte-sur europeo. Gremios regulaban producción artesanal. Bancos italianos (Medici, Bardi) desarrollaron letras de cambio, contabilidad de partida doble y crédito. Liga Hanseática dominó comercio Báltico. Burguesía mercantil emergió desafiando jerarquía feudal. Universidades fundadas (Bolonia 1088, París 1150, Oxford 1167) enseñando derecho, teología, medicina. Gótico arquitectónico (Notre-Dame, Chartres) expresó riqueza urbana.",
+      "inicio": 1000,
+      "fim": 1300,
+      "tags": [
+        "idade_media",
+        "comercio",
+        "cidades"
+      ],
+      "importancia": "A Revolução Comercial dos séculos XI-XIII foi a pré-condição econômica do Renascimento: cidades crescendo, burgos comerciais com autonomia jurídica (comunas), feiras internacionais (Champagne), letras de câmbio, seguros marítimos e o Banco de Veneza. Os mercadores que financiaram as Cruzadas descobriram que os lucros estavam no comércio, não na conquista. A classe burguesa que emergiu desse processo — com seus valores de contrato, cálculo e lucro — foi o fermento cultural que produziu o Renascimento.",
+      "century_start": 10,
+      "century_end": 13,
+      "region": "Multiple",
+      "type": "cultural",
+      "period": "Medieval",
+      "importancia_en": "Gothic architecture (Notre-Dame, Chartres) expressed urban wealth.",
+      "importancia_es": "Gótico arquitectónico (Notre-Dame, Chartres) expresó riqueza urbana."
+    },
+    {
+      "id": "medieval-004",
+      "nome": "Cruzadas",
+      "nome_en": "Crusades",
+      "nome_es": "Cruzadas",
+      "tipo": "periodo",
+      "descricao": "Expedições militares cristãs (1095-1291) para reconquistar Terra Santa do domínio muçulmano. Papa Urbano II convocou Primeira Cruzada (1095) prometendo indulgências e terras. Cruzados estabeleceram Estados Latinos (Reino de Jerusalém, Antioquia, Edessa, Trípoli) durando 1099-1291. Oito cruzadas principais: 1ª (1096-1099) capturou Jerusalém; 3ª (1189-1192) Ricardo Coração de Leão vs. Saladino; 4ª (1202-1204) desviou-se para saquear Constantinopla cristã. Ordens militares (Templários, Hospitalários, Teutônicos) combinaram monasticismo e guerra. Consequências: intensificou comércio mediterrâneo (Veneza, Gênova), introduziu conhecimento árabe na Europa (Aristóteles, álgebra, bússola), aprofundou cisma católico-ortodoxo (1204), expandiu poder papal. Queda de Acre (1291) encerrou presença cruzada no Levante. Estimativa: 1-3 milhões de mortes.",
+      "descricao_en": "Christian military expeditions (1095-1291) to reconquer Holy Land from Muslim rule. Pope Urban II called First Crusade (1095) promising indulgences and lands. Crusaders established Latin States (Kingdom of Jerusalem, Antioch, Edessa, Tripoli) lasting 1099-1291. Eight major crusades: 1st (1096-1099) captured Jerusalem; 3rd (1189-1192) Richard Lionheart vs. Saladin; 4th (1202-1204) diverted to sack Christian Constantinople. Military orders (Templars, Hospitallers, Teutonics) combined monasticism and warfare. Consequences: intensified Mediterranean trade (Venice, Genoa), introduced Arab knowledge to Europe (Aristotle, algebra, compass), deepened Catholic-Orthodox schism (1204), expanded papal power. Fall of Acre (1291) ended crusader presence in Levant. Estimate: 1-3 million deaths.",
+      "descricao_es": "Expediciones militares cristianas (1095-1291) para reconquistar Tierra Santa del dominio musulmán. Papa Urbano II convocó Primera Cruzada (1095) prometiendo indulgencias y tierras. Cruzados establecieron Estados Latinos (Reino de Jerusalén, Antioquía, Edesa, Trípoli) durando 1099-1291. Ocho cruzadas principales: 1ª (1096-1099) capturó Jerusalén; 3ª (1189-1192) Ricardo Corazón de León vs. Saladino; 4ª (1202-1204) se desvió para saquear Constantinopla cristiana. Órdenes militares (Templarios, Hospitalarios, Teutónicos) combinaron monasticismo y guerra. Consecuencias: intensificó comercio mediterráneo (Venecia, Génova), introdujo conocimiento árabe en Europa (Aristóteles, álgebra, brújula), profundizó cisma católico-ortodoxo (1204), expandió poder papal. Caída de Acre (1291) terminó presencia cruzada en Levante. Estimación: 1-3 millones de muertes.",
+      "inicio": 1095,
+      "fim": 1291,
+      "tags": [
+        "idade_media",
+        "cruzadas",
+        "jerusalem"
+      ],
+      "importancia": "As Cruzadas (1095-1291) foram simultaneamente guerra de fé, expansão econômica, aventureirismo feudal e criador de estados. Os Estados Cruzados do Levante (Jerusalém, Trípoli, Antioquia, Edessa) foram laboratórios de convivência forçada entre culturas — e de brutalidade. O saque de Constantinopla em 1204 pela Quarta Cruzada destruiu o Império Cristão mais rico do mundo em nome de salvar o Cristianismo. Nenhum evento danificou mais a imagem do Ocidente cristão no Oriente cristão — e o dano persiste.",
+      "century_start": 11,
+      "century_end": 13,
+      "region": "Multiple",
+      "type": "religious",
+      "period": "Medieval",
+      "importancia_en": "Consequences: intensified Mediterranean trade (Venice, Genoa), introduced Arab knowledge to Europe (Aristotle, algebra, compass), deepened Catholic-Orthodox schism (1204), expanded papal power. Fall of Acre (1291) ended crusader presence in Levant.",
+      "importancia_es": "Caída de Acre (1291) terminó presencia cruzada en Levante. Estimación: 1-3 millones de muertes."
+    },
+    {
+      "id": "medieval-006",
+      "nome": "Crise do Século XIV",
+      "nome_en": "Crisis of the 14th Century",
+      "nome_es": "Crisis del Siglo XIV",
+      "tipo": "periodo",
+      "descricao": "Colapso demográfico e econômico (1300-1400) que encerrou prosperidade medieval. Peste Negra (1347-1353) matou 30-60% da população europeia (~25-50 milhões), chegando via rotas comerciais da Ásia. Fome de 1315-1317 precedeu peste devastando colheitas. Guerra dos Cem Anos (1337-1453) entre França e Inglaterra destruiu campo francês. Revoltas populares (Jacquerie francesa 1358, Revolta Camponesa inglesa 1381) contestaram ordem feudal. Grande Cisma do Ocidente (1378-1417) dividiu Igreja com papas rivais em Roma e Avignon. Declínio populacional reduziu mão-de-obra aumentando salários reais dos sobreviventes e enfraquecendo servidão. Bancos italianos faliram (Bardi, Peruzzi 1340s). Crise acelerou transição do feudalismo para economia monetária e Estados centralizados. Consequência: Renascimento e Modernidade.",
+      "descricao_en": "Demographic and economic collapse (1300-1400) ending medieval prosperity. Black Death (1347-1353) killed 30-60% of European population (~25-50 million), arriving via Asian trade routes. Great Famine 1315-1317 preceded plague devastating harvests. Hundred Years' War (1337-1453) between France and England destroyed French countryside. Popular revolts (French Jacquerie 1358, English Peasants' Revolt 1381) contested feudal order. Western Schism (1378-1417) divided Church with rival popes in Rome and Avignon. Population decline reduced labor force increasing real wages of survivors and weakening serfdom. Italian banks collapsed (Bardi, Peruzzi 1340s). Crisis accelerated transition from feudalism to monetary economy and centralized states. Consequence: Renaissance and Modernity.",
+      "descricao_es": "Colapso demográfico y económico (1300-1400) terminando prosperidad medieval. Peste Negra (1347-1353) mató 30-60% de población europea (~25-50 millones), llegando vía rutas comerciales de Asia. Hambruna de 1315-1317 precedió peste devastando cosechas. Guerra de Cien Años (1337-1453) entre Francia e Inglaterra destruyó campo francés. Revueltas populares (Jacquerie francesa 1358, Revuelta Campesina inglesa 1381) contestaron orden feudal. Gran Cisma de Occidente (1378-1417) dividió Iglesia con papas rivales en Roma y Aviñón. Declive poblacional redujo mano de obra aumentando salarios reales de sobrevivientes y debilitando servidumbre. Bancos italianos quebraron (Bardi, Peruzzi 1340s). Crisis aceleró transición del feudalismo a economía monetaria y Estados centralizados. Consecuencia: Renacimiento y Modernidad.",
+      "inicio": 1300,
+      "fim": 1400,
+      "tags": [
+        "idade_media",
+        "crise",
+        "peste_negra"
+      ],
+      "importancia": "A Crise do Século XIV concentrou catástrofes sem precedente: Peste Negra (1/3 da Europa morta, 1347-53), Grande Fome (1315-22), Guerra dos Cem Anos (1337-1453), o Cisma do Papado (dois papas simultâneos, 1378-1417). A densidade de colapso foi tão extrema que os medievalistas debatem se o século XIV foi 'crise do feudalismo' ou 'fim da Idade Média'. A escassez pós-Peste empoderou camponeses (trabalho ficou caro), acelerou mecanização e gerou as condições sociais que permitiram as reformas religiosas do século XVI.",
+      "century_start": 13,
+      "century_end": 14,
+      "region": "Multiple",
+      "type": "religious",
+      "period": "Medieval",
+      "importancia_en": "Crisis accelerated transition from feudalism to monetary economy and centralized states. Consequence: Renaissance and Modernity.",
+      "importancia_es": "Crisis aceleró transición del feudalismo a economía monetaria y Estados centralizados. Consecuencia: Renacimiento y Modernidad."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "medieval-001",
+      "destino": "medieval-002",
+      "tipo": "evolucao",
+      "descricao": "Fragmentação pós-romana levou à unificação carolíngia"
+    },
+    {
+      "origem": "medieval-002",
+      "destino": "medieval-003",
+      "tipo": "causalidade",
+      "descricao": "Dissolução império carolíngio intensificou descentralização feudal"
+    },
+    {
+      "origem": "medieval-003",
+      "destino": "medieval-004",
+      "tipo": "causalidade",
+      "descricao": "Sistema feudal forneceu cavaleiros para Cruzadas"
+    },
+    {
+      "origem": "medieval-003",
+      "destino": "medieval-005",
+      "tipo": "evolucao",
+      "descricao": "Excedente feudal permitiu renascimento comercial urbano"
+    },
+    {
+      "origem": "medieval-005",
+      "destino": "medieval-006",
+      "tipo": "evolucao",
+      "descricao": "Prosperidade comercial criou rotas que trouxeram Peste Negra"
+    }
+  ]
+}

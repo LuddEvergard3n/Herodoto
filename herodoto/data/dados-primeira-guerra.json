@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "fonte": "Compilado",
+    "lingua": "pt",
+    "tema": "Primeira Guerra Mundial",
+    "periodo": "1914-1918"
+  },
+  "entidades": [
+    {
+      "id": "pgm-001",
+      "nome": "Primeira Guerra Mundial",
+      "nome_en": "World War I",
+      "nome_es": "Primera Guerra Mundial",
+      "tipo": "conflito",
+      "descricao": "Conflito global (1914-1918) entre Tríplice Entente (França, Reino Unido, Rússia, depois EUA) e Potências Centrais (Alemanha, Áustria-Hungria, Império Otomano). Matou 17 milhões, destruiu impérios e redefiniu ordem mundial.",
+      "inicio": 1914,
+      "fim": 1918,
+      "tags": [
+        "guerra_mundial",
+        "conflito"
+      ],
+      "importancia": "A WWI foi o colapso do longo século XIX de paz relativa e certeza na ordem estabelecida. Destruiu quatro impérios (Russo, Austro-Húngaro, Otomano, Alemão), matou 17–20 milhões e deixou 21 milhões de feridos. Mais do que as batalhas, foi a primeira guerra industrial total: gases tóxicos, aviões de combate, tanques, rádio. O modo como terminou — Versalhes humilhando a Alemanha sem destruí-la — plantou as sementes do nazismo e da Segunda Guerra em apenas 20 anos.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "[World War I] Primeira guerra total industrializada, catástrofe que preparou Segunda Guerra Mundial.",
+      "importancia_es": "[Primera Guerra Mundial] Primeira guerra total industrializada, catástrofe que preparou Segunda Guerra Mundial.",
+      "descricao_en": "Conflito global (1914-1918) entre Tríplice Entente (França, Reino Unido, Rússia, depois EUA) e Potências Centrais (Alemanha, Áustria-Hungria, Império Otomano). Matou 17 milhões, destruiu impérios e redefiniu ordem mundial.",
+      "descricao_es": "Conflito global (1914-1918) entre Tríplice Entente (França, Reino Unido, Rússia, depois EUA) e Potências Centrais (Alemanha, Áustria-Hungria, Império Otomano). Matou 17 milhões, destruiu impérios e redefiniu ordem mundial."
+    },
+    {
+      "id": "pgm-002",
+      "nome": "Assassinato de Franz Ferdinand",
+      "nome_en": "Assassination of Franz Ferdinand",
+      "nome_es": "Asesinato de Franz Ferdinand",
+      "tipo": "evento",
+      "descricao": "Arquiduque austro-húngaro herdeiro do trono assassinado em Sarajevo (28 junho 1914) por Gavrilo Princip, nacionalista sérvio. Estopim que ativou sistema de alianças europeias.",
+      "inicio": 1914,
+      "fim": 1914,
+      "tags": [
+        "guerra_mundial"
+      ],
+      "importancia": "O assassinato de Franz Ferdinand foi o gatilho, não a causa. Causa foi o sistema de alianças rígidas que transformou uma crise regional balcânica em conflagração continental em 37 dias. A 'catástrofe não intencional' — nenhuma grande potência queria realmente uma guerra mundial — mostrou como sistemas complexos de compromissos mútuos podem arrastar nações para conflitos que nenhuma delas planejou. O historiador Christopher Clark chamou os líderes europeus de 'sonâmbulos' — marchando para o abismo sem vê-lo.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "[Assassination of Franz Ferdinand] Evento que desencadeou guerra generalizada através de alianças e mobilizações.",
+      "importancia_es": "[Asesinato de Franz Ferdinand] Evento que desencadeou guerra generalizada através de alianças e mobilizações.",
+      "descricao_en": "Arquiduque austro-húngaro herdeiro do trono assassinado em Sarajevo (28 junho 1914) por Gavrilo Princip, nacionalista sérvio. Estopim que ativou sistema de alianças europeias.",
+      "descricao_es": "Arquiduque austro-húngaro herdeiro do trono assassinado em Sarajevo (28 junho 1914) por Gavrilo Princip, nacionalista sérvio. Estopim que ativou sistema de alianças europeias."
+    },
+    {
+      "id": "pgm-003",
+      "nome": "Guerra de Trincheiras",
+      "nome_en": "Trench Warfare",
+      "nome_es": "Guerra de Trincheras",
+      "tipo": "conceito",
+      "descricao": "Combate estático em trincheiras fortificadas na Frente Ocidental (1914-1918). Avanços mínimos custavam milhares de vidas, caracterizando impasse sangrento.",
+      "inicio": 1914,
+      "fim": 1918,
+      "tags": [
+        "guerra_mundial",
+        "estrategia"
+      ],
+      "importancia": "A Guerra de Trincheiras foi o símbolo definitivo da dissonância entre tecnologia ofensiva e defensiva. A metralhadora tornava qualquer ataque frontal suicida, mas os generais continuavam ordenando cargas em campo aberto. O resultado: 70 km de trincheiras da Bélgica à Suíça, ratos, lama, piolhos, gás mostarda e milhões de mortos por metros de terra. A experiência das trincheiras destruiu a fé na guerra como glória — e na autoridade que a ordenava.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "technological",
+      "period": "Modern",
+      "importancia_en": "[Trench Warfare] Símbolo do horror da guerra moderna industrializada com baixas massivas.",
+      "importancia_es": "[Guerra de Trincheras] Símbolo do horror da guerra moderna industrializada com baixas massivas.",
+      "descricao_en": "Combate estático em trincheiras fortificadas na Frente Ocidental (1914-1918). Avanços mínimos custavam milhares de vidas, caracterizando impasse sangrento.",
+      "descricao_es": "Combate estático em trincheiras fortificadas na Frente Ocidental (1914-1918). Avanços mínimos custavam milhares de vidas, caracterizando impasse sangrento."
+    },
+    {
+      "id": "pgm-012",
+      "nome": "Armas Químicas",
+      "nome_en": "Chemical Weapons",
+      "nome_es": "Armas Químicas",
+      "tipo": "conceito",
+      "descricao": "Uso massivo de gás cloro (1915), fosgênio e gás mostarda causando mortes horríveis e trauma psicológico permanente. Alemães iniciaram em Ypres.",
+      "inicio": 1915,
+      "fim": 1918,
+      "tags": [
+        "guerra_mundial",
+        "tecnologia"
+      ],
+      "importancia": "O uso de armas químicas na WWI (gás cloro, fosgênio, gás mostarda) foi tão traumatizante que a Convenção de Genebra de 1925 as proibiu — um dos primeiros tratados de armas em massa da história. O gás mostarda em particular, que cegava e queimava os pulmões lentamente durante dias, produziu o tipo de sofrimento que nenhuma narrativa de heroísmo conseguia sustentar. O horror químico da WWI é, indiretamente, responsável pela norma internacional que torna armas químicas moralmente e legalmente inaceitáveis até hoje.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "technological",
+      "period": "Modern",
+      "importancia_en": "[Chemical Weapons] Escalada de brutalidade que levou a tabu internacional contra armas químicas.",
+      "importancia_es": "[Armas Químicas] Escalada de brutalidade que levou a tabu internacional contra armas químicas.",
+      "descricao_en": "Uso massivo de gás cloro (1915), fosgênio e gás mostarda causando mortes horríveis e trauma psicológico permanente. Alemães iniciaram em Ypres.",
+      "descricao_es": "Uso massivo de gás cloro (1915), fosgênio e gás mostarda causando mortes horríveis e trauma psicológico permanente. Alemães iniciaram em Ypres."
+    },
+    {
+      "id": "pgm-004",
+      "nome": "Batalha de Verdun",
+      "nome_en": "Battle of Verdun",
+      "nome_es": "Batalla de Verdún",
+      "tipo": "conflito",
+      "descricao": "Batalha de desgaste franco-alemã (fevereiro-dezembro 1916) que matou 700.000 homens sem decisão estratégica. Alemães visavam 'sangrar França até morte'.",
+      "inicio": 1916,
+      "fim": 1916,
+      "tags": [
+        "guerra_mundial",
+        "conflito"
+      ],
+      "importancia": "Verdun (300 dias, 700.000 baixas) tornou-se o símbolo do absurdo da guerra industrial. A França ganhou — ou seja, recuperou o território que tinha no início — e perdeu o equivalente a uma geração de homens. O general Falkenhayn planejou 'sangrar a França até a morte'; a França sobreviveu, mas a Alemanha também sangrou. A psicologia coletiva francesa foi marcada profundamente: o 'trauma de Verdun' explica parcialmente o espírito defensivo da Linha Maginot e a capitulação de 1940.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "[Battle of Verdun] Símbolo de futilidade da guerra de trincheiras e carnificina industrial.",
+      "importancia_es": "[Batalla de Verdún] Símbolo de futilidade da guerra de trincheiras e carnificina industrial.",
+      "descricao_en": "Batalha de desgaste franco-alemã (fevereiro-dezembro 1916) que matou 700.000 homens sem decisão estratégica. Alemães visavam 'sangrar França até morte'.",
+      "descricao_es": "Batalha de desgaste franco-alemã (fevereiro-dezembro 1916) que matou 700.000 homens sem decisão estratégica. Alemães visavam 'sangrar França até morte'."
+    },
+    {
+      "id": "pgm-005",
+      "nome": "Batalha do Somme",
+      "nome_en": "Battle of the Somme",
+      "nome_es": "Batalla del Somme",
+      "tipo": "conflito",
+      "descricao": "Ofensiva britânica (julho-novembro 1916) com 1 milhão de baixas. Primeiro dia (1 julho) teve 60.000 baixas britânicas, dia mais sangrento da história militar britânica.",
+      "inicio": 1916,
+      "fim": 1916,
+      "tags": [
+        "guerra_mundial",
+        "conflito"
+      ],
+      "importancia": "O Somme (primeiro dia: 57.470 baixas britânicas — o dia mais sangrento do exército britânico na história) foi o momento em que o otimismo vitoriano morreu. A batalha introduziu os tanques (setembro 1916), mas o efeito imediato foi o colapso da confiança pública na liderança militar. A literatura das trincheiras — Wilfred Owen, Siegfried Sassoon — nasceu diretamente dessa experiência e redefiniu o modo como o Ocidente pensa a guerra: não como aventura, mas como carnificina industrial.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "[Battle of the Somme] Demonstrou horror da guerra industrial com tecnologia letal superando tática.",
+      "importancia_es": "[Batalla del Somme] Demonstrou horror da guerra industrial com tecnologia letal superando tática.",
+      "descricao_en": "Ofensiva britânica (julho-novembro 1916) com 1 milhão de baixas. Primeiro dia (1 julho) teve 60.000 baixas britânicas, dia mais sangrento da história militar britânica.",
+      "descricao_es": "Ofensiva britânica (julho-novembro 1916) com 1 milhão de baixas. Primeiro dia (1 julho) teve 60.000 baixas britânicas, dia mais sangrento da história militar britânica."
+    },
+    {
+      "id": "pgm-006",
+      "nome": "Guerra Submarina Irrestrita",
+      "nome_en": "Unrestricted Submarine Warfare",
+      "nome_es": "Guerra Submarina Sin Restricciones",
+      "tipo": "conceito",
+      "descricao": "Tática alemã (iniciada fevereiro 1917) de afundar navios mercantes sem aviso, incluindo neutros. Provocou entrada americana após afundamento de navios com civis americanos.",
+      "inicio": 1917,
+      "fim": 1918,
+      "tags": [
+        "guerra_mundial",
+        "estrategia"
+      ],
+      "importancia": "A guerra submarina irrestrita foi o maior erro estratégico da Alemanha na WWI: ao afundar navios de países neutros para estrangular a Grã-Bretanha, forçou os EUA a entrar na guerra. O afundamento do Lusitânia (1915, 1.198 mortos, incluindo 128 americanos) criou a pressão pública que Wilson não conseguiu ignorar por muito mais tempo. Alemanha apostou que afundaria a Grã-Bretanha antes que os EUA pudessem mobilizar forças — apostou errado por apenas alguns meses.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "technological",
+      "period": "Modern",
+      "importancia_en": "[Unrestricted Submarine Warfare] Provocou entrada americana na guerra, selando derrota alemã.",
+      "importancia_es": "[Guerra Submarina Sin Restricciones] Provocou entrada americana na guerra, selando derrota alemã.",
+      "descricao_en": "Tática alemã (iniciada fevereiro 1917) de afundar navios mercantes sem aviso, incluindo neutros. Provocou entrada americana após afundamento de navios com civis americanos.",
+      "descricao_es": "Tática alemã (iniciada fevereiro 1917) de afundar navios mercantes sem aviso, incluindo neutros. Provocou entrada americana após afundamento de navios com civis americanos."
+    },
+    {
+      "id": "pgm-007",
+      "nome": "Entrada dos EUA",
+      "nome_en": "US Entry into WWI",
+      "nome_es": "Entrada de EEUU",
+      "tipo": "evento",
+      "descricao": "Estados Unidos declararam guerra à Alemanha (abril 1917) após guerra submarina irrestrita e Telegrama Zimmermann. Enviaram 2 milhões de soldados à Europa.",
+      "inicio": 1917,
+      "fim": 1917,
+      "tags": [
+        "guerra_mundial"
+      ],
+      "importancia": "A entrada americana transformou uma guerra exausta num conflito com reserva quase ilimitada de homens e materiais. Em 1917, a França havia sofrido múltiplos motins, a Rússia estava colapsando e a Grã-Bretanha estava a seis semanas de racionamento crítico de alimentos. Os 2 milhões de soldados americanos que chegaram à França em 1918 não apenas reforçaram as linhas — mudaram a psicologia da guerra, injetando tropas frescas contra um exército alemão exausto e socialmente desgastado.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "[US Entry into WWI] Virada decisiva que inclinou balanço de poder contra Potências Centrais.",
+      "importancia_es": "[Entrada de EEUU] Virada decisiva que inclinou balanço de poder contra Potências Centrais.",
+      "descricao_en": "Estados Unidos declararam guerra à Alemanha (abril 1917) após guerra submarina irrestrita e Telegrama Zimmermann. Enviaram 2 milhões de soldados à Europa.",
+      "descricao_es": "Estados Unidos declararam guerra à Alemanha (abril 1917) após guerra submarina irrestrita e Telegrama Zimmermann. Enviaram 2 milhões de soldados à Europa."
+    },
+    {
+      "id": "pgm-008",
+      "nome": "Revolução Russa",
+      "nome_en": "Russian Revolution",
+      "nome_es": "Revolución Rusa",
+      "tipo": "evento",
+      "descricao": "Derrubada do czarismo (fevereiro 1917) e tomada bolchevique (outubro 1917) retirando Rússia da guerra. Lenin assinou Tratado de Brest-Litovsk cedendo território.",
+      "inicio": 1917,
+      "fim": 1917,
+      "tags": [
+        "guerra_mundial",
+        "revolucao"
+      ],
+      "importancia": "A Revolução Russa foi o maior resultado geopolítico imprevisto da WWI. Lenin chegou na Rússia num vagão selado fornecido pela Alemanha — que calculou (corretamente) que ele desestruturaria o esforço de guerra russo. A saída da Rússia pelo Tratado de Brest-Litovsk (1918) libertou 1 milhão de soldados alemães para a frente ocidental, quase vencendo a guerra. A Revolução criou a URSS — que existiria até 1991 — e o medo comunista que moldou a política ocidental por 70 anos.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "[Russian Revolution] Primeira revolução comunista bem-sucedida, reconfigurou geopolítica global.",
+      "importancia_es": "[Revolución Rusa] Primeira revolução comunista bem-sucedida, reconfigurou geopolítica global.",
+      "descricao_en": "Derrubada do czarismo (fevereiro 1917) e tomada bolchevique (outubro 1917) retirando Rússia da guerra. Lenin assinou Tratado de Brest-Litovsk cedendo território.",
+      "descricao_es": "Derrubada do czarismo (fevereiro 1917) e tomada bolchevique (outubro 1917) retirando Rússia da guerra. Lenin assinou Tratado de Brest-Litovsk cedendo território."
+    },
+    {
+      "id": "pgm-009",
+      "nome": "Armistício",
+      "nome_en": "Armistice",
+      "nome_es": "Armisticio",
+      "tipo": "evento",
+      "descricao": "Alemanha assinou armistício (11 novembro 1918) após colapso militar e revolução interna. Cessação das hostilidades às 11h.",
+      "inicio": 1918,
+      "fim": 1918,
+      "tags": [
+        "guerra_mundial"
+      ],
+      "importancia": "O Armistício de 11 de novembro de 1918 parou os combates mas não resolveu nada. A Alemanha não foi militarmente derrotada no campo — o exército ainda estava em solo estrangeiro quando o Kaiser abdicou. Isso permitiu a 'lenda da facada pelas costas' (Dolchstoßlegende): a ideia de que a Alemanha havia sido traída por civis, judeus e socialistas. Hitler usou exatamente esse mito para galvanizar o eleitorado alemão quinze anos depois.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "[Armistice] Fim das hostilidades mas não resolveu questões que levariam à Segunda Guerra.",
+      "importancia_es": "[Armisticio] Fim das hostilidades mas não resolveu questões que levariam à Segunda Guerra.",
+      "descricao_en": "Alemanha assinou armistício (11 novembro 1918) após colapso militar e revolução interna. Cessação das hostilidades às 11h.",
+      "descricao_es": "Alemanha assinou armistício (11 novembro 1918) após colapso militar e revolução interna. Cessação das hostilidades às 11h."
+    },
+    {
+      "id": "pgm-011",
+      "nome": "Colapso dos Impérios",
+      "nome_en": "Collapse of Empires",
+      "nome_es": "Colapso de Imperios",
+      "tipo": "evento",
+      "descricao": "Dissolução de impérios austro-húngaro, otomano, russo e alemão (1918-1919), criando novos estados-nação na Europa Oriental e Oriente Médio.",
+      "inicio": 1918,
+      "fim": 1919,
+      "tags": [
+        "guerra_mundial"
+      ],
+      "importancia": "O colapso dos impérios multinacionais reconfigurou o mapa político do mundo. Nos destroços do Império Otomano, foram criados estados artificiais no Oriente Médio — Iraque, Síria, Palestina — com fronteiras ignorando etnias, religiões e tribos. Esses arranjos geraram conflitos que ainda persistem no século XXI. Na Europa central, os princípios de autodeterminação nacional de Wilson criaram estados viáveis e inviáveis misturados — com minorias étnicas que tornaram a região explosiva na Segunda Guerra.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "[Collapse of Empires] Redesenhou mapa europeu e do Oriente Médio, gerando instabilidade duradoura.",
+      "importancia_es": "[Colapso de Imperios] Redesenhou mapa europeu e do Oriente Médio, gerando instabilidade duradoura.",
+      "descricao_en": "Dissolução de impérios austro-húngaro, otomano, russo e alemão (1918-1919), criando novos estados-nação na Europa Oriental e Oriente Médio.",
+      "descricao_es": "Dissolução de impérios austro-húngaro, otomano, russo e alemão (1918-1919), criando novos estados-nação na Europa Oriental e Oriente Médio."
+    },
+    {
+      "id": "pgm-010",
+      "nome": "Tratado de Versalhes",
+      "nome_en": "Treaty of Versailles",
+      "nome_es": "Tratado de Versalles",
+      "tipo": "conceito",
+      "descricao": "Acordo de paz punitivo (1919) impondo reparações massivas, desmilitarização e cláusula de culpa de guerra à Alemanha. Criou Liga das Nações.",
+      "inicio": 1919,
+      "fim": 1919,
+      "tags": [
+        "guerra_mundial",
+        "diplomacia"
+      ],
+      "importancia": "O Tratado de Versalhes (1919) é o exemplo histórico mais citado de uma paz punitiva que planta a próxima guerra. As reparações, a cláusula de culpa de guerra (Artigo 231), a perda de 13% do território e a limitação do exército a 100.000 homens humilharam a Alemanha sem destruir sua capacidade de ressurgir. O economista John Maynard Keynes, que participou das negociações, previu exatamente isso em 'As Consequências Econômicas da Paz' (1919) — e foi ignorado.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "[Treaty of Versailles] Humilhação alemã alimentou ressentimento que levou ao nazismo e Segunda Guerra.",
+      "importancia_es": "[Tratado de Versalles] Humilhação alemã alimentou ressentimento que levou ao nazismo e Segunda Guerra.",
+      "descricao_en": "Acordo de paz punitivo (1919) impondo reparações massivas, desmilitarização e cláusula de culpa de guerra à Alemanha. Criou Liga das Nações.",
+      "descricao_es": "Acordo de paz punitivo (1919) impondo reparações massivas, desmilitarização e cláusula de culpa de guerra à Alemanha. Criou Liga das Nações."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "pgm-002",
+      "destino": "pgm-001",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Assassinato desencadeou sistema de alianças levando à guerra generalizada"
+    },
+    {
+      "origem": "pgm-001",
+      "destino": "pgm-003",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Guerra evoluiu para impasse de trincheiras na Frente Ocidental"
+    },
+    {
+      "origem": "pgm-003",
+      "destino": "pgm-004",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Guerra de trincheiras resultou em batalhas de desgaste como Verdun"
+    },
+    {
+      "origem": "pgm-003",
+      "destino": "pgm-005",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Impasse levou a ofensivas sangrentas como Somme"
+    },
+    {
+      "origem": "pgm-006",
+      "destino": "pgm-007",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Guerra submarina irrestrita provocou entrada americana"
+    },
+    {
+      "origem": "pgm-001",
+      "destino": "pgm-008",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Pressão da guerra desencadeou Revolução Russa"
+    },
+    {
+      "origem": "pgm-007",
+      "destino": "pgm-009",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Entrada americana inclinou balanço levando a armistício"
+    },
+    {
+      "origem": "pgm-009",
+      "destino": "pgm-010",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "Armistício levou a negociações do Tratado de Versalhes"
+    },
+    {
+      "origem": "pgm-001",
+      "destino": "pgm-011",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Guerra destruiu impérios europeus e otomano"
+    },
+    {
+      "origem": "pgm-003",
+      "destino": "pgm-012",
+      "tipo": "causalidade",
+      "intensidade": 0.75,
+      "descricao": "Impasse de trincheiras levou a escalada com armas químicas"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "entidades": [
+    {
+      "id": "inca-001",
+      "nome": "Tiwanaku e Wari: Predecessores dos Incas",
+      "nome_en": "Tiwanaku and Wari: Predecessors of the Incas",
+      "nome_es": "Tiwanaku y Wari: Predecesores de los Incas",
+      "tipo": "periodo",
+      "descricao": "Tiwanaku (300-1150 d.C.): civilização no altiplano boliviano a 3.850m. Monólito Ponce, Porta do Sol, sistema agrícola de campos elevados (suka kollus) que resistia às geadas. Wari (600-1000 d.C.): império no Peru central com estradas, armazéns estatais e administração burocrática. Ambos colapsaram ~1100 — possivelmente por seca prolongada. Transmitiram tecnologias (têxteis, metalurgia, estradas) que os Incas amplificaram.",
+      "descricao_en": "Tiwanaku (300-1150 AD): civilization in the Bolivian altiplano at 3,850m. Ponce Monolith, Sun Gate, raised field agricultural system (suka kollus) that resisted frost. Wari (600-1000 AD): empire in central Peru with roads, state warehouses, and bureaucratic administration. Both collapsed ~1100 — possibly due to prolonged drought. Transmitted technologies (textiles, metallurgy, roads) that the Incas amplified.",
+      "descricao_es": "Tiwanaku (300-1150 d.C.): civilización en el altiplano boliviano. Puerta del Sol, campos elevados resistentes a las heladas. Wari (600-1000 d.C.): imperio con caminos, almacenes estatales y administración burocrática. Ambos colapsaron ~1100. Transmitieron tecnologías que los Incas amplificaron.",
+      "inicio": 300,
+      "fim": 1150,
+      "tags": [
+        "tiwanaku",
+        "wari",
+        "andes",
+        "altiplano"
+      ],
+      "importancia": "Tiwanaku e Wari são os predecessores frequentemente ignorados dos Incas — que não inventaram o sistema imperial andino mas o herdaram e amplificaram. Os Incas foram, em parte, síntese de 1.500 anos de experimentação política andina. Isso é historicamente significativo: sugere que o Tawantinsuyu não foi gênio isolado mas o resultado de acumulação de conhecimento administrativo e tecnológico ao longo de gerações de Estados anteriores.",
+      "century_start": 3,
+      "century_end": 12,
+      "region": "SouthAmerica",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Transmitted technologies (textiles, metallurgy, roads) that the Incas amplified.",
+      "importancia_es": "Wari (600-1000 d.C.): imperio con caminos, almacenes estatales y administración burocrática. Transmitieron tecnologías que los Incas amplificaron."
+    },
+    {
+      "id": "inca-002",
+      "nome": "O Tawantinsuyu: Estrutura do Império Inca",
+      "nome_en": "The Tawantinsuyu: Structure of the Inca Empire",
+      "nome_es": "El Tawantinsuyu: Estructura del Imperio Inca",
+      "tipo": "periodo",
+      "descricao": "Tawantinsuyu ('As Quatro Regiões'): 2 milhões de km², 10-12 milhões de súditos, do Equador ao Chile central. Sapa Inca: filho do Sol (Inti), poder absoluto e sagrado. Mit'a: trabalho obrigatório em obras públicas — não havia dinheiro nem mercados. Redistribuição estatal: armazéns (qollqas) distribuíam alimentos. Quipu: sistema de cordas com nós para contabilidade — sem escrita. 40.000 km de estradas pavimentadas com chasquis (correios a pé) cobrindo 250 km/dia.",
+      "descricao_en": "Tawantinsuyu: 2 millones de km², 10-12 millones de súbditos. Sapa Inca: hijo del Sol. Mit'a: trabajo obligatorio. Sin dinero ni mercados — redistribución estatal. Quipu: sistema de cuerdas con nudos. 40.000 km de caminos con chasquis cubriendo 250 km/día.",
+      "descricao_es": "Tawantinsuyu: 2 millones de km², 10-12 millones de súbditos. Sapa Inca: hijo del Sol. Mit'a: trabajo obligatorio. Sin dinero ni mercados — redistribución estatal. Quipu: sistema de cuerdas con nudos. 40.000 km de caminos con chasquis cubriendo 250 km/día.",
+      "inicio": 1438,
+      "fim": 1533,
+      "tags": [
+        "inca",
+        "tawantinsuyu",
+        "quipu",
+        "mita"
+      ],
+      "importancia": "O Tawantinsuyu ('as quatro partes do mundo') foi o maior Estado da história pré-colombiana — e funcionou sem escrita, sem moeda e sem roda. O sistema de quipus (registros em cordas com nós) ainda não foi completamente decifrado; pode ter sido mais sofisticado do que se supõe. A mit'a (trabalho rotativo obrigatório em projetos estatais) e os armazéns estatais (qollqas) garantiam redistribuição — ninguém morria de fome enquanto o Estado tivesse estoques. É o modelo de Estado redistributivo mais eficiente antes da modernidade.",
+      "century_start": 15,
+      "century_end": 16,
+      "region": "SouthAmerica",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Quipu: sistema de cuerdas con nudos. 40.000 km de caminos con chasquis cubriendo 250 km/día.",
+      "importancia_es": "Quipu: sistema de cuerdas con nudos. 40.000 km de caminos con chasquis cubriendo 250 km/día."
+    },
+    {
+      "id": "inca-003",
+      "nome": "Machu Picchu e a Arquitetura Inca",
+      "nome_en": "Machu Picchu and Inca Architecture",
+      "nome_es": "Machu Picchu y la Arquitectura Inca",
+      "tipo": "lugar",
+      "descricao": "Machu Picchu (1450-1540): construído pelo Sapa Inca Pachacuti a 2.430m na cordilheira. 200 edifícios em pedra sem argamassa — blocos encaixados com tal precisão que uma folha de papel não passa entre eles. Resistem a terremotos pois as pedras 'dançam'. Terraços agrícolas (andenes): solução andina para altitude e clima. Intihuatana: calendário solar em pedra. Propósito exato ainda debatido (residência real? santuário?). 'Redescoberto' por Bingham em 1911.",
+      "descricao_en": "Machu Picchu (1450-1540): built by Sapa Inca Pachacuti at 2,430m in the Andes. 200 stone buildings without mortar — blocks fitted with such precision that a sheet of paper cannot pass between them. Earthquake-resistant because the stones 'dance'. Agricultural terraces (andenes): Andean solution for altitude and climate. Intihuatana: solar calendar in stone. Exact purpose still debated (royal residence? sanctuary?). 'Rediscovered' by Bingham in 1911.",
+      "descricao_es": "Machu Picchu (1450-1540): construido a 2.430m. 200 edificios sin argamasa — bloques encajados con tal precisión que no pasa una hoja de papel. Resistentes a terremotos. Andenes: solución andina para la altitud. Intihuatana: calendario solar. 'Redescubierto' por Bingham en 1911.",
+      "inicio": 1450,
+      "fim": 1540,
+      "tags": [
+        "machu-picchu",
+        "inca",
+        "arquitetura",
+        "andes"
+      ],
+      "importancia": "Machu Picchu (c.1450) não era a capital do Império — era uma das centenas de propriedades reais (llacta) construídas para o Inca e sua corte. Sua 'redescoberta' por Hiram Bingham em 1911 foi na verdade um encontro com algo que os moradores locais sempre souberam que existia. A precisão da alvenaria inca — pedras ajustadas sem argamassa a tolerâncias de milímetros que resistem a terremotos — combina conhecimento geológico, matemático e logístico numa síntese que ainda desconcerta engenheiros modernos.",
+      "century_start": 15,
+      "century_end": 16,
+      "region": "SouthAmerica",
+      "type": "intellectual",
+      "period": "EarlyModern",
+      "importancia_en": "Exact purpose still debated (royal residence? 'Rediscovered' by Bingham in 1911.",
+      "importancia_es": "Andenes: solución andina para la altitud. 'Redescubierto' por Bingham en 1911."
+    },
+    {
+      "id": "inca-004",
+      "nome": "A Queda do Tawantinsuyu: Pizarro e Atahualpa",
+      "nome_en": "The Fall of the Tawantinsuyu: Pizarro and Atahualpa",
+      "nome_es": "La Caída del Tawantinsuyu: Pizarro y Atahualpa",
+      "tipo": "evento",
+      "descricao": "Francisco Pizarro desembarcou no Peru em 1532 com 168 homens. Atahualpa vencia a guerra civil contra seu irmão Huáscar. Batalha de Cajamarca (16 nov 1532): Pizarro capturou Atahualpa com cavalos e canhões — 6.000-7.000 incas mortos, nenhum espanhol. Resgate: quarto cheio de ouro (~6 toneladas) e dois de prata. Atahualpa executado em 1533. Varíola e guerra civil já haviam matado 50%+ da população antes de Pizarro chegar. Cusco conquistada em 1534.",
+      "descricao_en": "Francisco Pizarro landed in Peru in 1532 with 168 men. Atahualpa was winning the civil war against his brother Huáscar. Battle of Cajamarca (Nov 16, 1532): Pizarro captured Atahualpa with horses and cannons — 6,000-7,000 Incas killed, no Spanish. Ransom: a room full of gold (~6 tons) and two of silver. Atahualpa executed in 1533. Smallpox and civil war had already killed 50%+ of the population before Pizarro arrived. Cusco conquered in 1534.",
+      "descricao_es": "Pizarro desembarcó en Perú en 1532 con 168 hombres. Batalla de Cajamarca (16 nov 1532): capturó a Atahualpa — 6.000-7.000 incas muertos, ningún español. Rescate: cuarto lleno de oro (~6 toneladas). Atahualpa ejecutado en 1533. La viruela ya había matado al 50%+ antes de que llegara Pizarro.",
+      "inicio": 1532,
+      "fim": 1572,
+      "tags": [
+        "pizarro",
+        "atahualpa",
+        "conquista-inca",
+        "cajamarca"
+      ],
+      "importancia": "A queda do Tawantinsuyu revelou a fragilidade estrutural de Estados fortemente centralizados: quando Atahualpa foi capturado em Cajamarca (1532), o sistema político inteiro paralisou. Um Inca não podia ser substituído improvisadamente — era simultaneamente deus, administrador supremo e vínculo cósmico. A varíola havia matado o Inca anterior e gerado guerra civil; Pizarro chegou no pior momento possível para o Império e no melhor possível para a conquista. A coincidência catastrófica que destruiu o maior Estado das Américas.",
+      "century_start": 16,
+      "century_end": 16,
+      "region": "SouthAmerica",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Smallpox and civil war had already killed 50%+ of the population before Pizarro arrived.",
+      "importancia_es": "La viruela ya había matado al 50%+ antes de que llegara Pizarro."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "inca-001",
+      "destino": "inca-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Tiwanaku e Wari transmitiram estradas, armazéns e metalurgia que os Incas ampliaram"
+    },
+    {
+      "origem": "inca-002",
+      "destino": "inca-003",
+      "tipo": "contemporaneo",
+      "intensidade": 0.9,
+      "descricao": "Machu Picchu foi construído durante o apogeu do Tawantinsuyu sob Pachacuti"
+    },
+    {
+      "origem": "inca-002",
+      "destino": "inca-004",
+      "tipo": "causalidade",
+      "intensidade": 1.0,
+      "descricao": "A grandeza do Tawantinsuyu e sua guerra civil foram o contexto da queda diante de Pizarro"
+    }
+  ]
+}

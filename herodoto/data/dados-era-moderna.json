@@ -1,0 +1,381 @@
+{
+  "meta": {
+    "fonte": "Compilado — Era Moderna",
+    "lingua": "pt",
+    "tema": "Era Moderna"
+  },
+  "entidades": [
+    {
+      "id": "mod-010",
+      "nome": "Impérios Coloniais Europeus",
+      "nome_en": "European Colonial Empires",
+      "nome_es": "Imperios Coloniales Europeos",
+      "tipo": "periodo",
+      "descricao": "Expansão colonial europeia (séc. XV-XX) que reconfigurou o globo. Portugal e Espanha: primeiros impérios (Tordesilhas, 1494). Holanda, França, Inglaterra: segunda leva (séc. XVII). Britânicos: 'o sol nunca se põe no Império Britânico' (~1/4 da terra e população global). Colonialismo baseado em exploração de recursos, trabalho forçado (escravidão, servidão), evangelização. Impacto: genocídios indígenas, tráfico atlântico de 12 milhões de africanos, transferência de riqueza que financiou industrialização europeia. Descolonização principalmente pós-1945.",
+      "descricao_en": "European colonial expansion (15th-20th c). Portugal and Spain first; then Netherlands, France, Britain. British Empire: ~1/4 of global land and population. Forced labor, indigenous genocide, 12 million enslaved Africans. Decolonization mainly post-1945.",
+      "descricao_es": "Expansión colonial europea (s. XV-XX). Portugal y España primeros; luego Países Bajos, Francia, Gran Bretaña. Imperio Británico: ~1/4 de la tierra y población global. Trabajo forzado, genocidio indígena, 12 millones de africanos esclavizados.",
+      "inicio": 1415,
+      "fim": 1975,
+      "tags": [
+        "colonialismo",
+        "imperio",
+        "escravidao"
+      ],
+      "importancia": "Os impérios coloniais europeus (séculos XV-XX) foram a maior transferência forçada de riqueza da história humana. A prata de Potosí financiou a hegemonia espanhola; o açúcar e o algodão das Américas financiaram a industrialização britânica; o ópio das Índias Britânicas financiou o déficit comercial com a China. O subdesenvolvimento contemporâneo do Sul Global não é acidente histórico — é resultado direto de séculos de extração deliberada de recursos, trabalho e capital.",
+      "century_start": 15,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Forced labor, indigenous genocide, 12 million enslaved Africans. Decolonization mainly post-1945.",
+      "importancia_es": "Trabajo forzado, genocidio indígena, 12 millones de africanos esclavizados."
+    },
+    {
+      "id": "mod-002",
+      "nome": "Monarquias Absolutistas",
+      "nome_en": "Absolute Monarchies",
+      "nome_es": "Monarquías Absolutistas",
+      "tipo": "periodo",
+      "descricao": "Forma de governo dominante na Europa (séc. XV-XVIII). Concentração de poder no rei por 'direito divino'. Luis XIV da França: 'L'État c'est moi' — construiu Versalhes, rei-Sol por 72 anos (1643-1715). Filipe II da Espanha: maior império do mundo, Invencível Armada (1588). Pedro I da Rússia: modernizou a Rússia à força. Frederico II da Prússia: déspota esclarecido. Instrumentos: exércitos permanentes, burocracia centralizada, mercantilismo, cortes como Versalhes demonstrando poder. Teoria: Bossuet, Hobbes (Leviatã).",
+      "descricao_en": "Dominant European government (15th-18th c). Divine right kings. Louis XIV of France: 'L'État c'est moi', Versailles, 72-year reign. Philip II of Spain. Peter the Great of Russia. Standing armies, mercantilism.",
+      "descricao_es": "Gobierno dominante en Europa (s. XV-XVIII). Reyes por 'derecho divino'. Luis XIV: 'L'État c'est moi', Versalles. Felipe II de España. Pedro I de Rusia. Ejércitos permanentes, mercantilismo.",
+      "inicio": 1450,
+      "fim": 1789,
+      "tags": [
+        "absolutismo",
+        "luis-xiv",
+        "versalhes"
+      ],
+      "importancia": "As monarquias absolutistas do século XVII-XVIII não eram apenas concentração de poder — eram projetos de construção do Estado moderno: burocracia centralizada, exército permanente, sistema fiscal nacional, direito uniforme. Luís XIV, Frederico II e Pedro, o Grande criaram os fundamentos institucionais dos Estados que existem hoje. O paradoxo: a concentração de poder que pareceu regressiva à época foi o pré-requisito para o Estado de direito posterior — não há Estado de direito sem Estado.",
+      "century_start": 15,
+      "century_end": 18,
+      "region": "Europe",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Louis XIV of France: 'L'État c'est moi', Versailles, 72-year reign.",
+      "importancia_es": "Luis XIV: 'L'État c'est moi', Versalles. Ejércitos permanentes, mercantilismo."
+    },
+    {
+      "id": "mod-012",
+      "nome": "Imprensa de Gutenberg",
+      "nome_en": "Gutenberg's Printing Press",
+      "nome_es": "Imprenta de Gutenberg",
+      "tipo": "evento",
+      "descricao": "Johannes Gutenberg (~1450) desenvolveu a prensa de tipos móveis metálicos em Mainz, Alemanha. Primeiro livro impresso em escala: Bíblia de 42 linhas (~1455). Impacto: custo de cópia caiu 99%; produção de livros aumentou de 8 milhões para 170-200 milhões em 50 anos. Democratizou o conhecimento, viabilizou a Reforma Protestante (escritos de Lutero se espalharam rapidamente), o Renascimento, a Revolução Científica. Criou a opinião pública, o jornalismo e a identidade linguística nacional. Frequentemente citada como a invenção mais importante do 2º milênio.",
+      "descricao_en": "Gutenberg (~1450) developed movable metal type press in Mainz. First printed Bible (~1455). Book production: 8M to 170-200M in 50 years. Enabled Reformation, Renaissance, Scientific Revolution. Created public opinion.",
+      "descricao_es": "Gutenberg (~1450) desarrolló prensa de tipos móviles en Mainz. Primera Biblia impresa (~1455). Producción de libros: 8M a 170-200M en 50 años. Habilitó Reforma, Renacimiento, Revolución Científica.",
+      "inicio": 1450,
+      "fim": 1450,
+      "tags": [
+        "gutenberg",
+        "imprensa",
+        "livro"
+      ],
+      "importancia": "A imprensa de Gutenberg (c.1450) foi a maior revolução comunicacional antes da internet — e suas consequências foram igualmente imprevisíveis e desestabilizadoras. Em 50 anos, o número de livros na Europa passou de poucos milhares para mais de 10 milhões. Padronizou línguas nacionais, democratizou o acesso ao conhecimento e — diretamente — tornou a Reforma Protestante irreversível. Cada tecnologia de comunicação que amplia o acesso à informação desestabiliza as autoridades estabelecidas: isso é tão verdadeiro para Gutenberg quanto para as redes sociais.",
+      "century_start": 15,
+      "century_end": 15,
+      "region": "Europe",
+      "type": "technological",
+      "period": "Modern",
+      "importancia_en": "Book production: 8M to 170-200M in 50 years. Enabled Reformation, Renaissance, Scientific Revolution.",
+      "importancia_es": "Producción de libros: 8M a 170-200M en 50 años. Habilitó Reforma, Renacimiento, Revolución Científica."
+    },
+    {
+      "id": "mod-001",
+      "nome": "Queda de Constantinopla e Fim do Medievo",
+      "nome_en": "Fall of Constantinople and End of Medieval Age",
+      "nome_es": "Caída de Constantinopla y Fin de la Edad Media",
+      "tipo": "evento",
+      "descricao": "A conquista otomana de Constantinopla (1453) é convencionalmente usada como marco de início da Era Moderna. Fuga de intelectuais gregos com manuscritos para a Itália acelerou o Renascimento. Bloqueio otomano das rotas comerciais orientais impulsionou busca de rotas alternativas, desencadeando as Grandes Navegações. Outros marcos: invenção da imprensa (~1450), descoberta das Américas (1492), começo da Reforma Protestante (1517).",
+      "descricao_en": "Ottoman conquest of Constantinople (1453) conventionally marks Early Modern Age. Greek scholars fled to Italy accelerating Renaissance. Ottoman trade blockade prompted exploration. Printing press (~1450), Americas (1492), Reformation (1517).",
+      "descricao_es": "Conquista otomana de Constantinopla (1453) marca convencionalmente la Era Moderna. Eruditos griegos huyeron a Italia acelerando el Renacimiento. Bloqueo otomano impulsó exploración.",
+      "inicio": 1453,
+      "fim": 1453,
+      "tags": [
+        "constantinopla",
+        "medieval",
+        "moderno"
+      ],
+      "importancia": "A queda de Constantinopla em 1453 é a data convencional para o início da Era Moderna — e a convenção faz sentido: destruiu o último link vivo com o Império Romano, forçou eruditos gregos para a Itália (acelerando o Renascimento) e bloqueou rotas comerciais com o Oriente, incentivando as Grandes Navegações. O fim do Medievo não foi súbito — foi um processo de décadas — mas 1453 concentra simbolicamente a ruptura entre dois mundos.",
+      "century_start": 15,
+      "century_end": 15,
+      "region": "Europe",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Printing press (~1450), Americas (1492), Reformation (1517).",
+      "importancia_es": "Eruditos griegos huyeron a Italia acelerando el Renacimiento. Bloqueo otomano impulsó exploración."
+    },
+    {
+      "id": "mod-005",
+      "nome": "Mercantilismo",
+      "nome_en": "Mercantilism",
+      "nome_es": "Mercantilismo",
+      "tipo": "conceito",
+      "descricao": "Teoria econômica dominante na Europa (séc. XVI-XVIII). Riqueza nacional = acumulação de metais preciosos (ouro e prata). Exportar mais do que importar (balança comercial favorável). Estado regula comércio: companhias com monopólio (Companhia das Índias Orientais inglesa, 1600; holandesa VOC, 1602), tarifas protecionistas, colônias como fornecedoras de matérias-primas e mercado cativo. Colbert (ministro de Luis XIV) sistematizou o colbertismo francês. Adam Smith (A Riqueza das Nações, 1776) refutou o mercantilismo e fundou a economia liberal.",
+      "descricao_en": "Dominant European economic theory (16th-18th c). National wealth = precious metals accumulation. Favorable trade balance. Trading companies with monopolies (VOC, 1602). Colonies as captive markets. Refuted by Adam Smith (1776).",
+      "descricao_es": "Teoría económica dominante (s. XVI-XVIII). Riqueza = acumulación de metales. Compañías con monopolios (VOC, 1602). Colonias como mercados cautivos. Refutado por Adam Smith (1776).",
+      "inicio": 1500,
+      "fim": 1776,
+      "tags": [
+        "mercantilismo",
+        "comercio",
+        "colonias"
+      ],
+      "importancia": "O mercantilismo foi a primeira teoria econômica sistematizada dos Estados modernos — e a primeira a ser refutada empiricamente. A ideia de que riqueza é um jogo de soma zero (o que um país ganha, outro perde) justificou guerras coloniais, protecionismo e exploração. Adam Smith destruiu o argumento em 1776 com a teoria das vantagens comparativas — mas o neomercantilismo ressurgiu no século XXI nas políticas industriais da China e nos populismos econômicos ocidentais.",
+      "century_start": 16,
+      "century_end": 18,
+      "region": "Europe",
+      "type": "economic",
+      "period": "Modern",
+      "importancia_en": "National wealth = precious metals accumulation. Trading companies with monopolies (VOC, 1602).",
+      "importancia_es": "Colonias como mercados cautivos. Refutado por Adam Smith (1776)."
+    },
+    {
+      "id": "mod-011",
+      "nome": "Tráfico Atlântico de Escravizados",
+      "nome_en": "Atlantic Slave Trade",
+      "nome_es": "Trata Atlántica de Esclavizados",
+      "tipo": "conceito",
+      "descricao": "Comércio triangular de escravizados africanos para as Américas (séc. XVI-XIX). ~12,5 milhões de pessoas embarcadas; ~10,7 milhões chegaram vivas. Origens: África Ocidental e Central (Benim, Daomé, Angola, Senegâmbia). Destinos: Brasil (maior importador: ~4,9 milhões), Caribe, América do Norte. Condições: porões lotados, mortalidade de 10-20% na travessia (middle passage). Economias: açúcar (Caribe/Brasil), tabaco (Virgínia), algodão (Sul dos EUA). Abolição: Grã-Bretanha (1807), EUA (1808 importação, 1865 13ª emenda), Brasil (1888).",
+      "descricao_en": "Atlantic slavery (16th-19th c): ~12.5M embarked, ~10.7M arrived alive. Origins: West/Central Africa. Destinations: Brazil (~4.9M, largest importer), Caribbean, North America. 10-20% middle passage mortality. Abolished 1807-1888.",
+      "descricao_es": "Trata atlántica (s. XVI-XIX): ~12,5M embarcados, ~10,7M llegaron vivos. Orígenes: África Occidental y Central. Brasil mayor importador (~4,9M). Mortalidad 10-20% en la travesía. Abolición 1807-1888.",
+      "inicio": 1510,
+      "fim": 1888,
+      "tags": [
+        "escravidao",
+        "trafico",
+        "africa"
+      ],
+      "importancia": "O tráfico atlântico de escravizados (1500-1850) foi o maior sistema de trabalho forçado da história moderna: 12,5 milhões de africanos deportados, 2 milhões mortos na travessia. Criou as diásporas africanas que moldaram as culturas das Américas e deixou cicatrizes estruturais — racismo institucional, desigualdades econômicas — que persistem 170 anos após a abolição formal. A riqueza acumulada pelo trabalho escravizado foi o capital que financiou a Revolução Industrial britânica — conexão documentada mas ainda politicamente controversa.",
+      "century_start": 16,
+      "century_end": 19,
+      "region": "Multiple",
+      "type": "social",
+      "period": "Modern",
+      "importancia_en": "Destinations: Brazil (~4.9M, largest importer), Caribbean, North America. 10-20% middle passage mortality.",
+      "importancia_es": "Brasil mayor importador (~4,9M). Mortalidad 10-20% en la travesía."
+    },
+    {
+      "id": "mod-009",
+      "nome": "Reforma Protestante — Impacto Social",
+      "nome_en": "Protestant Reformation — Social Impact",
+      "nome_es": "Reforma Protestante — Impacto Social",
+      "tipo": "conceito",
+      "descricao": "A Reforma (1517) transformou não apenas a religião mas a estrutura social europeia. Secularização: Estado separado da Igreja. Alfabetização: Lutero exigia leitura da Bíblia pelo fiel — estímulo à educação popular; Gutenberg permitiu distribuição em massa. Ética do trabalho protestante (Weber): vocação profissional como chamado divino, base do capitalismo. Enfraquecimento da autoridade papal. Surgimento de múltiplas denominações (luteranos, calvinistas, anglicanos, anabatistas). Reforma Católica em resposta (Concílio de Trento).",
+      "descricao_en": "Reformation (1517) transformed European society beyond religion. Church-State separation. Lutheran literacy drive. Protestant work ethic (Weber): professional vocation as divine calling, capitalism's basis. Multiple denominations arose.",
+      "descricao_es": "La Reforma (1517) transformó la sociedad europea más allá de la religión. Separación Iglesia-Estado. Alfabetización luterana. Ética protestante del trabajo (Weber). Múltiples denominaciones.",
+      "inicio": 1517,
+      "fim": 1648,
+      "tags": [
+        "reforma",
+        "protestantismo",
+        "capitalismo"
+      ],
+      "importancia": "A Reforma Protestante não foi apenas teológica — foi a primeira revolução midiática da história. A imprensa de Gutenberg transformou o debate religioso de local para continental em semanas. As 95 Teses de Lutero chegaram a toda a Europa em dois meses. O princípio de que cada cristão pode interpretar a Bíblia diretamente — sola scriptura — é o ancestral filosófico direto do individualismo liberal moderno: se cada um pode julgá-la religiosa, pode julgá-la em qualquer domínio.",
+      "century_start": 16,
+      "century_end": 17,
+      "region": "Europe",
+      "type": "religious",
+      "period": "Modern",
+      "importancia_en": "Protestant work ethic (Weber): professional vocation as divine calling, capitalism's basis.",
+      "importancia_es": "La Reforma (1517) transformó la sociedad europea más allá de la religión. Ética protestante del trabajo (Weber)."
+    },
+    {
+      "id": "mod-003",
+      "nome": "Guerras Religiosas Europeias",
+      "nome_en": "European Wars of Religion",
+      "nome_es": "Guerras Religiosas Europeas",
+      "tipo": "evento",
+      "descricao": "Série de conflitos desencadeados pela Reforma Protestante (1517-1648). Guerra dos Camponeses alemã (1524-1525): Lutero condenou rebelião. Guerras huguenotes na França (1562-1598): Massacre de São Bartolomeu (1572, ~30.000 mortos). Edito de Nantes (1598): tolerância religiosa temporária. Guerra dos Trinta Anos (1618-1648): conflito mais devastador antes do séc. XX — Alemanha perdeu 1/3 da população. Paz de Vestfália (1648): principio cuius regio eius religio, origem da soberania estatal moderna.",
+      "descricao_en": "Wars triggered by Protestant Reformation (1517-1648). St. Bartholomew's Massacre (1572, ~30,000 dead). Thirty Years' War (1618-1648): Germany lost 1/3 population. Peace of Westphalia (1648) established state sovereignty.",
+      "descricao_es": "Guerras desencadenadas por la Reforma Protestante. Masacre de San Bartolomé (1572). Guerra de los Treinta Años (1618-1648): Alemania perdió 1/3 de su población. Paz de Westfalia (1648).",
+      "inicio": 1524,
+      "fim": 1648,
+      "tags": [
+        "guerras-religiosas",
+        "vestfalia",
+        "reforma"
+      ],
+      "importancia": "As Guerras de Religião europeias (1524-1648) foram a tragédia da liberdade de consciência: quando a autoridade religiosa se fragmentou, nenhuma instituição restou para arbitrar conflitos. A solução de Vestfália (1648) — soberania estatal como barreira contra interferência religiosa externa — criou a arquitetura do sistema internacional moderno. Mas a solução foi pragmática, não moral: significou aceitar que Estados podem fazer o que quiserem dentro de suas fronteiras.",
+      "century_start": 16,
+      "century_end": 17,
+      "region": "Europe",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "Thirty Years' War (1618-1648): Germany lost 1/3 population. Peace of Westphalia (1648) established state sovereignty.",
+      "importancia_es": "Guerra de los Treinta Años (1618-1648): Alemania perdió 1/3 de su población."
+    },
+    {
+      "id": "mod-006",
+      "nome": "Revolução Científica",
+      "nome_en": "Scientific Revolution",
+      "nome_es": "Revolución Científica",
+      "tipo": "conceito",
+      "descricao": "Transformação radical na concepção da natureza (séc. XVI-XVII). Copérnico (heliocentrismo, 1543). Tycho Brahe (observações astronômicas precisas). Kepler (leis do movimento planetário). Galileu (telescópio, queda dos corpos, julgamento pela Inquisição 1633). Newton (leis do movimento e gravitação, Principia, 1687). Harvey (circulação do sangue). Vesalius (anatomia moderna). Bacon (método indutivo). Descartes (dualismo, método racional). Criou a ciência moderna baseada em experimentação, matemática e publicação.",
+      "descricao_en": "Radical transformation in understanding nature (16th-17th c). Copernicus (heliocentrism), Galileo (telescope, Inquisition), Kepler (planetary laws), Newton (gravity, Principia 1687), Harvey, Vesalius. Created modern experimental science.",
+      "descricao_es": "Transformación radical en la comprensión de la naturaleza (s. XVI-XVII). Copérnico, Galileo (Inquisición), Kepler, Newton (Principia 1687), Harvey, Vesalio. Creó la ciencia moderna experimental.",
+      "inicio": 1543,
+      "fim": 1700,
+      "tags": [
+        "ciencia",
+        "newton",
+        "galileu"
+      ],
+      "importancia": "A Revolução Científica do século XVII foi a mais radical das revoluções porque mudou o próprio método pelo qual os humanos constroem conhecimento: da autoridade textual (o que Aristóteles disse) para a experimentação empírica e matematização. Essa mudança epistemológica gerou, em 400 anos, mais avanço tecnológico do que os 10.000 anos anteriores de civilização. A ciência como instituição — com pares, publicações, replicação — é o legado mais transformador da modernidade.",
+      "century_start": 16,
+      "century_end": 17,
+      "region": "Europe",
+      "type": "intellectual",
+      "period": "Modern",
+      "importancia_en": "Copernicus (heliocentrism), Galileo (telescope, Inquisition), Kepler (planetary laws), Newton (gravity, Principia 1687), Harvey, Vesalius. Created modern experimental science.",
+      "importancia_es": "Copérnico, Galileo (Inquisición), Kepler, Newton (Principia 1687), Harvey, Vesalio. Creó la ciencia moderna experimental."
+    },
+    {
+      "id": "mod-004",
+      "nome": "Sistema Westfaliano — Soberania Estatal",
+      "nome_en": "Westphalian System — State Sovereignty",
+      "nome_es": "Sistema Westfaliano — Soberanía Estatal",
+      "tipo": "conceito",
+      "descricao": "Tratados de Paz de Vestfália (1648) que encerraram a Guerra dos Trinta Anos e a Guerra dos Oitenta Anos. Estabeleceram o princípio da soberania estatal (territorialidade, não-intervenção em assuntos internos) e igualdade jurídica entre Estados. Reconhecimento das fronteiras do Sacro Império Romano como questão de Estado, não de Igreja. Fundação do direito internacional moderno. Grotius (De Jure Belli ac Pacis, 1625) teorizou direito natural e das nações. Ordem geopolítica baseada em Estados soberanos que persiste até hoje.",
+      "descricao_en": "Peace of Westphalia (1648) treaties established state sovereignty principles: territoriality, non-intervention. Founded modern international law. Grotius theorized natural law. Geopolitical order persisting today.",
+      "descricao_es": "Tratados de Paz de Westfalia (1648) establecieron principios de soberanía estatal: territorialidad, no intervención. Fundaron derecho internacional moderno.",
+      "inicio": 1648,
+      "fim": 1648,
+      "tags": [
+        "vestfalia",
+        "soberania",
+        "direito-internacional"
+      ],
+      "importancia": "O sistema westfaliano de soberania estatal (1648) é a base jurídica de toda a ordem internacional contemporânea — e está em crise permanente desde que surgiu. A ideia de que os Estados são soberanos dentro de suas fronteiras colidiu sempre com os direitos humanos, com as intervenções humanitárias e com a globalização. A tensão entre soberania e responsabilidade internacional define os debates na ONU até hoje — da Síria a Ruanda, de Kosovo ao Tibet.",
+      "century_start": 17,
+      "century_end": 17,
+      "region": "Europe",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Founded modern international law. Geopolitical order persisting today.",
+      "importancia_es": "Tratados de Paz de Westfalia (1648) establecieron principios de soberanía estatal: territorialidad, no intervención. Fundaron derecho internacional moderno."
+    },
+    {
+      "id": "mod-008",
+      "nome": "Surgimento dos Estados-Nação",
+      "nome_en": "Rise of Nation-States",
+      "nome_es": "Surgimiento de los Estados-Nación",
+      "tipo": "conceito",
+      "descricao": "Processo de construção de estados identificados com uma nação (língua, cultura, território) — predominante no séc. XIX. Unificação alemã (1871, Bismarck) e italiana (1861-1870, Garibaldi/Cavour). Nacionalismos românticos: Herder, Fichte. Fragmentação dos impérios multinacionais (otomano, habsburgo). Primavera dos Povos (1848): revoluções nacionais. Wilsonismo (1918): autodeterminação dos povos após WWI. Tensão entre Estado-nação e minorias nacionais gerou conflitos étnicos. Processo acelerado pela descolonização pós-WWII.",
+      "descricao_en": "Building states identified with nations (language, culture, territory) — predominant in 19th c. German unification (1871, Bismarck), Italian unification (1870). Romantic nationalisms. Spring of Nations (1848).",
+      "descricao_es": "Construcción de estados identificados con naciones — predominante en s. XIX. Unificación alemana (1871, Bismarck), italiana (1870). Nacionalismos románticos. Primavera de los Pueblos (1848).",
+      "inicio": 1789,
+      "fim": 1918,
+      "tags": [
+        "nacao",
+        "estado",
+        "nacionalismo"
+      ],
+      "importancia": "O Estado-nação moderno é uma invenção do século XIX, não uma realidade imemorial. Antes de 1789, as pessoas se identificavam com religião, dinastia, cidade ou aldeia — não com 'a Alemanha' ou 'a Itália'. O nacionalismo como ideologia política foi construído: por intelectuais que inventaram tradições, por Estados que padronizaram línguas e por guerras que criaram inimigos comuns. Que essa construção ideológica tenha produzido lealdades tão poderosas que pessoas morrem por ela é um dos fenômenos mais fascinantes da história moderna.",
+      "century_start": 18,
+      "century_end": 20,
+      "region": "Europe",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "German unification (1871, Bismarck), Italian unification (1870).",
+      "importancia_es": "Unificación alemana (1871, Bismarck), italiana (1870). Primavera de los Pueblos (1848)."
+    },
+    {
+      "id": "mod-007",
+      "nome": "Guerras Napoleônicas",
+      "nome_en": "Napoleonic Wars",
+      "nome_es": "Guerras Napoleónicas",
+      "tipo": "evento",
+      "descricao": "Série de conflitos envolvendo a França napoleônica e coalizões europeias (1803-1815). Napoleão Bonaparte (imperador 1804) conquistou grande parte da Europa. Derrota na Rússia (1812): 500.000 mortos da Grande Armée. Cem Dias (1815): retorno, derrota em Waterloo. Napoleão exportou Código Civil (1804 — ainda base do direito de 60+ países), princípios da Revolução Francesa, aboliu feudalismo nos territórios ocupados, estimulou nacionalismos. Congresso de Viena (1815) reorganizou a Europa. ~3,5-6 milhões de mortos.",
+      "descricao_en": "Napoleonic Wars (1803-1815). Napoleon conquered Europe. Russian disaster (1812, 500,000 dead). Waterloo (1815). Exported Napoleonic Code (base of law in 60+ countries). ~3.5-6 million dead. Congress of Vienna (1815).",
+      "descricao_es": "Guerras Napoleónicas (1803-1815). Napoleón conquistó Europa. Desastre ruso (1812). Waterloo (1815). Exportó Código Napoleónico (base jurídica en 60+ países). ~3,5-6 millones muertos.",
+      "inicio": 1803,
+      "fim": 1815,
+      "tags": [
+        "napoleao",
+        "waterloo",
+        "codigo-civil"
+      ],
+      "importancia": "As Guerras Napoleônicas (1803-1815) foram a primeira guerra de massas da história moderna: pela primeira vez, exércitos nacionais de cidadãos motivados por ideologia (e não mercenários) lutavam em escala continental. Napoleão exportou involuntariamente o nacionalismo para todos os países que invadiu — criando os movimentos que destruiriam os impérios multinacionais no século XIX. O Congresso de Viena tentou restaurar a ordem antiga; conseguiu apenas adiar as consequências.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Europe",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "Russian disaster (1812, 500,000 dead). Exported Napoleonic Code (base of law in 60+ countries).",
+      "importancia_es": "Guerras Napoleónicas (1803-1815). Exportó Código Napoleónico (base jurídica en 60+ países)."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "mod-001",
+      "destino": "mod-012",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Queda de Constantinopla e imprensa são marcos paralelos da modernidade"
+    },
+    {
+      "origem": "mod-012",
+      "destino": "mod-009",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Imprensa de Gutenberg permitiu propagação da Reforma Protestante"
+    },
+    {
+      "origem": "mod-009",
+      "destino": "mod-003",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "Reforma Protestante desencadeou guerras religiosas"
+    },
+    {
+      "origem": "mod-003",
+      "destino": "mod-004",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "Guerras religiosas culminaram na Paz de Vestfália"
+    },
+    {
+      "origem": "mod-004",
+      "destino": "mod-008",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Sistema vestfaliano de soberania criou base para os Estados-Nação"
+    },
+    {
+      "origem": "mod-006",
+      "destino": "mod-002",
+      "tipo": "tensao",
+      "intensidade": 0.7,
+      "descricao": "Revolução Científica questionou fundamentos do absolutismo religioso"
+    },
+    {
+      "origem": "mod-005",
+      "destino": "mod-010",
+      "tipo": "dependencia",
+      "intensidade": 0.9,
+      "descricao": "Mercantilismo foi a teoria que justificou o colonialismo"
+    },
+    {
+      "origem": "mod-010",
+      "destino": "mod-011",
+      "tipo": "dependencia",
+      "intensidade": 0.95,
+      "descricao": "Tráfico de escravizados foi componente central do sistema colonial"
+    },
+    {
+      "origem": "mod-002",
+      "destino": "mod-007",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Absolutismo francês gerou Revolução que produziu Napoleão"
+    },
+    {
+      "origem": "mod-007",
+      "destino": "mod-008",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Guerras napoleônicas estimularam o surgimento dos nacionalismos"
+    }
+  ]
+}

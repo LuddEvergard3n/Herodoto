@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "fonte": "Compilado - História do Renascimento",
+    "lingua": "pt",
+    "tema": "Renascimento",
+    "periodo": "1300-1600"
+  },
+  "entidades": [
+    {
+      "id": "ren-new-001",
+      "nome": "Renascimento Italiano",
+      "nome_en": "Italian Renaissance",
+      "nome_es": "Renacimiento Italiano",
+      "tipo": "periodo",
+      "descricao": "Movimento cultural e artístico (1300-1600) iniciado nas repúblicas mercantis italianas (Florença, Veneza, Milão, Roma). Caracterizado por recuperação de valores clássicos greco-romanos, humanismo secular e perspectiva científica. Mecenas ricos (Medici em Florença, papas em Roma) patrocinaram artes. Grandes mestres: Leonardo da Vinci (polímata, Mona Lisa, Última Ceia), Michelangelo (Capela Sistina, David), Rafael (Escola de Atenas), Botticelli (Nascimento de Vênus). Arquitetura: cúpula de Brunelleschi (Florença), São Pedro (Bramante, Michelangelo). Literatura: Dante (Divina Comédia), Petrarca (lírica amorosa), Boccaccio (Decameron), Maquiavel (O Príncipe - ciência política realista). Desenvolvimento de técnica de perspectiva linear revolucionou pintura. Queda de Constantinopla (1453) trouxe refugiados com manuscritos gregos. Imprensa de Gutenberg (1450) disseminou ideias rapidamente.",
+      "descricao_en": "Cultural and artistic movement (1300-1600) begun in Italian merchant republics (Florence, Venice, Milan, Rome). Characterized by recovery of Greco-Roman classical values, secular humanism and scientific perspective. Wealthy patrons (Medici in Florence, popes in Rome) sponsored arts. Great masters: Leonardo da Vinci (polymath, Mona Lisa, Last Supper), Michelangelo (Sistine Chapel, David), Raphael (School of Athens), Botticelli (Birth of Venus). Architecture: Brunelleschi's dome (Florence), St. Peter's (Bramante, Michelangelo). Literature: Dante (Divine Comedy), Petrarch (love lyrics), Boccaccio (Decameron), Machiavelli (The Prince - realist political science). Development of linear perspective technique revolutionized painting. Fall of Constantinople (1453) brought refugees with Greek manuscripts. Gutenberg's printing press (1450) rapidly disseminated ideas.",
+      "descricao_es": "Movimiento cultural y artístico (1300-1600) iniciado en repúblicas mercantiles italianas (Florencia, Venecia, Milán, Roma). Caracterizado por recuperación de valores clásicos greco-romanos, humanismo secular y perspectiva científica. Mecenas ricos (Medici en Florencia, papas en Roma) patrocinaron artes. Grandes maestros: Leonardo da Vinci (polímata, Mona Lisa, Última Cena), Miguel Ángel (Capilla Sixtina, David), Rafael (Escuela de Atenas), Botticelli (Nacimiento de Venus). Arquitectura: cúpula de Brunelleschi (Florencia), San Pedro (Bramante, Miguel Ángel). Literatura: Dante (Divina Comedia), Petrarca (lírica amorosa), Boccaccio (Decamerón), Maquiavelo (El Príncipe - ciencia política realista). Desarrollo de técnica de perspectiva lineal revolucionó pintura. Caída de Constantinopla (1453) trajo refugiados con manuscritos griegos. Imprenta de Gutenberg (1450) diseminó ideas rápidamente.",
+      "inicio": 1300,
+      "fim": 1600,
+      "tags": [
+        "renascimento",
+        "italia",
+        "humanismo"
+      ],
+      "importancia": "O Renascimento italiano foi único em sua combinação de fatores: riqueza comercial das cidades-estado, ausência de poder imperial centralizado, acesso a manuscritos gregos via Bizâncio e competição entre mecenas rivais que aumentou a oferta de arte. Nenhum desses fatores existia sozinho — foi a convergência que gerou o fenômeno. A questão histórica mais fascinante é por que não havia ocorrido antes: as condições materiais (comércio, urbanização) existiam há 200 anos antes de 1400.",
+      "century_start": 13,
+      "century_end": 16,
+      "region": "Europe",
+      "type": "cultural",
+      "period": "Medieval",
+      "importancia_en": "Gutenberg's printing press (1450) rapidly disseminated ideas.",
+      "importancia_es": "Caída de Constantinopla (1453) trajo refugiados con manuscritos griegos. Imprenta de Gutenberg (1450) diseminó ideas rápidamente."
+    },
+    {
+      "id": "ren-new-003",
+      "nome": "Humanismo Renascentista",
+      "nome_en": "Renaissance Humanism",
+      "nome_es": "Humanismo Renacentista",
+      "tipo": "periodo",
+      "descricao": "Movimento intelectual (1350-1600) centrado em studia humanitatis (gramática, retórica, poesia, história, filosofia moral) baseado em textos clássicos. Humanistas rejeitaram escolástica medieval focando em potencial humano, educação liberal e virtude cívica. Petrarca (1304-1374) pioneiro recuperando Cícero e Lívio. Lorenzo Valla usou filologia para expor falsificação da Doação de Constantino (documento papal). Pico della Mirandola (Oração sobre Dignidade do Homem) exaltou livre arbítrio humano. Academias platônicas (Florença, Ficino) estudaram filosofia grega. Studia humanitatis ensinados em universidades e cortes substituindo trivium/quadrivium. Humanismo civil (Bruni, Salutati) enfatizou participação política republicana. Consequências: secularização do conhecimento, crítica textual bíblica, ênfase em educação clássica e dignidade humana. Preparou caminho para Iluminismo.",
+      "descricao_en": "Intellectual movement (1350-1600) centered on studia humanitatis (grammar, rhetoric, poetry, history, moral philosophy) based on classical texts. Humanists rejected medieval scholasticism focusing on human potential, liberal education and civic virtue. Petrarch (1304-1374) pioneer recovering Cicero and Livy. Lorenzo Valla used philology to expose falsification of Donation of Constantine (papal document). Pico della Mirandola (Oration on Dignity of Man) exalted human free will. Platonic academies (Florence, Ficino) studied Greek philosophy. Studia humanitatis taught in universities and courts replacing trivium/quadrivium. Civic humanism (Bruni, Salutati) emphasized republican political participation. Consequences: secularization of knowledge, biblical textual criticism, emphasis on classical education and human dignity. Prepared way for Enlightenment.",
+      "descricao_es": "Movimiento intelectual (1350-1600) centrado en studia humanitatis (gramática, retórica, poesía, historia, filosofía moral) basado en textos clásicos. Humanistas rechazaron escolástica medieval enfocándose en potencial humano, educación liberal y virtud cívica. Petrarca (1304-1374) pionero recuperando Cicerón y Livio. Lorenzo Valla usó filología para exponer falsificación de Donación de Constantino (documento papal). Pico della Mirandola (Oración sobre Dignidad del Hombre) exaltó libre albedrío humano. Academias platónicas (Florencia, Ficino) estudiaron filosofía griega. Studia humanitatis enseñados en universidades y cortes sustituyendo trivium/quadrivium. Humanismo civil (Bruni, Salutati) enfatizó participación política republicana. Consecuencias: secularización del conocimiento, crítica textual bíblica, énfasis en educación clásica y dignidad humana. Preparó camino para Ilustración.",
+      "inicio": 1350,
+      "fim": 1600,
+      "tags": [
+        "renascimento",
+        "humanismo",
+        "classicismo"
+      ],
+      "importancia": "O humanismo renascentista foi a revolução epistemológica que precedeu a científica: ao afirmar que o ser humano — e não Deus ou o universo — é a medida de todas as coisas, criou o pré-requisito cultural para a ciência empírica. O studia humanitatis (gramática, retórica, poética, história, filosofia moral) era o programa educacional que formou Galileu, Copérnico e Erasmo. A frase de Protágoras, redescoberta pelos humanistas, resume o programa: 'O homem é a medida de todas as coisas.'",
+      "century_start": 14,
+      "century_end": 16,
+      "region": "Europe",
+      "type": "religious",
+      "period": "Medieval",
+      "importancia_en": "Consequences: secularization of knowledge, biblical textual criticism, emphasis on classical education and human dignity. Prepared way for Enlightenment.",
+      "importancia_es": "Consecuencias: secularización del conocimiento, crítica textual bíblica, énfasis en educación clásica y dignidad humana. Preparó camino para Ilustración."
+    },
+    {
+      "id": "ren-new-002",
+      "nome": "Renascimento do Norte",
+      "nome_en": "Northern Renaissance",
+      "nome_es": "Renacimiento del Norte",
+      "tipo": "periodo",
+      "descricao": "Movimento renascentista nos Países Baixos, Alemanha, França e Inglaterra (1450-1600) com características distintas do italiano: maior ênfase em realismo detalhista, temas religiosos e crítica social. Principais artistas: Jan van Eyck (realismo flamengo, óleo sobre tela), Hieronymus Bosch (alegorias complexas), Pieter Bruegel (cenas camponesas), Albrecht Dürer (gravuras, auto-retratos). Humanistas nórdicos: Erasmo de Roterdã (Elogio da Loucura, crítica à corrupção eclesiástica), Thomas More (Utopia, sociedade ideal), Montaigne (Ensaios, ceticismo filosófico). Imprensa permitiu disseminação massiva de Bíblias e textos humanistas. Arquitetura: châteaux franceses do Loire combinando gótico e renascentista. Teatro isabelino: William Shakespeare revolucionou drama (Hamlet, Macbeth, Rei Lear). Norte manteve maior religiosidade que Itália secular, preparando Reforma Protestante.",
+      "descricao_en": "Renaissance movement in Low Countries, Germany, France and England (1450-1600) with distinct characteristics from Italian: greater emphasis on detailed realism, religious themes and social criticism. Main artists: Jan van Eyck (Flemish realism, oil on canvas), Hieronymus Bosch (complex allegories), Pieter Bruegel (peasant scenes), Albrecht Dürer (engravings, self-portraits). Northern humanists: Erasmus of Rotterdam (Praise of Folly, criticism of ecclesiastical corruption), Thomas More (Utopia, ideal society), Montaigne (Essays, philosophical skepticism). Printing press enabled mass dissemination of Bibles and humanist texts. Architecture: French Loire châteaux combining Gothic and Renaissance. Elizabethan theater: William Shakespeare revolutionized drama (Hamlet, Macbeth, King Lear). North maintained greater religiosity than secular Italy, preparing Protestant Reformation.",
+      "descricao_es": "Movimiento renacentista en Países Bajos, Alemania, Francia e Inglaterra (1450-1600) con características distintas del italiano: mayor énfasis en realismo detallista, temas religiosos y crítica social. Principales artistas: Jan van Eyck (realismo flamenco, óleo sobre lienzo), Hieronymus Bosch (alegorías complejas), Pieter Bruegel (escenas campesinas), Albrecht Dürer (grabados, autorretratos). Humanistas nórdicos: Erasmo de Rotterdam (Elogio de la Locura, crítica a corrupción eclesiástica), Tomás Moro (Utopía, sociedad ideal), Montaigne (Ensayos, escepticismo filosófico). Imprenta permitió diseminación masiva de Biblias y textos humanistas. Arquitectura: châteaux franceses del Loira combinando gótico y renacentista. Teatro isabelino: William Shakespeare revolucionó drama (Hamlet, Macbeth, Rey Lear). Norte mantuvo mayor religiosidad que Italia secular, preparando Reforma Protestante.",
+      "inicio": 1450,
+      "fim": 1600,
+      "tags": [
+        "renascimento",
+        "norte",
+        "erasmo"
+      ],
+      "importancia": "O Renascimento do Norte (Erasmo, Dürer, More, Holbein) foi mais textual e moral do que visual. Erasmo usou o humanismo para criticar a Igreja de dentro — seu Elogio da Loucura (1509) satirizou papas e bispos antes que Lutero pregasse suas teses. Dürer levou a perspectiva italiana para a gravura alemã, criando a primeira arte de massa reprodutível. O encontro entre humanismo erasmiano e imprensa de Gutenberg criou a cultura crítica que tornou a Reforma Protestante intelectualmente possível.",
+      "century_start": 15,
+      "century_end": 16,
+      "region": "Europe",
+      "type": "religious",
+      "period": "Medieval",
+      "importancia_en": "North maintained greater religiosity than secular Italy, preparing Protestant Reformation.",
+      "importancia_es": "Norte mantuvo mayor religiosidad que Italia secular, preparando Reforma Protestante."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ren-new-001",
+      "destino": "ren-new-002",
+      "tipo": "influencia",
+      "descricao": "Ideias renascentistas italianas influenciaram norte europeu"
+    },
+    {
+      "origem": "ren-new-003",
+      "destino": "ren-new-001",
+      "tipo": "causalidade",
+      "descricao": "Humanismo forneceu base intelectual para Renascimento artístico"
+    },
+    {
+      "origem": "ren-new-003",
+      "destino": "ren-new-002",
+      "tipo": "influencia",
+      "descricao": "Humanismo de Erasmo moldou Renascimento nórdico"
+    }
+  ]
+}

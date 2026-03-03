@@ -1,0 +1,33 @@
+{
+  "entidades": [
+    {
+      "id": "api-001",
+      "nome": "Arábia Pré-Islâmica e os Nabateus",
+      "nome_en": "Pre-Islamic Arabia and the Nabataeans",
+      "nome_es": "Arabia Preislámica y los Nabateos",
+      "tipo": "periodo",
+      "inicio": -400,
+      "fim": 630,
+      "descricao": "Nabateus (séc. IV a.C.–106 d.C.): povo árabe que controlou o comércio entre Arábia, Mediterrâneo e Índia. Capital: Petra (atual Jordânia) — cidade esculpida na rocha rosada, com sistema hidráulico para 30.000 pessoas no deserto. Anexados por Roma (106 d.C.). Rotas caravaneiras: incenso, mirra, especiarias, seda da Índia via Iêmen. Reinos árabes pré-islâmicos: Lakmidas (pró-Sassânida), Ghassânidas (pró-Bizâncio). Poesia árabe pré-islâmica (Muallaqat): sete odes de ouro penduradas na Kaaba. Meca: centro comercial e religioso com Kaaba (antes do islamismo, abrigava 360 ídolos).",
+      "descricao_en": "Nabataeans (4th c. BC–106 AD): Arab people who controlled trade between Arabia, Mediterranean and India. Capital: Petra (modern Jordan) — city carved into pink rock, with hydraulic system for 30,000 people in the desert. Annexed by Rome (106 AD). Caravan routes: incense, myrrh, spices, Indian silk via Yemen. Pre-Islamic Arab kingdoms: Lakhmids (pro-Sassanid), Ghassanids (pro-Byzantine). Pre-Islamic Arabic poetry (Muallaqat): seven golden odes hung at the Kaaba. Mecca: commercial and religious center with Kaaba (before Islam, housed 360 idols).",
+      "descricao_es": "Nabateos (siglo IV a.C.–106 d.C.): controlaron el comercio entre Arabia, el Mediterráneo y la India. Capital: Petra — ciudad esculpida en roca rosa, con sistema hidráulico para 30.000 personas en el desierto. Rutas de caravanas: incienso, mirra, especias, seda india. La Meca: centro comercial y religioso con la Kaaba (antes del islam, albergaba 360 ídolos).",
+      "tags": [
+        "nabateus",
+        "petra",
+        "arabia",
+        "meca",
+        "kaaba",
+        "poesia-arabe"
+      ],
+      "importancia": "Petra: cidade nabateia no deserto com água corrente para 30.000 pessoas — engenharia hidráulica avançada 400 anos antes de Cristo.",
+      "century_start": -4,
+      "century_end": 7,
+      "region": "MiddleEast",
+      "type": "economic",
+      "period": "Ancient",
+      "importancia_en": "Mecca: commercial and religious center with Kaaba (before Islam, housed 360 idols).",
+      "importancia_es": "La Meca: centro comercial y religioso con la Kaaba (antes del islam, albergaba 360 ídolos)."
+    }
+  ],
+  "relacoes": []
+}

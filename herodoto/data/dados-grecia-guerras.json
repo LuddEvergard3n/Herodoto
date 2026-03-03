@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "fonte": "Historiografia Internacional",
+    "lingua": "pt",
+    "tema": "Guerras Greco-Persas e do Peloponeso",
+    "periodo": "499–323 a.C."
+  },
+  "entidades": [
+    {
+      "id": "gg-001",
+      "nome": "Guerras Médicas: Maratona, Termópilas e Salamina",
+      "nome_en": "Greco-Persian Wars: Marathon, Thermopylae, Salamis",
+      "nome_es": "Guerras Médicas: Maratón, Termópilas y Salamina",
+      "tipo": "periodo",
+      "inicio": -499,
+      "fim": -479,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": -6,
+      "century_end": -6,
+      "type": "war",
+      "descricao": "As Guerras Médicas (499–479 a.C.) foram o confronto entre as cidades-estado gregas e o Império Aquemênida Persa. Batalha de Maratona (490 a.C.): 10.000 atenienses derrotaram 25.000 persas — Milcíades contra Dátis. Termópilas (480 a.C.): Leônidas e 300 espartanos retardaram o exército de Xerxes por 3 dias. Salamina (480 a.C.): a frota ateniense de Temístocles destruiu a armada persa, salvando a Grécia.",
+      "descricao_en": "The Greco-Persian Wars (499–479 BC) were the confrontation between Greek city-states and the Achaemenid Persian Empire. Battle of Marathon (490 BC): 10,000 Athenians defeated 25,000 Persians. Thermopylae (480 BC): Leonidas and 300 Spartans delayed Xerxes' army for 3 days. Salamis (480 BC): Themistocles' Athenian fleet destroyed the Persian armada.",
+      "descricao_es": "Las Guerras Médicas fueron el enfrentamiento entre las ciudades-estado griegas y el Imperio Persa Aqueménida.",
+      "importancia": "A vitória grega sobre a Pérsia preservou a polis como forma de organização política e permitiu o florescimento da democracia ateniense e da filosofia clássica. Uma vitória persa teria suprimido o experimento democrático antes de seu pleno desenvolvimento.",
+      "importancia_en": "The Greek victory over Persia preserved the polis as a political form and allowed the flowering of Athenian democracy and classical philosophy.",
+      "importancia_es": "La victoria griega preservó la polis como forma de organización política y permitió el florecimiento de la democracia ateniense.",
+      "tags": [
+        "Maratona",
+        "Termópilas",
+        "Salamina",
+        "Leônidas",
+        "Temístocles",
+        "persas"
+      ],
+      "dataset": "data/dados-grecia-guerras.json"
+    },
+    {
+      "id": "gg-002",
+      "nome": "Guerra do Peloponeso: Atenas vs Esparta",
+      "nome_en": "Peloponnesian War: Athens vs Sparta",
+      "nome_es": "Guerra del Peloponeso: Atenas vs Esparta",
+      "tipo": "periodo",
+      "inicio": -431,
+      "fim": -404,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": -5,
+      "century_end": -5,
+      "type": "war",
+      "descricao": "A Guerra do Peloponeso (431–404 a.C.), documentada por Tucídides em sua história magistral, foi o conflito que destruiu a hegemonia ateniense. Atenas liderava a Liga de Delos; Esparta, a Liga do Peloponeso. A Praga de Atenas (430 a.C.) matou ~75.000 pessoas incluindo Péricles. A catastrófica Expedição à Sicília (415–413 a.C.) destruiu a frota ateniense. Esparta venceu com apoio financeiro persa — a ironia da história.",
+      "descricao_en": "The Peloponnesian War (431–404 BC), documented by Thucydides in his masterful history, was the conflict that destroyed Athenian hegemony. The Plague of Athens (430 BC) killed ~75,000 people including Pericles. The catastrophic Sicilian Expedition (415–413 BC) destroyed the Athenian fleet. Sparta won with Persian financial support.",
+      "descricao_es": "La Guerra del Peloponeso destruyó la hegemonía ateniense. La Plaga de Atenas mató ~75.000 personas. Esparta venció con apoyo financiero persa.",
+      "importancia": "A história de Tucídides da Guerra do Peloponeso é considerada a primeira obra de história científica — baseada em evidências, sem referências a intervenção divina. Sua análise sobre poder, alianças e a guerra preventiva influencia a teoria das relações internacionais até hoje.",
+      "importancia_en": "Thucydides' history of the Peloponnesian War is considered the first work of scientific history. His analysis of power, alliances and preventive war influences international relations theory to this day.",
+      "importancia_es": "La historia de Tucídides es considerada la primera obra de historia científica. Su análisis sobre poder y guerra preventiva influye en la teoría de relaciones internacionales hasta hoy.",
+      "tags": [
+        "Peloponeso",
+        "Atenas",
+        "Esparta",
+        "Tucídides",
+        "Péricles",
+        "guerra",
+        "praga"
+      ],
+      "dataset": "data/dados-grecia-guerras.json"
+    },
+    {
+      "id": "gg-003",
+      "nome": "Alexandre Magno: Conquistas e Helenização",
+      "nome_en": "Alexander the Great: Conquests and Hellenization",
+      "nome_es": "Alejandro Magno: Conquistas y Helenización",
+      "tipo": "periodo",
+      "inicio": -336,
+      "fim": -323,
+      "region": "Multiple",
+      "period": "Ancient",
+      "century_start": -4,
+      "century_end": -4,
+      "type": "war",
+      "descricao": "Alexandre III da Macedônia (356–323 a.C.) conquistou em 13 anos um império que se estendia da Grécia ao Egito e ao atual Paquistão. Discípulo de Aristóteles, fundou ~70 cidades (Alexandrias) que se tornaram centros de cultura grega no Oriente. Derrotou Dario III em Isso (333 a.C.) e Gaugamela (331 a.C.). Chegou ao Indo mas seu exército se recusou a avançar. Morreu em Babilônia aos 32 anos, possivelmente de febre tifoide ou envenenamento.",
+      "descricao_en": "Alexander III of Macedon (356–323 BC) conquered in 13 years an empire stretching from Greece to Egypt and modern Pakistan. A disciple of Aristotle, he founded ~70 cities (Alexandrias) that became centers of Greek culture in the East. He defeated Darius III at Issus (333 BC) and Gaugamela (331 BC). He reached the Indus but his army refused to advance. He died in Babylon at 32.",
+      "descricao_es": "Alejandro Magno conquistó en 13 años un imperio desde Grecia hasta el actual Pakistán. Fundó ~70 ciudades que se convirtieron en centros de cultura griega en Oriente.",
+      "importancia": "As conquistas de Alexandre criaram o mundo helenístico — uma fusão de culturas grega, persa, egípcia e indiana que foi o contexto cultural do Novo Testamento e da filosofia estóica. Sem Alexandre, não haveria cultura greco-romana.",
+      "importancia_en": "Alexander's conquests created the Hellenistic world — a fusion of Greek, Persian, Egyptian and Indian cultures that was the cultural context of the New Testament and Stoic philosophy.",
+      "importancia_es": "Las conquistas de Alejandro crearon el mundo helenístico — una fusión de culturas griega, persa, egipcia e india.",
+      "tags": [
+        "Alexandre",
+        "Macedônia",
+        "conquistas",
+        "Helenismo",
+        "Aristóteles",
+        "Dario III"
+      ],
+      "dataset": "data/dados-grecia-guerras.json"
+    },
+    {
+      "id": "gg-004",
+      "nome": "Esparta: Constituição de Licurgo e a Sociedade Militar",
+      "nome_en": "Sparta: Lycurgus' Constitution and the Military Society",
+      "nome_es": "Esparta: Constitución de Licurgo y la Sociedad Militar",
+      "tipo": "periodo",
+      "inicio": -800,
+      "fim": -371,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": -9,
+      "century_end": -4,
+      "type": "political",
+      "descricao": "Esparta (Lacedemônia) desenvolveu um sistema social único baseado na Constituição de Licurgo (c. 800 a.C.): o agogê (educação militar obrigatória dos 7 aos 30 anos), a igualdade entre cidadãos (homoioi), a classe dos hilotas (servos de Estado) e o duplo reinado com ephoros. As mulheres espartanas tinham direitos incomuns para a Antiguidade: treinamento físico, propriedade e voz pública. Esparta foi derrotada por Tebas em Leuctra (371 a.C.) pela formação oblíqua de Epaminondas.",
+      "descricao_en": "Sparta (Lacedaemon) developed a unique social system based on Lycurgus' Constitution (c. 800 BC): the agoge (mandatory military education from ages 7-30), equality among citizens (homoioi), the helot class (state serfs) and dual kingship with ephors. Spartan women had rights unusual for Antiquity: physical training, property and public voice. Sparta was defeated by Thebes at Leuctra (371 BC).",
+      "descricao_es": "Esparta desarrolló un sistema social único basado en la Constitución de Licurgo: la educación militar obligatoria (agogê), la igualdad entre ciudadanos y el sistema de ilotas.",
+      "importancia": "O modelo espartano foi idealizado por filósofos como Platão (na República) e influenciou profundamente os pensadores políticos modernos, incluindo Rousseau e os revolucionários franceses — que admiravam o igualitarismo espartano.",
+      "importancia_en": "The Spartan model was idealized by philosophers like Plato (in the Republic) and deeply influenced modern political thinkers, including Rousseau and the French revolutionaries.",
+      "importancia_es": "El modelo espartano fue idealizado por filósofos como Platón e influyó profundamente en pensadores políticos modernos.",
+      "tags": [
+        "Esparta",
+        "Licurgo",
+        "agogê",
+        "hilotas",
+        "militar",
+        "Leuctra",
+        "Epaminondas"
+      ],
+      "dataset": "data/dados-grecia-guerras.json"
+    },
+    {
+      "id": "gg-005",
+      "nome": "Democracia Ateniense: Clístenes, Péricles e a Ágora",
+      "nome_en": "Athenian Democracy: Cleisthenes, Pericles and the Agora",
+      "nome_es": "Democracia Ateniense: Clístenes, Pericles y el Ágora",
+      "tipo": "periodo",
+      "inicio": -508,
+      "fim": -322,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": -6,
+      "century_end": -4,
+      "type": "political",
+      "descricao": "A democracia ateniense foi criada pelas reformas de Clístenes (508 a.C.), que substituiu as tribos aristocráticas por 10 tribos geográficas. Péricles (461–429 a.C.) expandiu a democracia: pagamento para jurados e magistrados (permitindo participação dos pobres), construção do Partenon e liderança da 'Idade de Ouro'. A Assembleia (Eclésia) era aberta a todos os cidadãos homens livres — ~30.000 pessoas em uma população de ~300.000.",
+      "descricao_en": "Athenian democracy was created by Cleisthenes' reforms (508 BC), which replaced aristocratic tribes with 10 geographic tribes. Pericles (461–429 BC) expanded democracy: payment for jurors and magistrates (enabling poor participation), construction of the Parthenon and leadership of the 'Golden Age'. The Assembly (Ecclesia) was open to all free male citizens.",
+      "descricao_es": "La democracia ateniense fue creada por las reformas de Clístenes (508 a.C.). Pericles expandió la democracia con el pago de jurados y magistrados.",
+      "importancia": "A democracia ateniense foi o primeiro experimento de autogoverno popular da história. Apesar de excluir mulheres, escravos e estrangeiros, estabeleceu os conceitos fundamentais de voto, igualdade perante a lei e debate público que fundaram a democracia moderna.",
+      "importancia_en": "Athenian democracy was the first experiment in popular self-government in history. Despite excluding women, slaves and foreigners, it established the fundamental concepts of voting, equality before the law and public debate.",
+      "importancia_es": "La democracia ateniense fue el primer experimento de autogobierno popular de la historia.",
+      "tags": [
+        "democracia",
+        "Atenas",
+        "Clístenes",
+        "Péricles",
+        "Ágora",
+        "Eclésia",
+        "cidadania"
+      ],
+      "dataset": "data/dados-grecia-guerras.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "gg-001",
+      "destino": "gg-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Vitória persa cede lugar à guerra intrahelênica"
+    },
+    {
+      "origem": "gg-004",
+      "destino": "gg-005",
+      "tipo": "paralelo",
+      "intensidade": 0.7,
+      "descricao": "Esparta e Atenas são modelos políticos opostos"
+    },
+    {
+      "origem": "gg-002",
+      "destino": "gg-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Enfraquecimento das polis abre caminho para Macedônia"
+    },
+    {
+      "origem": "gg-003",
+      "destino": "gg-001",
+      "tipo": "paralelo",
+      "intensidade": 0.4,
+      "descricao": "Guerras médicas precedem a hegemonia macedônia"
+    }
+  ]
+}

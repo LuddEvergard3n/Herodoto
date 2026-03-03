@@ -1,0 +1,32 @@
+{
+  "entidades": [
+    {
+      "id": "irm-001",
+      "nome": "Irã Moderno: Mossadegh, Xá e a Revolução Islâmica",
+      "nome_en": "Modern Iran: Mossadegh, Shah and the Islamic Revolution",
+      "nome_es": "Irán Moderno: Mossadegh, Shah y la Revolución Islámica",
+      "tipo": "periodo",
+      "inicio": 1906,
+      "fim": 2023,
+      "descricao": "Revolução Constitucional (1906): primeiro parlamento do Oriente Médio. Reza Shah Pahlavi (1925–41): modernização forçada, laicização. Mossadegh (1951–53): primeiro-ministro eleito que nacionalizou o petróleo britânico; derrubado por golpe CIA-MI6 (Operação Ajax) — restaurou o Xá Reza Pahlavi. Revolução Islâmica (1979): Khomeini retornou do exílio, derrubou o Xá; tomada de reféns americanos (444 dias). Guerra Irã-Iraque (1980–88): ~500.000 mortos; EUA apoiou Saddam Hussein com armas químicas. Programa nuclear iraniano. Protestos Mulheres, Vida, Liberdade (2022): mortes Mahsa Amini.",
+      "descricao_en": "Constitutional Revolution (1906): first parliament in the Middle East. Reza Shah Pahlavi (1925–41): forced modernization, secularization. Mossadegh (1951–53): elected prime minister who nationalized British oil; overthrown by CIA-MI6 coup (Operation Ajax) — restored Shah Reza Pahlavi. Islamic Revolution (1979): Khomeini returned from exile, overthrew the Shah; US hostage crisis (444 days). Iran-Iraq War (1980–88): ~500,000 dead; US supported Saddam Hussein with chemical weapons. Iranian nuclear program. Women, Life, Freedom protests (2022): Mahsa Amini deaths.",
+      "descricao_es": "Revolución Constitucional (1906): primer parlamento del Oriente Medio. Mossadegh (1951–53): primer ministro electo que nacionalizó el petróleo británico; derrocado por golpe CIA-MI6. Revolución Islámica (1979): Khomeini retornó del exilio; crisis de rehenes (444 días). Guerra Irán-Irak (1980–88): ~500.000 muertos; EE.UU. apoyó a Saddam con armas químicas. Protestas Mujer, Vida, Libertad (2022).",
+      "tags": [
+        "mossadegh",
+        "khomeini",
+        "revolucao-islamica",
+        "iran-iraque",
+        "nuclear"
+      ],
+      "importancia": "O golpe contra Mossadegh (1953): a CIA derrubou o único governo democrático eleito do Oriente Médio no séc. XX — consequências ainda visíveis 70 anos depois.",
+      "century_start": 20,
+      "century_end": 21,
+      "region": "MiddleEast",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "Iran-Iraq War (1980–88): ~500,000 dead; US supported Saddam Hussein with chemical weapons. Women, Life, Freedom protests (2022): Mahsa Amini deaths.",
+      "importancia_es": "apoyó a Saddam con armas químicas. Protestas Mujer, Vida, Libertad (2022)."
+    }
+  ],
+  "relacoes": []
+}

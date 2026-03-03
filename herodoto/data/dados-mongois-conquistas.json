@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Mongóis: Conquistas, Impérios e Legado",
+    "periodo": "1162-1405"
+  },
+  "entidades": [
+    {
+      "id": "mco-001",
+      "nome": "Gengis Khan: A Unificação das Tribos",
+      "nome_en": "Genghis Khan: The Unification of Tribes",
+      "nome_es": "Gengis Kan: La Unificación de las Tribus",
+      "tipo": "periodo",
+      "inicio": 1162,
+      "fim": 1206,
+      "region": "Multiple",
+      "period": "Medieval",
+      "century_start": 12,
+      "type": "political",
+      "descricao": "Temüjin (c. 1162–1227), filho de um chefe tribal mongol, cresceu em cativeiro após a morte do pai. Através de guerras, alianças e uma liderança excepcional, unificou as tribos mongolas fragmentadas (1206) e foi proclamado Gengis Khan ('Governante Universal'). Criou um exército meritocrático que rompeu com o sistema tribal — promoção por mérito, não linhagem. Desenvolveu comunicações (yam — sistema postal), lei unificada (yassa) e liberdade religiosa.",
+      "descricao_en": "Temüjin (c. 1162–1227), son of a Mongol tribal chief, grew up in captivity after his father's death. Through wars, alliances and exceptional leadership, he unified the fragmented Mongol tribes (1206) and was proclaimed Genghis Khan ('Universal Ruler'). He created a meritocratic army that broke with the tribal system — promotion by merit, not lineage.",
+      "descricao_es": "Temüjin unificó las tribus mongolas (1206) y fue proclamado Gengis Kan. Creó un ejército meritocrático, comunicaciones (yam), ley unificada (yassa) y libertad religiosa.",
+      "importancia": "Gengis Khan é o conquistador que mais território dominou na história — de forma contínua. Seu exército meritocrático foi revolucionário para a época. O Império Mongol que criou foi a maior entidade política contígua da história humana.",
+      "importancia_en": "Genghis Khan conquered more contiguous territory than anyone in history. His meritocratic army was revolutionary for the time. The Mongol Empire he created was the largest contiguous political entity in human history.",
+      "importancia_es": "Gengis Kan es el conquistador que más territorio dominó en la historia de forma continua.",
+      "tags": [
+        "Gengis Khan",
+        "Temüjin",
+        "mongóis",
+        "unificação",
+        "meritocracia"
+      ],
+      "dataset": "data/dados-mongois-conquistas.json"
+    },
+    {
+      "id": "mco-002",
+      "nome": "A Máquina de Guerra Mongol",
+      "nome_en": "The Mongol War Machine",
+      "nome_es": "La Máquina de Guerra Mongol",
+      "tipo": "periodo",
+      "inicio": 1206,
+      "fim": 1260,
+      "region": "Multiple",
+      "period": "Medieval",
+      "century_start": 13,
+      "type": "war",
+      "descricao": "O exército mongol combinava mobilidade extrema (cavalaria leve com arcos compostos recurvados, eficazes a 300m), inteligência (rede de espiões), engenharia de sítio (aprendida com engenheiros chineses e persas) e psicologia do terror. A tática favorita era fingir retirada para emboscar. Cidades que se rendiam eram poupadas; as que resistiam, destruídas. Bagdá (1258) foi completamente arrasada — fim do Califado Abássida e da 'Idade de Ouro' islâmica.",
+      "descricao_en": "The Mongol army combined extreme mobility (light cavalry with composite recurve bows effective at 300m), intelligence (spy network), siege engineering (learned from Chinese and Persian engineers) and terror psychology. Their favorite tactic was feigned retreat to ambush. Cities that surrendered were spared; those that resisted were destroyed. Baghdad (1258) was completely razed — end of the Abbasid Caliphate and Islamic 'Golden Age'.",
+      "descricao_es": "El ejército mongol combinaba movilidad extrema, inteligencia, ingeniería de sitio y psicología del terror. Bagdad (1258) fue completamente arrasada, poniendo fin al Califato Abásida.",
+      "importancia": "O saque de Bagdá (1258) destruiu a maior cidade do mundo islâmico e encerrou a Idade de Ouro islâmica. A Biblioteca de Bagdá — repositório do saber grego e islâmico — foi destruída. Estimativas apontam para 200.000–800.000 mortos.",
+      "importancia_en": "The sack of Baghdad (1258) destroyed the greatest city of the Islamic world and ended the Islamic Golden Age. The Library of Baghdad — repository of Greek and Islamic knowledge — was destroyed. Estimates point to 200,000–800,000 deaths.",
+      "importancia_es": "El saqueo de Bagdad (1258) destruyó la mayor ciudad del mundo islámico y puso fin a la Edad de Oro islámica.",
+      "tags": [
+        "guerra",
+        "cavalaria",
+        "arcos",
+        "Bagdá",
+        "saque",
+        "terror"
+      ],
+      "dataset": "data/dados-mongois-conquistas.json"
+    },
+    {
+      "id": "mco-004",
+      "nome": "Rota da Seda Mongol: Pax Mongolica",
+      "nome_en": "Mongol Silk Road: Pax Mongolica",
+      "nome_es": "Ruta de la Seda Mongol: Pax Mongolica",
+      "tipo": "periodo",
+      "inicio": 1206,
+      "fim": 1368,
+      "region": "Multiple",
+      "period": "Medieval",
+      "century_start": 13,
+      "type": "economic",
+      "descricao": "A unificação mongol criou a 'Pax Mongolica': pela primeira vez na história, era possível viajar da Europa ao Japão com segurança relativa. A Rota da Seda floresceu como nunca — seda, especiarias, papel, pólvora, tecnologia e doenças circularam livremente. Marco Polo, Ibn Battuta e missionários franciscanos percorreram essa rede. A Peste Negra também viajou pela Rota da Seda mongol, chegando à Europa em 1347.",
+      "descricao_en": "Mongol unification created the 'Pax Mongolica': for the first time in history, it was possible to travel from Europe to Japan in relative safety. The Silk Road flourished as never before — silk, spices, paper, gunpowder, technology and diseases circulated freely. Marco Polo, Ibn Battuta and Franciscan missionaries traveled this network. The Black Death also traveled via the Mongol Silk Road, arriving in Europe in 1347.",
+      "descricao_es": "La Pax Mongolica permitió viajar de Europa a Japón con relativa seguridad. La Ruta de la Seda floreció. La Peste Negra también viajó por la Ruta de la Seda mongola, llegando a Europa en 1347.",
+      "importancia": "A Pax Mongolica foi a primeira 'globalização' da história — conectando Atlântico ao Pacífico. Paradoxalmente, o mesmo sistema que facilitou o comércio e o conhecimento também transportou a Peste Negra à Europa.",
+      "importancia_en": "The Pax Mongolica was the first 'globalization' in history — connecting Atlantic to Pacific. Paradoxically, the same system that facilitated trade and knowledge also transported the Black Death to Europe.",
+      "importancia_es": "La Pax Mongolica fue la primera 'globalización' de la historia. El mismo sistema que facilitó el comercio también transportó la Peste Negra a Europa.",
+      "tags": [
+        "Rota da Seda",
+        "Pax Mongolica",
+        "comércio",
+        "Peste Negra",
+        "globalização"
+      ],
+      "dataset": "data/dados-mongois-conquistas.json"
+    },
+    {
+      "id": "mco-006",
+      "nome": "Horda Dourada e a Rússia Mongol",
+      "nome_en": "Golden Horde and Mongol Russia",
+      "nome_es": "Horda Dorada y la Rusia Mongol",
+      "tipo": "periodo",
+      "inicio": 1237,
+      "fim": 1480,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 13,
+      "type": "political",
+      "descricao": "A Horda Dourada (Mongóis do Oeste, 1237–1502) invadiu a Rússia e a Europa Oriental entre 1237–1242, destruindo Kiev, Moscou, Cracóvia e chegando à Siléssia (Polônia). Os principados russos foram vassalos dos mongóis por ~240 anos — pagando tributos e recebendo yarliks (licenças) de governo. Moscou cresceu servindo os mongóis como coletora de impostos. A dominação mongol moldou o Estado russo: centralismo, autocracia, sistema de tributos.",
+      "descricao_en": "The Golden Horde (Western Mongols, 1237–1502) invaded Russia and Eastern Europe between 1237–1242, destroying Kiev, Moscow, Krakow and reaching Silesia (Poland). Russian principalities were Mongol vassals for ~240 years — paying tributes and receiving yarliks (governance licenses). Moscow grew by serving the Mongols as tax collector. Mongol domination shaped the Russian state: centralism, autocracy, tribute system.",
+      "descricao_es": "La Horda Dorada invadió Rusia y Europa Oriental (1237-1242), destruyendo Kiev y Moscú. Los principados rusos fueron vasallos mongoles por ~240 años. La dominación mongola moldeó el Estado ruso: centralismo y autocracia.",
+      "importancia": "240 anos de dominação mongol moldaram o Estado russo de forma profunda: o modelo autocrático, centralizado e tributário que Pedro o Grande herdou e modernizou tem raízes diretas na administração da Horda Dourada. 'Raspe o russo e você encontrará o tártaro' (Napoleão).",
+      "importancia_en": "240 years of Mongol domination deeply shaped the Russian state: the autocratic, centralized and tributary model that Peter the Great inherited and modernized has direct roots in the Golden Horde administration. 'Scratch a Russian and you'll find a Tatar' (Napoleon).",
+      "importancia_es": "240 años de dominación mongola moldearon el Estado ruso profundamente. 'Rasca a un ruso y encontrarás a un tártaro' (Napoleón).",
+      "tags": [
+        "Horda Dourada",
+        "Rússia",
+        "Kiev",
+        "tributação",
+        "vassalagem",
+        "Moscou"
+      ],
+      "dataset": "data/dados-mongois-conquistas.json"
+    },
+    {
+      "id": "mco-003",
+      "nome": "Kublai Khan e a China: A Dinastia Yuan",
+      "nome_en": "Kublai Khan and China: The Yuan Dynasty",
+      "nome_es": "Kublai Kan y China: La Dinastía Yuan",
+      "tipo": "periodo",
+      "inicio": 1260,
+      "fim": 1368,
+      "region": "Asia",
+      "period": "Medieval",
+      "century_start": 13,
+      "type": "political",
+      "descricao": "Kublai Khan (1215–1294) completou a conquista da China Song (1279) e fundou a Dinastia Yuan, tornando-se o primeiro governante não-chinês a controlar toda a China. Estabeleceu sua capital em Dadu (atual Pequim). Marco Polo visitou sua corte (1271–1295) e descreveu uma civilização de riqueza inimaginável para os europeus. Kublai tentou invasões fracassadas do Japão (1274, 1281 — tifões 'kamikaze' destruíram as frotas), Java e Vietnã.",
+      "descricao_en": "Kublai Khan (1215–1294) completed the conquest of Song China (1279) and founded the Yuan Dynasty, becoming the first non-Chinese ruler to control all of China. He established his capital at Dadu (modern Beijing). Marco Polo visited his court (1271–1295). Kublai made failed invasion attempts of Japan (1274, 1281 — 'kamikaze' typhoons destroyed the fleets), Java and Vietnam.",
+      "descricao_es": "Kublai Kan completó la conquista de China y fundó la Dinastía Yuan. Marco Polo visitó su corte. Las invasiones a Japón fracasaron por tifones 'kamikaze'.",
+      "importancia": "Kublai Khan foi o único governante a controlar simultaneamente China, Mongólia, Coreia e grande parte da Ásia Central. Marco Polo levou ao Ocidente o conhecimento da China — e suas descrições inspiraram Colombo a buscar uma rota marítima para o Oriente.",
+      "importancia_en": "Kublai Khan was the only ruler to simultaneously control China, Mongolia, Korea and much of Central Asia. Marco Polo brought knowledge of China to the West — and his descriptions inspired Columbus to seek a maritime route to the Orient.",
+      "importancia_es": "Kublai Kan fue el único gobernante en controlar simultáneamente China, Mongolia y Corea. Marco Polo inspiró a Colón.",
+      "tags": [
+        "Kublai Khan",
+        "Yuan",
+        "China",
+        "Marco Polo",
+        "Japão",
+        "kamikaze"
+      ],
+      "dataset": "data/dados-mongois-conquistas.json"
+    },
+    {
+      "id": "mco-005",
+      "nome": "Tamerlão: O Último Grande Conquistador",
+      "nome_en": "Timur (Tamerlane): The Last Great Conqueror",
+      "nome_es": "Tamerlán: El Último Gran Conquistador",
+      "tipo": "periodo",
+      "inicio": 1336,
+      "fim": 1405,
+      "region": "Multiple",
+      "period": "Medieval",
+      "century_start": 14,
+      "type": "war",
+      "descricao": "Timur (Tamerlão, 1336–1405) não era etnicamente mongol, mas reivindicou herança de Gengis Khan. Saído da Ásia Central (Samarcanda), reconquistou o Irã, Iraque, Índia (saque de Delhi, 1398 — 100.000 mortos), Síria, Anatólia (derrotando os otomanos em Ancara, 1402) e Caucáso. Seu Império foi imenso mas efêmero — desmembrado após sua morte. Sua principal contribuição: fundou a Dinastia Timúrida que patrocinou artes e ciência em Samarcanda.",
+      "descricao_en": "Timur (Tamerlane, 1336–1405) was not ethnically Mongol but claimed Genghis Khan's heritage. From Central Asia (Samarkand), he reconquered Iran, Iraq, India (sack of Delhi, 1398 — 100,000 deaths), Syria, Anatolia (defeating the Ottomans at Ankara, 1402) and the Caucasus. His Empire was immense but ephemeral. His main contribution: he founded the Timurid Dynasty which patronized arts and science in Samarkand.",
+      "descricao_es": "Tamerlán reconquistó Irán, Iraq, India (saqueo de Delhi, 100.000 muertos), Siria y Anatolia (derrotando a los otomanos en Ankara, 1402). Fundó la Dinastía Timúrida que patrocinó artes y ciencia en Samarcanda.",
+      "importancia": "Tamerlão foi o maior conquistador do século XIV e o último grande chefe guerreiro da tradição estepária. A derrota otomana em Ankara (1402) adiou a queda de Constantinopla em 50 anos — dando tempo para a fuga de intelectuais gregos para a Itália, o que alimentou o Renascimento.",
+      "importancia_en": "Tamerlane was the greatest conqueror of the 14th century. The Ottoman defeat at Ankara (1402) delayed the fall of Constantinople by 50 years — giving time for Greek intellectuals to flee to Italy, which fed the Renaissance.",
+      "importancia_es": "La derrota otomana en Ankara (1402) retrasó la caída de Constantinopla 50 años, dando tiempo para que intelectuales griegos huyeran a Italia, alimentando el Renacimiento.",
+      "tags": [
+        "Tamerlão",
+        "Timur",
+        "Samarcanda",
+        "Delhi",
+        "otomanos",
+        "Timúrida"
+      ],
+      "dataset": "data/dados-mongois-conquistas.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "mco-001",
+      "destino": "mco-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Unificação de Gengis cria a máquina de guerra mongol"
+    },
+    {
+      "origem": "mco-002",
+      "destino": "mco-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Conquistas iniciais são completadas por Kublai na China"
+    },
+    {
+      "origem": "mco-002",
+      "destino": "mco-006",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Invasão mongol cria a Horda Dourada na Rússia"
+    },
+    {
+      "origem": "mco-002",
+      "destino": "mco-004",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Conquista cria a Pax Mongolica e revitaliza a Rota da Seda"
+    },
+    {
+      "origem": "mco-001",
+      "destino": "mco-005",
+      "tipo": "influencia",
+      "intensidade": 0.7,
+      "descricao": "Tamerlão herda e reinventa a tradição conquista de Gengis"
+    }
+  ]
+}

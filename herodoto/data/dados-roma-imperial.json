@@ -1,0 +1,173 @@
+{
+  "entidades": [
+    {
+      "id": "ri-003",
+      "nome": "O Direito Romano: A Maior Herança Jurídica da Humanidade (sécs. V a.C.–VI d.C.)",
+      "nome_en": "Roman Law: Humanity's Greatest Legal Heritage (5th century BC–6th century AD)",
+      "nome_es": "El Derecho Romano: La Mayor Herencia Jurídica de la Humanidad (siglos V a.C.–VI d.C.)",
+      "tipo": "periodo",
+      "inicio": -450,
+      "fim": 534,
+      "descricao": "A Lei das Doze Tábuas (450 a.C.) → Corpus Juris Civilis de Justiniano (534 d.C.): mil anos de desenvolvimento jurídico. Conceitos jurídicos criados por Roma que permanecem no direito moderno: 'presunção de inocência', 'in dubio pro reo', 'habeas corpus', 'persona jurídica', 'contrato', 'propriedade privada', 'herdeiro', 'tutela'. Juristas: Gáio, Ulpiano, Papiniano — os primeiros 'doutrinadores' do direito. Ius gentium: direito aplicável a não-cidadãos — primeiro protodireito internacional. O Digesto de Justiniano (533 d.C.): compilação de 1.500 anos de jurisprudência — redescoberto no século XI, tornou-se a base do direito civil europeu (Civil Law) que vigora hoje em Brasil, França, Alemanha, Itália, Espanha e 90+ países.",
+      "descricao_en": "From the Twelve Tables (450 BC) to Justinian's Corpus Juris Civilis (534 AD): 1,000 years of legal development. Legal concepts created by Rome still present in modern law: 'presumption of innocence', 'in dubio pro reo', 'habeas corpus', 'legal person', 'contract', 'private property', 'heir'. Ius gentium: law applicable to non-citizens — first proto-international law. Justinian's Digest (533 AD): rediscovered in the 11th century, became the basis of Civil Law in Brazil, France, Germany, Italy, Spain and 90+ countries.",
+      "descricao_es": "De las Doce Tablas (450 a.C.) al Corpus Juris Civilis de Justiniano (534 d.C.): 1.000 años de desarrollo jurídico. Conceptos legales romanos presentes en el derecho moderno: 'presunción de inocencia', 'habeas corpus', 'persona jurídica', 'contrato'. El Digesto de Justiniano (533 d.C.): redescubierto en el siglo XI, se convirtió en la base del derecho civil en Brasil, Francia, Alemania, Italia, España y más de 90 países.",
+      "importancia": "O Direito Romano é o legado mais direto e influente de Roma: 2/3 dos países do mundo (Brasil, Europa continental) usam sistemas jurídicos derivados do Corpus Juris Civilis.",
+      "importancia_en": "Roman Law is Rome's most direct and influential legacy to the contemporary world: 2/3 of the world's countries (including all of Brazil and continental Europe) use legal systems derived from the Corpus Juris Civilis, which governs property, inheritance, contracts and family law.",
+      "importancia_es": "El Derecho Romano es el legado más directo e influyente de Roma para el mundo contemporáneo: 2/3 de los países del mundo (incluido todo Brasil y Europa continental) utilizan sistemas jurídicos derivados del Corpus Juris Civilis.",
+      "tags": [
+        "direito-romano",
+        "doze-tabuas",
+        "justiniano",
+        "corpus-juris",
+        "presuncao-inocencia"
+      ],
+      "century_start": -5,
+      "century_end": 6,
+      "region": "Europe",
+      "type": "intellectual",
+      "period": "RomanEmpire"
+    },
+    {
+      "id": "ri-004",
+      "nome": "Romanização: Como Roma Transformou os Povos Conquistados",
+      "nome_en": "Romanization: How Rome Transformed Conquered Peoples",
+      "nome_es": "Romanización: Cómo Roma Transformó a los Pueblos Conquistados",
+      "tipo": "periodo",
+      "inicio": -200,
+      "fim": 300,
+      "descricao": "Romanização: o processo pelo qual povos conquistados adotavam voluntariamente a língua, cultura e costumes romanos. Mecanismos: cidadania romana como recompensa e aspiração; exército como agente de integração (veteranos fundavam colônias); língua latina como veículo de ascensão social; termas, anfiteatros, foros como marcadores de civilização. A cidadania romana foi estendida a todos os habitantes livres do Império pelo Édito de Caracala (212 d.C.) — o primeiro ato de naturalização em massa da história. Legado linguístico: o latim vulgar falado pelos legionários e colonos tornou-se o português, espanhol, francês, italiano, romeno — as línguas românicas, faladas por 1 bilhão de pessoas hoje. Língua de prestígio: o latim foi língua franca da Europa até o século XVII e permanece língua oficial do Vaticano.",
+      "descricao_en": "Romanization: the process by which conquered peoples voluntarily adopted Latin language, culture and customs. Mechanisms: Roman citizenship as reward and aspiration; army as integration agent; Latin as vehicle of social advancement; baths, amphitheaters, forums as markers of civilization. The Edict of Caracalla (212 AD) extended Roman citizenship to all free inhabitants of the Empire — the first act of mass naturalization in history. Linguistic legacy: Vulgar Latin became Portuguese, Spanish, French, Italian, Romanian — Romance languages spoken by 1 billion people today.",
+      "descricao_es": "Romanización: proceso por el cual los pueblos conquistados adoptaban voluntariamente la lengua, cultura y costumbres romanas. El Edicto de Caracalla (212 d.C.) extendió la ciudadanía romana a todos los habitantes libres del Imperio. El latín vulgar se convirtió en el portugués, español, francés, italiano y rumano — lenguas habladas por 1.000 millones de personas hoy.",
+      "importancia": "A romanização foi o processo de globalização mais bem-sucedido da Antiguidade: em vez de apagar identidades locais pela força, criou uma identidade supranacional por aspiração — o modelo que a União Européia conscientemente tenta replicar.",
+      "importancia_en": "Romanization was the most successful globalization process of antiquity: instead of erasing local identities by force, it created a supranational identity through aspiration — the model that the European Union consciously tries to replicate.",
+      "importancia_es": "La romanización fue el proceso de globalización más exitoso de la antigüedad: en lugar de borrar las identidades locales por la fuerza, creó una identidad supranacional por aspiración — el modelo que la Unión Europea intenta replicar conscientemente.",
+      "tags": [
+        "romanizacao",
+        "latim",
+        "cidadania",
+        "caracala",
+        "linguas-romanicas",
+        "colonias"
+      ],
+      "century_start": -2,
+      "century_end": 3,
+      "region": "Europe",
+      "type": "cultural",
+      "period": "RomanEmpire"
+    },
+    {
+      "id": "ri-001",
+      "nome": "Augusto e o Principado: A Monarquia Disfarçada (27 a.C.–14 d.C.)",
+      "nome_en": "Augustus and the Principate: The Disguised Monarchy (27 BC–14 AD)",
+      "nome_es": "Augusto y el Principado: La Monarquía Disfrazada (27 a.C.–14 d.C.)",
+      "tipo": "periodo",
+      "inicio": -27,
+      "fim": 14,
+      "descricao": "Otaviano (63 a.C.–14 d.C.) — filho adotivo de César — venceu a última guerra civil, derrotando Marco Antônio e Cleópatra em Ácio (31 a.C.). O Senado lhe conferiu o título 'Augustus' (27 a.C.) — primeiro princeps. Estratégia do 'Principado': manteve todas as formas republicanas (Senado, cônsules, tribunos) enquanto concentrava poderes reais: comando do exército, controle das províncias ricas, poder tribunício vitalício, 'auctoritas' (prestígio moral). Pax Romana: 200 anos de paz relativa (27 a.C.–180 d.C.). Reformas: sistema postal (cursus publicus), exército profissional permanente de 25 legiões, guarda pretoriana, flota permanente, censo, cadastro territorial. Mecenato das artes: Virgílio (Eneida), Horácio, Ovídio. Reformas morais (tentativa): leis suntuárias, leis de casamento.",
+      "descricao_en": "Octavian (63 BC–14 AD) — Caesar's adoptive son — won the last civil war, defeating Mark Antony and Cleopatra at Actium (31 BC). The Senate conferred the title 'Augustus' (27 BC) — first princeps. 'Principate' strategy: maintained all republican forms while concentrating real powers. Pax Romana: 200 years of relative peace (27 BC–180 AD). Reforms: postal system (cursus publicus), permanent professional army of 25 legions, praetorian guard, permanent fleet, census. Arts patronage: Virgil (Aeneid), Horace, Ovid.",
+      "descricao_es": "Octaviano (63 a.C.–14 d.C.) — hijo adoptivo de César — venció en la última guerra civil, derrotando a Marco Antonio y Cleopatra en Accio (31 a.C.). El Senado le confirió el título 'Augusto' (27 a.C.). Pax Romana: 200 años de paz relativa. Reformas: sistema postal, ejército permanente de 25 legiones, guardia pretoriana. Mecenazgo de las artes: Virgilio (Eneida), Horacio, Ovidio.",
+      "importancia": "Augusto criou o modelo de 'ditadura democrática' mais bem-sucedido da história: governou como monarca absoluto por 41 anos mantendo todas as aparências de república — seu modelo seria emulado por Napoleão, Stalin e outros líderes autoritários que preservam formas democráticas.",
+      "importancia_en": "Augustus created the most successful 'democratic dictatorship' in history: he governed as absolute monarch for 41 years while maintaining all republican appearances — his model was emulated by Napoleon, Stalin and other authoritarian leaders who preserve democratic forms.",
+      "importancia_es": "Augusto creó la 'dictadura democrática' más exitosa de la historia: gobernó como monarca absoluto durante 41 años manteniendo todas las apariencias republicanas — su modelo fue emulado por Napoleón, Stalin y otros líderes autoritarios que preservan formas democráticas.",
+      "tags": [
+        "augusto",
+        "principado",
+        "pax-romana",
+        "otaviano",
+        "senado",
+        "legiao"
+      ],
+      "century_start": -1,
+      "century_end": 1,
+      "region": "Europe",
+      "type": "political",
+      "period": "RomanEmpire"
+    },
+    {
+      "id": "ri-005",
+      "nome": "Nascimento do Cristianismo e sua Relação com Roma (4 a.C.–313 d.C.)",
+      "nome_en": "Birth of Christianity and its Relationship with Rome (4 BC–313 AD)",
+      "nome_es": "Nacimiento del Cristianismo y su Relación con Roma (4 a.C.–313 d.C.)",
+      "tipo": "periodo",
+      "inicio": -4,
+      "fim": 313,
+      "descricao": "Jesus de Nazaré (~4 a.C.–30 d.C.): pregou no contexto da Judeia romana sob Pôncio Pilatos. A crucificação (~30 d.C.) como método romano de execução pública para insubordinação. Paulo de Tarso (~5–67 d.C.): convertido ~36 d.C.; cartas (Epístolas) escritas em grego koiné para comunidades do Mediterrâneo; fundou o arcabouço teológico do Cristianismo gentio. Perseguições romanas: Nero (64 d.C., após o Grande Incêndio de Roma), Diocleciano (303–311 d.C., a 'Grande Perseguição'). Édito de Milão (313 d.C., Constantino e Licínio): tolerância religiosa formal. Concílio de Nicéia (325 d.C.): definição do cânon cristão e da doutrina trinitária — Constantino presidiu como árbitro político. O Império Romano tornou o Cristianismo viável como religião universal: latim como língua litúrgica, infraestrutura de estradas e comunicação para a expansão missionária, e sistema legal que o Vaticano absorveu.",
+      "descricao_en": "Jesus of Nazareth (~4 BC–30 AD): preached in Roman Judea under Pontius Pilate. Crucifixion (~30 AD) as Roman method of public execution. Paul of Tarsus (~5–67 AD): converted ~36 AD; wrote Epistles in Greek koine to Mediterranean communities; founded the theological framework of Gentile Christianity. Roman persecutions: Nero (64 AD), Diocletian (303–311 AD). Edict of Milan (313 AD, Constantine): formal religious tolerance. Council of Nicaea (325 AD): definition of the Christian canon and Trinitarian doctrine. The Roman Empire made Christianity viable as a universal religion.",
+      "descricao_es": "Jesús de Nazaret (~4 a.C.–30 d.C.): predicó en la Judea romana bajo Poncio Pilato. Pablo de Tarso (~5–67 d.C.): fundó el marco teológico del Cristianismo gentil. Persecuciones romanas: Nerón (64 d.C.), Diocleciano (303–311 d.C.). Edicto de Milán (313 d.C., Constantino): tolerancia religiosa formal. Concilio de Nicea (325 d.C.): definición del canon cristiano.",
+      "importancia": "Roma foi simultaneamente o perseguidor e o propagador do Cristianismo: sem a infraestrutura romana (estradas, língua latina, sistema legal, estrutura imperial), o Cristianismo provavelmente teria permanecido uma seita judaica regional — em vez da maior religião do mundo.",
+      "importancia_en": "Rome was simultaneously the persecutor and propagator of Christianity: without Roman infrastructure (roads, Latin language, legal system, imperial structure), Christianity would likely have remained a regional Jewish sect — instead of becoming the world's largest religion.",
+      "importancia_es": "Roma fue simultáneamente el perseguidor y el propagador del Cristianismo: sin la infraestructura romana (carreteras, latín, sistema legal, estructura imperial), el Cristianismo probablemente habría permanecido como una secta judía regional.",
+      "tags": [
+        "jesus",
+        "paulo",
+        "constantino",
+        "edicto-milao",
+        "nicea",
+        "cristandade"
+      ],
+      "century_start": -1,
+      "century_end": 4,
+      "region": "MiddleEast",
+      "type": "religious",
+      "period": "RomanEmpire"
+    },
+    {
+      "id": "ri-002",
+      "nome": "Roma no Apogeu: Os Cinco Bons Imperadores (96–180 d.C.)",
+      "nome_en": "Rome at its Peak: The Five Good Emperors (96–180 AD)",
+      "nome_es": "Roma en su Apogeo: Los Cinco Buenos Emperadores (96–180 d.C.)",
+      "tipo": "periodo",
+      "inicio": 96,
+      "fim": 180,
+      "descricao": "Nerva, Trajano, Adriano, Antonino Pio e Marco Aurélio — a dinastia dos Antoninos (96–192 d.C.) e o ápice do Império. Gibbon (1776): 'O período mais feliz e próspero da história da humanidade.' Trajano (98–117): expansão máxima — Dácia (atual Romênia), Mesopotâmia. População imperial: ~70 milhões. PIB Romano: ~25-30% do PIB mundial estimado. Adriano (117–138): consolidação — Muralha de Adriano (Bretanha), viagens pelo Império. Marco Aurélio (161–180): filósofo-imperador — 'Meditações' (estoicismo); guerras marcomanas. Aspecto fundamental: os quatro sucessores foram adotados por mérito, não por nascimento — 'meritocracia imperial'. A maior extensão territorial romana (atingida por Trajano em 117 d.C.): 5 milhões km².",
+      "descricao_en": "Nerva, Trajan, Hadrian, Antoninus Pius and Marcus Aurelius — the Antonine dynasty (96–192 AD) and the Empire's peak. Gibbon (1776): 'The happiest and most prosperous period in the history of mankind.' Trajan (98–117): maximum expansion — Dacia (modern Romania), Mesopotamia. Population: ~70 million. Marcus Aurelius (161–180): philosopher-emperor — 'Meditations' (Stoicism); Marcomannic Wars. The four successors were adopted by merit, not birth — 'imperial meritocracy'.",
+      "descricao_es": "Nerva, Trajano, Adriano, Antonino Pío y Marco Aurelio — la dinastía Antonina (96–192 d.C.) y el apogeo del Imperio. Gibbon (1776): 'El período más feliz y próspero de la historia de la humanidad.' Trajano (98–117): máxima expansión. Marco Aurelio (161–180): emperador filósofo — 'Meditaciones' (estoicismo). Los cuatro sucesores fueron adoptados por mérito, no por nacimiento.",
+      "importancia": "O modelo dos 'Cinco Bons Imperadores' — sucessão por adoção e mérito em vez de sangue — é citado por Maquiavel, Montesquieu e John Stuart Mill como o exemplo histórico mais próximo de um governo ideal dentro de um sistema monárquico.",
+      "importancia_en": "The 'Five Good Emperors' model — succession by adoption and merit rather than blood — is cited by Machiavelli, Montesquieu and John Stuart Mill as the closest historical example of ideal government within a monarchical system.",
+      "importancia_es": "El modelo de los 'Cinco Buenos Emperadores' — sucesión por adopción y mérito en lugar de sangre — es citado por Maquiavelo, Montesquieu y John Stuart Mill como el ejemplo histórico más cercano a un gobierno ideal dentro de un sistema monárquico.",
+      "tags": [
+        "trajano",
+        "adriano",
+        "marco-aurelio",
+        "pax-romana",
+        "apogeu",
+        "antoninos"
+      ],
+      "century_start": 1,
+      "century_end": 2,
+      "region": "Europe",
+      "type": "political",
+      "period": "RomanEmpire"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ri-001",
+      "destino": "ri-002",
+      "tipo": "evolucao",
+      "intensidade": 0.8,
+      "descricao": "As reformas de Augusto criaram a estabilidade que culminou nos Bons Imperadores"
+    },
+    {
+      "origem": "ri-001",
+      "destino": "ri-003",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "A expansão imperial acelerou a sistematização do Direito"
+    },
+    {
+      "origem": "ri-001",
+      "destino": "ri-004",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "O Principado foi o mecanismo de romanização mais eficaz"
+    },
+    {
+      "origem": "ri-004",
+      "destino": "ri-005",
+      "tipo": "simultaneidade",
+      "intensidade": 0.75,
+      "descricao": "A romanização criou o ambiente cultural em que o Cristianismo se expandiu"
+    }
+  ]
+}

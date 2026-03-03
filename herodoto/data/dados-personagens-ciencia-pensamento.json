@@ -1,0 +1,605 @@
+{
+  "personagens": [
+    {
+      "id": "pcp-001",
+      "nome": "Hipatia de Alexandria",
+      "nome_en": "Hypatia of Alexandria",
+      "nome_es": "Hipatia de Alejandría",
+      "nascimento": 360,
+      "morte": 415,
+      "regiao": "Africa",
+      "area": [
+        "matemática",
+        "filosofia",
+        "astronomia"
+      ],
+      "cargo": "Matemática e Filósofa",
+      "epoca": "Antiguidade",
+      "descricao": "Filósofa e matemática de Alexandria, a primeira mulher cientista de nome reconhecido na história. Ensinava Platão e Aristóteles, comentou Diofanto e Ptolomeu. Dirigia a escola neoplatônica de Alexandria. Assassinada por uma multidão cristã fanática em 415 d.C. — arrancada do carro, espancada e esquartejada.",
+      "importancia": "Hipatia é o símbolo do encontro trágico entre ciência clássica e fanatismo religioso. Seu assassinato coincide com o declínio de Alexandria como centro intelectual do mundo antigo. Para muitos historiadores da ciência, sua morte marca o fim do mundo clássico e o início de um período de mil anos de estagnação científica no Ocidente. Tornou-se ícone do ceticismo e do feminismo científico.",
+      "eventos": [],
+      "tags": [
+        "matemática",
+        "filosofia",
+        "alexandria",
+        "mulher",
+        "ciência",
+        "mártir",
+        "neoplatonismo"
+      ]
+    },
+    {
+      "id": "pcp-002",
+      "nome": "Nicolau de Cusa",
+      "nome_en": "Nicholas of Cusa",
+      "nome_es": "Nicolás de Cusa",
+      "nascimento": 1401,
+      "morte": 1464,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "teologia",
+        "ciência"
+      ],
+      "cargo": "Cardeal e Filósofo",
+      "epoca": "Renascimento",
+      "descricao": "Cardeal alemão e filósofo que antecipou Copérnico ao propor que a Terra se move e que o universo não tem centro. Desenvolveu a 'douta ignorância': o conhecimento verdadeiro inclui reconhecer os limites do conhecimento. Propôs que religiões diferentes são caminhos distintos para a mesma verdade divina — tolerância religiosa radicalmente avançada para o século XV.",
+      "importancia": "Nicolau de Cusa antecipou em décadas as ideias de Copérnico (Terra em movimento), Bruno (universo infinito sem centro) e Leibniz (cálculo infinitesimal). Foi ignorado por ser cardeal — ninguém esperava cosmologia revolucionária de um príncipe da Igreja. Sua tolerância religiosa, num século de cruzadas e Inquisição, é extraordinária. É o caso mais claro de gênio filosófico marginalizado pela identidade institucional.",
+      "eventos": [],
+      "tags": [
+        "filosofia",
+        "teologia",
+        "cosmologia",
+        "tolerância",
+        "renascimento",
+        "ignorância"
+      ]
+    },
+    {
+      "id": "pcp-003",
+      "nome": "Gottfried Leibniz",
+      "nome_en": "Gottfried Leibniz",
+      "nome_es": "Gottfried Leibniz",
+      "nascimento": 1646,
+      "morte": 1716,
+      "regiao": "Europe",
+      "area": [
+        "matemática",
+        "filosofia"
+      ],
+      "cargo": "Filósofo e Matemático",
+      "epoca": "Renascimento",
+      "descricao": "Filósofo alemão que inventou o cálculo diferencial independentemente de Newton (e com notação superior — a que usamos hoje: dy/dx). Criou a lógica simbólica, projetou uma calculadora mecânica, trabalhou em diplomacia, direito, teologia e história. A mônada — unidade indivisível de realidade — é o coração de seu sistema filosófico.",
+      "importancia": "Leibniz e Newton inventaram o cálculo ao mesmo tempo, gerando um dos maiores escândalos de prioridade científica da história. A notação de Leibniz venceu porque era mais prática — todos usamos dy/dx, não a notação newtoniana. Sua lógica simbólica antecipa Boole e Frege em 200 anos. Voltaire satirizou seu otimismo filosófico em Cândido — tornando 'leibnizianismo' sinônimo de ingenuidade.",
+      "eventos": [],
+      "tags": [
+        "matemática",
+        "cálculo",
+        "filosofia",
+        "mônadas",
+        "lógica",
+        "newton"
+      ]
+    },
+    {
+      "id": "pcp-004",
+      "nome": "Michael Faraday",
+      "nome_en": "Michael Faraday",
+      "nome_es": "Michael Faraday",
+      "nascimento": 1791,
+      "morte": 1867,
+      "regiao": "Europe",
+      "area": [
+        "ciência",
+        "física"
+      ],
+      "cargo": "Físico e Químico",
+      "epoca": "Séc. XIX",
+      "descricao": "Filho de ferreiro sem educação formal, tornou-se o maior experimentalista da história da física. Descobriu a indução eletromagnética (base dos geradores e motores elétricos), as leis da eletrólise e o campo eletromagnético. Maxwell formalizou matematicamente suas intuições físicas. Recusou cavalariato e a presidência da Royal Society.",
+      "importancia": "Sem Faraday, não há geração elétrica — e portanto não há civilização industrial moderna. Seu conceito de 'campo' (força distribuída no espaço) foi a revolução conceptual que Einstein mais admirava: substituiu a ação a distância newtoniana por campos contínuos — fundamento da física moderna. Sua trajetória de filho de ferreiro a maior cientista da era vitoriana é o argumento mais eloquente para democratização da educação.",
+      "eventos": [],
+      "tags": [
+        "física",
+        "eletromagnetismo",
+        "indução",
+        "campo",
+        "ciência",
+        "faraday"
+      ]
+    },
+    {
+      "id": "pcp-005",
+      "nome": "Ada Lovelace",
+      "nome_en": "Ada Lovelace",
+      "nome_es": "Ada Lovelace",
+      "nascimento": 1815,
+      "morte": 1852,
+      "regiao": "Europe",
+      "area": [
+        "matemática",
+        "tecnologia"
+      ],
+      "cargo": "Matemática",
+      "epoca": "Séc. XIX",
+      "descricao": "Filha de Lord Byron, colaborou com Charles Babbage em sua Máquina Analítica. Suas notas sobre a máquina (1843) incluem o primeiro algoritmo escrito para ser processado por máquina — tornando-a a primeira programadora da história. Percebeu que a máquina poderia processar mais que números: qualquer símbolo, incluindo notas musicais.",
+      "importancia": "Ada Lovelace antecipou em 100 anos a visão da computação como processamento de símbolos (não apenas cálculo numérico) — exatamente o que Turing formalizou em 1936. Sua morte aos 36 anos de câncer deixou a visão sem continuação. Em 1980, o Departamento de Defesa americano nomeou uma linguagem de programação 'Ada' em sua homenagem. É o símbolo das mulheres na computação.",
+      "eventos": [],
+      "tags": [
+        "computação",
+        "programação",
+        "matemática",
+        "babbage",
+        "mulher",
+        "algoritmo",
+        "século-xix"
+      ]
+    },
+    {
+      "id": "pcp-006",
+      "nome": "Rosalind Franklin",
+      "nome_en": "Rosalind Franklin",
+      "nome_es": "Rosalind Franklin",
+      "nascimento": 1920,
+      "morte": 1958,
+      "regiao": "Europe",
+      "area": [
+        "ciência",
+        "biologia",
+        "química"
+      ],
+      "cargo": "Biofísica",
+      "epoca": "Séc. XX",
+      "descricao": "Química britânica cujas fotografias de difração de raios-X do DNA (especialmente a Foto 51, 1952) foram essenciais para Watson e Crick descobrirem a estrutura de dupla hélice — sem seu conhecimento ou permissão. Watson, Crick e Wilkins ganharam o Nobel em 1962. Franklin morreu em 1958 de câncer, provavelmente induzido por exposição à radiação.",
+      "importancia": "O caso Franklin é o mais documentado de roubo intelectual de mulher na história da ciência. A Foto 51 mostrava claramente a estrutura helicoidal do DNA — e foi compartilhada sem seu consentimento. O Nobel não pode ser concedido postumamente. Franklin tornou-se símbolo de como estruturas institucionais e preconceito de gênero apagam contribuições científicas. A revisão de sua história iniciou a reavaliação do papel das mulheres na ciência.",
+      "eventos": [],
+      "tags": [
+        "dna",
+        "biologia",
+        "mulher",
+        "ciência",
+        "discriminação",
+        "franklin",
+        "raios-x"
+      ]
+    },
+    {
+      "id": "pcp-007",
+      "nome": "Baruch Spinoza",
+      "nome_en": "Baruch Spinoza",
+      "nome_es": "Baruch Spinoza",
+      "nascimento": 1632,
+      "morte": 1677,
+      "regiao": "Europe",
+      "area": [
+        "filosofia"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Renascimento",
+      "descricao": "Filósofo holandês de origem judaica sefardita, excomungado pela comunidade judaica de Amsterdã aos 23 anos com o mais severo ban registrado (razões desconhecidas). A Ética (publicada postumamente, 1677) demonstra filosofia more geometrico — em forma de proposições e demonstrações como Euclides. Deus é a única substância (= Natureza): panteísmo.",
+      "importancia": "Spinoza é o mais radical dos filósofos modernos: negou o livre-arbítrio, o Deus pessoal, a alma imortal e a distinção mente-corpo — tudo dentro de um sistema lógico rigoroso. Seu panteísmo ('Deus ou Natureza') foi adotado por Einstein ('creio no Deus de Spinoza'). A separação entre lei civil e lei religiosa que ele propôs é fundamento do Estado laico moderno. Foi malcompreendido por todos e ignorado por um século — depois tornou-se o mais influente.",
+      "eventos": [],
+      "tags": [
+        "filosofia",
+        "panteísmo",
+        "excomungado",
+        "ética",
+        "natureza",
+        "deus",
+        "spinoza"
+      ]
+    },
+    {
+      "id": "pcp-008",
+      "nome": "Nicolau Maquiavel (bis)",
+      "nome_en": "Ibn Khaldun",
+      "nome_es": "Ibn Jaldún",
+      "nascimento": 1332,
+      "morte": 1406,
+      "regiao": "Africa",
+      "area": [
+        "história",
+        "filosofia",
+        "sociologia"
+      ],
+      "cargo": "Historiador e Filósofo",
+      "epoca": "Medieval",
+      "descricao": "Pensador árabe-berbere tunisino. A Muqaddima (Prolegômenos, 1377) é o primeiro tratado de filosofia da história e sociologia: analisa como as civilizações surgem (solidariedade tribal), crescem (urbanização e riqueza), decaem (luxo e enfraquecimento) e são substituídas por novas tribos vigorosas.",
+      "importancia": "Ibn Khaldun inventou as ciências sociais 400 anos antes de Montesquieu, Vico e Marx. Sua teoria cíclica das civilizações é a primeira teoria histórica baseada em mecanismos sociais, não em providência divina. Arnold Toynbee a chamou de 'a maior obra de seu tipo já criada'. O conceito de 'assabiyya' (coesão social como força histórica) permanece uma das ideias mais poderosas para entender ascensão e queda de impérios.",
+      "eventos": [],
+      "tags": [
+        "história",
+        "sociologia",
+        "filosofia",
+        "islã",
+        "assabiyya",
+        "civilização",
+        "khaldun"
+      ]
+    },
+    {
+      "id": "pcp-009",
+      "nome": "Blaise Pascal",
+      "nome_en": "Blaise Pascal",
+      "nome_es": "Blaise Pascal",
+      "nascimento": 1623,
+      "morte": 1662,
+      "regiao": "Europe",
+      "area": [
+        "matemática",
+        "filosofia",
+        "física"
+      ],
+      "cargo": "Matemático e Filósofo",
+      "epoca": "Renascimento",
+      "descricao": "Matemático e filósofo francês que fundou a teoria da probabilidade (com Fermat), inventou a calculadora mecânica (pascalina), descobriu a pressão atmosférica e escreveu as Pensées — fragmentos filosófico-espirituais publicados postumamente. Sua 'Aposta de Pascal' é o primeiro argumento de teoria da decisão aplicado à fé religiosa.",
+      "importancia": "Pascal é o caso de gênio polimata que mudou de campo no auge: abandonou a matemática pela teologia após uma experiência mística em 1654. A teoria da probabilidade que fundou é a base do cálculo de risco, das seguradoras, da estatística e da física quântica. A Aposta de Pascal — se Deus existe, melhor acreditar — é o argumento filosófico mais citado da teologia moderna, mesmo por ateus que o rejeitam.",
+      "eventos": [],
+      "tags": [
+        "matemática",
+        "probabilidade",
+        "física",
+        "filosofia",
+        "fé",
+        "pascal",
+        "aposta"
+      ]
+    },
+    {
+      "id": "pcp-010",
+      "nome": "Marie Curie",
+      "nome_en": "Marie Curie",
+      "nome_es": "Marie Curie",
+      "nascimento": 1867,
+      "morte": 1934,
+      "regiao": "Europe",
+      "area": [
+        "ciência",
+        "física",
+        "química"
+      ],
+      "cargo": "Física e Química",
+      "epoca": "Séc. XIX",
+      "descricao": "Polonesa radicada em Paris. Primeira pessoa a ganhar dois Prêmios Nobel em disciplinas diferentes: Física (1903, com Pierre Curie e Becquerel) e Química (1911). Descobriu os elementos rádio e polônio. Criou o conceito de radioatividade. Morreu de anemia aplástica — causada pela exposição prolongada à radiação que ela descobriu.",
+      "importancia": "Curie é o símbolo mais poderoso das mulheres na ciência — mas sua história também revela os obstáculos: a Academia de Ciências Francesa nunca a admitiu como membro. Seu trabalho sobre radioatividade é fundamental para medicina nuclear, energia atômica e física de partículas. Morreu do elemento que descobriu — uma ironia que a transformou em símbolo do sacrifício científico.",
+      "eventos": [],
+      "tags": [
+        "física",
+        "química",
+        "radioatividade",
+        "rádio",
+        "polônio",
+        "nobel",
+        "mulher",
+        "curie"
+      ]
+    },
+    {
+      "id": "pcp-011",
+      "nome": "Nikola Tesla",
+      "nome_en": "Nikola Tesla",
+      "nome_es": "Nikola Tesla",
+      "nascimento": 1856,
+      "morte": 1943,
+      "regiao": "Europe",
+      "area": [
+        "ciência",
+        "tecnologia",
+        "engenharia"
+      ],
+      "cargo": "Inventor",
+      "epoca": "Séc. XIX",
+      "descricao": "Inventor sérvio-americano que desenvolveu o sistema de corrente alternada (AC) que alimenta o mundo moderno, o motor de indução AC, o transformador e as bases da transmissão sem fio. Sua batalha com Edison ('Guerra das Correntes') foi vencida com Westinghouse em Niágara (1895). Morreu sozinho e falido num hotel de Nova York.",
+      "importancia": "O sistema de energia que Tesla desenvolveu é literalmente a base de toda a civilização moderna: cada tomada elétrica do mundo usa corrente alternada. Mas Tesla é também um caso fascinante de como inovação radical não garante recompensa: Edison (que fez marketing melhor) é mais lembrado popularmente. Tesla virou ícone da contracultura tecnológica — o gênio incompreendido versus o empresário esperto.",
+      "eventos": [],
+      "tags": [
+        "eletricidade",
+        "corrente-alternada",
+        "inventor",
+        "tesla",
+        "edison",
+        "ciência",
+        "tecnologia"
+      ]
+    },
+    {
+      "id": "pcp-012",
+      "nome": "Maimonides (Maimônides)",
+      "nome_en": "Maimonides",
+      "nome_es": "Maimónides",
+      "nascimento": 1138,
+      "morte": 1204,
+      "regiao": "MiddleEast",
+      "area": [
+        "filosofia",
+        "medicina",
+        "teologia"
+      ],
+      "cargo": "Rabino, Médico e Filósofo",
+      "epoca": "Medieval",
+      "descricao": "Rabino, médico e filósofo judeu nascido em Córdoba e radicado no Cairo. O Guia dos Perplexos reconciliou Aristóteles com o judaísmo — como Tomás de Aquino faria para o Cristianismo e Averróis para o Islã. O Mishné Torá sistematizou toda a lei judaica. Médico pessoal do sultão Saladino.",
+      "importancia": "Maimônides é a síntese intelectual mais abrangente do judaísmo medieval: filosofia, teologia e lei num único sistema coerente. Seu método — razão e revelação em harmonia, não em conflito — moldou o judaísmo rabínico até hoje. Como médico de Saladino, ele foi literalmente a intersecção entre as três grandes civilizações monoteístas do século XII: islâmica, judaica e indiretamente cristã.",
+      "eventos": [],
+      "tags": [
+        "judaísmo",
+        "filosofia",
+        "medicina",
+        "aristóteles",
+        "cairo",
+        "saladino",
+        "medieval"
+      ]
+    },
+    {
+      "id": "pcp-013",
+      "nome": "Ptolomeu (Claúdio)",
+      "nome_en": "Ptolemy (Claudius)",
+      "nome_es": "Ptolomeo (Claudio)",
+      "nascimento": 100,
+      "morte": 170,
+      "regiao": "Africa",
+      "area": [
+        "astronomia",
+        "matemática",
+        "geografia"
+      ],
+      "cargo": "Astrônomo e Geógrafo",
+      "epoca": "Antiguidade",
+      "descricao": "Astrônomo greco-egípcio de Alexandria. O Almagesto sistematizou o modelo geocêntrico do universo com epiciclos — matematicamente preciso o suficiente para predizer posições planetárias com boa precisão por 1.400 anos. A Geographia mapeou o mundo conhecido com sistema de coordenadas de longitude e latitude.",
+      "importancia": "O sistema ptolemaico dominou a astronomia por 1.400 anos — não por ser simples (era extremamente complexo) mas porque funcionava para previsões práticas. Copérnico levou 30 anos para convencer a si mesmo de que um modelo mais simples poderia funcionar melhor. A Geographia de Ptolomeu, redescoberta no Renascimento, inspirou Colombo — que usou coordenadas ptolemaicas imprecisas para calcular (errado) a distância à Índia.",
+      "eventos": [],
+      "tags": [
+        "astronomia",
+        "geocentricismo",
+        "geografia",
+        "coordenadas",
+        "almagesto",
+        "alexandria"
+      ]
+    },
+    {
+      "id": "pcp-014",
+      "nome": "Wilhelm von Humboldt (Alexander)",
+      "nome_en": "Alexander von Humboldt",
+      "nome_es": "Alexander von Humboldt",
+      "nascimento": 1769,
+      "morte": 1859,
+      "regiao": "Europe",
+      "area": [
+        "ciência",
+        "exploração",
+        "biologia"
+      ],
+      "cargo": "Naturalista e Explorador",
+      "epoca": "Séc. XIX",
+      "descricao": "Naturalista prussiano que passou 5 anos explorando a América Latina (1799-1804) com Carlos de Bonpland — o maior empreendimento científico de campo desde Cook. Inventou a isoterma e o perfil de vegetação por altitude. Escalou o Chimborazo (6.263m, então considerado o pico mais alto do mundo). A obra Kosmos (5 volumes) tentou sistematizar toda a natureza.",
+      "importancia": "Humboldt inventou a ecologia antes da palavra: foi o primeiro a conceber a natureza como sistema interconectado — teia de relações, não coleção de objetos separados. Darwin levou o Kosmos na viagem do Beagle e admitiu que Humboldt o inspirou. Sua visão da natureza como 'uno em meio à diversidade' influenciou Thoreau, Emerson, George Perkins Marsh — fundadores do ambientalismo moderno.",
+      "eventos": [],
+      "tags": [
+        "natureza",
+        "exploração",
+        "biologia",
+        "ecologia",
+        "america-latina",
+        "cosmologia",
+        "humboldt"
+      ]
+    },
+    {
+      "id": "pcp-015",
+      "nome": "Al-Biruni",
+      "nome_en": "Al-Biruni",
+      "nome_es": "Al-Biruni",
+      "nascimento": 973,
+      "morte": 1048,
+      "regiao": "MiddleEast",
+      "area": [
+        "ciência",
+        "filosofia",
+        "história"
+      ],
+      "cargo": "Polímata",
+      "epoca": "Medieval",
+      "descricao": "Polímata persa nascido em Khwarezm. Calculou a circunferência da Terra com notável precisão usando trigonometria e a altura de uma montanha. Seu Kitab al-Hind é o mais completo estudo da civilização indiana por um autor externo na Idade Média — incluiu língua, ciência, filosofia e religião. Acompanhou Mahmud de Ghazni na invasão da Índia como observador científico, não guerreiro.",
+      "importancia": "Al-Biruni praticou o que chamamos de etnografia científica: estudou a Índia com esforço para compreendê-la em seus próprios termos, não apenas para catalogar exóticos. Seu respeito pelos textos sânscritos, sua comparação sistemática entre culturas e sua autocrítica metodológica — 'posso estar errado' — o tornam o mais moderno dos medievais. A circunferência da Terra que calculou tem erro de 0.2%.",
+      "eventos": [],
+      "tags": [
+        "pérsia",
+        "ciência",
+        "índia",
+        "etnografia",
+        "geografia",
+        "islã",
+        "al-biruni"
+      ]
+    },
+    {
+      "id": "pcp-016",
+      "nome": "Johannes Gutenberg",
+      "nome_en": "Johannes Gutenberg",
+      "nome_es": "Johannes Gutenberg",
+      "nascimento": 1400,
+      "morte": 1468,
+      "regiao": "Europe",
+      "area": [
+        "tecnologia"
+      ],
+      "cargo": "Inventor",
+      "epoca": "Medieval",
+      "descricao": "Ourives de Mainz que inventou a prensa de tipos móveis metálicos (~1440). A Bíblia de Gutenberg (1455) foi o primeiro livro impresso com tipos móveis na Europa. Sua inovação: tipos metálicos reutilizáveis + tinta à base de óleo + prensa de parafuso = produção em massa economicamente viável.",
+      "importancia": "A prensa de Gutenberg foi a maior revolução da comunicação antes da internet: em 50 anos, 20 milhões de livros impressos onde antes havia apenas milhares de manuscritos. A Reforma Protestante teria sido impossível sem ela — Lutero usou a imprensa para distribuir suas teses em semanas por toda a Alemanha. A prensa transferiu poder do clero para o leitor individual.",
+      "eventos": [],
+      "tags": [
+        "imprensa",
+        "comunicação",
+        "livro",
+        "reforma",
+        "tecnologia",
+        "gutenberg"
+      ]
+    },
+    {
+      "id": "pcp-017",
+      "nome": "George Washington",
+      "nome_en": "George Washington",
+      "nome_es": "George Washington",
+      "nascimento": 1732,
+      "morte": 1799,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "Presidente",
+      "epoca": "Séc. XVIII",
+      "descricao": "General que liderou o Exército Continental durante a Revolução Americana (1775-83). Convocado como presidente da Convenção Constitucional (1787). Primeiro Presidente dos EUA (1789-97). Renunciou voluntariamente após dois mandatos — quando poderia ter sido rei ou presidente vitalício.",
+      "importancia": "A renúncia de Washington após dois mandatos foi o ato fundador da democracia americana: ao recusar o poder perpétuo, criou o precedente que definiu a república. Rei Jorge III, ao saber que Washington cederia o poder, disse 'se isso for verdade, será o maior homem do mundo'. O modelo de transferência pacífica de poder que Washington estabeleceu foi, por 200 anos, o que distinguiu a democracia americana.",
+      "eventos": [],
+      "tags": [
+        "eua",
+        "revolução",
+        "democracia",
+        "presidente",
+        "constituição",
+        "washington"
+      ]
+    },
+    {
+      "id": "pcp-018",
+      "nome": "Galileu Galilei (ciência)",
+      "nome_en": "James Watt",
+      "nome_es": "James Watt",
+      "nascimento": 1736,
+      "morte": 1819,
+      "regiao": "Europe",
+      "area": [
+        "tecnologia",
+        "engenharia"
+      ],
+      "cargo": "Inventor",
+      "epoca": "Séc. XVIII",
+      "descricao": "Inventor escocês que aperfeiçoou a máquina a vapor de Newcomen adicionando o condensador separado (1769) — aumentando a eficiência em 4×. Em parceria com Matthew Boulton, produziu motores comercialmente. A unidade de potência 'watt' é nomeada em sua homenagem. Sua máquina alimentou a Revolução Industrial.",
+      "importancia": "A máquina a vapor de Watt é a tecnologia pivô da história moderna: substituiu força muscular humana e animal por energia mecânica em escala antes inimaginável. Isso permitiu a fábrica moderna, as ferrovias, os navios a vapor — e a urbanização de massa, o proletariado industrial e todas as transformações sociais que Marx analisou. Uma única invenção reorganizou a civilização.",
+      "eventos": [
+        "rind-001",
+        "rind-002"
+      ],
+      "tags": [
+        "máquina-a-vapor",
+        "revolução-industrial",
+        "tecnologia",
+        "watt",
+        "energia",
+        "escócia"
+      ]
+    },
+    {
+      "id": "pcp-019",
+      "nome": "Friedrich Nietzsche",
+      "nome_en": "Friedrich Nietzsche",
+      "nome_es": "Friedrich Nietzsche",
+      "nascimento": 1844,
+      "morte": 1900,
+      "regiao": "Europe",
+      "area": [
+        "filosofia"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Séc. XIX",
+      "descricao": "Filósofo alemão que proclamou 'Deus está morto' — não como ateísmo triunfante, mas como diagnóstico da crise: os valores ocidentais foram fundados na crença divina; sem ela, entram em colapso. A vontade de poder, o eterno retorno, o super-homem, o niilismo e a crítica da moral dos escravos são seus conceitos centrais. Enlouqueceu em 1889, viveu mais 11 anos sem consciência.",
+      "importancia": "Nietzsche é o filósofo mais citado do século XX porque diagnosticou com precisão a crise de sentido da modernidade. Seu método genealógico — rastrear as origens históricas (e frequentemente vergonhosas) dos valores morais — inaugurou toda a teoria crítica posterior. Heidegger, Foucault, Deleuze, Derrida são impensáveis sem Nietzsche. Infelizmente sua irmã editou seus textos para o nazismo — que ele teria repudiado.",
+      "eventos": [],
+      "tags": [
+        "filosofia",
+        "niilismo",
+        "além-do-bem-e-do-mal",
+        "vontade-de-poder",
+        "deus-morto",
+        "nietzsche"
+      ]
+    },
+    {
+      "id": "pcp-020",
+      "nome": "Georg Hegel",
+      "nome_en": "Georg Hegel",
+      "nome_es": "Georg Hegel",
+      "nascimento": 1770,
+      "morte": 1831,
+      "regiao": "Europe",
+      "area": [
+        "filosofia"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Séc. XIX",
+      "descricao": "Filósofo alemão que desenvolveu o idealismo absoluto e a dialética: tese → antítese → síntese como movimento do pensamento e da história. A Fenomenologia do Espírito (1807) narra a jornada da consciência ao autoconhecimento. A Filosofia da História propõe que a razão se realiza na história: 'o real é racional, o racional é real'.",
+      "importancia": "Hegel é o ponto de bifurcação da filosofia do século XIX: Marx o inverteu (dialética materialista em vez de idealista), Kierkegaard o rejeitou (subjetividade vs. sistema), Nietzsche o contestou, Heidegger dialogou com ele. Toda a filosofia continental do século XX — existencialismo, marxismo, fenomenologia, teoria crítica — é pós-hegeliana. O conceito de 'dialética histórica' ainda molda como pensamos mudança social.",
+      "eventos": [],
+      "tags": [
+        "filosofia",
+        "dialética",
+        "história",
+        "idealismo",
+        "hegel",
+        "razão",
+        "espírito"
+      ]
+    },
+    {
+      "id": "pcp-021",
+      "nome": "Louise Michel",
+      "nome_en": "Louise Michel",
+      "nome_es": "Louise Michel",
+      "nascimento": 1830,
+      "morte": 1905,
+      "regiao": "Europe",
+      "area": [
+        "política",
+        "ativismo",
+        "feminismo"
+      ],
+      "cargo": "Anarquista e Educadora",
+      "epoca": "Séc. XIX",
+      "descricao": "Professora francesa, 'A Virgem Vermelha da Montmartre'. Participante ativa da Comuna de Paris (1871) — combateu nas barricadas armada. Deportada para a Nova Caledônia após a repressão. Lá aprendeu a língua canaque e defendeu os direitos dos nativos. Retornou à França em 1880 como heroína do movimento operário e anarquista.",
+      "importancia": "Louise Michel é o símbolo da intersecção entre feminismo, socialismo e anarquismo no século XIX — raramente reconhecida porque caiu fora dos enquadramentos convencionais. Sua defesa dos kanaques na Nova Caledônia antecipa o anticolonialismo do século XX. Sua trajetória — de professora provinciana a revolucionária global — demonstra que a radicalização política pode emergir do compromisso com a educação.",
+      "eventos": [],
+      "tags": [
+        "france",
+        "comuna",
+        "anarquismo",
+        "feminismo",
+        "educação",
+        "revolução",
+        "deportação"
+      ]
+    },
+    {
+      "id": "pcp-022",
+      "nome": "Nelson Mandela",
+      "nome_en": "Nelson Mandela",
+      "nome_es": "Nelson Mandela",
+      "nascimento": 1918,
+      "morte": 2013,
+      "regiao": "Africa",
+      "area": [
+        "política",
+        "ativismo",
+        "direito"
+      ],
+      "cargo": "Presidente da África do Sul",
+      "epoca": "Séc. XX",
+      "descricao": "Advogado xhosa, líder do ANC, preso 27 anos (1964-1990) na Ilha Robben por sabotagem contra o apartheid. Saiu da prisão recusando a negociar enquanto o apartheid persistisse. Negociou com De Klerk a transição para democracia multirracial. Eleito primeiro presidente negro da África do Sul (1994). Recusou terceiro mandato. Recebeu Nobel da Paz em 1993.",
+      "importancia": "Mandela realizou uma transição política que parecia impossível — do apartheid à democracia sem guerra civil — por uma combinação de intransigência nos princípios e pragmatismo na negociação. A Comissão da Verdade e Reconciliação que seu governo criou (dirigida por Desmond Tutu) tornou-se modelo global de como sociedades lidam com crimes do passado. Sua recusa ao terceiro mandato foi tão importante quanto sua resistência.",
+      "eventos": [
+        "mov-004"
+      ],
+      "tags": [
+        "africa-do-sul",
+        "apartheid",
+        "ANC",
+        "reconciliação",
+        "democracia",
+        "mandela",
+        "prisão"
+      ]
+    }
+  ]
+}

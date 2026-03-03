@@ -1,0 +1,132 @@
+{
+  "entidades": [
+    {
+      "id": "pnn-001",
+      "nome": "Povos Nativos da América do Norte",
+      "nome_en": "Native Peoples of North America",
+      "nome_es": "Pueblos Nativos de América del Norte",
+      "tipo": "periodo",
+      "descricao": "~500 nações distintas antes do contato europeu — diversidade linguística e cultural comparável à Europa inteira. Cahokia (~900–1350 d.C.): cidade mississippiana com ~20.000 habitantes, maior montículo de terra das Américas. Haudenosaunee / Iroquois (Liga das Seis Nações, ~1450): confederação democrática com separação de poderes e representação — influência debatida nos Founding Fathers americanos. Navajo, Apache, Sioux das Planícies (cavalaria após 1680). Potlatch (noroeste pacífico): economia de redistribuição. Callapuya, Chinook: culturas do salmão.",
+      "descricao_en": "~500 distinct nations before European contact — linguistic and cultural diversity comparable to all of Europe. Cahokia (~900–1350 AD): Mississippian city with ~20,000 inhabitants, largest earthen mound in the Americas. Haudenosaunee / Iroquois (League of Six Nations, ~1450): democratic confederation with separation of powers and representation — debated influence on American Founding Fathers. Navajo, Apache, Plains Sioux (cavalry after 1680). Potlatch (Pacific Northwest): redistribution economy. Callapuya, Chinook: salmon cultures.",
+      "descricao_es": "~500 naciones distintas antes del contacto europeo. Cahokia (~900–1350 d.C.): ciudad con ~20.000 hab., el mayor montículo de tierra de las Américas. Liga Iroquesa (~1450): confederación democrática con separación de poderes — influencia debatida en los Founding Fathers americanos. Potlatch (noroeste pacífico): economía de redistribución.",
+      "inicio": -12000,
+      "fim": 1890,
+      "tags": [
+        "povos-nativos",
+        "iroquois",
+        "cahokia",
+        "sioux",
+        "potlatch"
+      ],
+      "importancia": "A Liga das Seis Nações iroquesa (~1450) tinha câmaras separadas, veto e eleição de líderes — possivelmente influenciou a Constituição americana de 1787.",
+      "century_start": -120,
+      "century_end": 19,
+      "region": "NorthAmerica",
+      "type": "political",
+      "period": "Prehistoric",
+      "importancia_en": "Potlatch (Pacific Northwest): redistribution economy. Callapuya, Chinook: salmon cultures.",
+      "importancia_es": "Liga Iroquesa (~1450): confederación democrática con separación de poderes — influencia debatida en los Founding Fathers americanos. Potlatch (noroeste pacífico): economía de redistribución."
+    },
+    {
+      "id": "pnn-002",
+      "nome": "Colonização Europeia da América do Norte",
+      "nome_en": "European Colonization of North America",
+      "nome_es": "Colonización Europea de América del Norte",
+      "tipo": "periodo",
+      "descricao": "Espanhóis (1513–): exploração do sul e sudoeste; missões franciscanas, sistema de encomiendas. Franceses (1534–): Grande Lagos, vale do Mississippi, Quebec, Louisiana; aliança com povos nativos no comércio de peles. Ingleses (1607–): Jamestown (1607), Mayflower (1620), 13 colônias; plantations com trabalho escravizado no sul. Conflito Franco-Britânico (Guerras e Rainha Ana, Guerra dos Sete Anos 1754–63): França perde a América do Norte. ~90% de mortalidade nativa por doenças europeias no primeiro século de contato.",
+      "descricao_en": "Spanish (1513–): exploration of south and southwest; Franciscan missions, encomienda system. French (1534–): Great Lakes, Mississippi Valley, Quebec, Louisiana; alliance with native peoples in fur trade. English (1607–): Jamestown (1607), Mayflower (1620), 13 Colonies; plantations with enslaved labor in the south. Franco-British Conflict (Queen Anne's War, Seven Years' War 1754–63): France loses North America. ~90% native mortality from European diseases in the first century of contact.",
+      "descricao_es": "Españoles (1513–): sur y suroeste, misiones franciscanas, encomiendas. Franceses (1534–): alianza con nativos en el comercio de pieles. Ingleses (1607–): Jamestown, Mayflower (1620), 13 colonias, plantaciones esclavistas. Guerra de los Siete Años (1754–63): Francia pierde América del Norte. ~90% de mortalidad nativa por enfermedades europeas.",
+      "inicio": 1513,
+      "fim": 1763,
+      "tags": [
+        "colonizacao",
+        "13-colonias",
+        "new-france",
+        "encomiendas"
+      ],
+      "importancia": "A ~90% de mortalidade nativa por doenças europeias no séc. XVI foi o maior colapso demográfico da história humana registrada.",
+      "century_start": 16,
+      "century_end": 18,
+      "region": "NorthAmerica",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "~90% native mortality from European diseases in the first century of contact.",
+      "importancia_es": "Guerra de los Siete Años (1754–63): Francia pierde América del Norte. ~90% de mortalidad nativa por enfermedades europeas."
+    },
+    {
+      "id": "pnn-003",
+      "nome": "Revolução Americana e República",
+      "nome_en": "American Revolution and Republic",
+      "nome_es": "Revolución Americana y República",
+      "tipo": "periodo",
+      "descricao": "13 Colônias revoltaram-se contra taxação britânica sem representação (1775–1783). Declaração de Independência (4 jul 1776): 'todos os homens são criados iguais' — em contraste com a escravidão legal em doze das treze colônias. Constituição (1787): separação de poderes, federalismo, Bill of Rights. Washington, Adams, Jefferson, Hamilton: debates sobre centralização vs. estados. Guerra de 1812 com Grã-Bretanha. Expansão para o oeste: Doutrina Monroe (1823), 'Destino Manifesto'. Expulsão e genocídio de povos nativos: Trail of Tears (1838, ~4.000 mortos entre os Cherokee).",
+      "descricao_en": "13 Colonies revolted against British taxation without representation (1775–1783). Declaration of Independence (Jul 4, 1776): 'all men are created equal' — in contrast to legal slavery in twelve of the thirteen colonies. Constitution (1787): separation of powers, federalism, Bill of Rights. Washington, Adams, Jefferson, Hamilton: debates on centralization vs. states. War of 1812 with Britain. Westward expansion: Monroe Doctrine (1823), 'Manifest Destiny'. Expulsion and genocide of native peoples: Trail of Tears (1838, ~4,000 deaths among the Cherokee).",
+      "descricao_es": "13 Colonias: Declaración de Independencia (4 jul 1776) — 'todos los hombres son iguales', en contraste con la esclavitud legal en doce de las trece colonias. Constitución (1787): separación de poderes. Doctrina Monroe (1823), 'Destino Manifiesto'. Trail of Tears (1838): ~4.000 muertos entre los Cherokee.",
+      "inicio": 1775,
+      "fim": 1850,
+      "tags": [
+        "revolucao-americana",
+        "constituicao",
+        "destino-manifesto",
+        "trail-of-tears"
+      ],
+      "importancia": "A Constituição americana de 1787 foi o primeiro documento a codificar separação de poderes, federalismo e direitos civis — modelo para ~150 constituições posteriores.",
+      "century_start": 18,
+      "century_end": 19,
+      "region": "NorthAmerica",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Expulsion and genocide of native peoples: Trail of Tears (1838, ~4,000 deaths among the Cherokee).",
+      "importancia_es": "Doctrina Monroe (1823), 'Destino Manifiesto'. Trail of Tears (1838): ~4.000 muertos entre los Cherokee."
+    },
+    {
+      "id": "pnn-004",
+      "nome": "Guerra Civil, Industrialização e Potência Global",
+      "nome_en": "Civil War, Industrialization and Global Power",
+      "nome_es": "Guerra Civil, Industrialización y Potencia Global",
+      "tipo": "periodo",
+      "descricao": "Guerra Civil (1861–1865): ~620.000 mortos — mais que todas as guerras americanas combinadas. 13ª Emenda aboliu a escravidão (1865). Reconstrução e Jim Crow. Segunda Revolução Industrial (1865–1900): Carnegie, Rockefeller, JP Morgan — EUA ultrapassam Reino Unido como maior economia (1890). Imigração em massa (~20 milhões de europeus, 1880–1920). Primeira Guerra Mundial: EUA entraram em 1917, saíram vencedores. Isolacionismo entre guerras. Segunda Guerra: Pearl Harbor (1941), D-Day, bombas atômicas. Potência global definitiva a partir de 1945.",
+      "descricao_en": "Civil War (1861–1865): ~620,000 deaths — more than all other American wars combined. 13th Amendment abolished slavery (1865). Reconstruction and Jim Crow. Second Industrial Revolution (1865–1900): Carnegie, Rockefeller, JP Morgan — US surpasses UK as largest economy (1890). Mass immigration (~20 million Europeans, 1880–1920). World War I: US entered 1917, emerged victorious. Interwar isolationism. World War II: Pearl Harbor (1941), D-Day, atomic bombs. Definitive global power from 1945.",
+      "descricao_es": "Guerra Civil (1861–1865): ~620.000 muertos. 13ª Enmienda abole la esclavitud (1865). Segunda Revolución Industrial: EE.UU. supera al Reino Unido como mayor economía (1890). 20 millones de inmigrantes europeos (1880–1920). Primera y Segunda Guerra Mundial. Potencia global definitiva desde 1945.",
+      "inicio": 1861,
+      "fim": 1945,
+      "tags": [
+        "guerra-civil",
+        "industrializacao",
+        "potencia-global",
+        "eua"
+      ],
+      "importancia": "A Guerra Civil americana (1861-65) e a industrialização subsequente foram os eventos que finalmente fecharam a fronteira indígena: com exércitos profissionais, ferrovias e colonos em massa, os EUA completaram a expropriação de povos que haviam resistido por 250 anos. A Batalha de Little Bighorn (1876, derrota de Custer) foi a última grande vitória indígena — seguida por Wounded Knee (1890, massacre de 250-300 Sioux), que marcou o fim das guerras indígenas. A ascensão dos EUA como potência global foi construída sobre o genocide cultural e físico de centenas de nações indígenas.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "NorthAmerica",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "World War II: Pearl Harbor (1941), D-Day, atomic bombs. Definitive global power from 1945.",
+      "importancia_es": "Primera y Segunda Guerra Mundial. Potencia global definitiva desde 1945."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "pnn-001",
+      "destino": "pnn-002",
+      "tipo": "tensao",
+      "intensidade": 0.9,
+      "descricao": "A presença de 500 nações nativas moldou e foi destruída pela colonização europeia"
+    },
+    {
+      "origem": "pnn-002",
+      "destino": "pnn-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "As tensões entre colônias e metrópole britânica desembocaram na Revolução Americana"
+    },
+    {
+      "origem": "pnn-003",
+      "destino": "pnn-004",
+      "tipo": "evolucao",
+      "intensidade": 0.9,
+      "descricao": "A República criada em 1787 manteve-se intacta após a Guerra Civil e gerou a maior potência industrial do mundo"
+    }
+  ]
+}

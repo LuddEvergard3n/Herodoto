@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "fonte": "Historiografia e arqueologia especializada",
+    "lingua": "pt",
+    "tema": "Mao: Revolução, Grande Salto e Revolução Cultural",
+    "periodo": "1921-1976"
+  },
+  "entidades": [
+    {
+      "id": "cmr-001",
+      "nome": "O Partido Comunista Chinês e a Longa Marcha (1921–1949)",
+      "nome_en": "The Chinese Communist Party and the Long March (1921–1949)",
+      "nome_es": "El Partido Comunista Chino y la Larga Marcha (1921–1949)",
+      "tipo": "periodo",
+      "inicio": 1921,
+      "fim": 1949,
+      "region": "EastAsia",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "O PCCh foi fundado em Xangai em julho 1921, com apoio soviético. Mao Tsé-Tung (1893–1976), filho de camponês de Hunan, tornou-se líder após a Longa Marcha (1934–35): 12.500 km em 370 dias, fugindo das forças Kuomintang (KMT) de Chiang Kai-shek. Apenas ~8.000 dos ~86.000 que partiram chegaram ao destino — e se tornaram a espinha dorsal da liderança comunista. Guerra Civil (1927–1949, com interrupção para resistir ao Japão 1937–45): o PCCh mobilizou o campesinato (inovação em relação ao marxismo soviético urbano); distribuiu terras; organizou guerrilha eficiente. Em 1 outubro 1949, Mao proclamou a República Popular da China na Praça Tiananmen.",
+      "descricao_en": "The CCP was founded in Shanghai in July 1921 with Soviet support. Mao Zedong (1893–1976), a Hunan peasant's son, became leader after the Long March (1934–35): 12,500 km in 370 days, fleeing Kuomintang (KMT) forces. Only ~8,000 of the ~86,000 who departed arrived — and became the backbone of Communist leadership. On October 1, 1949, Mao proclaimed the People's Republic of China at Tiananmen Square.",
+      "descricao_es": "El PCCh fue fundado en Shanghái en julio 1921. Mao Zedong lideró la Larga Marcha (1934-35): 12.500 km en 370 días, solo ~8.000 de 86.000 llegaron. El 1 de octubre de 1949 Mao proclamó la República Popular en la Plaza Tiananmen.",
+      "importancia": "A Longa Marcha é o mito fundador do PCCh — equivalente à 'hégira' islâmica ou ao Êxodo bíblico: uma narrativa de sofrimento, sobrevivência e triunfo que legitima o poder do Partido. O problema é que a narrativa oficial é em grande parte fabricada: números inflados, batalhas glorificadas retroativamente, e os sobreviventes que discordavam de Mao foram gradualmente eliminados da história.",
+      "importancia_en": "The Long March is the founding myth of the CCP — equivalent to the Islamic 'hijra' or the Biblical Exodus: a narrative of suffering, survival and triumph that legitimizes the Party's power. The problem is that the official narrative is largely fabricated: inflated numbers, retrospectively glorified battles, and survivors who disagreed with Mao were gradually eliminated from history.",
+      "importancia_es": "La Larga Marcha es el mito fundador del PCCh — equivalente a la Hégira islámica o el Éxodo bíblico: sufrimiento, supervivencia y triunfo que legitima el poder del Partido. El problema: la narrativa oficial está en gran parte fabricada.",
+      "tags": [
+        "PCCh",
+        "Mao",
+        "Longa Marcha",
+        "Kuomintang",
+        "guerra civil",
+        "Tiananmen",
+        "1949"
+      ],
+      "dataset": "data/dados-china-mao-revolucao.json"
+    },
+    {
+      "id": "cmr-002",
+      "nome": "O Grande Salto Adiante e a Grande Fome (1958–1962)",
+      "nome_en": "The Great Leap Forward and the Great Famine (1958–1962)",
+      "nome_es": "El Gran Salto Adelante y la Gran Hambruna (1958–1962)",
+      "tipo": "evento",
+      "inicio": 1958,
+      "fim": 1962,
+      "region": "EastAsia",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "O Grande Salto Adiante (1958–62) foi a política de Mao para industrializar a China rapidamente: coletivização forçada das propriedades agrícolas em comunas (unidades de 20.000+ pessoas), metas de produção de aço impossíveis (camponeses fundindo utensílios domésticos em fornos de quintal), abandono da agricultura por ordens de produção industrial. O resultado: a maior famine da história humana. Estimativas: 15–55 milhões de mortos (consensus acadêmico: 30–45 milhões, Frank Dikötter, Jasper Becker). As províncias que reportavam mais mortes recebiam menos comida. Mao foi informado da fome e continuou as exportações de grãos para a URSS. O desastre foi suprimido por décadas na história oficial chinesa.",
+      "descricao_en": "The Great Leap Forward (1958–62) was Mao's policy to rapidly industrialize China: forced collectivization into communes (units of 20,000+ people), impossible steel production targets (peasants melting household utensils in backyard furnaces), abandonment of agriculture. The result: the greatest famine in human history. Estimates: 15–55 million dead (academic consensus: 30–45 million). Mao was informed of the famine and continued grain exports to the USSR.",
+      "descricao_es": "El Gran Salto Adelante (1958-62): colectivización forzada, metas imposibles de acero (campesinos fundiendo utensilios en hornos de patio), abandono de la agricultura. Resultado: la mayor hambruna de la historia humana — 30-45 millones de muertos (consenso académico). Mao fue informado y continuó exportando cereales a la URSS.",
+      "importancia": "O Grande Salto Adiante foi a maior catástrofe causada por uma política deliberada de governo em toda a história humana, em termos de vidas tiradas: 30–45 milhões de mortos em 4 anos. Para comparação, o Holocausto matou 6 milhões. Mas ao contrário do Holocausto, o Grande Salto Adiante permanece amplamente desconhecido no Ocidente e proibido de discussão aberta na China.",
+      "importancia_en": "The Great Leap Forward was the greatest catastrophe caused by deliberate government policy in all of human history, in terms of lives taken: 30–45 million dead in 4 years. For comparison, the Holocaust killed 6 million. But unlike the Holocaust, the Great Leap Forward remains largely unknown in the West and forbidden from open discussion in China.",
+      "importancia_es": "El Gran Salto Adelante fue la mayor catástrofe causada por una política gubernamental deliberada de la historia: 30-45 millones de muertos en 4 años. A diferencia del Holocausto (6 millones), permanece ampliamente desconocido en Occidente y prohibido de discusión en China.",
+      "tags": [
+        "Grande Salto",
+        "fome",
+        "coletivização",
+        "comunas",
+        "aço",
+        "Mao",
+        "catástrofe"
+      ],
+      "dataset": "data/dados-china-mao-revolucao.json"
+    },
+    {
+      "id": "cmr-003",
+      "nome": "A Revolução Cultural: Terror Ideológico (1966–1976)",
+      "nome_en": "The Cultural Revolution: Ideological Terror (1966–1976)",
+      "nome_es": "La Revolución Cultural: Terror Ideológico (1966–1976)",
+      "tipo": "evento",
+      "inicio": 1966,
+      "fim": 1976,
+      "region": "EastAsia",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "Depois do fracasso do Grande Salto, Mao lançou a Revolução Cultural (1966–76) para reconquistar poder dentro do PCCh e destruir a 'velha cultura' (Confúcio, tradição, religião, intelectuais). As Guardas Vermelhas (estudantes universitários e secundários) destruíram templos, queimaram livros, humilharam públicamente professores, médicos e intelectuais ('chapéus de burro', desfiles de vergonha), enviaram famílias para campos de reeducação rural. Liu Shaoqi (Chefe de Estado) morreu preso; Deng Xiaoping foi exilado duas vezes. Estima-se 500.000–2 milhões de mortos por violência direta; 15–20 milhões enviados ao campo; geração inteira privada de educação. A morte de Mao (setembro 1976) encerrou a Revolução.",
+      "descricao_en": "After the Great Leap failure, Mao launched the Cultural Revolution (1966–76) to regain power within the CCP and destroy the 'old culture' (Confucius, tradition, religion, intellectuals). Red Guards destroyed temples, burned books, publicly humiliated teachers, doctors and intellectuals, sent families to rural reeducation camps. Liu Shaoqi (Head of State) died in prison; Deng Xiaoping was exiled twice. An estimated 500,000–2 million died from direct violence; 15–20 million sent to the countryside.",
+      "descricao_es": "La Revolución Cultural (1966-76): las Guardias Rojas destruyeron templos, quemaron libros, humillaron públicamente a intelectuales y los enviaron a campos de reeducación. Liu Shaoqi murió preso; Deng Xiaoping fue exiliado dos veces. ~500.000-2 millones de muertos; 15-20 millones enviados al campo; una generación entera sin educación.",
+      "importancia": "A Revolução Cultural é a maior destruição deliberada de patrimônio cultural da história: milhares de templos, monastérios, obras de arte, livros e manuscritos destruídos. A geração que cresceu durante a Revolução Cultural (c. 1950–1960) é chamada de 'geração perdida' — privada de educação, enviada ao campo, muitos nunca voltaram à escola. Ironicamente, Xi Jinping faz parte dessa geração e passou 7 anos como trabalhador rural.",
+      "importancia_en": "The Cultural Revolution is the greatest deliberate destruction of cultural heritage in history: thousands of temples, monasteries, artworks, books and manuscripts destroyed. The generation that grew up during the Cultural Revolution (c. 1950–1960) is called the 'lost generation' — deprived of education, sent to the countryside. Ironically, Xi Jinping belongs to this generation and spent 7 years as a rural worker.",
+      "importancia_es": "La Revolución Cultural fue la mayor destrucción deliberada de patrimonio cultural de la historia: templos, monasterios y libros destruidos. La generación que creció entonces (incluyendo Xi Jinping) es la 'generación perdida' — privada de educación, enviada al campo.",
+      "tags": [
+        "Revolução Cultural",
+        "Guardas Vermelhos",
+        "intelectuais",
+        "templos",
+        "Mao",
+        "geração perdida",
+        "reeducação"
+      ],
+      "dataset": "data/dados-china-mao-revolucao.json"
+    },
+    {
+      "id": "cmr-004",
+      "nome": "Deng Xiaoping: Reforma e Abertura (1978–1997)",
+      "nome_en": "Deng Xiaoping: Reform and Opening Up (1978–1997)",
+      "nome_es": "Deng Xiaoping: Reforma y Apertura (1978–1997)",
+      "tipo": "periodo",
+      "inicio": 1978,
+      "fim": 1997,
+      "region": "EastAsia",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "economic",
+      "descricao": "Deng Xiaoping (1904–1997) liderou a China de 1978 a 1997 sem nunca ter o título de presidente (era vice-premier ou 'líder supremo' de facto). Reformas: 'política de portas abertas' — zonas econômicas especiais (Shenzhen, 1980) permitindo capitalismo de mercado; descomunalização da agricultura (responsabilidade familiar em vez de coletiva); privatizações parciais; 'uma criança'. Resultado: crescimento médio de 9,5% ao ano por 30 anos — o crescimento econômico sustentado mais longo da história. Em 1989, o Massacre de Tiananmen (4 junho): Deng ordenou o exército contra estudantes pró-democracia. Centenas a milhares de mortos. Deng: 'Não importa se o gato é preto ou branco, desde que capture os ratos.' — pragmatismo sobre ideologia.",
+      "descricao_en": "Deng Xiaoping (1904–1997) led China from 1978 to 1997 without ever holding the title of president. Reforms: 'open door policy' — special economic zones (Shenzhen, 1980) allowing market capitalism; decommunalization of agriculture; partial privatizations; 'one child.' Result: average growth of 9.5% per year for 30 years — the longest sustained economic growth in history. In 1989, the Tiananmen Massacre (June 4): Deng ordered the army against pro-democracy students. Hundreds to thousands killed.",
+      "descricao_es": "Deng Xiaoping (1904-1997): zonas económicas especiales (Shenzhen, 1980), descomunalización de la agricultura, apertura al mercado. Resultado: 9,5% de crecimiento anual durante 30 años — el mayor crecimiento sostenido de la historia. En 1989, el Massacre de Tiananmen (4 junio): cientos a miles de muertos.",
+      "importancia": "Deng Xiaoping é responsável pela maior redução de pobreza da história humana: entre 1978 e 2000, ~600 milhões de chineses saíram da pobreza absoluta. Para contexto: é mais pessoas do que toda a população da Europa Ocidental. A 'China de Deng' é o único caso de um regime comunista que adotou o capitalismo de mercado sem colapsar politicamente — e criou o segundo maior PIB do mundo.",
+      "importancia_en": "Deng Xiaoping is responsible for the greatest poverty reduction in human history: between 1978 and 2000, ~600 million Chinese escaped absolute poverty. For context: that is more people than the entire population of Western Europe. 'Deng's China' is the only case of a communist regime that adopted market capitalism without politically collapsing.",
+      "importancia_es": "Deng Xiaoping fue responsable de la mayor reducción de pobreza de la historia humana: ~600 millones de chinos salieron de la pobreza absoluta entre 1978-2000. 'La China de Deng' es el único régimen comunista que adoptó el capitalismo de mercado sin colapsar políticamente.",
+      "tags": [
+        "Deng",
+        "Shenzhen",
+        "abertura",
+        "capitalismo",
+        "Tiananmen",
+        "pobreza",
+        "crescimento"
+      ],
+      "dataset": "data/dados-china-mao-revolucao.json"
+    },
+    {
+      "id": "cmr-005",
+      "nome": "Xi Jinping e a China do Século XXI",
+      "nome_en": "Xi Jinping and 21st-Century China",
+      "nome_es": "Xi Jinping y la China del Siglo XXI",
+      "tipo": "periodo",
+      "inicio": 2012,
+      "fim": 2024,
+      "region": "EastAsia",
+      "period": "Modern",
+      "century_start": 21,
+      "type": "political",
+      "descricao": "Xi Jinping (nascido 1953, filho de alto funcionário purgado pela Revolução Cultural, passou 7 anos como trabalhador rural) ascendeu à liderança do PCCh em 2012 e tornou-se o líder mais poderoso desde Mao. Iniciativas: 'Cinturão e Rota' (Belt and Road Initiative, BRI) — maior projeto de infraestrutura da história, ~150 países, ~$1 trilhão investido; 'Made in China 2025' (dominância em IA, semicondutores, robótica); vigilância em massa e 'crédito social'; repressão em Xinjiang (~1 milhão de uigures em campos de 're-educação'), Hong Kong (lei de segurança nacional 2020), Tibet; consolidação do poder (aboliu o limite de 2 mandatos presidenciais em 2018). A relação EUA-China domina a geopolítica do século XXI.",
+      "descricao_en": "Xi Jinping (born 1953, son of a senior official purged by the Cultural Revolution, spent 7 years as a rural worker) ascended to CCP leadership in 2012 and became the most powerful leader since Mao. Initiatives: 'Belt and Road Initiative' (BRI) — the largest infrastructure project in history, ~150 countries, ~$1 trillion invested; 'Made in China 2025' (dominance in AI, semiconductors, robotics); mass surveillance and 'social credit'; repression in Xinjiang (~1 million Uyghurs in 're-education' camps), Hong Kong, Tibet.",
+      "descricao_es": "Xi Jinping (nacido 1953) es el líder más poderoso desde Mao. La Iniciativa Cinturón y Ruta (BRI): ~150 países, ~$1 billón invertido — el mayor proyecto de infraestructura de la historia. Represión en Xinjiang (~1 millón de uigures en campos), Hong Kong (ley de seguridad 2020). Abolió el límite de 2 mandatos presidenciales en 2018.",
+      "importancia": "O confronto EUA-China é a rivalidade estruturante do século XXI — mais do que a Guerra Fria foi. A China de Xi tem um PIB equivalente ao dos EUA em paridade de poder de compra, uma população 4x maior, e ambições tecnológicas que ameaçam a liderança americana em IA e semicondutores. Ao contrário da URSS, a China está profundamente integrada na economia global — tornando a rivalidade mais complexa e difícil de resolver.",
+      "importancia_en": "The US-China confrontation is the structuring rivalry of the 21st century — more so than the Cold War was. Xi's China has a GDP equivalent to the US in purchasing power parity, a population 4x larger, and technological ambitions that threaten American leadership in AI and semiconductors. Unlike the USSR, China is deeply integrated into the global economy — making the rivalry more complex and harder to resolve.",
+      "importancia_es": "El enfrentamiento EEUU-China es la rivalidad estructurante del siglo XXI. China tiene un PIB equivalente al de EEUU (PPA), 4 veces más población, y ambiciones en IA y semiconductores. A diferencia de la URSS, China está profundamente integrada en la economía global — la rivalidad es más compleja.",
+      "tags": [
+        "Xi Jinping",
+        "Cinturão e Rota",
+        "BRI",
+        "Xinjiang",
+        "Tiananmen",
+        "vigilância",
+        "Taiwan"
+      ],
+      "dataset": "data/dados-china-mao-revolucao.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "cmr-001",
+      "destino": "cmr-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Mao proclama a RPC e lança o Grande Salto como projeto de modernização"
+    },
+    {
+      "origem": "cmr-002",
+      "destino": "cmr-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Fracasso do Grande Salto enfraquece Mao, que responde com a Revolução Cultural"
+    },
+    {
+      "origem": "cmr-003",
+      "destino": "cmr-004",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Morte de Mao e fim da Revolução Cultural abrem espaço para Deng e as reformas"
+    },
+    {
+      "origem": "cmr-004",
+      "destino": "cmr-005",
+      "tipo": "evolucao",
+      "intensidade": 0.8,
+      "descricao": "Crescimento econômico de Deng cria a China poderosa que Xi Jinping governa"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "entidades": [
+    {
+      "id": "rr-001",
+      "nome": "Fundação da República e a Expulsão dos Reis (509 a.C.)",
+      "nome_en": "Foundation of the Republic and the Expulsion of the Kings (509 BC)",
+      "nome_es": "Fundación de la República y la Expulsión de los Reyes (509 a.C.)",
+      "tipo": "evento",
+      "inicio": -509,
+      "fim": -400,
+      "descricao": "A tradição romana data a fundação da República em 509 a.C., com a expulsão do último rei etrusco Tarquínio, o Soberbo, após a violação de Lucrécia (cuja morte teria provocado a revolta aristocrática). Estabelecimento das principais instituições republicanas: dois cônsules eleitos anualmente (com poder de veto mútuo — o 'intercessio'); Senado de 300 patriarcas; Comícios (assembleias populares). O cargo de ditador: nomeado em emergências por 6 meses máximo — Cincinnato (458 a.C.) abandonou seu arado, salvou Roma, e voltou ao campo em 15 dias, tornando-se o ideal da virtude republicana. A Lei das Doze Tábuas (450 a.C.): o primeiro código legal escrito romano — exposto no Fórum para que todos pudessem conhecer a lei.",
+      "descricao_en": "Roman tradition dates the Republic's foundation to 509 BC, with the expulsion of the last Etruscan king Tarquinius Superbus. Establishment of key republican institutions: two annually elected consuls (with mutual veto power — the 'intercessio'); Senate of 300 patricians; Comitia (popular assemblies). The dictatorship: appointed in emergencies for a maximum 6 months — Cincinnatus (458 BC) left his plow, saved Rome, and returned to his field in 15 days. The Twelve Tables (450 BC): Rome's first written legal code.",
+      "descricao_es": "La tradición romana data la fundación de la República en 509 a.C., con la expulsión del último rey etrusco Tarquinio el Soberbio. Instituciones republicanas: dos cónsules elegidos anualmente (con poder de veto mutuo — la 'intercessio'); Senado de 300 patricios; Comicios. Las Doce Tablas (450 a.C.): el primer código legal escrito de Roma.",
+      "importancia": "A República Romana (509–27 a.C.) foi o experimento político mais duradouro de democracia mista da história Antiga — seus mecanismos de freios e contrapesos inspiraram diretamente os Federalistas americanos (Madison, Hamilton) ao redigir a Constituição de 1787.",
+      "importancia_en": "The Roman Republic (509–27 BC) was the most enduring experiment in mixed government in ancient history — its checks and balances mechanisms directly inspired the American Federalists (Madison, Hamilton) when drafting the Constitution of 1787.",
+      "importancia_es": "La República Romana (509–27 a.C.) fue el experimento político más duradero de gobierno mixto en la historia antigua — sus mecanismos de pesos y contrapesos inspiraron directamente a los Federalistas americanos (Madison, Hamilton) al redactar la Constitución de 1787.",
+      "tags": [
+        "republica-romana",
+        "senado",
+        "consules",
+        "doze-tabuas",
+        "cincinnato",
+        "patricios"
+      ],
+      "century_start": -5,
+      "century_end": -5,
+      "region": "Europe",
+      "type": "political",
+      "period": "IronAge"
+    },
+    {
+      "id": "rr-002",
+      "nome": "Conflito das Ordens: Plebeus vs. Patrícios (494–287 a.C.)",
+      "nome_en": "Conflict of the Orders: Plebeians vs. Patricians (494–287 BC)",
+      "nome_es": "Conflicto de los Órdenes: Plebeyos vs. Patricios (494–287 a.C.)",
+      "tipo": "periodo",
+      "inicio": -494,
+      "fim": -287,
+      "descricao": "O mais importante conflito de classes da República Romana (200+ anos). Plebeus (90%+ da população) não podiam ser cônsules, senadores, pontífices ou juízes. Secessões da Plebe: trabalhadores e soldados abandonavam coletivamente Roma e se recusavam a trabalhar ou lutar — greve geral do Mundo Antigo. Conquistas: tribunos da plebe (494 a.C.) com poder de veto (intercessio) contra qualquer magistrado — o mais poderoso mecanismo de proteção popular da Antiguidade. Lei Licínia-Sêxtia (367 a.C.): um cônsul deveria ser sempre plebeu. Lei Hortênsia (287 a.C.): leis aprovadas pelos plebeus (plebiscitos) passaram a vincular todos os romanos, incluindo patrícios. Resultado: ascensão da nobilitas (aristocracia de mérito misto).",
+      "descricao_en": "The most important class conflict of the Roman Republic (200+ years). Plebeians (90%+ of the population) could not be consuls, senators, pontiffs or judges. Secessio plebis: workers and soldiers collectively abandoned Rome and refused to work or fight — the general strike of the Ancient World. Gains: tribunes of the plebs (494 BC) with veto power (intercessio) against any magistrate. Licinian-Sextian Laws (367 BC): one consul must always be plebeian. Hortensian Law (287 BC): laws passed by the plebs bound all Romans.",
+      "descricao_es": "El conflicto de clases más importante de la República Romana (200+ años). Los plebeyos no podían ser cónsules, senadores, pontífices ni jueces. Secessio plebis: trabajadores y soldados abandonaban colectivamente Roma — la huelga general del mundo antiguo. Leyes Licinias-Sextias (367 a.C.): un cónsul siempre debía ser plebeyo. Ley Hortensiana (287 a.C.): los plebiscitos vinculaban a todos los romanos.",
+      "importancia": "O Conflito das Ordens foi resolvido por 200 anos de pressão constitucional gradual — sem violência revolucionária, criando um precedente de reformas incrementais que influenciou o gradualismo político britânico e o constitucionalismo americano.",
+      "importancia_en": "The Conflict of the Orders was resolved by 200 years of gradual constitutional pressure — without revolutionary violence, creating a precedent of incremental reform that influenced British political gradualism and American constitutionalism.",
+      "importancia_es": "El Conflicto de los Órdenes se resolvió mediante 200 años de presión constitucional gradual — sin violencia revolucionaria, creando un precedente de reformas incrementales que influyó en el gradualismo político británico y el constitucionalismo americano.",
+      "tags": [
+        "plebeus",
+        "patricios",
+        "tribunos",
+        "secessao",
+        "republica"
+      ],
+      "century_start": -5,
+      "century_end": -3,
+      "region": "Europe",
+      "type": "political",
+      "period": "IronAge"
+    },
+    {
+      "id": "rr-003",
+      "nome": "Roma Conquista o Mediterrâneo: Das Guerras Púnicas à Grécia (264–133 a.C.)",
+      "nome_en": "Rome Conquers the Mediterranean: From the Punic Wars to Greece (264–133 BC)",
+      "nome_es": "Roma Conquista el Mediterráneo: De las Guerras Púnicas a Grecia (264–133 a.C.)",
+      "tipo": "periodo",
+      "inicio": -264,
+      "fim": -133,
+      "descricao": "Em 130 anos, Roma passou de potência italiana a dominadora do Mediterrâneo. Primeira Guerra Púnica (264–241 a.C.): Roma — um poder terrestre — construiu do zero uma frota de guerra e derrotou Cartago no mar. Segunda Guerra Púnica (218–201 a.C.): Aníbal; derrota em Zama. Terceira Guerra Púnica: destruição de Cartago (146 a.C.). Conquista da Macedônia (197 a.C.) e da Grécia (146 a.C., mesma semana que Cartago). Conquista da Espanha (Final: 133 a.C., queda de Numância). A 'Hellenização de Roma': contato com a cultura grega transformou a arte, filosofia, religião e educação romanas — 'Graecia capta ferum victorem cepit' (Horácio: 'A Grécia, vencida, capturou seu feroz vencedor').",
+      "descricao_en": "In 130 years, Rome went from Italian power to master of the Mediterranean. First Punic War (264–241 BC): Rome — a land power — built a war fleet from scratch and defeated Carthage at sea. Second Punic War (218–201 BC): Hannibal; defeat at Zama. Third Punic War: destruction of Carthage (146 BC). Conquest of Macedonia (197 BC) and Greece (146 BC). The 'Hellenization of Rome': contact with Greek culture transformed Roman art, philosophy, religion and education — 'Graecia capta ferum victorem cepit' (Horace).",
+      "descricao_es": "En 130 años, Roma pasó de potencia italiana a dominadora del Mediterráneo. Primera Guerra Púnica (264–241 a.C.): Roma — potencia terrestre — construyó una flota de guerra desde cero. Segunda Guerra Púnica (218–201 a.C.): Aníbal; derrota en Zama. Destrucción de Cartago y conquista de Grecia (146 a.C.). La 'helenización de Roma': el contacto con la cultura griega transformó el arte, la filosofía y la religión romanas.",
+      "importancia": "A conquista romana da Grécia (146 a.C.) produziu o paradoxo civilizacional mais importante da Antiguidade: o conquistador foi culturalmente conquistado pelo conquistado — criando a síntese greco-romana que é o alicerce da civilização ocidental.",
+      "importancia_en": "Rome's conquest of Greece (146 BC) produced the most important civilizational paradox of antiquity: the conqueror was culturally conquered by the conquered — creating the Greco-Roman synthesis that is the foundation of Western civilization.",
+      "importancia_es": "La conquista romana de Grecia (146 a.C.) produjo la paradoja civilizacional más importante de la antigüedad: el conquistador fue culturalmente conquistado por el conquistado — creando la síntesis grecorromana que es el fundamento de la civilización occidental.",
+      "tags": [
+        "guerras-punicas",
+        "expansao-romana",
+        "grecia",
+        "helenizacao",
+        "mediterraneo"
+      ],
+      "century_start": -3,
+      "century_end": -2,
+      "region": "Mediterranean",
+      "type": "war",
+      "period": "IronAge"
+    },
+    {
+      "id": "rr-004",
+      "nome": "Graco, Mario e Sula: A República em Crise (133–78 a.C.)",
+      "nome_en": "Gracchi, Marius and Sulla: The Republic in Crisis (133–78 BC)",
+      "nome_es": "Los Gracos, Mario y Sila: La República en Crisis (133–78 a.C.)",
+      "tipo": "periodo",
+      "inicio": -133,
+      "fim": -78,
+      "descricao": "O século que destruiu a República. Tibério Graco (133 a.C.): tribuno que propôs redistribuição de terras públicas — assassinado no Senado por senadores com bancos e cadeiras. Caio Graco (123–121 a.C.): programa de reformas mais amplo — assassinado. Reformas de Mário (107 a.C.): aboliu exigência de propriedade para alistar-se — soldados passaram a ser leais ao general que os pagava, não a Roma. Lúcio Cornélio Sula (138–78 a.C.): primeiro general a marchar sobre Roma com seu exército (88 a.C.) — tornando-se ditador. Sula proscreveu e assassinou 1.500–4.700 cidadãos romanos ricos (as 'proscrições'). Precedente fatal: o exército como ferramenta de política interna, não apenas de guerra externa.",
+      "descricao_en": "The century that destroyed the Republic. Tiberius Gracchus (133 BC): tribune who proposed redistribution of public land — murdered in the Senate by senators using benches and chairs. Gaius Gracchus (123–121 BC): broader reform program — murdered. Marian reforms (107 BC): abolished property requirement for enlistment — soldiers became loyal to the general who paid them, not to Rome. Lucius Cornelius Sulla (138–78 BC): first general to march on Rome with his army (88 BC) — becoming dictator. Sulla proscribed and murdered 1,500–4,700 wealthy Roman citizens.",
+      "descricao_es": "El siglo que destruyó la República. Tiberio Graco (133 a.C.): tribuno que propuso redistribuir tierras públicas — asesinado en el Senado. Mario y Sila: el ejército pasó a ser leal al general, no a Roma. Lucio Cornelio Sila (88 a.C.): primer general en marchar sobre Roma con su ejército — dictador. Sila proscribió y asesinó a 1.500–4.700 ciudadanos romanos ricos.",
+      "importancia": "As reformas de Mário (107 a.C.) foram a mudança institucional mais destrutiva da história romana: ao profissionalizar e fidelizar o exército aos generais, criaram a condição estrutural que tornaria Júlio César e Augusto inevitáveis 80 anos depois.",
+      "importancia_en": "Marius' reforms (107 BC) were the most destructive institutional change in Roman history: by professionalizing and making the army loyal to generals, they created the structural condition that would make Julius Caesar and Augustus inevitable 80 years later.",
+      "importancia_es": "Las reformas de Mario (107 a.C.) fueron el cambio institucional más destructivo de la historia romana: al profesionalizar y fidelizar el ejército a los generales, crearon la condición estructural que haría inevitables a Julio César y Augusto 80 años después.",
+      "tags": [
+        "graccos",
+        "mario",
+        "sula",
+        "reforma-agraria",
+        "crise-republica",
+        "proscricoes"
+      ],
+      "century_start": -2,
+      "century_end": -1,
+      "region": "Europe",
+      "type": "political",
+      "period": "IronAge"
+    },
+    {
+      "id": "rr-005",
+      "nome": "Júlio César e o Fim da República (73–44 a.C.)",
+      "nome_en": "Julius Caesar and the End of the Republic (73–44 BC)",
+      "nome_es": "Julio César y el Fin de la República (73–44 a.C.)",
+      "tipo": "periodo",
+      "inicio": -73,
+      "fim": -44,
+      "descricao": "Caio Júlio César (100–44 a.C.): o personagem mais estudado da história ocidental. Primeiro Triunvirato (60 a.C.): aliança secreta César-Pompeu-Crasso. Guerras Gálicas (58–50 a.C.): Caesar conquista a Gália atual (França/Bélgica) em 8 anos, mata ~1 milhão de gauleses e escraviza outro milhão (cifras de Plutarco, debatidas), escreve 'De Bello Gallico' — o primeiro relato de guerra na primeira pessoa de um comandante. 'Alea iacta est' (janeiro 49 a.C.): cruzou o Rubicão, iniciando guerra civil. Venceu Pompeu em Farsalos (48 a.C.). Cleópatra VII: aliança política e pessoal. Ditador perpétuo (44 a.C.). Assassinado nos Idos de Março (15 mar 44 a.C.) por 23 punhaladas — os conspiradores incluíam seu filho adotivo Bruto.",
+      "descricao_en": "Gaius Julius Caesar (100–44 BC): the most studied figure in Western history. First Triumvirate (60 BC): secret alliance Caesar-Pompey-Crassus. Gallic Wars (58–50 BC): Caesar conquered modern France/Belgium in 8 years, 'Alea iacta est' (January 49 BC): crossed the Rubicon, starting civil war. Defeated Pompey at Pharsalus (48 BC). Cleopatra VII: political and personal alliance. Perpetual dictator (44 BC). Assassinated on the Ides of March (Mar 15, 44 BC) by 23 stab wounds — conspirators included his adoptive son Brutus.",
+      "descricao_es": "Cayo Julio César (100–44 a.C.): el personaje más estudiado de la historia occidental. Primer Triunvirato (60 a.C.). Guerras Gálicas (58–50 a.C.): conquistó la actual Francia/Bélgica en 8 años. 'Alea iacta est' (enero 49 a.C.): cruzó el Rubicón. Derrotó a Pompeyo en Farsalia (48 a.C.). Dictador perpetuo (44 a.C.). Asesinado en los Idus de Marzo (15 mar 44 a.C.) por 23 puñaladas.",
+      "importancia": "O assassinato de César (44 a.C.) provou que matar um homem não mata uma ideia: em vez de restaurar a República, os conspiradores desencadearam 13 anos de guerras civis que terminaram com Augusto — um monarca que preservou todas as formas republicanas enquanto destruía seu conteúdo.",
+      "importancia_en": "Caesar's assassination (44 BC) proved that killing a man does not kill an idea: instead of restoring the Republic, the conspirators unleashed 13 years of civil wars ending with Augustus — a monarch who preserved all republican forms while destroying their content.",
+      "importancia_es": "El asesinato de César (44 a.C.) demostró que matar a un hombre no mata una idea: en lugar de restaurar la República, los conspiradores desencadenaron 13 años de guerras civiles que terminaron con Augusto — un monarca que preservó todas las formas republicanas mientras destruía su contenido.",
+      "tags": [
+        "cesar",
+        "rubicao",
+        "galia",
+        "ides-marco",
+        "republica",
+        "assassinato"
+      ],
+      "century_start": -1,
+      "century_end": -1,
+      "region": "Europe",
+      "type": "political",
+      "period": "IronAge"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "rr-001",
+      "destino": "rr-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A exclusão plebeia gerou dois séculos de conflito constitucional"
+    },
+    {
+      "origem": "rr-002",
+      "destino": "rr-003",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "A estabilidade institucional interna possibilitou a expansão externa"
+    },
+    {
+      "origem": "rr-003",
+      "destino": "rr-004",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "A riqueza das conquistas criou desigualdade que explodiu na crise dos Gracos"
+    },
+    {
+      "origem": "rr-004",
+      "destino": "rr-005",
+      "tipo": "evolucao",
+      "intensidade": 0.95,
+      "descricao": "Mário/Sula abriram o caminho estrutural que César percorreu até o fim"
+    }
+  ]
+}

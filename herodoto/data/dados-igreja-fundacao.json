@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "fonte": "Patrística e Historiografia Católica",
+    "lingua": "pt",
+    "tema": "Fundação da Igreja Católica",
+    "periodo": "30-430"
+  },
+  "entidades": [
+    {
+      "id": "ifc-001",
+      "nome": "Jesus de Nazaré e a Fundação da Igreja",
+      "nome_en": "Jesus of Nazareth and the Founding of the Church",
+      "nome_es": "Jesús de Nazaret y la Fundación de la Iglesia",
+      "tipo": "evento",
+      "inicio": 30,
+      "fim": 33,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": 1,
+      "century_end": 1,
+      "type": "religious",
+      "descricao": "Jesus de Nazaré é apresentado, nos evangelhos, como aquele que proclamou Pedro como rocha fundadora: 'Tu és Pedro, e sobre esta pedra edificarei a minha Igreja' (Mt 16,18) — passagem que a Igreja Católica considera o fundamento bíblico do papado, enquanto outras tradições cristãs interpretam de forma diferente. Segundo os textos cristãos, após a crucificação os discípulos experimentaram aparições do ressuscitado e, no Pentecostes (c. 33 d.C.), descreveram ter recebido o Espírito Santo — evento que as fontes cristãs marcam como o início público da comunidade. A historicidade de Jesus é atestada por fontes não-cristãs: Flávio Josefo (AJ XX.200: 'Tiago, irmão do Jesus chamado Cristo'), Tácito (Anais XV.44) e Plínio, o Jovem (Epístolas X.96).",
+      "descricao_en": "Jesus of Nazareth proclaimed Peter as the rock of His Church (Mt 16:18). After the Resurrection, the Holy Spirit descended at Pentecost (c. 33 AD). Jesus's historicity is attested by Josephus (AJ XX.200, cited by Origen in three works), Tacitus (Annals XV.44), and Pliny the Younger.",
+      "descricao_es": "Jesús proclamó a Pedro como roca de su Iglesia (Mt 16,18). El Espíritu Santo descendió en Pentecostés. La historicidad de Jesús está atestiguada por Josefo, Tácito y Plinio el Joven.",
+      "importancia": "Fundação da instituição religiosa que se tornaria a mais influente da história ocidental. É debatido entre historiadores se o próprio Jesus fundou uma 'Igreja' como instituição, ou se essa organização foi obra de Paulo e das gerações seguintes. A referência de Josefo (AJ XX.200) é considerada historicamente autêntica pela maioria dos estudiosos — base sólida para a historicidade de Jesus, independentemente das crenças teológicas.",
+      "importancia_en": "Foundation of the most influential religious institution in Western history. The Josephan testimony (AJ XX.200) is considered historically authentic by academics: Origen cites it three times during persecution, making later falsification impossible.",
+      "importancia_es": "Fundación de la institución religiosa más influyente de la historia occidental.",
+      "tags": [
+        "Jesus",
+        "Pedro",
+        "Igreja",
+        "Pentecostes",
+        "fundação",
+        "apóstolos"
+      ],
+      "dataset": "data/dados-igreja-fundacao.json"
+    },
+    {
+      "id": "ifc-002",
+      "nome": "Pedro e a Fundação do Papado",
+      "nome_en": "Saint Peter: First Bishop of Rome and the Papacy",
+      "nome_es": "San Pedro: Primer Obispo de Roma y el Papado",
+      "tipo": "periodo",
+      "inicio": 33,
+      "fim": 68,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": 1,
+      "century_end": 1,
+      "type": "religious",
+      "descricao": "Simão Pedro, segundo os evangelhos o mais próximo de Jesus dentre os apóstolos, teria pregado em Antioquia e Roma, onde foi martirizado sob Nero (c. 64–68 d.C.), crucificado de cabeça para baixo segundo a tradição. Escavações arqueológicas vaticanas no século XX identificaram restos ósseos sob o altar-mor da Basílica de São Pedro, que o Vaticano atribui ao apóstolo — atribuição aceita por muitos, contestada por alguns estudiosos. A doutrina católica afirma que o papado é a sucessão direta do mandato conferido por Cristo a Pedro (Mt 16,18-19); tradições protestantes e ortodoxas rejeitam essa interpretação do texto bíblico.",
+      "descricao_en": "Simon Peter became the first Bishop of Rome, establishing the papacy as direct succession from Christ's mandate. He was martyred under Nero (c. 64–68 AD), crucified upside down. Vatican excavations in the 20th century identified his tomb beneath St. Peter's Basilica.",
+      "descricao_es": "Simón Pedro se convirtió en el primer obispo de Roma. Fue martirizado bajo Nerón. Las excavaciones vaticanas del siglo XX identificaron su tumba.",
+      "importancia": "A pretensão ao primado petrina — a ideia de que o bispo de Roma sucede diretamente a Pedro como líder da Igreja — é a base da autoridade papal e um dos principais pontos de divergência entre catolicismo, ortodoxia e protestantismo. Essa doutrina, desenvolvida ao longo dos séculos, é um dos fatos mais consequentes da história religiosa ocidental, independentemente de seu fundamento teológico ser aceito ou rejeitado.",
+      "importancia_en": "The Roman apostolic succession — the papacy — derives directly from Christ's mandate to Peter.",
+      "importancia_es": "La sucesión apostólica romana deriva directamente del mandato de Cristo a Pedro.",
+      "tags": [
+        "Pedro",
+        "papa",
+        "Roma",
+        "martírio",
+        "papado"
+      ],
+      "dataset": "data/dados-igreja-fundacao.json"
+    },
+    {
+      "id": "ifc-003",
+      "nome": "Cristãos do Primeiro Século: Perseguição e Expansão Apostólica",
+      "nome_en": "First-Century Christians: Persecution and Apostolic Expansion",
+      "nome_es": "Cristianos del Primer Siglo: Persecución y Expansión Apostólica",
+      "tipo": "periodo",
+      "inicio": 33,
+      "fim": 100,
+      "region": "Multiple",
+      "period": "Ancient",
+      "century_start": 1,
+      "century_end": 1,
+      "type": "religious",
+      "descricao": "Os primeiros cristãos enfrentaram perseguições sob Nero (64 d.C.) e Domiciano (81–96 d.C.). Paulo de Tarso percorreu o Mediterrâneo fundando comunidades na Grécia, Turquia e Roma. Plínio, o Jovem, relatou ao imperador Trajano (c. 110 d.C.) que os cristãos se reuniam para 'cantar hinos a Cristo como a um deus' — fonte não-cristã valiosa sobre as práticas do movimento. Apesar das perseguições reais e documentadas, a comunidade cresceu e se espalhou por todo o Império Romano.",
+      "descricao_en": "Early Christians faced systematic persecution under Nero (64 AD) and Domitian (81–96 AD). Paul of Tarsus traveled the Mediterranean founding communities. Pliny the Younger reported to Emperor Trajan (c. 110 AD) that Christians gathered before dawn to 'sing hymns to Christ as to a god'.",
+      "descricao_es": "Los primeros cristianos enfrentaron persecuciones sistemáticas. Pablo de Tarso recorrió el Mediterráneo fundando comunidades. Plinio el Joven informó al emperador Trajano que los cristianos cantaban himnos a Cristo.",
+      "importancia": "A expansão cristã nos dois primeiros séculos, apesar de perseguições documentadas, mostra a capacidade de organizações religiosas de crescer em ambientes adversos. Tácito (Anais XV.44) atesta cristãos em Roma, vinculando-os ao 'Cristo que sofreu o suplício extremo sob Tibério' — uma das mais valiosas menções não-cristãs à comunidade primitiva.",
+      "importancia_en": "Christian expansion despite persecution demonstrates the power of the apostolic message. Tacitus attests Christians in Rome.",
+      "importancia_es": "La expansión cristiana demuestra la fuerza del mensaje apostólico.",
+      "tags": [
+        "cristãos",
+        "perseguição",
+        "Paulo",
+        "Nero",
+        "missionários"
+      ],
+      "dataset": "data/dados-igreja-fundacao.json"
+    },
+    {
+      "id": "ifc-004",
+      "nome": "Édito de Milão e Concílio de Niceia",
+      "nome_en": "Edict of Milan and Council of Nicaea",
+      "nome_es": "Edicto de Milán y Concilio de Nicea",
+      "tipo": "evento",
+      "inicio": 313,
+      "fim": 325,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": 4,
+      "century_end": 4,
+      "type": "political",
+      "descricao": "O Édito de Milão (313 d.C.) de Constantino I garantiu liberdade religiosa a todos no Império Romano, encerrando as perseguições. Em 325 d.C., Constantino convocou o Primeiro Concílio Ecumênico de Niceia, que definiu o Credo Niceno, afirmando a consubstancialidade do Filho com o Pai (homoousios), refutando o arianismo.",
+      "descricao_en": "The Edict of Milan (313 AD) granted religious freedom throughout the Roman Empire, ending persecutions. In 325 AD, Constantine convened the First Ecumenical Council of Nicaea, which defined the Nicene Creed, affirming the consubstantiality of the Son with the Father (homoousios), refuting Arianism.",
+      "descricao_es": "El Edicto de Milán (313 d.C.) garantizó libertad religiosa. En 325 d.C., el Primer Concilio de Nicea definió el Credo Niceno, afirmando la consustancialidad del Hijo con el Padre.",
+      "importancia": "Ponto de inflexão que transformou o cristianismo de religião perseguida em religião tolerada. Niceia estabeleceu a doutrina trinitária fundamental que todos os concílios ecumênicos subsequentes ratificariam.",
+      "importancia_en": "Turning point transforming Christianity from persecuted to tolerated religion. Nicaea established the fundamental Trinitarian doctrine.",
+      "importancia_es": "Punto de inflexión que transformó el cristianismo. Nicea estableció la doctrina trinitaria fundamental.",
+      "tags": [
+        "Constantino",
+        "Milão",
+        "liberdade religiosa",
+        "Niceia",
+        "arianismo"
+      ],
+      "dataset": "data/dados-igreja-fundacao.json"
+    },
+    {
+      "id": "ifc-005",
+      "nome": "Padres da Igreja: Agostinho, Jerônimo e Ambrósio",
+      "nome_en": "Church Fathers: Augustine, Jerome and Ambrose",
+      "nome_es": "Padres de la Iglesia: Agustín, Jerónimo y Ambrosio",
+      "tipo": "periodo",
+      "inicio": 340,
+      "fim": 430,
+      "region": "Multiple",
+      "period": "Ancient",
+      "century_start": 4,
+      "century_end": 5,
+      "type": "intellectual",
+      "descricao": "Os Padres da Igreja do século IV–V sistematizaram a teologia cristã. Santo Agostinho de Hipona (354–430) escreveu 'A Cidade de Deus' e 'Confissões', fundamentos do pensamento ocidental. São Jerônimo traduziu a Bíblia para o latim (a Vulgata). Santo Ambrósio estabeleceu a independência eclesiástica frente ao poder imperial. A teologia agostiniana seria a base que Lutero, como padre agostiniano, utilizaria para propor a Reforma.",
+      "descricao_en": "Church Fathers of the 4th–5th centuries systematized Christian theology. Saint Augustine of Hippo (354–430) wrote 'The City of God' and 'Confessions'. Saint Jerome translated the Bible into Latin (the Vulgate). Saint Ambrose established ecclesiastical independence from imperial power. Augustinian theology would later form the basis of Luther's Reformation proposals.",
+      "descricao_es": "Los Padres de la Iglesia del siglo IV–V sistematizaron la teología cristiana. San Agustín escribió 'La Ciudad de Dios'. San Jerónimo tradujo la Biblia al latín. La teología agustiniana sería la base de la Reforma de Lutero.",
+      "importancia": "Agostinho foi a principal referência teológica que Lutero utilizou para propor a Reforma — o reformador era padre agostiniano e embasou o 'sola fide' nos escritos de Agostinho. Os Padres da Igreja construíram o alicerce intelectual e teológico do Ocidente cristão medieval, sintetizando herança greco-romana com pensamento cristão.",
+      "importancia_en": "Augustine was the theological cornerstone Luther used — the reformer was an Augustinian friar who grounded 'sola fide' in Augustine's writings.",
+      "importancia_es": "Agustín fue la piedra angular teológica que Lutero utilizó para la Reforma.",
+      "tags": [
+        "Agostinho",
+        "Jerônimo",
+        "Ambrósio",
+        "Vulgata",
+        "teologia",
+        "Lutero"
+      ],
+      "dataset": "data/dados-igreja-fundacao.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ifc-001",
+      "destino": "ifc-002",
+      "tipo": "causalidade",
+      "intensidade": 1.0,
+      "descricao": "Cristo institui Pedro como líder da Igreja"
+    },
+    {
+      "origem": "ifc-002",
+      "destino": "ifc-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O apostolado lança a expansão cristã"
+    },
+    {
+      "origem": "ifc-003",
+      "destino": "ifc-004",
+      "tipo": "evolucao",
+      "intensidade": 0.9,
+      "descricao": "Perseguições precedem o reconhecimento imperial"
+    },
+    {
+      "origem": "ifc-004",
+      "destino": "ifc-005",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Liberdade permite florescimento da teologia"
+    }
+  ]
+}

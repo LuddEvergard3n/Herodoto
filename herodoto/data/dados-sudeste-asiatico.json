@@ -1,0 +1,171 @@
+{
+  "entidades": [
+    {
+      "id": "sea-004",
+      "nome": "Dai Viet: Resistência ao Domínio Chinês",
+      "nome_en": "Dai Viet: Resistance to Chinese Domination",
+      "nome_es": "Dai Viet: Resistencia a la Dominación China",
+      "tipo": "periodo",
+      "descricao": "Vietnã sob domínio chinês por 1000 anos (111 a.C.–938 d.C.). Irmãs Trung (39-43 d.C.): primeira revolta independentista, lideraram exército contra Han — ícones nacionais. Independência em 938 (Ngô Quyền derrotou frota chinesa no delta do Rio Bạch Đằng). Dai Viet resistiu a três invasões mongóis (1258, 1285, 1288) — Tran Hung Dao usou tática de guerrilha. Expansão sul às custas do Champa. Modelo de resistência que inspiraria Ho Chi Minh.",
+      "descricao_en": "Vietnam under Chinese domination for 1,000 years (111 BC–938 AD). Trung Sisters (39-43 AD): first independence revolt, led army against Han — national icons. Independence in 938 (Ngô Quyền defeated Chinese fleet at Bach Dang River delta). Dai Viet resisted three Mongol invasions (1258, 1285, 1288) — Tran Hung Dao used guerrilla tactics. Southern expansion at Champa's expense. Resistance model that inspired Ho Chi Minh.",
+      "descricao_es": "Vietnam bajo dominio chino 1000 años. Hermanas Trưng (39-43 d.C.): primera revuelta independentista. Independencia en 938. Resistió tres invasiones mongolas (1258, 1285, 1288) con guerrilla. Modelo de resistencia que inspiró a Ho Chi Minh.",
+      "inicio": -111,
+      "fim": 1802,
+      "tags": [
+        "dai-viet",
+        "vietnam",
+        "china",
+        "resistencia"
+      ],
+      "importancia": "Dai Viet (968-1804) é a história mais longa de resistência bem-sucedida ao domínio chinês da história asiática: o Vietnam sobreviveu a quatro ocupações chinesas (111 a.C.-938 d.C., 1407-27 d.C.) e manteve identidade cultural distinta. A resistência vietnamita não era étnica apenas — era cultural: adotou seletivamente a escrita, o confucionismo e a administração chinesas, mas recusou a assimilação política. Essa capacidade de absorver influências dominantes sem perder identidade explica também a derrota americana no Vietnam: os americanos subestimaram uma cultura que havia sobrevivido a 1.000 anos de ocupação chinesa.",
+      "century_start": -2,
+      "century_end": 19,
+      "region": "SoutheastAsia",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "Southern expansion at Champa's expense. Resistance model that inspired Ho Chi Minh.",
+      "importancia_es": "Resistió tres invasiones mongolas (1258, 1285, 1288) con guerrilla. Modelo de resistencia que inspiró a Ho Chi Minh."
+    },
+    {
+      "id": "sea-001",
+      "nome": "Srivijaya: Império Marítimo Budista",
+      "nome_en": "Srivijaya: Buddhist Maritime Empire",
+      "nome_es": "Srivijaya: Imperio Marítimo Budista",
+      "tipo": "periodo",
+      "descricao": "Srivijaya (650-1377): talassocracia budista centrada em Palembang (Sumatra). Controlou o Estreito de Malaca — a maior rota comercial entre China e Índia. Rei garantia passagem segura em troca de taxas. Centro de estudos budistas: monge Yijing (671) descreveu mais de 1000 monges estudando. Pirataria como instrumento de controle. Decaiu com a ascensão de Majapahit e invasão Chola (1025).",
+      "descricao_en": "Srivijaya (650-1377): Buddhist thalassocracy centered in Palembang (Sumatra). Controlled the Strait of Malacca — the major trade route between China and India. King guaranteed safe passage in exchange for taxes. Buddhist studies center: monk Yijing (671) described over 1,000 monks studying. Piracy as a control instrument. Declined with the rise of Majapahit and Chola invasion (1025).",
+      "descricao_es": "Srivijaya (650-1377): talassocracia budista en Palembang (Sumatra). Controló el Estrecho de Malaca — la mayor ruta comercial entre China e India. Centro de estudios budistas. Piratería como instrumento de control. Declinó con el surgimiento de Majapahit.",
+      "inicio": 650,
+      "fim": 1377,
+      "tags": [
+        "srivijaya",
+        "budismo",
+        "sudeste-asiatico",
+        "comercio-maritimo"
+      ],
+      "importancia": "Srivijaya (650-1377) controlou o Estreito de Málaca — o ponto de estrangulamento do comércio entre Índia e China — por 700 anos. Sua riqueza era taxas de passagem, não produção própria. É o modelo histórico clássico de poder marítimo baseado em posição geográfica: quem controla o estreito controla o fluxo de riqueza. O Estreito de Málaca ainda é o ponto de passagem de 80% do petróleo e 60% do comércio da Ásia-Pacífico — a relevância estratégica que Srivijaya explorou há 1.400 anos permanece idêntica.",
+      "century_start": 7,
+      "century_end": 14,
+      "region": "SoutheastAsia",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Declined with the rise of Majapahit and Chola invasion (1025).",
+      "importancia_es": "Piratería como instrumento de control. Declinó con el surgimiento de Majapahit."
+    },
+    {
+      "id": "sea-002",
+      "nome": "Angkor: O Maior Complexo Pré-Industrial do Mundo",
+      "nome_en": "Angkor: The Largest Pre-Industrial Complex in the World",
+      "nome_es": "Angkor: El Mayor Complejo Preindustrial del Mundo",
+      "tipo": "periodo",
+      "descricao": "Império Khmer (802-1431): Jayavarman II fundou o Devaraja (rei-deus). Angkor Wat (1113-1150): maior estrutura religiosa jamais construída — 1,6 km² de pedra, 5 torres, 800m de baixo-relevos. Cidade de Angkor: 1 milhão de habitantes no século XII — maior cidade do mundo pré-industrial. Sistema de irrigação (barays) sofisticadíssimo. Colapso provocado por seca, Sião e abandono gradual — 'queda' em 1431.",
+      "descricao_en": "Khmer Empire (802-1431): Jayavarman II founded the Devaraja (god-king). Angkor Wat (1113-1150): largest religious structure ever built — 1.6 km² of stone, 5 towers, 800m of bas-reliefs. City of Angkor: 1 million inhabitants in the 12th century — largest pre-industrial city in the world. Sophisticated irrigation system (barays). Collapse triggered by drought, Siam, and gradual abandonment — 'fall' in 1431.",
+      "descricao_es": "Imperio Jemer (802-1431): Angkor Wat (1113-1150): mayor estructura religiosa jamás construida — 1,6 km² de piedra, 5 torres, 800m de bajorrelieves. Ciudad de Angkor: 1 millón de habitantes en el siglo XII — mayor ciudad preindustrial del mundo. Colapso por sequía, Siam y abandono gradual.",
+      "inicio": 802,
+      "fim": 1431,
+      "tags": [
+        "angkor",
+        "khmer",
+        "camboja",
+        "templos"
+      ],
+      "importancia": "Angkor Wat: maior estrutura religiosa da história. Angkor: maior cidade do mundo pré-industrial com 1 milhão de habitantes.",
+      "century_start": 9,
+      "century_end": 15,
+      "region": "SoutheastAsia",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Collapse triggered by drought, Siam, and gradual abandonment — 'fall' in 1431.",
+      "importancia_es": "Ciudad de Angkor: 1 millón de habitantes en el siglo XII — mayor ciudad preindustrial del mundo. Colapso por sequía, Siam y abandono gradual."
+    },
+    {
+      "id": "sea-003",
+      "nome": "Majapahit: O Último Grande Império Hindu-Budista",
+      "nome_en": "Majapahit: The Last Great Hindu-Buddhist Empire",
+      "nome_es": "Majapahit: El Último Gran Imperio Hindú-Budista",
+      "tipo": "periodo",
+      "descricao": "Majapahit (1293-1527): baseado em Java Oriental. Hayam Wuruk (r. 1350-1389) e ministro Gajah Mada: o apogeu. Sumpah Palapa ('Juro não comer palapa até unificar o Nusantara'): conquistou Sumatra, Bornéu, Bali, Malacas, parte das Filipinas. 98 tributários. Principal referência identitária da Indonésia moderna — o brasão nacional (Garuda) vem de Majapahit. Declínio com islamização e conflitos internos no séc. XV-XVI.",
+      "descricao_en": "Majapahit (1293-1527): based in East Java. Hayam Wuruk (r. 1350-1389) and minister Gajah Mada: the apogee. Palapa Oath ('I swear not to eat palapa until I unify the Nusantara'): conquered Sumatra, Borneo, Bali, Malaccas, part of the Philippines. 98 tributaries. Main identity reference of modern Indonesia — the national coat of arms (Garuda) comes from Majapahit. Declined with Islamization and internal conflicts in the 15th-16th century.",
+      "descricao_es": "Majapahit (1293-1527): apogeo con Hayam Wuruk y Gajah Mada. Juramento de Palapa: conquistó Sumatra, Borneo, Bali, Malacas. 98 tributarios. Principal referencia identitaria de la Indonesia moderna — el escudo nacional viene de Majapahit.",
+      "inicio": 1293,
+      "fim": 1527,
+      "tags": [
+        "majapahit",
+        "java",
+        "indonesia",
+        "hinduismo"
+      ],
+      "importancia": "Majapahit (1293-1527) foi o maior Estado do Sudeste Asiático e a última grande síntese hindu-budista antes da islamização da região. No auge, controlava o que é hoje Indonésia, Malásia e partes das Filipinas. O 'Pancasila' — os cinco princípios da constituição indonésia moderna — foi inspirado num texto do ministro Gajah Mada de Majapahit. O Indonésio moderno se identifica com Majapahit como ancestral civilizacional, mesmo sendo maioritariamente muçulmano — demonstrando que herança cultural pode superar as fronteiras religiosas.",
+      "century_start": 13,
+      "century_end": 16,
+      "region": "SoutheastAsia",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Declined with Islamization and internal conflicts in the 15th-16th century.",
+      "importancia_es": "Principal referencia identitaria de la Indonesia moderna — el escudo nacional viene de Majapahit."
+    },
+    {
+      "id": "sea-005",
+      "nome": "Sultanato de Malaca e o Islão no Sudeste Asiático",
+      "nome_en": "Sultanate of Malacca and Islam in Southeast Asia",
+      "nome_es": "Sultanato de Malaca y el Islam en el Sudeste Asiático",
+      "tipo": "periodo",
+      "descricao": "Sultanato de Malaca (1400-1511): fundado por Paramesvara, príncipe fujão de Majapahit. Conversão ao Islão (~1414): lançou a islamização do Sudeste Asiático via comércio. Malaca no séc. XV: porto mais movimentado do mundo — 84 línguas faladas, especiarias da Banda, seda chinesa, tecidos indianos. Tomé de Pires (1512): 'quem é Malaca, tem as mãos na garganta de Veneza'. Conquistado por Afonso de Albuquerque em 1511.",
+      "descricao_en": "Sultanate of Malacca (1400-1511): founded by Paramesvara, a fugitive prince from Majapahit. Conversion to Islam (~1414): launched the Islamization of Southeast Asia via trade. Malacca in the 15th century: busiest port in the world — 84 languages spoken, spices from Banda, Chinese silk, Indian textiles. Tomé de Pires (1512): 'whoever holds Malacca has his hands on Venice's throat'. Conquered by Afonso de Albuquerque in 1511.",
+      "descricao_es": "Sultanato de Malaca (1400-1511): fundado por Paramesvara. Conversión al Islam (~1414): difundió el Islam por el Sudeste Asiático. Malaca en el siglo XV: puerto más activo del mundo — 84 idiomas. Conquistado por Albuquerque en 1511.",
+      "inicio": 1400,
+      "fim": 1511,
+      "tags": [
+        "malaca",
+        "islao",
+        "especiarias",
+        "comercio-maritimo"
+      ],
+      "importancia": "Portal do Islão no Sudeste Asiático. Porto mais movimentado do mundo no séc. XV. Queda desencadeou era das especiarias portuguesas.",
+      "century_start": 15,
+      "century_end": 16,
+      "region": "SoutheastAsia",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Tomé de Pires (1512): 'whoever holds Malacca has his hands on Venice's throat'. Conquered by Afonso de Albuquerque in 1511.",
+      "importancia_es": "Malaca en el siglo XV: puerto más activo del mundo — 84 idiomas. Conquistado por Albuquerque en 1511."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "sea-001",
+      "destino": "sea-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O declínio de Srivijaya abriu espaço para a ascensão de Majapahit como potência regional"
+    },
+    {
+      "origem": "sea-003",
+      "destino": "sea-005",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "O fundador de Malaca era príncipe fugitivo de Majapahit — continuidade e ruptura"
+    },
+    {
+      "origem": "sea-001",
+      "destino": "sea-005",
+      "tipo": "influencia",
+      "intensidade": 0.7,
+      "descricao": "Srivijaya e Malaca: dois impérios do Estreito de Malaca separados por séculos"
+    },
+    {
+      "origem": "sea-002",
+      "destino": "sea-004",
+      "tipo": "contemporaneo",
+      "intensidade": 0.6,
+      "descricao": "Angkor e Dai Viet eram rivais na península indochinesa medieval"
+    },
+    {
+      "origem": "sea-005",
+      "destino": "sea-001",
+      "tipo": "influencia",
+      "intensidade": 0.6,
+      "descricao": "A queda de Malaca para Portugal em 1511 encerrou a era dos impérios marítimos do Estreito"
+    }
+  ]
+}

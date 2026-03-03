@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "EUA Contemporâneo: Reagan, 11/9, Obama e Polarização",
+    "periodo": "1975-presente"
+  },
+  "entidades": [
+    {
+      "id": "euc-001",
+      "nome": "Jimmy Carter e a Crise dos Anos 1970",
+      "nome_en": "Jimmy Carter and the Crisis of the 1970s",
+      "nome_es": "Jimmy Carter y la Crisis de los Años 70",
+      "tipo": "periodo",
+      "inicio": 1974,
+      "fim": 1981,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "Os anos 1970 foram a década mais turbulenta da política americana pós-Guerra Civil: Watergate e renúncia de Nixon (1974), estagflação (inflação + recessão simultâneas), crise do petróleo (1973), queda de Saigon (1975), crise dos reféns no Irã (1979–81). Jimmy Carter (presidente 1977–1981) representou uma tentativa de liderança moral e honesta após Watergate — mas a crise econômica, a percepção de fraqueza no Irã e a invasão soviética do Afeganistão destruíram sua presidência. Inaugurou, paradoxalmente, a era Reagan.",
+      "descricao_en": "The 1970s were the most turbulent decade of post-Civil War American politics: Watergate and Nixon's resignation (1974), stagflation (simultaneous inflation + recession), oil crisis (1973), fall of Saigon (1975), Iran hostage crisis (1979–81). Jimmy Carter (president 1977–1981) represented an attempt at moral and honest leadership after Watergate — but economic crisis and the perception of weakness in Iran destroyed his presidency.",
+      "descricao_es": "Los años 70 fueron la década más turbulenta de la política americana post-Guerra Civil: Watergate, estanflación, crisis del petróleo y la crisis de los rehenes en Irán. Carter representó un intento de liderazgo moral pero fue destruido por la percepción de debilidad.",
+      "importancia": "Watergate (1972–1974) é o escândalo político mais consequente da história americana — e o que criou o sufixo '-gate' para qualquer escândalo político em qualquer idioma. A resignação de Nixon demonstrou que nenhum presidente americano está acima da lei.",
+      "importancia_en": "Watergate (1972–1974) is the most consequential political scandal in American history — and the one that created the '-gate' suffix for any political scandal in any language. Nixon's resignation demonstrated that no American president is above the law.",
+      "importancia_es": "El Watergate creó el sufijo '-gate' para cualquier escándalo político en cualquier idioma. La renuncia de Nixon demostró que ningún presidente americano está por encima de la ley.",
+      "tags": [
+        "Carter",
+        "Nixon",
+        "Watergate",
+        "estagflação",
+        "reféns",
+        "Irã"
+      ],
+      "dataset": "data/dados-eua-contemporaneo.json"
+    },
+    {
+      "id": "euc-002",
+      "nome": "A Era Reagan e a Virada Conservadora",
+      "nome_en": "The Reagan Era and the Conservative Turn",
+      "nome_es": "La Era Reagan y el Giro Conservador",
+      "tipo": "periodo",
+      "inicio": 1981,
+      "fim": 1989,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "Ronald Reagan (presidente 1981–1989) liderou a maior virada conservadora da política americana do século XX. Seu programa econômico — cortes de impostos, desregulação e contenção do gasto público — ficou conhecido como \"Reaganomics\". Aumentou significativamente os gastos militares e adotou postura firme contra a expansão soviética (\"Império do Mal\"). A dívida nacional cresceu, mas a economia saiu da recessão e o desemprego caiu de 10,8% (1982) para 5,4% (1988). O Escândalo Irã-Contras (1986) revelou que membros do governo venderam armas ao Irã e financiaram guerrilheiros anticomunistas na Nicarágua sem autorização do Congresso.",
+      "descricao_en": "Ronald Reagan (president 1981–1989) led the largest conservative shift in 20th century American politics. His economic program — tax cuts, deregulation and containment of public spending — became known as \"Reaganomics\". He significantly increased military spending and adopted a firm stance against Soviet expansion (\"Evil Empire\"). National debt grew, but the economy recovered from recession and unemployment fell from 10.8% (1982) to 5.4% (1988). The Iran-Contra Scandal (1986) revealed that government officials sold arms to Iran and funded anti-communist guerrillas in Nicaragua without Congressional authorization.",
+      "descricao_es": "Ronald Reagan (presidente 1981-1989) lideró el mayor giro conservador de la política americana del siglo XX. Su programa económico — recortes de impuestos, desregulación y contención del gasto público — se conoció como \"Reaganomics\". Aumentó el gasto militar y adoptó postura firme contra la expansión soviética. La deuda nacional creció pero la economía se recuperó y el desempleo cayó. El Escándalo Irán-Contra (1986) reveló ventas ilegales de armas al Irán.",
+      "importancia": "A era Reagan redefiniu o debate econômico americano por décadas: desregulação, corte de impostos e redução do Estado passaram a ser as bandeiras do Partido Republicano. A dissolução da URSS (1991), que ocorreu sob Bush — mas precedida pela pressão militar e diplomática de Reagan — é frequentemente creditada, ao menos em parte, à estratégia de esgotamento econômico soviético do governo Reagan.",
+      "importancia_en": "The Reagan era redefined the American economic debate for decades: deregulation, tax cuts and reduction of the state became the Republican Party's core platform. The dissolution of the USSR (1991), which occurred under Bush — but preceded by Reagan's military and diplomatic pressure — is often credited, at least in part, to the Reagan administration's Soviet economic exhaustion strategy.",
+      "importancia_es": "La era Reagan redefinió el debate económico americano durante décadas. La disolución de la URSS (1991) es frecuentemente acreditada, al menos en parte, a la estrategia de agotamiento económico soviético del gobierno Reagan.",
+      "tags": [
+        "Reagan",
+        "Reaganomics",
+        "política conservadora",
+        "URSS",
+        "Irã-Contras"
+      ],
+      "dataset": "data/dados-eua-contemporaneo.json"
+    },
+    {
+      "id": "euc-003",
+      "nome": "11 de Setembro e a Guerra ao Terror",
+      "nome_en": "September 11 and the War on Terror",
+      "nome_es": "11 de Septiembre y la Guerra al Terror",
+      "tipo": "evento",
+      "inicio": 2001,
+      "fim": 2021,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 21,
+      "type": "war",
+      "descricao": "Os ataques terroristas de 11 de setembro de 2001 — Al-Qaeda sob Bin Laden — mataram 2.977 pessoas em Nova York, Washington e Pensilvânia. Foi o maior ataque em solo americano desde Pearl Harbor. Desencadeou a 'Guerra ao Terror': invasão do Afeganistão (2001, durou 20 anos), invasão do Iraque (2003, baseada em inteligência falsa sobre armas de destruição em massa), a Lei Patriota (vigilância em massa) e a tortura institucionalizada em Abu Ghraib e Guantánamo. O custo total superou 8 trilhões de dólares.",
+      "descricao_en": "The September 11, 2001 terrorist attacks — Al-Qaeda under Bin Laden — killed 2,977 people in New York, Washington and Pennsylvania. It triggered the 'War on Terror': invasion of Afghanistan (2001, lasted 20 years), invasion of Iraq (2003, based on false intelligence about WMDs), the Patriot Act (mass surveillance) and institutionalized torture at Abu Ghraib and Guantanamo. Total cost exceeded $8 trillion.",
+      "descricao_es": "Los ataques del 11 de septiembre (2001) desencadenaron la 'Guerra al Terror': invasión de Afganistán (20 años), invasión de Iraq (inteligencia falsa), la Ley Patriota y la tortura en Abu Ghraib. El costo total superó los 8 billones de dólares.",
+      "importancia": "11 de setembro é o evento mais traumático da história americana contemporânea e o que mais transformou a política global pós-Guerra Fria. A 'Guerra ao Terror' criou o Estado de segurança permanente, a vigilância em massa e as guerras do Oriente Médio que ainda dominam a geopolítica do século XXI.",
+      "importancia_en": "September 11 is the most traumatic event in contemporary American history and the one that most transformed post-Cold War global politics. The 'War on Terror' created the permanent security state, mass surveillance and Middle Eastern wars that still dominate 21st century geopolitics.",
+      "importancia_es": "El 11 de septiembre es el evento más traumático de la historia americana contemporánea y el que más transformó la política global post-Guerra Fría.",
+      "tags": [
+        "11 de setembro",
+        "Al-Qaeda",
+        "Afeganistão",
+        "Iraque",
+        "Guerra ao Terror"
+      ],
+      "dataset": "data/dados-eua-contemporaneo.json"
+    },
+    {
+      "id": "euc-005",
+      "nome": "A Crise Financeira de 2008",
+      "nome_en": "The 2008 Financial Crisis",
+      "nome_es": "La Crisis Financiera de 2008",
+      "tipo": "evento",
+      "inicio": 2007,
+      "fim": 2012,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 21,
+      "type": "economic",
+      "descricao": "A crise financeira de 2008 — desencadeada pelo colapso do mercado de hipotecas subprime americano — foi a pior crise econômica desde a Grande Depressão. Bancos como Lehman Brothers faliram; o governo americano resgatou AIG, Fannie Mae, Freddie Mac e os grandes bancos com $700 bilhões. O desemprego chegou a 10%. O Occupy Wall Street (2011) foi a resposta popular. A crise expôs a interdependência financeira global — o colapso bancário americano derrubou economias europeias e asiáticas.",
+      "descricao_en": "The 2008 financial crisis — triggered by the collapse of the US subprime mortgage market — was the worst economic crisis since the Great Depression. Banks like Lehman Brothers failed; the US government bailed out AIG, Fannie Mae, Freddie Mac and major banks with $700 billion. Unemployment reached 10%. Occupy Wall Street (2011) was the popular response.",
+      "descricao_es": "La crisis financiera de 2008 fue la peor crisis económica desde la Gran Depresión. El gobierno americano rescató a los grandes bancos con 700 mil millones de dólares. El Occupy Wall Street (2011) fue la respuesta popular.",
+      "importancia": "A crise de 2008 provocou o maior debate americano sobre regulação financeira desde a Grande Depressão. O resgate dos grandes bancos com dinheiro público gerou reação popular tanto à direita (Tea Party, contrário ao gasto público) quanto à esquerda (Occupy Wall Street, contrário aos resgates bancários). O Dodd-Frank Act (2010) introduziu novas regulações financeiras como resposta — parcialmente revertidas em 2018.",
+      "importancia_en": "The 2008 crisis sparked the largest American debate on financial regulation since the Great Depression. The bailout of major banks with public money generated popular reaction on both the right (Tea Party, opposed to public spending) and the left (Occupy Wall Street, opposed to bank bailouts). The Dodd-Frank Act (2010) introduced new financial regulations in response — partially reversed in 2018.",
+      "importancia_es": "La crisis de 2008 generó el mayor debate americano sobre regulación financiera desde la Gran Depresión. El rescate bancario con dinero público generó reacción tanto a la derecha (Tea Party) como a la izquierda (Occupy Wall Street). El Dodd-Frank Act (2010) introdujo nuevas regulaciones.",
+      "tags": [
+        "Lehman",
+        "subprime",
+        "Occupy",
+        "bail-out",
+        "crise financeira"
+      ],
+      "dataset": "data/dados-eua-contemporaneo.json"
+    },
+    {
+      "id": "euc-004",
+      "nome": "Barack Obama: 44º Presidente dos Estados Unidos",
+      "nome_en": "Barack Obama: 44th President of the United States",
+      "nome_es": "Barack Obama: 44º Presidente de los Estados Unidos",
+      "tipo": "periodo",
+      "inicio": 2009,
+      "fim": 2017,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 21,
+      "type": "political",
+      "descricao": "Barack Obama (presidente 2009–2017) foi o primeiro afro-americano eleito presidente dos EUA. Aprovou a Reforma de Saúde (Affordable Care Act/Obamacare, 2010), estabilizou a economia após a crise financeira de 2008, retirou tropas do Iraque, ordenou a missão que resultou na morte de Osama Bin Laden (2011) e normalizou relações diplomáticas com Cuba. Recebeu o Nobel da Paz em 2009. Seu mandato foi marcado por crescente polarização política, com forte oposição do Partido Republicano às suas políticas domésticas, especialmente ao Obamacare.",
+      "descricao_en": "Barack Obama (president 2009–2017) was the first African-American elected president of the US. He passed the Affordable Care Act (Obamacare, 2010), stabilized the economy after the 2008 financial crisis, withdrew troops from Iraq, ordered the mission that killed Osama Bin Laden (2011) and normalized diplomatic relations with Cuba. He received the Nobel Peace Prize in 2009. His term was marked by growing political polarization, with strong Republican opposition to his domestic policies, especially the Affordable Care Act.",
+      "descricao_es": "Barack Obama fue el primer afroamericano elegido presidente de EE.UU. Aprobó el Obamacare, estabilizó la economía tras la crisis de 2008, retiró tropas de Iraq y ordenó la misión que resultó en la muerte de Bin Laden (2011). Recibió el Nobel de la Paz en 2009. Su mandato se caracterizó por creciente polarización política.",
+      "importancia": "A eleição de Obama em 2008 foi um marco histórico — o primeiro presidente afro-americano numa nação que havia mantido segregação racial institucional até 1965. Politicamente, o legado de Obama é disputado: defensores creditam a ele a recuperação econômica e a reforma de saúde; críticos apontam o crescimento da dívida pública, o aumento da regulação federal e a política externa que deixou espaços para a expansão do ISIS no Oriente Médio.",
+      "importancia_en": "Obama's election in 2008 was a historical milestone — the first African-American president in a nation that had maintained institutional racial segregation until 1965. Politically, Obama's legacy is contested: supporters credit him with economic recovery and health reform; critics point to public debt growth, increased federal regulation and foreign policy that left openings for ISIS expansion in the Middle East.",
+      "importancia_es": "La elección de Obama fue un hito histórico — el primer presidente afroamericano. Su legado es disputado: defensores lo acreditan con la recuperación económica; críticos señalan el crecimiento de la deuda pública y la política exterior que dejó espacio al ISIS.",
+      "tags": [
+        "Obama",
+        "Obamacare",
+        "Bin Laden",
+        "Nobel",
+        "polarização",
+        "raça"
+      ],
+      "dataset": "data/dados-eua-contemporaneo.json"
+    },
+    {
+      "id": "euc-007",
+      "nome": "Protestos BLM: Violência, Danos e Debate sobre Segurança Pública",
+      "nome_en": "BLM Protests: Violence, Damages and the Public Safety Debate",
+      "nome_es": "Protestas BLM: Violencia, Daños y Debate sobre Seguridad Pública",
+      "tipo": "evento",
+      "inicio": 2013,
+      "fim": 2024,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 21,
+      "type": "social",
+      "descricao": "A onda de protestos associados ao movimento Black Lives Matter atingiu seu pico em 2020, após a morte de George Floyd durante uma abordagem policial em Minneapolis (25 de maio de 2020). Os protestos se espalharam por centenas de cidades americanas e resultaram em danos extensos: estima-se que os distúrbios de 2020 causaram entre 1 e 2 bilhões de dólares em danos a propriedades — a maior cifra de danos por distúrbios civis da história americana. Incêndios criminosos, saques e ataques a delegacias ocorreram em Minneapolis, Portland, Seattle, Chicago e outras cidades. Pelo menos 19 pessoas morreram diretamente associadas aos distúrbios nas primeiras duas semanas. Portland viveu mais de 100 dias consecutivos de protestos noturnos com confrontos com a polícia federal.",
+      "descricao_en": "The wave of protests associated with the Black Lives Matter movement peaked in 2020 following the death of George Floyd during a police encounter in Minneapolis (May 25, 2020). Protests spread across hundreds of American cities and resulted in extensive damage: the 2020 riots are estimated to have caused between $1 and $2 billion in property damage — the largest civil unrest damages in American history. Arson, looting and attacks on police stations occurred in Minneapolis, Portland, Seattle, Chicago and other cities. At least 19 people died directly associated with the unrest in the first two weeks. Portland experienced over 100 consecutive nights of protests with clashes against federal police.",
+      "descricao_es": "La ola de protestas asociadas al movimiento Black Lives Matter alcanzó su pico en 2020 tras la muerte de George Floyd en Minneapolis (25 de mayo de 2020). Los disturbios causaron entre 1 y 2 mil millones de dólares en daños a la propiedad — la mayor cifra de daños por disturbios civiles en la historia americana. Incendios criminales, saqueos y ataques a comisarías ocurrieron en Minneapolis, Portland, Seattle y Chicago. Al menos 19 personas murieron directamente asociadas a los disturbios. Portland vivió más de 100 noches consecutivas de enfrentamientos.",
+      "importancia": "Os distúrbios de 2020 reacenderam o debate sobre segurança pública, financiamento policial e o papel do governo federal vs. estadual no controle de distúrbios civis. A proposta de \"defund the police\" (redução de orçamentos policiais) ganhou tração em algumas cidades, mas teve resultado eleitoral negativo para o Partido Democrata em 2020 e 2021. Várias cidades que cortaram orçamentos policiais — como Minneapolis e Portland — reverteram as políticas anos depois diante do aumento das taxas de criminalidade.",
+      "importancia_en": "The 2020 riots reignited the debate about public safety, police funding and the role of federal vs. state government in controlling civil unrest. The \"defund the police\" proposal gained traction in some cities but had negative electoral results for the Democratic Party in 2020 and 2021. Several cities that cut police budgets — including Minneapolis and Portland — reversed the policies years later in the face of rising crime rates.",
+      "importancia_es": "Los disturbios de 2020 reavivaron el debate sobre seguridad pública y financiamiento policial. La propuesta de \"defund the police\" tuvo resultados electorales negativos para el Partido Demócrata. Varias ciudades que recortaron presupuestos policiales los revirtieron años después ante el aumento de las tasas de criminalidad.",
+      "tags": [
+        "BLM",
+        "protestos",
+        "distúrbios",
+        "segurança pública",
+        "propriedade",
+        "violência"
+      ],
+      "dataset": "data/dados-eua-contemporaneo.json"
+    },
+    {
+      "id": "euc-006",
+      "nome": "Trump, Polarização e o Ataque ao Capitólio",
+      "nome_en": "Trump, Polarization and the Capitol Attack",
+      "nome_es": "Trump, Polarización y el Ataque al Capitolio",
+      "tipo": "periodo",
+      "inicio": 2016,
+      "fim": 2021,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 21,
+      "type": "political",
+      "descricao": "Donald Trump (presidente 2017–2021) foi eleito pelo Colégio Eleitoral derrotando Hillary Clinton, apesar de ter recebido menos votos no total nacional. Governou com uma agenda de \"America First\": renegociação de acordos comerciais (NAFTA → USMCA), cortes de impostos corporativos (Tax Cuts and Jobs Act, 2017), contenção da imigração ilegal, retirada do Acordo de Paris e do TPP. Foi duas vezes submetido a processo de impeachment pelo Congresso — nenhum resultou em condenação. O ataque ao Capitólio em 6 de janeiro de 2021, durante a certificação da vitória eleitoral de Joe Biden, resultou em mortes e levou à segunda acusação de Trump.",
+      "descricao_en": "Donald Trump (president 2017–2021) was elected by the Electoral College, defeating Hillary Clinton despite receiving fewer votes nationally. He governed with an \"America First\" agenda: renegotiation of trade agreements (NAFTA → USMCA), corporate tax cuts (Tax Cuts and Jobs Act, 2017), crackdown on illegal immigration, withdrawal from the Paris Agreement and TPP. He faced two impeachment processes in Congress — neither resulted in conviction. The attack on the Capitol on January 6, 2021, during certification of Joe Biden's electoral victory, resulted in deaths and led to Trump's second impeachment.",
+      "descricao_es": "Donald Trump (presidente 2017-2021) fue elegido por el Colegio Electoral con agenda \"America First\": renegociación de acuerdos comerciales (NAFTA → USMCA), recortes de impuestos corporativos, control de la inmigración ilegal, retirada del Acuerdo de París. Fue sometido dos veces a impeachment sin condena. El ataque al Capitolio el 6 de enero de 2021 resultó en muertes y llevó a su segunda acusación.",
+      "importancia": "A presidência de Trump representou uma ruptura significativa com o consenso bipartidário das últimas décadas em política comercial, imigração e multilateralismo. O ataque ao Capitólio de 6 de janeiro de 2021 é o evento mais grave envolvendo a transição de poder na história americana recente, resultando em mortes, centenas de prisões e dois processos de impeachment do presidente.",
+      "importancia_en": "Trump's presidency represented a significant break with the bipartisan consensus of recent decades in trade policy, immigration and multilateralism. The January 6, 2021 Capitol attack is the most serious event involving the transfer of power in recent American history, resulting in deaths, hundreds of arrests and two presidential impeachment processes.",
+      "importancia_es": "La presidencia de Trump representó una ruptura significativa con el consenso bipartidista en política comercial, inmigración y multilateralismo. El ataque al Capitolio del 6 de enero es el evento más grave en la transferencia de poder en la historia americana reciente.",
+      "tags": [
+        "Trump",
+        "Capitólio",
+        "polarização",
+        "impeachment",
+        "democracia"
+      ],
+      "dataset": "data/dados-eua-contemporaneo.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "euc-001",
+      "destino": "euc-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Crise dos 1970 e fraqueza de Carter preparam terreno para Reagan"
+    },
+    {
+      "origem": "euc-002",
+      "destino": "euc-005",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Desregulação de Reagan planta as sementes da crise financeira de 2008"
+    },
+    {
+      "origem": "euc-003",
+      "destino": "euc-004",
+      "tipo": "causalidade",
+      "intensidade": 0.6,
+      "descricao": "Desgaste da Guerra ao Terror facilita a eleição de Obama"
+    },
+    {
+      "origem": "euc-005",
+      "destino": "euc-006",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Crise de 2008 e resgate dos bancos alimentam a raiva populista que elege Trump"
+    },
+    {
+      "origem": "euc-004",
+      "destino": "euc-006",
+      "tipo": "causalidade",
+      "intensidade": 0.6,
+      "descricao": "Reação à presidência Obama contribui para a ascensão do populismo de Trump"
+    },
+    {
+      "origem": "euc-006",
+      "destino": "euc-007",
+      "tipo": "paralelo",
+      "intensidade": 0.7,
+      "descricao": "Trump e BLM são as duas faces da polarização racial americana contemporânea"
+    }
+  ]
+}

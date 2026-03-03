@@ -1,0 +1,66 @@
+{
+  "entidades": [
+    {
+      "id": "cbc-001",
+      "nome": "Caribes, Taínos e a Primeira Colonização",
+      "nome_en": "Caribs, Taínos and the First Colonization",
+      "nome_es": "Caribes, Taínos y la Primera Colonización",
+      "tipo": "periodo",
+      "descricao": "Taínos (Hispaniola, Cuba, Porto Rico): povo arauaque, ~3 milhões antes de Colombo. Colombo chegou em 1492. Encomiendas espanholas e epidemias exterminaram virtualmente os Taínos em 50 anos — um dos colapsos populacionais mais rápidos já documentados. Caribes (ilhas menores): guerreiros que resistiram por mais de um século. Sistema de plantation com trabalho africano escravizado substituiu o trabalho nativo colapsado. Açúcar: economia que tornou as Antilhas as colônias mais valiosas do mundo nos sécs. XVII-XVIII.",
+      "descricao_en": "Taínos (Hispaniola, Cuba, Puerto Rico): Arawak people, ~3 million before Columbus. Columbus arrived 1492. Spanish encomiendas and epidemics virtually exterminated the Taínos within 50 years — one of the fastest population collapses ever documented. Caribs (lesser islands): warriors who resisted for more than a century. Plantation system with enslaved African labor replaced the collapsed native labor. Sugar: economy that made the Antilles the world's most valuable colonies in the 17th–18th centuries.",
+      "descricao_es": "Taínos (La Española, Cuba, Puerto Rico): ~3 millones antes de Colón. Las encomiendas y epidemias los exterminaron en 50 años. Caribes: guerreros que resistieron un siglo. Sistema de plantación con trabajo africano esclavizado reemplazó el trabajo nativo. Azúcar: las Antillas fueron las colonias más valiosas del mundo en los siglos XVII–XVIII.",
+      "inicio": 1492,
+      "fim": 1700,
+      "tags": [
+        "tainos",
+        "caribe",
+        "colonizacao",
+        "açucar",
+        "encomiendas"
+      ],
+      "importancia": "Os Taínos foram extintos em ~50 anos após Colombo — o colapso populacional mais rápido documentado na história das Américas.",
+      "century_start": 15,
+      "century_end": 18,
+      "region": "NorthAmerica",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Sugar: economy that made the Antilles the world's most valuable colonies in the 17th–18th centuries.",
+      "importancia_es": "Azúcar: las Antillas fueron las colonias más valiosas del mundo en los siglos XVII–XVIII."
+    },
+    {
+      "id": "cbc-002",
+      "nome": "Revolução Haitiana e o Caribe Moderno",
+      "nome_en": "Haitian Revolution and the Modern Caribbean",
+      "nome_es": "Revolución Haitiana y el Caribe Moderno",
+      "tipo": "periodo",
+      "descricao": "Haiti / Saint-Domingue (1791–1804): única revolução de escravizados vitoriosa da história. Toussaint Louverture liderou rebelião contra colonos franceses, britânicos e espanhóis. Haiti (1804): primeiro Estado negro independente das Américas, primeira república ex-escravizada do mundo. França impôs indenização de 150 milhões de francos (dívida paga até 1947) pelo reconhecimento. Resto do Caribe: Jamaica independente em 1962, Cuba em 1898 (de Espanha), revolução cubana (1959). Barbados, Trinidad, Guiana: independências 1966–1970.",
+      "descricao_en": "Haiti / Saint-Domingue (1791–1804): only victorious slave revolution in history. Toussaint Louverture led rebellion against French, British and Spanish colonists. Haiti (1804): first Black independent state in the Americas, world's first ex-slave republic. France imposed indemnity of 150 million francs (debt paid until 1947) for recognition. Rest of Caribbean: Jamaica independent 1962, Cuba 1898 (from Spain), Cuban revolution (1959). Barbados, Trinidad, Guyana: independence 1966–1970.",
+      "descricao_es": "Haití / Saint-Domingue (1791–1804): única revolución de esclavizados victoriosa de la historia. Toussaint Louverture lideró la rebelión. Haití (1804): primer Estado negro independiente de las Américas. Francia impuso una indemnización de 150 millones de francos (deuda pagada hasta 1947). Revolución cubana (1959).",
+      "inicio": 1791,
+      "fim": 1962,
+      "tags": [
+        "haiti",
+        "toussaint",
+        "revolucao-escravizados",
+        "cuba"
+      ],
+      "importancia": "Revolução Haitiana (1804): única revolução de escravizados que fundou um Estado independente — aterrorizou as potências escravagistas e acelerou a abolição.",
+      "century_start": 18,
+      "century_end": 20,
+      "region": "NorthAmerica",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Rest of Caribbean: Jamaica independent 1962, Cuba 1898 (from Spain), Cuban revolution (1959). Barbados, Trinidad, Guyana: independence 1966–1970.",
+      "importancia_es": "Francia impuso una indemnización de 150 millones de francos (deuda pagada hasta 1947)."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "cbc-001",
+      "destino": "cbc-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "O sistema de plantation escravagista que substituiu os Taínos gerou as tensões que explodiram na Revolução Haitiana"
+    }
+  ]
+}

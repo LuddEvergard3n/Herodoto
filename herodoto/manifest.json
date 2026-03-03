@@ -1,0 +1,41 @@
+{
+  "name": "Heródoto — Visualização Histórica Interativa",
+  "short_name": "Heródoto",
+  "description": "Explore tempo, espaço e contextos na história universal. Instrumento acadêmico para estudantes e professores.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#2a1e0f",
+  "background_color": "#2a1e0f",
+  "lang": "pt-BR",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Modo Exploração Guiada",
+      "url": "./index.html?guided=true",
+      "description": "Iniciar em modo guiado"
+    }
+  ]
+}

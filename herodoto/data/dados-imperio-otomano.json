@@ -1,0 +1,230 @@
+{
+  "entidades": [
+    {
+      "id": "oto-001",
+      "nome": "Fundação do Sultanato Otomano",
+      "nome_en": "Foundation of the Ottoman Sultanate",
+      "nome_es": "Fundación del Sultanato Otomano",
+      "tipo": "periodo",
+      "descricao": "Osman I (1258-1326): fundador da dinastia a partir de um pequeno principado turco na Anatólia noroeste. Expansão às custas do Império Bizantino enfraquecido. Conquista da Bulgária, Sérvia, Macedônia. Murad I (1362-1389): primeiro sultão a se intitular assim. Batalha de Kosovo (1389): destruiu a resistência sérvia ao preço da vida do próprio sultão. Bayezid I: expandiu até a Europa Central antes de ser detido por Timur (1402).",
+      "descricao_en": "Osman I (1258-1326): founder of the dynasty from a small Turkish principality in northwestern Anatolia. Expansion at the expense of the weakened Byzantine Empire. Conquest of Bulgaria, Serbia, Macedonia. Murad I (1362-1389): first sultan to call himself thus. Battle of Kosovo (1389): destroyed Serbian resistance at the cost of the sultan's own life. Bayezid I: expanded into Central Europe before being stopped by Timur (1402).",
+      "descricao_es": "Osmán I (1258-1326): fundador de la dinastía desde un pequeño principado turco en el noroeste de Anatolia. Expansión a expensas del Imperio Bizantino debilitado. Conquista de Bulgaria, Serbia, Macedonia. Batalla de Kosovo (1389). Bayezid I: expandió hasta Europa Central antes de ser detenido por Timur (1402).",
+      "inicio": 1299,
+      "fim": 1402,
+      "tags": [
+        "otomano",
+        "osman",
+        "anatolia",
+        "expansao"
+      ],
+      "importancia": "O Sultanato Otomano nasceu como um dos muitos principados turcos da Anatólia após o colapso mongol — mas sobreviveu e cresceu por razões que historiadores ainda debatem: localização fronteiriça com Bizâncio (fonte de gazi — guerreiros pela fé e por saque), tolerância pragmática com populações não-muçulmanas e capacidade de absorver elites conquistadas. Os primeiros otomanos eram tão eclécticos que seus filhos se chamavam alternadamente com nomes turcos e gregos.",
+      "century_start": 13,
+      "century_end": 15,
+      "region": "MiddleEast",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Bayezid I: expanded into Central Europe before being stopped by Timur (1402).",
+      "importancia_es": "Bayezid I: expandió hasta Europa Central antes de ser detenido por Timur (1402)."
+    },
+    {
+      "id": "oto-004",
+      "nome": "Sistema do Devshirme e a Elite Jenízara",
+      "nome_en": "Devshirme System and the Janissary Elite",
+      "nome_es": "Sistema del Devşirme y la Élite Jenízara",
+      "tipo": "conceito",
+      "descricao": "Devshirme ('colheita de crianças'): jovens cristãos balcânicos eram recrutados, convertidos ao Islã, treinados. Os mais aptos tornavam-se jenízaros (infantaria de elite) ou burocratas. Sistema radical: escravos do sultão podiam tornar-se grão-vizires. Impediu a formação de aristocracia hereditária. Jenízaros: 10.000-20.000 soldados profissionais, tropa mais eficiente da Europa até meados do séc. XVII. Problema posterior: jenízaros tornaram-se poder político independente, causando instabilidade.",
+      "descricao_en": "Devshirme ('harvesting of children'): Balkan Christian youths were recruited, converted to Islam, trained. The most able became janissaries (elite infantry) or bureaucrats. Radical system: slaves of the sultan could become grand viziers. Prevented formation of hereditary aristocracy. Janissaries: 10,000-20,000 professional soldiers, most effective troops in Europe until mid-17th c. Later problem: janissaries became independent political power, causing instability.",
+      "descricao_es": "Devşirme ('cosecha de niños'): jóvenes cristianos balcánicos eran reclutados, convertidos al Islam, entrenados. Los más capaces se convertían en jenízaros o burócratas. Los esclavos del sultán podían llegar a ser grandes visires. Jenízaros: tropa más eficiente de Europa hasta mediados del siglo XVII.",
+      "inicio": 1380,
+      "fim": 1826,
+      "tags": [
+        "jenizaros",
+        "devshirme",
+        "exercito",
+        "administracao"
+      ],
+      "importancia": "O sistema devshirme (recrutamento de meninos cristãos para serviço imperial) foi a solução otomana para um problema universal dos impérios: como criar uma elite de serviço leal ao centro sem criar nobreza hereditária que capture o Estado. Os jenízaros — soldados de elite recrutados como meninos, educados no islã, proibidos de se casar ou ter filhos — foram a força mais disciplinada da Idade Média. O sistema entrou em colapso quando os jenízaros conseguiram se casar e criar uma hereditariedade de facto — exatamente o que o devshirme fora criado para evitar.",
+      "century_start": 14,
+      "century_end": 19,
+      "region": "MiddleEast",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Later problem: janissaries became independent political power, causing instability.",
+      "importancia_es": "Jenízaros: tropa más eficiente de Europa hasta mediados del siglo XVII."
+    },
+    {
+      "id": "oto-002",
+      "nome": "Queda de Constantinopla (1453)",
+      "nome_en": "Fall of Constantinople (1453)",
+      "nome_es": "Caída de Constantinopla (1453)",
+      "tipo": "evento",
+      "descricao": "Mehmed II ('o Conquistador', 21 anos) sitiou Constantinopla com 80.000 soldados e canhões gigantes forjados pelo húngaro Orbanus. Teodósio II construiu as muralhas em 413 d.C. — mantinham a cidade há 1000 anos. Queda em 29 de maio de 1453. Constantino XI morreu na batalha. Hagia Sophia convertida em mesquita. Fim definitivo do Império Romano Oriental. Eruditos gregos fugiram para a Itália, levando textos clássicos — impulsionou o Renascimento.",
+      "descricao_en": "Mehmed II ('the Conqueror', age 21) besieged Constantinople with 80,000 soldiers and giant cannons forged by the Hungarian Orbanus. Theodosius II built the walls in 413 AD — they had protected the city for 1000 years. Fall on 29 May 1453. Constantine XI died in battle. Hagia Sophia converted to mosque. Final end of the Eastern Roman Empire. Greek scholars fled to Italy, taking classical texts — boosted the Renaissance.",
+      "descricao_es": "Mehmed II (21 años) sitió Constantinopla con 80.000 soldados y cañones gigantes. Las murallas de Teodosio II habían protegido la ciudad 1000 años. Caída el 29 de mayo de 1453. Constantino XI murió en combate. Hagia Sofía convertida en mezquita. Fin definitivo del Imperio Romano Oriental. Eruditos griegos huyeron a Italia — impulsaron el Renacimiento.",
+      "inicio": 1453,
+      "fim": 1453,
+      "tags": [
+        "constantinopla",
+        "mehmed-ii",
+        "bizancio",
+        "queda"
+      ],
+      "importancia": "A conquista de Constantinopla em 1453 por Mehmed II (21 anos de idade) foi o evento que encerrou o mundo medieval e abriu a Era Moderna. Mehmed usou a artilharia de bronze mais avançada do mundo (incluindo o bombardeiro gigante de Urban, fundidor húngaro) para demolir muralhas que haviam resistido a 1.000 anos de assédios. Depois da conquista, Mehmed se autodenominou 'Kayser-i Rum' (César de Roma) e continuou usando o aparato burocrático grego — conquistador que se tornava herdeiro.",
+      "century_start": 15,
+      "century_end": 15,
+      "region": "MiddleEast",
+      "type": "war",
+      "period": "Medieval",
+      "importancia_en": "Greek scholars fled to Italy, taking classical texts — boosted the Renaissance.",
+      "importancia_es": "Eruditos griegos huyeron a Italia — impulsaron el Renacimiento."
+    },
+    {
+      "id": "oto-003",
+      "nome": "Solimão o Magnífico e o Apogeu Otomano",
+      "nome_en": "Suleiman the Magnificent and Ottoman Zenith",
+      "nome_es": "Solimán el Magnífico y el Apogeo Otomano",
+      "tipo": "periodo",
+      "descricao": "Solimão I (r. 1520-1566): o mais longo reinado e maior expansão otomana. Capturou Belgrado (1521), Hungria (1526 — Batalha de Mohács), cercou Viena (1529). Controlou o Mediterrâneo Oriental, Norte da África, Pérsia parcialmente. Código legal (Kanuni): 'o Legislador'. Aliança com a França contra os Habsburgo — primeira aliança cristã-muçulmana na história. Hagia Sophia restaurada por Sinan. Império com 15 milhões de pessoas.",
+      "descricao_en": "Suleiman I (r. 1520-1566): longest reign and greatest Ottoman expansion. Captured Belgrade (1521), Hungary (1526 — Battle of Mohács), besieged Vienna (1529). Controlled Eastern Mediterranean, North Africa, partially Persia. Legal code (Kanuni): 'the Lawgiver'. Alliance with France against the Habsburgs — first Christian-Muslim alliance in history. Hagia Sophia restored by Sinan. Empire with 15 million people.",
+      "descricao_es": "Solimán I (1520-1566): mayor expansión otomana. Capturó Belgrado (1521), Hungría (1526), sitió Viena (1529). Controló el Mediterráneo Oriental y el Norte de África. Código legal (Kanuni): 'el Legislador'. Alianza con Francia contra los Habsburgo. Imperio de 15 millones.",
+      "inicio": 1520,
+      "fim": 1566,
+      "tags": [
+        "solimao",
+        "apogeu-otomano",
+        "viena",
+        "mediterraneo"
+      ],
+      "importancia": "Solimão I 'o Magnífico' (1520-1566) foi o auge otomano — um Estado que controlava 3 continentes, com marinha que ameaçava o Mediterrâneo inteiro e exército que chegou às portas de Viena (1529). A aliança com François I da França contra os Habsburgos foi a primeira aliança entre potência cristã e islâmica da história moderna — escandalizando a Europa e demonstrando que o pragmatismo geopolítico supera a identidade religiosa quando os interesses convergem. O período de Solimão é a última vez que o Islã ameaçou genuinamente o equilíbrio de poder europeu.",
+      "century_start": 16,
+      "century_end": 16,
+      "region": "MiddleEast",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Alliance with France against the Habsburgs — first Christian-Muslim alliance in history. Hagia Sophia restored by Sinan.",
+      "importancia_es": "Código legal (Kanuni): 'el Legislador'. Alianza con Francia contra los Habsburgo."
+    },
+    {
+      "id": "oto-005",
+      "nome": "Declínio Otomano e as Reformas Tanzimat",
+      "nome_en": "Ottoman Decline and Tanzimat Reforms",
+      "nome_es": "Declive Otomano y las Reformas Tanzimat",
+      "tipo": "periodo",
+      "descricao": "Séc. XVIII-XIX: Europa industrializa enquanto o Império Otomano estagna. 'O Doente da Europa' (Nicolau I da Rússia, 1853). Tanzimat ('reorganização', 1839-1876): reformas de inspiração europeia — igualdade legal de muçulmanos e cristãos, constituição (1876). Guerras russas, perda dos Bálcãs. Dívida externa: Banque Ottomane administrava as finanças. Questão de Oriente: potências europeias disputavam herança otomana.",
+      "descricao_en": "18th-19th c.: Europe industrializes while the Ottoman Empire stagnates. 'The Sick Man of Europe' (Nicholas I of Russia, 1853). Tanzimat ('reorganization', 1839-1876): European-inspired reforms — legal equality of Muslims and Christians, constitution (1876). Russian wars, loss of the Balkans. External debt: Banque Ottomane managed finances. Eastern Question: European powers competed for Ottoman inheritance.",
+      "descricao_es": "Siglos XVIII-XIX: Europa se industrializa mientras el Imperio Otomano estagna. 'El Enfermo de Europa'. Tanzimat ('reorganización', 1839-1876): reformas de inspiración europea. Guerras rusas, pérdida de los Balcanes. Deuda externa. Cuestión de Oriente.",
+      "inicio": 1839,
+      "fim": 1914,
+      "tags": [
+        "declinio-otomano",
+        "tanzimat",
+        "reformas",
+        "doente-europa"
+      ],
+      "importancia": "As Reformas Tanzimat (1839-1876) foram a versão otomana do despotismo esclarecido: modernização institucional (igualdade legal entre muçulmanos e não-muçulmanos, Constituição de 1876) para salvar o Império sem democratizá-lo. Falharam pelo mesmo motivo que o despotismo esclarecido sempre falha: modernização econômica e educacional cria classes com expectativas políticas que o sistema autoritário não pode satisfazer. As Tanzimat criaram a geração que fundaria a Turquia moderna — mas também o nacionalismo que destruiu o Império.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "MiddleEast",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Eastern Question: European powers competed for Ottoman inheritance.",
+      "importancia_es": "Tanzimat ('reorganización', 1839-1876): reformas de inspiración europea. Guerras rusas, pérdida de los Balcanes."
+    },
+    {
+      "id": "oto-006",
+      "nome": "Genocídio Armênio (1915-1923)",
+      "nome_en": "Armenian Genocide (1915-1923)",
+      "nome_es": "Genocidio Armenio (1915-1923)",
+      "tipo": "evento",
+      "descricao": "Comitê de União e Progresso (Jovens Turcos): deportação sistemática e massacres da população armênia cristã da Anatólia durante a Primeira Guerra Mundial. 600.000 a 1,5 milhão de mortos (estimativas variam). Marcha da morte para o deserto sírio. Raphael Lemkin cunhou o termo 'genocídio' (1944) parcialmente inspirado neste evento. Turquia nega o genocídio oficialmente. Reconhecido por ~30 países e pela maioria dos historiadores.",
+      "descricao_en": "Committee of Union and Progress (Young Turks): systematic deportation and massacres of the Armenian Christian population of Anatolia during World War I. 600,000 to 1.5 million dead (estimates vary). Death march to the Syrian desert. Raphael Lemkin coined the term 'genocide' (1944) partially inspired by this event. Turkey officially denies the genocide. Recognized by ~30 countries and most historians.",
+      "descricao_es": "Comité de Unión y Progreso (Jóvenes Turcos): deportación sistemática y masacres de la población armenia cristiana de Anatolia durante la Primera Guerra Mundial. 600.000 a 1,5 millones de muertos. Raphael Lemkin acuñó el término 'genocidio' (1944) parcialmente inspirado en este evento.",
+      "inicio": 1915,
+      "fim": 1923,
+      "tags": [
+        "genocidio-armenio",
+        "turquia",
+        "armenia",
+        "jovens-turcos"
+      ],
+      "importancia": "O genocídio armênio (1915-1923) foi o primeiro genocídio do século XX e o modelo que Hitler invocou explicitamente ('Quem hoje se lembra dos armênios?'). Entre 600.000 e 1,5 milhão de armênios foram mortos em marchas da morte pelo deserto sírio. O negacionismo turco — único Estado do mundo a negar sistematicamente um genocídio amplamente documentado — é tanto memória política quanto estratégia de identidade nacional: admitir o genocídio implicaria reformular a narrativa fundadora do Estado turco moderno.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "MiddleEast",
+      "type": "war",
+      "period": "Contemporary",
+      "importancia_en": "Turkey officially denies the genocide. Recognized by ~30 countries and most historians.",
+      "importancia_es": "Raphael Lemkin acuñó el término 'genocidio' (1944) parcialmente inspirado en este evento."
+    },
+    {
+      "id": "oto-007",
+      "nome": "Queda do Império Otomano e Criação da Turquia",
+      "nome_en": "Fall of the Ottoman Empire and Creation of Turkey",
+      "nome_es": "Caída del Imperio Otomano y Creación de Turquía",
+      "tipo": "evento",
+      "descricao": "Derrota na Primeira Guerra Mundial ao lado das potências centrais. Tratado de Sèvres (1920): desmembramento do império. Mustafá Kemal Atatürk liderou a Guerra de Independência turca (1919-1923). Tratado de Lausana (1923): criou a República da Turquia. Abolição do Sultanato (1922) e Califado (1924) — fim de 600 anos de dinastia otomana. Reforma de Atatürk: alfabeto latino, laicismo, ocidentalização.",
+      "descricao_en": "Defeat in World War I alongside the Central Powers. Treaty of Sèvres (1920): dismemberment of the empire. Mustafa Kemal Atatürk led the Turkish War of Independence (1919-1923). Treaty of Lausanne (1923): created the Republic of Turkey. Abolition of the Sultanate (1922) and Caliphate (1924) — end of 600 years of Ottoman dynasty. Atatürk's reforms: Latin alphabet, secularism, Westernization.",
+      "descricao_es": "Derrota en la Primera Guerra Mundial. Tratado de Sèvres (1920): desmembramiento. Atatürk lideró la Guerra de Independencia turca. Tratado de Lausana (1923): República de Turquía. Abolición del Sultanato (1922) y Califato (1924). Reformas de Atatürk: laicismo, occidentalización.",
+      "inicio": 1919,
+      "fim": 1924,
+      "tags": [
+        "queda-otomano",
+        "ataturk",
+        "turquia",
+        "republica"
+      ],
+      "importancia": "O colapso do Império Otomano e a criação da Turquia moderna (1918-1923) foi a maior reconfiguração geopolítica do Oriente Médio desde as conquistas islâmicas do século VII. Atatürk criou o primeiro Estado secular islâmico da história: aboliu o califado, substituiu o árabe pelo turco, proibiu o véu, adotou o alfabeto latino, deu voto às mulheres — tudo em menos de 10 anos. O 'modelo turco' de modernização laica foi estudado por décadas como alternativa islâmica ao ocidentalismo. A reversão parcial erdoğanista sugere que a laicização forçada deixou raízes menos profundas do que os reformistas kemalistas acreditavam.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "MiddleEast",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "Atatürk's reforms: Latin alphabet, secularism, Westernization.",
+      "importancia_es": "Abolición del Sultanato (1922) y Califato (1924). Reformas de Atatürk: laicismo, occidentalización."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "oto-001",
+      "destino": "oto-002",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "A expansão otomana desde o séc. XIII culminou na queda de Constantinopla"
+    },
+    {
+      "origem": "oto-002",
+      "destino": "oto-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A queda de Constantinopla deu base para a expansão de Solimão"
+    },
+    {
+      "origem": "oto-004",
+      "destino": "oto-003",
+      "tipo": "influencia",
+      "intensidade": 0.9,
+      "descricao": "O sistema devshirme forneceu o exército profissional que permitiu as conquistas de Solimão"
+    },
+    {
+      "origem": "oto-003",
+      "destino": "oto-005",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O colapso após Solimão deu início ao lento declínio otomano"
+    },
+    {
+      "origem": "oto-005",
+      "destino": "oto-006",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "A crise do declínio otomano criou as condições para o nacionalismo turco e o genocídio armênio"
+    },
+    {
+      "origem": "oto-006",
+      "destino": "oto-007",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "O genocídio armênio e a derrota na WWI precipitaram o colapso final do Império"
+    }
+  ]
+}

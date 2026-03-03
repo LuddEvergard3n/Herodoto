@@ -1,0 +1,466 @@
+{
+  "meta": {
+    "fonte": "Compilado — Grécia Antiga",
+    "lingua": "pt",
+    "tema": "Grécia Antiga"
+  },
+  "entidades": [
+    {
+      "id": "grecia-009",
+      "nome": "Espartâ — Sociedade Militar",
+      "nome_en": "Sparta — Military Society",
+      "nome_es": "Esparta — Sociedad Militar",
+      "tipo": "conceito",
+      "descricao": "Cidade-estado espartana (900-146 a.C.) com organização social militarista única. Sistema agogê: educação militar compulsória dos 7 aos 30 anos. Dois reis, Gerúsia (conselho de anciãos), Éforos (magistrados). Hilotas: escravos estatais que trabalhavam a terra (~7:1 proporção em relação a espartanos). Espartanas tinham mais liberdades que gregas comuns. Exército invicto por séculos; derrota em Leuctra (371 a.C.) para Tebas acabou com hegemonia. Influenciou pensamento político conservador até hoje.",
+      "descricao_en": "Spartan city-state (900-146 BC) with unique militarist social organization. Agoge system, two kings, helots (state slaves ~7:1 ratio). Defeated at Leuctra (371 BC).",
+      "descricao_es": "Ciudad-estado espartana (900-146 a.C.) con organización militarista única. Sistema agogé, dos reyes, hilotas (esclavos estatales). Derrota en Leuctra (371 a.C.).",
+      "inicio": -900,
+      "fim": -146,
+      "tags": [
+        "esparta",
+        "militar",
+        "agoge"
+      ],
+      "importancia": "Esparta é o exemplo histórico mais estudado de uma sociedade que maximizou uma única dimensão — capacidade militar — ao custo de quase tudo mais. Sem literatura, arte, filosofia ou comércio significativos, Esparta sobreviveu por 500 anos como a maior potência militar da Grécia. Mas quando o mundo mudou (guerras com Macedônia), o modelo espartano — que não produzia nem inovação tecnológica nem diplomacia sofisticada — entrou em colapso. Esparta é um caso de estudo sobre os custos de especialização extrema institucional.",
+      "century_start": -10,
+      "century_end": -2,
+      "region": "Europe",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "Sparta was the only Greek polis to build its entire civilization around military supremacy — its model of state-controlled education (agoge) influenced theories of civic virtue for 2,500 years.",
+      "importancia_es": "Esparta fue la única polis griega que construyó toda su civilización en torno a la supremacía militar — su modelo de educación controlada por el estado (agoge) influyó en las teorías de la virtud cívica durante 2.500 años."
+    },
+    {
+      "id": "grecia-001",
+      "nome": "Grécia Arcaica",
+      "nome_en": "Archaic Greece",
+      "nome_es": "Grecia Arcaica",
+      "tipo": "periodo",
+      "descricao": "Período de formação (800-480 a.C.) após Idade das Trevas grega. Surgimento das póleis (cidades-estado independentes): Atenas, Esparta, Corinto, Tebas. Colonização no Mediterrâneo e Mar Negro. Alfabeto grego (~800 a.C.). Primeiros Jogos Olímpicos (776 a.C.). Reformas de Sólon em Atenas. Filosofia pré-socrática (Tales, Pitágoras, Heráclito). Falange hoplita como nova forma de guerra.",
+      "descricao_en": "Formative period (800-480 BC). Rise of poleis, colonization, alphabet, Olympics, pre-Socratic philosophy, hoplite phalanx.",
+      "descricao_es": "Período de formación (800-480 a.C.). Surgimiento de póleis, colonización, alfabeto, Olimpiadas, filosofía presocrática, falange hoplita.",
+      "inicio": -800,
+      "fim": -480,
+      "tags": [
+        "grecia",
+        "arcaica",
+        "poleis"
+      ],
+      "importancia": "A Grécia Arcaica criou duas instituições que moldaram o Ocidente: a pólis (cidade-estado autônoma) e a filosofia racional. A pólis não era apenas uma cidade — era uma forma de organização política onde cidadãos participavam diretamente nas decisões. A filosofia pré-socrática inaugurou o projeto de explicar o mundo por causas naturais, sem recorrer aos deuses — a fundação do pensamento científico. Que essas duas inovações emergissem simultaneamente no mesmo espaço cultural sugere conexão entre liberdade política e liberdade intelectual.",
+      "century_start": -8,
+      "century_end": -5,
+      "region": "Europe",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "Greek colonization (750–550 BC) spread Greek culture from Spain to the Black Sea and created the economic and cultural network that made Classical Greece possible.",
+      "importancia_es": "La colonización griega (750–550 a.C.) extendió la cultura griega desde España hasta el Mar Negro y creó la red económica y cultural que hizo posible la Grecia Clásica."
+    },
+    {
+      "id": "grecia-014",
+      "nome": "Religião Grega — Panteão Olímpico",
+      "nome_en": "Greek Religion — Olympian Pantheon",
+      "nome_es": "Religión Griega — Panteón Olímpico",
+      "tipo": "conceito",
+      "descricao": "Politeísmo grego: 12 deuses olímpicos (Zeus, Hera, Atena, Apolo, Ártemis, Poseidon, Afrodite, Hermes, Ares, Hefesto, Deméter, Dioniso) com características humanas (antropomorfismo). Mitos explicavam fenômenos naturais e fundavam moralidade. Oráculos (Delfos, Dodona) orientavam decisões políticas. Mistérios de Elêusis: ritual secreto de renovação espiritual. Hesiodo (Teogonia) e Homero (Ilíada, Odisseia) codificaram mitos. Influenciou profundamente a religião romana e via sincretismo.",
+      "descricao_en": "Greek polytheism: 12 Olympian gods with human traits (anthropomorphism). Oracles guided political decisions. Eleusinian Mysteries. Hesiod and Homer codified myths. Influenced Roman religion.",
+      "descricao_es": "Politeísmo griego: 12 dioses olímpicos con rasgos humanos. Oráculos guiaban decisiones. Misterios de Eleusis. Hesíodo y Homero codificaron mitos. Influyó religión romana.",
+      "inicio": -800,
+      "fim": -31,
+      "tags": [
+        "religiao",
+        "mitologia",
+        "olimpo"
+      ],
+      "importancia": "A religião grega é politeísta mas profundamente diferente das religiões de revelação: os deuses gregos não exigiam obediência moral, tinham falhas humanas e podiam ser enganados. Isso criou uma teologia sem dogma rígido — o que pode explicar parcialmente por que a filosofia racional emergiu na Grécia e não no Egito ou na Mesopotâmia, onde os deuses eram mais absolutos. Hesiodo e Homero criaram a 'Bíblia' grega não por revelação divina mas como poetas — reconhecidos como tais.",
+      "century_start": -8,
+      "century_end": 0,
+      "region": "Europe",
+      "type": "religious",
+      "period": "Ancient",
+      "importancia_en": "The Greek pantheon — Zeus, Athena, Apollo, Hermes — humanized the divine by giving gods human flaws and passions, creating the narrative tradition that runs through Roman mythology, Renaissance literature and modern storytelling.",
+      "importancia_es": "El panteón griego — Zeus, Atenea, Apolo, Hermes — humanizó lo divino dando a los dioses defectos y pasiones humanas, creando la tradición narrativa que recorre la mitología romana, la literatura renacentista y la narrativa moderna."
+    },
+    {
+      "id": "grecia-011",
+      "nome": "Olimpíadas Antigas",
+      "nome_en": "Ancient Olympic Games",
+      "nome_es": "Juegos Olímpicos Antiguos",
+      "tipo": "evento",
+      "descricao": "Festivais pan-helênicos realizados a cada 4 anos em Olímpia desde 776 a.C. Dedicados a Zeus. Provas: corrida, salto, lançamento de disco e dardo, luta, corrida de carros. Atletas competiam nus; mulheres proibidas de assistir. Ekecheiria (trégua olímpica) suspendia guerras. Realizados por 1.169 anos até Teodósio I abolir em 393 d.C. como festival pagão. Renascidos em 1896 por Pierre de Coubertin em Atenas. Símbolo de unidade cultural helênica.",
+      "descricao_en": "Pan-Hellenic festival every 4 years at Olympia since 776 BC. Dedicated to Zeus. Held for 1,169 years until abolished in 393 AD. Revived in 1896.",
+      "descricao_es": "Festival panhelénico cada 4 años en Olimpia desde 776 a.C. Dedicado a Zeus. Celebrado por 1.169 años hasta abolición en 393 d.C. Renacido en 1896.",
+      "inicio": -776,
+      "fim": 393,
+      "tags": [
+        "olimpiadas",
+        "esporte",
+        "cultura"
+      ],
+      "importancia": "Os Jogos Olímpicos antigos (776 a.C.-393 d.C.) foram instituição de paz: durante os jogos, guerras eram suspensas. Mais do que competição atlética, eram afirmação de identidade pan-helênica: só gregos podiam competir, e a identidade grega era definida por língua e cultura, não por sangue. A reativação moderna dos Jogos (1896, Pierre de Coubertin) usou o mito olímpico para projetar sobre o presente um ideal de paz através da competição — um exemplo de como o passado é sempre reinventado para servir ao presente.",
+      "century_start": -8,
+      "century_end": 4,
+      "region": "Europe",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "The Ancient Olympic Games (776 BC–393 AD) lasted 1,169 years — the longest continuously held international athletic competition in history. Their modern revival (1896) marked the beginning of global sports culture.",
+      "importancia_es": "Los Juegos Olímpicos Antiguos (776 a.C.–393 d.C.) duraron 1.169 años — la competición atlética internacional celebrada de forma continua más larga de la historia. Su renacimiento moderno (1896) marcó el inicio de la cultura deportiva global."
+    },
+    {
+      "id": "grecia-013",
+      "nome": "Arte e Arquitetura Grega",
+      "nome_en": "Greek Art and Architecture",
+      "nome_es": "Arte y Arquitectura Griega",
+      "tipo": "conceito",
+      "descricao": "Expressão artística que evoluiu do estilo geométrico (900 a.C.) ao arcaico (kouros, kore) ao clássico (idealismo humano) ao helenístico (realismo, expressão). Arquitetura: ordens dórica (Partenon), jônica (Erecteion), coríntia. Escultura: Fídias (Atena Párthenos, Zeus de Olímpia), Policleto (Doríforo — cânone das proporções). Cerâmica pintada documentou mitos e cotidiano. Princípio de harmonia, simetria e proporção como ideal estético que influenciou Renascimento e Neoclassicismo.",
+      "descricao_en": "Greek art from geometric to Hellenistic. Doric/Ionic/Corinthian orders, Phidias' sculptures, Polyclitus' Doryphoros (canon of proportions). Influenced Renaissance and Neoclassicism.",
+      "descricao_es": "Arte griega del geométrico al helenístico. Órdenes dórico/jónico/corintio, esculturas de Fidias, Doríforo de Policleto. Influyó Renacimiento y Neoclasicismo.",
+      "inicio": -700,
+      "fim": -31,
+      "tags": [
+        "arte",
+        "arquitetura",
+        "escultura"
+      ],
+      "importancia": "A arquitetura grega criou a gramática visual do Ocidente: colunas dóricas, jônicas e coríntias definem bancos, tribunais, parlamentos e museus até hoje. O Partenon (447-438 a.C.) é tecnicamente perfeito em formas matematicamente imperfeitas: suas colunas são levemente côncavas e inclinadas para dentro, criando a ilusão de perfeita retidão ao olho humano. Esse refinamento óptico representa a compreensão grega de que a perfeição visível requer compensar imperfeições da percepção humana — filosofia aplicada à pedra.",
+      "century_start": -7,
+      "century_end": 0,
+      "region": "Europe",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "Greek art (5th century BC) established aesthetic canons of proportion, naturalism and idealization that defined Western visual culture for 2,500 years — from Roman copies to Renaissance revival to neoclassical public architecture.",
+      "importancia_es": "El arte griego (siglo V a.C.) estableció cánones estéticos de proporción, naturalismo e idealización que definieron la cultura visual occidental durante 2.500 años — desde las copias romanas hasta el Renacimiento."
+    },
+    {
+      "id": "grecia-008",
+      "nome": "Filosofia Pré-Socrática",
+      "nome_en": "Pre-Socratic Philosophy",
+      "nome_es": "Filosofía Presocrática",
+      "tipo": "conceito",
+      "descricao": "Primeiras investigações racionais sobre a natureza (physis) sem recurso ao mito (séc. VII-V a.C.). Tales de Mileto: tudo é água, previu eclipse. Anaximandro: ápeiron como princípio. Heráclito: tudo flui (panta rhei), logos como razão universal. Parmênides: ser imutável, negação do movimento. Pitágoras: matemática como estrutura do cosmos. Demócrito e Leucipo: atomismo (matéria composta de átomos indivisíveis). Fundou metodologia científica baseada em observação e razão.",
+      "descricao_en": "First rational investigations of nature without myth (7th-5th BC). Thales, Anaximander, Heraclitus, Parmenides, Pythagoras, Democritus. Founded scientific methodology.",
+      "descricao_es": "Primeras investigaciones racionales de la naturaleza sin mito (s. VII-V a.C.). Tales, Anaximandro, Heráclito, Parménides, Pitágoras, Demócrito. Fundó metodología científica.",
+      "inicio": -600,
+      "fim": -450,
+      "tags": [
+        "filosofia",
+        "racional",
+        "cosmos"
+      ],
+      "importancia": "Os Pré-Socráticos fizeram a mais radical das perguntas: de que é feita a realidade? Tales disse água, Anaximandro disse 'o ilimitado', Heráclito disse fogo e mudança, Parmênides disse imobilidade pura. A importância não é nas respostas — mas que pela primeira vez na história, seres humanos propuseram responder a questão sobre a natureza do real usando razão e observação, não mito. Esse gesto inaugural criou a filosofia, a ciência e toda a tradição intelectual ocidental.",
+      "century_start": -7,
+      "century_end": -5,
+      "region": "Europe",
+      "type": "intellectual",
+      "period": "Ancient",
+      "importancia_en": "The Pre-Socratics (600–450 BC) were the first to explain nature through rational principles rather than divine will — initiating the scientific tradition 2,400 years before modern physics confirmed their atomic theories.",
+      "importancia_es": "Los Presocráticos (600–450 a.C.) fueron los primeros en explicar la naturaleza mediante principios racionales — iniciando la tradición científica 2.400 años antes de que la física moderna confirmara sus teorías atómicas."
+    },
+    {
+      "id": "grecia-003",
+      "nome": "Democracia Ateniense",
+      "nome_en": "Athenian Democracy",
+      "nome_es": "Democracia Ateniense",
+      "tipo": "conceito",
+      "descricao": "Sistema político desenvolvido em Atenas (508-322 a.C.). Clístenes (508 a.C.) reorganizou tribos e criou Eclésia (assembleia de cidadãos). Efialtes e Péricles expandiram democracia direta: ~40.000 cidadãos votavam em assembleias. Cargos sorteados. Excluía mulheres, escravos (~1/3 população) e estrangeiros. Heliaia (tribunal popular) julgava processos. Primeira democracia direta da história, influência fundacional no pensamento político ocidental.",
+      "descricao_en": "Political system developed in Athens (508-322 BC). Cleisthenes created citizen assembly (Ecclesia). Direct democracy with ~40,000 voting citizens. Excluded women, slaves, foreigners.",
+      "descricao_es": "Sistema político desarrollado en Atenas (508-322 a.C.). Clístenes creó Eclesia. Democracia directa con ~40.000 ciudadanos votantes. Excluía mujeres, esclavos y extranjeros.",
+      "inicio": -508,
+      "fim": -322,
+      "tags": [
+        "democracia",
+        "atenas",
+        "politica"
+      ],
+      "importancia": "A democracia ateniense foi simultaneamente a mais avançada de sua época e profundamente limitada: excluía mulheres, escravos (30-40% da população), metecos (estrangeiros residentes) e não-cidadãos. Mas o princípio de que cidadãos devem participar diretamente nas decisões políticas — não apenas eleger representantes — inaugurou uma tradição que influenciou toda a teoria política subsequente. A derrota de Atenas na Guerra do Peloponeso não extinguiu a ideia democrática: ela foi reativada 2.000 anos depois, de forma mais inclusiva.",
+      "century_start": -5,
+      "century_end": -4,
+      "region": "Europe",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "Athenian democracy (507 BC) is the foundational experiment of popular self-governance — its contradictions (direct democracy excluding women, slaves and foreigners) define the ongoing tension in democratic theory.",
+      "importancia_es": "La democracia ateniense (507 a.C.) es el experimento fundacional de la autogobierno popular — sus contradicciones definen la tensión permanente en la teoría democrática."
+    },
+    {
+      "id": "grecia-010",
+      "nome": "Teatro Grego",
+      "nome_en": "Greek Theater",
+      "nome_es": "Teatro Griego",
+      "tipo": "conceito",
+      "descricao": "Forma de arte surgida em Atenas (séc. V a.C.) nas festividades dionisíacas. Tragédia: Ésquilo (Prometeu Acorrentado, Oresteia), Sófocles (Édipo Rei, Antígona), Eurípides (Medeia, Bacantes). Comédia: Aristófanes (Nuvens, As Rãs) criticava figuras políticas. Estrutura: coro, protagonista, deuteragonista. Teatro de Dioniso em Atenas comportava 17.000 espectadores. Inventou narrativa dramática, catarse, personagens complexos — fundamento de toda dramaturgia ocidental.",
+      "descricao_en": "Art form from Athens (5th BC) at Dionysian festivals. Tragedy: Aeschylus, Sophocles, Euripides. Comedy: Aristophanes. Invented dramatic narrative, catharsis, complex characters.",
+      "descricao_es": "Forma de arte surgida en Atenas (s. V a.C.) en festividades dionisíacas. Tragedia: Esquilo, Sófocles, Eurípides. Comedia: Aristófanes. Inventó narrativa dramática y catarsis.",
+      "inicio": -500,
+      "fim": -300,
+      "tags": [
+        "teatro",
+        "tragedia",
+        "arte"
+      ],
+      "importancia": "O teatro grego não era entretenimento — era educação cívica e religiosa obrigada. As tragédias de Ésquilo, Sófocles e Eurípides exploram a condição humana com profundidade psicológica que Freud reconheceu ao nomear o 'complexo de Édipo'. As comédias de Aristófanes eram sátira política explícita — Sócrates foi ridicularizado nas 'Nuvens' antes de ser condenado à morte. O teatro ateniense criou as formas narrativas (protagonista, conflito dramático, catarse) que ainda estruturam o cinema e a literatura.",
+      "century_start": -5,
+      "century_end": -4,
+      "region": "Europe",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "Greek theater (5th century BC) invented the narrative forms — tragedy, comedy, dramatic irony — that still define film, television and literature. Aeschylus, Sophocles and Euripides are performed on modern stages 2,500 years later.",
+      "importancia_es": "El teatro griego (siglo V a.C.) inventó las formas narrativas — tragedia, comedia, ironía dramática — que aún definen el cine, la televisión y la literatura. Esquilo, Sófocles y Eurípides se representan en escenarios modernos 2.500 años después."
+    },
+    {
+      "id": "grecia-002",
+      "nome": "Guerras Médicas",
+      "nome_en": "Greco-Persian Wars",
+      "nome_es": "Guerras Médicas",
+      "tipo": "evento",
+      "descricao": "Conflitos entre as póleis gregas e o Império Persa Aquemênida (499-479 a.C.). Revolta da Jônia (499 a.C.) desencadeou retaliação persa. Batalha de Maratona (490 a.C.): Atenas derrotou Dario I. Segunda invasão de Xerxes: batalha das Termópilas (300 espartanos), Salamina (vitória naval ateniense) e Plateia (479 a.C., vitória terrestre decisiva). Criou identidade grega pan-helênica e solidificou prestígio de Atenas.",
+      "descricao_en": "Conflicts between Greek city-states and the Achaemenid Persian Empire (499-479 BC). Marathon, Thermopylae, Salamis, Plataea. Created pan-Hellenic identity.",
+      "descricao_es": "Conflictos entre póleis griegas e Imperio Persa Aqueménida (499-479 a.C.). Maratón, Termópilas, Salamina, Platea. Creó identidad panhelénica.",
+      "inicio": -499,
+      "fim": -479,
+      "tags": [
+        "guerra",
+        "persia",
+        "maratona"
+      ],
+      "importancia": "As Guerras Médicas (490-479 a.C.) foram a vitória do improvável: cidades-estado gregas fragmentadas e menores derrotaram o maior império da época. Maratona, Termópilas, Salamina e Plateia tornaram-se mitos fundadores da identidade ocidental — a democracia resistindo ao despotismo oriental. A realidade era mais complexa: os gregos também eram escravistas, e Temístocles foi exilado logo após salvar a Grécia. Mas o mito foi poderoso o suficiente para moldar a auto-imagem europeia por 2.500 anos.",
+      "century_start": -5,
+      "century_end": -5,
+      "region": "Europe",
+      "type": "war",
+      "period": "Ancient",
+      "importancia_en": "The Persian Wars (490–479 BC) defined Greek identity through resistance — the battles of Marathon, Thermopylae and Salamis became founding myths of Western civilization.",
+      "importancia_es": "Las Guerras Médicas (490–479 a.C.) definieron la identidad griega a través de la resistencia — Maratón, Termópilas y Salamina se convirtieron en mitos fundadores de la civilización occidental."
+    },
+    {
+      "id": "grecia-004",
+      "nome": "Grécia Clássica",
+      "nome_en": "Classical Greece",
+      "nome_es": "Grecia Clásica",
+      "tipo": "periodo",
+      "descricao": "Apogeu cultural grego (480-323 a.C.). Século de Péricles: construção do Partenon, florescimento democrático. Tragédia (Ésquilo, Sófocles, Eurípides), comédia (Aristófanes), história (Heródoto, Tucídides). Filosofia: Sócrates (método dialético), Platão (A República, teoria das Formas), Aristóteles (fundou Liceu, sistematizou lógica, biologia, ética, política). Guerra do Peloponeso (431-404 a.C.) entre Atenas e Esparta destruiu hegemonia ateniense.",
+      "descricao_en": "Greek cultural apex (480-323 BC). Pericles' century, Parthenon, democracy. Tragedy, comedy, history. Socrates, Plato, Aristotle. Peloponnesian War (431-404 BC).",
+      "descricao_es": "Apogeo cultural griego (480-323 a.C.). Siglo de Pericles, Partenón, democracia. Tragedia, comedia, historia. Sócrates, Platón, Aristóteles. Guerra del Peloponeso.",
+      "inicio": -480,
+      "fim": -323,
+      "tags": [
+        "classica",
+        "filosofia",
+        "arte"
+      ],
+      "importancia": "A Grécia Clássica (480-323 a.C.) é o período de maior densidade intelectual per capita da história humana: Sócrates, Platão, Aristóteles, Tucídides, Heródoto, Ésquilo, Sófocles, Eurípides, Aristófanes, Fídias, Hipócrates — todos contemporâneos, todos em cidades a poucos dias de viagem uns dos outros. Nenhuma sociedade de tamanho comparável produziu concentração similar de pensamento fundacional em 150 anos. A pergunta sobre por que isso aconteceu naquele lugar e naquele momento ainda não tem resposta definitiva.",
+      "century_start": -5,
+      "century_end": -4,
+      "region": "Europe",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "The 5th century BC — Pericles, Sophocles, Phidias, Socrates, Herodotus — was the most concentrated cultural flowering of a single city-state in recorded history.",
+      "importancia_es": "El siglo V a.C. — Pericles, Sófocles, Fidias, Sócrates, Heródoto — fue el florecimiento cultural más concentrado de una ciudad-estado en la historia registrada."
+    },
+    {
+      "id": "grecia-012",
+      "nome": "Sócrates e o Método Dialético",
+      "nome_en": "Socrates and the Dialectic Method",
+      "nome_es": "Sócrates y el Método Dialéctico",
+      "tipo": "conceito",
+      "descricao": "Filósofo ateniense (469-399 a.C.) que não escreveu obras — conhecido pelos Diálogos de Platão. Método socrático (maiêutica): perguntas que levam o interlocutor a descobrir a verdade por si mesmo. 'Sei que nada sei.' Preocupou-se com ética e virtude (areté) em vez de física. Condenado por 'corromper a juventude' e impiedade; recusou exílio, bebeu cicuta. Seu julgamento e morte tornaram-se símbolos de liberdade intelectual e conflito entre indivíduo e Estado.",
+      "descricao_en": "Athenian philosopher (469-399 BC). Socratic method (maieutics): questions leading to self-discovery. 'I know that I know nothing.' Condemned for impiety, drank hemlock.",
+      "descricao_es": "Filósofo ateniense (469-399 a.C.). Método socrático (mayéutica). 'Solo sé que no sé nada.' Condenado por impiedad, bebió cicuta.",
+      "inicio": -469,
+      "fim": -399,
+      "tags": [
+        "socrates",
+        "filosofia",
+        "etica"
+      ],
+      "importancia": "O 'método socrático' — fazer perguntas até revelar contradições no conhecimento do interlocutor — foi ao mesmo tempo revolucionário e perigoso. Sócrates afirmou que só sabia que não sabia nada; mas essa 'ignorância' provocou Atenas a matá-lo por 'corromper a juventude' e 'introduzir novos deuses'. O julgamento de Sócrates é o caso mais famoso de democracia punindo o livre-pensamento — e tornou-se argumento recorrente sobre os limites da democracia direta e os perigos do conformismo.",
+      "century_start": -5,
+      "century_end": -4,
+      "region": "Europe",
+      "type": "intellectual",
+      "period": "Ancient",
+      "importancia_en": "Socrates' method of questioning (elenchus) — the practice of exposing contradictions through dialogue — is the foundation of critical thinking, the scientific method and modern legal cross-examination.",
+      "importancia_es": "El método de cuestionamiento de Sócrates (elenco) — la práctica de exponer contradicciones mediante el diálogo — es la base del pensamiento crítico, el método científico y el contrainterrogatorio legal moderno."
+    },
+    {
+      "id": "grecia-005",
+      "nome": "Guerra do Peloponeso",
+      "nome_en": "Peloponnesian War",
+      "nome_es": "Guerra del Peloponeso",
+      "tipo": "evento",
+      "descricao": "Conflito hegemônico entre Atenas (Liga de Delos) e Esparta (Liga do Peloponeso) de 431 a 404 a.C. Péricles adotou estratégia defensiva; epidemia de 430 a.C. matou ~25% dos atenienses incluindo Péricles. Desastre da expedição à Sicília (415-413 a.C.) destruiu frota ateniense. Esparta aceitou apoio financeiro persa. Capitulação de Atenas (404 a.C.), demolição das Muralhas Longas, oligarquia dos Trinta Tiranos imposta. Tucídides documentou o conflito como primeira análise historiográfica de causas políticas.",
+      "descricao_en": "Hegemonic conflict between Athens and Sparta (431-404 BC). Athenian plague, Sicilian Expedition disaster, Spartan victory. Thucydides documented it.",
+      "descricao_es": "Conflicto hegemónico entre Atenas y Esparta (431-404 a.C.). Plaga ateniense, desastre en Sicilia, victoria espartana. Tucídides lo documentó.",
+      "inicio": -431,
+      "fim": -404,
+      "tags": [
+        "guerra",
+        "esparta",
+        "atenas"
+      ],
+      "importancia": "A Guerra do Peloponeso (431-404 a.C.) destruiu a Grécia clássica como projeto político — e Tucídides a documentou com uma sofisticação analítica que levaria 2.000 anos para ser igualada. Sua tese central — que guerras nascem do medo, da honra e do interesse — ainda orienta a análise de relações internacionais. O 'dilema de Tucídides' (potência estabelecida vs. potência ascendente) é citado hoje para analisar a relação EUA-China. A derrota de Atenas mostrou que democracias podem tomar decisões suicidas por pressão política interna.",
+      "century_start": -5,
+      "century_end": -5,
+      "region": "Europe",
+      "type": "war",
+      "period": "Ancient",
+      "importancia_en": "The Peloponnesian War (431–404 BC) proved that great civilizations destroy themselves from within — Thucydides' analysis remains the foundational text of political realism.",
+      "importancia_es": "La Guerra del Peloponeso (431–404 a.C.) demostró que las grandes civilizaciones se destruyen desde adentro — el análisis de Tucídides sigue siendo el texto fundacional del realismo político."
+    },
+    {
+      "id": "grecia-006",
+      "nome": "Alexandre Magno",
+      "nome_en": "Alexander the Great",
+      "nome_es": "Alejandro Magno",
+      "tipo": "evento",
+      "descricao": "Rei da Macedônia (336-323 a.C.), aluno de Aristóteles. Conquistou o maior império contíguo da Antiguidade: Pérsia, Egito, Bactriana, Indo. Batalhas decisivas: Grânico (334 a.C.), Isso (333 a.C.), Gaugâmela (331 a.C.). Fundou ~20 cidades chamadas Alexandria. Casou-se com persas, adotou costumes orientais, provocando resistência macedônia. Morreu em Babilônia aos 32 anos (323 a.C.). Sua morte iniciou o período helenístico e a dispersão da cultura grega pelo Oriente.",
+      "descricao_en": "King of Macedon (336-323 BC), student of Aristotle. Conquered greatest contiguous empire of Antiquity. Died at 32 in Babylon. Initiated Hellenistic period.",
+      "descricao_es": "Rey de Macedonia (336-323 a.C.), alumno de Aristóteles. Conquistó mayor imperio contiguo de la Antigüedad. Murió a los 32 en Babilonia. Inició período helenístico.",
+      "inicio": -336,
+      "fim": -323,
+      "tags": [
+        "alexandre",
+        "conquista",
+        "macedonia"
+      ],
+      "importancia": "Alexandre Magno é o personagem histórico que mais se aproximou de unificar o mundo conhecido em um único império. Em 13 anos (336-323 a.C.), conquistou do Egito à Índia e fundou 70 cidades. Sua morte aos 32 anos sem deixar herdeiro claro destruiu o projeto — mas a fusão cultural greco-persa-egípcia que criou, o Helenismo, transformou o mundo mediterrâneo e médio-oriental pelos séculos seguintes. O impacto do Helenismo sobre o judaísmo e sobre o nascente Cristianismo foi profundo e ainda debatido.",
+      "century_start": -4,
+      "century_end": -4,
+      "region": "Europe",
+      "type": "war",
+      "period": "Ancient",
+      "importancia_en": "Alexander the Great (356–323 BC) created the largest empire of the ancient world in 13 years and spread Greek culture from Egypt to India — the foundation of Hellenism.",
+      "importancia_es": "Alejandro Magno (356–323 a.C.) creó el mayor imperio del mundo antiguo en 13 años y extendió la cultura griega desde Egipto hasta la India — la base del helenismo."
+    },
+    {
+      "id": "grecia-007",
+      "nome": "Período Helenístico",
+      "nome_en": "Hellenistic Period",
+      "nome_es": "Período Helenístico",
+      "tipo": "periodo",
+      "descricao": "Era de fusão cultural greco-oriental (323-31 a.C.). Impérios dos diádocos: Ptolemaico (Egito), Selêucida (Síria/Mesopotâmia), Antigônida (Macedônia). Alexandria: Biblioteca (~500.000 rolos), Museu, Farol. Ciência: Euclides (geometria), Arquimedes (alavanca, pi), Eratóstenes (circunferência da Terra), Hiparco (astronomia). Filosofia: estoicismo (Zenão), epicurismo (Epicuro), ceticismo. Grego koiné tornou-se língua franca. Roma absorveu gradualmente os reinos helenísticos.",
+      "descricao_en": "Greco-Oriental fusion era (323-31 BC). Ptolemaic, Seleucid, Antigonid empires. Alexandria Library. Euclid, Archimedes, Eratosthenes. Stoicism, Epicureanism. Koine Greek.",
+      "descricao_es": "Era de fusión greco-oriental (323-31 a.C.). Imperios diádocos, Biblioteca de Alejandría. Euclides, Arquímedes, Eratóstenes. Estoicismo, epicureísmo. Griego koiné.",
+      "inicio": -323,
+      "fim": -31,
+      "tags": [
+        "helenismo",
+        "alexandria",
+        "ciencia"
+      ],
+      "importancia": "O período Helenístico (323-31 a.C.) foi o mais cosmopolita da Antiguidade: Alexandria reunia a maior biblioteca do mundo, o maior museu (no sentido original de lugar das Musas — instituição de pesquisa), e produziu Euclides, Arquimedes, Eratóstenes, Hiparco. A ciência helenística foi interrompida pela conquista romana e pelo incêndio da Biblioteca — e seus avanços (heliocentrismo de Aristarco, cálculo da circunferência da Terra por Eratóstenes) teriam de ser redescobertos 1.500 anos depois.",
+      "century_start": -4,
+      "century_end": 0,
+      "region": "Europe",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "The Hellenistic period (323–31 BC) fused Greek, Persian, Egyptian and Indian cultural elements into the first true cosmopolitan civilization — Alexandria's Library embodied this intellectual synthesis.",
+      "importancia_es": "El período helenístico (323–31 a.C.) fusionó elementos culturales griegos, persas, egipcios e indios en la primera civilización cosmopolita real — la Biblioteca de Alejandría encarnó esta síntesis intelectual."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "grecia-001",
+      "destino": "grecia-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Expansão grega provocou conflito com Pérsia"
+    },
+    {
+      "origem": "grecia-002",
+      "destino": "grecia-003",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Vitória nas Guerras Médicas solidificou prestígio de Atenas e sua democracia"
+    },
+    {
+      "origem": "grecia-003",
+      "destino": "grecia-004",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Democracia ateniense foi base do florescimento clássico"
+    },
+    {
+      "origem": "grecia-004",
+      "destino": "grecia-005",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "Rivalidade Atenas-Esparta desencadeou Guerra do Peloponeso"
+    },
+    {
+      "origem": "grecia-005",
+      "destino": "grecia-006",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Enfraquecimento das póleis permitiu ascensão macedônia"
+    },
+    {
+      "origem": "grecia-006",
+      "destino": "grecia-007",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "Conquistas de Alexandre iniciaram período helenístico"
+    },
+    {
+      "origem": "grecia-001",
+      "destino": "grecia-008",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Filosofia pré-socrática emergiu na Grécia Arcaica"
+    },
+    {
+      "origem": "grecia-008",
+      "destino": "grecia-004",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Filosofia pré-socrática foi base para Sócrates, Platão e Aristóteles"
+    },
+    {
+      "origem": "grecia-012",
+      "destino": "grecia-004",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Sócrates foi central na Grécia Clássica"
+    },
+    {
+      "origem": "grecia-009",
+      "destino": "grecia-005",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Esparta liderou aliança contra Atenas na Guerra do Peloponeso"
+    },
+    {
+      "origem": "grecia-010",
+      "destino": "grecia-004",
+      "tipo": "dependencia",
+      "intensidade": 0.7,
+      "descricao": "Teatro floresceu no período clássico"
+    },
+    {
+      "origem": "grecia-011",
+      "destino": "grecia-001",
+      "tipo": "dependencia",
+      "intensidade": 0.8,
+      "descricao": "Olimpíadas unificaram cultura grega arcaica"
+    },
+    {
+      "origem": "grecia-013",
+      "destino": "grecia-004",
+      "tipo": "dependencia",
+      "intensidade": 0.8,
+      "descricao": "Arte clássica expressou valores do período"
+    },
+    {
+      "origem": "grecia-014",
+      "destino": "grecia-001",
+      "tipo": "dependencia",
+      "intensidade": 0.75,
+      "descricao": "Religião estruturou a sociedade grega arcaica"
+    },
+    {
+      "origem": "grecia-014",
+      "destino": "grecia-010",
+      "tipo": "dependencia",
+      "intensidade": 0.8,
+      "descricao": "Teatro nasceu de rituais religiosos dionisíacos"
+    }
+  ]
+}

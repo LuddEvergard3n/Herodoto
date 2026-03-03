@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Japão Antigo: Jomon, Yayoi, Kofun e Período Heian",
+    "periodo": "-14000 a 1185"
+  },
+  "entidades": [
+    {
+      "id": "ja-001",
+      "nome": "Período Jomon: Caçadores-Coletores do Arquipélago",
+      "nome_en": "Jomon Period: Hunter-Gatherers of the Archipelago",
+      "nome_es": "Período Jomon: Cazadores-Recolectores del Archipiélago",
+      "tipo": "periodo",
+      "inicio": -14000,
+      "fim": -300,
+      "region": "Asia",
+      "period": "Prehistoric",
+      "century_start": -140,
+      "type": "prehistoric",
+      "descricao": "O Jomon (c. 14000–300 a.C.) é uma das mais longas culturas cerâmicas do mundo — seu nome vem dos padrões de corda (jomon) impressos na cerâmica. Os Jomon eram caçadores-coletores sedentários que habitavam o arquipélago japonês, vivendo em aldeias semi-subterrâneas e consumindo frutos do mar, animais selvagens e plantas. Desenvolveram cerâmica ornamental sofisticada milênios antes de adotar a agricultura.",
+      "descricao_en": "The Jomon (c. 14000–300 BC) is one of the world's longest ceramic cultures. The Jomon were sedentary hunter-gatherers inhabiting the Japanese archipelago, living in semi-subterranean villages. They developed sophisticated ornamental ceramics millennia before adopting agriculture.",
+      "descricao_es": "El Jomon es una de las culturas cerámicas más largas del mundo. Los Jomon eran cazadores-recolectores sedentarios que desarrollaron cerámica sofisticada milenios antes de adoptar la agricultura.",
+      "importancia": "A cerâmica Jomon é a mais antiga do mundo — anterior à cerâmica chinesa e do Oriente Médio. Os Jomon também são geneticamente distintos dos posteriores Yayoi — os dois grupos formam a base dual da genética japonesa moderna.",
+      "importancia_en": "Jomon ceramics are the oldest in the world. The Jomon are also genetically distinct from the later Yayoi — the two groups form the dual basis of modern Japanese genetics.",
+      "importancia_es": "La cerámica Jomon es la más antigua del mundo. Los Jomon son genéticamente distintos de los Yayoi posteriores.",
+      "tags": [
+        "Jomon",
+        "cerâmica",
+        "caçadores",
+        "Paleolítico",
+        "Japão"
+      ],
+      "dataset": "data/dados-japao-antigo.json"
+    },
+    {
+      "id": "ja-002",
+      "nome": "Período Yayoi: Arroz, Metais e os Antepassados dos Japoneses",
+      "nome_en": "Yayoi Period: Rice, Metals and the Japanese Ancestors",
+      "nome_es": "Período Yayoi: Arroz, Metales y los Antepasados Japoneses",
+      "tipo": "periodo",
+      "inicio": -300,
+      "fim": 250,
+      "region": "Asia",
+      "period": "Ancient",
+      "century_start": -3,
+      "type": "cultural",
+      "descricao": "O Yayoi (c. 300 a.C.–250 d.C.) foi introduzido por migrantes da Ásia continental (China/Coreia) que trouxeram cultivo de arroz em arrozais irrigados, metalurgia do bronze e do ferro, e tecelagem. Os Yayoi se misturaram gradualmente com os Jomon. A cultura Yayoi produziu os primeiros estados japoneses — os registros chineses descrevem o reino de Yamatai, governado pela Rainha Himiko, como o mais poderoso do arquipélago.",
+      "descricao_en": "The Yayoi (c. 300 BC–250 AD) was introduced by migrants from continental Asia (China/Korea) who brought wet rice cultivation, bronze and iron metallurgy, and weaving. The Yayoi gradually mixed with the Jomon. Chinese records describe the kingdom of Yamatai, ruled by Queen Himiko, as the most powerful in the archipelago.",
+      "descricao_es": "El Yayoi fue introducido por migrantes del Asia continental que trajeron cultivo de arroz, metalurgia y tejidos. Los registros chinos describen el reino de Yamatai, gobernado por la Reina Himiko.",
+      "importancia": "A transição Jomon-Yayoi é o equivalente japonês da Revolução Neolítica europeia. DNA antigo confirma que os japoneses modernos são uma mistura de ambas as populações — com proporções variando por região.",
+      "importancia_en": "The Jomon-Yayoi transition is the Japanese equivalent of the European Neolithic Revolution. Ancient DNA confirms modern Japanese are a mixture of both populations.",
+      "importancia_es": "La transición Jomon-Yayoi es el equivalente japonés de la Revolución Neolítica.",
+      "tags": [
+        "Yayoi",
+        "arroz",
+        "metalurgia",
+        "Himiko",
+        "Yamatai"
+      ],
+      "dataset": "data/dados-japao-antigo.json"
+    },
+    {
+      "id": "ja-003",
+      "nome": "Período Kofun e a Unificação Imperial",
+      "nome_en": "Kofun Period and Imperial Unification",
+      "nome_es": "Período Kofun y la Unificación Imperial",
+      "tipo": "periodo",
+      "inicio": 250,
+      "fim": 710,
+      "region": "Asia",
+      "period": "Ancient",
+      "century_start": 3,
+      "type": "political",
+      "descricao": "O Kofun (250–710 d.C.) é marcado pelos enormes túmulos funerários (kofun) em forma de buraco de fechadura construídos para a aristocracia emergente. A família Yamato unificou gradualmente o Japão, estabelecendo a linhagem imperial que sobrevive até hoje — a mais antiga monarquia contínua do mundo. O budismo chegou da Coreia em 552 d.C., e o príncipe Shotoku Taishi (574–622) promoveu uma síntese de budismo, confucionismo e shinto.",
+      "descricao_en": "The Kofun (250–710 AD) is marked by enormous keyhole-shaped burial mounds built for the emerging aristocracy. The Yamato clan gradually unified Japan, establishing the imperial lineage that survives to this day — the world's oldest continuous monarchy. Buddhism arrived from Korea in 552 AD, and Prince Shotoku Taishi (574–622) promoted a synthesis of Buddhism, Confucianism and Shinto.",
+      "descricao_es": "El Kofun está marcado por enormes túmulos funerarios en forma de cerradura. El clan Yamato unificó Japón, estableciendo el linaje imperial más antiguo del mundo. El budismo llegó de Corea en 552 d.C.",
+      "importancia": "A família imperial Yamato é a dinastia reinante mais antiga do mundo em continuidade ininterrupta. O sincretismo Shinto-Budista estabelecido no Kofun ainda define a identidade espiritual japonesa.",
+      "importancia_en": "The Yamato imperial family is the world's oldest continuously reigning dynasty. The Shinto-Buddhist syncretism established in the Kofun period still defines Japanese spiritual identity.",
+      "importancia_es": "La familia imperial Yamato es la dinastía reinante más antigua del mundo. El sincretismo Shinto-Budista aún define la identidad espiritual japonesa.",
+      "tags": [
+        "Kofun",
+        "Yamato",
+        "monarquia",
+        "budismo",
+        "Shotoku"
+      ],
+      "dataset": "data/dados-japao-antigo.json"
+    },
+    {
+      "id": "ja-004",
+      "nome": "Período Nara: O Primeiro Estado Centralizado",
+      "nome_en": "Nara Period: The First Centralized State",
+      "nome_es": "Período Nara: El Primer Estado Centralizado",
+      "tipo": "periodo",
+      "inicio": 710,
+      "fim": 794,
+      "region": "Asia",
+      "period": "Medieval",
+      "century_start": 8,
+      "type": "political",
+      "descricao": "O Período Nara (710–794 d.C.) viu a primeira capital permanente japonesa e a criação do primeiro Estado centralizado ao estilo chinês (código Taiho, 701). O budismo tornou-se religião de Estado — Nara foi erguida com o Grande Buda (Daibutsu) no templo Todai-ji como seu coração. Os primeiros textos japoneses foram compilados: o Kojiki (712) e o Nihon Shoki (720), registrando mitologia e história da nação. A corte adotou escrita chinesa (kanji) e sistema burocrático confucianista.",
+      "descricao_en": "The Nara Period (710–794 AD) saw Japan's first permanent capital and the creation of the first Chinese-style centralized state (Taiho Code, 701). Buddhism became the state religion — Nara was built with the Great Buddha (Daibutsu) at Todai-ji temple as its heart. Japan's first texts were compiled: the Kojiki (712) and Nihon Shoki (720), recording national mythology and history.",
+      "descricao_es": "El Período Nara vio la primera capital permanente de Japón y la creación del primer Estado centralizado. Se compilaron el Kojiki y el Nihon Shoki. El Gran Buda (Daibutsu) fue construido en Nara.",
+      "importancia": "O Kojiki é o texto fundador da mitologia japonesa — origem do Shinto, da família imperial e da identidade nacional. O Daibutsu de Nara é um dos maiores objetos de bronze do mundo, símbolo da riqueza e devoção budista do Japão do século VIII.",
+      "importancia_en": "The Kojiki is the founding text of Japanese mythology — the origin of Shinto, the imperial family and national identity. Nara's Daibutsu is one of the world's largest bronze objects.",
+      "importancia_es": "El Kojiki es el texto fundacional de la mitología japonesa. El Daibutsu de Nara es uno de los objetos de bronce más grandes del mundo.",
+      "tags": [
+        "Nara",
+        "Kojiki",
+        "Daibutsu",
+        "budismo",
+        "Estado centralizado"
+      ],
+      "dataset": "data/dados-japao-antigo.json"
+    },
+    {
+      "id": "ja-005",
+      "nome": "Período Heian: A Corte, a Literatura e o Genji",
+      "nome_en": "Heian Period: The Court, Literature and Genji",
+      "nome_es": "Período Heian: La Corte, la Literatura y el Genji",
+      "tipo": "periodo",
+      "inicio": 794,
+      "fim": 1185,
+      "region": "Asia",
+      "period": "Medieval",
+      "century_start": 9,
+      "type": "cultural",
+      "descricao": "O Período Heian (794–1185 d.C.) foi o ápice da cultura aristocrática japonesa. A capital Heian-kyo (atual Kyoto) foi o centro de uma corte refinada que produziu a literatura mais sofisticada da Ásia medieval. Murasaki Shikibu escreveu o Genji Monogatari (c. 1000 d.C.) — considerado o primeiro romance da história mundial. Sei Shonagon produziu o Pillow Book. A escrita silábica (hiragana e katakana) foi desenvolvida por mulheres da corte. O clã Fujiwara controlou a política através de casamentos imperiais.",
+      "descricao_en": "The Heian Period (794–1185 AD) was the apex of Japanese aristocratic culture. The capital Heian-kyo (modern Kyoto) was the center of a refined court that produced the most sophisticated literature of medieval Asia. Murasaki Shikibu wrote The Tale of Genji (c. 1000 AD) — considered the world's first novel. The syllabic script (hiragana and katakana) was developed by court ladies.",
+      "descricao_es": "El Período Heian fue el apogeo de la cultura aristocrática japonesa. Murasaki Shikibu escribió el Genji Monogatari — considerado la primera novela del mundo. La escritura silábica (hiragana y katakana) fue desarrollada por damas de la corte.",
+      "importancia": "O Genji Monogatari é o primeiro romance da história — escrito por uma mulher japonesa, em japonês, 400 anos antes de Chaucer. A escrita kana desenvolvida no Heian ainda é usada hoje, tornando o japonês um dos raros idiomas com sistemas de escrita criados por mulheres.",
+      "importancia_en": "The Tale of Genji is the world's first novel — written by a Japanese woman, in Japanese, 400 years before Chaucer. The kana script developed in Heian is still used today.",
+      "importancia_es": "El Genji Monogatari es la primera novela del mundo — escrita por una mujer japonesa 400 años antes de Chaucer.",
+      "tags": [
+        "Heian",
+        "Genji",
+        "Murasaki",
+        "kana",
+        "aristocracia",
+        "Fujiwara"
+      ],
+      "dataset": "data/dados-japao-antigo.json"
+    },
+    {
+      "id": "ja-006",
+      "nome": "Surgimento dos Samurais e Fim do Poder Imperial",
+      "nome_en": "Rise of the Samurai and End of Imperial Power",
+      "nome_es": "Surgimiento de los Samurais y Fin del Poder Imperial",
+      "tipo": "periodo",
+      "inicio": 900,
+      "fim": 1185,
+      "region": "Asia",
+      "period": "Medieval",
+      "century_start": 10,
+      "type": "war",
+      "descricao": "A decadência do poder central Heian permitiu que clãs guerreiros (bushi/samurai) tomassem o controle das províncias. Os clãs Taira e Minamoto disputaram o poder na Guerra Genpei (1180–1185). A vitória de Minamoto no Yoritomo levou à criação do primeiro shogunato — o Bakufu de Kamakura (1185) — inaugurando 700 anos de governo militar no Japão. O imperador foi relegado a papel ceremonial, e o shogun tornou-se o poder real.",
+      "descricao_en": "The decline of Heian central power allowed warrior clans (bushi/samurai) to take control of the provinces. The Taira and Minamoto clans disputed power in the Genpei War (1180–1185). Minamoto no Yoritomo's victory led to the creation of the first shogunate — the Kamakura Bakufu (1185) — inaugurating 700 years of military government in Japan.",
+      "descricao_es": "La decadencia del poder central Heian permitió que los clanes guerreros (samurais) tomaran el control. La Guerra Genpei (1180-1185) llevó a la creación del primer shogunato de Kamakura, inaugurando 700 años de gobierno militar.",
+      "importancia": "O shogunato criado em 1185 durou, com interrupções, até 1868 — 683 anos de governo militar. É um dos sistemas de poder mais duradouros da história. O Japão tornou-se única civilização em que o poder político foi sistematicamente separado do poder simbólico-religioso por 7 séculos.",
+      "importancia_en": "The shogunate created in 1185 lasted, with interruptions, until 1868 — 683 years of military rule. Japan became the only civilization where political and symbolic-religious power were systematically separated for 7 centuries.",
+      "importancia_es": "El shogunato creado en 1185 duró 683 años. Japón fue la única civilización donde el poder político y simbólico-religioso estuvieron sistemáticamente separados durante 7 siglos.",
+      "tags": [
+        "samurai",
+        "shogunato",
+        "Kamakura",
+        "Genpei",
+        "bushi"
+      ],
+      "dataset": "data/dados-japao-antigo.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ja-001",
+      "destino": "ja-002",
+      "tipo": "evolucao",
+      "intensidade": 0.9,
+      "descricao": "Yayoi substitui gradualmente a cultura Jomon"
+    },
+    {
+      "origem": "ja-002",
+      "destino": "ja-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Consolidação Yayoi produz os primeiros estados e o Kofun"
+    },
+    {
+      "origem": "ja-003",
+      "destino": "ja-004",
+      "tipo": "evolucao",
+      "intensidade": 0.9,
+      "descricao": "Unificação Yamato cria o Estado centralizado de Nara"
+    },
+    {
+      "origem": "ja-004",
+      "destino": "ja-005",
+      "tipo": "evolucao",
+      "intensidade": 0.8,
+      "descricao": "Capital de Nara é substituída pela mais refinada Heian-kyo"
+    },
+    {
+      "origem": "ja-005",
+      "destino": "ja-006",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Declínio da corte Heian abre espaço para ascensão dos samurais"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "entidades": [
+    {
+      "id": "exis-001",
+      "nome": "Hegel: Dialética e Espírito Absoluto",
+      "nome_en": "Hegel: Dialectics and Absolute Spirit",
+      "nome_es": "Hegel: Dialéctica y Espíritu Absoluto",
+      "tipo": "periodo",
+      "descricao": "Georg Wilhelm Friedrich Hegel (1770-1831): Fenomenologia do Espírito (1807). Dialética: tese → antítese → síntese — toda realidade é processo de contradição superada. História como manifestação progressiva do Espírito (Geist). O Estado como 'marcha de Deus no mundo'. A coruja de Minerva alça voo ao entardecer — a filosofia compreende o presente apenas ao final. Marx inverteu Hegel: a matéria, não o espírito, move a história.",
+      "descricao_en": "Georg Wilhelm Friedrich Hegel (1770-1831): Phenomenology of Spirit (1807). Dialectics: thesis → antithesis → synthesis — all reality is a process of resolved contradiction. History as progressive manifestation of Spirit (Geist). The State as 'march of God in the world'. Minerva's owl takes flight at dusk — philosophy comprehends the present only at its end. Marx inverted Hegel: matter, not spirit, moves history.",
+      "descricao_es": "Hegel (1770-1831): Fenomenología del Espíritu (1807). Dialéctica: tesis → antítesis → síntesis. Historia como manifestación progresiva del Espíritu. El Estado como 'marcha de Dios en el mundo'. El búho de Minerva levanta el vuelo al anochecer. Marx invirtió a Hegel: la materia, no el espíritu, mueve la historia.",
+      "inicio": 1807,
+      "fim": 1831,
+      "tags": [
+        "hegel",
+        "dialetica",
+        "espirito",
+        "idealismo-alemao"
+      ],
+      "importancia": "Hegel é o filósofo mais influente e mais difícil da modernidade: sua dialética — tese, antítese, síntese — tornou-se a gramática do pensamento histórico moderno. Marx inverteu Hegel ('colocou-o de cabeça para baixo') para criar o materialismo histórico. Kierkegaard reagiu contra Hegel para criar o existencialismo. Nietzsche dialogou com Hegel para criar o niilismo e o super-homem. Toda a filosofia continental do século XX — Sartre, Heidegger, Derrida — é incompreensível sem Hegel. Seu Espírito Absoluto que se realiza na história é o fundamento teórico de toda narrativa de 'progresso histórico'.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Europe",
+      "type": "intellectual",
+      "period": "Modern",
+      "importancia_en": "Minerva's owl takes flight at dusk — philosophy comprehends the present only at its end. Marx inverted Hegel: matter, not spirit, moves history.",
+      "importancia_es": "Marx invirtió a Hegel: la materia, no el espíritu, mueve la historia."
+    },
+    {
+      "id": "exis-002",
+      "nome": "Kierkegaard: Angústia e Salto de Fé",
+      "nome_en": "Kierkegaard: Anxiety and Leap of Faith",
+      "nome_es": "Kierkegaard: Angustia y Salto de Fe",
+      "tipo": "periodo",
+      "descricao": "Søren Kierkegaard (1813-1855): primeiro existencialista. Contra Hegel: a existência individual não se reduz ao sistema. Três estágios da existência: estético (prazer), ético (dever), religioso (paradoxo-fé). O Conceito de Angústia (1844): a liberdade como 'vertigem da liberdade' — angústia diante das possibilidades infinitas. A doença mortal: o desespero (não ser si mesmo). Redescoberto no séc. XX como pai do existencialismo. Influenciou Heidegger, Sartre, Jaspers.",
+      "descricao_en": "Søren Kierkegaard (1813-1855): first existentialist. Against Hegel: individual existence cannot be reduced to the system. Three stages of existence: aesthetic (pleasure), ethical (duty), religious (paradox-faith). The Concept of Anxiety (1844): freedom as 'dizziness of freedom' — anxiety before infinite possibilities. The Sickness unto Death: despair (not being oneself). Rediscovered in the 20th century as the father of existentialism. Influenced Heidegger, Sartre, Jaspers.",
+      "descricao_es": "Kierkegaard (1813-1855): primer existencialista. Contra Hegel: la existencia individual no se reduce al sistema. Tres estadios: estético, ético, religioso. El Concepto de la Angustia (1844): la libertad como 'vértigo de la libertad'. La enfermedad mortal: la desesperación. Influyó en Heidegger, Sartre, Jaspers.",
+      "inicio": 1843,
+      "fim": 1855,
+      "tags": [
+        "kierkegaard",
+        "existencialismo",
+        "angustia",
+        "fe"
+      ],
+      "importancia": "Kierkegaard inventou o existencialismo como reação ao sistema hegeliano que dissolvia o indivíduo na história coletiva: para Kierkegaard, a angústia diante de possibilidades infinitas, o 'salto de fé' no absurdo e a autenticidade individual são insubstituíveis por qualquer sistema filosófico. Escreveu sob pseudônimos para forçar o leitor a confrontar as ideias sem autoridade — o método oposto ao de Hegel. Sua influência é tão ampla quanto paradoxal: foi cristão devoto que inspirou ateus (Sartre), e dinamarquês obscuro que só foi traduzido 80 anos após a morte.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Europe",
+      "type": "intellectual",
+      "period": "Modern",
+      "importancia_en": "Rediscovered in the 20th century as the father of existentialism. Influenced Heidegger, Sartre, Jaspers.",
+      "importancia_es": "La enfermedad mortal: la desesperación. Influyó en Heidegger, Sartre, Jaspers."
+    },
+    {
+      "id": "exis-003",
+      "nome": "Nietzsche: Morte de Deus e Vontade de Potência",
+      "nome_en": "Nietzsche: Death of God and Will to Power",
+      "nome_es": "Nietzsche: Muerte de Dios y Voluntad de Poder",
+      "tipo": "periodo",
+      "descricao": "Friedrich Nietzsche (1844-1900): 'Deus está morto — e nós o matamos' (A Gaia Ciência, 1882). Crítica da moral cristã: moral de escravos. Eterno Retorno. Além-do-Homem (Übermensch). Vontade de Potência como essência da vida. Genealogia da Moral: a moral é instrumento de poder. Assim Falou Zaratustra (1883-85). Influência paradoxal: nazistas distorceram suas ideias; Foucault, Deleuze, pós-estruturalismo o revisitaram. O filósofo mais mal interpretado da história.",
+      "descricao_en": "Friedrich Nietzsche (1844-1900): 'God is dead — and we have killed him' (The Gay Science, 1882). Critique of Christian morality: slave morality. Eternal Return. Overman (Übermensch). Will to Power as the essence of life. Genealogy of Morals: morality is an instrument of power. Thus Spoke Zarathustra (1883-85). Paradoxical influence: Nazis distorted his ideas; Foucault, Deleuze, post-structuralism revisited him. The most misinterpreted philosopher in history.",
+      "descricao_es": "Nietzsche (1844-1900): 'Dios ha muerto — nosotros lo hemos matado'. Crítica de la moral cristiana: moral de esclavos. Eterno Retorno. Superhombre. Voluntad de Poder. Los nazis distorsionaron sus ideas; Foucault, Deleuze lo revisitaron. El filósofo más malinterpretado de la historia.",
+      "inicio": 1872,
+      "fim": 1889,
+      "tags": [
+        "nietzsche",
+        "morte-de-deus",
+        "vontade-potencia",
+        "uberhomem"
+      ],
+      "importancia": "O filósofo mais influente e mais mal interpretado do séc. XX. 'Deus está morto': diagnóstico da crise de sentido da modernidade.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Europe",
+      "type": "intellectual",
+      "period": "Modern",
+      "importancia_en": "Paradoxical influence: Nazis distorted his ideas; Foucault, Deleuze, post-structuralism revisited him. The most misinterpreted philosopher in history.",
+      "importancia_es": "Los nazis distorsionaron sus ideas; Foucault, Deleuze lo revisitaron. El filósofo más malinterpretado de la historia."
+    },
+    {
+      "id": "exis-004",
+      "nome": "Heidegger: Ser e Tempo",
+      "nome_en": "Heidegger: Being and Time",
+      "nome_es": "Heidegger: Ser y Tiempo",
+      "tipo": "periodo",
+      "descricao": "Martin Heidegger (1889-1976): Ser e Tempo (1927) — talvez o livro filosófico mais influente do séc. XX. Questão fundamental: o que é o Ser? Dasein ('ser-aí'): o ente que interroga o próprio ser. Ser-no-mundo: sempre já situado. Angústia como revelação do nada. Ser-para-a-morte: a mortalidade como possibilidade mais própria. Queda (Verfallenheit): dispersão no 'a gente' (das Man). Membro do Partido Nazista (1933-1945): a maior controvérsia filosófica do séc. XX.",
+      "descricao_en": "Martin Heidegger (1889-1976): Being and Time (1927) — perhaps the most influential philosophical book of the 20th century. Fundamental question: what is Being? Dasein ('being-there'): the entity that questions its own being. Being-in-the-world: always already situated. Anxiety as revelation of nothingness. Being-towards-death: mortality as one's ownmost possibility. Fallenness (Verfallenheit): dispersal in the 'they' (das Man). Member of the Nazi Party (1933-1945): the greatest philosophical controversy of the 20th century.",
+      "descricao_es": "Heidegger (1889-1976): Ser y Tiempo (1927). Dasein: el ente que interroga el propio ser. Ser-en-el-mundo. Angustia como revelación de la nada. Ser-para-la-muerte. Caída en el 'se' (das Man). Miembro del Partido Nazi (1933-1945): la mayor controversia filosófica del siglo XX.",
+      "inicio": 1927,
+      "fim": 1976,
+      "tags": [
+        "heidegger",
+        "ser-e-tempo",
+        "dasein",
+        "existencialismo"
+      ],
+      "importancia": "Ser e Tempo: o livro filosófico mais influente do séc. XX. Fundou a fenomenologia existencial e influenciou toda a filosofia continental.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Europe",
+      "type": "intellectual",
+      "period": "Contemporary",
+      "importancia_en": "Member of the Nazi Party (1933-1945): the greatest philosophical controversy of the 20th century.",
+      "importancia_es": "Miembro del Partido Nazi (1933-1945): la mayor controversia filosófica del siglo XX."
+    },
+    {
+      "id": "exis-005",
+      "nome": "Sartre e de Beauvoir: Existencialismo e Feminismo",
+      "nome_en": "Sartre and de Beauvoir: Existentialism and Feminism",
+      "nome_es": "Sartre y de Beauvoir: Existencialismo y Feminismo",
+      "tipo": "periodo",
+      "descricao": "Jean-Paul Sartre (1905-1980): 'A existência precede a essência' — primeiro existimos, depois nos definimos. O Ser e o Nada (1943). Liberdade radical e responsabilidade total: 'estamos condenados a ser livres'. La Nausée. Simone de Beauvoir (1908-1986): O Segundo Sexo (1949) — 'não se nasce mulher, torna-se mulher'. Fundou o feminismo moderno. Ambos rejeitaram o Prêmio Nobel. Engajados na descolonização (apoio ao FLN argelino). Os dois intelectuais mais influentes da França do séc. XX.",
+      "descricao_en": "Jean-Paul Sartre (1905-1980): 'Existence precedes essence' — first we exist, then we define ourselves. Being and Nothingness (1943). Radical freedom and total responsibility: 'we are condemned to be free'. La Nausée. Simone de Beauvoir (1908-1986): The Second Sex (1949) — 'one is not born, but becomes a woman'. Founded modern feminism. Both refused the Nobel Prize. Engaged in decolonization (support for Algerian FLN). The two most influential French intellectuals of the 20th century.",
+      "descricao_es": "Sartre (1905-1980): 'La existencia precede a la esencia'. El Ser y la Nada (1943). 'Estamos condenados a ser libres'. De Beauvoir (1908-1986): El Segundo Sexo (1949) — 'no se nace mujer, se llega a serlo'. Fundó el feminismo moderno. Ambos rechazaron el Nobel.",
+      "inicio": 1943,
+      "fim": 1980,
+      "tags": [
+        "sartre",
+        "beauvoir",
+        "existencialismo",
+        "feminismo"
+      ],
+      "importancia": "Sartre: máximo existencialista. De Beauvoir: fundadora do feminismo moderno. O Segundo Sexo mudou a consciência do século XX.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Europe",
+      "type": "intellectual",
+      "period": "Contemporary",
+      "importancia_en": "The two most influential French intellectuals of the 20th century.",
+      "importancia_es": "De Beauvoir (1908-1986): El Segundo Sexo (1949) — 'no se nace mujer, se llega a serlo'."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "exis-001",
+      "destino": "exis-002",
+      "tipo": "tensao",
+      "intensidade": 0.9,
+      "descricao": "Kierkegaard reagiu contra Hegel: a existência singular não cabe no sistema"
+    },
+    {
+      "origem": "exis-001",
+      "destino": "exis-003",
+      "tipo": "influencia",
+      "intensidade": 0.8,
+      "descricao": "Nietzsche herdou e subverteu a dialética hegeliana"
+    },
+    {
+      "origem": "exis-002",
+      "destino": "exis-004",
+      "tipo": "influencia",
+      "intensidade": 0.9,
+      "descricao": "Heidegger reconheceu Kierkegaard como precursor fundamental do seu conceito de angústia"
+    },
+    {
+      "origem": "exis-003",
+      "destino": "exis-004",
+      "tipo": "influencia",
+      "intensidade": 0.9,
+      "descricao": "Nietzsche foi a influência confessa mais profunda de Heidegger"
+    },
+    {
+      "origem": "exis-004",
+      "destino": "exis-005",
+      "tipo": "influencia",
+      "intensidade": 0.9,
+      "descricao": "Sartre construiu seu existencialismo diretamente sobre Heidegger, embora divergindo em aspectos fundamentais"
+    }
+  ]
+}

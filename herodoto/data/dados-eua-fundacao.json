@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "EUA: Colônias, Revolução e a República Fundadora",
+    "periodo": "1607-1815"
+  },
+  "entidades": [
+    {
+      "id": "euf-001",
+      "nome": "As Treze Colônias: Da Virgínia a Massachusetts",
+      "nome_en": "The Thirteen Colonies: From Virginia to Massachusetts",
+      "nome_es": "Las Trece Colonias: De Virginia a Massachusetts",
+      "tipo": "periodo",
+      "inicio": 1607,
+      "fim": 1750,
+      "region": "Americas",
+      "period": "EarlyModern",
+      "century_start": 17,
+      "type": "political",
+      "descricao": "As Treze Colônias britânicas da América do Norte (1607–1776) foram experiências radicalmente diferentes entre si: Jamestown (1607), a primeira colônia permanente, sobreviveu à escravidão e ao tabaco na Virgínia; as colônias puritanas de Massachusetts (1620, Mayflower) criaram uma teocracia protestante; Penn fundou a Pensilvânia como refúgio quacre de tolerância religiosa. A diversidade colonial — escravidão no Sul, pequenas fazendas no Norte, comércio em Nova York e Boston — produziria as tensões que definiriam os EUA por séculos.",
+      "descricao_en": "The thirteen British colonies of North America (1607–1776) were radically different from one another: Jamestown (1607), the first permanent colony, survived through slavery and tobacco in Virginia; the Puritan colonies of Massachusetts (1620, Mayflower) created a Protestant theocracy; Penn founded Pennsylvania as a Quaker refuge of religious tolerance.",
+      "descricao_es": "Las Trece Colonias eran radicalmente diferentes entre sí: Jamestown (Virginia) sobrevivió mediante la esclavitud y el tabaco; Massachusetts creó una teocracia protestante; Pennsylvania fue un refugio de tolerancia religiosa.",
+      "importancia": "As diferenças estruturais entre as colônias sulistas (escravidão/plantations) e nortistas (trabalho livre/indústria nascente) que produziram a Guerra Civil americana já estavam presentes desde as origens coloniais. A América foi dividida antes mesmo de ser una.",
+      "importancia_en": "The structural differences between Southern (slavery/plantations) and Northern (free labor/nascent industry) colonies that produced the American Civil War were present from colonial origins. America was divided before it was united.",
+      "importancia_es": "Las diferencias estructurales entre colonias sureñas (esclavitud) y norteñas (trabajo libre) que produjeron la Guerra Civil ya estaban presentes desde los orígenes coloniales.",
+      "tags": [
+        "Jamestown",
+        "Mayflower",
+        "colônias",
+        "Puritanos",
+        "tabaco",
+        "escravidão"
+      ],
+      "dataset": "data/dados-eua-fundacao.json"
+    },
+    {
+      "id": "euf-002",
+      "nome": "A Revolução Americana e os Pais Fundadores",
+      "nome_en": "The American Revolution and the Founding Fathers",
+      "nome_es": "La Revolución Americana y los Padres Fundadores",
+      "tipo": "evento",
+      "inicio": 1765,
+      "fim": 1783,
+      "region": "Americas",
+      "period": "EarlyModern",
+      "century_start": 18,
+      "type": "political",
+      "descricao": "A Revolução Americana (1765–1783) foi desencadeada pelo paradoxo da tributação sem representação ('no taxation without representation'). A Declaração de Independência (4 de julho de 1776), redigida por Thomas Jefferson, proclamou que 'todos os homens são criados iguais' — frase que definia idealmente, mas não na prática, os princípios da nova nação (Jefferson era proprietário de escravos). George Washington liderou o Exército Continental contra as tropas britânicas; a aliança francesa foi decisiva para a vitória.",
+      "descricao_en": "The American Revolution (1765–1783) was triggered by the paradox of taxation without representation. The Declaration of Independence (July 4, 1776), written by Thomas Jefferson, proclaimed that 'all men are created equal' — a phrase that ideally but not practically defined the new nation's principles (Jefferson owned slaves). George Washington led the Continental Army; the French alliance was decisive for victory.",
+      "descricao_es": "La Revolución Americana fue desencadenada por la tributación sin representación. La Declaración de Independencia (4 de julio de 1776) proclamó que 'todos los hombres son creados iguales'. La alianza francesa fue decisiva para la victoria.",
+      "importancia": "A frase 'todos os homens são criados iguais' é a mais citada da história política americana — e também a mais contraditória, escrita por um proprietário de escravos. Essa contradição fundadora moldou toda a história americana subsequente, da Guerra Civil ao movimento pelos direitos civis.",
+      "importancia_en": "'All men are created equal' is the most quoted phrase in American political history — and also the most contradictory, written by a slave owner. This founding contradiction shaped all subsequent American history, from the Civil War to the civil rights movement.",
+      "importancia_es": "'Todos los hombres son creados iguales' es la frase más citada de la historia política americana — escrita por un esclavista. Esta contradicción fundacional moldeó toda la historia americana posterior.",
+      "tags": [
+        "Revolução Americana",
+        "Jefferson",
+        "Washington",
+        "Declaração",
+        "independência"
+      ],
+      "dataset": "data/dados-eua-fundacao.json"
+    },
+    {
+      "id": "euf-003",
+      "nome": "A Constituição e o Sistema de Checks and Balances",
+      "nome_en": "The Constitution and the System of Checks and Balances",
+      "nome_es": "La Constitución y el Sistema de Pesos y Contrapesos",
+      "tipo": "evento",
+      "inicio": 1787,
+      "fim": 1800,
+      "region": "Americas",
+      "period": "EarlyModern",
+      "century_start": 18,
+      "type": "political",
+      "descricao": "A Constituição dos EUA (1787) foi o primeiro grande documento constitucional moderno em vigor contínuo. Madison, Hamilton e Jay escreveram 'Os Federalistas' (85 ensaios) para defender sua ratificação. O sistema de três poderes (executivo, legislativo, judiciário) com checks and balances foi inspirado por Montesquieu. A Bill of Rights (1791, dez primeiras emendas) garantiu liberdades fundamentais. O precedente do Marbury v. Madison (1803) estabeleceu o controle judicial de constitucionalidade.",
+      "descricao_en": "The US Constitution (1787) was the first major modern constitutional document in continuous force. Madison, Hamilton and Jay wrote 'The Federalist Papers' (85 essays) to defend its ratification. The three-branch system (executive, legislative, judicial) with checks and balances was inspired by Montesquieu. The Bill of Rights (1791, first ten amendments) guaranteed fundamental freedoms.",
+      "descricao_es": "La Constitución de EE.UU. (1787) fue el primer gran documento constitucional moderno en vigor continuo. El sistema de tres poderes con pesos y contrapesos fue inspirado por Montesquieu. El Bill of Rights garantizó libertades fundamentales.",
+      "importancia": "A Constituição americana é o documento constitucional mais antigo ainda em vigor no mundo e o modelo para mais de 100 constituições posteriores. O sistema de checks and balances é o mecanismo mais influente de contenção do poder arbitrário na história política moderna.",
+      "importancia_en": "The US Constitution is the oldest constitutional document still in force in the world and the model for over 100 subsequent constitutions. The checks and balances system is the most influential mechanism for constraining arbitrary power in modern political history.",
+      "importancia_es": "La Constitución americana es el documento constitucional más antiguo aún en vigor y el modelo de más de 100 constituciones posteriores.",
+      "tags": [
+        "Constituição",
+        "Federalistas",
+        "Madison",
+        "checks and balances",
+        "Bill of Rights"
+      ],
+      "dataset": "data/dados-eua-fundacao.json"
+    },
+    {
+      "id": "euf-004",
+      "nome": "Thomas Jefferson e a Expansão para o Oeste",
+      "nome_en": "Thomas Jefferson and Westward Expansion",
+      "nome_es": "Thomas Jefferson y la Expansión hacia el Oeste",
+      "tipo": "periodo",
+      "inicio": 1800,
+      "fim": 1820,
+      "region": "Americas",
+      "period": "EarlyModern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "Thomas Jefferson (presidente 1801–1809) dobrou o território americano com a Compra da Louisiana (1803) — 2,1 milhões de km² adquiridos da França de Napoleão por 15 milhões de dólares (3 centavos por hectare). A expedição de Lewis e Clark (1804–1806) mapeou o Oeste até o Pacífico. Jefferson idealizava uma República de pequenos fazendeiros independentes — em contradição com sua condição de proprietário de ~600 escravos ao longo da vida. A ideologia da 'Destino Manifesto' começou a tomar forma.",
+      "descricao_en": "Thomas Jefferson (president 1801–1809) doubled American territory with the Louisiana Purchase (1803) — 2.1 million km² acquired from Napoleon's France for $15 million (3 cents per hectare). The Lewis and Clark expedition (1804–1806) mapped the West to the Pacific. Jefferson idealized a Republic of independent small farmers — in contradiction with his ownership of ~600 enslaved people over his lifetime.",
+      "descricao_es": "Jefferson dobló el territorio americano con la Compra de Luisiana (1803) — 2,1 millones de km² por 15 millones de dólares. La expedición Lewis y Clark mapeó el Oeste hasta el Pacífico.",
+      "importancia": "A Compra da Louisiana foi o maior negócio imobiliário da história — e o ato que transformou os EUA de país costeiro em potência continental. Jefferson comprou um território maior que toda a Europa Ocidental por uma soma que a maioria dos investidores privados poderia pagar hoje.",
+      "importancia_en": "The Louisiana Purchase was the greatest real estate deal in history — and the act that transformed the US from a coastal country into a continental power. Jefferson bought a territory larger than all of Western Europe for a sum most private investors could pay today.",
+      "importancia_es": "La Compra de Luisiana fue el mayor negocio inmobiliario de la historia, transformando a EE.UU. en potencia continental.",
+      "tags": [
+        "Jefferson",
+        "Louisiana",
+        "Lewis e Clark",
+        "Destino Manifesto",
+        "expansão"
+      ],
+      "dataset": "data/dados-eua-fundacao.json"
+    },
+    {
+      "id": "euf-005",
+      "nome": "A Guerra de 1812 e a Identidade Nacional",
+      "nome_en": "The War of 1812 and National Identity",
+      "nome_es": "La Guerra de 1812 y la Identidad Nacional",
+      "tipo": "evento",
+      "inicio": 1812,
+      "fim": 1815,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "war",
+      "descricao": "A Guerra de 1812 entre EUA e Grã-Bretanha foi tecnicamente um empate, mas consolidou a identidade nacional americana. Os britânicos queimaram Washington D.C. (incluindo a Casa Branca, 1814). A vitória americana em Nova Orleans (Andrew Jackson, 1815) — alcançada duas semanas após a paz assinada em Ghent — tornou-se o mito fundador do heroísmo americano contra a ex-metrópole. O hino nacional ('Star-Spangled Banner') foi escrito durante o bombardeio de Fort McHenry.",
+      "descricao_en": "The War of 1812 between the US and Britain was technically a draw, but consolidated American national identity. The British burned Washington D.C. (including the White House, 1814). The American victory at New Orleans (Andrew Jackson, 1815) — achieved two weeks after peace was signed at Ghent — became the founding myth of American heroism against the former metropolis. The national anthem was written during the bombardment of Fort McHenry.",
+      "descricao_es": "La Guerra de 1812 consolidó la identidad nacional americana. Los británicos quemaron Washington D.C. La victoria en Nueva Orleans (Andrew Jackson) se convirtió en mito fundador. El himno nacional fue escrito durante el bombardeo de Fort McHenry.",
+      "importancia": "A Guerra de 1812 é frequentemente chamada de 'a segunda guerra de independência americana'. Confirmou que os EUA eram uma nação soberana capaz de sobreviver a uma guerra contra a maior potência naval do mundo. Andrew Jackson, herói de Nova Orleans, se tornaria presidente (1829).",
+      "importancia_en": "The War of 1812 is often called 'America's second war of independence'. It confirmed that the US was a sovereign nation capable of surviving a war against the world's greatest naval power. Andrew Jackson, hero of New Orleans, would become president (1829).",
+      "importancia_es": "La Guerra de 1812 confirmó que EE.UU. era una nación soberana capaz de sobrevivir una guerra contra la mayor potencia naval del mundo.",
+      "tags": [
+        "Guerra de 1812",
+        "Washington",
+        "Jackson",
+        "Nova Orleans",
+        "hino nacional"
+      ],
+      "dataset": "data/dados-eua-fundacao.json"
+    },
+    {
+      "id": "euf-006",
+      "nome": "Destino Manifesto e a Expulsão Indígena",
+      "nome_en": "Manifest Destiny and Indigenous Expulsion",
+      "nome_es": "Destino Manifesto y la Expulsión Indígena",
+      "tipo": "periodo",
+      "inicio": 1820,
+      "fim": 1890,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "A ideologia do 'Destino Manifesto' (termo cunhado em 1845 pelo jornalista John O'Sullivan) afirmava que Deus havia destinado os americanos a expandirem-se do Atlântico ao Pacífico. Justificou a Guerra México-EUA (1846–48) que tomou metade do território mexicano (Califórnia, Texas, Novo México). A Lei de Remoção Indígena (1830, Andrew Jackson) expulsou tribos orientais para reservas no oeste — a 'Trilha das Lágrimas' matou até 15.000 cherokees. Até 1890, os nativos estavam confinados a reservas.",
+      "descricao_en": "The ideology of 'Manifest Destiny' (term coined in 1845 by journalist John O'Sullivan) claimed that God had destined Americans to expand from Atlantic to Pacific. It justified the Mexican-American War (1846–48) that took half of Mexican territory (California, Texas, New Mexico). The Indian Removal Act (1830, Andrew Jackson) expelled eastern tribes to western reservations — the 'Trail of Tears' killed up to 15,000 Cherokees.",
+      "descricao_es": "El 'Destino Manifesto' justificó la Guerra México-EE.UU. (1846-48), que tomó la mitad del territorio mexicano. La Ley de Remoción Indígena (1830) expulsó a las tribus hacia el oeste — el 'Camino de Lágrimas' mató hasta 15.000 cherokees.",
+      "importancia": "A Guerra México-EUA (1846–48) foi a maior expansão territorial por conquista da história americana — criando a fronteira sul atual. A política de remoção indígena resultou em deslocamentos em massa e mortes significativas de populações nativas. A Trilha das Lágrimas (1838–39) é o episódio mais documentado dessa política, com milhares de mortes entre os Cherokees durante a marcha forçada para Oklahoma.",
+      "importancia_en": "The Mexican-American War (1846–48) was the largest territorial expansion by conquest in American history — creating the current southern border. The Indigenous removal policy resulted in mass displacements and significant deaths among native populations. The Trail of Tears (1838–39) is the most documented episode of this policy, with thousands of deaths among the Cherokee during the forced march to Oklahoma.",
+      "importancia_es": "La Guerra México-EE.UU. (1846-48) fue la mayor expansión territorial por conquista de la historia americana — creando la frontera sur actual. La política de remoción indígena resultó en desplazamientos masivos y muertes significativas. El Camino de Lágrimas (1838-39) es el episodio más documentado.",
+      "tags": [
+        "Destino Manifesto",
+        "México",
+        "Trilha das Lágrimas",
+        "Jackson",
+        "indígenas"
+      ],
+      "dataset": "data/dados-eua-fundacao.json"
+    },
+    {
+      "id": "euf-007",
+      "nome": "Andrew Jackson e a Democracia Jacksoniana",
+      "nome_en": "Andrew Jackson and Jacksonian Democracy",
+      "nome_es": "Andrew Jackson y la Democracia Jacksoniana",
+      "tipo": "periodo",
+      "inicio": 1829,
+      "fim": 1837,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "Andrew Jackson (presidente 1829–1837) democratizou o acesso ao voto branco masculino (eliminando exigências de propriedade), criou o sistema de 'espólio' (patronagem partidária), destruiu o Banco Nacional e foi o presidente mais amado pelas classes trabalhadoras brancas de sua época. Simultaneamente, foi o maior perpetrador da remoção indígena da história americana. A 'democracia jacksoniana' foi a primeira democracia de massa americana — limitada a brancos — e o modelo do populismo americano até Trump.",
+      "descricao_en": "Andrew Jackson (president 1829–1837) democratized access to white male voting (eliminating property requirements), created the 'spoils system' (party patronage), destroyed the National Bank and was the most beloved president among white working classes of his era. Simultaneously, he was the greatest perpetrator of Indigenous removal in American history. 'Jacksonian democracy' was the first American mass democracy.",
+      "descricao_es": "Andrew Jackson democratizó el voto masculino blanco, creó el 'sistema de botín' y destruyó el Banco Nacional. Fue el mayor perpetrador de la remoción indígena. La 'democracia jacksoniana' fue la primera democracia de masas americana — limitada a blancos.",
+      "importancia": "Jackson é um dos presidentes mais contraditórios da história americana: ao mesmo tempo o presidente que democratizou o voto para homens brancos sem propriedade e o responsável pela política de remoção forçada das tribos nativas do Leste. Seu retrato na nota de 20 dólares tem sido objeto de debate sobre como a nação remembrança figuras históricas com legados complexos.",
+      "importancia_en": "Jackson is one of the most contradictory presidents in American history: simultaneously the president who democratized voting for propertyless white men and the architect of forced removal of Eastern Native tribes. His portrait on the $20 bill has been the subject of debate about how the nation commemorates historical figures with complex legacies.",
+      "importancia_es": "Jackson es uno de los presidentes más contradictorios de la historia americana: democratizó el voto y fue el arquitecto de la remoción forzada de tribus nativas del Este. Su retrato en el billete de 20 dólares es objeto de debate sobre cómo se conmemoran figuras históricas complejas.",
+      "tags": [
+        "Jackson",
+        "democracia jacksoniana",
+        "voto",
+        "banco",
+        "populismo"
+      ],
+      "dataset": "data/dados-eua-fundacao.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "euf-001",
+      "destino": "euf-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Tensões coloniais com a metrópole produzem a Revolução"
+    },
+    {
+      "origem": "euf-002",
+      "destino": "euf-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Independência exige uma constituição para organizar o novo Estado"
+    },
+    {
+      "origem": "euf-003",
+      "destino": "euf-004",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "República estabelecida permite a expansão territorial de Jefferson"
+    },
+    {
+      "origem": "euf-004",
+      "destino": "euf-006",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Expansão territorial traz consigo o 'Destino Manifesto' e a remoção indígena"
+    },
+    {
+      "origem": "euf-005",
+      "destino": "euf-007",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Heroísmo da Guerra de 1812 catapulta Jackson à presidência"
+    },
+    {
+      "origem": "euf-006",
+      "destino": "euf-007",
+      "tipo": "paralelo",
+      "intensidade": 0.9,
+      "descricao": "Destino Manifesto e democracia jacksoniana são faces do mesmo expansionismo"
+    }
+  ]
+}

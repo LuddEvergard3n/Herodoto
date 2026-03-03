@@ -1,0 +1,256 @@
+{
+  "entidades": [
+    {
+      "id": "mov-001",
+      "nome": "Sufragismo e Primeira Onda Feminista",
+      "nome_en": "Suffragism and First Wave Feminism",
+      "nome_es": "Sufragismo y Primera Ola Feminista",
+      "tipo": "periodo",
+      "descricao": "Mary Wollstonecraft: Reivindicação dos Direitos da Mulher (1792). Seneca Falls (1848): primeira convenção pelos direitos das mulheres (EUA). Suffragettes britânicas (Emmeline Pankhurst): encadeamento em grades, greves de fome. Nova Zelândia (1893): primeiro país com sufrágio feminino. EUA: 19ª Emenda (1920). Brasil (1932), França (1944), Suíça (1971). Sufrágio era necessário mas não suficiente — desigualdade salarial, violência doméstica, acesso ao trabalho persistiram.",
+      "descricao_en": "Mary Wollstonecraft: A Vindication of the Rights of Woman (1792). Seneca Falls (1848): first women's rights convention (USA). British Suffragettes (Emmeline Pankhurst): chaining to railings, hunger strikes. New Zealand (1893): first country with women's suffrage. USA: 19th Amendment (1920). Brazil (1932), France (1944), Switzerland (1971). Suffrage was necessary but insufficient — wage inequality, domestic violence, access to work persisted.",
+      "descricao_es": "Wollstonecraft: Vindicación de los derechos de la mujer (1792). Seneca Falls (1848). Suffragettes británicas: encadenamiento, huelgas de hambre. Nueva Zelanda (1893): primer país con sufragio femenino. EE.UU. (1920), Brasil (1932), Francia (1944), Suiza (1971).",
+      "inicio": 1792,
+      "fim": 1944,
+      "tags": [
+        "feminismo",
+        "sufragismo",
+        "voto-feminino",
+        "wollstonecraft"
+      ],
+      "importancia": "O sufragismo foi a primeira campanha de direitos civis da era moderna a usar desobediência civil sistemática como instrumento: as sufragetes britânicas acorrentavam-se a grades, queimavam caixas de correio e fizeram greve de fome na prisão. A conquista do voto feminino (Nova Zelândia 1893, Reino Unido 1918, EUA 1920, Brasil 1932, Suíça apenas 1971) revelou que direitos não são concedidos — são conquistados contra resistência ativa, frequentemente por quem os reivindica com o próprio corpo.",
+      "century_start": 18,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "social",
+      "period": "Modern",
+      "importancia_en": "Suffrage was necessary but insufficient — wage inequality, domestic violence, access to work persisted.",
+      "importancia_es": "Nueva Zelanda (1893): primer país con sufragio femenino. (1920), Brasil (1932), Francia (1944), Suiza (1971)."
+    },
+    {
+      "id": "mov-004",
+      "nome": "Movimento Antiapartheid",
+      "nome_en": "Anti-Apartheid Movement",
+      "nome_es": "Movimiento Antiapartheid",
+      "tipo": "periodo",
+      "descricao": "Apartheid ('separação' em africâner, 1948-1994): segregação racial institucionalizada na África do Sul — 4 milhões brancos dominavam 30 milhões negros. Nelson Mandela: ANC, preso 27 anos (Robben Island, 1964-1990). Massacre de Sharpeville (1960): 69 mortos. Steve Biko: Consciência Negra — torturado e assassinado em custódia (1977). Pressão internacional, sanções econômicas. F.W. de Klerk libertou Mandela (1990). Eleições livres (1994): Mandela eleito. Comissão Verdade e Reconciliação.",
+      "descricao_en": "Apartheid ('separation' in Afrikaans, 1948-1994): institutionalized racial segregation in South Africa — 4 million whites dominated 30 million Blacks. Nelson Mandela: ANC, imprisoned 27 years (Robben Island, 1964-1990). Sharpeville Massacre (1960): 69 dead. Steve Biko: Black Consciousness — tortured and killed in custody (1977). International pressure, economic sanctions. F.W. de Klerk freed Mandela (1990). Free elections (1994): Mandela elected. Truth and Reconciliation Commission.",
+      "descricao_es": "Apartheid (1948-1994): segregación racial en Sudáfrica. Nelson Mandela: ANC, preso 27 años (Robben Island). Masacre de Sharpeville (1960): 69 muertos. Steve Biko: asesinado bajo custodia (1977). De Klerk liberó a Mandela (1990). Elecciones libres (1994).",
+      "inicio": 1948,
+      "fim": 1994,
+      "tags": [
+        "apartheid",
+        "mandela",
+        "africa-sul",
+        "segregacao"
+      ],
+      "importancia": "Nelson Mandela é o maior argumento histórico de que perdão estratégico pode ser mais poderoso que a vingança. Após 27 anos preso, saiu e liderou uma transição que poderia ter sido guerra civil — e não foi. A Comissão da Verdade e Reconciliação (1995-98) criou um modelo de justiça transicional que foi estudado e parcialmente replicado em dezenas de países. O milagre sul-africano não foi espontâneo: foi resultado de liderança moral extraordinária de Mandela e de Desmond Tutu, em contexto de pressão internacional e cálculo político cuidadoso.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Africa",
+      "type": "social",
+      "period": "Contemporary",
+      "importancia_en": "Free elections (1994): Mandela elected. Truth and Reconciliation Commission.",
+      "importancia_es": "Steve Biko: asesinado bajo custodia (1977). De Klerk liberó a Mandela (1990)."
+    },
+    {
+      "id": "mov-002",
+      "nome": "Movimento pelos Direitos Civis (EUA)",
+      "nome_en": "Civil Rights Movement (USA)",
+      "nome_es": "Movimiento por los Derechos Civiles (EE.UU.)",
+      "tipo": "periodo",
+      "descricao": "Jim Crow (1877-1964): segregação legal — escolas, ônibus, banheiros separados. Rosa Parks (1955): recusou-se a ceder o assento — boicote aos ônibus de Montgomery. Martin Luther King Jr.: 'I Have a Dream' (1963, Marcha em Washington). Sit-ins, Freedom Riders, assassinatos de ativistas. Lei dos Direitos Civis (1964), Lei do Direito de Voto (1965). Malcolm X: Black Power. King assassinado em 1968. Legado: precedente para movimentos pelos direitos no mundo todo.",
+      "descricao_en": "Jim Crow (1877-1964): legal segregation — separate schools, buses, bathrooms. Rosa Parks (1955): refused to give up her seat — Montgomery bus boycott. Martin Luther King Jr.: 'I Have a Dream' (1963, March on Washington). Sit-ins, Freedom Riders, activist assassinations. Civil Rights Act (1964), Voting Rights Act (1965). Malcolm X: Black Power. King assassinated in 1968. Legacy: precedent for rights movements worldwide.",
+      "descricao_es": "Jim Crow (1877-1964): segregación legal. Rosa Parks (1955): boicot a los autobuses de Montgomery. Martin Luther King Jr.: 'Tengo un sueño' (1963). Ley de Derechos Civiles (1964). Malcolm X: Black Power. King asesinado en 1968.",
+      "inicio": 1955,
+      "fim": 1968,
+      "tags": [
+        "direitos-civis",
+        "mlk",
+        "segregacao",
+        "eua"
+      ],
+      "importancia": "O Movimento pelos Direitos Civis americano (1954-1968) foi a mais bem documentada campanha de desobediência civil da história e o modelo que movimentos subsequentes em todo o mundo estudaram. A combinação de estratégia legal (NAACP, Suprema Corte), ação direta não-violenta (Rosa Parks, sit-ins) e liderança moral (King) criou pressão irresistível sobre um sistema que se dizia democrático mas era apartheid doméstico. A Lei dos Direitos Civis de 1964 e a Lei do Direito ao Voto de 1965 foram o maior avanço em direitos civis desde a 13ª Emenda.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "social",
+      "period": "Contemporary",
+      "importancia_en": "Civil Rights Act (1964), Voting Rights Act (1965). Legacy: precedent for rights movements worldwide.",
+      "importancia_es": "Martin Luther King Jr.: 'Tengo un sueño' (1963). Ley de Derechos Civiles (1964)."
+    },
+    {
+      "id": "mov-006",
+      "nome": "Movimento Ambientalista",
+      "nome_en": "Environmentalist Movement",
+      "nome_es": "Movimiento Ambientalista",
+      "tipo": "periodo",
+      "descricao": "Rachel Carson: Primavera Silenciosa (1962) — DDT e colapso dos ecossistemas. Dia da Terra (22 de abril de 1970): 20 milhões de americanos. Criação da EPA (EUA, 1970). Chuva ácida, buraco na camada de ozônio — Protocolo de Montreal (1987). Brundtland: 'desenvolvimento sustentável' (1987). Rio-92: Agenda 21. Greenpeace, WWF. Mudanças climáticas: IPCC (1988). Greta Thunberg (2018). Extinção de espécies, plástico nos oceanos, Amazônia.",
+      "descricao_en": "Rachel Carson: Silent Spring (1962) — DDT and ecosystem collapse. Earth Day (April 22, 1970): 20 million Americans. Creation of EPA (USA, 1970). Acid rain, ozone hole — Montreal Protocol (1987). Brundtland: 'sustainable development' (1987). Rio-92: Agenda 21. Greenpeace, WWF. Climate change: IPCC (1988). Greta Thunberg (2018). Species extinction, ocean plastics, Amazon.",
+      "descricao_es": "Rachel Carson: Primavera silenciosa (1962). Día de la Tierra (1970). EPA (1970). Protocolo de Montreal (1987). Desarrollo sostenible (Brundtland, 1987). Río-92: Agenda 21. Cambio climático: IPCC (1988). Greta Thunberg (2018).",
+      "inicio": 1962,
+      "fim": 2024,
+      "tags": [
+        "ambientalismo",
+        "clima",
+        "carson",
+        "sustentabilidade"
+      ],
+      "importancia": "O ambientalismo surgiu como movimento político quando a ciência tornou visível o que a industrialização destruía silenciosamente. Rachel Carson com 'Primavera Silenciosa' (1962) mostrou que DDT destruía cadeias alimentares; o 'Dia da Terra' de 1970 criou consciência de massa. Mas a tensão central do ambientalismo permanece irresoluta: como crescimento econômico e sustentabilidade ecológica coexistem num planeta com 8 bilhões de pessoas e crescimento demográfico contínuo? A crise climática do século XXI é o fracasso de 50 anos de ambientalismo político insuficiente.",
+      "century_start": 20,
+      "century_end": 21,
+      "region": "Multiple",
+      "type": "social",
+      "period": "Contemporary",
+      "importancia_en": "Brundtland: 'sustainable development' (1987). Species extinction, ocean plastics, Amazon.",
+      "importancia_es": "Rachel Carson: Primavera silenciosa (1962). Desarrollo sostenible (Brundtland, 1987)."
+    },
+    {
+      "id": "mov-003",
+      "nome": "Segunda Onda Feminista (1960s-1980s)",
+      "nome_en": "Second Wave Feminism (1960s-1980s)",
+      "nome_es": "Segunda Ola Feminista (1960s-1980s)",
+      "tipo": "periodo",
+      "descricao": "Betty Friedan: A Mística Feminina (1963) — a dona de casa infeliz da América suburbana. NOW (National Organization for Women, 1966). Simone de Beauvoir: O Segundo Sexo (1949) — 'não se nasce mulher, torna-se'. Movimento pela descriminalização do aborto (Roe v. Wade, EUA, 1973). Consciência da violência doméstica e estupro como crimes. Gloria Steinem. Kate Millett: Política Sexual (1969). Mulheres no mercado de trabalho. Feminismo negro: interseccionalidade (Kimberlé Crenshaw, 1989).",
+      "descricao_en": "Betty Friedan: The Feminine Mystique (1963) — the unhappy suburban American housewife. NOW (National Organization for Women, 1966). Simone de Beauvoir: The Second Sex (1949) — 'one is not born a woman, one becomes one'. Abortion decriminalization movement (Roe v. Wade, USA, 1973). Awareness of domestic violence and rape as crimes. Gloria Steinem. Kate Millett: Sexual Politics (1969). Women entering the workforce. Black feminism: intersectionality (Kimberlé Crenshaw, 1989).",
+      "descricao_es": "Betty Friedan: La mística femenina (1963). NOW (1966). Simone de Beauvoir: El segundo sexo. Movimiento por la despenalización del aborto (Roe v. Wade, 1973). Conciencia sobre la violencia doméstica. Feminismo negro: interseccionalidad (Crenshaw, 1989).",
+      "inicio": 1963,
+      "fim": 1990,
+      "tags": [
+        "feminismo",
+        "beauvoir",
+        "friedan",
+        "aborto"
+      ],
+      "importancia": "A Segunda Onda Feminista (1960s-80s) expandiu o horizonte do político: 'o pessoal é político' declarou que questões de corpo, família e sexualidade eram questões de poder, não de vida privada. A legalização do aborto (Roe v. Wade, 1973), as leis contra discriminação no trabalho e a crítica ao patriarcado doméstico transformaram a vida das mulheres de formas que as sufragistas não imaginaram. O backlash conservador das décadas seguintes revelou que transformações culturais rápidas geram reações igualmente intensas.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "social",
+      "period": "Contemporary",
+      "importancia_en": "Black feminism: intersectionality (Kimberlé Crenshaw, 1989).",
+      "importancia_es": "Conciencia sobre la violencia doméstica. Feminismo negro: interseccionalidad (Crenshaw, 1989)."
+    },
+    {
+      "id": "mov-005",
+      "nome": "Contracultura e 1968",
+      "nome_en": "Counterculture and 1968",
+      "nome_es": "Contracultura y 1968",
+      "tipo": "periodo",
+      "descricao": "Ano de múltiplas crises simultâneas. Paris, Maio de 1968: protestos estudantis e greve geral de 9 milhões de trabalhadores; De Gaulle se manteve no poder. Praga: reforma do PCTs sufocada pela invasão soviética (agosto). EUA: assassinatos de Luther King e Robert Kennedy; protestos contra a Guerra do Vietnam; Convenção Democrata de Chicago. México: massacre de Tlatelolco (2 out, ~300 mortos). Legado debatido: transformação cultural duradoura (costumes, universidade) vs. colapso da autoridade institucional.",
+      "descricao_en": "Year of multiple simultaneous crises. Paris, May 1968: student protests and general strike of 9 million workers; De Gaulle retained power. Prague: PCTs reform crushed by Soviet invasion (August). US: assassinations of Luther King and Robert Kennedy; Vietnam War protests; Chicago Democratic Convention. Mexico: Tlatelolco Massacre (Oct 2, ~300 killed). Debated legacy: lasting cultural transformation (customs, university) vs. collapse of institutional authority.",
+      "descricao_es": "Año de múltiples crisis simultáneas. París, Mayo 68: huelga general de 9 millones; De Gaulle se mantuvo. Praga: reforma del PCCh aplastada por invasión soviética. EE.UU.: asesinatos de King y Kennedy; protestas contra Vietnam. México: masacre de Tlatelolco (~300 muertos). Legado debatido: transformación cultural duradera vs. colapso de la autoridad institucional.",
+      "inicio": 1965,
+      "fim": 1972,
+      "tags": [
+        "1968",
+        "contracultura",
+        "paris",
+        "vietnam"
+      ],
+      "importancia": "1968 foi o ano em que o pós-guerra acabou. Tet, assassinato de King e Kennedy, Primavera de Praga, maio francês, massacre de Tlatelolco — tudo no mesmo ano. A geração que cresceu na prosperidade dos anos 1950 recusou-se a aceitar a autoridade de instituições que considerava hipócritas: governos que pregavam democracia e combatiam comunismo através de ditaduras aliadas. Os anos 1968 não fizeram a revolução que prometeram — mas transformaram permanentemente a cultura, os costumes e a relação com a autoridade no Ocidente.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "social",
+      "period": "Contemporary",
+      "importancia_en": "Debated legacy: lasting cultural transformation (customs, university) vs. collapse of institutional authority.",
+      "importancia_es": "Legado debatido: transformación cultural duradera vs. colapso de la autoridad institucional."
+    },
+    {
+      "id": "mov-007",
+      "nome": "Direitos LGBT+: Da Criminalização ao Casamento",
+      "nome_en": "LGBT+ Rights: From Criminalization to Marriage",
+      "nome_es": "Derechos LGBT+: De la Criminalización al Matrimonio",
+      "tipo": "periodo",
+      "descricao": "Stonewall Riots (1969, Nova York): resistência a operações policiais em bar frequentado por homossexuais — início do movimento pelos direitos civis LGBT nos EUA. Harvey Milk: primeiro político abertamente gay eleito na Califórnia (1977), assassinado em 1978. Epidemia de AIDS (1981-): mobilização de ativistas pressionou resposta governamental. Descriminalização gradual no mundo ocidental (Lawrence v. Texas, EUA, 2003). Casamento entre pessoas do mesmo sexo legalizado em número crescente de países a partir de 2001. Politicamente controverso em diversas regiões e culturas.",
+      "descricao_en": "Stonewall Riots (1969, New York): resistance to police operations at a bar frequented by homosexuals — start of the LGBT civil rights movement in the US. Harvey Milk: first openly gay politician elected in California (1977), assassinated in 1978. AIDS epidemic (1981-): activist mobilization pressured government response. Gradual decriminalization in the Western world (Lawrence v. Texas, US, 2003). Same-sex marriage legalized in growing number of countries from 2001. Politically controversial in various regions and cultures.",
+      "descricao_es": "Stonewall Riots (1969, Nueva York): inicio del movimiento LGBT en EE.UU. Harvey Milk: primer político abiertamente gay electo (1977), asesinado en 1978. Epidemia de SIDA (1981-): movilización activista presionó respuesta gubernamental. Matrimonio entre personas del mismo sexo legalizado en número creciente de países desde 2001. Políticamente controvertido en diversas regiones y culturas.",
+      "inicio": 1969,
+      "fim": 2024,
+      "tags": [
+        "lgbt",
+        "stonewall",
+        "direitos",
+        "casamento-igualitario"
+      ],
+      "importancia": "Os direitos LGBT+ percorreram em 50 anos um caminho que o sufragismo levou 100: de criminalização universal para casamento legal em dezenas de países. Stonewall (1969) transformou vergonha em orgulho e inaugurou a politização da identidade sexual. O ativismo AIDS dos anos 1980 — quando governos ignoravam uma epidemia que matava principalmente homossexuais — radicalizou o movimento. A velocidade das mudanças gerou o backlash que hoje ameaça reversões em vários países, demonstrando que direitos conquistados não são permanentes sem vigilância contínua.",
+      "century_start": 20,
+      "century_end": 21,
+      "region": "Multiple",
+      "type": "social",
+      "period": "Contemporary",
+      "importancia_en": "Same-sex marriage legalized in growing number of countries from 2001. Politically controversial in various regions and cultures.",
+      "importancia_es": "Políticamente controvertido en diversas regiones y culturas."
+    },
+    {
+      "id": "mov-008",
+      "nome": "Globalização e Movimentos Antiglobalização",
+      "nome_en": "Globalization and Anti-Globalization Movements",
+      "nome_es": "Globalización y Movimientos Antiglobalización",
+      "tipo": "periodo",
+      "descricao": "Globalização (1990s-): liberalização do comércio e dos fluxos de capital após o fim da Guerra Fria. WTO (1995), NAFTA (1994): expansão do livre comércio. Crescimento do PIB global e redução da pobreza absoluta em países como China, Índia, Vietnam. Críticas: aumento da desigualdade interna em países desenvolvidos, desindustrialização, erosão de normas trabalhistas e ambientais. Protestos de Seattle (1999): questionamento do processo de governance das instituições multilaterais.",
+      "descricao_en": "Globalization (1990s-): trade and capital flow liberalization after the Cold War. WTO (1995), NAFTA (1994): expansion of free trade. Global GDP growth and reduction of absolute poverty in countries such as China, India, Vietnam. Criticisms: growing internal inequality in developed countries, deindustrialization, erosion of labor and environmental standards. Seattle Protests (1999): questioning of governance in multilateral institutions.",
+      "descricao_es": "Globalización (1990s-): liberalización del comercio y flujos de capital. OMC (1995), NAFTA (1994). Crecimiento del PIB global y reducción de la pobreza absoluta en China, India, Vietnam. Críticas: desigualdad interna creciente en países desarrollados, desindustrialización. Protestas de Seattle (1999): cuestionamiento de la gobernanza multilateral.",
+      "inicio": 1989,
+      "fim": 2024,
+      "tags": [
+        "globalização",
+        "globalização-econômica",
+        "seattle",
+        "occupy"
+      ],
+      "importancia": "Os movimentos antiglobalização (Seattle 1999, Fórum Social Mundial 2001) foram a primeira resistência organizada ao consenso neoliberal pós-Guerra Fria — e fracassaram em construir alternativa coerente. Mas seu diagnóstico estava correto: a globalização criou perdedores reais que as elites ignoraram. O populismo de direita e de esquerda dos anos 2010-20 é, em parte, a explosão política do ressentimento que o movimento antiglobalização havia identificado mas não conseguido canalizar construtivamente.",
+      "century_start": 20,
+      "century_end": 21,
+      "region": "Multiple",
+      "type": "economic",
+      "period": "Contemporary",
+      "importancia_en": "Seattle Protests (1999): questioning of governance in multilateral institutions.",
+      "importancia_es": "Protestas de Seattle (1999): cuestionamiento de la gobernanza multilateral."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "mov-001",
+      "destino": "mov-003",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "O sufragismo da 1ª onda preparou o terreno para o feminismo radical da 2ª onda"
+    },
+    {
+      "origem": "mov-002",
+      "destino": "mov-003",
+      "tipo": "influencia",
+      "intensidade": 0.8,
+      "descricao": "O movimento pelos direitos civis inspirou e modelou o feminismo da 2ª onda"
+    },
+    {
+      "origem": "mov-002",
+      "destino": "mov-004",
+      "tipo": "influencia",
+      "intensidade": 0.8,
+      "descricao": "A luta antissegregação nos EUA inspirou diretamente Mandela e o ANC"
+    },
+    {
+      "origem": "mov-005",
+      "destino": "mov-007",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "A contracultura de 1968 criou o clima em que Stonewall foi possível em 1969"
+    },
+    {
+      "origem": "mov-005",
+      "destino": "mov-003",
+      "tipo": "influencia",
+      "intensidade": 0.75,
+      "descricao": "O Maio de 68 foi inseparável da 2ª onda feminista europeia"
+    },
+    {
+      "origem": "mov-006",
+      "destino": "mov-008",
+      "tipo": "influencia",
+      "intensidade": 0.7,
+      "descricao": "O ambientalismo foi parte do questionamento mais amplo do modelo capitalista global"
+    }
+  ]
+}

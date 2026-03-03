@@ -1,0 +1,139 @@
+{
+  "entidades": [
+    {
+      "id": "ivm-001",
+      "nome": "Civilização do Indo: Harappa e Mohenjo-daro (2600–1900 a.C.)",
+      "nome_en": "Indus Valley Civilization: Harappa and Mohenjo-daro (2600–1900 BC)",
+      "nome_es": "Civilización del Indo: Harappa y Mohenjo-daro (2600–1900 a.C.)",
+      "tipo": "periodo",
+      "inicio": -2600,
+      "fim": -1900,
+      "descricao": "A Civilização do Vale do Indo foi a maior civilização da Antiguidade por área: ~1,25 milhão km² (maior que Egito e Mesopotâmia combinados), com população estimada de 5 milhões de pessoas. Cidades de Harappa e Mohenjo-daro (atual Paquistão): planejamento urbano avançadíssimo — ruas em grade, sistema de esgoto subterrâneo (o mais sofisticado do mundo antigo), banheiros privados, graneiros públicos. Notável ausência: sem palácios, sem templos monumentais, sem tumbas reais — pouquíssima evidência de hierarquia social marcada. A escrita do Indo: ~400 símbolos em selos de esteatita — ainda não decifrada. Colapso (~1900 a.C.): causas debatidas — mudança climática (seca), desvio do rio Ghaggar-Hakra (possivelmente o mítico Sarasvati), não invasão ariana.",
+      "descricao_en": "The Indus Valley Civilization was the largest civilization of antiquity by area: ~1.25 million km² (larger than Egypt and Mesopotamia combined), with estimated population of 5 million. Cities of Harappa and Mohenjo-daro (modern Pakistan): advanced urban planning — grid streets, underground sewage system (most sophisticated in the ancient world), private bathrooms, public granaries. Notable absence: no palaces, no monumental temples, no royal tombs — very little evidence of marked social hierarchy. The Indus script: ~400 symbols on steatite seals — still undeciphered.",
+      "descricao_es": "La Civilización del Valle del Indo fue la mayor civilización de la antigüedad por área: ~1,25 millones de km², con una población estimada de 5 millones. Ciudades de Harappa y Mohenjo-daro (actual Pakistán): planificación urbana avanzada — calles en cuadrícula, sistema de alcantarillado subterráneo, baños privados, graneros públicos. Ausencia notable: sin palacios, sin templos monumentales, sin tumbas reales. La escritura del Indo: ~400 símbolos en sellos de esteatita — aún sin descifrar.",
+      "importancia": "Mohenjo-daro (~2600 a.C.) tinha sistema de esgoto mais avançado do que a maioria das cidades europeias de 1800 d.C. — demonstrando que 'progresso' não é linear e que civilizações sofisticadas podem colapsar e desaparecer completamente da memória histórica.",
+      "importancia_en": "Mohenjo-daro (~2600 BC) had a more advanced sewage system than most European cities of 1800 AD — demonstrating that 'progress' is not linear and that sophisticated civilizations can collapse and disappear entirely from historical memory.",
+      "importancia_es": "Mohenjo-daro (~2600 a.C.) tenía un sistema de alcantarillado más avanzado que la mayoría de las ciudades europeas de 1800 d.C. — demostrando que el 'progreso' no es lineal y que las civilizaciones sofisticadas pueden colapsar y desaparecer completamente de la memoria histórica.",
+      "tags": [
+        "harappa",
+        "mohenjo-daro",
+        "indo",
+        "escrita-indo",
+        "saneamento",
+        "colapso"
+      ],
+      "century_start": -26,
+      "century_end": -19,
+      "region": "SouthAsia",
+      "type": "cultural",
+      "period": "BronzeAge"
+    },
+    {
+      "id": "ivm-002",
+      "nome": "Período Védico e as Origens do Hinduísmo (1500–500 a.C.)",
+      "nome_en": "Vedic Period and the Origins of Hinduism (1500–500 BC)",
+      "nome_es": "Período Védico y los Orígenes del Hinduismo (1500–500 a.C.)",
+      "tipo": "periodo",
+      "inicio": -1500,
+      "fim": -500,
+      "descricao": "Migração/entrada dos povos indo-arianos no subcontinente indiano (1500–1200 a.C.) — trazendo língua sânscrita e os Vedas. Rigveda (~1500–1200 a.C.): mais antigo texto religioso do mundo ainda em uso — 1.028 hinos em sânscrito arcaico. Os quatro Vedas: Rigveda, Samaveda, Yajurveda, Atharvaveda. Upanishads (~800–200 a.C.): filosofia que desenvolveu os conceitos de Brahman (alma universal), Atman (alma individual) e Moksha (liberação). Sistema de varnas (castas): brahmanes (sacerdotes), kshatriyas (guerreiros), vaishyas (comerciantes), shudras (servos). Período épico: Mahabharata e Ramayana — os maiores épicos literários da humanidade por extensão. Bhagavad Gita: inserida no Mahabharata — diálogo entre Krishna e Arjuna sobre dever, ação e alma.",
+      "descricao_en": "Migration/entry of Indo-Aryan peoples into the Indian subcontinent (1500–1200 BC) — bringing the Sanskrit language and the Vedas. Rigveda (~1500–1200 BC): oldest religious text still in use — 1,028 hymns in archaic Sanskrit. The four Vedas: Rigveda, Samaveda, Yajurveda, Atharvaveda. Upanishads (~800–200 BC): philosophy that developed concepts of Brahman, Atman and Moksha. Varna system: brahmins, kshatriyas, vaishyas, shudras. Mahabharata and Ramayana — the longest literary epics of humanity.",
+      "descricao_es": "Migración/entrada de los pueblos indoarios en el subcontinente indio (1500–1200 a.C.) — trayendo la lengua sánscrita y los Vedas. Rigveda (~1500–1200 a.C.): texto religioso más antiguo aún en uso — 1.028 himnos en sánscrito arcaico. Upanishads (~800–200 a.C.): desarrollaron los conceptos de Brahman, Atman y Moksha. Sistema de varnas: brahmanes, kshatriyas, vaishyas, shudras.",
+      "importancia": "O Rigveda (~1500 a.C.) é o texto religioso mais antigo ainda ativamente usado por uma comunidade de fiéis — o hinduísmo contemporâneo tem continuidade ininterrupta de 3.500 anos, tornando-o a tradição religiosa viva mais antiga da humanidade.",
+      "importancia_en": "The Rigveda (~1500 BC) is the oldest religious text still actively used by a community of believers — contemporary Hinduism has uninterrupted continuity of 3,500 years, making it humanity's oldest living religious tradition.",
+      "importancia_es": "El Rigveda (~1500 a.C.) es el texto religioso más antiguo aún utilizado activamente por una comunidad de fieles — el hinduismo contemporáneo tiene una continuidad ininterrumpida de 3.500 años, convirtiéndolo en la tradición religiosa viva más antigua de la humanidad.",
+      "tags": [
+        "vedas",
+        "hinduismo",
+        "sanscrito",
+        "rigveda",
+        "upanishads",
+        "castas"
+      ],
+      "century_start": -15,
+      "century_end": -5,
+      "region": "SouthAsia",
+      "type": "religious",
+      "period": "IronAge"
+    },
+    {
+      "id": "ivm-003",
+      "nome": "Buda e o Nascimento do Budismo (563–483 a.C.)",
+      "nome_en": "Buddha and the Birth of Buddhism (563–483 BC)",
+      "nome_es": "Buda y el Nacimiento del Budismo (563–483 a.C.)",
+      "tipo": "evento",
+      "inicio": -563,
+      "fim": -250,
+      "descricao": "Siddhartha Gautama (563–483 a.C., datas tradicionais): príncipe do clã Shakya, atual Nepal/norte da Índia. Renúncia (~534 a.C.): abandonou a vida palaciana para buscar o fim do sofrimento. Iluminação (~528 a.C.): sob a árvore Bodhi em Bodh Gaya — descobriu as Quatro Nobres Verdades e o Óctuplo Caminho. Primeiro ensinamento: Deer Park em Sarnath — os primeiros cinco discípulos. Comunidade monástica (Sangha): o Buda, o Dharma e a Sangha — as Três Joias. O Budismo se distinguiu do Brahmanismo por: rejeitar a autoridade dos Vedas, rejeitar o sistema de castas (todos podem alcançar a iluminação), e ser uma tradição de renúncia não-teísta. Expansão: Ashoka (séc. III a.C.) enviou missionários para toda a Ásia — hoje 535 milhões de budistas.",
+      "descricao_en": "Siddhartha Gautama (563–483 BC, traditional dates): prince of the Shakya clan, modern Nepal/northern India. Renunciation (~534 BC): abandoned palace life to seek the end of suffering. Enlightenment (~528 BC): under the Bodhi tree at Bodh Gaya — discovered the Four Noble Truths and the Eightfold Path. First teaching: Deer Park at Sarnath. Buddhism distinguished itself from Brahmanism by: rejecting the authority of the Vedas, rejecting the caste system, and being a non-theistic renunciation tradition. Expansion: Ashoka (3rd century BC) sent missionaries throughout Asia — today 535 million Buddhists.",
+      "descricao_es": "Siddhartha Gautama (563–483 a.C., fechas tradicionales): príncipe del clan Shakya, actual Nepal/norte de India. Iluminación (~528 a.C.): bajo el árbol Bodhi en Bodh Gaya — descubrió las Cuatro Nobles Verdades y el Óctuple Camino. El Budismo se distinguió del Brahmanismo rechazando la autoridad de los Vedas y el sistema de castas. Ashoka (siglo III a.C.) envió misioneros por toda Asia — hoy 535 millones de budistas.",
+      "importancia": "O Budismo foi a primeira religião universal missionária da história: não exigiu pertencimento étnico, nascimento em casta específica ou aceitação de um deus criador — tornando-se acessível a qualquer ser humano independentemente de origem, e modelando espiritualmente toda a Ásia.",
+      "importancia_en": "Buddhism was history's first universal missionary religion: it required no ethnic membership, birth into a specific caste or acceptance of a creator god — making it accessible to any human regardless of origin, and spiritually shaping all of Asia.",
+      "importancia_es": "El Budismo fue la primera religión misionera universal de la historia: no requirió pertenencia étnica, nacimiento en casta específica ni aceptación de un dios creador — haciéndolo accesible a cualquier ser humano independientemente de su origen, moldeando espiritualmente toda Asia.",
+      "tags": [
+        "buda",
+        "budismo",
+        "siddhartha",
+        "dharma",
+        "sangha",
+        "ashoka"
+      ],
+      "century_start": -6,
+      "century_end": -3,
+      "region": "SouthAsia",
+      "type": "religious",
+      "period": "IronAge"
+    },
+    {
+      "id": "ivm-004",
+      "nome": "Império Maurya e Ashoka: A Mais Próxima Democracia Pacifista da Antiguidade (322–185 a.C.)",
+      "nome_en": "Maurya Empire and Ashoka: The Closest Thing to a Pacifist Democracy in Antiquity (322–185 BC)",
+      "nome_es": "Imperio Maurya y Asoka: Lo Más Cercano a una Democracia Pacifista en la Antigüedad (322–185 a.C.)",
+      "tipo": "periodo",
+      "inicio": -322,
+      "fim": -185,
+      "descricao": "Chandragupta Maurya (322–298 a.C.): fundou o primeiro império pan-indiano — com ajuda do estrategista Chanakya (Kautilya), autor do Arthashastra (o tratado de ciência política mais antigo do mundo, ~300 a.C.). Bindusara (298–272 a.C.). Ashoka, o Grande (268–232 a.C.): o momento mais extraordinário da história política da Antiguidade. Após a Batalha de Kalinga (261 a.C.) — ~100.000 mortos, 150.000 deportados — Ashoka teve uma conversão ao Budismo e abandonou a guerra de conquista. Edictos de Ashoka: inscrições em pedra e pilares em todo o Império — tolerância religiosa, proibição de sacrifício animal, hospitais para humanos e animais, obras públicas, direitos dos prisioneiros. Nunca repetiu uma invasão pelos 36 anos restantes de seu reinado. O Império cobriu quase toda a Índia atual mais Paquistão e Afeganistão.",
+      "descricao_en": "Chandragupta Maurya (322–298 BC): founded the first pan-Indian empire — aided by strategist Chanakya (Kautilya), author of the Arthashastra (the world's oldest political science treatise, ~300 BC). Ashoka the Great (268–232 BC): after the Battle of Kalinga (261 BC) — ~100,000 dead — Ashoka converted to Buddhism and abandoned conquest warfare. Ashoka's Edicts: stone inscriptions throughout the Empire — religious tolerance, ban on animal sacrifice, hospitals for humans and animals, public works, prisoners' rights. Never launched another invasion in his remaining 36-year reign.",
+      "descricao_es": "Chandragupta Maurya (322–298 a.C.): fundó el primer imperio panindio. Ashoka el Grande (268–232 a.C.): tras la Batalla de Kalinga (261 a.C.) — ~100.000 muertos — Ashoka se convirtió al Budismo y abandonó la guerra de conquista. Edictos de Asoka: tolerancia religiosa, prohibición del sacrificio animal, hospitales, obras públicas. Nunca lanzó otra invasión en sus 36 años de reinado restantes.",
+      "importancia": "Ashoka (~261 a.C.) é o único governante do mundo antigo que, após uma vitória militar decisiva, publicamente renunciou à guerra como instrumento de Estado — 2.200 anos antes de Gandhi e da Carta da ONU. Seu edito sobre tolerância religiosa permanece o texto político mais avançado da Antiguidade.",
+      "importancia_en": "Ashoka (~261 BC) is the only ruler in the ancient world who, after a decisive military victory, publicly renounced war as an instrument of state — 2,200 years before Gandhi and the UN Charter. His edict on religious tolerance remains the most advanced political text of antiquity.",
+      "importancia_es": "Asoka (~261 a.C.) es el único gobernante del mundo antiguo que, tras una victoria militar decisiva, renunció públicamente a la guerra como instrumento de Estado — 2.200 años antes de Gandhi y la Carta de la ONU. Su edicto sobre tolerancia religiosa sigue siendo el texto político más avanzado de la antigüedad.",
+      "tags": [
+        "maurya",
+        "ashoka",
+        "kalinga",
+        "budismo",
+        "tolerancia",
+        "arthashastra"
+      ],
+      "century_start": -4,
+      "century_end": -2,
+      "region": "SouthAsia",
+      "type": "political",
+      "period": "IronAge"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ivm-001",
+      "destino": "ivm-002",
+      "tipo": "causalidade",
+      "intensidade": 0.5,
+      "descricao": "O colapso do Indo criou o vácuo cultural preenchido pelos povos védicos"
+    },
+    {
+      "origem": "ivm-002",
+      "destino": "ivm-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O Budismo surgiu como resposta ao brahmanismo védico e ao sistema de castas"
+    },
+    {
+      "origem": "ivm-003",
+      "destino": "ivm-004",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "O Budismo forneceu a ideologia que transformou Ashoka após Kalinga"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "fonte": "historyforatheists.com; Belarmino-Foscarini; cricetuscricetus.co.uk; historiografia científica",
+    "lingua": "pt",
+    "tema": "Igreja, Ciência e os Casos Copérnico, Galileu e Bruno",
+    "periodo": "1473-1642"
+  },
+  "entidades": [
+    {
+      "id": "cig-001",
+      "nome": "Copérnico: O Cônego Heliocentrismo Aprovado pela Igreja",
+      "nome_en": "Copernicus: The Canon Whose Heliocentrism Was Approved by the Church",
+      "nome_es": "Copérnico: El Canónigo cuyo Heliocentrismo fue Aprobado por la Iglesia",
+      "tipo": "periodo",
+      "inicio": 1473,
+      "fim": 1543,
+      "region": "Europe",
+      "period": "EarlyModern",
+      "century_start": 15,
+      "century_end": 16,
+      "type": "intellectual",
+      "descricao": "Nicolau Copérnico (1473–1543) era cônego católico quando propôs o modelo heliocêntrico. O Papa Clemente VII ouviu uma apresentação do sistema em 1533; o Cardeal Schönberg escreveu-lhe pedindo cópia do manuscrito. Copérnico dedicou o 'De Revolutionibus' (1543) ao Papa Paulo III. A obra foi proibida pelo índice apenas em 1616 — 73 anos após sua publicação — quando o debate sobre Galileu tornou o copernicanismo politicamente sensível. Copérnico não foi perseguido em vida; morreu no mesmo ano da publicação.",
+      "descricao_en": "Nicolaus Copernicus (1473–1543) was a Catholic canon when he proposed the heliocentric model. His theory was enthusiastically received by the Church: Pope Clement VII approved it in 1533; Cardinal Schönberg offered money for an early copy; Bishop Tiedemann Giese supported him throughout. Copernicus presented heliocentrism as a mathematical HYPOTHESIS (lacking direct proof). He died of a stroke after publishing 'De Revolutionibus' — he never suffered any inquisitorial persecution.",
+      "descricao_es": "Nicolás Copérnico era canónigo católico cuando propuso el modelo heliocéntrico. El Papa Clemente VII lo aprobó en 1533; el Cardenal Schönberg ofreció dinero por una copia anticipada. Copérnico nunca sufrió persecución inquisitorial.",
+      "importancia": "A trajetória de Copérnico mostra tanto a tolerância inicial quanto os limites institucionais da Igreja com novas teorias cosmológicas. Que um cônego publicasse o heliocentrismo sem ser perseguido é um fato histórico relevante. Igualmente relevante é que, quando o debate se acirrou em 1616, a Igreja proibiu o livro — mostrando que a relação entre instituição religiosa e investigação científica foi complexa, não simplesmente de apoio nem de supressão sistemática.",
+      "importancia_en": "The narrative that Copernicus 'hid from the Inquisition' is refuted by letters showing his thesis was widely discussed since 1530. The Church funded and supported his research. The Copernican model lacked proof — stellar parallax was only measured in 1838 — so treating it as a hypothesis was methodologically correct.",
+      "importancia_es": "La narrativa de que Copérnico 'se escondió de la Inquisición' es refutada por las cartas que muestran su tesis siendo ampliamente discutida desde 1530.",
+      "tags": [
+        "Copérnico",
+        "heliocentrismo",
+        "Clemente VII",
+        "cônego",
+        "hipótese",
+        "ciência"
+      ],
+      "dataset": "data/dados-igreja-ciencia.json"
+    },
+    {
+      "id": "cig-002",
+      "nome": "Giordano Bruno: Heresiarca, Não Mártir da Ciência",
+      "nome_en": "Giordano Bruno: Heresiarch, Not Martyr of Science",
+      "nome_es": "Giordano Bruno: Heresiarca, No Mártir de la Ciencia",
+      "tipo": "periodo",
+      "inicio": 1548,
+      "fim": 1600,
+      "region": "Europe",
+      "period": "EarlyModern",
+      "century_start": 16,
+      "century_end": 16,
+      "type": "religious",
+      "descricao": "Giordano Bruno (1548–1600) era místico e ocultista — não cientista nem proto-cientista. Suas especulações cosmológicas (universo infinito, múltiplos mundos habitados) eram de natureza hermética e neoplatônica, não científica — nunca foi além de conceitos esotéricos de 'geometria sagrada'. A ideia de mundos habitados infinitos que se lhe atribui nem sequer era sua: Nicolau de Cusa já a havia formulado no século XV. Bruno foi expulso sucessivamente de três tradições cristãs: dos católicos (1576), dos calvinistas em Genebra (1579) e dos luteranos em Helmstedt (1589) — por heresias teológicas: negava a Trindade, a virgindade de Maria, a Encarnação e a Transubstanciação. Em Veneza, foi denunciado ao Santo Ofício pelo seu próprio anfitrião, Giovanni Mocenigo (1592). A Inquisição o declarou heresiarca e o excomungou. Foi então entregue ao braço secular — o tribunal civil — que executou a pena capital, conforme o procedimento jurídico da época para hereges obstinados não reconciliados.",
+      "descricao_en": "Giordano Bruno (1548–1600) was a mystic and occultist, not a scientist. He was expelled from three branches of Christianity — Catholic, Lutheran and Calvinist — for theological heresies: he denied the Trinity, the virginity of Mary, the Incarnation and Transubstantiation. He practiced Hermetic magic. His condemnation was for THEOLOGICAL HERESY, not for defending heliocentrism. The tribunal that executed him was SECULAR, not ecclesiastical — the Church had excommunicated him; the State imposed capital punishment.",
+      "descricao_es": "Giordano Bruno era un místico y ocultista, no un científico. Fue expulsado de tres ramas del cristianismo — católico, luterano y calvinista — por herejías teológicas. Su condena fue por HEREJÍA TEOLÓGICA, no por defender el heliocentrismo. El tribunal que lo ejecutó era SECULAR, no eclesiástico.",
+      "importancia": "O mito de Bruno como 'mártir da ciência' foi fabricado por maçons e anticlericais no século XIX (especialmente após a estátua de 1889 em Campo de' Fiori). Historicamente, Bruno não contribuiu significativamente para a ciência. Foi rejeitado com igual vigor por católicos, protestantes e calvinistas — o que demonstra que o conflito era estritamente teológico, não científico. A Igreja excomungou Bruno como heresiarca; quem o queimou foi o tribunal secular, conforme o direito civil da época aplicável a hereges entregues pelo foro eclesiástico.",
+      "importancia_en": "The myth of Bruno as 'martyr of science' was fabricated by Freemasons and anticlericalists in the 19th century (especially after the 1889 statue in Campo de' Fiori). Historically, Bruno made no significant contribution to science — and was rejected by Protestants and Orthodox with the same vigor as by Catholics, which itself refutes the anti-Catholic narrative.",
+      "importancia_es": "El mito de Bruno como 'mártir de la ciencia' fue fabricado por masones y anticlericales en el siglo XIX. Históricamente, Bruno no contribuyó significativamente a la ciencia.",
+      "tags": [
+        "Giordano Bruno",
+        "heresia",
+        "ocultismo",
+        "mito",
+        "magia",
+        "heresiarca",
+        "secular"
+      ],
+      "dataset": "data/dados-igreja-ciencia.json"
+    },
+    {
+      "id": "cig-003",
+      "nome": "Galileu e a Igreja: A História Completa",
+      "nome_en": "Galileo and the Church: The Complete Story",
+      "nome_es": "Galileo y la Iglesia: La Historia Completa",
+      "tipo": "periodo",
+      "inicio": 1564,
+      "fim": 1642,
+      "region": "Europe",
+      "period": "EarlyModern",
+      "century_start": 16,
+      "century_end": 17,
+      "type": "intellectual",
+      "descricao": "Galileu Galilei recebeu financiamento e apoio da Igreja por grande parte de sua carreira. Em 1616, o Cardeal Belarmino estabeleceu que poderia ensinar o copernicanismo como hipótese, não como fato — posição que refletia um debate científico real, dado que o modelo geo-heliocêntrico de Tycho Brahe também explicava as observações disponíveis. Em 1633, Galileu foi julgado e condenado a prisão domiciliar após publicar o 'Diálogo' de forma que violou o acordo de 1616 e humilhou o Papa Urbano VIII, antes seu patrono. Não foi executado e continuou pesquisando até a morte.",
+      "descricao_en": "Galileo Galilei was FUNDED by the Church. In 1616, Cardinal Bellarmine (letter to Foscarini) clarified: Galileo could teach Copernicanism as a mathematical hypothesis, not as fact — because the scientific consensus was Tycho Brahe's geo-heliocentric model, compatible with Galileo's observations. Pope Urban VIII authorized Galileo to write the 'Dialogue' representing both models equitably. Galileo was biased and caricatured the Pope as 'Simplicio', violating the 1616 injunction. He was condemned for contempt and injunction violation — not for heliocentrism. Sentence: house arrest. He was never tortured.",
+      "descricao_es": "Galileo fue FINANCIADO por la Iglesia. En 1616, el Cardenal Belarmino aclaró que Galileo podía enseñar el copernicanismo como hipótesis. El Papa Urbano VIII autorizó el 'Diálogo'. Galileo fue parcial y caricaturizó al Papa, violando la limitación de 1616. Fue condenado por injuria — no por heliocentrismo. Pena: arresto domiciliario.",
+      "importancia": "O caso Galileu é frequentemente simplificado em ambas as direções: nem foi uma guerra de ciência contra religião, nem um simples mal-entendido sem consequências reais. Galileu foi genuinamente punido por suas posições — e tinha razão sobre o heliocentrismo. A Igreja errou ao punir uma posição científica correta por razões institucionais. Galileu também estava errado em pontos importantes (teoria das marés, elipses). O episódio é instrutivo precisamente em sua complexidade.",
+      "importancia_en": "Galileo was wrong on crucial points: he believed tides were caused by Earth's rotation (proven wrong in his lifetime), that comets were atmospheric phenomena, and he used Copernicus's model (less precise than Kepler's). The first direct proof of Earth's movement came in 1851 with Foucault's pendulum. Judging Galileo with 21st-century knowledge is historical anachronism.",
+      "importancia_es": "Galileo estaba equivocado en puntos cruciales. La primera prueba directa del movimiento terrestre llegó en 1851. Juzgar a Galileo con conocimiento del siglo XXI es anacronismo histórico.",
+      "tags": [
+        "Galileu",
+        "Belarmino",
+        "Tycho Brahe",
+        "heliocentrismo",
+        "Diálogo",
+        "financiamento",
+        "liminar"
+      ],
+      "dataset": "data/dados-igreja-ciencia.json"
+    },
+    {
+      "id": "cig-004",
+      "nome": "Padre Georges Lemaître e a Origem do Universo",
+      "nome_en": "Father Georges Lemaître and the Origin of the Universe",
+      "nome_es": "Padre Georges Lemaître y el Origen del Universo",
+      "tipo": "periodo",
+      "inicio": 1894,
+      "fim": 1966,
+      "region": "Europe",
+      "period": "Contemporary",
+      "century_start": 20,
+      "century_end": 20,
+      "type": "intellectual",
+      "descricao": "Georges Lemaître (1894–1966) foi padre católico belga e professor de física que propôs, em 1927, a teoria do 'átomo primitivo' — o que hoje chamamos de Big Bang. Lemaître demonstrou matematicamente a expansão do universo antes de Hubble. Einstein inicialmente discordou, mas depois reconheceu a teoria. Em 1951, Pio XII queria usar o Big Bang como prova da criação divina; Lemaître persuadiu o Papa a não misturar ciência e teologia. Prova concreta de que a Igreja apoiava e produzia ciência de ponta.",
+      "descricao_en": "Georges Lemaître (1894–1966) was a Belgian Catholic priest and physics professor who proposed, in 1927, the 'primeval atom' theory — what we now call the Big Bang. Lemaître mathematically demonstrated the expansion of the universe before Hubble. Einstein initially disagreed but later acknowledged the theory. In 1951, Pius XII wanted to use the Big Bang as proof of divine creation; Lemaître persuaded the Pope not to mix science and theology.",
+      "descricao_es": "Georges Lemaître fue sacerdote católico y profesor de física que propuso en 1927 la teoría del 'átomo primitivo' — lo que hoy llamamos Big Bang. Demostró matemáticamente la expansión del universo antes que Hubble. En 1951, Lemaître persuadió al Papa de no mezclar ciencia y teología.",
+      "importancia": "O propositor do Big Bang era padre católico — mostrando que fé religiosa e investigação científica de ponta podem coexistir numa mesma pessoa. Lemaître demonstrou notável autonomia intelectual ao recusar que o Papa Pio XII usasse o Big Bang como prova teológica da Criação em 1951, argumentando que questões científicas e teológicas operam em registros diferentes.",
+      "importancia_en": "The proposer of the Big Bang was a Catholic priest. This refutes any narrative that the Church inhibited scientific development. Additionally, Lemaître demonstrated scientific autonomy by preventing the Church from politically instrumentalizing his discovery.",
+      "importancia_es": "El proponente del Big Bang era sacerdote católico. Esto refuta cualquier narrativa de que la Iglesia inhibía el desarrollo científico.",
+      "tags": [
+        "Lemaître",
+        "Big Bang",
+        "cosmologia",
+        "padre",
+        "ciência",
+        "universo"
+      ],
+      "dataset": "data/dados-igreja-ciencia.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "cig-001",
+      "destino": "cig-002",
+      "tipo": "paralelo",
+      "intensidade": 0.6,
+      "descricao": "Copérnico e Bruno são contemporâneos com destinos opostos"
+    },
+    {
+      "origem": "cig-001",
+      "destino": "cig-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O debate copernicano levou ao caso Galileu"
+    },
+    {
+      "origem": "cig-003",
+      "destino": "cig-004",
+      "tipo": "evolucao",
+      "intensidade": 0.5,
+      "descricao": "A tradição de clérigos-cientistas continua no século XX"
+    }
+  ]
+}

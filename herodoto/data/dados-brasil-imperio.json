@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "fonte": "Compilado - História do Brasil",
+    "lingua": "pt",
+    "tema": "Brasil Império",
+    "periodo": "1808-1889"
+  },
+  "entidades": [
+    {
+      "id": "bim-001",
+      "nome": "Família Real no Brasil",
+      "nome_en": "Royal Family in Brazil",
+      "nome_es": "Familia Real en Brasil",
+      "tipo": "periodo",
+      "descricao": "Transferência da corte portuguesa (1808) fugindo da invasão napoleônica com ~15.000 pessoas. D. João VI instalou-se no Rio transformando colônia em sede do império. Medidas: abertura dos portos às nações amigas (1808) acabou com monopólio português, beneficiando Inglaterra; criação de instituições (Banco do Brasil 1808, Imprensa Régia, Biblioteca Real, Jardim Botânico); elevação a Reino Unido de Portugal, Brasil e Algarves (1815). Missão Artística Francesa (1816) trouxe Debret, Taunay. Revolução Pernambucana (1817) republicana foi reprimida. Revolução Liberal do Porto (1820) exigiu retorno de D. João. Príncipe Pedro ficou como regente (1821). Período urbanizou Rio, introduziu costumes europeus, modernizou administração mas aumentou privilégios portugueses gerando insatisfação brasileira.",
+      "descricao_en": "Transfer of Portuguese court (1808) fleeing Napoleonic invasion with ~15,000 people. John VI installed in Rio transforming colony into empire seat. Measures: opening of ports to friendly nations (1808) ended Portuguese monopoly, benefiting England; creation of institutions (Bank of Brazil 1808, Royal Press, Royal Library, Botanical Garden); elevation to United Kingdom of Portugal, Brazil and Algarves (1815). French Artistic Mission (1816) brought Debret, Taunay. Pernambucan Revolution (1817) republican was suppressed. Liberal Revolution of Porto (1820) demanded John's return. Prince Peter remained as regent (1821). Period urbanized Rio, introduced European customs, modernized administration but increased Portuguese privileges generating Brazilian dissatisfaction.",
+      "descricao_es": "Transferencia de corte portuguesa (1808) huyendo de invasión napoleónica con ~15.000 personas. Juan VI se instaló en Río transformando colonia en sede del imperio. Medidas: apertura de puertos a naciones amigas (1808) terminó monopolio portugués, beneficiando Inglaterra; creación de instituciones (Banco de Brasil 1808, Imprenta Regia, Biblioteca Real, Jardín Botánico); elevación a Reino Unido de Portugal, Brasil y Algarves (1815). Misión Artística Francesa (1816) trajo Debret, Taunay. Revolución Pernambucana (1817) republicana fue reprimida. Revolución Liberal de Oporto (1820) exigió retorno de Juan. Príncipe Pedro quedó como regente (1821). Período urbanizó Río, introdujo costumbres europeas, modernizó administración pero aumentó privilegios portugueses generando insatisfacción brasileña.",
+      "inicio": 1808,
+      "fim": 1821,
+      "tags": [
+        "brasil",
+        "imperio",
+        "familia_real"
+      ],
+      "importancia": "A transferência da Corte portuguesa em 1808 foi o único caso da história moderna em que a metrópole de um império colonial mudou-se fisicamente para a colônia. Isso transformou o Rio de Janeiro na maior cidade do mundo lusófono e deu ao Brasil acesso direto às redes financeiras e diplomáticas europeias que as colônias espanholas nunca tiveram. A independência de 1822 foi relativamente pacífica em parte porque o aparato estatal já estava instalado no Brasil.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Period urbanized Rio, introduced European customs, modernized administration but increased Portuguese privileges generating Brazilian dissatisfaction.",
+      "importancia_es": "Período urbanizó Río, introdujo costumbres europeas, modernizó administración pero aumentó privilegios portugueses generando insatisfacción brasileña."
+    },
+    {
+      "id": "bim-002",
+      "nome": "Independência",
+      "nome_en": "Independence",
+      "nome_es": "Independencia",
+      "tipo": "periodo",
+      "descricao": "Processo (1821-1822) culminando na separação de Portugal. Cortes portuguesas exigiram retorno de D. Pedro e recolonização do Brasil. Dia do Fico (9 janeiro 1822): Pedro decidiu ficar após pressão de José Bonifácio e elites. Decreto do 'Cumpra-se' (junho): leis portuguesas só valeriam com aprovação de Pedro. Grito do Ipiranga (7 setembro 1822): proclamação da independência às margens do rio. Coroação como D. Pedro I (1º dezembro 1822). Guerras de independência na Bahia, Maranhão, Pará, Cisplatina (1822-1824). Reconhecimento inglês mediante pagamento de 2 milhões de libras a Portugal (1825). Independência conservadora: elite manteve escravidão, latifúndio, monarquia. População: ~4 milhões (1 milhão escravizados). José Bonifácio redigiu bases do Estado brasileiro.",
+      "descricao_en": "Process (1821-1822) culminating in separation from Portugal. Portuguese Cortes demanded Peter's return and Brazil recolonization. Fico Day (January 9, 1822): Peter decided to stay after pressure from José Bonifácio and elites. 'Cumpra-se' Decree (June): Portuguese laws only valid with Peter's approval. Ipiranga Cry (September 7, 1822): independence proclamation on river banks. Coronation as Peter I (December 1, 1822). Independence wars in Bahia, Maranhão, Pará, Cisplatina (1822-1824). English recognition upon payment of 2 million pounds to Portugal (1825). Conservative independence: elite maintained slavery, latifundium, monarchy. Population: ~4 million (1 million enslaved). José Bonifácio drafted Brazilian State foundations.",
+      "descricao_es": "Proceso (1821-1822) culminando en separación de Portugal. Cortes portuguesas exigieron retorno de Pedro y recolonización de Brasil. Día del Fico (9 enero 1822): Pedro decidió quedarse tras presión de José Bonifácio y elites. Decreto del 'Cúmplase' (junio): leyes portuguesas solo válidas con aprobación de Pedro. Grito de Ipiranga (7 septiembre 1822): proclamación de independencia a orillas del río. Coronación como Pedro I (1 diciembre 1822). Guerras de independencia en Bahía, Maranhão, Pará, Cisplatina (1822-1824). Reconocimiento inglés mediante pago de 2 millones de libras a Portugal (1825). Independencia conservadora: elite mantuvo esclavitud, latifundio, monarquía. Población: ~4 millones (1 millón esclavizados). José Bonifácio redactó bases del Estado brasileño.",
+      "inicio": 1821,
+      "fim": 1822,
+      "tags": [
+        "brasil",
+        "imperio",
+        "independencia"
+      ],
+      "importancia": "A Independência do Brasil foi única nas Américas: realizada por um príncipe europeu, sem guerra de libertação significativa, mantendo a escravidão intacta e a estrutura social colonial. Isso a distingue tanto da independência americana (revolução republicana e antimonarquista) quanto das independências hispano-americanas (guerras sangrentas). A continuidade estrutural teve um custo: o Brasil chegou ao século XX com desigualdades herdadas diretamente do período colonial que outras nações pelo menos formalmente romperam.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Population: ~4 million (1 million enslaved). José Bonifácio drafted Brazilian State foundations.",
+      "importancia_es": "Población: ~4 millones (1 millón esclavizados). José Bonifácio redactó bases del Estado brasileño."
+    },
+    {
+      "id": "bim-003",
+      "nome": "Primeiro Reinado",
+      "nome_en": "First Reign",
+      "nome_es": "Primer Reinado",
+      "tipo": "periodo",
+      "descricao": "Governo de D. Pedro I (1822-1831) marcado por autoritarismo e conflitos. Constituição de 1824: outorgada após dissolução da Assembleia Constituinte (1823). Criou Poder Moderador (exclusivo do imperador, acima dos três poderes), voto censitário (renda), catolicismo religião oficial. Confederação do Equador (1824, Pernambuco): revolta republicana contra centralização, reprimida violentamente (fuzilamento de Frei Caneca). Guerra da Cisplatina (1825-1828): Brasil perdeu província para Argentina/Uruguai após derrota, criando Uruguai independente. Crise econômica: dívidas, inflação. Assassinato de Líbero Badaró (1830), jornalista opositor. Noite das Garrafadas (1831): confronto entre portugueses e brasileiros. Impopularidade crescente levou à abdicação (7 abril 1831). Pedro deixou filho Pedro II (5 anos) e retornou a Portugal para disputar trono contra irmão absolutista Miguel.",
+      "descricao_en": "Government of Peter I (1822-1831) marked by authoritarianism and conflicts. Constitution of 1824: granted after dissolution of Constituent Assembly (1823). Created Moderating Power (exclusive to emperor, above three powers), census voting (income), Catholicism official religion. Equator Confederation (1824, Pernambuco): republican revolt against centralization, violently suppressed (execution of Friar Caneca). Cisplatine War (1825-1828): Brazil lost province to Argentina/Uruguay after defeat, creating independent Uruguay. Economic crisis: debts, inflation. Assassination of Líbero Badaró (1830), opposition journalist. Night of Bottles (1831): confrontation between Portuguese and Brazilians. Growing unpopularity led to abdication (April 7, 1831). Peter left son Peter II (5 years) and returned to Portugal to dispute throne against absolutist brother Miguel.",
+      "descricao_es": "Gobierno de Pedro I (1822-1831) marcado por autoritarismo y conflictos. Constitución de 1824: otorgada tras disolución de Asamblea Constituyente (1823). Creó Poder Moderador (exclusivo del emperador, sobre tres poderes), voto censitario (renta), catolicismo religión oficial. Confederación del Ecuador (1824, Pernambuco): revuelta republicana contra centralización, reprimida violentamente (fusilamiento de Fray Caneca). Guerra de Cisplatina (1825-1828): Brasil perdió provincia ante Argentina/Uruguay tras derrota, creando Uruguay independiente. Crisis económica: deudas, inflación. Asesinato de Líbero Badaró (1830), periodista opositor. Noche de Botellas (1831): confrontación entre portugueses y brasileños. Impopularidad creciente llevó a abdicación (7 abril 1831). Pedro dejó hijo Pedro II (5 años) y retornó a Portugal para disputar trono contra hermano absolutista Miguel.",
+      "inicio": 1822,
+      "fim": 1831,
+      "tags": [
+        "brasil",
+        "imperio",
+        "pedro_i"
+      ],
+      "importancia": "A Constituição de 1824 criou o Poder Moderador — ideia tirada de Benjamin Constant — que dava ao Imperador autoridade acima dos três poderes clássicos. Na prática, D. Pedro I usou esse poder para dissolver o Congresso quando lhe convinha. A abdicação em 1831 foi resultado direto da incompatibilidade entre esse poder concentrado e as aspirações liberais das elites brasileiras que queriam um constitucionalismo real, não apenas nominal.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Peter left son Peter II (5 years) and returned to Portugal to dispute throne against absolutist brother Miguel.",
+      "importancia_es": "Pedro dejó hijo Pedro II (5 años) y retornó a Portugal para disputar trono contra hermano absolutista Miguel."
+    },
+    {
+      "id": "bim-009",
+      "nome": "Economia Cafeeira Imperial",
+      "nome_en": "Imperial Coffee Economy",
+      "nome_es": "Economía Cafetalera Imperial",
+      "tipo": "periodo",
+      "descricao": "Café (1830-1930) tornou-se base econômica substituindo açúcar. Plantado inicialmente no Vale do Paraíba (RJ) com trabalho escravo, depois expandiu para Oeste Paulista (terra roxa fértil) com colonos imigrantes. Brasil controlou 50-80% da produção mundial. Barões do café (Vassouras, Bananal) enriqueceram, investiram em ferrovias (Santos-Jundiaí 1868), bancos, política. Sistema: grandes fazendas monocultoras exportadoras, dependência externa, vulnerabilidade a oscilações de preço. Crises de superprodução levaram a políticas de valorização (governos compravam excedentes). Café financiou modernização: ferrovias, portos, indústrias. São Paulo ultrapassou Rio economicamente. Burguesia cafeeira paulista pressionou por federalismo e república para controlar política sem intermediação imperial.",
+      "descricao_en": "Coffee (1830-1930) became economic base replacing sugar. Initially planted in Paraíba Valley (RJ) with slave labor, then expanded to Western São Paulo (fertile purple soil) with immigrant settlers. Brazil controlled 50-80% of world production. Coffee barons (Vassouras, Bananal) enriched, invested in railways (Santos-Jundiaí 1868), banks, politics. System: large export monoculture farms, external dependence, price oscillation vulnerability. Overproduction crises led to valorization policies (governments bought surpluses). Coffee financed modernization: railways, ports, industries. São Paulo surpassed Rio economically. São Paulo coffee bourgeoisie pressured for federalism and republic to control politics without imperial intermediation.",
+      "descricao_es": "Café (1830-1930) se convirtió en base económica sustituyendo azúcar. Plantado inicialmente en Valle del Paraíba (RJ) con trabajo esclavo, después expandió a Oeste Paulista (tierra roja fértil) con colonos inmigrantes. Brasil controló 50-80% de producción mundial. Barones del café (Vassouras, Bananal) enriquecieron, invirtieron en ferrocarriles (Santos-Jundiaí 1868), bancos, política. Sistema: grandes haciendas monocultoras exportadoras, dependencia externa, vulnerabilidad a oscilaciones de precio. Crisis de superproducción llevaron a políticas de valorización (gobiernos compraban excedentes). Café financió modernización: ferrocarriles, puertos, industrias. São Paulo superó Río económicamente. Burguesía cafetalera paulista presionó por federalismo y república para controlar política sin intermediación imperial.",
+      "inicio": 1830,
+      "fim": 1930,
+      "tags": [
+        "brasil",
+        "imperio",
+        "cafe"
+      ],
+      "importancia": "A economia cafeeira imperial criou a primeira grande burguesia brasileira — os 'barões do café' — mas também criou a estrutura de dependência de commodity de exportação que o Brasil luta para superar até hoje. O café financiou a modernização (ferrovias, portos, urbanização) mas também criou uma elite econômica com interesse em manter a política comercial aberta e a mão de obra barata. A oscilação dos preços internacionais do café foi o principal vetor de crises políticas da Primeira República.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "economic",
+      "period": "Modern",
+      "importancia_en": "São Paulo coffee bourgeoisie pressured for federalism and republic to control politics without imperial intermediation.",
+      "importancia_es": "Burguesía cafetalera paulista presionó por federalismo y república para controlar política sin intermediación imperial."
+    },
+    {
+      "id": "bim-004",
+      "nome": "Regências",
+      "nome_en": "Regencies",
+      "nome_es": "Regencias",
+      "tipo": "periodo",
+      "descricao": "Período (1831-1840) de governos provisórios durante menoridade de Pedro II. Regência Tuna (1831), Permanente (1831-1835, Feijó), Una de Araújo Lima (1838-1840). Reformas liberais: Ato Adicional (1834) descentralizou poder criando Assembleias Provinciais, Código de Processo Criminal, Guarda Nacional. Revoltas regionais refletiram fragilidade central: Cabanagem (Pará, 1835-1840) popular matou 30.000; Sabinada (Bahia, 1837-1838) republicana; Balaiada (Maranhão, 1838-1841) de escravos/sertanejos; Farroupilha (Rio Grande Sul, 1835-1845) maior revolta, proclamou República Rio-Grandense, só pacificada por Caxias. Golpe da Maioridade (1840): liberais anteciparam coroação de Pedro II (14 anos) para centralizar poder e acabar com revoltas.",
+      "descricao_en": "Period (1831-1840) of provisional governments during Peter II's minority. Tuna Regency (1831), Permanent (1831-1835, Feijó), Una of Araújo Lima (1838-1840). Liberal reforms: Additional Act (1834) decentralized power creating Provincial Assemblies, Criminal Procedure Code, National Guard. Regional revolts reflected central fragility: Cabanagem (Pará, 1835-1840) popular killed 30,000; Sabinada (Bahia, 1837-1838) republican; Balaiada (Maranhão, 1838-1841) of slaves/backwoodsmen; Farroupilha (Rio Grande do Sul, 1835-1845) largest revolt, proclaimed Rio-Grandense Republic, only pacified by Caxias. Majority Coup (1840): liberals anticipated Peter II coronation (14 years) to centralize power and end revolts.",
+      "descricao_es": "Período (1831-1840) de gobiernos provisionales durante minoría de Pedro II. Regencia Tuna (1831), Permanente (1831-1835, Feijó), Una de Araújo Lima (1838-1840). Reformas liberales: Acta Adicional (1834) descentralizó poder creando Asambleas Provinciales, Código de Proceso Criminal, Guardia Nacional. Revueltas regionales reflejaron fragilidad central: Cabanagem (Pará, 1835-1840) popular mató 30.000; Sabinada (Bahía, 1837-1838) republicana; Balaiada (Maranhão, 1838-1841) de esclavos/sertanejos; Farroupilha (Río Grande del Sur, 1835-1845) mayor revuelta, proclamó República Riograndense, solo pacificada por Caxias. Golpe de Mayoría (1840): liberales anticiparon coronación de Pedro II (14 años) para centralizar poder y terminar revueltas.",
+      "inicio": 1831,
+      "fim": 1840,
+      "tags": [
+        "brasil",
+        "imperio",
+        "regencias"
+      ],
+      "importancia": "As Regências (1831-1840) foram o período mais instável da história brasileira: ao menos seis grandes revoltas (Cabanagem, Balaiada, Farroupilha, Sabinada, Revolta dos Malês) ameaçaram a integridade territorial. A solução foi 'inventar' a maioridade de Pedro II (13 anos) em 1840 — o 'Golpe da Maioridade' — para dar ao Estado um foco de lealdade nacional. Funcionou: a monarquia sobreviveu mais 49 anos. Mas a solução foi institucional e simbólica, não estrutural.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Majority Coup (1840): liberals anticipated Peter II coronation (14 years) to centralize power and end revolts.",
+      "importancia_es": "Golpe de Mayoría (1840): liberales anticiparon coronación de Pedro II (14 años) para centralizar poder y terminar revueltas."
+    },
+    {
+      "id": "bim-005",
+      "nome": "Segundo Reinado - Apogeu",
+      "nome_en": "Second Reign - Apex",
+      "nome_es": "Segundo Reinado - Apogeo",
+      "tipo": "periodo",
+      "descricao": "Governo de D. Pedro II (1840-1889) trouxe estabilidade política. Sistema parlamentarista: alternância entre liberais e conservadores (nada muda, nada mudará). Economia cafeeira expandiu-se no Vale do Paraíba (RJ/SP) usando trabalho escravo. Café tornou-se 50-60% das exportações. Barões do café enriqueceram. Modernização: ferrovias (Barão de Mauá, 1854), telegrafo, navegação a vapor. Mauá fundou bancos, estaleiros, indústrias. Guerra do Paraguai (1865-1870): Brasil, Argentina, Uruguai vs. Paraguai. Conflito mais sangrento América do Sul: ~400.000 mortos (Paraguai devastado perdendo 60-70% população masculina). Brasil mobilizou ~200.000 soldados incluindo escravos prometendo liberdade. Vitória fortaleceu exército mas gerou dívidas. Caxias comandou tropas.",
+      "descricao_en": "Government of Peter II (1840-1889) brought political stability. Parliamentary system: alternation between liberals and conservatives (nothing changes, nothing will change). Coffee economy expanded in Paraíba Valley (RJ/SP) using slave labor. Coffee became 50-60% of exports. Coffee barons enriched. Modernization: railways (Baron of Mauá, 1854), telegraph, steam navigation. Mauá founded banks, shipyards, industries. Paraguayan War (1865-1870): Brazil, Argentina, Uruguay vs. Paraguay. Bloodiest South American conflict: ~400,000 deaths (Paraguay devastated losing 60-70% male population). Brazil mobilized ~200,000 soldiers including slaves promising freedom. Victory strengthened army but generated debts. Caxias commanded troops.",
+      "descricao_es": "Gobierno de Pedro II (1840-1889) trajo estabilidad política. Sistema parlamentarista: alternancia entre liberales y conservadores (nada cambia, nada cambiará). Economía cafetalera se expandió en Valle del Paraíba (RJ/SP) usando trabajo esclavo. Café se convirtió en 50-60% de exportaciones. Barones del café enriquecieron. Modernización: ferrocarriles (Barón de Mauá, 1854), telégrafo, navegación a vapor. Mauá fundó bancos, astilleros, industrias. Guerra del Paraguay (1865-1870): Brasil, Argentina, Uruguay vs. Paraguay. Conflicto más sangriento de Sudamérica: ~400.000 muertes (Paraguay devastado perdiendo 60-70% población masculina). Brasil movilizó ~200.000 soldados incluyendo esclavos prometiendo libertad. Victoria fortaleció ejército pero generó deudas. Caxias comandó tropas.",
+      "inicio": 1840,
+      "fim": 1870,
+      "tags": [
+        "brasil",
+        "imperio",
+        "pedro_ii"
+      ],
+      "importancia": "O Segundo Reinado (1840-1889) foi o período mais estável da história brasileira — e esse sucesso foi paradoxalmente a semente de sua queda. A estabilidade política dependia do Poder Moderador pessoal de Pedro II, que não era transmissível institucionalmente. Quando o Imperador envelheceu e adoeceu, nenhuma instituição estava preparada para substituir seu papel de árbitro. A abolição de 1888 alienou a base escravista sem ganhar uma nova base republicana — e o regime desabou em 1889 quase sem resistência.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "economic",
+      "period": "Modern",
+      "importancia_en": "Brazil mobilized ~200,000 soldiers including slaves promising freedom. Victory strengthened army but generated debts.",
+      "importancia_es": "Brasil movilizó ~200.000 soldados incluyendo esclavos prometiendo libertad. Victoria fortaleció ejército pero generó deudas."
+    },
+    {
+      "id": "bim-010",
+      "nome": "Cultura Imperial",
+      "nome_en": "Imperial Culture",
+      "nome_es": "Cultura Imperial",
+      "tipo": "periodo",
+      "descricao": "Florescimento cultural (1840-1889) sob mecenato de Pedro II. Imperador incentivou artes, ciências, educação. Fundações: Instituto Histórico e Geográfico Brasileiro (1838), Colégio Pedro II (1837, ensino secundário modelo), Academia Imperial de Belas Artes. Literatura romântica exaltou nacionalismo: José de Alencar (O Guarani, Iracema), Gonçalves Dias (Canção do Exílio), Castro Alves (abolicionista). Machado de Assis iniciou carreira. Teatro: Martins Pena (comédias), João Caetano. Música: Carlos Gomes (O Guarani, Scala de Milão). Pedro II protegia intelectuais, correspondeu-se com cientistas europeus, visitou EUA e Europa. Participação em Exposições Universais. Educação limitada: analfabetismo ~80%. Ensino superior para elite: faculdades de Direito (SP, Recife), Medicina (BA, RJ). Imprensa cresceu: jornais políticos, literários, humorísticos.",
+      "descricao_en": "Cultural flowering (1840-1889) under Peter II patronage. Emperor encouraged arts, sciences, education. Foundations: Brazilian Historical and Geographical Institute (1838), Pedro II College (1837, model secondary education), Imperial Academy of Fine Arts. Romantic literature exalted nationalism: José de Alencar (O Guarani, Iracema), Gonçalves Dias (Exile Song), Castro Alves (abolitionist). Machado de Assis began career. Theater: Martins Pena (comedies), João Caetano. Music: Carlos Gomes (O Guarani, Milan Scala). Peter II protected intellectuals, corresponded with European scientists, visited USA and Europe. Participation in Universal Expositions. Limited education: ~80% illiteracy. Higher education for elite: Law schools (SP, Recife), Medicine (BA, RJ). Press grew: political, literary, humorous newspapers.",
+      "descricao_es": "Florecimiento cultural (1840-1889) bajo mecenazgo de Pedro II. Emperador incentivó artes, ciencias, educación. Fundaciones: Instituto Histórico y Geográfico Brasileño (1838), Colegio Pedro II (1837, enseñanza secundaria modelo), Academia Imperial de Bellas Artes. Literatura romántica exaltó nacionalismo: José de Alencar (O Guarani, Iracema), Gonçalves Dias (Canción del Exilio), Castro Alves (abolicionista). Machado de Assis inició carrera. Teatro: Martins Pena (comedias), João Caetano. Música: Carlos Gomes (O Guarani, Scala de Milán). Pedro II protegió intelectuales, se correspondió con científicos europeos, visitó EE.UU. y Europa. Participación en Exposiciones Universales. Educación limitada: ~80% analfabetismo. Enseñanza superior para elite: facultades de Derecho (SP, Recife), Medicina (BA, RJ). Prensa creció: periódicos políticos, literarios, humorísticos.",
+      "inicio": 1840,
+      "fim": 1889,
+      "tags": [
+        "brasil",
+        "imperio",
+        "cultura"
+      ],
+      "importancia": "O mecenato cultural de Pedro II produziu o IHGB, a Academia Imperial de Belas Artes, o Museu Nacional e a primeira rede de bibliotecas públicas do Brasil — criando as fundações institucionais da cultura letrada brasileira. O Imperador correspondia-se com Darwin, Pasteur, Hugo e Wagner. Mas esse investimento cultural foi paradoxalmente elitista: criou uma cultura oficial européia em verniz sobre uma sociedade majoritariamente analfabeta. A tensão entre erudição de elite e cultura popular definiria o debate cultural brasileiro por um século.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "cultural",
+      "period": "Modern",
+      "importancia_en": "Higher education for elite: Law schools (SP, Recife), Medicine (BA, RJ). Press grew: political, literary, humorous newspapers.",
+      "importancia_es": "Prensa creció: periódicos políticos, literarios, humorísticos."
+    },
+    {
+      "id": "bim-006",
+      "nome": "Abolição da Escravatura",
+      "nome_en": "Slavery Abolition",
+      "nome_es": "Abolición de la Esclavitud",
+      "tipo": "periodo",
+      "descricao": "Processo gradual (1850-1888) encerrando 350 anos de escravidão. Lei Eusébio de Queirós (1850): proibiu tráfico negreiro pressionada pela Inglaterra. Lei do Ventre Livre (1871): filhos de escravas nasciam livres após 21 anos. Lei dos Sexagenários (1885): libertou escravos com +60 anos (poucos chegavam). Movimento abolicionista: Joaquim Nabuco, José do Patrocínio, André Rebouças, Castro Alves (Navio Negreiro). Fugas massivas para quilombos. Exército recusou-se a perseguir fugitivos. Lei Áurea (13 maio 1888): Princesa Isabel aboliu escravidão sem indenização a proprietários, libertando ~700.000. Brasil foi último país americano a abolir. Sem políticas de integração, ex-escravos ficaram marginalizados. Fazendeiros, insatisfeitos pela falta de indenização, apoiaram república. População 1888: ~14 milhões (5% escravos).",
+      "descricao_en": "Gradual process (1850-1888) ending 350 years of slavery. Eusébio de Queirós Law (1850): prohibited slave trade pressured by England. Free Womb Law (1871): slaves' children born free after 21 years. Sexagenarians Law (1885): freed slaves with +60 years (few reached). Abolitionist movement: Joaquim Nabuco, José do Patrocínio, André Rebouças, Castro Alves (Slave Ship). Mass escapes to quilombos. Army refused to pursue fugitives. Golden Law (May 13, 1888): Princess Isabel abolished slavery without compensation to owners, freeing ~700,000. Brazil was last American country to abolish. Without integration policies, former slaves remained marginalized. Farmers, dissatisfied by lack of compensation, supported republic. Population 1888: ~14 million (5% slaves).",
+      "descricao_es": "Proceso gradual (1850-1888) terminando 350 años de esclavitud. Ley Eusébio de Queirós (1850): prohibió tráfico negrero presionada por Inglaterra. Ley del Vientre Libre (1871): hijos de esclavas nacían libres tras 21 años. Ley de Sexagenarios (1885): liberó esclavos con +60 años (pocos llegaban). Movimiento abolicionista: Joaquim Nabuco, José do Patrocínio, André Rebouças, Castro Alves (Navío Negrero). Fugas masivas a quilombos. Ejército se negó a perseguir fugitivos. Ley Áurea (13 mayo 1888): Princesa Isabel abolió esclavitud sin indemnización a propietarios, liberando ~700.000. Brasil fue último país americano en abolir. Sin políticas de integración, ex-esclavos quedaron marginados. Hacendados, insatisfechos por falta de indemnización, apoyaron república. Población 1888: ~14 millones (5% esclavos).",
+      "inicio": 1850,
+      "fim": 1888,
+      "tags": [
+        "brasil",
+        "imperio",
+        "abolicao"
+      ],
+      "importancia": "O processo abolicionista brasileiro (1850-1888) revela o caráter do Estado imperial: reagiu a pressões externas (Inglaterra) e internas (movimentos abolicionistas, fugas em massa) de forma gradual e calculada para minimizar perturbações à ordem. A Lei Áurea foi assinada por uma princesa, não por um presidente eleito — símbolo de como a abolição brasileira foi 'de cima para baixo'. O custo: os ex-escravizados não receberam terra, educação ou reparação. A abolição formal sem integração social gerou as desigualdades raciais que persistem até hoje.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Farmers, dissatisfied by lack of compensation, supported republic. Population 1888: ~14 million (5% slaves).",
+      "importancia_es": "Hacendados, insatisfechos por falta de indemnización, apoyaron república. Población 1888: ~14 millones (5% esclavos)."
+    },
+    {
+      "id": "bim-008",
+      "nome": "Imigração Europeia",
+      "nome_en": "European Immigration",
+      "nome_es": "Inmigración Europea",
+      "tipo": "periodo",
+      "descricao": "Fluxo migratório (1850-1930) trouxe ~4 milhões de europeus substituindo mão-de-obra escrava. Governo incentivou imigração: passagens pagas, terras, colônias. Principais grupos: italianos (~1,5 milhão, maioria em SP), portugueses (~1,2 milhão), espanhóis (~700 mil), alemães (~250 mil, Sul), japoneses (~200 mil pós-1908). Italianos trabalharam em fazendas de café (sistema colonato: família cuidava de cafezais recebendo por pé), depois urbanizaram-se. Alemães fundaram colônias no Sul (Blumenau, Joinville, Novo Hamburgo) mantendo língua e cultura. Sírio-libaneses tornaram-se comerciantes. Consequências: branqueamento populacional (teorias raciais), industrialização (imigrantes traziam habilidades), urbanização, diversificação cultural, conflitos trabalhistas (greves anarco-sindicalistas). Sul desenvolveu pequena propriedade policultora contrastando com latifúndio nordestino.",
+      "descricao_en": "Migratory flow (1850-1930) brought ~4 million Europeans replacing slave labor. Government encouraged immigration: paid passages, lands, colonies. Main groups: Italians (~1.5 million, majority in SP), Portuguese (~1.2 million), Spanish (~700 thousand), Germans (~250 thousand, South), Japanese (~200 thousand post-1908). Italians worked on coffee farms (colonato system: family cared for coffee plantations receiving per tree), later urbanized. Germans founded colonies in South (Blumenau, Joinville, Novo Hamburgo) maintaining language and culture. Syrian-Lebanese became merchants. Consequences: population whitening (racial theories), industrialization (immigrants brought skills), urbanization, cultural diversification, labor conflicts (anarcho-syndicalist strikes). South developed small polyculture property contrasting with Northeastern latifundium.",
+      "descricao_es": "Flujo migratorio (1850-1930) trajo ~4 millones de europeos sustituyendo mano de obra esclava. Gobierno incentivó inmigración: pasajes pagados, tierras, colonias. Principales grupos: italianos (~1,5 millones, mayoría en SP), portugueses (~1,2 millones), españoles (~700 mil), alemanes (~250 mil, Sur), japoneses (~200 mil post-1908). Italianos trabajaron en haciendas de café (sistema colonato: familia cuidaba cafetales recibiendo por pie), después se urbanizaron. Alemanes fundaron colonias en Sur (Blumenau, Joinville, Novo Hamburgo) manteniendo lengua y cultura. Sirio-libaneses se convirtieron en comerciantes. Consecuencias: blanqueamiento poblacional (teorías raciales), industrialización (inmigrantes trajeron habilidades), urbanización, diversificación cultural, conflictos laborales (huelgas anarco-sindicalistas). Sur desarrolló pequeña propiedad policultora contrastando con latifundio nordestino.",
+      "inicio": 1850,
+      "fim": 1930,
+      "tags": [
+        "brasil",
+        "imperio",
+        "imigracao"
+      ],
+      "importancia": "A imigração europeia (1850-1930: ~5 milhões de imigrantes) transformou a composição demográfica e econômica do Brasil, especialmente São Paulo. Os imigrantes trouxeram cultura do trabalho assalariado, associativismo, sindicalismo e valores que aceleraram a urbanização industrial. A substituição do trabalho escravizado pelo imigrante foi política deliberada que combinava racismo (branqueamento) com necessidade econômica. A identidade paulistana contemporânea — multicultural, empreendedora, cosmopolita — foi forjada nesse processo.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "social",
+      "period": "Modern",
+      "importancia_en": "South developed small polyculture property contrasting with Northeastern latifundium.",
+      "importancia_es": "Sur desarrolló pequeña propiedad policultora contrastando con latifundio nordestino."
+    },
+    {
+      "id": "bim-007",
+      "nome": "Crise do Império",
+      "nome_en": "Empire Crisis",
+      "nome_es": "Crisis del Imperio",
+      "tipo": "periodo",
+      "descricao": "Desgaste (1870-1889) levou à queda da monarquia. Questão Religiosa (1872-1875): conflito entre Igreja e maçonaria, bispos presos geraram indisposição católica. Questão Militar (1883-1887): oficiais punidos por criticarem governo publicamente, exército sentiu-se desrespeitado. Influência positivista de Benjamin Constant. Abolição sem indenização (1888) alienou fazendeiros que financiavam monarquia. Movimento republicano cresceu: clubes republicanos, Partido Republicano (1870), Manifesto Republicano, propaganda em jornais. Ideias: federalismo, separação Igreja-Estado, voto universal. Marechal Deodoro da Fonseca liderou golpe (15 novembro 1889) apoiado por militares positivistas e fazendeiros paulistas. Pedro II, doente e cansado, não resistiu. Exilado para Europa com família. Monarquia caiu quase sem resistência popular.",
+      "descricao_en": "Wear (1870-1889) led to monarchy fall. Religious Question (1872-1875): conflict between Church and Freemasonry, imprisoned bishops generated Catholic indisposition. Military Question (1883-1887): officers punished for publicly criticizing government, army felt disrespected. Positivist influence of Benjamin Constant. Abolition without compensation (1888) alienated farmers who financed monarchy. Republican movement grew: republican clubs, Republican Party (1870), Republican Manifesto, newspaper propaganda. Ideas: federalism, Church-State separation, universal vote. Marshal Deodoro da Fonseca led coup (November 15, 1889) supported by positivist military and São Paulo farmers. Peter II, sick and tired, did not resist. Exiled to Europe with family. Monarchy fell almost without popular resistance.",
+      "descricao_es": "Desgaste (1870-1889) llevó a caída de monarquía. Cuestión Religiosa (1872-1875): conflicto entre Iglesia y masonería, obispos presos generaron indisposición católica. Cuestión Militar (1883-1887): oficiales castigados por criticar gobierno públicamente, ejército se sintió irrespetado. Influencia positivista de Benjamin Constant. Abolición sin indemnización (1888) alienó hacendados que financiaban monarquía. Movimiento republicano creció: clubes republicanos, Partido Republicano (1870), Manifiesto Republicano, propaganda en periódicos. Ideas: federalismo, separación Iglesia-Estado, voto universal. Mariscal Deodoro da Fonseca lideró golpe (15 noviembre 1889) apoyado por militares positivistas y hacendados paulistas. Pedro II, enfermo y cansado, no resistió. Exiliado a Europa con familia. Monarquía cayó casi sin resistencia popular.",
+      "inicio": 1870,
+      "fim": 1889,
+      "tags": [
+        "brasil",
+        "imperio",
+        "crise"
+      ],
+      "importancia": "A crise do Império foi, no fundo, uma crise de modernização: o Brasil estava mudando mais rápido do que suas instituições políticas. A imigração europeia, a industrialização incipiente, o crescimento urbano e a consolidação de elites regionais criaram grupos com interesses que o modelo monárquico-escravista não representava. A Questão Militar revelou que nem a base de força do regime — o Exército — estava comprometida com a monarquia. Quando caiu, caiu sem um defensor.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Peter II, sick and tired, did not resist. Monarchy fell almost without popular resistance.",
+      "importancia_es": "Pedro II, enfermo y cansado, no resistió. Monarquía cayó casi sin resistencia popular."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "bim-001",
+      "destino": "bim-002",
+      "tipo": "causalidade",
+      "descricao": "Pressão das Cortes portuguesas levou à independência"
+    },
+    {
+      "origem": "bim-002",
+      "destino": "bim-003",
+      "tipo": "evolucao",
+      "descricao": "Independência levou ao Primeiro Reinado de Pedro I"
+    },
+    {
+      "origem": "bim-003",
+      "destino": "bim-004",
+      "tipo": "causalidade",
+      "descricao": "Abdicação de Pedro I iniciou período das Regências"
+    },
+    {
+      "origem": "bim-004",
+      "destino": "bim-005",
+      "tipo": "evolucao",
+      "descricao": "Golpe da Maioridade encerrou Regências iniciando Segundo Reinado"
+    },
+    {
+      "origem": "bim-006",
+      "destino": "bim-007",
+      "tipo": "causalidade",
+      "descricao": "Abolição sem indenização alienou fazendeiros causando crise imperial"
+    },
+    {
+      "origem": "bim-007",
+      "destino": "bim-002",
+      "tipo": "evolucao",
+      "descricao": "Crise do Império levou à Proclamação da República"
+    }
+  ]
+}

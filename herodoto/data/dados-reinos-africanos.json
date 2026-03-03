@@ -1,0 +1,197 @@
+{
+  "entidades": [
+    {
+      "id": "rafr-001",
+      "nome": "Reino de Aksum (Etiópia Antiga)",
+      "nome_en": "Kingdom of Aksum (Ancient Ethiopia)",
+      "nome_es": "Reino de Aksum (Etiopía Antigua)",
+      "tipo": "periodo",
+      "descricao": "Aksum (100-940 d.C.): um dos maiores impérios da Antiguidade Tardia, no atual norte da Etiópia/Eritreia. Controlou o Mar Vermelho e o comércio entre Roma e Índia. Ezana (~330 d.C.) primeiro rei a adotar o Cristianismo como religião oficial — antes de Roma. Cunhou moedas com a cruz. Destruiu o reino de Kush/Meroé. Obeliscos de granito de até 33m. Origem lendária da Arca da Aliança em Axum.",
+      "descricao_en": "Aksum (100-940 AD): one of the greatest empires of Late Antiquity, in present-day northern Ethiopia/Eritrea. Controlled the Red Sea and trade between Rome and India. Ezana (~330 AD) first king to adopt Christianity as official religion — before Rome. Minted coins with the cross. Destroyed the kingdom of Kush/Meroe. Granite obelisks up to 33m tall. Legendary origin of the Ark of the Covenant in Axum.",
+      "descricao_es": "Aksum (100-940 d.C.): uno de los mayores imperios de la Antigüedad Tardía. Controló el Mar Rojo y el comercio entre Roma e India. Ezana (~330 d.C.) primer rey en adoptar el Cristianismo como religión oficial — antes que Roma. Obeliscos de granito de hasta 33m. Origen legendario del Arca de la Alianza.",
+      "inicio": 100,
+      "fim": 940,
+      "tags": [
+        "aksum",
+        "etiopia",
+        "africa",
+        "cristianismo"
+      ],
+      "importancia": "Axum foi o primeiro Estado cristão da história, tendo convertido antes que o Império Romano — e manteve o Cristianismo ininterruptamente por 1.700 anos, mesmo cercado pelo Islã. A Igreja Ortodoxa Etíope (Tewahedo) é a continuação viva de Axum: usa ge'ez, conserva o Cânon de escrituras mais extenso do mundo cristão (incluindo livros que outras igrejas rejeitaram) e alega guardar a Arca da Aliança em Axum. Seja verdade ou não, a reivindicação revela a profundidade da identidade axumita na consciência etíope contemporânea.",
+      "century_start": 1,
+      "century_end": 10,
+      "region": "Africa",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "Granite obelisks up to 33m tall. Legendary origin of the Ark of the Covenant in Axum.",
+      "importancia_es": "Obeliscos de granito de hasta 33m. Origen legendario del Arca de la Alianza."
+    },
+    {
+      "id": "rafr-004",
+      "nome": "Grande Zimbabwe e os Reinos Bantu",
+      "nome_en": "Great Zimbabwe and Bantu Kingdoms",
+      "nome_es": "Gran Zimbabwe y los Reinos Bantú",
+      "tipo": "periodo",
+      "descricao": "Grande Zimbabwe (1100-1450): capital de um estado que controlou o comércio de ouro entre o interior africano e a costa suaíli. Muralhas de pedra seca de 11 metros — sem argamassa, sem paralelo em África subsaariana. 18.000 habitantes no pico. Ouro vai para o Oceano Índico: comerciantes árabes, persas, chineses (porcelana Ming encontrada no local). Colonizadores britânicos negaram que africanos o teriam construído.",
+      "descricao_en": "Great Zimbabwe (1100-1450): capital of a state that controlled gold trade between the African interior and the Swahili coast. Dry stone walls 11 meters high — no mortar, unparalleled in sub-Saharan Africa. 18,000 inhabitants at peak. Gold flows to the Indian Ocean: Arab, Persian, Chinese traders (Ming porcelain found on site). British colonizers denied that Africans could have built it.",
+      "descricao_es": "Gran Zimbabwe (1100-1450): capital de un estado que controló el comercio de oro. Muros de piedra seca de 11 metros — sin argamasa, sin paralelo en África subsahariana. 18.000 habitantes en el apogeo. Porcelana Ming encontrada en el sitio. Los colonizadores británicos negaron que africanos lo hubieran construido.",
+      "inicio": 1100,
+      "fim": 1450,
+      "tags": [
+        "zimbabwe",
+        "bantu",
+        "africa-austral",
+        "ouro"
+      ],
+      "importancia": "Grande Zimbábue é o monumento arquitetônico mais impressionante da África subsaariana — e o símbolo mais carregado politicamente. O Zimbabwe moderno tirou seu nome do sítio arqueológico como ato de afirmação de identidade: rejeitar o nome 'Rodésia' (em honra a Cecil Rhodes) e adotar o nome da civilização que os colonizadores brancos haviam negado que fosse africana. A arqueologia de Zimbabwe é inseparável da política do Zimbabwe — demonstrando que escavar o passado nunca é politicamente neutro.",
+      "century_start": 11,
+      "century_end": 15,
+      "region": "Africa",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "British colonizers denied that Africans could have built it.",
+      "importancia_es": "Los colonizadores británicos negaron que africanos lo hubieran construido."
+    },
+    {
+      "id": "rafr-002",
+      "nome": "Império do Mali e Mansa Musa",
+      "nome_en": "Mali Empire and Mansa Musa",
+      "nome_es": "Imperio de Mali y Mansa Musa",
+      "tipo": "periodo",
+      "descricao": "Império do Mali (1235-1600): fundado por Sundiata Keita após a batalha de Kirina. Controlou o comércio trans-saariano de ouro e sal. Timbuktu: centro intelectual com 25.000 estudantes, 700.000 manuscritos. Mansa Musa (r. 1312-1337): o homem mais rico da história — peregrinação a Meca (1324-25) com 60.000 homens e 12 toneladas de ouro, colapsou a economia do Cairo.",
+      "descricao_en": "Mali Empire (1235-1600): founded by Sundiata Keita after the Battle of Kirina. Controlled trans-Saharan gold and salt trade. Timbuktu: intellectual center with 25,000 students, 700,000 manuscripts. Mansa Musa (r. 1312-1337): the wealthiest person in history — pilgrimage to Mecca (1324-25) with 60,000 men and 12 tons of gold, collapsed Cairo's economy.",
+      "descricao_es": "Imperio de Mali (1235-1600): fundado por Sundiata Keita. Controló el comercio trans-sahariano de oro y sal. Tombuctú: centro intelectual con 25.000 estudiantes, 700.000 manuscritos. Mansa Musa (1312-1337): el hombre más rico de la historia — peregrinaje a La Meca con 60.000 hombres y 12 toneladas de oro.",
+      "inicio": 1235,
+      "fim": 1600,
+      "tags": [
+        "mali",
+        "mansa-musa",
+        "timbuktu",
+        "africa-ocidental"
+      ],
+      "importancia": "Mansa Musa transformou permanentemente a percepção da África no mundo islâmico e na Europa medieval: seu hajj de 1324-25 colocou o Mali no mapa-múndi catalão de 1375, onde aparece entronizado com uma pepita de ouro. Timbuktu, sob o Mali e depois o Songhai, foi o maior centro intelectual do mundo islâmico além do Cairo — sua Universidade de Sankore atraía estudantes do Marrocos, Egito e Oriente Médio. A riqueza do Mali baseava-se no controle de rotas — de ouro para o norte, de sal para o sul — que sustentavam o comércio transaariano por séculos.",
+      "century_start": 13,
+      "century_end": 16,
+      "region": "Africa",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "1312-1337): the wealthiest person in history — pilgrimage to Mecca (1324-25) with 60,000 men and 12 tons of gold, collapsed Cairo's economy.",
+      "importancia_es": "Mansa Musa (1312-1337): el hombre más rico de la historia — peregrinaje a La Meca con 60.000 hombres y 12 toneladas de oro."
+    },
+    {
+      "id": "rafr-005",
+      "nome": "Reino do Kongo",
+      "nome_en": "Kingdom of Kongo",
+      "nome_es": "Reino del Kongo",
+      "tipo": "periodo",
+      "descricao": "Reino do Kongo (1390-1914): Estado centralizado na foz do Rio Congo. Afonso I (r. 1506-1543): converteu-se ao Catolicismo, enviou filho a estudar em Roma — Henrique Kongo, primeiro bispo negro da história (1518). Protestou ao Papa contra o tráfico de escravos por portugueses. Batalha de Mbwila (1665): derrota para Portugal, fragmentação. O Kongo resistiu ao domínio colonial até 1914, nunca totalmente conquistado.",
+      "descricao_en": "Kingdom of Kongo (1390-1914): centralized state at the mouth of the Congo River. Afonso I (r. 1506-1543): converted to Catholicism, sent son to study in Rome — Henrique Kongo, first Black bishop in history (1518). Protested to the Pope against Portuguese slave trade. Battle of Mbwila (1665): defeat to Portugal, fragmentation. Kongo resisted colonial rule until 1914, never fully conquered.",
+      "descricao_es": "Reino del Kongo (1390-1914): Estado centralizado en la desembocadura del río Congo. Afonso I (1506-1543): se convirtió al catolicismo, envió a su hijo a Roma — Henrique Kongo, primer obispo negro de la historia (1518). Protestó al Papa contra la trata de esclavos. El Kongo resistió hasta 1914.",
+      "inicio": 1390,
+      "fim": 1914,
+      "tags": [
+        "kongo",
+        "africa-central",
+        "catolicismo",
+        "escravatura"
+      ],
+      "importancia": "Estado africano que adotou o Catolicismo e resistiu séculos ao colonialismo. Henrique Kongo: primeiro bispo negro da história.",
+      "century_start": 14,
+      "century_end": 20,
+      "region": "Africa",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Kongo resisted colonial rule until 1914, never fully conquered.",
+      "importancia_es": "Afonso I (1506-1543): se convirtió al catolicismo, envió a su hijo a Roma — Henrique Kongo, primer obispo negro de la historia (1518). Protestó al Papa contra la trata de esclavos."
+    },
+    {
+      "id": "rafr-003",
+      "nome": "Império Songhai e a Queda de Timbuktu",
+      "nome_en": "Songhai Empire and the Fall of Timbuktu",
+      "nome_es": "Imperio Songhai y la Caída de Tombuctú",
+      "tipo": "periodo",
+      "descricao": "Songhai (1464-1591): o maior império da história africana por extensão territorial. Sunni Ali (r. 1464-1492) conquistou Timbuktu e Djenné. Askia Muhammad (r. 1493-1528): apogeu — reforma administrativa, peregrinação a Meca, corte de Gao com 70+ províncias. Invasão marroquina (1591): canhões destruíram a cavalaria songhai em Tondibi. Manuscritos de Timbuktu parcialmente salvos pelos ulamas.",
+      "descricao_en": "Songhai (1464-1591): the largest empire in African history by territorial extent. Sunni Ali (r. 1464-1492) conquered Timbuktu and Djenné. Askia Muhammad (r. 1493-1528): apogee — administrative reform, pilgrimage to Mecca, Gao court with 70+ provinces. Moroccan invasion (1591): cannons destroyed Songhai cavalry at Tondibi. Timbuktu manuscripts partially saved by ulamas.",
+      "descricao_es": "Songhai (1464-1591): el mayor imperio de la historia africana por extensión territorial. Askia Muhammad (1493-1528): apogeo — reforma administrativa, 70+ provincias. Invasión marroquí (1591): cañones destruyeron la caballería en Tondibi. Manuscritos de Tombuctú parcialmente salvados.",
+      "inicio": 1464,
+      "fim": 1591,
+      "tags": [
+        "songhai",
+        "timbuktu",
+        "africa-ocidental",
+        "islao"
+      ],
+      "importancia": "Maior extensão territorial na história africana. Sua queda pela pólvora marroquina marcou o fim da era de ouro do Sudão Ocidental.",
+      "century_start": 15,
+      "century_end": 16,
+      "region": "Africa",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Moroccan invasion (1591): cannons destroyed Songhai cavalry at Tondibi. Timbuktu manuscripts partially saved by ulamas.",
+      "importancia_es": "Invasión marroquí (1591): cañones destruyeron la caballería en Tondibi. Manuscritos de Tombuctú parcialmente salvados."
+    },
+    {
+      "id": "rafr-006",
+      "nome": "Zulu e a Resistência ao Colonialismo Britânico",
+      "nome_en": "Zulu and Resistance to British Colonialism",
+      "nome_es": "Zulú y la Resistencia al Colonialismo Británico",
+      "tipo": "periodo",
+      "descricao": "Shaka Zulu (r. 1816-1828): revolucionou a guerra africana — impis (regimentos), assegai curto, formação em chifre de búfalo. Mfecane (1815-1840): guerras em cadeia que reconfigurou o sul da África. Cetshwayo (r. 1873-1883): derrotou o Exército Britânico em Isandlwana (22 jan 1879) — pior derrota britânica do século XIX. Mas Ulundi (4 jul 1879) pôs fim ao reino independente. Resistência simbólica para o pan-africanismo.",
+      "descricao_en": "Shaka Zulu (r. 1816-1828): revolutionized African warfare — impis (regiments), short assegai, buffalo horn formation. Mfecane (1815-1840): chain wars that reconfigured southern Africa. Cetshwayo (r. 1873-1883): defeated the British Army at Isandlwana (22 Jan 1879) — worst British defeat of the 19th century. But Ulundi (4 Jul 1879) ended the independent kingdom. Symbolic resistance for pan-Africanism.",
+      "descricao_es": "Shaka Zulu (1816-1828): revolucionó la guerra africana — impis, assegai corto, formación en cuerno de búfalo. Cetshwayo derrotó al Ejército Británico en Isandlwana (1879) — peor derrota británica del siglo XIX. Ulundi (1879) acabó con el reino independiente.",
+      "inicio": 1816,
+      "fim": 1897,
+      "tags": [
+        "zulu",
+        "shaka",
+        "africa-austral",
+        "resistencia-colonial"
+      ],
+      "importancia": "A Resistência Zulu (1879) produziu a derrota mais humilhante do Exército Britânico no século XIX: na Batalha de Isandlwana, 20.000 guerreiros zulus destruíram uma coluna britânica de 1.800 homens. A vitória posterior em Rorke's Drift (150 britânicos resistiram a 4.000 zulus) tornou-se o maior mito do imperialismo britânico — celebrada em filme enquanto Isandlwana era minimizada. A resistência zulu demonstrou que povos africanos com organização militar superior podiam derrotar exércitos europeus armados — o que o imperialismo precisava suprimir como narrativa.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Africa",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "But Ulundi (4 Jul 1879) ended the independent kingdom. Symbolic resistance for pan-Africanism.",
+      "importancia_es": "Cetshwayo derrotó al Ejército Británico en Isandlwana (1879) — peor derrota británica del siglo XIX. Ulundi (1879) acabó con el reino independiente."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "rafr-001",
+      "destino": "rafr-002",
+      "tipo": "contemporaneo",
+      "intensidade": 0.5,
+      "descricao": "Aksum e Mali: grandes impérios africanos separados por séculos mas ligados pelo comércio trans-regional"
+    },
+    {
+      "origem": "rafr-002",
+      "destino": "rafr-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "O Songhai sucedeu e expandiu o domínio do Mali sobre Timbuktu e o Saara"
+    },
+    {
+      "origem": "rafr-003",
+      "destino": "rafr-002",
+      "tipo": "tensao",
+      "intensidade": 0.8,
+      "descricao": "Songhai destronou o Mali e dominou Timbuktu a partir de 1464"
+    },
+    {
+      "origem": "rafr-004",
+      "destino": "rafr-005",
+      "tipo": "contemporaneo",
+      "intensidade": 0.6,
+      "descricao": "Zimbabwe e Kongo: polos de poder africano simultâneos em regiões opostas do continente"
+    },
+    {
+      "origem": "rafr-005",
+      "destino": "rafr-006",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "O Kongo e o Zulu representam fases da resistência africana ao avanço europeu"
+    }
+  ]
+}

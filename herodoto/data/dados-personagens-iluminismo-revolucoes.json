@@ -1,0 +1,422 @@
+{
+  "personagens": [
+    {
+      "id": "pir-001",
+      "nome": "Isaac Newton",
+      "nome_en": "Isaac Newton",
+      "nome_es": "Isaac Newton",
+      "nascimento": 1643,
+      "morte": 1727,
+      "regiao": "Europe",
+      "area": [
+        "ciência",
+        "matemática"
+      ],
+      "cargo": "Físico e Matemático",
+      "epoca": "Iluminismo",
+      "descricao": "Nasceu prematuro, pai morto antes de seu nascimento, criado pela avó. Em dois anos de isolamento (Peste de 1665-66) inventou o cálculo infinitesimal, a óptica corpuscular e a lei da gravitação universal. Philosophiae Naturalis Principia Mathematica (1687) unificou mecânica celeste e terrestre numa única teoria matemática. Também alquimista secreto e teólogo heterodoxo.",
+      "importancia": "Newton é o padrão contra o qual toda genialidade científica é medida. Seus Principia estabeleceram o modelo do que uma teoria científica deve ser: matemática, universal, preditiva. A mecânica newtoniana dominou a física por 200 anos até Einstein. Mas o Newton real era tão místico quanto racional — investigava alquimia e o Apocalipse com o mesmo rigor que a gravidade.",
+      "eventos": [],
+      "tags": [
+        "física",
+        "matemática",
+        "gravitação",
+        "cálculo",
+        "iluminismo",
+        "óptica"
+      ]
+    },
+    {
+      "id": "pir-002",
+      "nome": "Voltaire",
+      "nome_en": "Voltaire",
+      "nome_es": "Voltaire",
+      "nascimento": 1694,
+      "morte": 1778,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "literatura"
+      ],
+      "cargo": "Filósofo e Escritor",
+      "epoca": "Iluminismo",
+      "descricao": "François-Marie Arouet, o mais combativo dos philosophes. Preso na Bastilha duas vezes, exilado na Inglaterra (onde descobriu Newton e Locke), depois em Ferney, perto da fronteira suíça. Cândido (1759) satiriza o otimismo leibniziano após o Terremoto de Lisboa. Infatigável defensor de vítimas de intolerância religiosa — o caso Calas, o caso Sirven. 'Écrasons l'infâme' — Esmagemos a infame [Igreja].",
+      "importancia": "Voltaire personifica o Iluminismo como projeto de combate: não apenas razão abstrata, mas razão como arma contra o fanatismo religioso, a tortura judicial e o despotismo. Seu estilo — irónico, panfletário, acessível — tornou as ideias iluministas populares. O jornalismo crítico moderno descende de sua prática. Sua intervenção no caso Calas é o primeiro exemplo moderno de 'intelectual engajado'.",
+      "eventos": [],
+      "tags": [
+        "iluminismo",
+        "tolerância",
+        "anticlericalismo",
+        "França",
+        "sátira",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "pir-003",
+      "nome": "Jean-Jacques Rousseau",
+      "nome_en": "Jean-Jacques Rousseau",
+      "nome_es": "Jean-Jacques Rousseau",
+      "nascimento": 1712,
+      "morte": 1778,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "política"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Iluminismo",
+      "descricao": "Genebrino autodidacta, em conflito permanente com a sociedade letrada parisiense. O Contrato Social (1762) formula a soberania popular: a legitimidade do governo vem da 'vontade geral'. O Emílio trata da educação natural. Discurso sobre as Desigualdades argumenta que a propriedade privada corrompeu o 'homem natural'. Perseguido, paranóico, abandonou os próprios filhos a orfanatos.",
+      "importancia": "Rousseau é o ancestral intelectual tanto da democracia moderna quanto dos totalitarismos do século XX. A 'vontade geral' que ele teorizou — não a soma das vontades individuais mas a vontade do povo enquanto povo — foi usada para justificar tanto a Revolução Francesa quanto o jacobinismo/Terror. A tensão entre sua democracia direta e o liberalismo de Locke ainda estrutura o debate político.",
+      "eventos": [],
+      "tags": [
+        "iluminismo",
+        "contrato-social",
+        "democracia",
+        "natureza",
+        "educação",
+        "vontade-geral"
+      ]
+    },
+    {
+      "id": "pir-004",
+      "nome": "Montesquieu",
+      "nome_en": "Montesquieu",
+      "nome_es": "Montesquieu",
+      "nascimento": 1689,
+      "morte": 1755,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "direito"
+      ],
+      "cargo": "Filósofo e Jurista",
+      "epoca": "Iluminismo",
+      "descricao": "Charles-Louis de Secondat, barão de Montesquieu. O Espírito das Leis (1748) é o primeiro tratado científico de ciência política comparada: analisa como clima, costumes e história moldam as leis de cada povo. Desenvolveu a teoria da separação dos poderes (executivo, legislativo, judiciário) baseado na observação do sistema inglês.",
+      "importancia": "A separação de poderes de Montesquieu está na Constituição americana de 1787, na Declaração dos Direitos do Homem e em quase todas as constituições democráticas. Os Federalistas (Madison, Hamilton, Jay) o citam como a maior autoridade em governo livre. Sua abordagem comparativa e relativizante do direito — leis variam com as condições de cada povo — fundou a sociologia jurídica.",
+      "eventos": [],
+      "tags": [
+        "separação-de-poderes",
+        "iluminismo",
+        "direito",
+        "constituição",
+        "ciência-política"
+      ]
+    },
+    {
+      "id": "pir-005",
+      "nome": "Immanuel Kant",
+      "nome_en": "Immanuel Kant",
+      "nome_es": "Immanuel Kant",
+      "nascimento": 1724,
+      "morte": 1804,
+      "regiao": "Europe",
+      "area": [
+        "filosofia"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Iluminismo",
+      "descricao": "Professor de Königsberg que nunca viajou mais de 100km de sua cidade natal. A Crítica da Razão Pura (1781) revisou toda a tradição filosófica: o sujeito não recebe o mundo passivamente — o organiza ativamente por categorias a priori (causalidade, tempo, espaço). O Imperativo Categórico: aja apenas segundo máximas que possas querer que sejam lei universal.",
+      "importancia": "Kant é talvez o filósofo mais influente dos últimos 300 anos. Sua distinção entre o que podemos conhecer (fenômenos) e o que existe em si (noumenon) limitou tanto a metafísica dogmática quanto o ceticismo radical. O Imperativo Categórico é a formulação mais rigorosa da ética deontológica — dever como lei universal, independente de consequências. Toda filosofia posterior é resposta a Kant.",
+      "eventos": [],
+      "tags": [
+        "filosofia",
+        "ética",
+        "epistemologia",
+        "iluminismo",
+        "imperativo-categórico",
+        "crítica"
+      ]
+    },
+    {
+      "id": "pir-006",
+      "nome": "Robespierre",
+      "nome_en": "Robespierre",
+      "nome_es": "Robespierre",
+      "nascimento": 1758,
+      "morte": 1794,
+      "regiao": "Europe",
+      "area": [
+        "política"
+      ],
+      "cargo": "Líder Jacobino",
+      "epoca": "Revolução Francesa",
+      "descricao": "Advogado de Arras, chamado de 'O Incorruptível' por sua austeridade pessoal. Liderou o Comitê de Salvação Pública durante o Terror (1793-94): 17.000 execuções oficiais, talvez 40.000 mortes. Justificava o Terror como 'despotismo da liberdade contra a tirania'. Em Thermidor (julho 1794) foi ele próprio guilhotinado pelos mesmos companheiros.",
+      "importancia": "Robespierre encarna a questão filosófica mais dolorosa da modernidade: pode a violência sistemática servir à emancipação? O Terror jacobino foi o primeiro experimento moderno de revolucionários convictos de sua pureza moral justificando extermínio de adversários pelo bem do povo. Todas as revoluções do século XX (Lenin, Mao, Pol Pot) repetiram este padrão. A guilhotina de Robespierre foi sua própria criação.",
+      "eventos": [],
+      "tags": [
+        "revolução-francesa",
+        "terror",
+        "jacobinos",
+        "guilhotina",
+        "virtude",
+        "tirania"
+      ]
+    },
+    {
+      "id": "pir-007",
+      "nome": "Napoleão Bonaparte",
+      "nome_en": "Napoleon Bonaparte",
+      "nome_es": "Napoleón Bonaparte",
+      "nascimento": 1769,
+      "morte": 1821,
+      "regiao": "Europe",
+      "area": [
+        "militar",
+        "política"
+      ],
+      "cargo": "Imperador",
+      "epoca": "Guerras Napoleônicas",
+      "descricao": "Corso de família menor nobre, oficial de artilharia. Surgiu na Revolução como general prodígio. Golpe de 18 Brumário (1799) encerrou o Diretório. Coroou-se Imperador (1804), conquistou a maior parte da Europa. Código Napoleônico (1804): base do direito civil de 30 países. Derrotado na Rússia, abdica, retorna nos Cem Dias, derrota final em Waterloo (1815). Exilado em Santa Helena.",
+      "importancia": "Napoleão foi o vetor pelo qual os ideais revolucionários — igualdade perante a lei, abolição do feudalismo, educação secular — se espalharam pela Europa pela força das armas. O paradoxo: ele destruiu as repúblicas que a Revolução criara e se tornou imperador, mas seu Código reformou sistemas jurídicos do Egito ao Japão. Também criou o nacionalismo europeu ao unir os povos contra si.",
+      "eventos": [
+        "nap-001",
+        "nap-002",
+        "nap-003",
+        "nap-004",
+        "nap-005"
+      ],
+      "tags": [
+        "france",
+        "império",
+        "revolução",
+        "código-napoleônico",
+        "waterloo",
+        "conquista"
+      ]
+    },
+    {
+      "id": "pir-008",
+      "nome": "Adam Smith",
+      "nome_en": "Adam Smith",
+      "nome_es": "Adam Smith",
+      "nascimento": 1723,
+      "morte": 1790,
+      "regiao": "Europe",
+      "area": [
+        "economia",
+        "filosofia"
+      ],
+      "cargo": "Economista e Filósofo",
+      "epoca": "Iluminismo",
+      "descricao": "Filósofo moral escocês. A Riqueza das Nações (1776) fundou a economia política moderna: a 'mão invisível' do mercado — cada indivíduo buscando seu interesse particular gera benefício coletivo. Criticou o mercantilismo e os monopólios; defendeu divisão do trabalho e livre comércio. Mas a Teoria dos Sentimentos Morais (1759) mostra que seu pensamento era mais complexo que o neoliberalismo que invoca seu nome.",
+      "importancia": "Adam Smith é citado como fundador do capitalismo liberal, mas sua obra completa é mais ambivalente: preocupava-se com a desumanização causada pela divisão extrema do trabalho, criticava monopólios e simpatizava com os trabalhadores. O 'Adam Smith' do neoliberalismo é uma simplificação. Sua mão invisível foi mencionada apenas três vezes em toda a obra — mas tornou-se o símbolo do capitalismo.",
+      "eventos": [],
+      "tags": [
+        "economia",
+        "capitalismo",
+        "mão-invisível",
+        "livre-mercado",
+        "Escócia",
+        "iluminismo"
+      ]
+    },
+    {
+      "id": "pir-009",
+      "nome": "Mary Wollstonecraft",
+      "nome_en": "Mary Wollstonecraft",
+      "nome_es": "Mary Wollstonecraft",
+      "nascimento": 1759,
+      "morte": 1797,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "feminismo"
+      ],
+      "cargo": "Filósofa e Escritora",
+      "epoca": "Iluminismo",
+      "descricao": "Autodidacta inglesa que escreveu Vindication of the Rights of Woman (1792) — primeira obra sistemática do feminismo: se a razão é o fundamento dos direitos humanos (Iluminismo), então as mulheres, sendo igualmente racionais, têm os mesmos direitos. Criticou Rousseau por excluir mulheres do projeto iluminista. Morreu de septicemia pós-parto ao dar à luz a futura Mary Shelley.",
+      "importancia": "Wollstonecraft fez a crítica mais corrosiva ao Iluminismo: mostrou que seus universais ('todos os homens são iguais') eram particulares disfarçados — excluíam mulheres, colonizados, escravizados. Esse gesto crítico — mostrar que o universal mascara o particular — é o núcleo do feminismo, do anti-colonialismo e de toda teoria crítica posterior. Sua morte jovem privou o movimento de sua fundadora.",
+      "eventos": [],
+      "tags": [
+        "feminismo",
+        "iluminismo",
+        "direitos-das-mulheres",
+        "razão",
+        "rousseau",
+        "gênero"
+      ]
+    },
+    {
+      "id": "pir-010",
+      "nome": "Toussaint Louverture",
+      "nome_en": "Toussaint Louverture",
+      "nome_es": "Toussaint Louverture",
+      "nascimento": 1743,
+      "morte": 1803,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "Líder Revolucionário",
+      "epoca": "Revolução Haitiana",
+      "descricao": "Filho de africano escravizado no Haiti (então Saint-Domingue), aprendeu a ler e estudou estratégia militar. Liderou a única revolução de escravos bem-sucedida da história (1791-1804). Usou táticas guerrilheiras para derrotar consecutivamente as forças coloniais espanholas, britânicas e francesas. Capturado por traição de Napoleão, morreu na prisão nos Alpes.",
+      "importancia": "A Revolução Haitiana é o evento mais radical da era das revoluções: estendeu os princípios iluministas — liberdade, igualdade — a quem os iluministas mesmos excluíam. Quando Napoleão enviou 60.000 soldados para reescravizar Haiti, Toussaint os derrotou. Haiti tornou-se a primeira república negra do mundo (1804). O Ocidente nunca perdoou: Haiti pagou indenização à França até 1947 por sua própria liberdade.",
+      "eventos": [],
+      "tags": [
+        "haiti",
+        "escravidão",
+        "revolução",
+        "liberdade",
+        "colonialismo",
+        "héroe"
+      ]
+    },
+    {
+      "id": "pir-011",
+      "nome": "John Locke",
+      "nome_en": "John Locke",
+      "nome_es": "John Locke",
+      "nascimento": 1632,
+      "morte": 1704,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "política"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Iluminismo",
+      "descricao": "Filósofo inglês que fundou o liberalismo político. O Segundo Tratado do Governo Civil (1689) argumentou que os homens nascem com direitos naturais (vida, liberdade, propriedade) que precedem o Estado; o governo existe por consentimento e pode ser deposto se violar esses direitos. O Ensaio sobre o Entendimento Humano fundou o empirismo moderno: a mente começa como 'tábula rasa'.",
+      "importancia": "Locke é o pai intelectual das democracias liberais: a Declaração de Independência americana e a Declaração dos Direitos do Homem francesa bebem diretamente de sua teoria dos direitos naturais. O empirismo de Locke moldou o pensamento científico anglo-saxão. A tensão que ele criou — liberdade individual vs. poder do Estado — continua sendo o eixo do debate político ocidental.",
+      "eventos": [],
+      "tags": [
+        "liberalismo",
+        "direitos-naturais",
+        "empirismo",
+        "locke",
+        "democracia",
+        "filosofia"
+      ]
+    },
+    {
+      "id": "pir-012",
+      "nome": "Voltaire",
+      "nome_en": "Voltaire",
+      "nome_es": "Voltaire",
+      "nascimento": 1694,
+      "morte": 1778,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "literatura"
+      ],
+      "cargo": "Escritor e Filósofo",
+      "epoca": "Iluminismo",
+      "descricao": "François-Marie Arouet, preso na Bastilha duas vezes, exilado na Inglaterra e na Prússia. Seu Cândido satirizou o otimismo filosófico de Leibniz com a brutalidade da realidade. Cometou campanhas específicas: libertar Jean Calas (protestanteacondenado injustamente), combater a Igreja, promover a tolerância religiosa. Sua última palavra ao padre: 'Deixe-me morrer em paz'.",
+      "importancia": "Voltaire encarna o intelectual público como adversário do poder: usou a ironia e a razão como armas contra o fanatismo religioso e a injustiça institucional. 'Écraser l'Infâme' (esmagar o infame — a intolerância) foi seu lema. Mais que sistema filosófico, seu legado é uma atitude: ceticismo, ironia, engajamento. O intelectual moderno como consciência crítica da sociedade começa com Voltaire.",
+      "eventos": [],
+      "tags": [
+        "iluminismo",
+        "tolerância",
+        "satíra",
+        "crítica",
+        "razão",
+        "ironia",
+        "religião"
+      ]
+    },
+    {
+      "id": "pir-013",
+      "nome": "Immanuel Kant",
+      "nome_en": "Immanuel Kant",
+      "nome_es": "Immanuel Kant",
+      "nascimento": 1724,
+      "morte": 1804,
+      "regiao": "Europe",
+      "area": [
+        "filosofia"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Iluminismo",
+      "descricao": "Filósofo prussiano de Königsberg que nunca viajou mais de 100km de sua cidade natal mas realizou a maior revolução filosófica desde Descartes. A Crítica da Razão Pura (1781) questionou: o que podemos conhecer? O imperativo categórico: 'Age como se a máxima de tua ação devesse tornar-se lei universal'. Kant disse que Rousseau o ensinou a respeitar os homens comuns.",
+      "importancia": "Kant reconciliou empirismo (Hume) e racionalismo (Leibniz) e fundou o idealismo transcendental. Seu imperativo categórico é a mais influente formulação da ética secular. 'A Paz Perpétua' (1795) propôs uma federação de repúblicas como base para a paz — antecipando a ONU e a UE. Todo filósofo depois dele dialogou com Kant — concordando, refutando ou escapando.",
+      "eventos": [],
+      "tags": [
+        "filosofia",
+        "ética",
+        "imperativo-categórico",
+        "crítica",
+        "razão",
+        "iluminismo"
+      ]
+    },
+    {
+      "id": "pir-014",
+      "nome": "Adam Smith",
+      "nome_en": "Adam Smith",
+      "nome_es": "Adam Smith",
+      "nascimento": 1723,
+      "morte": 1790,
+      "regiao": "Europe",
+      "area": [
+        "economia",
+        "filosofia"
+      ],
+      "cargo": "Economista e Filósofo",
+      "epoca": "Iluminismo",
+      "descricao": "Filósofo moral escocês cujo A Riqueza das Nações (1776) fundou a economia política moderna. A 'mão invisível' do mercado coordena interesses individuais produzindo bem coletivo sem planejamento central. Defendeu livre-comércio contra o mercantilismo. Antes do livro famoso, A Teoria dos Sentimentos Morais (1759) analisou empatia como base da moralidade.",
+      "importancia": "A Riqueza das Nações é o livro fundador do capitalismo como sistema teórico — mas Smith é frequentemente mal lido: ele criticava monopólios e lucros excessivos, defendia os trabalhadores, e sua 'mão invisível' aparece apenas três vezes em toda a obra. O neoliberalismo do século XX invocou 'Adam Smith' como autoridade para políticas que o próprio Smith teria criticado.",
+      "eventos": [],
+      "tags": [
+        "economia",
+        "capitalismo",
+        "mercado",
+        "livre-comércio",
+        "riqueza",
+        "iluminismo"
+      ]
+    },
+    {
+      "id": "pir-015",
+      "nome": "Mary Wollstonecraft",
+      "nome_en": "Mary Wollstonecraft",
+      "nome_es": "Mary Wollstonecraft",
+      "nascimento": 1759,
+      "morte": 1797,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "feminismo"
+      ],
+      "cargo": "Escritora e Filósofa",
+      "epoca": "Iluminismo",
+      "descricao": "Escritora inglesa que respondeu a Edmund Burke (crítico da Revolução Francesa) com a Vindicação dos Direitos dos Homens — e depois escreveu A Vindicação dos Direitos das Mulheres (1792): o primeiro tratado sistemático do feminismo moderno. Argumentou que as mulheres parecem irracionais porque são educadas para serem irracionais, não por natureza.",
+      "importancia": "Wollstonecraft descobriu a estrutura do argumento feminista: a inferioridade das mulheres é produto de condicionamento social, não de natureza — e portanto pode ser desfeita pela educação e pelas instituições. Sua filha, Mary Shelley, escreveu Frankenstein. Sua vida — amantes, filha ilegítima, tentativas de suicídio, morte no parto — foi tão escandalosa que seu legado ficou esquecido por um século.",
+      "eventos": [],
+      "tags": [
+        "feminismo",
+        "iluminismo",
+        "direitos-da-mulher",
+        "educação",
+        "revolução-francesa"
+      ]
+    },
+    {
+      "id": "pir-016",
+      "nome": "Simon Bolívar",
+      "nome_en": "Simón Bolívar",
+      "nome_es": "Simón Bolívar",
+      "nascimento": 1783,
+      "morte": 1830,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "Libertador",
+      "epoca": "Iluminismo",
+      "descricao": "Criollo venezuelano educado por Rousseau e pelos Iluministas. Liderou a independência de Venezuela, Colômbia, Equador, Peru e Bolívia. Percorreu 110.000km a cavalo liderando guerras. Sonhou com uma 'Gran Colombia' — União das Américas. Morreu tuberculoso, exilado, vendo seu sonho continental se fragmentar em repúblicas separadas.",
+      "importancia": "Bolívar é o fundador de mais países que qualquer outro líder da história. Mas o 'Sonho de Bolívar' — integração continental — fracassou em vida e continua em debate. Seu dilema: libertou povos para a democracia mas percebeu que democracia imediata poderia levar ao caos — e usou poderes ditatoriais para 'salvar' a república. Este paradoxo define a política latino-americana até hoje.",
+      "eventos": [],
+      "tags": [
+        "independência",
+        "americas",
+        "venezuela",
+        "libertador",
+        "integração",
+        "gran-colombia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "EUA: New Deal, Segunda Guerra e Guerra Fria",
+    "periodo": "1920-1975"
+  },
+  "entidades": [
+    {
+      "id": "eng-001",
+      "nome": "A Grande Depressão e o New Deal de FDR",
+      "nome_en": "The Great Depression and FDR's New Deal",
+      "nome_es": "La Gran Depresión y el New Deal de FDR",
+      "tipo": "periodo",
+      "inicio": 1929,
+      "fim": 1941,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "economic",
+      "descricao": "A Grande Depressão (1929–1939) foi a pior crise econômica da história capitalista moderna. O crash da Bolsa de Nova York (outubro de 1929) desencadeou falências em cascata, desemprego de 25% e colapso do comércio global. Franklin D. Roosevelt (FDR, presidente 1933–1945) respondeu com o New Deal: regulação bancária, obras públicas em massa (TVA, CCC), Previdência Social (1935) e direitos trabalhistas. O New Deal não terminou a Depressão (a Segunda Guerra o fez), mas criou o Estado do Bem-Estar Social americano.",
+      "descricao_en": "The Great Depression (1929–1939) was the worst economic crisis in modern capitalist history. FDR's New Deal created banking regulation, massive public works, Social Security (1935) and labor rights. The New Deal didn't end the Depression (WWII did), but created the American welfare state.",
+      "descricao_es": "La Gran Depresión fue la peor crisis económica de la historia capitalista moderna. El New Deal de FDR creó la Seguridad Social (1935) y los derechos laborales. No terminó la Depresión, pero creó el Estado de Bienestar americano.",
+      "importancia": "O debate New Deal vs. laissez-faire é o debate econômico central da política americana desde 1933. A Previdência Social, os seguros-desemprego e a regulação bancária criados por FDR são as políticas mais populares da história americana — e as mais contestadas pela direita republicana desde então.",
+      "importancia_en": "The New Deal vs. laissez-faire debate is the central economic debate of American politics since 1933. Social Security, unemployment insurance and banking regulation created by FDR are the most popular policies in American history — and the most contested by the Republican right since then.",
+      "importancia_es": "El debate New Deal vs. laissez-faire es el debate económico central de la política americana desde 1933.",
+      "tags": [
+        "New Deal",
+        "FDR",
+        "Grande Depressão",
+        "Seguridade Social",
+        "Keynes"
+      ],
+      "dataset": "data/dados-eua-new-deal-guerra-fria.json"
+    },
+    {
+      "id": "eng-002",
+      "nome": "A Segunda Guerra Mundial: Da Neutralidade a Superpotência",
+      "nome_en": "World War II: From Neutrality to Superpower",
+      "nome_es": "La Segunda Guerra Mundial: De la Neutralidad a Superpotencia",
+      "tipo": "periodo",
+      "inicio": 1939,
+      "fim": 1945,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "war",
+      "descricao": "Os EUA mantiveram neutralidade oficial até Pearl Harbor (7 de dezembro de 1941). O ataque japonês matou 2.403 americanos e unificou o país em poucas horas. FDR conduziu a guerra em dois fronts simultâneos (Europa e Pacífico), mobilizando uma economia de guerra sem precedentes — o PIB industrial dobrou entre 1940–1944. O 'Arsenal da Democracia' americano foi decisivo para a vitória aliada. A bomba atômica (Hiroshima e Nagasaki, agosto de 1945) encerrou a guerra no Pacífico.",
+      "descricao_en": "The US maintained official neutrality until Pearl Harbor (December 7, 1941). The Japanese attack killed 2,403 Americans and unified the country within hours. FDR conducted the war on two simultaneous fronts (Europe and Pacific), mobilizing an unprecedented war economy. The American 'Arsenal of Democracy' was decisive for Allied victory. The atomic bomb (Hiroshima and Nagasaki, August 1945) ended the war in the Pacific.",
+      "descricao_es": "EE.UU. mantuvo neutralidad hasta Pearl Harbor (7 de diciembre de 1941). El 'Arsenal de la Democracia' americano fue decisivo para la victoria aliada. La bomba atómica (Hiroshima y Nagasaki) puso fin a la guerra en el Pacífico.",
+      "importancia": "Pearl Harbor é o evento mais traumático da história americana moderna até 11 de setembro de 2001. A mobilização econômica americana na Segunda Guerra é o maior esforço produtivo de um país na história — e o modelo de 'economia de guerra' que todos os países estudam.",
+      "importancia_en": "Pearl Harbor is the most traumatic event in modern American history until September 11, 2001. American economic mobilization in WWII is the greatest productive effort of any country in history — and the 'war economy' model that all countries study.",
+      "importancia_es": "Pearl Harbor es el evento más traumático de la historia americana moderna hasta el 11 de septiembre. La movilización económica americana en la Segunda Guerra es el mayor esfuerzo productivo de un país en la historia.",
+      "tags": [
+        "Pearl Harbor",
+        "Segunda Guerra",
+        "Arsenal",
+        "bomba atômica",
+        "Hiroshima"
+      ],
+      "dataset": "data/dados-eua-new-deal-guerra-fria.json"
+    },
+    {
+      "id": "eng-003",
+      "nome": "A Guerra Fria: Truman, Containment e Corrida Armamentista",
+      "nome_en": "The Cold War: Truman, Containment and the Arms Race",
+      "nome_es": "La Guerra Fría: Truman, Containment y la Carrera Armamentista",
+      "tipo": "periodo",
+      "inicio": 1947,
+      "fim": 1991,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "A Guerra Fria (1947–1991) foi o conflito ideológico entre os EUA (capitalismo/democracia) e a URSS (comunismo) que estruturou a geopolítica mundial por 44 anos. A Doutrina Truman (1947) declarou que os EUA apoiariam qualquer nação ameaçada pelo comunismo. O Plano Marshall (1948) reconstruiu a Europa Ocidental. A OTAN foi criada (1949). O Sputnik (1957) lançou a corrida espacial. A crise dos mísseis cubanos (1962) levou o mundo à beira da guerra nuclear.",
+      "descricao_en": "The Cold War (1947–1991) was the ideological conflict between the US (capitalism/democracy) and the USSR (communism) that structured world geopolitics for 44 years. The Truman Doctrine (1947) declared that the US would support any nation threatened by communism. The Marshall Plan (1948) rebuilt Western Europe. NATO was created (1949). The Cuban Missile Crisis (1962) brought the world to the brink of nuclear war.",
+      "descricao_es": "La Guerra Fría estructuró la geopolítica mundial durante 44 años. La Doctrina Truman, el Plan Marshall y la OTAN son sus pilares. La crisis de los misiles cubanos (1962) llevó al mundo al borde de la guerra nuclear.",
+      "importancia": "A crise dos mísseis cubanos (1962) é o momento em que a humanidade mais se aproximou da destruição nuclear total — 13 dias que definiram o futuro do planeta. O papel da contenção e da dissuasão nuclear na prevenção da guerra ainda é o debate central da segurança internacional.",
+      "importancia_en": "The Cuban Missile Crisis (1962) is the moment humanity came closest to total nuclear destruction — 13 days that defined the planet's future. The role of containment and nuclear deterrence in war prevention is still the central debate of international security.",
+      "importancia_es": "La crisis de los misiles cubanos es el momento en que la humanidad más se acercó a la destrucción nuclear total.",
+      "tags": [
+        "Guerra Fria",
+        "Truman",
+        "OTAN",
+        "Cuba",
+        "mísseis",
+        "corrida armamentista"
+      ],
+      "dataset": "data/dados-eua-new-deal-guerra-fria.json"
+    },
+    {
+      "id": "eng-004",
+      "nome": "McCarthyismo e a Caça às Bruxas",
+      "nome_en": "McCarthyism and the Red Scare",
+      "nome_es": "McCarthyismo y la Caza de Brujas",
+      "tipo": "periodo",
+      "inicio": 1950,
+      "fim": 1956,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "O Senador Joseph McCarthy (1950–1954) desencadeou uma histeria anticomunista — acusando centenas de funcionários do governo, militares, artistas e intelectuais de serem comunistas sem evidências. As 'Audiências McCarthy' do Senado destruíram carreiras e levaram a deportações e demissões em massa. O cineasta Charlie Chaplin foi expulso dos EUA. Arthur Miller escreveu 'As Bruxas de Salem' (1953) como alegoria direta. A queda de McCarthy começou quando atacou o Exército ao vivo na televisão.",
+      "descricao_en": "Senator Joseph McCarthy (1950–1954) unleashed an anti-communist hysteria — accusing hundreds of government officials, military, artists and intellectuals of being communists without evidence. The Senate 'McCarthy Hearings' destroyed careers and led to mass deportations and firings. Filmmaker Charlie Chaplin was expelled from the US. Arthur Miller wrote 'The Crucible' (1953) as a direct allegory. McCarthy's fall began when he attacked the Army live on television.",
+      "descricao_es": "El Senador McCarthy desató una histeria anticomunista. Las 'Audiencias McCarthy' destruyeron carreras. Charlie Chaplin fue expulsado de EE.UU. Arthur Miller escribió 'Las Brujas de Salem' como alegoría directa.",
+      "importancia": "McCarthyismo é o nome de todo o fenômeno de perseguição política baseada em suspeita sem prova — tornado epônimo do fenômeno universal. A queda de McCarthy pela televisão (1954) foi a primeira demonstração do poder da mídia de massa em destruir um político, antecipando a era moderna da mídia.",
+      "importancia_en": "McCarthyism is the name for any phenomenon of political persecution based on suspicion without proof — made eponymous. McCarthy's fall by television (1954) was the first demonstration of mass media's power to destroy a politician, anticipating the modern media era.",
+      "importancia_es": "El 'McCarthyismo' nombra el fenómeno universal de persecución política basada en sospecha sin prueba. La caída de McCarthy por televisión fue la primera demostración del poder de los medios de masa.",
+      "tags": [
+        "McCarthy",
+        "comunismo",
+        "caça às bruxas",
+        "Hollywood",
+        "televisão"
+      ],
+      "dataset": "data/dados-eua-new-deal-guerra-fria.json"
+    },
+    {
+      "id": "eng-005",
+      "nome": "Direitos Civis: Rosa Parks, King e o Movimento",
+      "nome_en": "Civil Rights: Rosa Parks, King and the Movement",
+      "nome_es": "Derechos Civiles: Rosa Parks, King y el Movimiento",
+      "tipo": "periodo",
+      "inicio": 1954,
+      "fim": 1968,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "social",
+      "descricao": "O Movimento pelos Direitos Civis (1954–1968) foi a maior transformação social da América pós-Guerra Civil. Brown v. Board of Education (1954) derrubou a segregação escolar. Rosa Parks recusou ceder seu assento (dezembro de 1955 — início do boicote aos ônibus de Montgomery). Martin Luther King Jr. liderou com a estratégia da não-violência (inspirada em Gandhi). A Marcha sobre Washington (1963, 'I Have a Dream') e a Lei dos Direitos Civis (1964) e a Lei do Direito ao Voto (1965) completaram a batalha legal.",
+      "descricao_en": "The Civil Rights Movement (1954–1968) was the greatest social transformation of post-Civil War America. Brown v. Board of Education (1954) struck down school segregation. Rosa Parks refused to give up her seat (December 1955 — beginning of the Montgomery Bus Boycott). Martin Luther King Jr. led with non-violence strategy (inspired by Gandhi). The March on Washington (1963) and the Civil Rights Act (1964) completed the legal battle.",
+      "descricao_es": "El Movimiento por los Derechos Civiles fue la mayor transformación social de la América post-Guerra Civil. Brown v. Board, Rosa Parks, la Marcha sobre Washington y la Ley de Derechos Civiles (1964) son sus pilares.",
+      "importancia": "O discurso 'I Have a Dream' de King (1963) é o discurso mais famoso da história americana e um dos mais influentes do século XX. O método da não-violência desenvolvido por King tornou-se o manual para movimentos de direitos civis em todo o mundo — da África do Sul ao Leste Europeu.",
+      "importancia_en": "King's 'I Have a Dream' speech (1963) is the most famous speech in American history and one of the most influential of the 20th century. The non-violence method developed by King became the manual for civil rights movements worldwide.",
+      "importancia_es": "El discurso 'I Have a Dream' es el más famoso de la historia americana. El método de no violencia de King se convirtió en el manual para movimientos de derechos civiles en todo el mundo.",
+      "tags": [
+        "King",
+        "Rosa Parks",
+        "direitos civis",
+        "não-violência",
+        "Washington"
+      ],
+      "dataset": "data/dados-eua-new-deal-guerra-fria.json"
+    },
+    {
+      "id": "eng-007",
+      "nome": "Vietnam: A Guerra que Dividiu a América",
+      "nome_en": "Vietnam: The War that Divided America",
+      "nome_es": "Vietnam: La Guerra que Dividió a América",
+      "tipo": "periodo",
+      "inicio": 1955,
+      "fim": 1975,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "war",
+      "descricao": "A guerra do Vietnã (envolvimento americano 1955–1975) foi a maior derrota militar e moral da história americana. Os EUA interviram para impedir a unificação comunista do Vietnã, gradualmente escalando de conselheiros (Eisenhower) para 550.000 tropas (Johnson, 1969). A ofensiva Tet (1968) revelou que a guerra era inganável, apesar das afirmações oficiais de progresso. O movimento antibelicista dividiu profundamente a sociedade americana. A queda de Saigon (30 de abril de 1975) foi o fim humilhante.",
+      "descricao_en": "The Vietnam War (American involvement 1955–1975) was the greatest military and moral defeat in American history. The US intervened to prevent communist reunification of Vietnam, gradually escalating from advisors (Eisenhower) to 550,000 troops (Johnson, 1969). The Tet Offensive (1968) revealed the war was unwinnable despite official claims of progress. The fall of Saigon (April 30, 1975) was the humiliating end.",
+      "descricao_es": "La guerra de Vietnam fue la mayor derrota militar y moral de la historia americana. La ofensiva Tet (1968) reveló que la guerra era inalcanzable. La caída de Saigón (30 de abril de 1975) fue el fin humillante.",
+      "importancia": "A guerra do Vietnã foi o conflito mais divisivo da história americana moderna — dividindo o país entre quem apoiava o combate ao comunismo e quem se opunha ao envolvimento militar. A \"Síndrome do Vietnã\" — cautela americana com guerras terrestres prolongadas no exterior — influenciou a política externa americana por décadas. O Memorial dos Veteranos do Vietnã em Washington é um dos monumentos mais visitados dos EUA, reconhecendo os 58.000 americanos mortos no conflito.",
+      "importancia_en": "The Vietnam War was the most divisive conflict in modern American history — splitting the country between those who supported fighting communism and those who opposed military involvement. The \"Vietnam Syndrome\" — American caution about prolonged land wars abroad — influenced American foreign policy for decades. The Vietnam Veterans Memorial in Washington is one of the US's most visited monuments, recognizing the 58,000 Americans killed in the conflict.",
+      "importancia_es": "La guerra de Vietnam fue el conflicto más divisivo de la historia americana moderna. El \"Síndrome de Vietnam\" influyó en la política exterior americana durante décadas. El Memorial de los Veteranos de Vietnam reconoce a los 58.000 americanos muertos en el conflicto.",
+      "tags": [
+        "Vietnam",
+        "Tet",
+        "Saigon",
+        "protesto",
+        
+        "Vietnam"
+      ],
+      "dataset": "data/dados-eua-new-deal-guerra-fria.json"
+    },
+    {
+      "id": "eng-006",
+      "nome": "A Corrida Espacial e a Chegada à Lua",
+      "nome_en": "The Space Race and the Moon Landing",
+      "nome_es": "La Carrera Espacial y la Llegada a la Luna",
+      "tipo": "periodo",
+      "inicio": 1957,
+      "fim": 1972,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "intellectual",
+      "descricao": "A corrida espacial foi o teatro tecnológico mais espetacular da Guerra Fria. O Sputnik soviético (1957) chocou os americanos. Kennedy declarou (1961) que os EUA chegariam à Lua até o fim da década. Neil Armstrong pisou na Lua em 20 de julho de 1969 (Apollo 11) — transmitido para 600 milhões de pessoas. O programa Apollo empregou 400.000 pessoas e criou tecnologias que transformaram a vida moderna: computadores miniaturizados, memória de ferrite, velcro, liofilização, sistemas de purificação de água.",
+      "descricao_en": "The space race was the Cold War's most spectacular technological theater. The Soviet Sputnik (1957) shocked Americans. Kennedy declared (1961) that the US would reach the Moon by decade's end. Neil Armstrong stepped on the Moon on July 20, 1969 (Apollo 11) — broadcast to 600 million people. The Apollo program employed 400,000 people and created technologies that transformed modern life.",
+      "descricao_es": "El Sputnik soviético (1957) sorprendió a los americanos. Kennedy declaró que EE.UU. llegaría a la Luna. Neil Armstrong pisó la Luna el 20 de julio de 1969. El programa Apollo empleó 400.000 personas.",
+      "importancia": "A chegada à Lua é o maior feito tecnológico da humanidade do século XX — e um dos maiores de toda a história. O computador do Apollo 11 tinha menos poder de processamento que um smartphone atual — demonstrando o que motivação política e recursos adequados podem alcançar.",
+      "importancia_en": "The Moon landing is humanity's greatest technological achievement of the 20th century. The Apollo 11 computer had less processing power than a modern smartphone — demonstrating what political motivation and adequate resources can achieve.",
+      "importancia_es": "La llegada a la Luna es el mayor logro tecnológico de la humanidad del siglo XX.",
+      "tags": [
+        "Apollo",
+        "Lua",
+        "Armstrong",
+        "Sputnik",
+        "Kennedy",
+        "NASA"
+      ],
+      "dataset": "data/dados-eua-new-deal-guerra-fria.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "eng-001",
+      "destino": "eng-002",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "New Deal reconstrói a economia que mobiliza o esforço de guerra"
+    },
+    {
+      "origem": "eng-002",
+      "destino": "eng-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Segunda Guerra cria a bipolaridade que gera a Guerra Fria"
+    },
+    {
+      "origem": "eng-003",
+      "destino": "eng-004",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Paranoia da Guerra Fria alimenta o McCarthyismo"
+    },
+    {
+      "origem": "eng-003",
+      "destino": "eng-006",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Guerra Fria produz a corrida espacial como competição tecnológica"
+    },
+    {
+      "origem": "eng-005",
+      "destino": "eng-007",
+      "tipo": "paralelo",
+      "intensidade": 0.5,
+      "descricao": "Direitos civis e anti-Vietnam são os dois grandes movimentos dos anos 1960"
+    },
+    {
+      "origem": "eng-004",
+      "destino": "eng-005",
+      "tipo": "evolucao",
+      "intensidade": 0.6,
+      "descricao": "McCarthyismo e direitos civis são conflitos sobre a alma da democracia americana"
+    }
+  ]
+}

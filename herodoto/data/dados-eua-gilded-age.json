@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "EUA: Industrialização, Gilded Age e Imperialismo",
+    "periodo": "1865-1920"
+  },
+  "entidades": [
+    {
+      "id": "ega-007",
+      "nome": "Sufrágio Feminino e o Movimento das Sufragistas",
+      "nome_en": "Women's Suffrage and the Suffragette Movement",
+      "nome_es": "Sufragio Femenino y el Movimiento Sufragista",
+      "tipo": "periodo",
+      "inicio": 1848,
+      "fim": 1920,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "O movimento pelo sufrágio feminino americano começou formalmente em Seneca Falls (1848), onde Elizabeth Cady Stanton e Lucretia Mott convocaram a primeira convenção pelos direitos da mulher. Susan B. Anthony foi presa por votar ilegalmente em 1872. Após 72 anos de luta — marcados por prisões, greve de fome e militância — a 19ª Emenda (1920) garantiu o voto às mulheres americanas. O movimento sufragista americano inspirou movimentos similares em todo o mundo.",
+      "descricao_en": "The American women's suffrage movement formally began at Seneca Falls (1848), where Elizabeth Cady Stanton and Lucretia Mott convened the first women's rights convention. Susan B. Anthony was arrested for voting illegally in 1872. After 72 years of struggle — marked by arrests, hunger strikes and militancy — the 19th Amendment (1920) guaranteed the vote to American women.",
+      "descricao_es": "El movimiento por el sufragio femenino comenzó en Seneca Falls (1848). Susan B. Anthony fue arrestada por votar ilegalmente en 1872. La 19ª Enmienda (1920) garantizó el voto a las mujeres americanas tras 72 años de lucha.",
+      "importancia": "72 anos de luta sufragista americana (1848–1920) são um dos maiores exemplos de persistência de movimento social na história moderna. O modelo de mobilização, convenções, publicações e militância desenvolvido pelas sufragistas americanas tornou-se o template para movimentos de direitos civis posteriores.",
+      "importancia_en": "72 years of American suffragist struggle (1848–1920) is one of the greatest examples of social movement persistence in modern history. The model of mobilization developed by American suffragists became the template for subsequent civil rights movements.",
+      "importancia_es": "72 años de lucha sufragista americana son uno de los mayores ejemplos de persistencia de movimiento social en la historia moderna.",
+      "tags": [
+        "sufrágio",
+        "Anthony",
+        "Stanton",
+        "19ª Emenda",
+        "Seneca Falls"
+      ],
+      "dataset": "data/dados-eua-gilded-age.json"
+    },
+    {
+      "id": "ega-001",
+      "nome": "Industrialização e os Barões Ladrões",
+      "nome_en": "Industrialization and the Robber Barons",
+      "nome_es": "Industrialización y los Barones Ladrones",
+      "tipo": "periodo",
+      "inicio": 1865,
+      "fim": 1900,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "economic",
+      "descricao": "A industrialização americana pós-Guerra Civil foi a mais rápida da história. Entre 1865–1900, os EUA ultrapassaram a Grã-Bretanha como maior economia industrial. Rockefeller (Standard Oil) controlou 90% do mercado petrolífero; Carnegie (aço) produzia mais aço que a Grã-Bretanha inteira; Morgan (bancos) financiou o sistema ferroviário. O termo 'Gilded Age' (Mark Twain, 1873) descreveu a superfície dourada que cobria a corrupção política, o trabalho infantil, as greves violentas e a desigualdade extrema.",
+      "descricao_en": "Post-Civil War American industrialization was the fastest in history. Between 1865–1900, the US surpassed Britain as the largest industrial economy. Rockefeller (Standard Oil) controlled 90% of the oil market; Carnegie (steel) produced more steel than all of Britain; Morgan (banking) financed the railroad system. The term 'Gilded Age' (Mark Twain, 1873) described the golden surface covering political corruption and extreme inequality.",
+      "descricao_es": "La industrialización americana fue la más rápida de la historia. Rockefeller controló el 90% del mercado petrolero; Carnegie producía más acero que toda Gran Bretaña. El término 'Gilded Age' (Mark Twain) describió la superficie dorada que cubría la desigualdad extrema.",
+      "importancia": "O modelo industrial americano do Gilded Age — grandes corporações, livre mercado e acumulação de capital — criou a maior economia industrial do mundo em poucas décadas. Os debates sobre monopólios, regulação estatal e poder corporativo que essa era produziu ainda estruturam a política econômica americana no século XXI.",
+      "importancia_en": "The American industrial model of the Gilded Age — large corporations, free markets and capital accumulation — created the world's largest industrial economy in a few decades. The debates about monopolies, state regulation and corporate power that this era produced still structure American economic policy in the 21st century.",
+      "importancia_es": "El modelo industrial americano del Gilded Age creó la mayor economía industrial del mundo en pocas décadas. Los debates sobre monopolios, regulación estatal y poder corporativo que esa era produjo aún estructuran la política económica americana en el siglo XXI.",
+      "tags": [
+        "Rockefeller",
+        "Carnegie",
+        "Morgan",
+        "Gilded Age",
+        "industrialização"
+      ],
+      "dataset": "data/dados-eua-gilded-age.json"
+    },
+    {
+      "id": "ega-003",
+      "nome": "O Movimento Trabalhista e os Cavaleiros do Trabalho",
+      "nome_en": "The Labor Movement and the Knights of Labor",
+      "nome_es": "El Movimiento Obrero y los Caballeros del Trabajo",
+      "tipo": "periodo",
+      "inicio": 1869,
+      "fim": 1920,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "social",
+      "descricao": "A industrialização americana criou condições de trabalho brutais: jornadas de 12–16 horas, trabalho infantil, salários de subsistência, acidentes fatais frequentes. O movimento trabalhista emergiu: os Cavaleiros do Trabalho (1869) foram a primeira grande organização trabalhista nacional; a Federação Americana do Trabalho (AFL, 1886) criou sindicatos por ofício; o massacre de Haymarket (Chicago, 1886) — 7 policiais mortos numa bomba durante uma greve — tornou-se símbolo do conflito capital-trabalho. O 1º de maio (Dia do Trabalhador) comemora Haymarket.",
+      "descricao_en": "American industrialization created brutal working conditions: 12–16 hour days, child labor, subsistence wages, frequent fatal accidents. The labor movement emerged: the Knights of Labor (1869) were the first major national labor organization; the American Federation of Labor (AFL, 1886); the Haymarket massacre (Chicago, 1886) — 7 police killed by a bomb during a strike — became a symbol of the capital-labor conflict. May 1st (Labor Day) commemorates Haymarket.",
+      "descricao_es": "La industrialización creó condiciones brutales de trabajo. Los Caballeros del Trabajo y la AFL emergieron como organizaciones obreras. La masacre de Haymarket (Chicago, 1886) es el origen del 1° de Mayo como Día del Trabalhador.",
+      "importancia": "O Dia do Trabalho (1º de maio) comemorado na maioria dos países do mundo tem sua origem nos acontecimentos de Haymarket, Chicago, 1886. Os EUA comemoram o Labor Day em setembro, estabelecido por lei federal em 1894 para reconhecer a contribuição dos trabalhadores americanos. O conflito entre capital e trabalho do Gilded Age produziu os primeiros marcos da legislação trabalhista americana — jornada de 8 horas, proibição do trabalho infantil, seguro de acidentes.",
+      "importancia_en": "Labor Day (May 1st) observed in most countries has its origin in the Haymarket events, Chicago, 1886. The US observes Labor Day in September, established by federal law in 1894 to recognize the contribution of American workers. The capital-labor conflict of the Gilded Age produced the first milestones of American labor legislation — 8-hour workday, child labor prohibition, accident insurance.",
+      "importancia_es": "El Día del Trabajo (1° de mayo) tiene su origen en los eventos de Haymarket, Chicago, 1886. EE.UU. celebra el Labor Day en septiembre, establecido por ley federal en 1894. El conflicto capital-trabajo del Gilded Age produjo los primeros hitos de la legislación laboral americana.",
+      "tags": [
+        "Haymarket",
+        "AFL",
+        "Cavaleiros do Trabalho",
+        "greve",
+        "1º de maio"
+      ],
+      "dataset": "data/dados-eua-gilded-age.json"
+    },
+    {
+      "id": "ega-002",
+      "nome": "Imigração em Massa e o Crisol de Raças",
+      "nome_en": "Mass Immigration and the Melting Pot",
+      "nome_es": "Inmigración Masiva y el Crisol de Razas",
+      "tipo": "periodo",
+      "inicio": 1880,
+      "fim": 1920,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "social",
+      "descricao": "Entre 1880–1920, mais de 20 milhões de imigrantes chegaram aos EUA — principalmente da Europa do Sul e do Leste (italianos, poloneses, russos judeus, gregos). Passavam pelo processamento em Ellis Island (1892–1954), onde ~12 milhões foram admitidos. Os imigrantes transformaram cidades como Nova York, Chicago e Boston. O conceito de 'crisol de raças' (melting pot, popularizado pela peça de Israel Zangwill, 1908) descrevia a fusão cultural — mas ignorava que negros, asiáticos e indígenas estavam excluídos desse 'crisol'.",
+      "descricao_en": "Between 1880–1920, over 20 million immigrants arrived in the US — mainly from Southern and Eastern Europe (Italians, Poles, Russian Jews, Greeks). They passed through Ellis Island processing (1892–1954), where ~12 million were admitted. The 'melting pot' concept (popularized by Israel Zangwill's play, 1908) described cultural fusion — but ignored that Black, Asian and Indigenous people were excluded from this 'pot'.",
+      "descricao_es": "Entre 1880-1920, más de 20 millones de inmigrantes llegaron a EE.UU. principalmente de Europa del Sur y del Este. Ellis Island procesó ~12 millones. El concepto del 'crisol de razas' ignoraba que negros, asiáticos e indígenas estaban excluidos.",
+      "importancia": "A imigração em massa do final do século XIX e início do XX transformou os EUA na nação mais etnicamente diversa do mundo industrializado. A questão da integração cultural, assimilação e identidade nacional que esse período gerou continua sendo um dos debates centrais da política americana.",
+      "importancia_en": "The mass immigration of the late 19th and early 20th centuries transformed the US into the most ethnically diverse nation in the industrialized world. The question of cultural integration, assimilation and national identity that this period generated continues to be one of the central debates in American politics.",
+      "importancia_es": "La inmigración masiva transformó a EE.UU. en la nación más étnicamente diversa del mundo industrializado. La cuestión de la integración cultural y la identidad nacional que generó ese período sigue siendo uno de los debates centrales de la política americana.",
+      "tags": [
+        "imigração",
+        "Ellis Island",
+        "melting pot",
+        "Italianos",
+        "Poloneses"
+      ],
+      "dataset": "data/dados-eua-gilded-age.json"
+    },
+    {
+      "id": "ega-005",
+      "nome": "Expansão Americana: Cuba, Filipinas e o Canal do Panamá",
+      "nome_en": "American Expansion: Cuba, Philippines and the Panama Canal",
+      "nome_es": "Expansión Americana: Cuba, Filipinas y el Canal de Panamá",
+      "tipo": "periodo",
+      "inicio": 1898,
+      "fim": 1914,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "A Guerra Hispano-Americana (1898) transformou os EUA em potência imperial: Cuba, Porto Rico, Guam e Filipinas foram obtidas da Espanha. A guerra filipina de independência (1899–1902) contra os EUA matou 200.000–600.000 filipinos. O Canal do Panamá (aberto em 1914) exigiu que Roosevelt apoiasse a secessão do Panamá da Colômbia (1903). A Doutrina Monroe expandida ('Corolário Roosevelt', 1904) declarou os EUA 'polícia do Hemisfério Ocidental' — base de inúmeras intervenções latino-americanas.",
+      "descricao_en": "The Spanish-American War (1898) transformed the US into an imperial power: Cuba, Puerto Rico, Guam and the Philippines were obtained from Spain. The Philippine War of Independence (1899–1902) against the US killed 200,000–600,000 Filipinos. The Panama Canal (opened 1914) required Roosevelt to support Panama's secession from Colombia (1903). The expanded Monroe Doctrine ('Roosevelt Corollary', 1904) declared the US 'police of the Western Hemisphere'.",
+      "descricao_es": "La Guerra Hispano-Americana (1898) transformó a EE.UU. en potencia imperial. La guerra filipina mató 200.000-600.000 filipinos. El Canal de Panamá exigió apoyar la secesión de Panamá de Colombia.",
+      "importancia": "A Guerra Hispano-Americana (1898) marcou a entrada dos EUA como potência com projeção global, estabelecendo presença militar e econômica no Caribe e no Pacífico. O Canal do Panamá (1914) reduziu em semanas o tempo de navegação entre os oceanos Atlântico e Pacífico, transformando o comércio global. A Doutrina Monroe expandida estabeleceu os EUA como árbitro da estabilidade política no Hemisfério Ocidental.",
+      "importancia_en": "The Spanish-American War (1898) marked the US's entry as a power with global reach, establishing military and economic presence in the Caribbean and Pacific. The Panama Canal (1914) reduced navigation time between the Atlantic and Pacific oceans by weeks, transforming global trade. The expanded Monroe Doctrine established the US as the political stability arbiter in the Western Hemisphere.",
+      "importancia_es": "La Guerra Hispano-Americana (1898) marcó la entrada de EE.UU. como potencia de alcance global. El Canal de Panamá (1914) transformó el comercio global. La Doctrina Monroe expandida estableció a EE.UU. como árbitro de la estabilidad en el Hemisferio Occidental.",
+      "tags": [
+        "Cuba",
+        "Filipinas",
+        "Canal do Panamá",
+        "Doutrina Monroe",
+        "imperialismo"
+      ],
+      "dataset": "data/dados-eua-gilded-age.json"
+    },
+    {
+      "id": "ega-004",
+      "nome": "Theodore Roosevelt e o Progressismo",
+      "nome_en": "Theodore Roosevelt and Progressivism",
+      "nome_es": "Theodore Roosevelt y el Progresismo",
+      "tipo": "periodo",
+      "inicio": 1901,
+      "fim": 1920,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "Theodore Roosevelt (presidente 1901–1909) foi o primeiro presidente progressista americano. Desmembrou os trustes (Standard Oil, Northern Securities), criou 150 florestas nacionais e 5 parques nacionais (conservacionismo como política de Estado), regulamentou a indústria alimentícia (Lei de Inspeção de Carnes, 1906) e mediou a paz russo-japonesa (Nobel da Paz, 1906). O movimento progressista combateu a corrupção, o clientelismo e o poder incontrolado das corporações que o Gilded Age havia criado.",
+      "descricao_en": "Theodore Roosevelt (president 1901–1909) was the first progressive American president. He broke up trusts (Standard Oil, Northern Securities), created 150 national forests and 5 national parks (conservationism as state policy), regulated the food industry (Meat Inspection Act, 1906) and mediated Russian-Japanese peace (Nobel Peace Prize, 1906).",
+      "descricao_es": "Theodore Roosevelt fue el primer presidente progresista americano. Desmanteló monopolios (Standard Oil), creó 150 bosques nacionales y 5 parques nacionales, y medió la paz ruso-japonesa (Nobel de la Paz, 1906).",
+      "importancia": "Roosevelt reinventou o papel do presidente americano: de árbitro passivo para agente ativo de reforma social e regulação econômica. O parque nacional como conceito americano exportado para o mundo inteiro, a política antimonopólio, a proteção do consumidor — tudo isso começa com Roosevelt.",
+      "importancia_en": "Roosevelt reinvented the role of the American president: from passive arbiter to active agent of social reform and economic regulation. The national park concept exported to the entire world, antitrust policy, consumer protection — all of this begins with Roosevelt.",
+      "importancia_es": "Roosevelt reinventó el papel del presidente americano como agente activo de reforma social y regulación económica.",
+      "tags": [
+        "Roosevelt",
+        "trustes",
+        "conservacionismo",
+        "progressismo",
+        "Nobel"
+      ],
+      "dataset": "data/dados-eua-gilded-age.json"
+    },
+    {
+      "id": "ega-006",
+      "nome": "W.E.B. Du Bois e o Harlem Renaissance",
+      "nome_en": "W.E.B. Du Bois and the Harlem Renaissance",
+      "nome_es": "W.E.B. Du Bois y el Renacimiento de Harlem",
+      "tipo": "periodo",
+      "inicio": 1903,
+      "fim": 1935,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "cultural",
+      "descricao": "W.E.B. Du Bois (1868–1963) foi o primeiro negro a se doutorar em Harvard (1895). Seu livro 'As Almas do Povo Negro' (1903) introduziu o conceito de 'dupla consciência' — o negro americano vive simultaneamente como americano e como negro, dois mundos irreconciliáveis. Fundou a NAACP (1909). O Harlem Renaissance (1920s) foi a primeira grande explosão cultural negra americana — Langston Hughes, Duke Ellington, Zora Neale Hurston. Definiu a identidade negra urbana americana e influenciou profundamente o século XX.",
+      "descricao_en": "W.E.B. Du Bois (1868–1963) was the first Black person to earn a Harvard PhD (1895). His book 'The Souls of Black Folk' (1903) introduced the concept of 'double consciousness' — the Black American lives simultaneously as American and as Black, two irreconcilable worlds. He founded the NAACP (1909). The Harlem Renaissance (1920s) was the first great explosion of Black American culture.",
+      "descricao_es": "Du Bois fue el primer negro doctorado en Harvard. 'Las Almas del Pueblo Negro' introdujo el concepto de 'doble consciencia'. Fundó la NAACP. El Renacimiento de Harlem fue la primera gran explosión cultural negra americana.",
+      "importancia": "O conceito de 'dupla consciência' de Du Bois é um dos mais influentes das ciências sociais e dos estudos culturais do século XX — descrevendo a experiência de viver entre duas culturas e identidades incompatíveis. Influenciou o pensamento sobre colonialismo, diáspora e identidade em todo o mundo.",
+      "importancia_en": "Du Bois' concept of 'double consciousness' is one of the most influential in 20th century social sciences and cultural studies — describing the experience of living between two incompatible cultures and identities. It influenced thinking on colonialism, diaspora and identity worldwide.",
+      "importancia_es": "El concepto de 'doble consciencia' de Du Bois influyó en el pensamiento sobre colonialismo, diáspora e identidad en todo el mundo.",
+      "tags": [
+        "Du Bois",
+        "NAACP",
+        "dupla consciência",
+        "Harlem Renaissance",
+        "Hughes"
+      ],
+      "dataset": "data/dados-eua-gilded-age.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ega-001",
+      "destino": "ega-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Industrialização cria a demanda de mão-de-obra que atrai imigrantes"
+    },
+    {
+      "origem": "ega-001",
+      "destino": "ega-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Condições industriais brutais produzem o movimento trabalhista"
+    },
+    {
+      "origem": "ega-001",
+      "destino": "ega-004",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Excesso do capitalismo do Gilded Age produz o progressismo de Roosevelt"
+    },
+    {
+      "origem": "ega-004",
+      "destino": "ega-005",
+      "tipo": "causalidade",
+      "intensidade": 0.6,
+      "descricao": "Progressismo doméstico coexiste com imperialismo externo"
+    },
+    {
+      "origem": "ega-002",
+      "destino": "ega-006",
+      "tipo": "causalidade",
+      "intensidade": 0.6,
+      "descricao": "Imigração e urbanização criam as condições para o Harlem Renaissance"
+    },
+    {
+      "origem": "ega-003",
+      "destino": "ega-007",
+      "tipo": "paralelo",
+      "intensidade": 0.6,
+      "descricao": "Movimento trabalhista e sufragista são reformas sociais paralelas"
+    }
+  ]
+}

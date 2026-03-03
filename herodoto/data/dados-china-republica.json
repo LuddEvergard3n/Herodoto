@@ -1,0 +1,66 @@
+{
+  "entidades": [
+    {
+      "id": "crp-001",
+      "nome": "Revolução de 1911 e a República",
+      "nome_en": "Revolution of 1911 and the Republic",
+      "nome_es": "Revolución de 1911 y la República",
+      "tipo": "periodo",
+      "descricao": "Queda da Qing (1911): Sun Yat-sen, Partido Nacionalista (KMT), Três Princípios do Povo (nacionalismo, democracia, bem-estar). República proclamada em 1912 — mas poder real foi para o general Yuan Shikai, que tentou restaurar a monarquia. Era dos Senhores da Guerra (1916–1928): China fragmentada em dezenas de cliques militares regionais. Movimento 4 de Maio (1919): protesto intelectual contra o Tratado de Versalhes (que cedeu Shandong ao Japão) — surgimento do comunismo chinês. Fundação do PCC (1921). KMT e PCC: aliança breve (1923–27), depois guerra civil.",
+      "descricao_en": "Fall of Qing (1911): Sun Yat-sen, Nationalist Party (KMT), Three Principles of the People (nationalism, democracy, welfare). Republic proclaimed 1912 — but real power went to General Yuan Shikai, who attempted to restore the monarchy. Warlord Era (1916–1928): China fragmented into dozens of regional military cliques. May Fourth Movement (1919): intellectual protest against Treaty of Versailles (which ceded Shandong to Japan) — emergence of Chinese communism. Founding of CCP (1921). KMT and CCP: brief alliance (1923–27), then civil war.",
+      "descricao_es": "Caída Qing (1911): Sun Yat-sen, KMT, Tres Principios del Pueblo. Yuan Shikai intentó restaurar la monarquía. Era de los Señores de la Guerra (1916–1928). Movimiento del 4 de Mayo (1919): protesta por el Tratado de Versalles (Shandong cedida a Japón) — surgimiento del comunismo chino. Fundación del PCCh (1921). Alianza breve KMT-PCCh (1923–27), luego guerra civil.",
+      "inicio": 1911,
+      "fim": 1937,
+      "tags": [
+        "republica-china",
+        "sun-yat-sen",
+        "kmt",
+        "4-maio",
+        "senhores-guerra"
+      ],
+      "importancia": "O Movimento 4 de Maio (1919) — protesto estudantil contra Versalhes — fundou o campo intelectual que produziu o PCC e moldou a China contemporânea.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "May Fourth Movement (1919): intellectual protest against Treaty of Versailles (which ceded Shandong to Japan) — emergence of Chinese communism. KMT and CCP: brief alliance (1923–27), then civil war.",
+      "importancia_es": "Movimiento del 4 de Mayo (1919): protesta por el Tratado de Versalles (Shandong cedida a Japón) — surgimiento del comunismo chino. Alianza breve KMT-PCCh (1923–27), luego guerra civil."
+    },
+    {
+      "id": "crp-002",
+      "nome": "A Invasão Japonesa e a Segunda Guerra Sino-Japonesa",
+      "nome_en": "The Japanese Invasion and Second Sino-Japanese War",
+      "nome_es": "La Invasión Japonesa y la Segunda Guerra Sino-Japonesa",
+      "tipo": "periodo",
+      "descricao": "Japão ocupou Manchúria (1931): criou estado-fantoche Manchukuo. Incidente da Ponte Marco Polo (7 jul 1937): guerra total. 8 anos de ocupação: ~14 milhões de mortos chineses (civis e militares). Massacre de Nanjing (dez 1937): ~200.000–300.000 civis mortos em 6 semanas — um dos episódios mais documentados e mais negados da história moderna. KMT recuou para Chongqing; PCC cresceu nas áreas rurais. EUA entraram na guerra após Pearl Harbor (1941). Rendição do Japão (agosto 1945) — KMT e PCC retomaram a guerra civil imediatamente.",
+      "descricao_en": "Japan occupied Manchuria (1931): created puppet state Manchukuo. Marco Polo Bridge Incident (Jul 7, 1937): total war. 8 years of occupation: ~14 million Chinese deaths (civilian and military). Nanjing Massacre (Dec 1937): ~200,000–300,000 civilians killed in 6 weeks — one of the most documented and most denied episodes in modern history. KMT retreated to Chongqing; CCP grew in rural areas. US entered war after Pearl Harbor (1941). Japan surrendered (August 1945) — KMT and CCP immediately resumed civil war.",
+      "descricao_es": "Japón ocupó Manchuria (1931): estado títere Manchukuo. 7 jul 1937: guerra total. ~14 millones de muertos chinos. Masacre de Nanjing (dic 1937): ~200.000–300.000 civiles en 6 semanas. El KMT retrocedió a Chongqing; el PCCh creció en áreas rurales. Rendición japonesa (1945) — guerra civil retomada inmediatamente.",
+      "inicio": 1937,
+      "fim": 1949,
+      "tags": [
+        "invasao-japonesa",
+        "nanjing",
+        "guerra-sino-japonesa",
+        "manchukuo"
+      ],
+      "importancia": "O Massacre de Nanjing (1937): ~250.000 mortos em 6 semanas — central para a identidade histórica da China e das relações sino-japonesas até hoje.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "EastAsia",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "Japan surrendered (August 1945) — KMT and CCP immediately resumed civil war.",
+      "importancia_es": "Rendición japonesa (1945) — guerra civil retomada inmediatamente."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "crp-001",
+      "destino": "crp-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "A fragmentação política da República e a fraqueza do KMT facilitaram a invasão japonesa"
+    }
+  ]
+}

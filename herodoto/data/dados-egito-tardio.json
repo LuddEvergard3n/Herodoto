@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Egito Tardio: Assírios, Persas, Alexandre e Cleópatra",
+    "periodo": "-664 a 641"
+  },
+  "entidades": [
+    {
+      "id": "egt-001",
+      "nome": "Baixa Época e a Decadência Faraônica",
+      "nome_en": "Late Period and Pharaonic Decline",
+      "nome_es": "Baja Época y la Decadencia Faraónica",
+      "tipo": "periodo",
+      "inicio": -664,
+      "fim": -332,
+      "region": "Africa",
+      "period": "Ancient",
+      "century_start": -7,
+      "type": "political",
+      "descricao": "A Baixa Época (664–332 a.C.) foi marcada por invasões sucessivas: assírios (667–663 a.C.), persas (525 a.C., Cambises II), breve reconquista egípcia (404–343 a.C.) e persas novamente (343–332 a.C.). O Egito independente terminou em 332 a.C. com Alexandre Magno, que foi recebido como libertador. Nesse período floresceu o culto de Serápis, fusão de Osíris e Ápis, e Naukratis tornou-se o primeiro porto comercial grego no Egito. A 26ª Dinastia (saíta) foi o último período de grandeza artística nativa.",
+      "descricao_en": "The Late Period (664–332 BC) was marked by successive invasions: Assyrians (667–663 BC), Persians (525 BC, Cambyses II), brief Egyptian reconquest (404–343 BC) and Persians again (343–332 BC). Independent Egypt ended in 332 BC with Alexander the Great, who was received as a liberator. The 26th Dynasty (Saite) was the last period of native artistic grandeur.",
+      "descricao_es": "La Baja Época fue marcada por invasiones sucesivas: asirios, persas, y finalmente Alejandro Magno en 332 a.C. La dinastía saíta fue el último período de grandeza artística nativa.",
+      "importancia": "A Baixa Época demonstra como o Egito — após 2.500 anos de civilização — tornou-se objeto de conquista. A 26ª Dinastia tentou um renascimento artístico deliberado retomando estilos do Antigo e Médio Reino — o primeiro movimento 'arcaísmo' documentado na história da arte.",
+      "importancia_en": "The Late Period demonstrates how Egypt — after 2,500 years of civilization — became an object of conquest. The 26th Dynasty attempted a deliberate artistic renaissance by reviving Old and Middle Kingdom styles — the first documented 'archaism' movement in art history.",
+      "importancia_es": "La Baja Época demuestra cómo Egipto, tras 2.500 años de civilización, se convirtió en objeto de conquista.",
+      "tags": [
+        "Baixa Época",
+        "Persas",
+        "Cambises",
+        "assírios",
+        "saíta",
+        "declínio"
+      ],
+      "dataset": "data/dados-egito-tardio.json"
+    },
+    {
+      "id": "egt-002",
+      "nome": "Alexandre Magno e a Fundação de Alexandria",
+      "nome_en": "Alexander the Great and the Founding of Alexandria",
+      "nome_es": "Alejandro Magno y la Fundación de Alejandría",
+      "tipo": "evento",
+      "inicio": -332,
+      "fim": -323,
+      "region": "Africa",
+      "period": "Ancient",
+      "century_start": -4,
+      "type": "political",
+      "descricao": "Alexandre III da Macedônia (Alexandre Magno) conquistou o Egito em 332 a.C. sem resistência — os egípcios o receberam como libertador dos persas. Fundou Alexandria (332 a.C.) no Delta do Nilo, que se tornaria a maior cidade do mundo helenístico e capital do saber. O Oráculo de Âmon em Siwa reconheceu Alexandre como filho de Zeus-Âmon. Alexandre foi proclamado faraó e adotou os rituais egípcios. Sua conquista iniciou a helenização do Egito — fusão das culturas grega e egípcia.",
+      "descricao_en": "Alexander III of Macedon conquered Egypt in 332 BC without resistance — Egyptians received him as liberator from the Persians. He founded Alexandria (332 BC) at the Nile Delta, which would become the largest Hellenistic city and capital of knowledge. The Oracle of Amun at Siwa recognized Alexander as son of Zeus-Ammon.",
+      "descricao_es": "Alejandro Magno conquistó Egipto en 332 a.C. sin resistencia. Fundó Alejandría, que se convertiría en la mayor ciudad del mundo helenístico y capital del saber.",
+      "importancia": "Alexandria foi o maior centro intelectual do mundo antigo: sua Biblioteca continha até 700.000 rolos de papiro. Euclides, Eratóstenes, Arquimedes e Ptolomeu trabalharam lá. A destruição progressiva da Biblioteca de Alexandria (por várias causas ao longo de séculos) é o símbolo maior da perda cultural na história.",
+      "importancia_en": "Alexandria was the greatest intellectual center of the ancient world: its Library contained up to 700,000 papyrus scrolls. Euclid, Eratosthenes, Archimedes and Ptolemy worked there.",
+      "importancia_es": "Alejandría fue el mayor centro intelectual del mundo antiguo. Su Biblioteca contenía hasta 700.000 rollos.",
+      "tags": [
+        "Alexandre",
+        "Alexandria",
+        "Biblioteca",
+        "helenismo",
+        "Siwa",
+        "Macedônia"
+      ],
+      "dataset": "data/dados-egito-tardio.json"
+    },
+    {
+      "id": "egt-003",
+      "nome": "Dinastia Ptolemaica: Os Faraós Gregos",
+      "nome_en": "Ptolemaic Dynasty: The Greek Pharaohs",
+      "nome_es": "Dinastía Ptolemaica: Los Faraones Griegos",
+      "tipo": "periodo",
+      "inicio": -305,
+      "fim": -30,
+      "region": "Africa",
+      "period": "Ancient",
+      "century_start": -4,
+      "type": "political",
+      "descricao": "Ptolomeu I Sóter (r. 305–283 a.C.), general de Alexandre, fundou a Dinastia Ptolemaica — 275 anos de faraós de origem grega. Construíram o Farol de Alexandria (uma das Sete Maravilhas), a Grande Biblioteca e o Museu. A língua administrativa era o grego — por isso a Pedra de Roseta (196 a.C.) foi escrita em hieroglífico, demótico e grego. Os Ptolomeus adotaram os rituais faraônicos e foram aceitos como faraós legítimos. A linhagem terminou com Cleópatra VII.",
+      "descricao_en": "Ptolemy I Soter (r. 305–283 BC), Alexander's general, founded the Ptolemaic Dynasty — 275 years of Greek-origin pharaohs. They built the Lighthouse of Alexandria (one of the Seven Wonders), the Great Library and the Museum. The Rosetta Stone (196 BC) was written in hieroglyphic, demotic and Greek. The lineage ended with Cleopatra VII.",
+      "descricao_es": "Ptolomeo I fundó la Dinastía Ptolemaica — 275 años de faraones de origen griego. Construyeron el Faro de Alejandría y la Gran Biblioteca. La Piedra de Rosetta fue escrita en jeroglífico, demótico y griego.",
+      "importancia": "A Pedra de Roseta (196 a.C.) é o objeto mais importante da arqueologia: sua decifração por Champollion (1822) abriu toda a civilização egípcia ao conhecimento moderno. O Farol de Alexandria foi a segunda maior estrutura do mundo antigo após as pirâmides.",
+      "importancia_en": "The Rosetta Stone (196 BC) is the most important object in archaeology: its decipherment by Champollion (1822) opened all of Egyptian civilization to modern knowledge.",
+      "importancia_es": "La Piedra de Rosetta es el objeto más importante de la arqueología: su descifrado por Champollion (1822) abrió toda la civilización egipcia al conocimiento moderno.",
+      "tags": [
+        "Ptolomaico",
+        "Ptolomeu",
+        "Pedra de Roseta",
+        "Farol",
+        "Biblioteca",
+        "grego"
+      ],
+      "dataset": "data/dados-egito-tardio.json"
+    },
+    {
+      "id": "egt-004",
+      "nome": "Cleópatra VII: A Última Faraó",
+      "nome_en": "Cleopatra VII: The Last Pharaoh",
+      "nome_es": "Cleopatra VII: La Última Faraona",
+      "tipo": "periodo",
+      "inicio": -51,
+      "fim": -30,
+      "region": "Africa",
+      "period": "Ancient",
+      "century_start": -1,
+      "type": "political",
+      "descricao": "Cleópatra VII (r. 51–30 a.C.) foi a última governante da Dinastia Ptolemaica e a única que aprendeu egípcio (além de 8 outras línguas). Aliou-se a Júlio César (48–44 a.C.) e depois a Marco Antônio (41–30 a.C.). A derrota na Batalha de Áccio (31 a.C.) contra Otávio encerrou o Egito independente. Com sua morte (suicídio, 30 a.C.), o Egito tornou-se província romana. Contrariando o mito popular, fontes antigas descrevem sua inteligência e carisma — não sua beleza — como os instrumentos de seu poder político.",
+      "descricao_en": "Cleopatra VII (r. 51–30 BC) was the last ruler of the Ptolemaic Dynasty and the only one who learned Egyptian (plus 8 other languages). She allied with Julius Caesar (48–44 BC) and then Mark Antony (41–30 BC). Defeat at the Battle of Actium (31 BC) ended independent Egypt. With her death (suicide, 30 BC), Egypt became a Roman province.",
+      "descricao_es": "Cleopatra VII fue la última gobernante ptolemaica y la única que aprendió egipcio. Se alió con César y Marco Antonio. Con su muerte (30 a.C.), Egipto se convirtió en provincia romana.",
+      "importancia": "Cleópatra VII foi a governante mais poderosa do Mediterrâneo em seu tempo. Sua morte encerrou 3.000 anos de civilização faraônica — e inaugurou a era do domínio romano do Mar Mediterrâneo, transformando o 'mare nostrum' em lago romano.",
+      "importancia_en": "Cleopatra VII was the most powerful ruler in the Mediterranean in her time. Her death ended 3,000 years of pharaonic civilization — and inaugurated the era of Roman domination of the Mediterranean Sea.",
+      "importancia_es": "Cleopatra VII fue la gobernante más poderosa del Mediterráneo de su tiempo. Su muerte puso fin a 3.000 años de civilización faraónica.",
+      "tags": [
+        "Cleópatra",
+        "César",
+        "Marco Antônio",
+        "Áccio",
+        "Roma",
+        "última faraó"
+      ],
+      "dataset": "data/dados-egito-tardio.json"
+    },
+    {
+      "id": "egt-005",
+      "nome": "Egito Romano e Cristão",
+      "nome_en": "Roman and Christian Egypt",
+      "nome_es": "Egipto Romano y Cristiano",
+      "tipo": "periodo",
+      "inicio": -30,
+      "fim": 641,
+      "region": "Africa",
+      "period": "Ancient",
+      "century_start": -1,
+      "type": "religious",
+      "descricao": "Como província romana, o Egito foi o celeiro do Império — fornecendo 1/3 do trigo de Roma. Alexandria continuou sendo o maior centro intelectual: Fílon, Plotino e a escola neoplatônica floresceram. O Cristianismo chegou cedo (São Marcos, c. 50 d.C., segundo a tradição copta) e a Igreja Copta tornou-se uma das mais antigas do mundo. O monaquismo cristão nasceu no Egito — Santo Antônio (251–356) e São Pacômio (292–348) fundaram as primeiras comunidades monásticas. O árabe islamizou o Egito após a conquista de 641 d.C.",
+      "descricao_en": "As a Roman province, Egypt was the Empire's granary — supplying 1/3 of Rome's grain. Alexandria continued as the greatest intellectual center. Christianity arrived early (Saint Mark, c. 50 AD, per Coptic tradition) and the Coptic Church became one of the world's oldest. Christian monasticism was born in Egypt — Saint Anthony (251–356) and Saint Pachomius (292–348) founded the first monastic communities.",
+      "descricao_es": "Como provincia romana, Egipto fue el granero del Imperio. El Cristianismo llegó temprano y la Iglesia Copta es una de las más antiguas del mundo. El monaquismo cristiano nació en Egipto.",
+      "importancia": "O monaquismo cristão — que deu origem aos mosteiros medievais europeus — nasceu no deserto egípcio. Sem Santo Antônio egípcio, não haveria Bento de Núrsia, e sem Bento, não haveria os mosteiros que preservaram o saber clássico europeu durante as invasões bárbaras.",
+      "importancia_en": "Christian monasticism — which gave rise to European medieval monasteries — was born in the Egyptian desert. Without Egyptian Saint Anthony, there would be no Benedict of Nursia, and without Benedict, no monasteries to preserve classical knowledge during barbarian invasions.",
+      "importancia_es": "El monaquismo cristiano nació en el desierto egipcio. Sin el egipcio San Antonio, no habría San Benito, y sin San Benito, no habría monasterios medievales.",
+      "tags": [
+        "Copta",
+        "monaquismo",
+        "Antônio",
+        "Roma",
+        "celeiro",
+        "neoplatonismo"
+      ],
+      "dataset": "data/dados-egito-tardio.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "egt-001",
+      "destino": "egt-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Persas enfraquecem o Egito, facilitando a conquista de Alexandre"
+    },
+    {
+      "origem": "egt-002",
+      "destino": "egt-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Alexandre funda Alexandria e seus generais criam a dinastia"
+    },
+    {
+      "origem": "egt-003",
+      "destino": "egt-004",
+      "tipo": "evolucao",
+      "intensidade": 0.9,
+      "descricao": "Cleópatra é a última dos Ptolomeus"
+    },
+    {
+      "origem": "egt-004",
+      "destino": "egt-005",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Com Cleópatra, Egito torna-se província romana"
+    }
+  ]
+}

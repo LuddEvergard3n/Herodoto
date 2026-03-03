@@ -1,0 +1,31 @@
+{
+  "entidades": [
+    {
+      "id": "afcs-001",
+      "nome": "Grande Zimbabwe e África Austral",
+      "nome_en": "Great Zimbabwe and Southern Africa",
+      "nome_es": "Gran Zimbabue y África Austral",
+      "tipo": "periodo",
+      "descricao": "Grande Zimbabwe (~1100–1450 d.C.): capital do Reino de Zimbabwe, construída em granito seco sem argamassa — muralhas de 10 metros com 900.000 blocos. Controlava o comércio de ouro entre interior africano e costa suaíle. População estimada: 18.000. Colapso por exaustão agrícola e ecológica. Zulu (1816–1879): Shaka Zulu reorganizou completamente a arte da guerra bantu — sistema de regimental, tática de chifre de búfalo. Mfecane: guerras de expansão zulu deslocaram milhões. Resistência ao colonialismo britânico até 1879.",
+      "descricao_en": "Great Zimbabwe (~1100–1450 AD): capital of the Kingdom of Zimbabwe, built in dry granite without mortar — 10-meter walls with 900,000 blocks. Controlled trade of gold between African interior and Swahili coast. Estimated population: 18,000. Collapse from agricultural and ecological exhaustion. Zulu (1816–1879): Shaka Zulu completely reorganized Bantu warfare — regimental system, buffalo horn tactic. Mfecane: Zulu expansion wars displaced millions. Resistance to British colonialism until 1879.",
+      "descricao_es": "Gran Zimbabue (~1100–1450 d.C.): capital del Reino de Zimbabue, construida en granito seco sin argamasa — muros de 10 metros con 900.000 bloques. Shaka Zulu (1816–1879): reorganizó el arte de la guerra bantú — táctica del cuerno de búfalo. El Mfecane desplazó millones. Resistencia al colonialismo británico hasta 1879.",
+      "inicio": 1100,
+      "fim": 1879,
+      "tags": [
+        "zimbabue",
+        "shaka-zulu",
+        "bantu",
+        "mfecane"
+      ],
+      "importancia": "Grande Zimbabwe: a maior estrutura de pedra da África sub-saariana pré-colonial — evidência de organização estatal e comercial sofisticada sem influência externa.",
+      "century_start": 11,
+      "century_end": 19,
+      "region": "Africa",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Mfecane: Zulu expansion wars displaced millions. Resistance to British colonialism until 1879.",
+      "importancia_es": "Shaka Zulu (1816–1879): reorganizó el arte de la guerra bantú — táctica del cuerno de búfalo. Resistencia al colonialismo británico hasta 1879."
+    }
+  ],
+  "relacoes": []
+}

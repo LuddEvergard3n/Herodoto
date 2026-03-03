@@ -1,0 +1,67 @@
+{
+  "entidades": [
+    {
+      "id": "tum-001",
+      "nome": "Atatürk e a República Turca",
+      "nome_en": "Atatürk and the Turkish Republic",
+      "nome_es": "Atatürk y la República Turca",
+      "tipo": "periodo",
+      "inicio": 1919,
+      "fim": 1950,
+      "descricao": "Mustafa Kemal liderou a Guerra de Independência (1919–23) após a derrota otomana. República proclamada em 1923; Atatürk ('Pai dos Turcos') como primeiro presidente. Reformas radicais: abolição do califado (1924), laicismo constitucional, alfabeto latino (substituiu árabe em 1928), direito de voto para mulheres (1934 — antes de França e Itália), código civil suíço, direito penal italiano, chapéu no lugar de turbante, calendário gregoriano. Troca de populações greco-turca (1923): ~1,5 milhão de gregos saíram da Turquia, ~500.000 turcos da Grécia — primeira 'limpeza étnica' internacionalmente sancionada.",
+      "descricao_en": "Mustafa Kemal led the War of Independence (1919–23) after the Ottoman defeat. Republic proclaimed 1923; Atatürk ('Father of the Turks') as first president. Radical reforms: abolition of the caliphate (1924), constitutional secularism, Latin alphabet (replaced Arabic in 1928), women's voting rights (1934 — before France and Italy), Swiss civil code, Italian penal code, hat instead of turban, Gregorian calendar. Greco-Turkish population exchange (1923): ~1.5 million Greeks left Turkey, ~500,000 Turks from Greece — first internationally sanctioned 'ethnic cleansing'.",
+      "descricao_es": "Mustafa Kemal lideró la Guerra de Independencia (1919–23). República proclamada en 1923. Reformas radicales: abolición del califato (1924), laicismo constitucional, alfabeto latino (1928), voto femenino (1934 — antes que Francia e Italia), código civil suizo. Intercambio de poblaciones greco-turco (1923): ~1,5 millones de griegos salieron de Turquía.",
+      "tags": [
+        "ataturk",
+        "turquia",
+        "laicismo",
+        "reforma",
+        "califato"
+      ],
+      "importancia": "Atatürk (1881-1938) realizou a mais rápida e radical secularização de Estado da história: em 15 anos aboliu o califado islâmico, substituiu a lei islâmica pelo Código Civil suíço, adotou o alfabeto latino, proibiu o fez e o véu em espaços públicos, deu voto às mulheres (1934, antes de França e Itália) e transformou o dia de descanso de sexta a domingo. O 'modelo turco' de modernização laica foi estudado como alternativa ao secularismo ocidental para o mundo islâmico. O retorno gradual do islamismo político sob Erdoğan levanta a questão: secularizações forçadas sem base cultural profunda são reversíveis?",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "MiddleEast",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Greco-Turkish population exchange (1923): ~1.5 million Greeks left Turkey, ~500,000 Turks from Greece — first internationally sanctioned 'ethnic cleansing'.",
+      "importancia_es": "Intercambio de poblaciones greco-turco (1923): ~1,5 millones de griegos salieron de Turquía."
+    },
+    {
+      "id": "tum-002",
+      "nome": "Turquia Contemporânea: Erdoğan e a Encruzilhada",
+      "nome_en": "Contemporary Turkey: Erdoğan and the Crossroads",
+      "nome_es": "Turquía Contemporánea: Erdoğan y la Encrucijada",
+      "tipo": "periodo",
+      "inicio": 1950,
+      "fim": 2023,
+      "descricao": "Democracia multi-partidária desde 1950. Turquia na OTAN (1952): ponte estratégica entre Europa e Ásia. Golpes militares (1960, 1971, 1980): exército como guardião do laicismo kemalista. Tentativa de golpe frustrada (2016). Erdoğan (2002–): AKP islamista moderado; crescimento econômico, polarização política, erosão institucional progressiva. Candidatura à UE desde 1987: congelada. Questão curda: PKK, autonomia/independência. Turquia como potência regional: OTAN, mas comprou mísseis russos S-400. População: 85 milhões, segunda maior força da OTAN.",
+      "descricao_en": "Multi-party democracy since 1950. Turkey in NATO (1952): strategic bridge between Europe and Asia. Military coups (1960, 1971, 1980): army as guardian of Kemalist secularism. Failed coup attempt (2016). Erdoğan (2002–): moderate Islamist AKP; economic growth, political polarization, progressive institutional erosion. EU candidacy since 1987: frozen. Kurdish question: PKK, autonomy/independence. Turkey as regional power: NATO, but bought Russian S-400 missiles. Population: 85 million, NATO's second largest force.",
+      "descricao_es": "Democracia multipartidista desde 1950. Turquía en la OTAN (1952). Golpes militares (1960, 1971, 1980). Erdoğan (2002–): AKP islamista moderado; crecimiento económico, erosión institucional. Candidatura a la UE desde 1987: congelada. Cuestión kurda. Turquía: 85 millones de hab., segunda mayor fuerza de la OTAN.",
+      "tags": [
+        "erdogan",
+        "turquia-otan",
+        "curdo",
+        "pkk",
+        "eu-turquia"
+      ],
+      "importancia": "A Turquia é o único país do mundo membro da OTAN, candidato à UE, com fronteira com Síria e Iraque, e população muçulmana de 99% — encruzilhada civilizacional literal.",
+      "century_start": 20,
+      "century_end": 21,
+      "region": "MiddleEast",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "Turkey as regional power: NATO, but bought Russian S-400 missiles. Population: 85 million, NATO's second largest force.",
+      "importancia_es": "Turquía: 85 millones de hab., segunda mayor fuerza de la OTAN."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "tum-001",
+      "destino": "tum-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O laicismo kemalista criou a tensão estrutural que Erdoğan explorou ao trazer o islamismo de volta à política turca"
+    }
+  ]
+}

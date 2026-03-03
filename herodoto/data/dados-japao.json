@@ -1,0 +1,230 @@
+{
+  "entidades": [
+    {
+      "id": "jap-001",
+      "nome": "Japão Arcaico e o Xintoísmo",
+      "nome_en": "Archaic Japan and Shintoism",
+      "nome_es": "Japón Arcaico y el Shintoísmo",
+      "tipo": "periodo",
+      "descricao": "Período Jomon (~14.000-300 a.C.): ceramistas mais antigos do mundo. Período Yayoi (300 a.C. - 300 d.C.): agricultura de arroz vinda da Coréia, metalurgia. Período Kofun (300-538): túmulos imensos (kofun), formação da corte imperial. Amaterasu: deusa do sol, ancestral mítico do Imperador. Xintoísmo: religião nativa — natureza animada, pureza ritual, imperfeição aceitável. Budismo chegou da Coreia em 552 d.C. e foi integrado ao Xintoísmo.",
+      "descricao_en": "Jomon period (~14,000-300 BC): world's oldest potters. Yayoi period (300 BC - 300 AD): rice agriculture from Korea, metallurgy. Kofun period (300-538): massive tombs (kofun), formation of imperial court. Amaterasu: sun goddess, mythical ancestor of the Emperor. Shintoism: native religion — animated nature, ritual purity, acceptable imperfection. Buddhism arrived from Korea in 552 AD and was integrated with Shintoism.",
+      "descricao_es": "Período Jomon (~14.000-300 a.C.): ceramistas más antiguos del mundo. Yayoi (300 a.C. - 300 d.C.): agricultura de arroz, metalurgia. Kofun (300-538): tumbas monumentales, formación de la corte imperial. Amaterasu: diosa del sol, ancestro mítico del Emperador. Shintoísmo: religión nativa. Budismo llegó en 552 d.C.",
+      "inicio": -14000,
+      "fim": 710,
+      "tags": [
+        "japao",
+        "xintoismo",
+        "jomon",
+        "kofun"
+      ],
+      "importancia": "O xintoísmo não é apenas religião — é o sistema de identidade nacional japonesa: a sacralidade da terra, dos ancestrais e do imperador como descendente de Amaterasu. O Japão arcaico (antes do contato com a China) criou uma cultura própria que sobreviveria à onda de influência chinesa do século VI: kanji e budismo chegaram, mas o japonês os transformou em algo próprio. A capacidade de absorver influências externas sem perder identidade — de sinicizar-se sem sinizar-se — definiu o Japão por dois milênios.",
+      "century_start": -140,
+      "century_end": 8,
+      "region": "EastAsia",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "Buddhism arrived from Korea in 552 AD and was integrated with Shintoism.",
+      "importancia_es": "Kofun (300-538): tumbas monumentales, formación de la corte imperial. Amaterasu: diosa del sol, ancestro mítico del Emperador."
+    },
+    {
+      "id": "jap-002",
+      "nome": "Período Heian e a Corte Imperial",
+      "nome_en": "Heian Period and the Imperial Court",
+      "nome_es": "Período Heian y la Corte Imperial",
+      "tipo": "periodo",
+      "descricao": "Heian (794-1185): capital em Kyoto. Florescimento da cultura aristocrática. Murasaki Shikibu escreveu Genji Monogatari (~1000 d.C.) — considerado o primeiro romance do mundo. Kana: sistema de escrita fonético japonês derivado do chinês. Arte do jardim japonês, cerimônia do chá incipiente, poesia waka. Clã Fujiwara dominou a política através de regências. Decline: guerreiros (samurais) substituíram os aristocratas. Período de surgimento da cultura samurai.",
+      "descricao_en": "Heian (794-1185): capital in Kyoto. Flourishing of aristocratic culture. Murasaki Shikibu wrote The Tale of Genji (~1000 AD) — considered the world's first novel. Kana: Japanese phonetic writing system derived from Chinese. Japanese garden art, incipient tea ceremony, waka poetry. Fujiwara clan dominated politics through regencies. Decline: warriors (samurai) replaced aristocrats. Period of emergence of samurai culture.",
+      "descricao_es": "Heian (794-1185): capital en Kyoto. Murasaki Shikibu escribió El cuento de Genji (~1000 d.C.) — considerado el primer romance del mundo. Kana: sistema de escritura fonético japonés. Declive: guerreros (samuráis) sustituyeron a los aristócratas.",
+      "inicio": 794,
+      "fim": 1185,
+      "tags": [
+        "heian",
+        "japao",
+        "literatura",
+        "aristocracia"
+      ],
+      "importancia": "O período Heian (794-1185) foi o apogeu da corte imperial japonesa — e o momento em que mulheres aristocráticas criaram a maior literatura japonesa clássica. A Dama Murasaki escreveu Genji Monogatari (c.1010) — considerado o primeiro romance psicológico do mundo, 600 anos antes de Cervantes. Sei Shōnagon escreveu o Pillow Book. Que as maiores obras da literatura heiana sejam de autoria feminina reflete que homens cultos escreviam em chinês (língua de prestígio), deixando o japonês vernacular para as mulheres — que o usaram para criar obras-primas.",
+      "century_start": 8,
+      "century_end": 12,
+      "region": "EastAsia",
+      "type": "cultural",
+      "period": "Medieval",
+      "importancia_en": "Decline: warriors (samurai) replaced aristocrats. Period of emergence of samurai culture.",
+      "importancia_es": "Declive: guerreros (samuráis) sustituyeron a los aristócratas."
+    },
+    {
+      "id": "jap-003",
+      "nome": "Xogunato e o Bushido Samurai",
+      "nome_en": "Shogunate and Samurai Bushido",
+      "nome_es": "Shogunato y el Bushido Samurái",
+      "tipo": "periodo",
+      "descricao": "Xogunato Kamakura (1185-1333): governo militar de fato, Imperador mantido como figura simbólica. Bushido ('caminho do guerreiro'): lealdade absoluta, honra, morte preferível à desonra. Invasões mongóis de 1274 e 1281 repelidas por tufões (kamikaze). Xogunato Muromachi (1336-1573): fragmentação e guerras civis (Sengoku — 'estados em guerra'). Samurais como classe guerreira hereditária, katana como alma do guerreiro. Seppuku: suicídio ritual.",
+      "descricao_en": "Kamakura Shogunate (1185-1333): de facto military government, Emperor maintained as symbolic figure. Bushido ('way of the warrior'): absolute loyalty, honor, death preferable to dishonor. Mongol invasions of 1274 and 1281 repelled by typhoons (kamikaze). Muromachi Shogunate (1336-1573): fragmentation and civil wars (Sengoku — 'warring states'). Samurai as hereditary warrior class, katana as warrior's soul. Seppuku: ritual suicide.",
+      "descricao_es": "Shogunato Kamakura (1185-1333): gobierno militar de facto. Bushido: lealtad absoluta, honor, muerte preferible al deshonor. Invasiones mongolas repelidas por tifones (kamikaze). Shogunato Muromachi (1336-1573): fragmentación y guerras civiles (Sengoku). Seppuku: suicidio ritual.",
+      "inicio": 1185,
+      "fim": 1603,
+      "tags": [
+        "samurai",
+        "bushido",
+        "xogunato",
+        "japao"
+      ],
+      "importancia": "O Bushido ('caminho do guerreiro') foi um código ético elaborado posteriormente para legitimar o poder samurai — a maioria dos textos clássicos do Bushido foram escritos séculos depois do período que descrevem. Mas isso não reduziu sua força normativa: o Japão feudal organizou-se em torno de lealdade, honra e hierarquia rigorosa que moldou profundamente a cultura japonesa. A persistência desses valores no Japão corporativo moderno — lealdade à empresa, vergonha pública do fracasso — é herança direta do sistema samurai.",
+      "century_start": 12,
+      "century_end": 17,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Samurai as hereditary warrior class, katana as warrior's soul.",
+      "importancia_es": "Shogunato Muromachi (1336-1573): fragmentación y guerras civiles (Sengoku)."
+    },
+    {
+      "id": "jap-004",
+      "nome": "Xogunato Tokugawa e o Sakoku",
+      "nome_en": "Tokugawa Shogunate and Sakoku",
+      "nome_es": "Shogunato Tokugawa y el Sakoku",
+      "tipo": "periodo",
+      "descricao": "Tokugawa Ieyasu unificou o Japão após a Batalha de Sekigahara (1600). Edo (Tokyo) tornou-se capital. Sakoku ('país fechado', 1633-1853): expulsão dos europeus, proibição do Cristianismo, somente holandeses no porto de Dejima. Paz de 250 anos. Sistema de classes rígido: samurai, camponês, artesão, comerciante (eta/hinin fora do sistema). Kabuki e ukiyo-e ('pinturas do mundo flutuante'). Haiku: Matsuo Bashō. Prosperidade silenciosa e alta urbanização.",
+      "descricao_en": "Tokugawa Ieyasu unified Japan after the Battle of Sekigahara (1600). Edo (Tokyo) became the capital. Sakoku ('closed country', 1633-1853): expulsion of Europeans, prohibition of Christianity, only Dutch at Dejima port. 250 years of peace. Rigid class system: samurai, peasant, artisan, merchant (eta/hinin outside). Kabuki and ukiyo-e ('pictures of the floating world'). Haiku: Matsuo Bashō. Silent prosperity and high urbanization.",
+      "descricao_es": "Tokugawa Ieyasu unificó Japón tras Sekigahara (1600). Edo (Tokio) como capital. Sakoku ('país cerrado', 1633-1853): expulsión de europeos, prohibición del Cristianismo. 250 años de paz. Kabuki y ukiyo-e. Haiku: Matsuo Bashō.",
+      "inicio": 1600,
+      "fim": 1853,
+      "tags": [
+        "tokugawa",
+        "sakoku",
+        "japao",
+        "isolacionismo"
+      ],
+      "importancia": "O Sakoku ('país fechado', 1635-1854) foi a tentativa Tokugawa de congelar a ordem social japonesa eliminando influências externas desestabilizadoras — especialmente o Cristianismo, que os Tokugawa associavam a rebelião (a Revolta de Shimabara, 1637-38, foi liderada por cristãos). O paradoxo: o isolamento preservou a paz por 250 anos e permitiu o desenvolvimento de uma cultura urbana sofisticada (teatro Noh, kabuki, ukiyo-e), mas criou o atraso tecnológico militar que tornou o Japão vulnerável às canhoneiras americanas de 1853.",
+      "century_start": 17,
+      "century_end": 19,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Kabuki and ukiyo-e ('pictures of the floating world'). Silent prosperity and high urbanization.",
+      "importancia_es": "Sakoku ('país cerrado', 1633-1853): expulsión de europeos, prohibición del Cristianismo."
+    },
+    {
+      "id": "jap-005",
+      "nome": "Abertura Forçada e Restauração Meiji",
+      "nome_en": "Forced Opening and Meiji Restoration",
+      "nome_es": "Apertura Forzada y Restauración Meiji",
+      "tipo": "periodo",
+      "descricao": "Commodore Matthew Perry (EUA) com 'navios negros' forçou o Japão a abrir portos (1853). Tratado desigual de Kanagawa (1854). Revolução Meiji (1868): oligarcas derrubaram o xogunato, restauraram o Imperador como símbolo de modernização. Missão Iwakura (1871-1873): delegação estudou EUA e Europa. Industrialização acelerada, exército moderno (modelo prussiano), educação universal, Constituição (1889). Em 30 anos, o Japão tornou-se potência industrial asiática.",
+      "descricao_en": "Commodore Matthew Perry (USA) with 'black ships' forced Japan to open ports (1853). Unequal Treaty of Kanagawa (1854). Meiji Revolution (1868): oligarchs overthrew the shogunate, restored Emperor as symbol of modernization. Iwakura Mission (1871-1873): delegation studied USA and Europe. Accelerated industrialization, modern army (Prussian model), universal education, Constitution (1889). In 30 years, Japan became an Asian industrial power.",
+      "descricao_es": "Comodoro Perry (EE.UU.) con 'barcos negros' forzó la apertura (1853). Revolución Meiji (1868): derrocaron el shogunato, restauraron al Emperador. Misión Iwakura (1871-1873). Industrialización acelerada. En 30 años, Japón se convirtió en potencia industrial asiática.",
+      "inicio": 1853,
+      "fim": 1905,
+      "tags": [
+        "meiji",
+        "modernizacao",
+        "japao",
+        "perry"
+      ],
+      "importancia": "A Restauração Meiji (1868) é o exemplo mais bem-sucedido de modernização 'de cima para baixo' na história: em 40 anos, o Japão passou de feudalismo samurai a potência industrial com marinha moderna, universidades, ferrovia e Constituição. A chave foi seletividade estratégica: adotar tecnologia e instituições ocidentais (exército prussiano, marinha britânica, Código Civil francês) preservando a identidade cultural japonesa. A derrota da Rússia em 1905 foi o momento em que o mundo percebeu que a modernidade não era monopólio europeu.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Accelerated industrialization, modern army (Prussian model), universal education, Constitution (1889). In 30 years, Japan became an Asian industrial power.",
+      "importancia_es": "En 30 años, Japón se convirtió en potencia industrial asiática."
+    },
+    {
+      "id": "jap-006",
+      "nome": "Imperialismo Japonês e a Guerra no Pacífico",
+      "nome_en": "Japanese Imperialism and the Pacific War",
+      "nome_es": "Imperialismo Japonés y la Guerra del Pacífico",
+      "tipo": "periodo",
+      "descricao": "Guerra Sino-Japonesa (1894-1895): Japão derrotou a China — primeiro sinal. Guerra Russo-Japonesa (1904-1905): Japão derrotou a Rússia — chocou o mundo. Anexação da Coréia (1910). Manchúria (1931). Invasão da China (1937). Pearl Harbor (7 de dezembro de 1941): ataque surpresa aos EUA. Esfera de Co-Prosperidade da Ásia Oriental. Hiroshima (6 ago 1945) e Nagasaki (9 ago 1945): bombas atômicas. Capitulação em 15 de agosto de 1945. 3-10 milhões de mortos japoneses.",
+      "descricao_en": "First Sino-Japanese War (1894-1895): Japan defeated China — first signal. Russo-Japanese War (1904-1905): Japan defeated Russia — shocked the world. Annexation of Korea (1910). Manchuria (1931). Invasion of China (1937). Pearl Harbor (Dec 7, 1941): surprise attack on the USA. Greater East Asia Co-Prosperity Sphere. Hiroshima (Aug 6, 1945) and Nagasaki (Aug 9, 1945): atomic bombs. Capitulation on August 15, 1945. 3-10 million Japanese dead.",
+      "descricao_es": "Guerra Sino-Japonesa (1894-1895). Guerra Ruso-Japonesa (1904-1905): Japón derrotó a Rusia. Anexión de Corea (1910). Pearl Harbor (7 dic 1941). Hiroshima (6 ago 1945) y Nagasaki (9 ago 1945). Capitulación el 15 de agosto de 1945.",
+      "inicio": 1894,
+      "fim": 1945,
+      "tags": [
+        "imperialismo-japones",
+        "pearl-harbor",
+        "pacifico",
+        "hiroshima"
+      ],
+      "importancia": "O imperialismo japonês (1895-1945) foi a versão asiática do imperialismo europeu — com a mesma lógica de 'civilizar' e as mesmas brutalidades. O Massacre de Nanjing (1937, 200.000-300.000 mortos), as mulheres de conforto (escravidão sexual sistemática) e os experimentos da Unidade 731 (testes biológicos em prisioneiros) são crimes de guerra que o Japão nunca reconheceu plenamente, criando tensões com China e Coreia que persistem. A derrota em 1945 e a ocupação americana transformaram o Japão pacifista — mas o debate sobre a memória histórica nunca foi resolvido.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "EastAsia",
+      "type": "war",
+      "period": "Contemporary",
+      "importancia_en": "Hiroshima (Aug 6, 1945) and Nagasaki (Aug 9, 1945): atomic bombs. Capitulation on August 15, 1945.",
+      "importancia_es": "Hiroshima (6 ago 1945) y Nagasaki (9 ago 1945). Capitulación el 15 de agosto de 1945."
+    },
+    {
+      "id": "jap-007",
+      "nome": "Japão Pós-Guerra: Milagre Econômico",
+      "nome_en": "Post-War Japan: Economic Miracle",
+      "nome_es": "Japón de Posguerra: Milagro Económico",
+      "tipo": "periodo",
+      "descricao": "Ocupação americana (1945-1952): MacArthur impôs Constituição pacifista (Art. 9), reformas agrárias, democratização. Artigo 9: renúncia à guerra. Guerra da Coreia (1950-1953) como catalisador econômico. Anos 1950-70: crescimento de 10% ao ano — 'Milagre Econômico'. Toyota Production System (just-in-time). Sony, Honda, Panasonic. Segunda maior economia (1968-2010). 'Doença japonesa' dos anos 1990: bolha imobiliária, deflação, estagnação. Modelo de industrialização seguido por Coreia, Taiwan, Cingapura.",
+      "descricao_en": "American occupation (1945-1952): MacArthur imposed pacifist Constitution (Art. 9), land reforms, democratization. Article 9: renunciation of war. Korean War (1950-1953) as economic catalyst. 1950-70: 10% annual growth — 'Economic Miracle'. Toyota Production System (just-in-time). Sony, Honda, Panasonic. Second largest economy (1968-2010). 'Japanese disease' of the 1990s: real estate bubble, deflation, stagnation. Industrialization model followed by Korea, Taiwan, Singapore.",
+      "descricao_es": "Ocupación americana (1945-1952): Constitución pacifista. Artículo 9: renuncia a la guerra. Guerra de Corea como catalizador económico. 1950-70: crecimiento del 10% anual. Toyota, Sony, Honda. Segunda economía mundial (1968-2010). 'Enfermedad japonesa' de los 90.",
+      "inicio": 1945,
+      "fim": 2000,
+      "tags": [
+        "japao-pos-guerra",
+        "milagre-economico",
+        "toyota",
+        "americanizacao"
+      ],
+      "importancia": "O 'milagre econômico' japonês (1955-1973: crescimento médio de 10% ao ano) provou que industrialização acelerada era possível sem colonialismo — com trabalho disciplinado, educação de qualidade, proteção industrial estratégica e transferência tecnológica. O modelo japonês (MITI, keiretsu, banco de desenvolvimento) foi estudado e parcialmente replicado pelos 'Tigres Asiáticos' — Coreia do Sul, Taiwan, Singapura, Hong Kong. A estagnação dos anos 1990 em diante revelou que o mesmo modelo que acelerou o desenvolvimento criou rigidez estrutural incompatível com a fase seguinte.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "EastAsia",
+      "type": "economic",
+      "period": "Contemporary",
+      "importancia_en": "Industrialization model followed by Korea, Taiwan, Singapore.",
+      "importancia_es": "Segunda economía mundial (1968-2010). 'Enfermedad japonesa' de los 90."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "jap-001",
+      "destino": "jap-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "A cultura Heian floresceu sobre a base religiosa e social do Japão arcaico"
+    },
+    {
+      "origem": "jap-002",
+      "destino": "jap-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "O declínio da corte Heian deu lugar ao governo militar samurai"
+    },
+    {
+      "origem": "jap-003",
+      "destino": "jap-004",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Tokugawa unificou o Japão pondo fim às guerras civis Sengoku"
+    },
+    {
+      "origem": "jap-004",
+      "destino": "jap-005",
+      "tipo": "causalidade",
+      "intensidade": 1.0,
+      "descricao": "O isolamento Tokugawa foi bruscamente encerrado pelos navios de Perry"
+    },
+    {
+      "origem": "jap-005",
+      "destino": "jap-006",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A modernização Meiji transformou o Japão em potência imperialista"
+    },
+    {
+      "origem": "jap-006",
+      "destino": "jap-007",
+      "tipo": "causalidade",
+      "intensidade": 1.0,
+      "descricao": "A derrota na guerra levou à ocupação americana e ao 'milagre econômico'"
+    }
+  ]
+}

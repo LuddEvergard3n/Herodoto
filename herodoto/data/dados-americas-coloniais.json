@@ -1,0 +1,263 @@
+{
+  "entidades": [
+    {
+      "id": "coam-001",
+      "nome": "Conquista do México (Hernán Cortés)",
+      "nome_en": "Conquest of Mexico (Hernán Cortés)",
+      "nome_es": "Conquista de México (Hernán Cortés)",
+      "tipo": "periodo",
+      "descricao": "Hernán Cortés chegou ao México em 1519 com 500 homens. Aliou-se aos Tlaxcaltecas (inimigos dos astecas). Moctezuma II: capturado e morto. Noite Triste (1520): astecas expulsaram os espanhóis. Tenochtitlan sitiada e destruída (1521). Armas de fogo, cavalos e doenças (varíola) foram decisivos. Mortalidade indígena: 90% em um século (20-25 milhões). Encomienda: trabalho forçado. Missão religiosa franciscana. Nova Espanha (1521-1821): 300 anos de colônia.",
+      "descricao_en": "Hernán Cortés arrived in Mexico in 1519 with 500 men. Allied with the Tlaxcaltecs (Aztec enemies). Moctezuma II: captured and killed. Noche Triste (1520): Aztecs expelled the Spanish. Tenochtitlan besieged and destroyed (1521). Firearms, horses, and diseases (smallpox) were decisive. Indigenous mortality: 90% in a century (20-25 million). Encomienda: forced labor. Franciscan religious mission. New Spain (1521-1821): 300 years of colony.",
+      "descricao_es": "Cortés llegó a México en 1519 con 500 hombres. Alió a los Tlaxcaltecas. Noche Triste (1520). Tenochtitlan destruida (1521). Armas de fuego, caballos y enfermedades (viruela) decisivos. Mortalidad indígena: 90% en un siglo. Encomienda. Nueva España (1521-1821).",
+      "inicio": 1519,
+      "fim": 1521,
+      "tags": [
+        "mexico",
+        "cortes",
+        "conquistadores",
+        "aztecas"
+      ],
+      "importancia": "A conquista do México por Cortés (1519-21) é militarmente impossível sem contexto: 600 espanhóis não derrotaram um império de 5 milhões — uma coalizão de 200.000 guerreiros tlaxcaltecas e outros povos subjugados pelos Astecas derrotou Tenochtitlán com apoio espanhol. A varíola fez o resto: matou Moctezuma II e dezenas de milhares antes da batalha final. A conquista revelou que impérios tributários baseados em coerção são estruturalmente vulneráveis: os subjugados esperavam apenas uma oportunidade para reverter a ordem.",
+      "century_start": 16,
+      "century_end": 16,
+      "region": "Americas",
+      "type": "war",
+      "period": "EarlyModern",
+      "importancia_en": "Indigenous mortality: 90% in a century (20-25 million). New Spain (1521-1821): 300 years of colony.",
+      "importancia_es": "Armas de fuego, caballos y enfermedades (viruela) decisivos. Mortalidad indígena: 90% en un siglo."
+    },
+    {
+      "id": "coam-002",
+      "nome": "Conquista do Peru (Francisco Pizarro)",
+      "nome_en": "Conquest of Peru (Francisco Pizarro)",
+      "nome_es": "Conquista de Perú (Francisco Pizarro)",
+      "tipo": "evento",
+      "descricao": "Francisco Pizarro com ~180 homens capturou o Imperador Inca Atahualpa em Cajamarca (1532) sem perder um único espanhol — 6.000 incas mortos em horas. Atahualpa ofereceu um quarto de ouro em troca da liberdade. Recebeu o ouro (~6 toneladas) e foi executado de qualquer forma. Cusco tomada em 1533. Resistência dos Incas de Vilcabamba até 1572. Mita: trabalho forçado nas minas de Potosí (Bolivia) — 8 milhões de mortos estimados.",
+      "descricao_en": "Francisco Pizarro with ~180 men captured Inca Emperor Atahualpa at Cajamarca (1532) without losing a single Spaniard — 6,000 Incas dead in hours. Atahualpa offered a roomful of gold for his freedom. Received the gold (~6 tons) and was executed anyway. Cusco taken in 1533. Inca resistance at Vilcabamba until 1572. Mita: forced labor in Potosí mines (Bolivia) — estimated 8 million dead.",
+      "descricao_es": "Pizarro con ~180 hombres capturó al Inca Atahualpa en Cajamarca (1532) sin perder un español. 6.000 incas muertos en horas. Atahualpa ofreció una habitación de oro. Fue ejecutado de todas formas. Mita: trabajo forzado en las minas de Potosí — estimados 8 millones de muertos.",
+      "inicio": 1532,
+      "fim": 1572,
+      "tags": [
+        "peru",
+        "pizarro",
+        "incas",
+        "atahualpa"
+      ],
+      "importancia": "A conquista do Peru por Pizarro (1532) foi ainda mais improvável que a do México: 168 homens capturaram o imperador inca Atahualpa numa cidade de 40.000 guerreiros. A chave foi a guerra civil inca recente (Huáscar vs. Atahualpa) que dividiu o exército; a surpresa do ataque a cavalo em espaço aberto; e a paralisia política causada pela captura do Sapa Inca — num sistema onde todas as decisões fluíam do imperador. Pizarro pagou o resgate (um quarto cheio de ouro), executou Atahualpa mesmo assim, e o Tawantinsuyu desmoronou.",
+      "century_start": 16,
+      "century_end": 16,
+      "region": "Americas",
+      "type": "war",
+      "period": "EarlyModern",
+      "importancia_en": "Mita: forced labor in Potosí mines (Bolivia) — estimated 8 million dead.",
+      "importancia_es": "Mita: trabajo forzado en las minas de Potosí — estimados 8 millones de muertos."
+    },
+    {
+      "id": "coam-003",
+      "nome": "Catequização e Missões Jesuítas",
+      "nome_en": "Catechization and Jesuit Missions",
+      "nome_es": "Catequización y Misiones Jesuitas",
+      "tipo": "movimento",
+      "descricao": "Companhia de Jesus (fundada 1540, Inácio de Loyola): método de conversão pela educação e cultura nativa. Reduções jesuítas do Paraguai (1610-1768): cidades guaranis planejadas com igreja, música, agricultura — modelo utópico. Bartolomé de las Casas (1484-1566): defender dos índios, denunciou os massacres. Debate de Valladolid (1550-1551): têm os índios alma? Gines de Sepúlveda (não) vs. Las Casas (sim). Expulsão dos jesuítas (1759-1768): destruição das missões.",
+      "descricao_en": "Society of Jesus (founded 1540, Ignatius of Loyola): conversion method through education and native culture. Jesuit Reductions in Paraguay (1610-1768): planned Guaraní cities with church, music, agriculture — utopian model. Bartolomé de las Casas (1484-1566): defender of indigenous peoples, denounced massacres. Valladolid Debate (1550-1551): do Indians have souls? Ginés de Sepúlveda (no) vs. Las Casas (yes). Expulsion of Jesuits (1759-1768): destruction of missions.",
+      "descricao_es": "Jesuitas: conversión por educación y cultura nativa. Reducciones del Paraguay (1610-1768): ciudades guaraníes planificadas — modelo utópico. Bartolomé de las Casas: defensor de los indios, denunció masacres. Debate de Valladolid (1550-1551). Expulsión de los jesuitas (1759-1768).",
+      "inicio": 1540,
+      "fim": 1768,
+      "tags": [
+        "jesuitias",
+        "missoes",
+        "catequizacao",
+        "las-casas"
+      ],
+      "importancia": "As Missões Jesuíticas criaram cidades indígenas únicas onde culturas, línguas e tradições foram preservadas em vez de destruídas. Las Casas inspirou o debate sobre direitos humanos universais. A expulsão dos jesuítas em 1767–68 marcou o fim dessa proteção — e o colapso imediato das Missões mostrou o quanto as populações indígenas dependiam dessa presença como escudo.",
+      "century_start": 16,
+      "century_end": 18,
+      "region": "Americas",
+      "type": "religious",
+      "period": "EarlyModern",
+      "importancia_en": "Valladolid Debate (1550-1551): do Indians have souls? Expulsion of Jesuits (1759-1768): destruction of missions.",
+      "importancia_es": "Debate de Valladolid (1550-1551). Expulsión de los jesuitas (1759-1768)."
+    },
+    {
+      "id": "coam-004",
+      "nome": "Potosí: A Montanha de Prata que Financiou a Europa",
+      "nome_en": "Potosí: The Silver Mountain that Financed Europe",
+      "nome_es": "Potosí: La Montaña de Plata que Financió Europa",
+      "tipo": "lugar",
+      "descricao": "Cerro Rico de Potosí (atual Bolívia): descoberto em 1545 — maior depósito de prata do mundo. 1570: segunda maior cidade do mundo (150.000 habitantes). Mita: trabalho forçado rotatório — povos andinos obrigados a trabalhar nas minas. Mercúrio em Huancavelica para amalgamação. De 1545 a 1800: 41.000 toneladas de prata extraídas. 'Vale um Potosí' (expressão espanhola para riqueza extrema). Capital financiou guerras europeias, consolidou o capitalismo mercantil.",
+      "descricao_en": "Cerro Rico of Potosí (present-day Bolivia): discovered in 1545 — world's largest silver deposit. 1570: second largest city in the world (150,000 inhabitants). Mita: mandatory rotating forced labor — Andean peoples forced to work in mines. Mercury in Huancavelica for amalgamation. From 1545 to 1800: 41,000 tons of silver extracted. 'Worth a Potosí' (Spanish expression for extreme wealth). Capital financed European wars, consolidated merchant capitalism.",
+      "descricao_es": "Cerro Rico de Potosí (Bolivia): descubierto en 1545. 1570: segunda ciudad más grande del mundo. Mita: trabajo forzado rotatorio. 1545-1800: 41.000 toneladas de plata extraídas. 'Vale un Potosí'. Financió guerras europeas y el capitalismo mercantil.",
+      "inicio": 1545,
+      "fim": 1800,
+      "tags": [
+        "potosi",
+        "prata",
+        "mita",
+        "colonialismo"
+      ],
+      "importancia": "Potosí foi a maior mina de prata da história e o maior pesadelo colonial da história americana. A mit'a andina (trabalho forçado rotativo inca) foi sequestrada pelos espanhóis para extrair prata: 8 milhões de indígenas morreram nas minas entre 1545 e 1825. A prata financiou a hegemonia espanhola, causou inflação na Europa ('Revolução dos Preços') e chegou à China em troca de seda e porcelana — criando o primeiro circuito econômico global. A riqueza de Potosí não desenvolveu a América — fluiu para a Espanha e desta para os credores europeus.",
+      "century_start": 16,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "economic",
+      "period": "EarlyModern",
+      "importancia_en": "Capital financed European wars, consolidated merchant capitalism.",
+      "importancia_es": "1545-1800: 41.000 toneladas de plata extraídas. Financió guerras europeas y el capitalismo mercantil."
+    },
+    {
+      "id": "coam-005",
+      "nome": "Trece Colonias e Independência dos EUA",
+      "nome_en": "Thirteen Colonies and US Independence",
+      "nome_es": "Trece Colonias e Independencia de EE.UU.",
+      "tipo": "periodo",
+      "descricao": "Colonização inglesa da América do Norte (1607 — Jamestown; 1620 — Mayflower/Plymouth). Thirteen Colonies: diversidade religiosa, autogovernança relativa, expansão à custa dos nativos. Sem representação, sem impostos (1765, Stamp Act). Motim do Chá de Boston (1773). Declaração de Independência (4 de julho de 1776): Locke revisitado — vida, liberdade e busca da felicidade. Constituição (1787): separação de poderes. Escravidão como contradição fundante.",
+      "descricao_en": "English colonization of North America (1607 — Jamestown; 1620 — Mayflower/Plymouth). Thirteen Colonies: religious diversity, relative self-governance, expansion at the expense of natives. No taxation without representation (1765, Stamp Act). Boston Tea Party (1773). Declaration of Independence (July 4, 1776): Locke revisited — life, liberty, and pursuit of happiness. Constitution (1787): separation of powers. Slavery as founding contradiction.",
+      "descricao_es": "Colonización inglesa (1607 — Jamestown; 1620 — Mayflower). Sin representación, sin impuestos (1765). Motín del Té de Boston (1773). Declaración de Independencia (4 de julio de 1776). Constitución (1787). La esclavitud como contradicción fundacional.",
+      "inicio": 1607,
+      "fim": 1787,
+      "tags": [
+        "eua",
+        "independencia",
+        "constituicao",
+        "colonias"
+      ],
+      "importancia": "As Treze Colônias tinham condições únicas que as distinguiam das colônias ibéricas: puritanos que criaram assembleias locais autônomas, tradição de common law britânica e distância suficiente de Londres para desenvolver autogoverno real. O paradoxo fundacional americano — 'todos os homens são criados iguais' numa república escravista — definiu a política americana por 250 anos. A Constituição de 1787, com seu sistema de freios e contrapesos e federalismo, foi a mais influente inovação política da modernidade.",
+      "century_start": 17,
+      "century_end": 18,
+      "region": "Americas",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Constitution (1787): separation of powers. Slavery as founding contradiction.",
+      "importancia_es": "Declaración de Independencia (4 de julio de 1776). La esclavitud como contradicción fundacional."
+    },
+    {
+      "id": "coam-008",
+      "nome": "Escravidão nos EUA e a Guerra Civil",
+      "nome_en": "Slavery in the USA and the Civil War",
+      "nome_es": "Esclavitud en EE.UU. y la Guerra Civil",
+      "tipo": "periodo",
+      "descricao": "1619: primeiro navio negreiro na Virgínia. 1860: 4 milhões de escravizados nos EUA sulistas. Abolicionismo: Frederick Douglass, Harriet Tubman, Underground Railroad. Stowe: A Cabana do Pai Tomás (1852). Abraham Lincoln eleito (1860). Secessão dos estados sulistas: Confederação. Guerra Civil (1861-1865): 620.000 mortos. Proclamação de Emancipação (1863). Assassinato de Lincoln (1865). Reconstrução (1865-1877): breve. Jim Crow: segregação legal (1877-1964).",
+      "descricao_en": "1619: first slave ship in Virginia. 1860: 4 million enslaved people in Southern USA. Abolitionism: Frederick Douglass, Harriet Tubman, Underground Railroad. Stowe: Uncle Tom's Cabin (1852). Abraham Lincoln elected (1860). Secession of Southern states: Confederacy. Civil War (1861-1865): 620,000 dead. Emancipation Proclamation (1863). Lincoln's assassination (1865). Reconstruction (1865-1877): brief. Jim Crow: legal segregation (1877-1964).",
+      "descricao_es": "1619: primer barco negrero en Virginia. 1860: 4 millones de esclavizados. Abolicionismo: Frederick Douglass, Harriet Tubman. Lincoln elegido (1860). Secesión: Confederación. Guerra Civil (1861-1865): 620.000 muertos. Proclama de Emancipación (1863). Jim Crow (1877-1964).",
+      "inicio": 1619,
+      "fim": 1965,
+      "tags": [
+        "escravidao",
+        "guerra-civil",
+        "lincoln",
+        "jim-crow"
+      ],
+      "importancia": "A Guerra Civil americana (1861-65) foi simultaneamente a guerra mais mortífera da história americana (620.000 mortos) e a segunda revolução americana: destruiu o sistema escravista, ampliou o poder federal sobre os estados e criou os alicerces do Estado moderno americano. A Reconstrução (1865-77) tentou integrar os ex-escravizados como cidadãos plenos — e foi sabotada pelo Sul. O fracasso da Reconstrução gerou um século de segregação legalizada, violência racial e privação de direitos que o Movimento pelos Direitos Civis de 1954-68 finalmente começou a desmantelar.",
+      "century_start": 17,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "Reconstruction (1865-1877): brief. Jim Crow: legal segregation (1877-1964).",
+      "importancia_es": "Guerra Civil (1861-1865): 620.000 muertos. Proclama de Emancipación (1863)."
+    },
+    {
+      "id": "coam-007",
+      "nome": "Expansão dos EUA e o Destino Manifesto",
+      "nome_en": "US Expansion and Manifest Destiny",
+      "nome_es": "Expansión de EE.UU. y el Destino Manifiesto",
+      "tipo": "periodo",
+      "descricao": "'Destino Manifesto' (1845): doutrina que proclamava ser vontade divina a expansão dos EUA pelo continente. Compra da Louisiana (1803). Texas (1836, 1845). Guerra Mexicano-Americana (1846-1848): EUA tomaram 55% do território mexicano. Doutrina Monroe (1823): América para os americanos (leia-se: para os EUA). Expulsão e genocídio dos nativos americanos. Marcha da Morte dos Cherokee (1838). Oklahoma: 'Território Indígena'. Indian Removal Act (1830). Transcontinental Railroad (1869): integração e colonização acelerada.",
+      "descricao_en": "'Manifest Destiny' (1845): God destined the USA to dominate the continent. Louisiana Purchase (1803). Texas (1836, 1845). Mexican-American War (1846-1848): USA took 55% of Mexican territory. Monroe Doctrine (1823): America for Americans (read: for the USA). Expulsion and genocide of Native Americans. Trail of Tears (1838). Oklahoma: 'Indian Territory'. Indian Removal Act (1830). Transcontinental Railroad (1869): integration and accelerated colonization.",
+      "descricao_es": "'Destino Manifiesto' (1845). Compra de Luisiana (1803). Guerra Mexicano-Estadounidense (1846-1848): EE.UU. tomó el 55% del territorio mexicano. Doctrina Monroe (1823). Genocidio de nativos americanos. Sendero de las Lágrimas (1838). Ferrocarril Transcontinental (1869).",
+      "inicio": 1803,
+      "fim": 1890,
+      "tags": [
+        "eua",
+        "destino-manifesto",
+        "expansao",
+        "nativos"
+      ],
+      "importancia": "A Doutrina Monroe (1823) e o 'Destino Manifesto' (conceito dos anos 1840) foram as justificativas ideológicas da expansão americana que dobrou o território dos EUA à custa do México e dos povos indígenas. A guerra mexicana-americana (1846-48) transferiu metade do território mexicano (atual Texas, Califórnia, Novo México, Arizona) para os EUA. O padrão — potência declarando uma região como sua esfera de influência natural — foi o modelo para a Doutrina Roosevelt, a CIA nas Américas e o expansionismo geopolítico americano do século XX.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Transcontinental Railroad (1869): integration and accelerated colonization.",
+      "importancia_es": "Sendero de las Lágrimas (1838). Ferrocarril Transcontinental (1869)."
+    },
+    {
+      "id": "coam-006",
+      "nome": "Independências Hispano-Americanas",
+      "nome_en": "Hispanic American Independences",
+      "nome_es": "Independencias Hispanoamericanas",
+      "tipo": "periodo",
+      "descricao": "Inspiradas pela Revolução Francesa e pela Independência dos EUA. Crise da monarquia espanhola (invasão napoleônica, 1808) catalisou o processo. Simón Bolívar: Gran Colombia, Venezuela, Equador, Peru, Bolívia. José de San Martín: Argentina, Chile, Peru. Miguel Hidalgo e Iturbide: México (1810-1821). Haiti (1804): única revolução escrava bem-sucedida da história. Novas nações herdaram: latifúndio, hierarquia racial, burocracia colonial, dependência econômica.",
+      "descricao_en": "Inspired by the French Revolution and US Independence. Crisis of the Spanish monarchy (Napoleonic invasion, 1808) catalyzed the process. Simón Bolívar: Gran Colombia, Venezuela, Ecuador, Peru, Bolivia. José de San Martín: Argentina, Chile, Peru. Miguel Hidalgo and Iturbide: Mexico (1810-1821). Haiti (1804): only successful slave revolution in history. New nations inherited: large estates, racial hierarchy, colonial bureaucracy, economic dependence.",
+      "descricao_es": "Inspiradas en la Revolución Francesa y la Independencia de EE.UU. Invasión napoleónica (1808) catalizó el proceso. Bolívar: Gran Colombia, Venezuela, Ecuador, Perú, Bolivia. San Martín: Argentina, Chile, Perú. Haití (1804): única revolución esclava exitosa. Nuevas naciones heredaron el latifundio y la dependencia económica.",
+      "inicio": 1804,
+      "fim": 1826,
+      "tags": [
+        "independencias",
+        "bolivar",
+        "america-latina",
+        "haiti"
+      ],
+      "importancia": "As independências hispano-americanas (1810-1826) aconteceram numa geração — e criaram fragmentação que Bolívar previu e lamentou. Ao contrário do Brasil (que manteve unidade sob monarquia), a América espanhola dividiu-se em 18 repúblicas que herdaram fronteiras virreinais sem as instituições necessárias para governá-las democraticamente. As guerras de independência criaram exércitos como principal ator político — e os exércitos governariam como caudilhos por décadas. A independência política não produziu a independência econômica: o mercado de commodities com a Europa continuou sob novos senhores.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "New nations inherited: large estates, racial hierarchy, colonial bureaucracy, economic dependence.",
+      "importancia_es": "Nuevas naciones heredaron el latifundio y la dependencia económica."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "coam-001",
+      "destino": "coam-002",
+      "tipo": "contemporaneo",
+      "intensidade": 0.9,
+      "descricao": "Conquista do México e do Peru foram simultâneas, partes do mesmo processo de colonização espanhola"
+    },
+    {
+      "origem": "coam-002",
+      "destino": "coam-004",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A conquista do Peru abriu acesso às minas de Potosí"
+    },
+    {
+      "origem": "coam-003",
+      "destino": "coam-001",
+      "tipo": "contemporaneo",
+      "intensidade": 0.8,
+      "descricao": "As missões jesuítas foram resposta à violência da conquista militar"
+    },
+    {
+      "origem": "coam-004",
+      "destino": "coam-006",
+      "tipo": "influencia",
+      "intensidade": 0.7,
+      "descricao": "O esgotamento das minas coloniais fragilizou a Espanha e acelerou as independências"
+    },
+    {
+      "origem": "coam-005",
+      "destino": "coam-006",
+      "tipo": "influencia",
+      "intensidade": 0.85,
+      "descricao": "A Independência dos EUA inspirou diretamente Bolívar e os líderes hispano-americanos"
+    },
+    {
+      "origem": "coam-006",
+      "destino": "coam-007",
+      "tipo": "contemporaneo",
+      "intensidade": 0.7,
+      "descricao": "Independências e expansão dos EUA foram paralelas — EUA aproveitou o vácuo de poder espanhol"
+    },
+    {
+      "origem": "coam-005",
+      "destino": "coam-008",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A escravidão foi uma contradição fundante da República americana desde 1619"
+    }
+  ]
+}

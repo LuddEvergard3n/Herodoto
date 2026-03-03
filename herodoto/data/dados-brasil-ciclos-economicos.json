@@ -1,0 +1,137 @@
+{
+  "entidades": [
+    {
+      "id": "bce-001",
+      "nome": "Ciclo do Pau-Brasil e as Primeiras Feitorias (1500–1535)",
+      "nome_en": "Brazil-Wood Cycle and the First Trading Posts (1500–1535)",
+      "nome_es": "Ciclo del Palo Brasil y las Primeras Factorías (1500–1535)",
+      "tipo": "periodo",
+      "inicio": 1500,
+      "fim": 1535,
+      "descricao": "Primeiro ciclo econômico do Brasil: extração do pau-brasil (Caesalpinia echinata) — madeira usada para tintura vermelha de tecidos europeus. Arrendado a Fernão de Noronha (1502): corte e venda exclusiva. Escambo com indígenas: machados de ferro por troncos — colapso gradual por recusa crescente dos Tupi ao trabalho. Feitorias defensivas (Cabo Frio, São Vicente, Pernambuco): entrepostos de coleta sem colonização. Concorrência francesa: piratas e corsários competiam pelo pau-brasil, forçando Portugal a colonizar efetivamente a partir de 1530. Madeira rara ao ponto de ser contrabandeada; estoque praticamente esgotado no séc. XVII.",
+      "descricao_en": "First economic cycle of Brazil: extraction of brazil-wood (Caesalpinia echinata) — wood used for red dyeing of European textiles. Leased to Fernão de Noronha (1502): exclusive cutting and sale. Barter with indigenous people: iron axes for logs — gradual collapse due to growing Tupi refusal to work. Defensive trading posts (Cabo Frio, São Vicente, Pernambuco): collection outposts without colonization. French competition: pirates and corsairs competed for brazil-wood, forcing Portugal to effectively colonize from 1530. Wood so rare it was smuggled; stocks practically exhausted in the 17th century.",
+      "descricao_es": "Primer ciclo económico de Brasil: extracción del palo brasil (Caesalpinia echinata) — madera para teñir tejidos europeos de rojo. Arrendado a Fernão de Noronha (1502). Trueque con indígenas: hachas de hierro por troncos. La competencia francesa forzó a Portugal a colonizar efectivamente desde 1530. Existencias prácticamente agotadas en el siglo XVII.",
+      "tags": [
+        "pau-brasil",
+        "feitoria",
+        "escambo",
+        "tupi",
+        "colonizacao"
+      ],
+      "importancia": "O pau-brasil deu nome ao país — mas seu valor econômico era tão baixo que Portugal demorou 30 anos para colonizar de facto o território que possuía.",
+      "century_start": 16,
+      "century_end": 16,
+      "region": "SouthAmerica",
+      "type": "economic",
+      "period": "EarlyModern",
+      "importancia_en": "Wood so rare it was smuggled; stocks practically exhausted in the 17th century.",
+      "importancia_es": "La competencia francesa forzó a Portugal a colonizar efectivamente desde 1530. Existencias prácticamente agotadas en el siglo XVII."
+    },
+    {
+      "id": "bce-002",
+      "nome": "Ciclo do Açúcar (1530–1700): A Primeira Economia Moderna",
+      "nome_en": "Sugar Cycle (1530–1700): The First Modern Economy",
+      "nome_es": "Ciclo del Azúcar (1530–1700): La Primera Economía Moderna",
+      "tipo": "periodo",
+      "inicio": 1530,
+      "fim": 1700,
+      "descricao": "Açúcar transformou o Brasil na economia mais rica do Atlântico Sul por 150 anos. Engenhos do Nordeste (Pernambuco, Bahia): processamento vertical integrado — plantio, colheita, moagem, exportação. Trabalho escravizado africano: ~500.000 africanos deportados ao Brasil até 1700. Capital holandês (WIC): financiou expansão; Invasão Holandesa (1624–54) interrompeu mas não destruiu o ciclo. Brasil holandês de Maurício de Nassau (1637–44): tolerância religiosa, urbanismo, artes, mapas. Expulsão holandesa e transferência do capital sucroalcooleiro para as Antilhas (1654): concorrência caribenha começou a superar o açúcar brasileiro.",
+      "descricao_en": "Sugar transformed Brazil into the richest economy of the South Atlantic for 150 years. Northeastern sugar mills (Pernambuco, Bahia): vertically integrated processing — planting, harvesting, milling, export. Enslaved African labor: ~500,000 Africans deported to Brazil by 1700. Dutch capital (WIC): financed expansion; Dutch Invasion (1624–54) interrupted but did not destroy the cycle. Dutch Brazil of Maurits of Nassau (1637–44): religious tolerance, urbanism, arts, maps. Dutch expulsion and transfer of sugar capital to the Antilles (1654): Caribbean competition began to surpass Brazilian sugar.",
+      "descricao_es": "El azúcar convirtió Brasil en la economía más rica del Atlántico Sur durante 150 años. Engenhos del Nordeste: integración vertical. ~500.000 africanos esclavizados hasta 1700. Brasil Holandés de Mauricio de Nassau (1637–44): tolerancia religiosa, urbanismo, artes. La expulsión holandesa transfirió el capital azucarero al Caribe (1654).",
+      "tags": [
+        "acucar",
+        "engenho",
+        "escravidao",
+        "brasil-holandes",
+        "nassau",
+        "pernambuco"
+      ],
+      "importancia": "O Brasil holandês de Maurício de Nassau (1637–44) foi o único período de administração pluralista no Brasil colonial — tolerância religiosa, liberdade de imprensa, mapeamento científico.",
+      "century_start": 16,
+      "century_end": 18,
+      "region": "SouthAmerica",
+      "type": "economic",
+      "period": "EarlyModern",
+      "importancia_en": "Dutch expulsion and transfer of sugar capital to the Antilles (1654): Caribbean competition began to surpass Brazilian sugar.",
+      "importancia_es": "La expulsión holandesa transfirió el capital azucarero al Caribe (1654)."
+    },
+    {
+      "id": "bce-003",
+      "nome": "Ciclo do Ouro e Diamante (1693–1763): Minas Gerais",
+      "nome_en": "Gold and Diamond Cycle (1693–1763): Minas Gerais",
+      "nome_es": "Ciclo del Oro y el Diamante (1693–1763): Minas Gerais",
+      "tipo": "periodo",
+      "inicio": 1693,
+      "fim": 1763,
+      "descricao": "Descoberta do ouro em Minas Gerais (1693) pelos bandeirantes: maior rush de ouro pré-California da história. Capital transferida de Salvador para Rio de Janeiro (1763). ~600.000 africanos escravizados importados entre 1700–1800 para as minas. Vila Rica (Ouro Preto): capital de fato; arquitetura barroca única — Aleijadinho (Antônio Francisco Lisboa). Ouro financiou o Portugal pombalino mas foi majoritariamente transferido para a Inglaterra via tratados comerciais. Derrama (1789): tentativa de cobrar impostos atrasados gerou a Inconfidência Mineira — Tiradentes executado. Diamantes: Diamantina (1729); controle real estrito.",
+      "descricao_en": "Gold discovered in Minas Gerais (1693) by bandeirantes: largest pre-California gold rush in history. Capital transferred from Salvador to Rio de Janeiro (1763). ~600,000 enslaved Africans imported between 1700–1800 for the mines. Vila Rica (Ouro Preto): de facto capital; unique Baroque architecture — Aleijadinho (Antônio Francisco Lisboa). Gold financed Pombaline Portugal but was largely transferred to England via trade treaties. Derrama (1789): attempt to collect back taxes generated the Inconfidência Mineira — Tiradentes executed. Diamonds: Diamantina (1729); strict royal control.",
+      "descricao_es": "Descubrimiento del oro en Minas Gerais (1693) por los bandeirantes: el mayor rush aurífero pre-California de la historia. ~600.000 africanos esclavizados importados entre 1700–1800. Vila Rica (Ouro Preto): arquitectura barroca única — Aleijadinho. El oro financió a Portugal pero fue transferido mayoritariamente a Inglaterra. Derrama (1789): Inconfidência Mineira — Tiradentes ejecutado. Diamantes: Diamantina (1729).",
+      "tags": [
+        "ouro",
+        "diamante",
+        "minas-gerais",
+        "aleijadinho",
+        "tiradentes",
+        "inconfidencia"
+      ],
+      "importancia": "O ouro de Minas Gerais financiou o Império Português no séc. XVIII — mas os tratados com a Inglaterra canalizaram grande parte da riqueza diretamente para Londres.",
+      "century_start": 17,
+      "century_end": 18,
+      "region": "SouthAmerica",
+      "type": "economic",
+      "period": "EarlyModern",
+      "importancia_en": "Derrama (1789): attempt to collect back taxes generated the Inconfidência Mineira — Tiradentes executed. Diamonds: Diamantina (1729); strict royal control.",
+      "importancia_es": "Derrama (1789): Inconfidência Mineira — Tiradentes ejecutado."
+    },
+    {
+      "id": "bce-004",
+      "nome": "Ciclo do Café (1820–1930): A Locomotiva do Império e da República",
+      "nome_en": "Coffee Cycle (1820–1930): The Locomotive of Empire and Republic",
+      "nome_es": "Ciclo del Café (1820–1930): La Locomotora del Imperio y la República",
+      "tipo": "periodo",
+      "inicio": 1820,
+      "fim": 1930,
+      "descricao": "Café transformou-se no principal produto de exportação do Brasil: ~70% das exportações em 1900. Vale do Paraíba → São Paulo → Oeste Paulista: expansão das fazendas de café ao longo do séc. XIX. Imigração italiana e japonesa (1870–1930): >2 milhões de imigrantes, principalmente para o café. Ferrovia Santos-Jundiaí (1867): infraestrutura de exportação. 'Política do Café com Leite': alternância de presidentes paulistas e mineiros na Primeira República. Valorização do café (Convênio de Taubaté, 1906): intervenção estatal no preço. Crise de 1929: colapso dos preços do café destruiu a base da Primeira República e abriu caminho para a Revolução de 1930.",
+      "descricao_en": "Coffee became Brazil's main export product: ~70% of exports in 1900. Paraíba Valley → São Paulo → Western São Paulo: expansion of coffee farms throughout the 19th century. Italian and Japanese immigration (1870–1930): >2 million immigrants, mainly for coffee. Santos-Jundiaí railway (1867): export infrastructure. 'Coffee with Milk Policy': alternation of São Paulo and Minas Gerais presidents in the First Republic. Coffee valorization (Taubaté Convention, 1906): state intervention in price. 1929 crisis: collapse of coffee prices destroyed the base of the First Republic and opened the way for the Revolution of 1930.",
+      "descricao_es": "El café se convirtió en el principal producto de exportación: ~70% en 1900. Inmigración italiana y japonesa (1870–1930): >2 millones de inmigrantes. Ferrocarril Santos-Jundiaí (1867). 'Política del Café con Leche': alternancia de presidentes paulistas y mineiros. Crisis de 1929: el colapso del precio del café destruyó la Primera República y abrió paso a la Revolución de 1930.",
+      "tags": [
+        "cafe",
+        "imigracao-italiana",
+        "imigracao-japonesa",
+        "vale-paraiba",
+        "cafe-com-leite"
+      ],
+      "importancia": "A crise do café de 1929 não foi apenas econômica — destruiu o acordo político que sustentava a República Velha e criou condições que levaram à Revolução de 1930.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "SouthAmerica",
+      "type": "economic",
+      "period": "Modern",
+      "importancia_en": "1929 crisis: collapse of coffee prices destroyed the base of the First Republic and opened the way for the Revolution of 1930.",
+      "importancia_es": "Crisis de 1929: el colapso del precio del café destruyó la Primera República y abrió paso a la Revolución de 1930."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "bce-001",
+      "destino": "bce-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O fracasso do pau-brasil como base econômica forçou Portugal a implantar os engenhos de açúcar"
+    },
+    {
+      "origem": "bce-002",
+      "destino": "bce-003",
+      "tipo": "evolucao",
+      "intensidade": 0.7,
+      "descricao": "O declínio do açúcar por concorrência antilhana redirecionou o esforço colonial para as minas de Minas Gerais"
+    },
+    {
+      "origem": "bce-003",
+      "destino": "bce-004",
+      "tipo": "evolucao",
+      "intensidade": 0.7,
+      "descricao": "O esgotamento do ouro deslocou o centro econômico para o café paulista no séc. XIX"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Revoluções Liberais e Primavera dos Povos (1820-1871)",
+    "periodo": "1820-1871"
+  },
+  "entidades": [
+    {
+      "id": "rvl-006",
+      "nome": "Abolicionismo: Fim da Escravidão no Ocidente",
+      "nome_en": "Abolitionism: End of Slavery in the West",
+      "nome_es": "Abolicionismo: Fin de la Esclavitud en Occidente",
+      "tipo": "periodo",
+      "inicio": 1807,
+      "fim": 1888,
+      "region": "Multiple",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "social",
+      "descricao": "O movimento abolicionista do século XIX aboliu a escravidão nas principais potências: Grã-Bretanha aboliu o tráfico (1807) e a escravidão (1833); França aboliu definitivamente em 1848; EUA após a Guerra Civil (1865, 13ª Emenda); Cuba (1886) e Brasil (1888 — última nação do Ocidente). O processo foi impulsionado por movimentos religiosos (quacres, metodistas), pelo liberalismo iluminista e pela resistência dos próprios escravizados (Haïti, quilombos).",
+      "descricao_en": "The 19th century abolitionist movement abolished slavery in major powers: Britain abolished the slave trade (1807) and slavery (1833); France abolished definitively in 1848; USA after the Civil War (1865, 13th Amendment); Cuba (1886) and Brazil (1888 — last Western nation). The process was driven by religious movements (Quakers, Methodists), Enlightenment liberalism and resistance by the enslaved themselves (Haiti, quilombos).",
+      "descricao_es": "El movimiento abolicionista del siglo XIX abolió la esclavitud: Gran Bretaña (1833), Francia (1848), EE.UU. (1865), Cuba (1886) y Brasil (1888), última nación de Occidente.",
+      "importancia": "A abolição da escravidão foi a maior transformação social do século XIX. O Brasil foi a última nação ocidental a abolir — e o fazê-lo sem reparação ou reforma agrária criou as desigualdades raciais e sociais que persistem até hoje.",
+      "importancia_en": "The abolition of slavery was the greatest social transformation of the 19th century. Brazil was the last Western nation to abolish — and doing so without reparation or agrarian reform created the racial and social inequalities that persist to this day.",
+      "importancia_es": "La abolición de la esclavitud fue la mayor transformación social del siglo XIX. Brasil fue la última nación occidental en abolir.",
+      "tags": [
+        "abolicionismo",
+        "escravidão",
+        "Grã-Bretanha",
+        "EUA",
+        "Brasil",
+        "Haïti"
+      ],
+      "dataset": "data/dados-revolucoes-liberais.json"
+    },
+    {
+      "id": "rvl-001",
+      "nome": "Revoluções de 1820: Onda Liberal Mediterrânea",
+      "nome_en": "Revolutions of 1820: Mediterranean Liberal Wave",
+      "nome_es": "Revoluciones de 1820: Ola Liberal Mediterránea",
+      "tipo": "evento",
+      "inicio": 1820,
+      "fim": 1823,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "As revoluções de 1820 varreram a Espanha (restauração da Constituição de 1812), Portugal, Nápoles e o Piemonte. Inspiradas pelo liberalismo pós-napoleônico e pelas ideias da Revolução Francesa, exigiram constituições, liberdade de imprensa e fim do absolutismo. A Santa Aliança (Áustria, Prússia, Rússia) interveio militarmente para suprimi-las. A revolução grega (1821–1829) obteve independência do Império Otomano com apoio britânico e francês.",
+      "descricao_en": "The revolutions of 1820 swept through Spain (restoration of the 1812 Constitution), Portugal, Naples and Piedmont. Inspired by post-Napoleonic liberalism, they demanded constitutions, freedom of the press and end of absolutism. The Holy Alliance (Austria, Prussia, Russia) militarily intervened to suppress them. The Greek revolution (1821–1829) gained independence from the Ottoman Empire.",
+      "descricao_es": "Las revoluciones de 1820 barrieron España, Portugal, Nápoles y Piamonte, exigiendo constituciones y libertad de prensa. La revolución griega (1821–1829) obtuvo independencia del Imperio Otomano.",
+      "importancia": "As revoluções de 1820 inauguraram o ciclo revolucionário do século XIX. A independência grega foi a primeira vitória do nacionalismo liberal na Europa — e o modelo para as independências subsequentes na Itália, Alemanha e Bálcãs.",
+      "importancia_en": "The 1820 revolutions inaugurated the 19th century revolutionary cycle. Greek independence was the first victory of liberal nationalism in Europe — the model for subsequent independences in Italy, Germany and the Balkans.",
+      "importancia_es": "Las revoluciones de 1820 inauguraron el ciclo revolucionario del siglo XIX. La independencia griega fue la primera victoria del nacionalismo liberal en Europa.",
+      "tags": [
+        "1820",
+        "liberalismo",
+        "constituição",
+        "Grécia",
+        "Santa Aliança"
+      ],
+      "dataset": "data/dados-revolucoes-liberais.json"
+    },
+    {
+      "id": "rvl-002",
+      "nome": "Revoluções de 1848: A Primavera dos Povos",
+      "nome_en": "Revolutions of 1848: The Springtime of Nations",
+      "nome_es": "Revoluciones de 1848: La Primavera de los Pueblos",
+      "tipo": "evento",
+      "inicio": 1848,
+      "fim": 1849,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "Em 1848, revolucionaram simultaneamente: Paris (derrubando Luís Filipe), Berlim, Viena, Roma, Budapeste, Praga, Milão. Foi a maior onda revolucionária simultânea da história europeia. As demandas combinavam liberalismo (constituições, parlamentos) com nacionalismo (unificações italiana e alemã). Quase todas foram suprimidas em 1849. Mas plantaram sementes: a questão nacional italiana e alemã seria resolvida nos 20 anos seguintes.",
+      "descricao_en": "In 1848, revolutions occurred simultaneously in: Paris (toppling Louis-Philippe), Berlin, Vienna, Rome, Budapest, Prague, Milan. It was the largest simultaneous revolutionary wave in European history. Demands combined liberalism (constitutions, parliaments) with nationalism (Italian and German unifications). Nearly all were suppressed by 1849, but planted seeds for Italian and German unification in the following 20 years.",
+      "descricao_es": "En 1848 revolucionaron simultáneamente París, Berlín, Viena, Roma, Budapest y Praga. Fue la mayor ola revolucionaria simultánea de la historia europea. Casi todas fueron reprimidas, pero plantaron semillas para la unificación italiana y alemana.",
+      "importancia": "1848 foi o 'ensaio geral' das revoluções modernas. Marx e Engels publicaram o Manifesto Comunista em fevereiro de 1848. A falha das revoluções liberais de 1848 radicalizou a esquerda europeia — tornando o socialismo marxista mais atraente que o liberalismo moderado.",
+      "importancia_en": "1848 was the 'dress rehearsal' of modern revolutions. Marx and Engels published the Communist Manifesto in February 1848. The failure of the liberal revolutions radicalized the European left — making Marxist socialism more attractive than moderate liberalism.",
+      "importancia_es": "1848 fue el 'ensayo general' de las revoluciones modernas. Marx y Engels publicaron el Manifesto Comunista en febrero de 1848.",
+      "tags": [
+        "1848",
+        "Primavera dos Povos",
+        "Marx",
+        "liberalismo",
+        "nacionalismo"
+      ],
+      "dataset": "data/dados-revolucoes-liberais.json"
+    },
+    {
+      "id": "rvl-003",
+      "nome": "Unificação Italiana: Mazzini, Garibaldi e Cavour",
+      "nome_en": "Italian Unification: Mazzini, Garibaldi and Cavour",
+      "nome_es": "Unificación Italiana: Mazzini, Garibaldi y Cavour",
+      "tipo": "periodo",
+      "inicio": 1848,
+      "fim": 1871,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "A unificação italiana (Risorgimento) foi obra de três figuras complementares: Giuseppe Mazzini (ideólogo republicano), Giuseppe Garibaldi (guerrilheiro revolucionário — 'os Mil' conquistaram o Sul em 1860) e Camillo Cavour (diplomata realista do Piemonte que usou a França contra a Áustria). O Reino da Itália foi proclamado em 1861. Roma tornou-se capital em 1871 após o fim do poder temporal do Papa.",
+      "descricao_en": "Italian unification (Risorgimento) was the work of three complementary figures: Giuseppe Mazzini (republican ideologue), Giuseppe Garibaldi (revolutionary guerrilla — 'the Thousand' conquered the South in 1860) and Camillo Cavour (realist Piedmontese diplomat who used France against Austria). The Kingdom of Italy was proclaimed in 1861.",
+      "descricao_es": "La unificación italiana fue obra de Mazzini (ideólogo), Garibaldi (guerrillero) y Cavour (diplomático). El Reino de Italia fue proclamado en 1861. Roma se convirtió en capital en 1871.",
+      "importancia": "O Risorgimento italiano é o modelo clássico de unificação nacional por via revolucionária e diplomática combinadas. Garibaldi tornou-se o herói nacional mais famoso do século XIX — símbolo do ideal republicano e revolucionário na América Latina e em toda a Europa.",
+      "importancia_en": "The Italian Risorgimento is the classical model of national unification through combined revolutionary and diplomatic means. Garibaldi became the most famous national hero of the 19th century — symbol of republican and revolutionary ideals in Latin America and throughout Europe.",
+      "importancia_es": "El Risorgimento italiano es el modelo clásico de unificación nacional. Garibaldi se convirtió en el héroe nacional más famoso del siglo XIX.",
+      "tags": [
+        "Itália",
+        "Garibaldi",
+        "Mazzini",
+        "Cavour",
+        "Risorgimento",
+        "unificação"
+      ],
+      "dataset": "data/dados-revolucoes-liberais.json"
+    },
+    {
+      "id": "rvl-004",
+      "nome": "Unificação Alemã: Bismarck e o Sangue e Ferro",
+      "nome_en": "German Unification: Bismarck and Blood and Iron",
+      "nome_es": "Unificación Alemana: Bismarck y Sangre y Hierro",
+      "tipo": "periodo",
+      "inicio": 1862,
+      "fim": 1871,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "Otto von Bismarck (1815–1898), ministro-presidente da Prússia, unificou a Alemanha por 'sangue e ferro' — três guerras estratégicas: contra a Dinamarca (1864), contra a Áustria (1866) e contra a França (1870–71). O Império Alemão (Reich) foi proclamado em Versalhes em 1871, com Guilherme I como Kaiser. A unificação alemã alterou radicalmente o equilíbrio de poder europeu e preparou o terreno para a Primeira Guerra Mundial.",
+      "descricao_en": "Otto von Bismarck (1815–1898), Minister-President of Prussia, unified Germany through 'blood and iron' — three strategic wars: against Denmark (1864), Austria (1866) and France (1870–71). The German Empire (Reich) was proclaimed at Versailles in 1871. German unification radically altered the European balance of power and set the stage for World War I.",
+      "descricao_es": "Bismarck unificó Alemania por 'sangre y hierro' — tres guerras: contra Dinamarca, Austria y Francia. El Imperio Alemán fue proclamado en Versalles en 1871. La unificación alteró radicalmente el equilibrio de poder europeo.",
+      "importancia": "A unificação alemã foi o evento geopolítico mais consequente do século XIX. O novo Reich era o estado mais poderoso da Europa continental — sua rivalidade com a Inglaterra e a França levaria diretamente à Primeira Guerra Mundial 43 anos depois.",
+      "importancia_en": "German unification was the most consequential geopolitical event of the 19th century. The new Reich was the most powerful state in continental Europe — its rivalry with England and France would lead directly to World War I 43 years later.",
+      "importancia_es": "La unificación alemana fue el evento geopolítico más consecuente del siglo XIX.",
+      "tags": [
+        "Bismarck",
+        "Alemanha",
+        "Prússia",
+        "sangue e ferro",
+        "Reich"
+      ],
+      "dataset": "data/dados-revolucoes-liberais.json"
+    },
+    {
+      "id": "rvl-005",
+      "nome": "Comuna de Paris (1871): A Primeira Revolução Proletária",
+      "nome_en": "Paris Commune (1871): The First Proletarian Revolution",
+      "nome_es": "Comuna de París (1871): La Primera Revolución Proletaria",
+      "tipo": "evento",
+      "inicio": 1871,
+      "fim": 1871,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "A Comuna de Paris (março–maio de 1871) foi o primeiro governo da classe trabalhadora na história. Após a derrota da França na guerra com a Prússia, operários parisienses tomaram o poder por 72 dias, decretando separação Igreja-Estado, educação gratuita, abolição dos juros dos aluguéis e autogestão das fábricas. Foi suprimida pelo Exército Versalhes com 10.000–30.000 mortos. Marx analisou-a como o modelo do 'Estado operário'.",
+      "descricao_en": "The Paris Commune (March–May 1871) was the first working class government in history. After France's defeat by Prussia, Parisian workers held power for 72 days, decreeing separation of Church and State, free education, abolition of rent interest and factory self-management. Suppressed by the Versailles Army with 10,000–30,000 deaths. Marx analyzed it as the model of the 'Workers' State'.",
+      "descricao_es": "La Comuna de París (1871) fue el primer gobierno de la clase obrera en la historia. Decretó separación Iglesia-Estado, educación gratuita y autogestión de fábricas. Fue aplastada con 10.000-30.000 muertos. Marx la analizó como el modelo del 'Estado obrero'.",
+      "importancia": "A Comuna de Paris foi o laboratório histórico do socialismo. Influenciou Lenin, Trotsky e toda a tradição marxista. Suas medidas (separação Igreja-Estado, escola laica) foram adoptadas pelas repúblicas laicas europeias décadas depois — e pelo governo republicano francês em 1905.",
+      "importancia_en": "The Paris Commune was the historical laboratory of socialism. It influenced Lenin, Trotsky and the entire Marxist tradition. Its measures (Church-State separation, secular schools) were adopted by European secular republics decades later.",
+      "importancia_es": "La Comuna de París fue el laboratorio histórico del socialismo. Influyó en Lenin y toda la tradición marxista.",
+      "tags": [
+        "Comuna",
+        "Paris",
+        "proletariado",
+        "Marx",
+        "socialismo"
+      ],
+      "dataset": "data/dados-revolucoes-liberais.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "rvl-001",
+      "destino": "rvl-002",
+      "tipo": "evolucao",
+      "intensidade": 0.8,
+      "descricao": "Ondas liberais de 1820 e 1830 precedem a Primavera dos Povos"
+    },
+    {
+      "origem": "rvl-002",
+      "destino": "rvl-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Falha de 1848 leva ao Risorgimento realista de Cavour"
+    },
+    {
+      "origem": "rvl-002",
+      "destino": "rvl-004",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Falha do liberalismo em 1848 abre espaço para o 'sangue e ferro' de Bismarck"
+    },
+    {
+      "origem": "rvl-004",
+      "destino": "rvl-005",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Derrota da França para Bismarck precipita a Comuna de Paris"
+    },
+    {
+      "origem": "rvl-005",
+      "destino": "rvl-006",
+      "tipo": "paralelo",
+      "intensidade": 0.5,
+      "descricao": "Luta proletária e luta abolicionista são movimentos simultâneos"
+    }
+  ]
+}

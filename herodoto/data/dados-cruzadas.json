@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "fonte": "Historiografia Internacional",
+    "lingua": "pt",
+    "tema": "As Cruzadas: Fé, Guerra e Encontro de Civilizações",
+    "periodo": "1095–1291"
+  },
+  "entidades": [
+    {
+      "id": "cr-001",
+      "nome": "Concílio de Clermont e a Primeira Cruzada",
+      "nome_en": "Council of Clermont and the First Crusade",
+      "nome_es": "Concilio de Clermont y la Primera Cruzada",
+      "tipo": "periodo",
+      "inicio": 1095,
+      "fim": 1099,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 11,
+      "century_end": 11,
+      "type": "war",
+      "descricao": "Em 1095, o Papa Urbano II convocou a Primeira Cruzada no Concílio de Clermont, respondendo ao pedido do imperador bizantino Aleixo I diante do avanço seljúcida. O grito 'Deus lo volt!' (Deus o quer!) mobilizou milhares. A Cruzada dos Pobres (Pedro, o Eremita, 1096) foi massacrada. A Primeira Cruzada Militar (1096–1099) conquistou Jerusalém em 1099 — com violência massiva. Estabeleceu os Estados Cruzados: Jerusalém, Antioquia, Edessa e Trípoli.",
+      "descricao_en": "In 1095, Pope Urban II convened the First Crusade at the Council of Clermont, responding to Byzantine Emperor Alexios I's request against Seljuk advances. The rallying cry 'Deus lo volt!' (God wills it!) mobilized thousands. The Military First Crusade (1096–1099) conquered Jerusalem in 1099. It established the Crusader States: Jerusalem, Antioch, Edessa and Tripoli.",
+      "descricao_es": "En 1095, el Papa Urbano II convocó la Primera Cruzada. La Primera Cruzada Militar conquistó Jerusalén en 1099.",
+      "importancia": "A Primeira Cruzada é um dos eventos mais estudados da Idade Média. Marca o início de dois séculos de conflito entre Cristandade e Islã pelo controle da Terra Santa — com consequências que ainda ressoam nas relações entre o Ocidente e o Oriente Médio.",
+      "importancia_en": "The First Crusade is one of the most studied events of the Middle Ages. It marks the beginning of two centuries of conflict between Christendom and Islam over control of the Holy Land.",
+      "importancia_es": "La Primera Cruzada marca el inicio de dos siglos de conflicto entre la Cristiandad y el Islam.",
+      "tags": [
+        "Primeira Cruzada",
+        "Urbano II",
+        "Clermont",
+        "Jerusalém",
+        "Estados Cruzados",
+        "Terra Santa"
+      ],
+      "dataset": "data/dados-cruzadas.json"
+    },
+    {
+      "id": "cr-002",
+      "nome": "Saladino e a Reconquista de Jerusalém (1187)",
+      "nome_en": "Saladin and the Reconquest of Jerusalem (1187)",
+      "nome_es": "Saladino y la Reconquista de Jerusalén (1187)",
+      "tipo": "evento",
+      "inicio": 1187,
+      "fim": 1187,
+      "region": "MiddleEast",
+      "period": "Medieval",
+      "century_start": 12,
+      "century_end": 12,
+      "type": "war",
+      "descricao": "Saladino (Salah ad-Din Yusuf, 1137–1193), sultão aiúbida do Egito e Síria, reunificou o mundo árabe e derrotou os cruzados em Hattin (1187), capturando o Rei Guido de Lusignão e a Vera Cruz. Reconquistou Jerusalém em outubro de 1187 — sem massacre, em contraste com 1099. Seu comportamento cavalheiresco foi reconhecido pelos próprios cruzados e inspirou lendas europeias sobre sua nobreza.",
+      "descricao_en": "Saladin (Salah ad-Din Yusuf, 1137–1193), Ayyubid sultan of Egypt and Syria, reunified the Arab world and defeated the Crusaders at Hattin (1187), capturing King Guy de Lusignan. He reconquered Jerusalem in October 1187 — without massacre, in contrast to 1099. His chivalrous behavior was recognized by the Crusaders themselves.",
+      "descricao_es": "Saladino reunificó el mundo árabe y reconquistó Jerusalén en 1187 — sin masacre, en contraste con 1099.",
+      "importancia": "Saladino é um dos personagens mais admirados tanto do mundo islâmico quanto do cristão medieval. Sua reconquista de Jerusalém sem massacre contrasta com a violência de 1099 e foi reconhecida como civilizada pelos contemporâneos europeus.",
+      "importancia_en": "Saladin is one of the most admired figures in both the Islamic world and medieval Christendom. His reconquest of Jerusalem without massacre was recognized as civilized by European contemporaries.",
+      "importancia_es": "Saladino es uno de los personajes más admirados del mundo islámico y la Edad Media cristiana.",
+      "tags": [
+        "Saladino",
+        "Hattin",
+        "Jerusalém",
+        "aiúbida",
+        "cavalaria",
+        "reconquista",
+        "1187"
+      ],
+      "dataset": "data/dados-cruzadas.json"
+    },
+    {
+      "id": "cr-003",
+      "nome": "Terceira Cruzada: Ricardo Coração de Leão vs Saladino",
+      "nome_en": "Third Crusade: Richard the Lionheart vs Saladin",
+      "nome_es": "Tercera Cruzada: Ricardo Corazón de León vs Saladino",
+      "tipo": "periodo",
+      "inicio": 1189,
+      "fim": 1192,
+      "region": "Multiple",
+      "period": "Medieval",
+      "century_start": 12,
+      "century_end": 12,
+      "type": "war",
+      "descricao": "A Terceira Cruzada (1189–1192) reuniu os maiores reis europeus: Filipe II da França, Frederico I Barbarossa (que morreu afogado no rio Saleph) e Ricardo I da Inglaterra. Ricardo Coração de Leão venceu a Batalha de Arsuf (1191) e reconquistou Acre, mas não reconquistou Jerusalém. O Tratado de Jaffa (1192) com Saladino garantiu aos peregrinos cristãos acesso a Jerusalém sem reconquistá-la militarmente.",
+      "descricao_en": "The Third Crusade (1189–1192) united the greatest European kings: Philip II of France, Frederick I Barbarossa (who drowned in the Saleph River) and Richard I of England. Richard the Lionheart won the Battle of Arsuf (1191) and reconquered Acre, but did not reconquer Jerusalem. The Treaty of Jaffa (1192) with Saladin guaranteed Christian pilgrims access to Jerusalem without military reconquest.",
+      "descricao_es": "La Tercera Cruzada reunió a los mayores reyes europeos. Ricardo Corazón de León venció en Arsuf pero no reconquistó Jerusalén.",
+      "importancia": "Ricardo e Saladino tornaram-se personagens lendários da Idade Média — adversários que se respeitavam mutuamente. O Tratado de Jaffa foi um acordo diplomático que garantiu acesso religioso sem resolução militar — antecipando abordagens modernas de resolução de conflitos.",
+      "importancia_en": "Richard and Saladin became legendary medieval figures — adversaries who respected each other. The Treaty of Jaffa was a diplomatic agreement guaranteeing religious access without military resolution.",
+      "importancia_es": "Ricardo y Saladino se convirtieron en personajes legendarios de la Edad Media.",
+      "tags": [
+        "Ricardo",
+        "Saladino",
+        "Terceira Cruzada",
+        "Acre",
+        "Jaffa",
+        "cavalaria"
+      ],
+      "dataset": "data/dados-cruzadas.json"
+    },
+    {
+      "id": "cr-004",
+      "nome": "Quarta Cruzada e o Saque de Constantinopla (1204)",
+      "nome_en": "Fourth Crusade and the Sack of Constantinople (1204)",
+      "nome_es": "Cuarta Cruzada y el Saqueo de Constantinopla (1204)",
+      "tipo": "evento",
+      "inicio": 1202,
+      "fim": 1204,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 13,
+      "century_end": 13,
+      "type": "war",
+      "descricao": "A Quarta Cruzada (1202–1204) é o episódio mais controverso do movimento cruzadístico: ao invés de ir à Terra Santa, os cruzados — endividados com Veneza — desviaram para Zara e Constantinopla. Em 1204, saquearam e destruíram a capital do Império Bizantino Cristão — um ato que chocou até o Papa Inocêncio III. Estabeleceram o Império Latino de Constantinopla (1204–1261), aprofundando irreparavelmente o Cisma de 1054.",
+      "descricao_en": "The Fourth Crusade (1202–1204) is the most controversial episode of the Crusading movement: instead of going to the Holy Land, the Crusaders — indebted to Venice — diverted to Zara and Constantinople. In 1204, they sacked and destroyed the capital of the Christian Byzantine Empire — an act that shocked even Pope Innocent III. They established the Latin Empire of Constantinople (1204–1261).",
+      "descricao_es": "La Cuarta Cruzada saqueó Constantinopla en 1204 — un acto que horrorizó incluso al Papa Inocencio III. Estableció el Imperio Latino de Constantinopla.",
+      "importancia": "O Saque de Constantinopla (1204) aprofundou irreparavelmente o Cisma entre Igreja Católica e Ortodoxa — ainda não resolvido. Enfraqueceu Bizâncio de forma irreversível, preparando o terreno para a conquista otomana de 1453.",
+      "importancia_en": "The Sack of Constantinople (1204) irreparably deepened the Schism between Catholic and Orthodox Churches — still unresolved. It irreversibly weakened Byzantium, paving the way for the Ottoman conquest of 1453.",
+      "importancia_es": "El Saqueo de Constantinopla (1204) profundizó irreparablemente el Cisma entre la Iglesia Católica y la Ortodoxa.",
+      "tags": [
+        "Quarta Cruzada",
+        "Constantinopla",
+        "saque",
+        "1204",
+        "Veneza",
+        "cisma",
+        "Inocêncio III"
+      ],
+      "dataset": "data/dados-cruzadas.json"
+    },
+    {
+      "id": "cr-005",
+      "nome": "Ordens Militares: Templários, Hospitalários e Teutônicos",
+      "nome_en": "Military Orders: Templars, Hospitallers and Teutonic Knights",
+      "nome_es": "Órdenes Militares: Templarios, Hospitalarios y Teutónicos",
+      "tipo": "periodo",
+      "inicio": 1119,
+      "fim": 1400,
+      "region": "Multiple",
+      "period": "Medieval",
+      "century_start": 12,
+      "century_end": 15,
+      "type": "war",
+      "descricao": "As Ordens Militares foram uma inovação medieval — monges guerreiros que combinavam votos religiosos com combate. Os Templários (fundados 1119) foram os banqueiros do mundo medieval — inventaram o sistema de crédito internacional (proto-cheques). Os Hospitalários cuidavam dos peregrinos enfermos. Os Teutônicos colonizaram a Prússia. Felipe IV da França suprimiu os Templários (1307–1314) para confiscar suas riquezas.",
+      "descricao_en": "Military Orders were a medieval innovation — warrior monks who combined religious vows with combat. The Templars (founded 1119) were the bankers of the medieval world — they invented the international credit system (proto-checks). The Hospitallers cared for sick pilgrims. The Teutonic Knights colonized Prussia. Philip IV of France suppressed the Templars (1307–1314) to seize their wealth.",
+      "descricao_es": "Las Órdenes Militares combinaban votos religiosos con combate. Los Templarios inventaron el sistema de crédito internacional. Felipe IV de Francia los suprimió en 1307 para confiscar sus riquezas.",
+      "importancia": "Os Templários inventaram o sistema bancário medieval — permitindo que peregrinos depositassem dinheiro na Europa e sacassem na Terra Santa. Sua supressão por Felipe IV foi uma das maiores confiscações de riqueza da história medieval.",
+      "importancia_en": "The Templars invented the medieval banking system — allowing pilgrims to deposit money in Europe and withdraw in the Holy Land. Their suppression by Philip IV was one of the greatest wealth seizures in medieval history.",
+      "importancia_es": "Los Templarios inventaron el sistema bancario medieval. Su supresión fue una de las mayores confiscaciones de riqueza de la historia medieval.",
+      "tags": [
+        "Templários",
+        "Hospitalários",
+        "Teutônicos",
+        "ordens militares",
+        "banco",
+        "crédito",
+        "Felipe IV"
+      ],
+      "dataset": "data/dados-cruzadas.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "cr-001",
+      "destino": "cr-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Cruzados estabelecem estados que Saladino destrói"
+    },
+    {
+      "origem": "cr-002",
+      "destino": "cr-003",
+      "tipo": "causalidade",
+      "intensidade": 1.0,
+      "descricao": "Queda de Jerusalém provoca a Terceira Cruzada"
+    },
+    {
+      "origem": "cr-003",
+      "destino": "cr-004",
+      "tipo": "evolucao",
+      "intensidade": 0.6,
+      "descricao": "Fracasso da Terceira Cruzada leva a novas estratégias"
+    },
+    {
+      "origem": "cr-001",
+      "destino": "cr-005",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Cruzadas criam necessidade de ordens militares permanentes"
+    }
+  ]
+}

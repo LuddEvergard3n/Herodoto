@@ -1,0 +1,132 @@
+{
+  "entidades": [
+    {
+      "id": "cfi-001",
+      "nome": "Confúcio e o Confucionismo",
+      "nome_en": "Confucius and Confucianism",
+      "nome_es": "Confucio y el Confucianismo",
+      "tipo": "periodo",
+      "descricao": "Confúcio (551–479 a.C.): filósofo que nunca exerceu poder político, mas moldou 2.500 anos de civilização chinesa e do Leste Asiático. Analectos: ética do ren (benevolência), li (ritual/propriedade), yi (retidão). Hierarquia familiar como base da ordem social. Méritocracia via educação. Discípulos espalharam o ensinamento por toda a China. Mencio (372–289 a.C.): natureza humana é boa — o governante que fracassa perde o 'Mandato do Céu'. Xunzi: natureza humana é má — ordem vem da educação e ritual. Neoconfucionismo (Song): síntese com budismo e taoismo.",
+      "descricao_en": "Confucius (551–479 BC): philosopher who never held political power, but shaped 2,500 years of Chinese and East Asian civilization. Analects: ethics of ren (benevolence), li (ritual/propriety), yi (righteousness). Family hierarchy as basis of social order. Meritocracy through education. Disciples spread the teaching throughout China. Mencius (372–289 BC): human nature is good — a ruler who fails loses the 'Mandate of Heaven'. Xunzi: human nature is bad — order comes from education and ritual. Neo-Confucianism (Song): synthesis with Buddhism and Taoism.",
+      "descricao_es": "Confucio (551–479 a.C.): moldeó 2.500 años de civilización china. Analectas: ética del ren, li, yi. Jerarquía familiar como base del orden. Meritocracia por educación. Mencio: la naturaleza humana es buena. Xunzi: la naturaleza humana es mala. Neoconfucianismo (Song): síntesis con budismo y taoísmo.",
+      "inicio": -551,
+      "fim": 1900,
+      "tags": [
+        "confucio",
+        "mencio",
+        "confucionismo",
+        "ren"
+      ],
+      "importancia": "O Confucionismo moldou a ética política e familiar de China, Japão, Coreia e Vietnã — talvez a filosofia de maior alcance geográfico da história.",
+      "century_start": -6,
+      "century_end": 20,
+      "region": "EastAsia",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "Neo-Confucianism (Song): synthesis with Buddhism and Taoism.",
+      "importancia_es": "Xunzi: la naturaleza humana es mala. Neoconfucianismo (Song): síntesis con budismo y taoísmo."
+    },
+    {
+      "id": "cfi-002",
+      "nome": "Taoismo: Laozi e Zhuangzi",
+      "nome_en": "Taoism: Laozi and Zhuangzi",
+      "nome_es": "Taoísmo: Laozi y Zhuangzi",
+      "tipo": "periodo",
+      "descricao": "Laozi (séc. VI–V a.C., data debatida): Tao Te Ching — 81 capítulos sobre o Tao (Caminho), wu-wei (não-ação), harmonia com a natureza. Obra mais traduzida da história depois da Bíblia. Zhuangzi (séc. IV a.C.): parábolas sobre relativismo, liberdade e espontaneidade. 'A borboleta de Zhuangzi': sonhou que era borboleta — como saber se não é borboleta sonhando que é Zhuangzi? Taoismo religioso (séc. II d.C.): alquimia, imortalidade, medicina. Influência no budismo Chan (Zen). Equilíbrio yin-yang: dualidade complementar, não contraditória.",
+      "descricao_en": "Laozi (6th–5th c. BC, debated date): Tao Te Ching — 81 chapters on the Tao (Way), wu-wei (non-action), harmony with nature. Most translated work in history after the Bible. Zhuangzi (4th c. BC): parables on relativism, freedom and spontaneity. 'Zhuangzi's butterfly': dreamed he was a butterfly — how to know he isn't a butterfly dreaming he is Zhuangzi? Religious Taoism (2nd c. AD): alchemy, immortality, medicine. Influence on Chan (Zen) Buddhism. Yin-yang balance: complementary, not contradictory duality.",
+      "descricao_es": "Laozi: Tao Te Ching — obra más traducida de la historia después de la Biblia. Wu-wei: no-acción. Zhuangzi: la mariposa de Zhuangzi — ¿cómo saber si no es una mariposa soñando que es Zhuangzi? Taoísmo religioso: alquimia, inmortalidad. Influencia en el budismo Chan (Zen). Yin-yang: dualidad complementaria.",
+      "inicio": -550,
+      "fim": 600,
+      "tags": [
+        "taoismo",
+        "laozi",
+        "zhuangzi",
+        "yin-yang",
+        "wu-wei"
+      ],
+      "importancia": "Tao Te Ching: segunda obra mais traduzida da história. O conceito de wu-wei influenciou física moderna (complexidade, sistemas não-lineares).",
+      "century_start": -6,
+      "century_end": 6,
+      "region": "EastAsia",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "Influence on Chan (Zen) Buddhism. Yin-yang balance: complementary, not contradictory duality.",
+      "importancia_es": "Influencia en el budismo Chan (Zen). Yin-yang: dualidad complementaria."
+    },
+    {
+      "id": "cfi-004",
+      "nome": "Mohismo, Escola dos Nomes e Período das Cem Escolas",
+      "nome_en": "Mohism, School of Names and Hundred Schools Period",
+      "nome_es": "Mohismo, Escuela de los Nombres y Período de las Cien Escuelas",
+      "tipo": "periodo",
+      "descricao": "Período das Cem Escolas (séc. V–III a.C.): explosão intelectual comparável ao Iluminismo europeu — produzida pela guerra e competição entre reinos. Mozi (470–391 a.C.): amor universal (jian ai) sem distinção de grau — diretamente oposto ao confucionismo hierárquico; utilitarismo, pacifismo, mérito puro. Hui Shi e Gongsun Long: paradoxos lógicos ('cavalo branco não é cavalo'). Escola Yin-Yang. Sincretismo posterior: Xinciú, fusão de escolas. Repressão legalista de Qin eliminou a diversidade — queima de livros e execução de letrados (213 a.C.).",
+      "descricao_en": "Hundred Schools Period (5th–3rd c. BC): intellectual explosion comparable to the European Enlightenment — produced by war and competition between kingdoms. Mozi (470–391 BC): universal love (jian ai) without distinction of degree — directly opposite to hierarchical Confucianism; utilitarianism, pacifism, pure merit. Hui Shi and Gongsun Long: logical paradoxes ('white horse is not horse'). Yin-Yang School. Later syncretism: Xinciu, fusion of schools. Qin Legalist repression eliminated diversity — burning of books and execution of scholars (213 BC).",
+      "descricao_es": "Período de las Cien Escuelas (siglos V–III a.C.): Mozi (470–391 a.C.): amor universal sin distinción de grado — opuesto al confucianismo jerárquico; utilitarismo y pacifismo. Paradojas lógicas de Hui Shi. La represión legalista de Qin eliminó la diversidad — quema de libros y ejecución de letrados (213 a.C.).",
+      "inicio": -470,
+      "fim": -213,
+      "tags": [
+        "cem-escolas",
+        "mozi",
+        "mohismo",
+        "queima-livros"
+      ],
+      "importancia": "A queima de livros de Qin Shi Huang (213 a.C.) destruiu irreversivelmente a maior parte das Cem Escolas — um dos maiores episódios de censura da história antiga.",
+      "century_start": -5,
+      "century_end": -3,
+      "region": "EastAsia",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "Qin Legalist repression eliminated diversity — burning of books and execution of scholars (213 BC).",
+      "importancia_es": "La represión legalista de Qin eliminó la diversidad — quema de libros y ejecución de letrados (213 a.C.)."
+    },
+    {
+      "id": "cfi-003",
+      "nome": "Legalismo e Sun Tzu",
+      "nome_en": "Legalism and Sun Tzu",
+      "nome_es": "Legalismo y Sun Tzu",
+      "tipo": "periodo",
+      "descricao": "Legalismo (séc. IV–III a.C.): Shang Yang, Han Fei, Li Si — o Estado acima de tudo, lei igual para todos (incluindo nobres), punição severa e recompensa clara. Oposto ao confucionismo moral. Filosfia que permitiu a Qin unificar a China. Han Fei Zi: tratado de ciência política realista — soberano como único detentor do poder, funcionários são potencialmente traiçoeiros. Sun Tzu (544–496 a.C.?): A Arte da Guerra — 13 capítulos, 6.000 caracteres; ainda ensinado em escolas militares, de negócios e MBA globalmente. 'Vencer sem combater' como ideal estratégico.",
+      "descricao_en": "Legalism (4th–3rd c. BC): Shang Yang, Han Fei, Li Si — the State above all, equal law for everyone (including nobles), severe punishment and clear reward. Opposite of moral Confucianism. Philosophy that allowed Qin to unify China. Han Fei Zi: treatise of realist political science — sovereign as sole power holder, officials are potentially treacherous. Sun Tzu (544–496 BC?): The Art of War — 13 chapters, 6,000 characters; still taught in military, business and MBA schools globally. 'Win without fighting' as strategic ideal.",
+      "descricao_es": "Legalismo (siglos IV–III a.C.): el Estado sobre todo, ley igual para todos, castigo severo. Filosofía que permitió a Qin unificar China. Sun Tzu (544–496 a.C.?): El Arte de la Guerra — 13 capítulos, 6.000 caracteres; aún enseñado en escuelas militares y de negocios globalmente. 'Vencer sin combatir' como ideal estratégico.",
+      "inicio": -450,
+      "fim": -200,
+      "tags": [
+        "legalismo",
+        "sun-tzu",
+        "arte-guerra",
+        "han-fei"
+      ],
+      "importancia": "A Arte da Guerra de Sun Tzu: o texto estratégico mais lido do mundo há 2.500 anos — usado por Mao, Napoleon e diretores executivos modernos.",
+      "century_start": -5,
+      "century_end": -2,
+      "region": "EastAsia",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "Sun Tzu (544–496 BC?): The Art of War — 13 chapters, 6,000 characters; still taught in military, business and MBA schools globally. 'Win without fighting' as strategic ideal.",
+      "importancia_es": "Sun Tzu (544–496 a.C.?): El Arte de la Guerra — 13 capítulos, 6.000 caracteres; aún enseñado en escuelas militares y de negocios globalmente. 'Vencer sin combatir' como ideal estratégico."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "cfi-001",
+      "destino": "cfi-003",
+      "tipo": "tensao",
+      "intensidade": 0.9,
+      "descricao": "Legalismo e confucionismo foram rivais diretos — o Qin venceu com o legalismo, mas o Han governou com o confucionismo"
+    },
+    {
+      "origem": "cfi-001",
+      "destino": "cfi-004",
+      "tipo": "tensao",
+      "intensidade": 0.8,
+      "descricao": "Mozi atacou diretamente o confucionismo — amor universal vs amor hierárquico"
+    },
+    {
+      "origem": "cfi-002",
+      "destino": "cfi-001",
+      "tipo": "tensao",
+      "intensidade": 0.6,
+      "descricao": "Taoismo e confucionismo propõem soluções opostas para a harmonia social — individualismo vs hierarquia"
+    }
+  ]
+}

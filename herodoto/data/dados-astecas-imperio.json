@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "fonte": "Arqueologia e historiografia especializada",
+    "lingua": "pt",
+    "tema": "Astecas: Tenochtitlan, O Império da Tríplice Aliança e a Conquista",
+    "periodo": "1300-1521"
+  },
+  "entidades": [
+    {
+      "id": "ai-001",
+      "nome": "Tenochtitlan: A Veneza do Mundo Novo",
+      "nome_en": "Tenochtitlan: The Venice of the New World",
+      "nome_es": "Tenochtitlan: La Venecia del Nuevo Mundo",
+      "tipo": "periodo",
+      "inicio": 1325,
+      "fim": 1521,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 14,
+      "type": "political",
+      "descricao": "Tenochtitlan (fundada 1325, atual Cidade do México) foi uma das maiores cidades do mundo no início do século XVI: 200.000–300.000 habitantes, maior que qualquer cidade europeia da época exceto Constantinopla. Construída numa ilha no lago Texcoco, conectada ao continente por três grandes calçadas (diques) e abastecida por um aqueduto de água doce de 16 km. Seus mercados (especialmente Tlatelolco) impressionaram Cortés: 60.000 pessoas por dia comercializavam tudo, de ouro a escravos, com sistema de pesos, medidas e guardas do mercado. Tinha jardins botânicos, zoológicos e escolas públicas obrigatórias (calmécac, telpochcalli).",
+      "descricao_en": "Tenochtitlan (founded 1325, modern Mexico City) was one of the world's largest cities in the early 16th century: 200,000–300,000 inhabitants, larger than any European city of the time except Constantinople. Built on an island in Lake Texcoco, connected to the mainland by three great causeways and supplied by a 16 km freshwater aqueduct. Its markets (especially Tlatelolco) impressed Cortés: 60,000 people per day traded everything from gold to slaves, with systems of weights, measures and market guards. It had botanical gardens, zoos and mandatory public schools.",
+      "descricao_es": "Tenochtitlan tenía 200.000-300.000 habitantes — mayor que cualquier ciudad europea excepto Constantinopla. Sus mercados impresionaron a Cortés: 60.000 personas por día. Tenía jardines botánicos, zoológicos y escuelas públicas obligatorias.",
+      "importancia": "Tenochtitlan era uma das cidades mais sofisticadas do mundo em 1519. O mercado de Tlatelolco descrito por Bernal Díaz del Castillo — soldado de Cortés — como 'tão grande e com tantas coisas que nunca vi igual' é um dos registros mais impressionantes de espanto de europeus com a civilização mesoamericana.",
+      "importancia_en": "Tenochtitlan was one of the world's most sophisticated cities in 1519. The Tlatelolco market described by Bernal Díaz del Castillo — Cortés' soldier — as 'so great and with so many things that I never saw the like' is one of the most impressive records of European amazement at Mesoamerican civilization.",
+      "importancia_es": "Tenochtitlan era una de las ciudades más sofisticadas del mundo en 1519. El mercado de Tlatelolco fue descrito por el soldado Bernal Díaz como algo nunca antes visto.",
+      "tags": [
+        "Tenochtitlan",
+        "Tlatelolco",
+        "mercado",
+        "aqueduto",
+        "calçadas",
+        "isla"
+      ],
+      "dataset": "data/dados-astecas-imperio.json"
+    },
+    {
+      "id": "ai-003",
+      "nome": "Sacrifício Humano e a Cosmologia Asteca",
+      "nome_en": "Human Sacrifice and Aztec Cosmology",
+      "nome_es": "Sacrificio Humano y la Cosmología Azteca",
+      "tipo": "periodo",
+      "inicio": 1325,
+      "fim": 1521,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 14,
+      "type": "religious",
+      "descricao": "O sacrifício humano era central na cosmologia asteca: o sol precisava de sangue humano (chalchiuatl — 'água preciosa') para continuar seu ciclo. O calendário ritual de 260 dias ditava quando e para qual divindade. A Pedra do Sol (o 'calendário asteca') mostra os cinco soles — eras cósmicas — sendo que o atual (Quinto Sol) seria destruído por terremotos se não alimentado. Fontes coloniais estimam 20.000 sacrifícios por ano em Tenochtitlan; historiadores modernos debatem: entre 10.000 e 250.000 por ano dependendo da metodologia. A Dedicação do Templo Maior em 1487 (sob Ahuitzotl) foi o maior evento de sacrifício documentado: estimativas de 4.000 a 84.000 cativos em quatro dias.",
+      "descricao_en": "Human sacrifice was central to Aztec cosmology: the sun needed human blood (chalchiuatl — 'precious water') to continue its cycle. The 260-day ritual calendar dictated when and for which deity. The Sun Stone (the 'Aztec calendar') shows the five soles — cosmic eras — with the current one (Fifth Sun) to be destroyed by earthquakes if not fed. Colonial sources estimate 20,000 sacrifices per year in Tenochtitlan; modern historians debate: between 10,000 and 250,000 per year depending on methodology. The Dedication of the Templo Mayor in 1487 (under Ahuitzotl) was the largest documented sacrifice event: estimates of 4,000 to 84,000 captives in four days.",
+      "descricao_es": "El sacrificio humano era central a la cosmología azteca: el sol necesitaba sangre humana para continuar su ciclo. La Dedicación del Templo Mayor en 1487 fue el mayor evento de sacrificio documentado: entre 4.000 y 84.000 cautivos en cuatro días.",
+      "importancia": "O Templo Maior de Tenochtitlan (escavado desde 1978 sob o centro histórico da Cidade do México) confirmou arqueologicamente a escala do sacrifício: centenas de crânios, ossos de sacrificados e tzompantli (prateleiras de crânios) foram encontrados. O Huey Tzompantli descoberto em 2017 continha 676 crânios identificados — provavelmente a ponta do iceberg.",
+      "importancia_en": "The Templo Mayor of Tenochtitlan (excavated since 1978 under Mexico City's historic center) archaeologically confirmed the scale of sacrifice: hundreds of skulls, sacrificed bones and tzompantli (skull racks) were found. The Huey Tzompantli discovered in 2017 contained 676 identified skulls — probably the tip of the iceberg.",
+      "importancia_es": "El Templo Mayor, excavado desde 1978, confirmó arqueológicamente la escala del sacrificio. El Huey Tzompantli descubierto en 2017 contenía 676 cráneos identificados.",
+      "tags": [
+        "sacrifício",
+        "Pedra do Sol",
+        "Quinto Sol",
+        "Templo Maior",
+        "tzompantli",
+        "cosmologia"
+      ],
+      "dataset": "data/dados-astecas-imperio.json"
+    },
+    {
+      "id": "ai-002",
+      "nome": "A Tríplice Aliança: O Mecanismo do Império",
+      "nome_en": "The Triple Alliance: The Mechanism of Empire",
+      "nome_es": "La Triple Alianza: El Mecanismo del Imperio",
+      "tipo": "periodo",
+      "inicio": 1428,
+      "fim": 1521,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 15,
+      "type": "political",
+      "descricao": "O Império Asteca era formalmente a Tríplice Aliança de Tenochtitlan, Texcoco e Tlacopan (fundada 1428). Não era um império centralizado mas uma rede de domínio indireto: cidades conquistadas mantinham seus governantes e estruturas internas mas pagavam tributo pesado. O Matrícula de Tributos lista os pagamentos de 370 cidades subordinadas: penas de quetzal, jade, algodão, cacau, obsidiana, ouro, guerreiros para sacrifício e escravos. Em 1519, a Tríplice Aliança dominava ~200.000 km² com ~5–6 milhões de súditos tributários — o maior Estado político das Américas até então.",
+      "descricao_en": "The Aztec Empire was formally the Triple Alliance of Tenochtitlan, Texcoco and Tlacopan (founded 1428). It was not a centralized empire but a network of indirect rule: conquered cities kept their rulers and internal structures but paid heavy tribute. The Matrícola de Tributos lists payments from 370 subordinate cities: quetzal feathers, jade, cotton, cacao, obsidian, gold, warriors for sacrifice and slaves. In 1519, the Triple Alliance dominated ~200,000 km² with ~5–6 million tributary subjects — the largest political state in the Americas to that point.",
+      "descricao_es": "El Imperio Azteca era la Triple Alianza de Tenochtitlan, Texcoco y Tlacopan (1428). No era centralizado sino una red de dominio indirecto. La Matrícula de Tributos lista pagos de 370 ciudades. En 1519 dominaba ~200.000 km² con 5-6 millones de súbditos.",
+      "importancia": "O sistema tributário asteca era extraordinariamente detalhado e documentado. O tributo em penas de quetzal (exigindo matar quetzais, pássaros sagrados) e em guerreiros para sacrifício criou ressentimento profundo nas cidades tributárias — o principal fator que levou dezenas delas a se aliarem a Cortés em 1519.",
+      "importancia_en": "The Aztec tribute system was extraordinarily detailed and documented. Tribute in quetzal feathers (requiring killing quetzals, sacred birds) and in warriors for sacrifice created deep resentment in tributary cities — the main factor that led dozens of them to ally with Cortés in 1519.",
+      "importancia_es": "El sistema tributario azteca creó profundo resentimiento en las ciudades tributarias — el principal factor que las llevó a aliarse con Cortés en 1519.",
+      "tags": [
+        "Tríplice Aliança",
+        "tributo",
+        "Texcoco",
+        "Tlacopan",
+        "Matrícula",
+        "império"
+      ],
+      "dataset": "data/dados-astecas-imperio.json"
+    },
+    {
+      "id": "ai-006",
+      "nome": "A Flor da Guerra e a Estratégia Militar Asteca",
+      "nome_en": "The Flower War and Aztec Military Strategy",
+      "nome_es": "La Guerra Florida y la Estrategia Militar Azteca",
+      "tipo": "periodo",
+      "inicio": 1428,
+      "fim": 1521,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 15,
+      "type": "war",
+      "descricao": "A 'Xochiyáoyotl' (Guerra Florida) era um tipo especial de conflito ritual entre Tenochtitlan e suas vizinhas (especialmente Tlaxcala, Huexotzinco, Cholula) com objetivo explícito de capturar guerreiros para sacrifício — não de matar ou conquistar território. Guerreiros astecas eram treinados para capturar, não matar; capturar 4+ inimigos era o caminho à elite militar. O Exército Asteca tinha estrutura sofisticada: ordens militares de Jaguares e Águias (a elite), massas de guerreiros de milícia tributária, logística de abastecimento. Sem cavalaria, a guerra asteca era infantaria pura — mas extremamente eficaz contra outros grupos de infantaria.",
+      "descricao_en": "The 'Xochiyáoyotl' (Flower War) was a special type of ritual conflict between Tenochtitlan and its neighbors (especially Tlaxcala, Huexotzinco, Cholula) with the explicit objective of capturing warriors for sacrifice — not killing or conquering territory. Aztec warriors were trained to capture, not kill; capturing 4+ enemies was the path to the military elite. The Aztec Army had sophisticated structure: Jaguar and Eagle military orders (the elite), masses of tributary militia warriors, supply logistics. Without cavalry, Aztec warfare was pure infantry — extremely effective against other infantry groups.",
+      "descricao_es": "La 'Xochiyáoyotl' (Guerra Florida) era un conflicto ritual para capturar guerreros para sacrificio — no para matar o conquistar. Las órdenes militares de Jaguares y Águilas eran la élite. Sin caballería, la guerra azteca era infantería pura.",
+      "importancia": "A Guerra Florida criou um paradoxo estratégico fatal: os astecas nunca esmagaram Tlaxcala porque precisavam dela como fonte de cativos para sacrifício. Isso manteve Tlaxcala politicamente independente, militarmente forte e profundamente hostil — pronta para se aliar a Cortés quando chegou. A lógica ritual do sacrifício sabotou a lógica estratégica da conquista.",
+      "importancia_en": "The Flower War created a fatal strategic paradox: the Aztecs never crushed Tlaxcala because they needed it as a source of captives for sacrifice. This kept Tlaxcala politically independent, militarily strong and deeply hostile — ready to ally with Cortés when he arrived. The ritual logic of sacrifice sabotaged the strategic logic of conquest.",
+      "importancia_es": "La Guerra Florida creó una paradoja estratégica fatal: los aztecas no aplastaron Tlaxcala porque la necesitaban como fuente de cautivos, manteniéndola independiente y hostil — lista para aliarse con Cortés.",
+      "tags": [
+        "Guerra Florida",
+        "captura",
+        "Jaguares",
+        "Águias",
+        "Tlaxcala",
+        "estratégia"
+      ],
+      "dataset": "data/dados-astecas-imperio.json"
+    },
+    {
+      "id": "ai-004",
+      "nome": "Moctezuma II: O Último Grande Tlatoani",
+      "nome_en": "Moctezuma II: The Last Great Tlatoani",
+      "nome_es": "Moctezuma II: El Último Gran Tlatoani",
+      "tipo": "periodo",
+      "inicio": 1502,
+      "fim": 1520,
+      "region": "Americas",
+      "period": "EarlyModern",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "Moctezuma II (governou 1502–1520) era o nono tlatoani (governante supremo) asteca e o mais poderoso — expandiu o império ao seu máximo territorial, tornando sua corte a mais sofisticada das Américas. Era descrito como de poucos aliados, rigoroso, reverenciado como semideus — sujeitos avançavam de joelhos na sua presença e não podiam olhá-lo nos olhos. Quando Cortés chegou, Moctezuma adotou uma estratégia de observação e negociação que os cronistas coloniais interpretaram como fraqueza ou 'confusão com Quetzalcóatl' — interpretação hoje amplamente rejeitada. Foi morto em 1520, possivelmente pelos próprios astecas furiosos com sua colaboração, possivelmente pelos espanhóis.",
+      "descricao_en": "Moctezuma II (ruled 1502–1520) was the ninth and most powerful Aztec tlatoani (supreme ruler) — he expanded the empire to its maximum territory, making his court the most sophisticated in the Americas. He was described as having few friends, rigorous, revered as a demigod — subjects advanced on their knees and could not look him in the eyes. When Cortés arrived, Moctezuma adopted a strategy of observation and negotiation that colonial chroniclers interpreted as weakness or 'confusion with Quetzalcóatl' — an interpretation now widely rejected. He was killed in 1520, possibly by Aztecs furious at his collaboration, possibly by the Spanish.",
+      "descricao_es": "Moctezuma II fue el más poderoso tlatoani azteca. Su estrategia de observación y negociación con Cortés fue interpretada por cronistas coloniales como debilidad — interpretación hoy rechazada. Murió en 1520, posiblemente a manos de aztecas furiosos con su colaboración.",
+      "importancia": "A morte de Moctezuma é um dos maiores debates da história colonial mexicana — se foi apedrejado por seus próprios súditos ou assassinado pelos espanhóis. As versões espanhola e indígena são irreconciliáveis. O fato é que sua morte precipitou a Noche Triste (30 de junho de 1520), quando os astecas atacaram e Cortés perdeu metade de seu exército.",
+      "importancia_en": "Moctezuma's death is one of the greatest debates of Mexican colonial history — whether he was stoned by his own subjects or assassinated by the Spanish. The Spanish and indigenous versions are irreconcilable. What is certain is that his death precipitated the Noche Triste (June 30, 1520), when the Aztecs attacked and Cortés lost half his army.",
+      "importancia_es": "La muerte de Moctezuma es uno de los mayores debates de la historia colonial mexicana. Su muerte precipitó la Noche Triste (30 junio 1520) cuando los aztecas atacaron y Cortés perdió la mitad de su ejército.",
+      "tags": [
+        "Moctezuma",
+        "tlatoani",
+        "Noche Triste",
+        "Cortés",
+        "poder",
+        "corte"
+      ],
+      "dataset": "data/dados-astecas-imperio.json"
+    },
+    {
+      "id": "ai-005",
+      "nome": "A Conquista de Tenochtitlan: Agosto de 1521",
+      "nome_en": "The Conquest of Tenochtitlan: August 1521",
+      "nome_es": "La Conquista de Tenochtitlan: Agosto de 1521",
+      "tipo": "evento",
+      "inicio": 1519,
+      "fim": 1521,
+      "region": "Americas",
+      "period": "EarlyModern",
+      "century_start": 16,
+      "type": "war",
+      "descricao": "A conquista de Tenochtitlan (1519–1521) foi tecnicamente uma coalizão indígena de ~200.000 guerreiros liderada por Cortés com 600 espanhóis. Após a Noche Triste (1520, derrota espanhola), Cortés reagrupou, construiu 13 bergantins para o lago e sitiou Tenochtitlan por 75 dias. A cidade resistiu heroicamente sob Cuauhtémoc, o último tlatoani. A viruela (varíola) introduzida pelos europeus matou entre 25–50% da população indígena antes do cerco final — incluindo Cuitláhuac, o tlatoani que sucedeu Moctezuma. Tenochtitlan caiu em 13 de agosto de 1521. Cortés capturou Cuauhtémoc, que foi torturado para revelar tesouros e depois executado.",
+      "descricao_en": "The conquest of Tenochtitlan (1519–1521) was technically an indigenous coalition of ~200,000 warriors led by Cortés with 600 Spaniards. After the Noche Triste (1520, Spanish defeat), Cortés regrouped, built 13 brigantines for the lake and besieged Tenochtitlan for 75 days. The city heroically resisted under Cuauhtémoc, the last tlatoani. Smallpox introduced by Europeans killed 25–50% of the indigenous population before the final siege — including Cuitláhuac, the tlatoani who succeeded Moctezuma. Tenochtitlan fell on August 13, 1521. Cortés captured Cuauhtémoc, who was tortured to reveal treasures and later executed.",
+      "descricao_es": "La conquista fue una coalición indígena de ~200.000 guerreros liderada por Cortés con 600 españoles. La viruela mató al 25-50% de la población indígena antes del sitio final. Tenochtitlan cayó el 13 agosto 1521. Cuauhtémoc fue torturado y ejecutado.",
+      "importancia": "A varíola foi a arma mais eficaz da Conquista — matando entre 1/4 e 1/2 da população mesoamericana antes dos primeiros combates sérios. Nenhuma decisão militar de Cortés foi tão devastadora quanto o vírus que chegou nos navios. A mortalidade por doenças europeias nas Américas entre 1492–1600 é estimada em 50–90% da população pré-colombiana — entre 20 e 50 milhões de pessoas.",
+      "importancia_en": "Smallpox was the most effective weapon of the Conquest — killing between 1/4 and 1/2 of the Mesoamerican population before serious combat began. No military decision by Cortés was as devastating as the virus that arrived on the ships. Mortality from European diseases in the Americas between 1492–1600 is estimated at 50–90% of the pre-Columbian population — between 20 and 50 million people.",
+      "importancia_es": "La viruela fue el arma más eficaz de la Conquista, matando al 25-50% de la población antes de los combates serios. La mortalidad por enfermedades europeas entre 1492-1600 fue del 50-90% de la población precolombina.",
+      "tags": [
+        "Cuauhtémoc",
+        "varíola",
+        "cerco",
+        "1521",
+        "bergantins",
+        "coalizão"
+      ],
+      "dataset": "data/dados-astecas-imperio.json"
+    },
+    {
+      "id": "ai-007",
+      "nome": "Cuauhtémoc e a Memória da Resistência",
+      "nome_en": "Cuauhtémoc and the Memory of Resistance",
+      "nome_es": "Cuauhtémoc y la Memoria de la Resistencia",
+      "tipo": "periodo",
+      "inicio": 1520,
+      "fim": 1525,
+      "region": "Americas",
+      "period": "EarlyModern",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "Cuauhtémoc (r. 1520–1521, ~18–25 anos) foi o último tlatoani asteca — eleito após a morte de Cuitláhuac pela varíola. Defendeu Tenochtitlan por 75 dias de cerco até o esgotamento total. Capturado ao tentar fugir de canoa, foi levado a Cortés. Quando perguntado se preferia a morte, respondeu 'Faça o que quiser com minha vida, pois eu já não cumpri meu dever'. Foi torturado (queimaram seus pés com brasa para revelar tesouros escondidos), levado como prisioneiro à expedição de Honduras em 1525 e executado — Cortés alegou que planejava revolta. É o herói nacional do México moderno.",
+      "descricao_en": "Cuauhtémoc (r. 1520–1521, ~18–25 years old) was the last Aztec tlatoani — elected after Cuitláhuac's death from smallpox. He defended Tenochtitlan for 75 days of siege until total exhaustion. Captured trying to flee by canoe, he was brought to Cortés. When asked if he preferred death, he replied 'Do what you will with my life, for I have already failed in my duty.' He was tortured (feet burned with coals to reveal hidden treasures), taken prisoner on the 1525 Honduras expedition and executed — Cortés alleged he was planning a revolt. He is Mexico's modern national hero.",
+      "descricao_es": "Cuauhtémoc fue el último tlatoani azteca. Defendió Tenochtitlan 75 días. Capturado, fue torturado para revelar tesoros y ejecutado en 1525. Es el héroe nacional de México moderno.",
+      "importancia": "Cuauhtémoc é a figura que o México moderno elegeu como símbolo de resistência e identidade nacional — sua estátua na Avenida Reforma em Cidade do México é um dos monumentos mais famosos do país. O paradoxo é que Cortés — o conquistador espanhol — também é mestiço da herança mexicana, mas nunca recebeu uma estátua nacional.",
+      "importancia_en": "Cuauhtémoc is the figure that modern Mexico chose as a symbol of resistance and national identity — his statue on Avenida Reforma in Mexico City is one of the country's most famous monuments. The paradox is that Cortés — the Spanish conqueror — is also part of Mexico's mestizo heritage, but never received a national statue.",
+      "importancia_es": "Cuauhtémoc es el héroe nacional de México moderno. El paradoxo: Cortés también forma parte de la herencia mestiza mexicana pero nunca recibió estatua nacional.",
+      "tags": [
+        "Cuauhtémoc",
+        "resistência",
+        "herói nacional",
+        "tortura",
+        "memória",
+        "México"
+      ],
+      "dataset": "data/dados-astecas-imperio.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ai-001",
+      "destino": "ai-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A grandeza de Tenochtitlan é produto e sustento do sistema tributário imperial"
+    },
+    {
+      "origem": "ai-002",
+      "destino": "ai-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O sistema tributário exige guerreiros cativos → sacrifício em massa"
+    },
+    {
+      "origem": "ai-003",
+      "destino": "ai-006",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A lógica do sacrifício condiciona a estratégia militar"
+    },
+    {
+      "origem": "ai-004",
+      "destino": "ai-005",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A crise de Moctezuma precipita a queda de Tenochtitlan"
+    },
+    {
+      "origem": "ai-006",
+      "destino": "ai-005",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "A Guerra Florida cria o paradoxo que permite Tlaxcala se aliar a Cortés"
+    },
+    {
+      "origem": "ai-005",
+      "destino": "ai-007",
+      "tipo": "evolucao",
+      "intensidade": 0.9,
+      "descricao": "Queda de Tenochtitlan captura Cuauhtémoc"
+    }
+  ]
+}

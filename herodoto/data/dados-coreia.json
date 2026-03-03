@@ -1,0 +1,164 @@
+{
+  "entidades": [
+    {
+      "id": "cor-001",
+      "nome": "Três Reinos da Coreia e Silla Unificado",
+      "nome_en": "Three Kingdoms of Korea and Unified Silla",
+      "nome_es": "Tres Reinos de Corea y Silla Unificado",
+      "tipo": "periodo",
+      "descricao": "Goguryeo, Baekje e Silla (57 a.C.–668 d.C.): três reinos que moldaram a identidade coreana. Goguryeo derrotou duas invasões da dinastia Sui chinesa com 1 milhão de soldados (612-614) — batalha de Salsu: 300.000 chineses mortos. Silla aliou-se à Tang e unificou a península (668). Período Silla Unificado (668-935): adoção do budismo, arte budista refinada, florrescimento cultural. Hwarang: casta guerreira com ética confuciana-budista.",
+      "descricao_en": "Goguryeo, Baekje and Silla (57 BC–668 AD): three kingdoms that shaped Korean identity. Goguryeo defeated two invasions by the Chinese Sui dynasty with 1 million soldiers (612-614) — Battle of Salsu: 300,000 Chinese killed. Silla allied with Tang and unified the peninsula (668). Unified Silla Period (668-935): adoption of Buddhism, refined Buddhist art, cultural flourishing. Hwarang: warrior caste with Confucian-Buddhist ethics.",
+      "descricao_es": "Goguryeo, Baekje y Silla (57 a.C.–668 d.C.): Goguryeo derrotó dos invasiones de la dinastía Sui con un millón de soldados. Silla unificó la península (668). Período Silla Unificado (668-935): budismo, arte refinado. Hwarang: casta guerrera con ética confuciana-budista.",
+      "inicio": -57,
+      "fim": 935,
+      "tags": [
+        "tres-reinos",
+        "silla",
+        "coreia",
+        "budismo"
+      ],
+      "importancia": "Os Três Reinos (Goguryeo, Baekje, Silla) e a posterior unificação por Silla (668 d.C.) criaram a identidade cultural coreana: língua, escrita, arte e religião (budismo) próprias, distintas da China que havia dominado a região. A resistência de Goguryeo às invasões chinesas das Dinastias Sui (612) e Tang (645-668) é o mito fundador da identidade guerreira coreana — e a razão pela qual a Coreia do Norte adota Goguryeo como ancestral nacional primário. Silla unificada criou as fundações institucionais da civilização coreana que persistiriam por séculos.",
+      "century_start": -1,
+      "century_end": 10,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "Unified Silla Period (668-935): adoption of Buddhism, refined Buddhist art, cultural flourishing. Hwarang: warrior caste with Confucian-Buddhist ethics.",
+      "importancia_es": "Período Silla Unificado (668-935): budismo, arte refinado. Hwarang: casta guerrera con ética confuciana-budista."
+    },
+    {
+      "id": "cor-002",
+      "nome": "Joseon e o Alfabeto Hangul",
+      "nome_en": "Joseon and the Hangul Alphabet",
+      "nome_es": "Joseon y el Alfabeto Hangul",
+      "tipo": "periodo",
+      "descricao": "Joseon (1392-1910): a mais longa dinastia da Coreia (518 anos). Rei Sejong, o Grande (r. 1418-1450): criou o Hangul (1443) — o único alfabeto projetado conscientemente por um autor identificado. 24 letras fonéticas baseadas em formas articulatórias. Objetivo: alfabetizar o povo (antes só a elite lia o chinês). Invasões japonesas de Toyotomi Hideyoshi (1592-98): almirante Yi Sun-sin e suas tartarugas-de-guerra (kobukson) derrotaram a frota japonesa. Confucianismo como ideologia de Estado.",
+      "descricao_en": "Joseon (1392-1910): Korea's longest dynasty (518 years). King Sejong the Great (r. 1418-1450): created Hangul (1443) — the only alphabet consciously designed by an identified author. 24 phonetic letters based on articulatory shapes. Goal: literacy for the people (before, only the elite read Chinese). Japanese invasions of Toyotomi Hideyoshi (1592-98): Admiral Yi Sun-sin and his turtle ships (kobukson) defeated the Japanese fleet. Confucianism as state ideology.",
+      "descricao_es": "Joseon (1392-1910): 518 años. Rey Sejong el Grande (1418-1450): creó el Hangul (1443) — único alfabeto conscientemente diseñado por un autor identificado. Invasiones japonesas de Hideyoshi (1592-98): Almirante Yi Sun-sin y sus barcos tortuga derrotaron a la flota japonesa.",
+      "inicio": 1392,
+      "fim": 1910,
+      "tags": [
+        "joseon",
+        "hangul",
+        "coreia",
+        "sejong"
+      ],
+      "importancia": "O alfabeto hangul, criado pelo Rei Sejong em 1443, é provavelmente o mais bem planejado sistema de escrita já criado: cada símbolo reflete a forma física dos órgãos de fala ao produzir o som correspondente. Criado deliberadamente para aumentar a alfabetização popular (em contraste com o chinês clássico que apenas a elite dominava), o hangul foi inicialmente resistido pelos aristocratas confucionistas — justamente porque democratizava o conhecimento. Hoje tem taxa de analfabetismo próxima a zero — o legado mais duradouro do reinado de Sejong.",
+      "century_start": 14,
+      "century_end": 20,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Japanese invasions of Toyotomi Hideyoshi (1592-98): Admiral Yi Sun-sin and his turtle ships (kobukson) defeated the Japanese fleet. Confucianism as state ideology.",
+      "importancia_es": "Invasiones japonesas de Hideyoshi (1592-98): Almirante Yi Sun-sin y sus barcos tortuga derrotaron a la flota japonesa."
+    },
+    {
+      "id": "cor-003",
+      "nome": "Colonização Japonesa da Coreia (1910-1945)",
+      "nome_en": "Japanese Colonization of Korea (1910-1945)",
+      "nome_es": "Colonización Japonesa de Corea (1910-1945)",
+      "tipo": "periodo",
+      "descricao": "Japão anexou a Coreia em 1910. Política de assimilação forçada: nomes japoneses obrigatórios, proibição do coreano nas escolas. Industrialização acelerada — mas para benefício japonês. Conforto das mulheres (ianfu): 100.000-200.000 coreanas forçadas à escravidão sexual pelo exército japonês. Movimento 1º de Março de 1919: 2 milhões de manifestantes, 7.500 mortos. Governo no exílio em Xangai. Libertação com a derrota japonesa em 1945. Trauma que ainda define as relações Coreia-Japão.",
+      "descricao_en": "Japan annexed Korea in 1910. Forced assimilation policy: mandatory Japanese names, ban on Korean in schools. Accelerated industrialization — but for Japanese benefit. Comfort women (ianfu): 100,000-200,000 Korean women forced into sexual slavery by the Japanese army. March 1st Movement of 1919: 2 million protesters, 7,500 killed. Government in exile in Shanghai. Liberation with Japan's defeat in 1945. Trauma that still defines Korea-Japan relations.",
+      "descricao_es": "Japón anexó Corea en 1910. Asimilación forzada: nombres japoneses, prohibición del coreano. Mujeres de consuelo: 100.000-200.000 forzadas a la esclavitud sexual. Movimiento 1 de Marzo de 1919: 2 millones de manifestantes, 7.500 muertos. Liberación en 1945.",
+      "inicio": 1910,
+      "fim": 1945,
+      "tags": [
+        "colonizacao-japonesa",
+        "coreia",
+        "ianfu",
+        "resistencia"
+      ],
+      "importancia": "Trauma nacional que ainda define as relações Coreia-Japão. As ianfu: crime de guerra com repercussões diplomáticas no séc. XXI.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "Liberation with Japan's defeat in 1945. Trauma that still defines Korea-Japan relations.",
+      "importancia_es": "Movimiento 1 de Marzo de 1919: 2 millones de manifestantes, 7.500 muertos."
+    },
+    {
+      "id": "cor-004",
+      "nome": "Guerra da Coreia e a Divisão (1950-1953)",
+      "nome_en": "Korean War and the Division (1950-1953)",
+      "nome_es": "Guerra de Corea y la División (1950-1953)",
+      "tipo": "periodo",
+      "descricao": "25 junho 1950: Coreia do Norte invade o Sul — Kim Il-sung apoiado por Stalin e Mao. EUA lideraram coalizão ONU (16 países). MacArthur: avanço até o Yalu (fronteira chinesa) provocou entrada da China com 300.000 soldados (outubro 1950). Armistício em 1953 — não há tratado de paz até hoje. Linha de demarcação: DMZ (zona desmilitarizada). Baixas: 3-5 milhões de mortos (militares + civis). A 'guerra esquecida' — ofuscada entre WWII e Vietnã.",
+      "descricao_en": "June 25, 1950: North Korea invades the South — Kim Il-sung supported by Stalin and Mao. US led UN coalition (16 countries). MacArthur: advance to the Yalu (Chinese border) provoked China's entry with 300,000 soldiers (October 1950). Armistice in 1953 — no peace treaty to this day. Demarcation line: DMZ (demilitarized zone). Casualties: 3-5 million dead (military + civilians). The 'forgotten war' — overshadowed between WWII and Vietnam.",
+      "descricao_es": "25 junio 1950: Corea del Norte invade el Sur. EE.UU. lideró coalición ONU. MacArthur avanzó hasta el Yalu, provocando la entrada de China con 300.000 soldados. Armisticio en 1953 — sin tratado de paz hasta hoy. DMZ. 3-5 millones de muertos.",
+      "inicio": 1950,
+      "fim": 1953,
+      "tags": [
+        "guerra-coreia",
+        "divisao",
+        "cold-war",
+        "macarthur"
+      ],
+      "importancia": "A Guerra da Coreia (1950-53) foi o conflito que transformou a Guerra Fria de competição ideológica em guerra quente: 3-5 milhões de mortos, 10 milhões de famílias separadas pela divisão, toda a Península destruída. O Armistício de 1953 não resolveu nada — apenas congelou o conflito numa das fronteiras mais militarizadas do mundo. A divisão produziu o maior experimento involuntário de história contrafactual: dois povos idênticos geneticamente e culturalmente, divididos por ideologia, com resultados de desenvolvimento radicalmente opostos após 70 anos.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "The 'forgotten war' — overshadowed between WWII and Vietnam.",
+      "importancia_es": "MacArthur avanzó hasta el Yalu, provocando la entrada de China con 300.000 soldados. Armisticio en 1953 — sin tratado de paz hasta hoy."
+    },
+    {
+      "id": "cor-005",
+      "nome": "Milagre do Rio Han: Coreia do Sul",
+      "nome_en": "Miracle on the Han River: South Korea",
+      "nome_es": "Milagro del Río Han: Corea del Sur",
+      "tipo": "periodo",
+      "descricao": "Coreia do Sul em 1953: renda per capita de US$67 (inferior ao Gana). Em 2023: US$33.000 — maior salto de renda na história. Park Chung-hee (ditador, 1961-1979): chaebols (Samsung, Hyundai, LG), prioridade em educação e exportação. Democratização em 1987 após décadas de pressão estudantil. Hallyu (onda coreana): K-pop, K-dramas, Parasite (Oscar 2020). De receptor de ajuda humanitária a membro da OCDE. Único caso de país que saiu do grupo de menor desenvolvimento.",
+      "descricao_en": "South Korea in 1953: per capita income of $67 (lower than Ghana). In 2023: $33,000 — largest income leap in history. Park Chung-hee (dictator, 1961-1979): chaebols (Samsung, Hyundai, LG), priority on education and exports. Democratization in 1987 after decades of student pressure. Hallyu (Korean wave): K-pop, K-dramas, Parasite (Oscar 2020). From humanitarian aid recipient to OECD member. Only case of a country that left the least developed group.",
+      "descricao_es": "Corea del Sur en 1953: renta per cápita de $67. En 2023: $33.000 — mayor salto de renta en la historia. Park Chung-hee: chaebols. Democratización en 1987. Hallyu: K-pop, K-dramas, Parasite (Óscar 2020). Único país que salió del grupo de menor desarrollo.",
+      "inicio": 1953,
+      "fim": 2023,
+      "tags": [
+        "coreia-do-sul",
+        "hallyu",
+        "milagre-economico",
+        "chaebols"
+      ],
+      "importancia": "O 'Milagre do Rio Han' — a ascensão da Coreia do Sul de uma das nações mais pobres do mundo (1950s) à 12ª maior economia (2024) — foi resultado de política industrial deliberada: chaebols (conglomerados) protegidos e financiados pelo Estado, educação como prioridade nacional absoluta, e supressão de direitos trabalhistas e políticos durante a fase de acumulação acelerada. Park Chung-hee foi ditador — e o arquiteto do milagre econômico. A tensão entre desenvolvimento autoritário e democracia que a Coreia do Sul viveu ainda ecoa no debate sobre se democracia é pré-condição ou resultado do desenvolvimento.",
+      "century_start": 20,
+      "century_end": 21,
+      "region": "EastAsia",
+      "type": "economic",
+      "period": "Contemporary",
+      "importancia_en": "From humanitarian aid recipient to OECD member. Only case of a country that left the least developed group.",
+      "importancia_es": "Hallyu: K-pop, K-dramas, Parasite (Óscar 2020). Único país que salió del grupo de menor desarrollo."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "cor-001",
+      "destino": "cor-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Os três reinos formaram a base cultural sobre a qual Joseon construiu a identidade coreana"
+    },
+    {
+      "origem": "cor-002",
+      "destino": "cor-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A invasão japonesa em 1910 encerrou o longo período Joseon"
+    },
+    {
+      "origem": "cor-003",
+      "destino": "cor-004",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "A divisão pós-1945 em zonas de ocupação (soviética/americana) gerou as duas Coreias e depois a guerra"
+    },
+    {
+      "origem": "cor-004",
+      "destino": "cor-005",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A destruição total da guerra foi o ponto de partida para o Milagre do Rio Han"
+    }
+  ]
+}

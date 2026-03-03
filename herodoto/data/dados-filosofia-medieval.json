@@ -1,0 +1,197 @@
+{
+  "entidades": [
+    {
+      "id": "fmed-001",
+      "nome": "Agostinho de Hipona: Filosofia Cristã",
+      "nome_en": "Augustine of Hippo: Christian Philosophy",
+      "nome_es": "Agustín de Hipona: Filosofía Cristiana",
+      "tipo": "periodo",
+      "descricao": "Agostinho (354-430 d.C.): bispo norte-africano, ex-maniqueu, convertido ao Cristianismo. As Confissões: primeira autobiografia filosófica. A Cidade de Deus: história como conflito entre cidade terrena e cidade divina. Síntese Platão-Cristão: alma imortal, bem supremo como Deus, iluminação divina como fonte do conhecimento. Pecado original, graça e predestinação. Polêmica com os pelagianos. Mais influente teólogo cristão até Aquino. Base teológica do catolicismo medieval.",
+      "descricao_en": "Augustine (354-430 AD): North African bishop, former Manichaean, converted to Christianity. Confessions: first philosophical autobiography. City of God: history as conflict between the earthly city and the divine city. Plato-Christian synthesis: immortal soul, supreme good as God, divine illumination as source of knowledge. Original sin, grace, and predestination. Polemic with Pelagians. Most influential Christian theologian until Aquinas. Theological foundation of medieval Catholicism.",
+      "descricao_es": "Agustín (354-430 d.C.): obispo norteafricano. Las Confesiones: primera autobiografía filosófica. La Ciudad de Dios. Síntesis Platón-Cristiano. Pecado original, gracia y predestinación. El teólogo más influyente hasta Tomás de Aquino.",
+      "inicio": 354,
+      "fim": 430,
+      "tags": [
+        "agostinho",
+        "patristicos",
+        "pecado-original",
+        "cidade-deus"
+      ],
+      "importancia": "Agostinho de Hipona (354-430) foi o pensador mais influente entre Paulo e Tomás de Aquino — 900 anos de filosofia cristã passam por ele. Sua síntese de Platão com o Cristianismo criou a teologia ocidental: o mal como ausência de bem, a graça como necessária à salvação, a predestinação, a teoria das Duas Cidades (temporal vs. divina). A 'Cidade de Deus' foi escrita em resposta ao saque de Roma (410) — a filosofia como teodiceia numa civilização em colapso.",
+      "century_start": 4,
+      "century_end": 5,
+      "region": "Africa",
+      "type": "intellectual",
+      "period": "Ancient",
+      "importancia_en": "Most influential Christian theologian until Aquinas. Theological foundation of medieval Catholicism.",
+      "importancia_es": "Pecado original, gracia y predestinación. El teólogo más influyente hasta Tomás de Aquino."
+    },
+    {
+      "id": "fmed-002",
+      "nome": "Anselmo e o Argumento Ontológico",
+      "nome_en": "Anselm and the Ontological Argument",
+      "nome_es": "Anselmo y el Argumento Ontológico",
+      "tipo": "periodo",
+      "descricao": "Anselmo de Cantuária (1033-1109): arcebispo inglês, 'pai da Escolástica'. Proslógio (1077): argumento ontológico — 'Deus é aquele ser maior do qual nada pode ser concebido; se existisse apenas no pensamento seria menor que se existisse na realidade; logo Deus existe na realidade.' Primeiro argumento a priori pela existência de Deus (sem evidências empíricas). Debatido por 900 anos: Tomás refutou, Descartes ressuscitou, Kant refutou de novo, Plantinga defende hoje. 'Fé que busca entender' (fides quaerens intellectum).",
+      "descricao_en": "Anselm of Canterbury (1033-1109): English archbishop, 'father of Scholasticism'. Proslogion (1077): ontological argument — 'God is that being than which nothing greater can be conceived; if He existed only in thought He would be lesser than if He existed in reality; therefore God exists in reality.' First a priori argument for God's existence (without empirical evidence). Debated for 900 years: Aquinas refuted, Descartes revived, Kant refuted again, Plantinga defends today.",
+      "descricao_es": "Anselmo de Canterbury (1033-1109): 'padre de la Escolástica'. Proslógio (1077): argumento ontológico. Debatido durante 900 años: Tomás lo refutó, Descartes lo resucitó, Kant lo refutó de nuevo, Plantinga lo defiende hoy.",
+      "inicio": 1033,
+      "fim": 1109,
+      "tags": [
+        "anselmo",
+        "ontologico",
+        "escolastica",
+        "deus"
+      ],
+      "importancia": "O Argumento Ontológico de Anselmo (1078) — Deus é 'aquilo acima do qual nada maior pode ser pensado', logo deve existir — é o argumento filosófico mais debatido da história: foi refutado por Tomás de Aquino, reformulado por Descartes, destruído por Kant e revivido por Alvin Plantinga no século XX. Que um argumento de 950 anos ainda gere artigos em revistas filosóficas especializadas demonstra que a questão da existência de Deus não é apenas religiosa mas lógica — e permanece genuinamente aberta.",
+      "century_start": 11,
+      "century_end": 11,
+      "region": "Europe",
+      "type": "intellectual",
+      "period": "Medieval",
+      "importancia_en": "Debated for 900 years: Aquinas refuted, Descartes revived, Kant refuted again, Plantinga defends today.",
+      "importancia_es": "Debatido durante 900 años: Tomás lo refutó, Descartes lo resucitó, Kant lo refutó de nuevo, Plantinga lo defiende hoy."
+    },
+    {
+      "id": "fmed-003",
+      "nome": "Averróis e a Transmissão de Aristóteles",
+      "nome_en": "Averroes and the Transmission of Aristotle",
+      "nome_es": "Averroes y la Transmisión de Aristóteles",
+      "tipo": "periodo",
+      "descricao": "Ibn Rushd / Averróis (1126-1198): filósofo islâmico de Córdoba, Al-Ándalus. O 'Comentarista': comentou toda a obra de Aristóteles — os escolásticos o chamavam apenas de 'O Comentarista'. Defendeu a dupla verdade: razão e fé podem atingir verdades distintas. Condenado pelos Almóadas. Banido para Lucena. Suas obras chegaram à Europa latina via Toledo — desencadearam a recepção de Aristóteles que dominou os sécs. XII-XV. Tomás de Aquino refutou o averroísmo latino mas usou extensamente seu Aristóteles.",
+      "descricao_en": "Ibn Rushd / Averroes (1126-1198): Islamic philosopher from Córdoba, Al-Andalus. The 'Commentator': commented on all of Aristotle's works — Scholastics called him simply 'The Commentator'. Defended the double truth: reason and faith can reach distinct truths. Condemned by the Almohads. Banished to Lucena. His works reached Latin Europe via Toledo — triggered the Aristotle reception that dominated the 12th-15th centuries. Aquinas refuted Latin Averroism but extensively used his Aristotle.",
+      "descricao_es": "Averroes (1126-1198): filósofo islámico de Córdoba. El 'Comentarista' de Aristóteles. Doble verdad. Condenado por los almohades. Sus obras llegaron a Europa vía Toledo. Tomás de Aquino refutó el averroísmo pero usó extensamente su Aristóteles.",
+      "inicio": 1126,
+      "fim": 1198,
+      "tags": [
+        "averrois",
+        "aristoteles",
+        "cordoba",
+        "transmissao"
+      ],
+      "importancia": "Averróis (Ibn Rushd, 1126-1198) foi o 'Comentador' por excelência: seus comentários a Aristóteles tornaram o filósofo acessível à Europa medieval quando os textos originais estavam perdidos no Ocidente. Sem Averróis, não há Tomás de Aquino; sem Aquino, não há escolástica; sem escolástica, não há as universidades medievais que geraram a Revolução Científica. A cadeia de transmissão passa pelo mundo islâmico — e é o exemplo mais claro de que a civilização ocidental moderna é impensável sem a contribuição islâmica.",
+      "century_start": 12,
+      "century_end": 12,
+      "region": "MiddleEast",
+      "type": "intellectual",
+      "period": "Medieval",
+      "importancia_en": "Aquinas refuted Latin Averroism but extensively used his Aristotle.",
+      "importancia_es": "Tomás de Aquino refutó el averroísmo pero usó extensamente su Aristóteles."
+    },
+    {
+      "id": "fmed-006",
+      "nome": "Maimônides e a Filosofia Judaica Medieval",
+      "nome_en": "Maimonides and Medieval Jewish Philosophy",
+      "nome_es": "Maimónides y la Filosofía Judía Medieval",
+      "tipo": "periodo",
+      "descricao": "Moisés Maimônides (1138-1204): maior filósofo judeu medieval, nascido em Córdoba (Al-Ándalus). Guia dos Perplexos: síntese entre aristotelismo e judaísmo, análoga à de Averróis e Tomás. Mishnê Torá: codificação da lei judaica (Halachá). Treze Princípios da Fé. Medicina: médico da corte do Saladino. Influenciou Tomás de Aquino, Espinosa, Leibniz. Paradoxo de Córdoba: judeu, muçulmano (Averróis) e cristão (futuramente Tomás) todos em diálogo filosófico ao redor de Aristóteles.",
+      "descricao_en": "Moses Maimonides (1138-1204): greatest medieval Jewish philosopher, born in Córdoba (Al-Andalus). Guide for the Perplexed: synthesis between Aristotelianism and Judaism, analogous to Averroes' and Aquinas'. Mishneh Torah: codification of Jewish law (Halacha). Thirteen Principles of Faith. Medicine: physician to Saladin's court. Influenced Aquinas, Spinoza, Leibniz. Córdoba paradox: Jewish, Muslim (Averroes), and Christian (future Aquinas) all in philosophical dialogue around Aristotle.",
+      "descricao_es": "Maimónides (1138-1204): mayor filósofo judío medieval, nacido en Córdoba. Guía de perplejos: síntesis aristotelismo-judaísmo. Influenció a Tomás de Aquino, Spinoza, Leibniz. Paradoja de Córdoba: judío, musulmán y cristiano en diálogo filosófico alrededor de Aristóteles.",
+      "inicio": 1138,
+      "fim": 1204,
+      "tags": [
+        "maimonides",
+        "judaismo",
+        "aristoteles",
+        "cordoba"
+      ],
+      "importancia": "Maimônides (1138-1204) realizou para o judaísmo medieval o que Aquino fez para o Cristianismo: reconciliar Aristóteles com a revelação bíblica. O 'Guia dos Perplexos' tentou mostrar que as contradições aparentes entre razão e Torah são resolúveis através de interpretação alegórica. Sua influência cruzou fronteiras religiosas: Aquino o citava extensamente, e seu racionalismo influenciou Espinoza, Leibniz e o Iluminismo judeu do século XVIII. A filosofia medieval foi genuinamente inter-religiosa num nível que raramente reconhecemos.",
+      "century_start": 12,
+      "century_end": 13,
+      "region": "MiddleEast",
+      "type": "intellectual",
+      "period": "Medieval",
+      "importancia_en": "Córdoba paradox: Jewish, Muslim (Averroes), and Christian (future Aquinas) all in philosophical dialogue around Aristotle.",
+      "importancia_es": "Paradoja de Córdoba: judío, musulmán y cristiano en diálogo filosófico alrededor de Aristóteles."
+    },
+    {
+      "id": "fmed-004",
+      "nome": "Tomás de Aquino e a Escolástica",
+      "nome_en": "Thomas Aquinas and Scholasticism",
+      "nome_es": "Tomás de Aquino y la Escolástica",
+      "tipo": "periodo",
+      "descricao": "Tomás de Aquino (1225-1274): dominicano italiano, aluno de Alberto Magno. Summa Theologiae (1265-1274): ~3500 artigos — maior obra filosófico-teológica da história. Síntese Aristóteles-Cristão: razão e fé complementares, não contraditórias. Cinco Vias: provas da existência de Deus por causas, contingência, etc. Direito Natural: base da ética objetiva independente da revelação. Canonizado 1323. Base filosófica oficial da Igreja Católica (até hoje). 'Doutor Angélico'.",
+      "descricao_en": "Thomas Aquinas (1225-1274): Italian Dominican, student of Albert the Great. Summa Theologiae (1265-1274): ~3500 articles — the largest philosophical-theological work in history. Aristotle-Christian synthesis: reason and faith complementary, not contradictory. Five Ways: proofs of God's existence through causes, contingency, etc. Natural Law: basis of objective ethics independent of revelation. Canonized 1323. Official philosophical basis of the Catholic Church (to this day). 'Angelic Doctor'.",
+      "descricao_es": "Tomás de Aquino (1225-1274): dominicano italiano. Summa Theologiae (1265-1274): ~3500 artículos. Síntesis Aristóteles-Cristiano. Cinco Vías: pruebas de la existencia de Dios. Derecho Natural. Base filosófica oficial de la Iglesia Católica hasta hoy.",
+      "inicio": 1265,
+      "fim": 1274,
+      "tags": [
+        "aquino",
+        "escolastica",
+        "summa",
+        "direito-natural"
+      ],
+      "importancia": "Tomás de Aquino realizou a maior síntese intelectual da Idade Média: reconciliar Aristóteles (recém-redescoberto via Averróis) com o Cristianismo. As 'Cinco Vias' para provar a existência de Deus são argumentos cosmológicos ainda debatidos. A distinção entre razão natural e fé revelada — que podem coexistir sem conflito — foi a solução escolástica para a tensão ciência-religião que preocupava o século XIII. O tomismo ainda é a filosofia oficial da Igreja Católica.",
+      "century_start": 13,
+      "century_end": 13,
+      "region": "Europe",
+      "type": "intellectual",
+      "period": "Medieval",
+      "importancia_en": "Official philosophical basis of the Catholic Church (to this day).",
+      "importancia_es": "Cinco Vías: pruebas de la existencia de Dios. Base filosófica oficial de la Iglesia Católica hasta hoy."
+    },
+    {
+      "id": "fmed-005",
+      "nome": "Guilherme de Ockham e o Nominalismo",
+      "nome_en": "William of Ockham and Nominalism",
+      "nome_es": "Guillermo de Ockham y el Nominalismo",
+      "tipo": "periodo",
+      "descricao": "Guilherme de Ockham (c. 1287-1347): franciscano inglês. Navalha de Ockham: 'Não multiplicar entidades além do necessário' — princípio de parcimônia científica. Nominalismo: os universais (gato, árvore) são apenas nomes; a realidade são os objetos individuais. Combateu o Papa João XXII. Separação radical razão/fé. Influenciou: Lutero (via teologia negativa), Bacon (empirismo), Descartes (ceticismo metodológico). Antecipou o empirismo científico em 200 anos.",
+      "descricao_en": "William of Ockham (c. 1287-1347): English Franciscan. Ockham's Razor: 'Do not multiply entities beyond necessity' — principle of scientific parsimony. Nominalism: universals (cat, tree) are merely names; reality consists of individual objects. Fought Pope John XXII. Radical separation of reason/faith. Influenced: Luther (via negative theology), Bacon (empiricism), Descartes (methodological skepticism). Anticipated scientific empiricism by 200 years.",
+      "descricao_es": "Ockham (c. 1287-1347): franciscano inglés. Navaja de Ockham: 'No multiplicar entidades más allá de lo necesario'. Nominalismo: los universales son solo nombres. Influyó en Lutero, Bacon, Descartes. Anticipó el empirismo científico 200 años.",
+      "inicio": 1320,
+      "fim": 1347,
+      "tags": [
+        "ockham",
+        "navalha",
+        "nominalismo",
+        "empirismo"
+      ],
+      "importancia": "A 'Navalha de Ockham' — não multiplicar entidades além do necessário — é o princípio metodológico mais utilizado na ciência moderna: prefira a explicação mais simples. Mas o nominalismo de Ockham era muito mais radical: os universais (justiça, beleza, humanidade) não existem na realidade, são apenas nomes que damos a coleções de particulares. Isso destruía o realismo platônico que fundamentava a escolástica — e preparava o terreno epistemológico para o empirismo e o método científico.",
+      "century_start": 14,
+      "century_end": 14,
+      "region": "Europe",
+      "type": "intellectual",
+      "period": "Medieval",
+      "importancia_en": "Influenced: Luther (via negative theology), Bacon (empiricism), Descartes (methodological skepticism). Anticipated scientific empiricism by 200 years.",
+      "importancia_es": "Influyó en Lutero, Bacon, Descartes. Anticipó el empirismo científico 200 años."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "fmed-001",
+      "destino": "fmed-002",
+      "tipo": "influencia",
+      "intensidade": 0.8,
+      "descricao": "Agostinho/Platão foi a base que Anselmo e os escolásticos questionaram com Aristóteles"
+    },
+    {
+      "origem": "fmed-003",
+      "destino": "fmed-004",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "Tomás de Aquino sintetizou o Aristóteles que chegou via Averróis"
+    },
+    {
+      "origem": "fmed-003",
+      "destino": "fmed-006",
+      "tipo": "contemporaneo",
+      "intensidade": 0.9,
+      "descricao": "Averróis e Maimônides foram contemporâneos e viveram em Córdoba na mesma época"
+    },
+    {
+      "origem": "fmed-006",
+      "destino": "fmed-004",
+      "tipo": "influencia",
+      "intensidade": 0.7,
+      "descricao": "Maimônides influenciou indiretamente a síntese de Tomás de Aquino"
+    },
+    {
+      "origem": "fmed-004",
+      "destino": "fmed-005",
+      "tipo": "tensao",
+      "intensidade": 0.85,
+      "descricao": "Ockham rejeitou os universais aristotélicos de Tomás com seu nominalismo"
+    }
+  ]
+}

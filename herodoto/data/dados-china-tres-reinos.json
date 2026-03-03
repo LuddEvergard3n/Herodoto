@@ -1,0 +1,98 @@
+{
+  "entidades": [
+    {
+      "id": "ctq-001",
+      "nome": "Três Reinos: Wei, Shu e Wu (220–280)",
+      "nome_en": "Three Kingdoms: Wei, Shu and Wu (220–280)",
+      "nome_es": "Tres Reinos: Wei, Shu y Wu (220–280)",
+      "tipo": "periodo",
+      "descricao": "Colapso Han gerou três reinos rivais: Wei (norte, Cao Cao), Shu Han (sudoeste, Liu Bei e Zhuge Liang), Wu (sudeste, Sun Quan). Batalha de Red Cliff (208 d.C.): Cao Cao com 800.000 soldados derrotado por aliança Shu-Wu — maior batalha naval da história antiga. Zhuge Liang: gênio estratégico e inventor da besta de repetição. A era dos Três Reinos é o episódio histórico mais estudado e romanticizado da cultura popular chinesa — base do Romance dos Três Reinos (séc. XIV) e inúmeros jogos, filmes, óperas.",
+      "descricao_en": "Han collapse generated three rival kingdoms: Wei (north, Cao Cao), Shu Han (southwest, Liu Bei and Zhuge Liang), Wu (southeast, Sun Quan). Battle of Red Cliff (208 AD): Cao Cao with 800,000 soldiers defeated by Shu-Wu alliance — largest naval battle of ancient history. Zhuge Liang: strategic genius and inventor of the repeating crossbow. The Three Kingdoms era is the most studied and romanticized historical episode in Chinese popular culture — basis of Romance of the Three Kingdoms (14th c.) and countless games, films, operas.",
+      "descricao_es": "El colapso Han generó tres reinos rivales: Wei (Cao Cao), Shu Han (Liu Bei y Zhuge Liang), Wu (Sun Quan). Batalla del Acantilado Rojo (208 d.C.): Cao Cao derrotado con 800.000 soldados — la mayor batalla naval de la historia antigua. Zhuge Liang: genio estratégico. El período de los Tres Reinos es el más romanticizado de la cultura popular china.",
+      "inicio": 220,
+      "fim": 280,
+      "tags": [
+        "tres-reinos",
+        "cao-cao",
+        "zhuge-liang",
+        "red-cliff"
+      ],
+      "importancia": "A Batalha de Red Cliff (208 d.C.): 800.000 soldados — a maior batalha naval da história antiga, decidiu que a China não seria reunificada por mais 70 anos.",
+      "century_start": 3,
+      "century_end": 3,
+      "region": "EastAsia",
+      "type": "war",
+      "period": "Ancient",
+      "importancia_en": "The Three Kingdoms era is the most studied and romanticized historical episode in Chinese popular culture — basis of Romance of the Three Kingdoms (14th c.) and countless games, films, operas.",
+      "importancia_es": "El período de los Tres Reinos es el más romanticizado de la cultura popular china."
+    },
+    {
+      "id": "ctq-002",
+      "nome": "Seis Dinastias, Jin e a Grande Migração Sul",
+      "nome_en": "Six Dynasties, Jin and the Great Southern Migration",
+      "nome_es": "Seis Dinastías, Jin y la Gran Migración al Sur",
+      "tipo": "periodo",
+      "descricao": "Jin (265–420): reunificação breve. Crise dos Oito Príncipes (291–306). Invasões dos 'Cinco Bárbaros' (hunos, xianbei, qiang, di, jie): norte da China fragmentado em dezesseis reinos. Grande migração para o sul: elites Han deslocaram-se para o vale do Yangtzé, levando tecnologia e cultura — criando a rica região sulista. Período das Seis Dinastias (229–589): florescimento da poesia, caligrafia, budismo Chan. Wang Xizhi: o maior calígrafo da história chinesa. Transmissão do budismo: tradução de textos sânscritos, crescimento de monastérios.",
+      "descricao_en": "Jin (265–420): brief reunification. Crisis of the Eight Princes (291–306). 'Five Barbarians' invasions (Huns, Xianbei, Qiang, Di, Jie): northern China fragmented into sixteen kingdoms. Great southern migration: Han elites moved to the Yangtze Valley, bringing technology and culture — creating the rich southern region. Six Dynasties Period (229–589): flourishing of poetry, calligraphy, Chan Buddhism. Wang Xizhi: greatest calligrapher in Chinese history. Buddhist transmission: translation of Sanskrit texts, growth of monasteries.",
+      "descricao_es": "Jin (265–420): las 'Cinco Bárbaros' fragmentaron el norte de China en dieciséis reinos. Gran migración al sur: las élites Han se desplazaron al valle del Yangtsé. Período de las Seis Dinastías (229–589): caligrafia, budismo Chan. Wang Xizhi: el mayor calígrafo de la historia china.",
+      "inicio": 265,
+      "fim": 589,
+      "tags": [
+        "seis-dinastias",
+        "jin",
+        "caligrafia",
+        "budismo-chan"
+      ],
+      "importancia": "A migração das elites Han para o sul durante o caos Jin criou a base cultural e econômica do sul da China — região mais rica do país há 1.500 anos.",
+      "century_start": 3,
+      "century_end": 6,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "Buddhist transmission: translation of Sanskrit texts, growth of monasteries.",
+      "importancia_es": "Período de las Seis Dinastías (229–589): caligrafia, budismo Chan. Wang Xizhi: el mayor calígrafo de la historia china."
+    },
+    {
+      "id": "ctq-003",
+      "nome": "Sui: Reunificação e o Grande Canal",
+      "nome_en": "Sui: Reunification and the Grand Canal",
+      "nome_es": "Sui: Reunificación y el Gran Canal",
+      "tipo": "periodo",
+      "descricao": "Sui (581–618): reunificou a China após 370 anos de fragmentação. Imperador Yang: construiu o Grande Canal (~1.776 km, ainda em uso) — maior obra de infraestrutura da história antiga, conectando o Rio Amarelo ao Yangtzé. Também reconstruiu a Grande Muralha e iniciou campanhas militares desastrosas contra Goguryeo (Coreia): três invasões falharam, custaram milhões de vidas e esgotaram o Tesouro. Revoltas generalizadas: a Sui durou apenas 38 anos. Modelo para a Tang que a sucedeu — como a Qin modelou a Han.",
+      "descricao_en": "Sui (581–618): reunified China after 370 years of fragmentation. Emperor Yang: built the Grand Canal (~1,776 km, still in use) — largest infrastructure project of ancient history, connecting the Yellow River to the Yangtze. Also rebuilt the Great Wall and launched disastrous military campaigns against Goguryeo (Korea): three invasions failed, costing millions of lives and exhausting the Treasury. Widespread revolts: the Sui lasted only 38 years. Model for the Tang that succeeded it — as Qin modeled the Han.",
+      "descricao_es": "Sui (581–618): reunificó China tras 370 años de fragmentación. El Gran Canal (~1.776 km, aún en uso): la mayor obra de infraestructura de la historia antigua. Tres invasiones a Goguryeo (Corea) fallidas: millones de muertos, hacienda agotada. La Sui duró solo 38 años — modelo para la Tang, como la Qin modeló la Han.",
+      "inicio": 581,
+      "fim": 618,
+      "tags": [
+        "sui",
+        "grande-canal",
+        "grande-muralha",
+        "goguryeo"
+      ],
+      "importancia": "A Dinastia Sui (581-618) reunificou a China após 350 anos de fragmentação — e se destruiu no processo. O Grande Canal, que conectou o Rio Amarelo ao Rio Yangtze (1.776 km), foi a maior obra de engenharia hidráulica da Antiguidade e a espinha dorsal econômica da China imperial por mil anos. Mas foi construído por corvéia forçada que custou milhões de vidas e gerou as revoltas que derrubaram a Sui. A Sui é o caso histórico mais claro de regime que realizou obras transformadoras ao custo de sua própria destruição — e cujo successor (Tang) colheu os frutos sem pagar o custo.",
+      "century_start": 6,
+      "century_end": 7,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Model for the Tang that succeeded it — as Qin modeled the Han.",
+      "importancia_es": "La Sui duró solo 38 años — modelo para la Tang, como la Qin modeló la Han."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ctq-001",
+      "destino": "ctq-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A fragmentação dos Três Reinos prolongou-se pelas Seis Dinastias"
+    },
+    {
+      "origem": "ctq-002",
+      "destino": "ctq-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O caos das Seis Dinastias criou a necessidade de reunificação que a Sui satisfez"
+    }
+  ]
+}

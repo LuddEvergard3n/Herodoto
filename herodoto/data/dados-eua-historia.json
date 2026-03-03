@@ -1,0 +1,205 @@
+{
+  "entidades": [
+    {
+      "id": "eua-001",
+      "nome": "As Treze Colônias e a Revolução Americana (1607–1783)",
+      "nome_en": "The Thirteen Colonies and the American Revolution (1607–1783)",
+      "nome_es": "Las Trece Colonias y la Revolución Americana (1607–1783)",
+      "tipo": "periodo",
+      "inicio": 1607,
+      "fim": 1783,
+      "descricao": "Colonização britânica da América do Norte: Jamestown (1607), Plymouth (1620 — Peregrinos fugindo de perseguição religiosa), Massachusetts Bay. As 13 colônias desenvolveram assembleias legislativas próprias — gérmen da democracia representativa. 'Sem tributação sem representação': tensão com a Coroa britânica elevou-se com o Stamp Act (1765) e o Boston Tea Party (1773). Declaração de Independência (4 jul 1776): Thomas Jefferson redigiu documento declarando que 'todos os homens são criados iguais' — enquanto ele próprio era proprietário de ~600 escravizados. Guerra de Independência (1775–83): aliança com a França foi decisiva. Tratado de Paris (1783): Reino Unido reconheceu os EUA.",
+      "descricao_en": "British colonization of North America: Jamestown (1607), Plymouth (1620 — Pilgrims fleeing religious persecution). The 13 colonies developed their own legislative assemblies — seed of representative democracy. 'No taxation without representation': tension with the Crown escalated with the Stamp Act (1765) and Boston Tea Party (1773). Declaration of Independence (Jul 4, 1776): Thomas Jefferson wrote that 'all men are created equal' — while himself owning ~600 enslaved people. War of Independence (1775–83): alliance with France was decisive. Treaty of Paris (1783): Britain recognized the US.",
+      "descricao_es": "Colonización británica de América del Norte: Jamestown (1607), Plymouth (1620). Las 13 colonias desarrollaron asambleas legislativas propias. 'Sin tributación sin representación'. Declaración de Independencia (4 jul 1776): Thomas Jefferson declaró que 'todos los hombres son creados iguales' — mientras era propietario de ~600 esclavizados. Tratado de París (1783): el Reino Unido reconoció los EE.UU.",
+      "importancia": "A Declaração de Independência (1776) foi o primeiro documento estatal a invocar direitos naturais como fundamento de governo — influenciou diretamente a Revolução Francesa (1789) e os movimentos de independência latino-americanos.",
+      "tags": [
+        "eua",
+        "revolucao-americana",
+        "jefferson",
+        "independencia",
+        "colonias"
+      ],
+      "century_start": 17,
+      "century_end": 18,
+      "region": "Americas",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "War of Independence (1775–83): alliance with France was decisive. Treaty of Paris (1783): Britain recognized the US.",
+      "importancia_es": "Tratado de París (1783): el Reino Unido reconoció los EE.UU."
+    },
+    {
+      "id": "eua-002",
+      "nome": "A República Americana: Constituição, Expansão e Escravidão (1787–1860)",
+      "nome_en": "The American Republic: Constitution, Expansion and Slavery (1787–1860)",
+      "nome_es": "La República Americana: Constitución, Expansión y Esclavitud (1787–1860)",
+      "tipo": "periodo",
+      "inicio": 1787,
+      "fim": 1860,
+      "descricao": "Convenção Constitucional (1787): criou o modelo federal com três poderes separados e o sistema de freios e contrapesos — modelo político mais influente do séc. XIX. Bill of Rights (1791): 10 primeiras emendas garantindo liberdades civis. Doutrina Monroe (1823): EUA declararam a América como sua esfera de influência. Expansão westward: Louisiana Purchase (1803) dobrou o território; Texas (1845), Oregon (1846), Califórnia (1848 — Gold Rush). Escravidão: em 1860, ~4 milhões de pessoas escravizadas no Sul, base da economia algodoeira. Compromissos Missouri (1820) e Kansas-Nebraska (1854) tentaram conter a contradição entre liberdade e escravidão.",
+      "descricao_en": "Constitutional Convention (1787): created the federal model with three separate branches and checks and balances — most influential political model of the 19th century. Bill of Rights (1791): first 10 amendments guaranteeing civil liberties. Monroe Doctrine (1823): US declared America as its sphere of influence. Westward expansion: Louisiana Purchase (1803) doubled territory; Texas (1845), Oregon (1846), California (1848 — Gold Rush). Slavery: by 1860, ~4 million enslaved people in the South, backbone of the cotton economy. Missouri (1820) and Kansas-Nebraska (1854) Compromises tried to contain the contradiction between liberty and slavery.",
+      "descricao_es": "Convención Constitucional (1787): creó el modelo federal con tres poderes separados. Bill of Rights (1791). Doctrina Monroe (1823). Expansión hacia el Oeste: Louisiana Purchase (1803), Texas (1845), California (1848 — Fiebre del Oro). Esclavitud: ~4 millones de esclavizados en 1860, base de la economía algodonera.",
+      "importancia": "A Constituição americana (1787) foi o primeiro documento a criar um governo federal com poderes limitados e direitos individuais garantidos — foi estudada por Simón Bolívar, José Bonifácio e líderes independentistas de todo o hemisfério.",
+      "tags": [
+        "constituicao",
+        "escravidao",
+        "expansao",
+        "monroe",
+        "jefferson"
+      ],
+      "century_start": 18,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Missouri (1820) and Kansas-Nebraska (1854) Compromises tried to contain the contradiction between liberty and slavery.",
+      "importancia_es": "Esclavitud: ~4 millones de esclavizados en 1860, base de la economía algodonera."
+    },
+    {
+      "id": "eua-003",
+      "nome": "Guerra Civil Americana e a Questão da Escravidão (1861–1865)",
+      "nome_en": "American Civil War and the Question of Slavery (1861–1865)",
+      "nome_es": "Guerra Civil Americana y la Cuestión de la Esclavitud (1861–1865)",
+      "tipo": "periodo",
+      "inicio": 1861,
+      "fim": 1877,
+      "descricao": "Abraham Lincoln eleito (nov 1860): 11 estados do Sul se separaram e formaram a Confederação. Guerra Civil (abr 1861 – abr 1865): conflito mais mortífero da história americana — ~620.000–750.000 mortos (mais do que todas as outras guerras americanas combinadas). Proclamação da Emancipação (1 jan 1863): Lincoln aboliu a escravidão nos estados rebeldes — ato político e militar. Batalha de Gettysburg (jul 1863): turning point. Rendição de Lee em Appomattox (9 abr 1865). 13ª Emenda (dez 1865): abolição formal em todo o território. Reconstrução (1865–77): tentativa de reintegrar o Sul e garantir direitos aos libertos — sabotada por leis de segregação (Black Codes) e pela violência do Ku Klux Klan.",
+      "descricao_en": "Abraham Lincoln elected (Nov 1860): 11 Southern states seceded and formed the Confederacy. Civil War (Apr 1861 – Apr 1865): deadliest conflict in American history — ~620,000–750,000 dead (more than all other American wars combined). Emancipation Proclamation (Jan 1, 1863): Lincoln abolished slavery in rebel states — political and military act. Battle of Gettysburg (Jul 1863): turning point. Lee's surrender at Appomattox (Apr 9, 1865). 13th Amendment (Dec 1865): formal abolition throughout the territory. Reconstruction (1865–77): attempt to reintegrate the South and guarantee rights for freedmen — sabotaged by segregation laws (Black Codes) and KKK violence.",
+      "descricao_es": "Abraham Lincoln elegido (nov 1860): 11 estados sureños se separaron. Guerra Civil (abr 1861 – abr 1865): ~620.000–750.000 muertos. Proclamación de Emancipación (1 ene 1863). Batalla de Gettysburg (jul 1863). 13ª Enmienda (dic 1865): abolición formal. Reconstrucción (1865–77): saboteada por las Leyes Negras y el Ku Klux Klan.",
+      "importancia": "A Guerra Civil Americana foi o único conflito armado que resolveu definitivamente a questão da escravidão por meio das armas — enquanto o Brasil aboliu sem guerra em 1888, 23 anos depois.",
+      "tags": [
+        "guerra-civil",
+        "lincoln",
+        "escravidao",
+        "confederacao",
+        "emancipacao"
+      ],
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "Reconstruction (1865–77): attempt to reintegrate the South and guarantee rights for freedmen — sabotaged by segregation laws (Black Codes) and KKK violence.",
+      "importancia_es": "Reconstrucción (1865–77): saboteada por las Leyes Negras y el Ku Klux Klan."
+    },
+    {
+      "id": "eua-004",
+      "nome": "Industrialização, Imigração e os Gilded Age (1865–1914)",
+      "nome_en": "Industrialization, Immigration and the Gilded Age (1865–1914)",
+      "nome_es": "Industrialización, Inmigración y la Era Dorada (1865–1914)",
+      "tipo": "periodo",
+      "inicio": 1865,
+      "fim": 1914,
+      "descricao": "Reconstrução Industrial: ferrovias transcontinentais (1869) integraram o mercado nacional. Carnegie (aço), Rockefeller (petróleo), Morgan (finanças): primeiros bilionários modernos. Mark Twain cunhou 'Gilded Age' — prosperidade superficial sobre desigualdade social. Imigração em massa: ~25 milhões de europeus entre 1880–1920 (Ellis Island). Sindicalismo: AFL fundada (1886); greve de Pullman (1894) reprimida por tropas federais. Lei Antitruste Sherman (1890): primeira regulação do poder corporativo. Política externa: Guerra Hispano-Americana (1898) — EUA tomaram Cuba, Porto Rico, Filipinas; início do imperialismo americano. Theodore Roosevelt e o Progressivismo (1901–09): regulação das corporações.",
+      "descricao_en": "Industrial Reconstruction: transcontinental railroads (1869) integrated the national market. Carnegie (steel), Rockefeller (oil), Morgan (finance): first modern billionaires. Mark Twain coined 'Gilded Age' — superficial prosperity over social inequality. Mass immigration: ~25 million Europeans between 1880–1920 (Ellis Island). Unionism: AFL founded (1886); Pullman Strike (1894) repressed by federal troops. Sherman Antitrust Act (1890): first regulation of corporate power. Foreign policy: Spanish-American War (1898) — US took Cuba, Puerto Rico, Philippines; beginning of American imperialism. Theodore Roosevelt and Progressivism (1901–09).",
+      "descricao_es": "Reconstrucción Industrial: ferrocarriles transcontinentales (1869). Carnegie, Rockefeller, Morgan: primeros multimillonarios modernos. Mark Twain acuñó 'Edad Dorada'. Inmigración masiva: ~25 millones de europeos (1880–1920). Ley Antimonopolio Sherman (1890). Guerra Hispano-Americana (1898): EE.UU. tomó Cuba, Puerto Rico, Filipinas. Theodore Roosevelt y el Progresivismo (1901–09).",
+      "importancia": "O modelo industrial americano do Gilded Age (concentração de capital + imigração + inovação tecnológica) tornou os EUA a maior economia mundial em 1900 — ultrapassando o Reino Unido pela primeira vez.",
+      "tags": [
+        "gilded-age",
+        "rockefeller",
+        "imigracao",
+        "imperialismo-americano",
+        "progressivismo"
+      ],
+      "century_start": 19,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "economic",
+      "period": "Modern",
+      "importancia_en": "Foreign policy: Spanish-American War (1898) — US took Cuba, Puerto Rico, Philippines; beginning of American imperialism. Theodore Roosevelt and Progressivism (1901–09).",
+      "importancia_es": "tomó Cuba, Puerto Rico, Filipinas. Theodore Roosevelt y el Progresivismo (1901–09)."
+    },
+    {
+      "id": "eua-005",
+      "nome": "Os EUA no Mundo: da Primeira Guerra ao New Deal (1914–1945)",
+      "nome_en": "The US in the World: from WWI to the New Deal (1914–1945)",
+      "nome_es": "Los EE.UU. en el Mundo: de la Primera Guerra al New Deal (1914–1945)",
+      "tipo": "periodo",
+      "inicio": 1914,
+      "fim": 1945,
+      "descricao": "1ª Guerra Mundial: EUA entraram em 1917 (afundamento de navios + Telegrama Zimmermann); Wilson e os 14 Pontos. Roaring Twenties: jazz, cinema, automóvel, consumismo, proibição (1920–33). Grande Depressão (1929): quebra da Bolsa de Wall Street; ~25% de desemprego. New Deal (1933–38): Roosevelt expandiu o governo federal — Works Progress Administration, Social Security Act (1935). 2ª Guerra Mundial: Pearl Harbor (7 dez 1941) — EUA entraram na guerra; Projeto Manhattan e bombas atômicas em Hiroshima (6 ago) e Nagasaki (9 ago 1945) — 200.000 mortos em segundos; rendição japonesa. EUA emergiram como superpotência económica e militar.",
+      "descricao_en": "WWI: US entered in 1917 (sinking of ships + Zimmermann Telegram); Wilson's 14 Points. Roaring Twenties: jazz, cinema, automobile, consumerism, Prohibition (1920–33). Great Depression (1929): Wall Street crash; ~25% unemployment. New Deal (1933–38): Roosevelt expanded the federal government — WPA, Social Security Act (1935). WWII: Pearl Harbor (Dec 7, 1941); Manhattan Project and atomic bombs on Hiroshima (Aug 6) and Nagasaki (Aug 9, 1945) — 200,000 dead in seconds; Japanese surrender. US emerged as economic and military superpower.",
+      "descricao_es": "1ª Guerra Mundial: EE.UU. entró en 1917; Wilson y los 14 Puntos. Años 20 Rugientes: jazz, cine, automóvil, Prohibición. Gran Depresión (1929): quiebra de Wall Street; ~25% desempleo. New Deal (1933–38): Roosevelt. 2ª Guerra Mundial: Pearl Harbor (7 dic 1941); bombas atómicas en Hiroshima y Nagasaki (ago 1945) — 200.000 muertos. EE.UU. emergió como superpotencia.",
+      "importancia": "O New Deal (1933–38) foi a maior expansão do Estado americano na história — criou a Previdência Social, regulação financeira e programas de emprego público que influenciaram políticas keynesianas em todo o mundo.",
+      "tags": [
+        "new-deal",
+        "roosevelt",
+        "grande-depressao",
+        "pearl-harbor",
+        "hiroshima",
+        "manhattan"
+      ],
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "WWII: Pearl Harbor (Dec 7, 1941); Manhattan Project and atomic bombs on Hiroshima (Aug 6) and Nagasaki (Aug 9, 1945) — 200,000 dead in seconds; Japanese surrender. US emerged as economic and military superpower.",
+      "importancia_es": "2ª Guerra Mundial: Pearl Harbor (7 dic 1941); bombas atómicas en Hiroshima y Nagasaki (ago 1945) — 200.000 muertos."
+    },
+    {
+      "id": "eua-006",
+      "nome": "Direitos Civis, Guerra Fria e a Era Reagan (1945–2001)",
+      "nome_en": "Civil Rights, Cold War and the Reagan Era (1945–2001)",
+      "nome_es": "Derechos Civiles, Guerra Fría y la Era Reagan (1945–2001)",
+      "tipo": "periodo",
+      "inicio": 1945,
+      "fim": 2001,
+      "descricao": "Guerra Fria: Plano Marshall (1948), OTAN (1949), Berlim, Coreia, Vietnã (58.000 americanos mortos). McCarthyismo (1950–54): caça às bruxas anticomunista. Movimento pelos Direitos Civis: Rosa Parks (1955), Martin Luther King e o Discurso 'I Have a Dream' (1963), Lei dos Direitos Civis (1964), Voting Rights Act (1965) — pôs fim à segregação legal após 100 anos. Assassinatos: JFK (1963), MLK (1968), RFK (1968). Apollo 11 (1969): primeiro humano na Lua. Watergate (1972–74): Nixon renunciou. Era Reagan (1981–89): corte de impostos, desregulamentação, redução do gasto público. Queda da URSS (1991). Globalização, internet, boom dos anos 1990.",
+      "descricao_en": "Cold War: Marshall Plan (1948), NATO (1949), Berlin, Korea, Vietnam (58,000 Americans killed). McCarthyism (1950–54): anticommunist witch hunt. Civil Rights Movement: Rosa Parks (1955), MLK's 'I Have a Dream' (1963), Civil Rights Act (1964), Voting Rights Act (1965) — ended legal segregation after 100 years. Assassinations: JFK (1963), MLK (1968), RFK (1968). Apollo 11 (1969). Watergate (1972–74): Nixon resigned. Reagan Era (1981–89): deregulation and tax cuts. Fall of USSR (1991). Globalization, internet, 1990s boom.",
+      "descricao_es": "Guerra Fría: Plan Marshall (1948), OTAN (1949), Corea, Vietnam. McCarthyismo. Movimiento por los Derechos Civiles: Rosa Parks (1955), MLK (1963), Ley de Derechos Civiles (1964). Apolo 11 (1969). Watergate (1972–74): Nixon renunció. Era Reagan (1981–89). Caída de la URSS (1991). Globalización, internet.",
+      "importancia": "O Movimento pelos Direitos Civis americano (1955–68) foi a última revolução social bem-sucedida no Ocidente liderada por resistência não-violenta — modelo estudado por movimentos de todo o mundo.",
+      "tags": [
+        "guerra-fria",
+        "direitos-civis",
+        "martin-luther-king",
+        "reagan",
+        "vietnam",
+        "watergate"
+      ],
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "Reagan Era (1981–89): deregulation and tax cuts. Globalization, internet, 1990s boom.",
+      "importancia_es": "Movimiento por los Derechos Civiles: Rosa Parks (1955), MLK (1963), Ley de Derechos Civiles (1964). Watergate (1972–74): Nixon renunció."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "eua-001",
+      "destino": "eua-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A Revolução Americana gerou a Constituição e o modelo federal"
+    },
+    {
+      "origem": "eua-002",
+      "destino": "eua-003",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "A contradição entre liberdade e escravidão tornou a Guerra Civil inevitável"
+    },
+    {
+      "origem": "eua-003",
+      "destino": "eua-004",
+      "tipo": "evolucao",
+      "intensidade": 0.8,
+      "descricao": "A Reconstrução Industrial pós-guerra criou o capitalismo americano moderno"
+    },
+    {
+      "origem": "eua-004",
+      "destino": "eua-005",
+      "tipo": "evolucao",
+      "intensidade": 0.85,
+      "descricao": "O Gilded Age e seus excessos levaram à Grande Depressão e ao New Deal"
+    },
+    {
+      "origem": "eua-005",
+      "destino": "eua-006",
+      "tipo": "evolucao",
+      "intensidade": 0.9,
+      "descricao": "Os EUA como superpotência pós-1945 moldaram a Guerra Fria e os Direitos Civis"
+    }
+  ]
+}

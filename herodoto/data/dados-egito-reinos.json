@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Egito Antigo: Antigo, Médio e Novo Reino",
+    "periodo": "-3100 a -1077"
+  },
+  "entidades": [
+    {
+      "id": "egr-001",
+      "nome": "Unificação: Narmer e o Nascimento do Egito",
+      "nome_en": "Unification: Narmer and the Birth of Egypt",
+      "nome_es": "Unificación: Narmer y el Nacimiento de Egipto",
+      "tipo": "evento",
+      "inicio": -3100,
+      "fim": -3000,
+      "region": "Africa",
+      "period": "Ancient",
+      "century_start": -31,
+      "type": "political",
+      "descricao": "O Faraó Narmer (c. 3100 a.C.) unificou o Alto e Baixo Egito, fundando a Primeira Dinastia. A Paleta de Narmer (Museu do Cairo) é um dos mais antigos documentos históricos do mundo, representando a unificação. A capital foi estabelecida em Mênfis. A escrita hieroglífica surgiu nesse período — uma das três invenções independentes da escrita (junto com a suméria e a chinesa). O título de faraó combinava poder político e religioso: o faraó era deus vivo, filho de Rá.",
+      "descricao_en": "Pharaoh Narmer (c. 3100 BC) unified Upper and Lower Egypt, founding the First Dynasty. The Narmer Palette (Cairo Museum) is one of the world's oldest historical documents, depicting the unification. Hieroglyphic writing emerged in this period — one of three independent inventions of writing.",
+      "descricao_es": "El faraón Narmer unificó el Alto y Bajo Egipto (c. 3100 a.C.). La Paleta de Narmer es uno de los documentos históricos más antiguos. La escritura jeroglífica surgió en este período.",
+      "importancia": "A unificação do Egito criou o primeiro Estado-Nação da história — uma entidade política unificada com fronteiras, burocracia, escrita e governante sagrado. A escrita hieroglífica egípcia influenciou o alfabeto fenício e, por extensão, todos os alfabetos ocidentais modernos.",
+      "importancia_en": "Egypt's unification created the first nation-state in history. Egyptian hieroglyphic writing influenced the Phoenician alphabet and, by extension, all modern Western alphabets.",
+      "importancia_es": "La unificación de Egipto creó el primer Estado-Nación de la historia.",
+      "tags": [
+        "Narmer",
+        "unificação",
+        "hieróglifos",
+        "Mênfis",
+        "faraó",
+        "Primeira Dinastia"
+      ],
+      "dataset": "data/dados-egito-reinos.json"
+    },
+    {
+      "id": "egr-006",
+      "nome": "Mulheres no Egito Antigo: Poder e Sociedade",
+      "nome_en": "Women in Ancient Egypt: Power and Society",
+      "nome_es": "Mujeres en el Antiguo Egipto: Poder y Sociedad",
+      "tipo": "periodo",
+      "inicio": -3100,
+      "fim": -30,
+      "region": "Africa",
+      "period": "Ancient",
+      "century_start": -31,
+      "type": "social",
+      "descricao": "O Egito Antigo tinha uma das posições jurídicas femininas mais avançadas do mundo antigo: mulheres podiam possuir propriedade, herdar, divorciarem-se, contrair, exercer profissões e testemunhar em tribunal. Hatshepsut governou como faraó por 21 anos. Nefertiti tinha poder político visível. Cleópatra VII governou por 21 anos e se correspondeu com César e Marco Antônio. A deusa Ísis era o modelo de mãe e esposa perfeita. Mulheres de elite eram educadas e podiam se tornar sacerdotisas de alto nível.",
+      "descricao_en": "Ancient Egypt had one of the most advanced female legal positions in the ancient world: women could own property, inherit, divorce, contract, practice professions and testify in court. Hatshepsut ruled as pharaoh for 21 years. Cleopatra VII ruled for 21 years. The goddess Isis was the model of perfect mother and wife.",
+      "descricao_es": "El Antiguo Egipto tenía una de las posiciones jurídicas femeninas más avanzadas del mundo antiguo. Las mujeres podían poseer propiedad, heredar y divorciarse. Hatshepsut gobernó como faraona durante 21 años.",
+      "importancia": "O Egito Antigo foi um caso único no mundo antigo: enquanto Grécia e Roma restringiam as mulheres à esfera doméstica, as egípcias tinham direitos legais comparáveis aos homens há 3.000 anos — antecipando conquistas jurídicas que o Ocidente só alcançaria no século XX.",
+      "importancia_en": "Ancient Egypt was a unique case in the ancient world: while Greece and Rome restricted women to the domestic sphere, Egyptian women had legal rights comparable to men 3,000 years ago — anticipating legal achievements the West would only reach in the 20th century.",
+      "importancia_es": "El Antiguo Egipto fue un caso único: las mujeres tenían derechos legales comparables a los hombres hace 3.000 años.",
+      "tags": [
+        "mulheres",
+        "Hatshepsut",
+        "Cleópatra",
+        "Nefertiti",
+        "direitos",
+        "Ísis"
+      ],
+      "dataset": "data/dados-egito-reinos.json"
+    },
+    {
+      "id": "egr-007",
+      "nome": "Religião Egípcia: Mitos, Deuses e o Além",
+      "nome_en": "Egyptian Religion: Myths, Gods and the Afterlife",
+      "nome_es": "Religión Egipcia: Mitos, Dioses y el Más Allá",
+      "tipo": "periodo",
+      "inicio": -3100,
+      "fim": -30,
+      "region": "Africa",
+      "period": "Ancient",
+      "century_start": -31,
+      "type": "religious",
+      "descricao": "O panteão egípcio tinha mais de 2.000 deuses. Os principais: Rá (sol, criação), Osíris (morte e ressurreição), Ísis (magia, maternidade), Hórus (faraó), Seth (caos), Anúbis (mumificação), Thoth (escrita). O mito de Osíris (assassinado por Seth, ressuscitado por Ísis) é o arquétipo da morte e ressurreição que influenciou religiões posteriores. O julgamento das almas (pesagem do coração ante Osíris) pressupõe ética individual. O Livro dos Mortos era o guia para o além.",
+      "descricao_en": "The Egyptian pantheon had over 2,000 gods. The myth of Osiris (murdered by Seth, resurrected by Isis) is the archetype of death and resurrection that influenced later religions. The judgment of souls (weighing of the heart before Osiris) presupposes individual ethics. The Book of the Dead was the guide to the afterlife.",
+      "descricao_es": "El panteón egipcio tenía más de 2.000 dioses. El mito de Osiris es el arquetipo de muerte y resurrección que influyó en religiones posteriores. El juicio del alma presupone ética individual.",
+      "importancia": "O mito de Osíris — morte, descida ao mundo subterrâneo e ressurreição — é o arquétipo que estudiosos como James Frazer e Joseph Campbell identificam como antecedente cultural das narrativas de Cristo, Dionísio e outros 'deuses moribundos e ressuscitados'. A ética do julgamento das almas antecipa o julgamento final abraâmico.",
+      "importancia_en": "The Osiris myth — death, descent to the underworld and resurrection — is the archetype that scholars like James Frazer and Joseph Campbell identify as the cultural antecedent of Christ, Dionysus and other 'dying and rising gods'. The ethics of soul judgment anticipates Abrahamic final judgment.",
+      "importancia_es": "El mito de Osiris es el arquetipo de muerte y resurrección que algunos estudiosos identifican como antecedente de narrativas posteriores.",
+      "tags": [
+        "Osíris",
+        "Ísis",
+        "Rá",
+        "Hórus",
+        "panteão",
+        "Livro dos Mortos",
+        "julgamento"
+      ],
+      "dataset": "data/dados-egito-reinos.json"
+    },
+    {
+      "id": "egr-002",
+      "nome": "Antigo Reino: As Pirâmides e o Apogeu Faraônico",
+      "nome_en": "Old Kingdom: The Pyramids and Pharaonic Apogee",
+      "nome_es": "Reino Antiguo: Las Pirámides y el Apogeo Faraónico",
+      "tipo": "periodo",
+      "inicio": -2686,
+      "fim": -2181,
+      "region": "Africa",
+      "period": "Ancient",
+      "century_start": -27,
+      "type": "cultural",
+      "descricao": "O Antigo Reino (2686–2181 a.C.) foi o auge do poder centralizado egípcio. As Três Pirâmides de Gizé foram construídas por Quéops (Grande Pirâmide, c. 2560 a.C. — 147m, 2,3 milhões de blocos), Quéfren e Miquerinos. A Esfinge (c. 2500 a.C.) guarda o complexo. Os Textos das Pirâmides (c. 2400 a.C.) são as escrituras religiosas mais antigas do mundo. A sociedade era altamente hierarquizada: faraó → vizires → escribas → artesãos → camponeses. O Antigo Reino colapsou c. 2181 a.C. por secas e fragmentação política.",
+      "descricao_en": "The Old Kingdom (2686–2181 BC) was the height of Egyptian centralized power. The three Pyramids of Giza were built by Khufu (Great Pyramid, c. 2560 BC — 147m, 2.3 million blocks), Khafre and Menkaure. The Pyramid Texts (c. 2400 BC) are the world's oldest religious scriptures.",
+      "descricao_es": "El Reino Antiguo (2686–2181 a.C.) fue el apogeo del poder centralizado egipcio. Las tres Pirámides de Giza fueron construidas por Khufu, Kefrén y Micerino. Los Textos de las Pirámides son las escrituras religiosas más antiguas del mundo.",
+      "importancia": "A Grande Pirâmide foi a estrutura mais alta do mundo por 3.800 anos (até a Catedral de Lincoln, 1311). Os Textos das Pirâmides antecipam o monoteísmo solar de Akhenáton e influenciaram a cosmologia de civilizações posteriores. A engenharia das pirâmides ainda não foi completamente explicada.",
+      "importancia_en": "The Great Pyramid was the world's tallest structure for 3,800 years. The Pyramid Texts anticipated Akhenaten's solar monotheism. The engineering of the pyramids has not yet been fully explained.",
+      "importancia_es": "La Gran Pirámide fue la estructura más alta del mundo durante 3.800 años.",
+      "tags": [
+        "Pirâmides",
+        "Quéops",
+        "Gizé",
+        "Esfinge",
+        "Textos das Pirâmides",
+        "Antigo Reino"
+      ],
+      "dataset": "data/dados-egito-reinos.json"
+    },
+    {
+      "id": "egr-003",
+      "nome": "Médio Reino: Renascimento e Literatura Clássica",
+      "nome_en": "Middle Kingdom: Renaissance and Classical Literature",
+      "nome_es": "Reino Medio: Renacimiento y Literatura Clásica",
+      "tipo": "periodo",
+      "inicio": -2055,
+      "fim": -1650,
+      "region": "Africa",
+      "period": "Ancient",
+      "century_start": -21,
+      "type": "cultural",
+      "descricao": "O Médio Reino (2055–1650 a.C.), após o Primeiro Período Intermediário, foi a 'Idade Clássica' egípcia. Reunificado por Mentuhotep II, produziu a literatura mais valorizada pelos próprios egípcios: 'A Eloquência do Camponês', 'A História de Sinuhe', 'Os Ensinamentos de Amenemhat'. O faraó deixou de ser deus onipotente para tornar-se 'pastor do povo'. Expansão para a Núbia (Kush). Os Hicsos — povo de origem semita — invadiram e dominaram o Delta do Nilo no Segundo Período Intermediário (1650–1550 a.C.), introduzindo o cavalo e o carro de guerra.",
+      "descricao_en": "The Middle Kingdom (2055–1650 BC), after the First Intermediate Period, was Egypt's 'Classical Age'. Reunified by Mentuhotep II, it produced the literature most valued by Egyptians themselves. The pharaoh ceased being an omnipotent god to become 'shepherd of the people'. The Hyksos — a Semitic people — invaded and dominated the Nile Delta in the Second Intermediate Period (1650–1550 BC), introducing the horse and war chariot.",
+      "descricao_es": "El Reino Medio fue la 'Edad Clásica' egipcia. Los hicsos — pueblo de origen semita — invadieron el Delta del Nilo, introduciendo el caballo y el carro de guerra.",
+      "importancia": "A literatura do Médio Reino é a que os escribas egípcios posteriores copiavam como modelo clássico. Os Hicsos trouxeram o cavalo e o carro de guerra — tecnologia que o Egito absorveu e usou para construir o Novo Reino imperial.",
+      "importancia_en": "Middle Kingdom literature is what later Egyptian scribes copied as classical models. The Hyksos brought the horse and war chariot — technology Egypt absorbed and used to build the imperial New Kingdom.",
+      "importancia_es": "Los hicsos trajeron el caballo y el carro de guerra, tecnología que Egipto absorbió para construir el Imperio del Reino Nuevo.",
+      "tags": [
+        "Médio Reino",
+        "Mentuhotep",
+        "Hicsos",
+        "cavalo",
+        "literatura clássica",
+        "Sinuhe"
+      ],
+      "dataset": "data/dados-egito-reinos.json"
+    },
+    {
+      "id": "egr-004",
+      "nome": "Novo Reino: Tutmés, Ramsés e o Império Egípcio",
+      "nome_en": "New Kingdom: Thutmose, Ramesses and the Egyptian Empire",
+      "nome_es": "Reino Nuevo: Tutmosis, Ramsés y el Imperio Egipcio",
+      "tipo": "periodo",
+      "inicio": -1550,
+      "fim": -1077,
+      "region": "Africa",
+      "period": "Ancient",
+      "century_start": -16,
+      "type": "political",
+      "descricao": "O Novo Reino (1550–1077 a.C.) foi o período imperial do Egito. Ahmose I expulsou os Hicsos e fundou a 18ª Dinastia. Hatshepsut (r. 1479–1458 a.C.) foi a mais poderosa faraó-mulher: expandiu o comércio com Punt, construiu Deir el-Bahari. Tutmés III conquistou a Síria-Palestina em 17 campanhas — o 'Napoleão do Egito Antigo'. Ramsés II (r. 1279–1213 a.C.) travou a Batalha de Kadesh contra os Hititas e firmou o primeiro tratado de paz da história. O Vale dos Reis abriga os túmulos desse período, incluindo o de Tutancâmon.",
+      "descricao_en": "The New Kingdom (1550–1077 BC) was Egypt's imperial period. Hatshepsut (r. 1479–1458 BC) was the most powerful female pharaoh. Thutmose III conquered Syria-Palestine in 17 campaigns — the 'Napoleon of Ancient Egypt'. Ramesses II fought the Battle of Kadesh against the Hittites and signed the first peace treaty in history. The Valley of the Kings houses tombs from this period, including Tutankhamun's.",
+      "descricao_es": "El Reino Nuevo fue el período imperial de Egipto. Hatshepsut fue la faraona más poderosa. Ramsés II firmó el primer tratado de paz de la historia.",
+      "importancia": "O tratado Ramsés II–Hititas (c. 1259 a.C.) é o primeiro tratado de paz internacional da história, precursor direto do Direito Internacional moderno. Uma réplica pende na sede da ONU em Nova York. O Vale dos Reis é o maior repositório de arte funerária egípcia — e Tutancâmon, o faraó menor cujo túmulo intacto revelou as riquezas que todos os outros ocultavam.",
+      "importancia_en": "The Ramesses II–Hittites treaty (c. 1259 BC) is the first international peace treaty in history — a direct precursor of modern International Law. A replica hangs in the UN headquarters in New York.",
+      "importancia_es": "El tratado entre Ramsés II y los hititas es el primer tratado de paz internacional de la historia. Una réplica está en la sede de la ONU en Nueva York.",
+      "tags": [
+        "Novo Reino",
+        "Ramsés II",
+        "Hatshepsut",
+        "Tutmés",
+        "Kadesh",
+        "Vale dos Reis"
+      ],
+      "dataset": "data/dados-egito-reinos.json"
+    },
+    {
+      "id": "egr-005",
+      "nome": "Akhenáton: A Revolução Monoteísta",
+      "nome_en": "Akhenaten: The Monotheistic Revolution",
+      "nome_es": "Akenatón: La Revolución Monoteísta",
+      "tipo": "periodo",
+      "inicio": -1353,
+      "fim": -1336,
+      "region": "Africa",
+      "period": "Ancient",
+      "century_start": -14,
+      "type": "religious",
+      "descricao": "Amenhotep IV (depois Akhenáton, r. 1353–1336 a.C.) impôs o culto exclusivo de Aton (o disco solar), suprimindo o poderoso clero de Amon, fechando templos e fundando nova capital em Amarna. É o primeiro monoteísmo estatal documentado da história. Sua esposa Nefertiti é uma das mais representadas figuras do Egito Antigo. Após sua morte, o culto de Amon foi restaurado e Amarna abandonada. Tutancâmon (seu filho ou genro) restaurou o politeísmo tradicional. Freud sugeriu que Moisés foi sacerdote de Aton — hipótese histórica não comprovada mas influente.",
+      "descricao_en": "Amenhotep IV (later Akhenaten, r. 1353–1336 BC) imposed the exclusive worship of Aten (the solar disk), suppressing the powerful Amun clergy, closing temples and founding a new capital at Amarna. It is the first documented state monotheism in history. After his death, Amun worship was restored. Freud suggested Moses was an Aten priest — an unproven but influential historical hypothesis.",
+      "descricao_es": "Akenatón impuso el culto exclusivo de Atón, primer monoteísmo estatal documentado de la historia. Freud sugirió que Moisés fue sacerdote de Atón.",
+      "importancia": "Akhenáton é o primeiro monoteísta documentado da história — 200 anos antes do Êxodo bíblico. A hipótese freudiana de Moisés como sacerdote de Aton (elaborada em 'Moisés e o Monoteísmo', 1939) conecta o monoteísmo egípcio com a tradição judaica e, indiretamente, com o Islã e o Cristianismo.",
+      "importancia_en": "Akhenaten is the first documented monotheist in history — 200 years before the biblical Exodus. Freud's hypothesis of Moses as an Aten priest connects Egyptian monotheism with the Jewish tradition and, indirectly, with Islam and Christianity.",
+      "importancia_es": "Akenatón es el primer monoteísta documentado de la historia — 200 años antes del Éxodo bíblico.",
+      "tags": [
+        "Akhenáton",
+        "Aton",
+        "monoteísmo",
+        "Amarna",
+        "Nefertiti",
+        "Tutancâmon"
+      ],
+      "dataset": "data/dados-egito-reinos.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "egr-001",
+      "destino": "egr-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Unificação cria o Estado capaz de construir as pirâmides"
+    },
+    {
+      "origem": "egr-002",
+      "destino": "egr-003",
+      "tipo": "evolucao",
+      "intensidade": 0.7,
+      "descricao": "Antigo Reino colapsa, Médio Reino reconstitui"
+    },
+    {
+      "origem": "egr-003",
+      "destino": "egr-004",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Hicsos expulsos levam ao imperialismo do Novo Reino"
+    },
+    {
+      "origem": "egr-004",
+      "destino": "egr-005",
+      "tipo": "causalidade",
+      "intensidade": 0.6,
+      "descricao": "Novo Reino produz Akhenáton e a revolução religiosa"
+    },
+    {
+      "origem": "egr-007",
+      "destino": "egr-001",
+      "tipo": "influencia",
+      "intensidade": 0.8,
+      "descricao": "Religião egípcia emerge com a própria unificação"
+    },
+    {
+      "origem": "egr-006",
+      "destino": "egr-004",
+      "tipo": "paralelo",
+      "intensidade": 0.7,
+      "descricao": "Mulheres como Hatshepsut governam no Novo Reino"
+    }
+  ]
+}

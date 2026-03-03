@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Pérsia: Zoroastrismo, Arte e Contribuições Culturais",
+    "periodo": "-1500 a 651"
+  },
+  "entidades": [
+    {
+      "id": "pzc-001",
+      "nome": "Zoroastro e a Primeira Religião Profética",
+      "nome_en": "Zoroaster and the First Prophetic Religion",
+      "nome_es": "Zaratustra y la Primera Religión Profética",
+      "tipo": "periodo",
+      "inicio": -1500,
+      "fim": -500,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -15,
+      "type": "religious",
+      "descricao": "Zoroastro (Zaratustra) viveu provavelmente entre 1500–1000 a.C. no atual Irã ou Ásia Central. Fundou o Zoroastrismo — a primeira grande religião profética da história, baseada na revelação direta. Seu ensinamento central: o cosmos é palco de um conflito cósmico entre Ahura Mazda (luz/bem) e Ahriman (trevas/mal). O ser humano é livre para escolher seu lado. Após a morte, a alma passa pelo Ponte Cinvat — julgo pelas ações em vida. Os Gathas (hinos) de Zoroastro são os textos sagrados mais antigos de tradição oral viva.",
+      "descricao_en": "Zoroaster (Zarathustra) probably lived between 1500–1000 BC in modern Iran or Central Asia. He founded Zoroastrianism — history's first great prophetic religion, based on direct revelation. His central teaching: the cosmos is the stage for a cosmic conflict between Ahura Mazda (light/good) and Ahriman (darkness/evil). The human being is free to choose their side. After death, the soul crosses the Chinvat Bridge — judged by actions in life.",
+      "descricao_es": "Zaratustra fundó el Zoroastrismo — la primera gran religión profética de la historia. Su enseñanza: conflicto cósmico entre Ahura Mazda (bien) y Ahriman (mal). El ser humano es libre de elegir. Tras la muerte, el alma es juzgada por sus acciones.",
+      "importancia": "O Zoroastrismo introduziu na história religiosa conceitos que depois moldaram o Judaísmo, o Cristianismo e o Islão: dualismo bem/mal, juízo final individual, ressurreição dos mortos, paraíso e inferno, Satã como poder do mal, messias futuro (Saoshyant). É a religião 'mãe' de grande parte da teologia monoteísta.",
+      "importancia_en": "Zoroastrianism introduced into religious history concepts that later shaped Judaism, Christianity and Islam: good/evil dualism, individual final judgment, resurrection of the dead, heaven and hell, Satan as the power of evil, future messiah (Saoshyant). It is the 'mother religion' of much of monotheistic theology.",
+      "importancia_es": "El Zoroastrismo introdujo conceptos que luego moldearon el Judaísmo, el Cristianismo y el Islam: dualismo bien/mal, juicio final, resurrección, paraíso e infierno, Satán.",
+      "tags": [
+        "Zoroastro",
+        "Ahura Mazda",
+        "Ahriman",
+        "dualismo",
+        "Zoroastrismo",
+        "juízo final"
+      ],
+      "dataset": "data/dados-persia-zoroastrismo-cultura.json"
+    },
+    {
+      "id": "pzc-002",
+      "nome": "Arte e Arquitetura Persa: Persépolis",
+      "nome_en": "Persian Art and Architecture: Persepolis",
+      "nome_es": "Arte y Arquitectura Persa: Persépolis",
+      "tipo": "periodo",
+      "inicio": -518,
+      "fim": -330,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -5,
+      "type": "cultural",
+      "descricao": "Persépolis (fundada por Dario I, c. 518 a.C.) foi a capital cerimonial do Império Aquemênida — construída para receber delegações de todos os cantos do império durante o Ano Novo persa (Nowruz). Os relevos nas escadarias do Apadana mostram representantes de 28 nações trazendo tributos — o primeiro 'mapa étnico' do mundo antigo. Alexandre Magno incendiou Persépolis em 330 a.C. (talvez em estado de embriaguez). Os relevos sobreviventes estão entre as maiores obras de arte do mundo antigo.",
+      "descricao_en": "Persepolis (founded by Darius I, c. 518 BC) was the ceremonial capital of the Achaemenid Empire — built to receive delegations from all corners of the empire during the Persian New Year (Nowruz). The reliefs on the Apadana staircases show representatives of 28 nations bringing tributes — the ancient world's first 'ethnic map'. Alexander the Great burned Persepolis in 330 BC. The surviving reliefs are among the greatest artworks of the ancient world.",
+      "descricao_es": "Persépolis fue la capital ceremonial del Imperio Aqueménida. Los relieves del Apadana muestran representantes de 28 naciones trayendo tributos. Alejandro Magno la incendió en 330 a.C.",
+      "importancia": "Os relevos de Persépolis são o mais detalhado retrato de povos do mundo antigo — mostrando vestimentas, físicos e objetos de 28 nações diferentes. São uma fonte arqueológica insubstituível para o estudo da diversidade étnica do Oriente Médio no século V a.C.",
+      "importancia_en": "The Persepolis reliefs are the most detailed portrait of peoples in the ancient world — showing clothing, physiques and objects of 28 different nations. They are an irreplaceable archaeological source for the study of ethnic diversity in the 5th century BC Middle East.",
+      "importancia_es": "Los relieves de Persépolis son el retrato más detallado de los pueblos del mundo antiguo.",
+      "tags": [
+        "Persépolis",
+        "Dario",
+        "arte",
+        "arquitetura",
+        "Aquemênida",
+        "Nowruz"
+      ],
+      "dataset": "data/dados-persia-zoroastrismo-cultura.json"
+    },
+    {
+      "id": "pzc-003",
+      "nome": "As Guerras Médicas: Maratona, Termópilas e Salamina",
+      "nome_en": "The Persian Wars: Marathon, Thermopylae and Salamis",
+      "nome_es": "Las Guerras Médicas: Maratón, Termópilas y Salamina",
+      "tipo": "periodo",
+      "inicio": -492,
+      "fim": -449,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -5,
+      "type": "war",
+      "descricao": "As Guerras Greco-Persas (492–449 a.C.) foram o confronto mais consequente do mundo antigo. Dario I enviou a expedição punida em Maratona (490 a.C.) — os atenienses correram 42 km para defender a cidade (origem da maratona olímpica). Xerxes I (480 a.C.) atravessou o Helesponto com 200.000 soldados — os 300 espartanos de Leônidas detiveram-no em Termópilas. A batalha naval de Salamina (480 a.C.) destruiu a frota persa, encerrando a invasão.",
+      "descricao_en": "The Greco-Persian Wars (492–449 BC) were the most consequential confrontation of the ancient world. Darius I sent the expedition punished at Marathon (490 BC) — the Athenians ran 42 km to defend the city (origin of the Olympic marathon). Xerxes I (480 BC) crossed the Hellespont with 200,000 soldiers — Leonidas' 300 Spartans detained him at Thermopylae. The naval battle of Salamis (480 BC) destroyed the Persian fleet.",
+      "descricao_es": "Las Guerras Greco-Persas fueron el confrontamiento más consecuente del mundo antiguo. Maratón (490 a.C.), Termópilas y Salamina (480 a.C.) determinaron que la democracia ateniense sobreviviera.",
+      "importancia": "Se a Pérsia tivesse vencido em Salamina, a democracia ateniense teria sido destruída — e com ela, o fundamento político do Ocidente. Termópilas (300 espartanos) tornou-se o símbolo eterno do sacrifício de poucos para salvar muitos — um dos mitos fundadores da identidade ocidental.",
+      "importancia_en": "If Persia had won at Salamis, Athenian democracy would have been destroyed — and with it, the political foundation of the West. Thermopylae (300 Spartans) became the eternal symbol of the sacrifice of few to save many.",
+      "importancia_es": "Si Persia hubiera ganado en Salamina, la democracia ateniense habría sido destruida. Termópilas se convirtió en el símbolo eterno del sacrificio de pocos para salvar a muchos.",
+      "tags": [
+        "Maratona",
+        "Termópilas",
+        "Salamina",
+        "Xerxes",
+        "Dario",
+        "300 espartanos"
+      ],
+      "dataset": "data/dados-persia-zoroastrismo-cultura.json"
+    },
+    {
+      "id": "pzc-004",
+      "nome": "Alexandre e a Fusão Greco-Persa",
+      "nome_en": "Alexander and the Greco-Persian Fusion",
+      "nome_es": "Alejandro y la Fusión Greco-Persa",
+      "tipo": "evento",
+      "inicio": -334,
+      "fim": -323,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -4,
+      "type": "cultural",
+      "descricao": "A conquista de Alexandre Magno (334–323 a.C.) destruiu o Império Aquemênida mas preservou e difundiu a cultura persa. Alexandre adotou vestimentas persas, casou-se com a princesa persa Roxane e promoveu casamentos em massa entre seus generais e mulheres persas (bodas de Susa, 324 a.C.). O helenismo que resultou foi uma fusão de culturas grega, persa, egípcia e oriental. Alexandrias fundadas em todo o antigo Império Persa tornaram-se focos de síntese cultural.",
+      "descricao_en": "Alexander the Great's conquest (334–323 BC) destroyed the Achaemenid Empire but preserved and spread Persian culture. Alexander adopted Persian clothing, married Persian princess Roxane and promoted mass marriages between his generals and Persian women (Susa weddings, 324 BC). The resulting Hellenism was a fusion of Greek, Persian, Egyptian and Eastern cultures.",
+      "descricao_es": "La conquista de Alejandro destruyó el Imperio Aqueménida pero difundió la cultura persa. Alejandro adoptó vestimentas persas y promovió matrimonios entre sus generales y mujeres persas. El helenismo resultante fue una fusión de culturas.",
+      "importancia": "A fusão greco-persa criada por Alexandre produziu o helenismo — a cultura que moldou o mundo romano, o Islamismo primitivo e o Judeo-Cristianismo primitivo. O Novo Testamento foi escrito em grego helenístico com conceitos filosóficos gregos e orientais fundidos.",
+      "importancia_en": "The Greco-Persian fusion created by Alexander produced Hellenism — the culture that shaped the Roman world, early Islam and early Judeo-Christianity. The New Testament was written in Hellenistic Greek with fused Greek and Oriental philosophical concepts.",
+      "importancia_es": "La fusión greco-persa creó el helenismo, que moldeó el mundo romano, el Islam primitivo y el Judeo-Cristianismo primitivo.",
+      "tags": [
+        "Alexandre",
+        "helenismo",
+        "fusão",
+        "Roxane",
+        "Susa",
+        "Aquemênida"
+      ],
+      "dataset": "data/dados-persia-zoroastrismo-cultura.json"
+    },
+    {
+      "id": "pzc-005",
+      "nome": "Império Parta: A Resistência a Roma",
+      "nome_en": "Parthian Empire: Resistance to Rome",
+      "nome_es": "Imperio Parto: La Resistencia a Roma",
+      "tipo": "periodo",
+      "inicio": -247,
+      "fim": 224,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -3,
+      "type": "war",
+      "descricao": "O Império Parta (247 a.C.–224 d.C.) foi o principal rival de Roma por 500 anos. Fundado por Arsaces I após expulsar os selêucidas, controlava a Rota da Seda entre Roma e a China. A batalha de Carras (53 a.C.) — a maior derrota de Roma contra um inimigo oriental — matou 20.000 romanos incluindo o triunviro Crasso. O catafracto (cavaleiro blindado) e a tática de arco a cavalo dos partas influenciaram a guerra medieval europeia. Roma nunca conseguiu conquistar a Pártia.",
+      "descricao_en": "The Parthian Empire (247 BC–224 AD) was Rome's main rival for 500 years. Founded by Arsaces I after expelling the Seleucids, it controlled the Silk Road between Rome and China. The Battle of Carrhae (53 BC) — Rome's greatest defeat against an Eastern enemy — killed 20,000 Romans including triumvir Crassus. The Parthian cataphract (armored horseman) and horse archery tactics influenced medieval European warfare.",
+      "descricao_es": "El Imperio Parto fue el principal rival de Roma durante 500 años. La batalla de Carras (53 a.C.) — la mayor derrota de Roma contra un enemigo oriental — mató a 20.000 romanos incluyendo a Craso. El catafracto parto influyó en la guerra medieval europea.",
+      "importancia": "A batalha de Carras (53 a.C.) foi a maior derrota romana em séculos — e o símbolo da impassabilidade oriental para o poder romano. A tática parta (finja retirada, vire e atire) é a 'Partian shot' — expressão que sobrevive no inglês moderno como 'parting shot' (golpe final).",
+      "importancia_en": "The Battle of Carrhae (53 BC) was the greatest Roman defeat in centuries. The Parthian tactic (feign retreat, turn and shoot) is the 'Parthian shot' — an expression that survives in modern English as 'parting shot' (final blow).",
+      "importancia_es": "La batalla de Carras fue la mayor derrota romana en siglos. La táctica parta sobrevive en inglés como 'parting shot' (golpe final).",
+      "tags": [
+        "Partas",
+        "Carras",
+        "Crasso",
+        "Roma",
+        "cavalaria",
+        "Rota da Seda"
+      ],
+      "dataset": "data/dados-persia-zoroastrismo-cultura.json"
+    },
+    {
+      "id": "pzc-006",
+      "nome": "Safávidas: O Islã Xiita como Identidade Nacional",
+      "nome_en": "Safavids: Shia Islam as National Identity",
+      "nome_es": "Safávidas: El Islam Chií como Identidad Nacional",
+      "tipo": "periodo",
+      "inicio": 1501,
+      "fim": 1736,
+      "region": "MiddleEast",
+      "period": "EarlyModern",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "A Dinastia Safávida (1501–1736) converteu o Irã ao Islã Xiita de forma coercitiva — criando a divisão xiita-sunita que ainda estrutura a geopolítica do Oriente Médio. O Xá Ismail I derrotou os Turcomanos Aq Qoyunlu (1501) e proclamou o Xiismo como religião de Estado, em choque direto com o Império Otomano Sunita. Isfahan tornou-se uma das cidades mais belas do mundo (séculos XVII–XVIII). Nadir Shah derrubou os Safávidas (1736) mas o Xiismo como identidade iraniana sobreviveu até hoje.",
+      "descricao_en": "The Safavid Dynasty (1501–1736) converted Iran to Shia Islam coercively — creating the Shia-Sunni division that still structures Middle Eastern geopolitics. Shah Ismail I proclaimed Shiism as state religion, in direct clash with the Sunni Ottoman Empire. Isfahan became one of the world's most beautiful cities. The Safavids were overthrown but Shiism as Iranian identity survived.",
+      "descricao_es": "La Dinastía Safávida convirtió Irán al Islam Chií de forma coercitiva — creando la división chií-sunní que aún estructura la geopolítica de Oriente Medio. Isfahán se convirtió en una de las ciudades más bellas del mundo.",
+      "importancia": "A divisão Xiita-Sunita institutionalizada pelos Safávidas ainda determina as guerras, alianças e conflitos do Oriente Médio moderno — Irã (xiita) vs. Arábia Saudita (sunita), guerra no Iémen, conflito sírio, poder do Hezbollah no Líbano. Tudo tem raíz nos Safávidas do século XVI.",
+      "importancia_en": "The Shia-Sunni division institutionalized by the Safavids still determines wars, alliances and conflicts in the modern Middle East — Iran (Shia) vs. Saudi Arabia (Sunni), Yemen war, Syrian conflict, Hezbollah power in Lebanon. All have roots in the 16th century Safavids.",
+      "importancia_es": "La división Chií-Sunní institucionalizada por los Safávidas aún determina las guerras y alianzas de Oriente Medio moderno.",
+      "tags": [
+        "Safávidas",
+        "Xiismo",
+        "Irã",
+        "Isfahan",
+        "Ismail I",
+        "Sunita"
+      ],
+      "dataset": "data/dados-persia-zoroastrismo-cultura.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "pzc-001",
+      "destino": "pzc-002",
+      "tipo": "paralelo",
+      "intensidade": 0.7,
+      "descricao": "Zoroastrismo e arte persa florescem sob os Aquemênidas"
+    },
+    {
+      "origem": "pzc-002",
+      "destino": "pzc-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Grandiosidade aquemênida motiva o confronto com a Grécia"
+    },
+    {
+      "origem": "pzc-003",
+      "destino": "pzc-004",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Derrota nas Guerras Médicas prepara o terreno para Alexandre"
+    },
+    {
+      "origem": "pzc-004",
+      "destino": "pzc-005",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Vácuo pós-Alexandre permite surgimento dos Partas"
+    },
+    {
+      "origem": "pzc-005",
+      "destino": "pzc-006",
+      "tipo": "evolucao",
+      "intensidade": 0.6,
+      "descricao": "Identidade iraniana persa sobrevive através dos partas, sassânidas e safávidas"
+    }
+  ]
+}

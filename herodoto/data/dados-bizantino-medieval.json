@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "fonte": "Compilado — Bizâncio Medieval",
+    "lingua": "pt",
+    "tema": "Bizâncio Medieval"
+  },
+  "entidades": [
+    {
+      "id": "biz-012",
+      "nome": "Economia Bizantina — Soldo de Ouro",
+      "nome_en": "Byzantine Economy — Gold Solidus",
+      "nome_es": "Economía Bizantina — Sólido de Oro",
+      "tipo": "conceito",
+      "descricao": "O solidus (nomisma em grego) foi a moeda de ouro de Constantino I (312 d.C.), mantida estável por 700 anos — moeda mais confiável do mundo medieval. Constantinopla controlava o comércio entre Oriente e Ocidente (seda, especiarias, metais preciosos). Impostos em dinheiro financiavam exército e burocracia. Decadência monetária a partir do séc. XI (desvalorização pelo imperador Nicéforo III). Quarta Cruzada destruiu sistema comercial; genoveses e venezianos substituíram Bizâncio como intermediários.",
+      "descricao_en": "Gold solidus/nomisma by Constantine I (312 AD): stable for 700 years, most trusted medieval currency. Constantinople controlled East-West trade. Monetary debasement from 11th century.",
+      "descricao_es": "Sólido de oro/nomisma de Constantino I (312 d.C.): estable por 700 años, moneda más confiable de la Edad Media. Constantinopla controlaba el comercio Este-Oeste.",
+      "inicio": 312,
+      "fim": 1204,
+      "tags": [
+        "economia",
+        "ouro",
+        "comercio"
+      ],
+      "importancia": "O sólido de ouro (solidus) foi a moeda mais estável da história antes da libra esterlina: manteve seu peso e pureza por 700 anos (330–1035 d.C.), tornando-se a moeda de reserva do Mediterrâneo medieval. Mercadores da Índia ao Marrocos aceitavam sólidos. Sua desvalorização no século XI sinalizou a crise fiscal do Império — e foi o sinal mais claro do declínio byzantine para os contemporâneos. A estabilidade monetária como fundamento do poder imperial é uma lição que Roma havia aprendido da pior forma e Bizâncio aplicou por sete séculos.",
+      "century_start": 4,
+      "century_end": 13,
+      "region": "Europe",
+      "type": "economic",
+      "period": "Medieval",
+      "importancia_en": "Constantinople controlled East-West trade. Monetary debasement from 11th century.",
+      "importancia_es": "Sólido de oro/nomisma de Constantino I (312 d.C.): estable por 700 años, moneda más confiable de la Edad Media. Constantinopla controlaba el comercio Este-Oeste."
+    },
+    {
+      "id": "biz-001",
+      "nome": "Fundação do Império Bizantino",
+      "nome_en": "Foundation of the Byzantine Empire",
+      "nome_es": "Fundación del Imperio Bizantino",
+      "tipo": "evento",
+      "descricao": "O Império Romano do Oriente (Bizâncio) emergiu com a divisão definitiva do Império Romano em 395 d.C. Constâncio I transferira a capital para Bizâncio, renomeada Constantinopla (330 d.C.), por Constantino I. Enquanto o Ocidente caiu em 476 d.C., o Oriente sobreviveu como estado romano helenizado. Justiniano I (527-565 d.C.) tentaria reconquistar o Ocidente. Língua grega substituiu o latim como língua oficial no séc. VII.",
+      "descricao_en": "Eastern Roman (Byzantine) Empire emerged from Rome's definitive division in 395 AD. Constantinople founded 330 AD. Western Empire fell 476 AD; Eastern survived as Hellenized Roman state.",
+      "descricao_es": "Imperio Romano de Oriente (Bizancio) surgió de la división de Roma en 395 d.C. Constantinopla fundada en 330 d.C. El Occidente cayó en 476; el Oriente sobrevivió.",
+      "inicio": 330,
+      "fim": 476,
+      "tags": [
+        "bizancio",
+        "constantinopla",
+        "roma"
+      ],
+      "importancia": "Bizâncio é a prova de que o 'fim' de uma civilização pode ser gradual e parcial: o Império Romano do Oriente sobreviveu à 'queda de Roma' por mais mil anos, preservando o direito romano, a língua grega, a teologia cristã e a cultura clássica enquanto o Ocidente vivia fragmentação feudal. A transmissão do conhecimento grego para o Islã (via Bizâncio) e de volta para a Europa (via Al-Ândalus e Cruzadas) foi o circuito pelo qual a herança antiga chegou ao Renascimento.",
+      "century_start": 4,
+      "century_end": 5,
+      "region": "Europe",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Western Empire fell 476 AD; Eastern survived as Hellenized Roman state.",
+      "importancia_es": "Constantinopla fundada en 330 d.C. El Occidente cayó en 476; el Oriente sobrevivió."
+    },
+    {
+      "id": "biz-007",
+      "nome": "Arte e Cultura Bizantina",
+      "nome_en": "Byzantine Art and Culture",
+      "nome_es": "Arte y Cultura Bizantina",
+      "tipo": "conceito",
+      "descricao": "Arte a serviço da teologia: mosaicos dourados (Ravenna, Santa Sofia), ícones (imagens sagradas — objeto de veneração). Crise iconoclasta (726-843): imperadores proibiram imagens religiosas; monges defenderam, produzindo teologia da imagem. Restauração definitiva dos ícones (843) celebrada como 'Triunfo da Ortodoxia'. Manuscritos iluminados preservaram textos clássicos gregos. Escola de canto litúrgico, hinos de Romano o Melódio. Influência profunda na arte russa, eslava e italiana (Duccio, Cimabue).",
+      "descricao_en": "Art serving theology: golden mosaics, icons. Iconoclasm crisis (726-843): emperors banned religious images. Triumph of Orthodoxy (843). Illuminated manuscripts preserved Greek classics.",
+      "descricao_es": "Arte al servicio de la teología: mosaicos dorados, iconos. Crisis iconoclasta (726-843). Triunfo de la Ortodoxia (843). Manuscritos iluminados preservaron clásicos griegos.",
+      "inicio": 400,
+      "fim": 1453,
+      "tags": [
+        "arte",
+        "icones",
+        "mosaico"
+      ],
+      "importancia": "A arte bizantina não era 'primitiva' antes do Renascimento — era deliberadamente teológica: corpos não são o tema, a presença divina através dos corpos é o tema. Os ícones não eram representações mas 'janelas para o sagrado'. A Querela dos Iconoclastas (726–843) — debate sobre se imagens religiosas eram lícitas ou idólatras — foi a primeira grande crise teológica da cristandade e precedeu em 700 anos debates similares na Reforma Protestante. A arte italiana do trecento (Cimabue, Duccio) é diretamente descendente do estilo icônico bizantino.",
+      "century_start": 5,
+      "century_end": 15,
+      "region": "Europe",
+      "type": "cultural",
+      "period": "Medieval",
+      "importancia_en": "Iconoclasm crisis (726-843): emperors banned religious images. Illuminated manuscripts preserved Greek classics.",
+      "importancia_es": "Arte al servicio de la teología: mosaicos dorados, iconos. Manuscritos iluminados preservaron clásicos griegos."
+    },
+    {
+      "id": "biz-002",
+      "nome": "Justiniano I e o Corpus Juris Civilis",
+      "nome_en": "Justinian I and the Corpus Juris Civilis",
+      "nome_es": "Justiniano I y el Corpus Juris Civilis",
+      "tipo": "evento",
+      "descricao": "Imperador Justiniano I (527-565 d.C.) e esposa Teodora realizaram a maior expansão territorial e codificação jurídica bizantina. Reconquistou Norte da África (533), Itália (535-554) e sul da Espanha. Corpus Juris Civilis (534 d.C.): compilação sistemática do direito romano (Institutos, Digesto, Código, Novelas) — fundamento de todo o direito civil ocidental. Construção de Santa Sofia (532-537): maior cúpula da Antiguidade. Revolta Nika (532): quase deposto, Teodora o convenceu a resistir.",
+      "descricao_en": "Justinian I (527-565 AD) reconquered North Africa, Italy, Spain. Corpus Juris Civilis (534 AD): Roman law codification — foundation of Western civil law. Built Hagia Sophia.",
+      "descricao_es": "Justiniano I (527-565 d.C.) reconquistó Norte de África, Italia, España. Corpus Juris Civilis (534 d.C.): fundamento del derecho civil occidental. Construyó Santa Sofía.",
+      "inicio": 527,
+      "fim": 565,
+      "tags": [
+        "justiniano",
+        "direito",
+        "corpus"
+      ],
+      "importancia": "O Corpus Juris Civilis de Justiniano é o fundamento de todo o Direito Civil ocidental — os sistemas jurídicos da maioria dos países do mundo derivam diretamente dele. O Código Justinianeu não foi uma inovação mas uma codificação: organizar séculos de jurisprudência romana caótica em sistema coerente. Esse trabalho intelectual de codificação, feito no século VI, ainda é estudado nas faculdades de Direito do século XXI — o texto mais durável produzido pela civilização ocidental em termos de impacto prático contínuo.",
+      "century_start": 6,
+      "century_end": 6,
+      "region": "Europe",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Corpus Juris Civilis (534 AD): Roman law codification — foundation of Western civil law.",
+      "importancia_es": "Corpus Juris Civilis (534 d.C.): fundamento del derecho civil occidental."
+    },
+    {
+      "id": "biz-003",
+      "nome": "Santa Sofia",
+      "nome_en": "Hagia Sophia",
+      "nome_es": "Santa Sofía",
+      "tipo": "conceito",
+      "descricao": "Catedral patriarcal de Constantinopla (532-537 d.C.), encomendada por Justiniano I aos arquitetos Isidoro de Mileto e Antêmio de Tralles. Cúpula de 31m de diâmetro e 55m de altura — prodígio de engenharia sustentado por pendentes semiesféricos. Maior edifício cristão por quase mil anos. Convertida em mesquita após conquista otomana (1453). Hoje museu (1934) e mesquita (2020). Definiu a arquitetura ortodoxa e influenciou a arquitetura islâmica.",
+      "descricao_en": "Patriarchal cathedral of Constantinople (532-537 AD) by Justinian I. Dome 31m diameter, 55m height. Largest Christian building for ~1000 years. Converted to mosque 1453, museum 1934.",
+      "descricao_es": "Catedral patriarcal de Constantinopla (532-537 d.C.). Cúpula de 31m de diámetro, 55m de altura. Mayor edificio cristiano por ~1000 años. Convertida en mezquita en 1453.",
+      "inicio": 537,
+      "fim": 537,
+      "tags": [
+        "santa-sofia",
+        "arquitetura",
+        "justiniano"
+      ],
+      "importancia": "Santa Sofia (532–537 d.C.) foi a maior construção do mundo por mil anos — e permanece um dos feitos de engenharia mais extraordinários da história humana. A cúpula principal de 31,8 metros de diâmetro flutuando sobre janelas que criavam a ilusão de suspensão no ar influenciou toda a arquitetura religiosa subsequente: islâmica (mesquitas), ortodoxa, renascentista (Cúpula de São Pedro, Brunelleschi). Transformada em mesquita em 1453 e museu em 1934, sua reconversão em mesquita em 2020 foi um ato político calculado de Erdoğan.",
+      "century_start": 6,
+      "century_end": 6,
+      "region": "Europe",
+      "type": "cultural",
+      "period": "Medieval",
+      "importancia_en": "Largest Christian building for ~1000 years. Converted to mosque 1453, museum 1934.",
+      "importancia_es": "Mayor edificio cristiano por ~1000 años. Convertida en mezquita en 1453."
+    },
+    {
+      "id": "biz-011",
+      "nome": "Sistema Temático e Organização Militar",
+      "nome_en": "Theme System and Military Organization",
+      "nome_es": "Sistema Temático y Organización Militar",
+      "tipo": "conceito",
+      "descricao": "Reforma administrativa bizantina do séc. VII: divisão do império em temas (thema), províncias militares administradas por estrategos (generais). Substituiu burocracia civil centralizada de Justiniano. Soldados-camponeses (stratiotai) recebiam terras em troca de serviço militar — reduzindo custos e aumentando lealdade local. Sistema funcionou bem por 3 séculos; decadência com feudalização (dynatos — grandes proprietários absorvendo terras dos stratiotai) no séc. X-XI.",
+      "descricao_en": "7th century administrative reform dividing empire into themes (military provinces) led by strategoi (generals). Soldier-farmers (stratiotai) received land for military service.",
+      "descricao_es": "Reforma administrativa del siglo VII dividiendo el imperio en temas (provincias militares) dirigidas por estrategos (generales). Soldados-campesinos recibían tierras a cambio de servicio.",
+      "inicio": 640,
+      "fim": 1071,
+      "tags": [
+        "temas",
+        "militar",
+        "administracao"
+      ],
+      "importancia": "O sistema temático foi a solução bizantina para um problema recorrente na história militar: como manter exércitos grandes sem destruir a economia. Ao vincular concessões de terra ao serviço militar, reduziu a dependência de mercenários e criou uma classe de soldados com interesse genuíno na defesa de seu território. O paralelo com o feudalismo ocidental é evidente — mas o sistema temático manteve controle imperial centralizado que o feudalismo nunca conseguiu. Sua erosão pelos 'dynatos' (grandes proprietários) no século X-XI reproduziu exatamente o mesmo problema do feudalismo.",
+      "century_start": 7,
+      "century_end": 11,
+      "region": "Europe",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Soldier-farmers (stratiotai) received land for military service.",
+      "importancia_es": "Reforma administrativa del siglo VII dividiendo el imperio en temas (provincias militares) dirigidas por estrategos (generales). Soldados-campesinos recibían tierras a cambio de servicio."
+    },
+    {
+      "id": "biz-008",
+      "nome": "Missão dos Eslavos — Cirilo e Metódio",
+      "nome_en": "Slavic Mission — Cyril and Methodius",
+      "nome_es": "Misión Eslava — Cirilo y Metodio",
+      "tipo": "evento",
+      "descricao": "Irmãos gregos Cirilo (827-869) e Metódio (815-885), monges de Tessalônica, evangelizaram os eslavos da Morávia por ordem do imperador Miguel III. Criaram o alfabeto glagolítico (~862) para transcrever o eslavo antigo — base do atual alfabeto cirílico. Traduziram Bíblia e liturgia. Contestados por clero franco por usar língua vernacular. Declarados santos pelas Igrejas Católica e Ortodoxa; co-padroeiros da Europa. Abertura do mundo eslavo para a Ortodoxia Byzantine.",
+      "descricao_en": "Greek brothers Cyril and Methodius evangelized Slavs (~862 AD). Created Glagolitic alphabet (basis of Cyrillic). Translated Bible into Old Slavonic. Co-patron saints of Europe.",
+      "descricao_es": "Hermanos griegos Cirilo y Metodio evangelizaron a los eslavos (~862 d.C.). Crearon alfabeto glagolítico (base del cirílico). Tradujeron la Biblia al eslavo antiguo.",
+      "inicio": 862,
+      "fim": 885,
+      "tags": [
+        "cirilo",
+        "eslavo",
+        "alfabeto"
+      ],
+      "importancia": "A criação do alfabeto eslavo por Cirilo e Metódio (862) é um dos atos culturais mais impactantes da Idade Média: ao criar uma escrita para o eslavônico, abriram a liturgia cristã a povos que não falavam latim nem grego — e criaram a base da cultura letrada de Rússia, Sérvia, Bulgária, Ucrânia e outros povos. O debate sobre se usar língua vernacular na liturgia (Cirilo e Metódio) ou latim (Roma) antecipou exatamente a mesma questão que Lutero levantaria 650 anos depois.",
+      "century_start": 9,
+      "century_end": 9,
+      "region": "Europe",
+      "type": "religious",
+      "period": "Medieval",
+      "importancia_en": "Created Glagolitic alphabet (basis of Cyrillic). Translated Bible into Old Slavonic.",
+      "importancia_es": "Crearon alfabeto glagolítico (base del cirílico). Tradujeron la Biblia al eslavo antiguo."
+    },
+    {
+      "id": "biz-005",
+      "nome": "Imperadores Macedônios — Apogeu Bizantino",
+      "nome_en": "Macedonian Emperors — Byzantine Apex",
+      "nome_es": "Emperadores Macedonios — Apogeo Bizantino",
+      "tipo": "periodo",
+      "descricao": "Dinastia Macedônica (867-1056 d.C.) representou o ápice do poder bizantino. Basílio I fundou a dinastia. Leão VI codificou as Basílicas (leis em grego). Constantino VII escreveu tratados sobre administração imperial. Nicéforo II Focas, João I Tzimisces e Basílio II reconquistaram Síria, Chipre, parte da Bulgária. Basílio II 'Bulgaroktonos' (Matador de Búlgaros) cegou 15.000 prisioneiros búlgaros (1014). Economia florescente, arte bizantina clássica, manuscritos iluminados.",
+      "descricao_en": "Macedonian Dynasty (867-1056 AD) represented Byzantine power apex. Basil II 'Bulgar-Slayer' blinded 15,000 Bulgarian prisoners (1014). Reconquests, legal codification, flourishing economy.",
+      "descricao_es": "Dinastía Macedónica (867-1056 d.C.) representó el apogeo del poder bizantino. Basilio II 'Bulgaróctono' cegó a 15.000 prisioneros búlgaros (1014). Reconquistas, economía floreciente.",
+      "inicio": 867,
+      "fim": 1056,
+      "tags": [
+        "macedonia",
+        "basilios",
+        "apogeu"
+      ],
+      "importancia": "A Dinastia Macedônica representou o apogeu de Bizâncio: território máximo após Justiniano, economia florescente baseada no sólido de ouro (a moeda mais estável da Idade Média), renascimento literário e artístico. Basílio II 'Bulgaroktonos' foi o mais eficaz guerreiro-imperador bizantino — mas seu ato de cegas 15.000 prisioneiros búlgaros (mantendo um olho em cada centésimo como guia) ilustra que 'apogeu' não significa ausência de crueldade política calculada.",
+      "century_start": 9,
+      "century_end": 11,
+      "region": "Europe",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Basil II 'Bulgar-Slayer' blinded 15,000 Bulgarian prisoners (1014). Reconquests, legal codification, flourishing economy.",
+      "importancia_es": "Basilio II 'Bulgaróctono' cegó a 15.000 prisioneros búlgaros (1014). Reconquistas, economía floreciente."
+    },
+    {
+      "id": "biz-004",
+      "nome": "Cisma do Oriente (1054)",
+      "nome_en": "East-West Schism (1054)",
+      "nome_es": "Cisma de Oriente (1054)",
+      "tipo": "evento",
+      "descricao": "Ruptura definitiva entre Igreja Católica Romana e Igreja Ortodoxa Oriental em 1054. Causas acumuladas: disputas sobre primado papal, uso do pão ázimo, cláusula filioque no Credo (adição ocidental). Cardeal Humberto de Silva Cândida e Patriarca Miguel Cerulário trocaram excomunhões mútuas em julho de 1054. Levantadas formalmente apenas em 1964 por Paulo VI e Atenágoras I. Dividiu o Cristianismo entre duas tradições que permanecem separadas até hoje.",
+      "descricao_en": "Definitive rupture between Roman Catholic and Eastern Orthodox churches in 1054. Disputes over papal primacy, unleavened bread, filioque clause. Mutual excommunications. Lifted in 1964.",
+      "descricao_es": "Ruptura definitiva entre Iglesia Católica Romana e Iglesia Ortodoxa Oriental en 1054. Disputas sobre primacía papal, pan ázimo, cláusula filioque. Excomuniones mutuas.",
+      "inicio": 1054,
+      "fim": 1054,
+      "tags": [
+        "cisma",
+        "ortodoxa",
+        "catolica"
+      ],
+      "importancia": "O Cisma de 1054 não foi um evento único mas a formalização de um afastamento de séculos. A adição ocidental do Filioque ao Credo (o Espírito Santo procede do Pai 'e do Filho') parecia técnica, mas representava uma diferença fundamental na teologia trinitária. O saque de Constantinopla pela Quarta Cruzada em 1204 aprofundou a ruptura emocionalmente de forma irreparável: cruzados cristãos saqueando a maior cidade cristã do mundo. As excomunhões de 1054 foram tecnicamente levantadas em 1964 — mas as duas igrejas permanecem separadas.",
+      "century_start": 11,
+      "century_end": 11,
+      "region": "Europe",
+      "type": "religious",
+      "period": "Medieval",
+      "importancia_en": "Disputes over papal primacy, unleavened bread, filioque clause.",
+      "importancia_es": "Disputas sobre primacía papal, pan ázimo, cláusula filioque."
+    },
+    {
+      "id": "biz-009",
+      "nome": "Turcos Seljúcidas e Batalha de Manzikert",
+      "nome_en": "Seljuk Turks and Battle of Manzikert",
+      "nome_es": "Turcos Selyúcidas y Batalla de Manzikert",
+      "tipo": "evento",
+      "descricao": "Os turcos seljúcidas, muçulmanos sunitas de origem centro-asiática, expandiram-se para o Oriente Médio no séc. XI. Batalla de Manzikert (1071): exército seljúcida do sultão Alp Arslan derrotou e capturou o imperador Romanos IV Diógenes. Perda definitiva da Anatólia — coração econômico e demográfico do Império. Bizâncio nunca recuperou a Anatólia. Pedido de ajuda de Alexios I ao papa (1095) desencadeou as Cruzadas.",
+      "descricao_en": "Seljuk Turks at Battle of Manzikert (1071) captured Emperor Romanos IV and took Anatolia permanently — Byzantine Empire's heartland. Led to Alexios I's call for Crusade in 1095.",
+      "descricao_es": "Turcos selyúcidas en Batalla de Manzikert (1071) capturaron al Emperador Romano IV y tomaron Anatolia permanentemente. Llevó al llamado cruzado de Alejo I en 1095.",
+      "inicio": 1071,
+      "fim": 1071,
+      "tags": [
+        "seljucidas",
+        "manzikert",
+        "anatolia"
+      ],
+      "importancia": "Manzikert (1071) não foi apenas uma derrota militar — foi o início do colapso da Anatólia para os turcos seljúcidas, reduzindo permanentemente a base territorial e demográfica de Bizâncio. O pedido de ajuda do imperador Aleixo I aos papas ocidentais foi o que gerou a Primeira Cruzada (1095). Ironia: a Cruzada que surgiu do pedido de socorro bizantino acabou enfraquecendo ainda mais Bizâncio ao criar estados cruzados independentes que competiam com o Império nas rotas comerciais.",
+      "century_start": 11,
+      "century_end": 11,
+      "region": "MiddleEast",
+      "type": "war",
+      "period": "Medieval",
+      "importancia_en": "Seljuk Turks at Battle of Manzikert (1071) captured Emperor Romanos IV and took Anatolia permanently — Byzantine Empire's heartland. Led to Alexios I's call for Crusade in 1095.",
+      "importancia_es": "Turcos selyúcidas en Batalla de Manzikert (1071) capturaron al Emperador Romano IV y tomaron Anatolia permanentemente. Llevó al llamado cruzado de Alejo I en 1095."
+    },
+    {
+      "id": "biz-006",
+      "nome": "Cruzadas e Relações com o Ocidente",
+      "nome_en": "Crusades and Relations with the West",
+      "nome_es": "Cruzadas y Relaciones con Occidente",
+      "tipo": "evento",
+      "descricao": "As Cruzadas afetaram profundamente Bizâncio. Alexios I Comneno pediu ajuda ao papa (1095) contra os turcos seljúcidas — desencadeou Primeira Cruzada. Cruzados passaram por Constantinopla, criando tensões. IV Cruzada (1202-1204): desvio vergonhoso — cruzados saquearam Constantinopla, massacraram cristãos ortodoxos, criaram Império Latino (1204-1261). Maior trauma para Bizâncio: jamais se recuperou completamente. Miguel VIII Paleólogo reconquistou Constantinopla (1261).",
+      "descricao_en": "Crusades profoundly affected Byzantium. Alexios I triggered First Crusade (1095). Fourth Crusade (1204) shamefully sacked Constantinople, creating Latin Empire (1204-1261).",
+      "descricao_es": "Las Cruzadas afectaron profundamente a Bizancio. Alejo I desencadenó Primera Cruzada (1095). IV Cruzada (1204) saqueó vergonzosamente Constantinopla, creando Imperio Latino.",
+      "inicio": 1095,
+      "fim": 1261,
+      "tags": [
+        "cruzadas",
+        "saqueio",
+        "constantinopla"
+      ],
+      "importancia": "Bizâncio e as Cruzadas tiveram uma relação de aliança disfuncional: os cruzados chegaram para 'ajudar' o Império, mas o saquearam em 1204. A perspectiva bizantina foi ignorada nos grandes relatos ocidentais das Cruzadas — eles viam os cruzados ocidentais como bárbaros incultos que ameaçavam tanto quanto os muçulmanos. A instalação do Império Latino de Constantinopla (1204–1261) foi o golpe do qual Bizâncio nunca se recuperou completamente, tornando a conquista otomana de 1453 apenas a conclusão lógica do que 1204 iniciou.",
+      "century_start": 11,
+      "century_end": 13,
+      "region": "Europe",
+      "type": "war",
+      "period": "Medieval",
+      "importancia_en": "Fourth Crusade (1204) shamefully sacked Constantinople, creating Latin Empire (1204-1261).",
+      "importancia_es": "IV Cruzada (1204) saqueó vergonzosamente Constantinopla, creando Imperio Latino."
+    },
+    {
+      "id": "biz-010",
+      "nome": "Queda de Constantinopla (1453)",
+      "nome_en": "Fall of Constantinople (1453)",
+      "nome_es": "Caída de Constantinopla (1453)",
+      "tipo": "evento",
+      "descricao": "Conquista otomana de Constantinopla pelo sultão Mehmed II (29 de maio de 1453). Cerco de 53 dias. Otomanos usaram canhões gigantes (incluindo o Basilisk, 8m de comprimento). Defesa de 7.000 homens contra 80.000. Último imperador Constantino XI morreu na batalha. Queda encerrou o Império Romano do Oriente após 1.123 anos. Fuga de intelectuais gregos para a Itália acelerou o Renascimento. Marcos o início da Era Moderna para historiadores orientais. Santa Sofia convertida em mesquita.",
+      "descricao_en": "Ottoman conquest of Constantinople by Sultan Mehmed II on May 29, 1453. 53-day siege with giant cannons. Last emperor Constantine XI died in battle. Ended Eastern Roman Empire after 1,123 years.",
+      "descricao_es": "Conquista otomana de Constantinopla por el sultán Mehmed II el 29 de mayo de 1453. Cerco de 53 días con cañones gigantes. Último emperador Constantino XI murió en la batalla.",
+      "inicio": 1453,
+      "fim": 1453,
+      "tags": [
+        "constantinopla",
+        "queda",
+        "otomanos"
+      ],
+      "importancia": "A queda de Constantinopla (1453) marcou o fim da Antiguidade como projeto político contínuo e o início da Era Moderna. Milhares de eruditos gregos fugiram para a Itália levando manuscritos — alimentando diretamente o Renascimento italiano. O jovem sultão Mehmed II estudou estratégia militar grega e latina antes de atacar — e se autodenominou 'Kayser-i Rum' (César de Roma) após a conquista. O Império Otomano se via como herdeiro legítimo de Bizâncio, não como seu destruidor.",
+      "century_start": 15,
+      "century_end": 15,
+      "region": "Europe",
+      "type": "war",
+      "period": "Medieval",
+      "importancia_en": "Last emperor Constantine XI died in battle. Ended Eastern Roman Empire after 1,123 years.",
+      "importancia_es": "Cerco de 53 días con cañones gigantes. Último emperador Constantino XI murió en la batalla."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "biz-001",
+      "destino": "biz-002",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Justiniano governou no período inicial do Império"
+    },
+    {
+      "origem": "biz-002",
+      "destino": "biz-003",
+      "tipo": "dependencia",
+      "intensidade": 0.95,
+      "descricao": "Santa Sofia foi construída por Justiniano"
+    },
+    {
+      "origem": "biz-001",
+      "destino": "biz-007",
+      "tipo": "dependencia",
+      "intensidade": 0.8,
+      "descricao": "Arte bizantina desenvolveu-se ao longo de todo o período"
+    },
+    {
+      "origem": "biz-007",
+      "destino": "biz-004",
+      "tipo": "dependencia",
+      "intensidade": 0.85,
+      "descricao": "Iconoclastia foi crise central da arte e religião bizantina"
+    },
+    {
+      "origem": "biz-005",
+      "destino": "biz-004",
+      "tipo": "dependencia",
+      "intensidade": 0.7,
+      "descricao": "Cisma ocorreu no fim da dinastia macedônica"
+    },
+    {
+      "origem": "biz-008",
+      "destino": "biz-007",
+      "tipo": "causalidade",
+      "intensidade": 0.75,
+      "descricao": "Missão eslava expandiu a arte e cultura ortodoxa"
+    },
+    {
+      "origem": "biz-009",
+      "destino": "biz-006",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Perda de Manzikert motivou pedido de ajuda ao papa e as Cruzadas"
+    },
+    {
+      "origem": "biz-006",
+      "destino": "biz-010",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "IV Cruzada enfraqueceu Bizâncio, acelerando sua queda"
+    },
+    {
+      "origem": "biz-009",
+      "destino": "biz-010",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Perda da Anatólia levou ao colapso final frente aos otomanos"
+    },
+    {
+      "origem": "biz-011",
+      "destino": "biz-005",
+      "tipo": "dependencia",
+      "intensidade": 0.8,
+      "descricao": "Sistema temático sustentou o apogeu macedônico"
+    },
+    {
+      "origem": "biz-012",
+      "destino": "biz-001",
+      "tipo": "dependencia",
+      "intensidade": 0.85,
+      "descricao": "Solidus foi a base econômica do Império desde o início"
+    }
+  ]
+}

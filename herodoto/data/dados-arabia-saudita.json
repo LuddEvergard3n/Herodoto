@@ -1,0 +1,32 @@
+{
+  "entidades": [
+    {
+      "id": "ars-001",
+      "nome": "Ibn Saud, Wahhabismo e o Reino Saudita",
+      "nome_en": "Ibn Saud, Wahhabism and the Saudi Kingdom",
+      "nome_es": "Ibn Saud, Wahabismo y el Reino Saudí",
+      "tipo": "periodo",
+      "inicio": 1744,
+      "fim": 2023,
+      "descricao": "Muhammad ibn Abd al-Wahhab (1703–1792): fundou o wahhabismo — islamismo puritano que condena práticas sufis, xiitas e 'inovações'. Aliança com Ibn Saud (1744): religião + política — base do Estado saudita atual. Três Estados sauditas (1744–1818, 1824–91, 1902–): terceiro Estado unificado por Abdulaziz ibn Saud (1932). Descoberta do petróleo (1938): Aramco, parceria com EUA. Crise de 1973 (embargo): OPEP quadruplicou o preço — transformou o petróleo em arma geopolítica. Exportação do wahhabismo via madrassas (após 1979): financiou escolas religiosas conservadoras no Paquistão, Indonésia, Bósnia. MBS (Mohamed bin Salman, 2017–): reformas sociais (mulheres dirigindo) + repressão política (caso Khashoggi).",
+      "descricao_en": "Muhammad ibn Abd al-Wahhab (1703–1792): founded Wahhabism — puritan Islam condemning Sufi and Shia practices and 'innovations'. Alliance with Ibn Saud (1744): religion + politics — basis of the modern Saudi state. Three Saudi states (1744–1818, 1824–91, 1902–): third state unified by Abdulaziz ibn Saud (1932). Oil discovery (1938): Aramco, partnership with US. 1973 crisis (embargo): OPEC quadrupled price — transformed oil into geopolitical weapon. Wahhabism export via madrassas (after 1979): funded conservative religious schools in Pakistan, Indonesia, Bosnia. MBS (Mohamed bin Salman, 2017–): social reforms (women driving) + political repression (Khashoggi case).",
+      "descricao_es": "Muhammad ibn Abd al-Wahhab (1703–1792): fundó el wahabismo — islam puritano. Alianza con Ibn Saud (1744): religión + política. Descubrimiento del petróleo (1938). Crisis de 1973: la OPEP cuadruplicó el precio del petróleo. Exportación del wahabismo vía madrasas (después de 1979): escuelas conservadoras en Pakistán, Indonesia, Bosnia. MBS (2017–): reformas sociales + represión política (caso Khashoggi).",
+      "tags": [
+        "wahhabismo",
+        "arabia-saudita",
+        "petroleo",
+        "opep",
+        "mbs"
+      ],
+      "importancia": "A aliança petróleo-Wahhabismo (1938–): a Arábia Saudita exportou o islamismo conservador para 50 países usando a renda petrolífera — o fator mais subestimado na radicalização islâmica global.",
+      "century_start": 18,
+      "century_end": 21,
+      "region": "MiddleEast",
+      "type": "religious",
+      "period": "Modern",
+      "importancia_en": "MBS (Mohamed bin Salman, 2017–): social reforms (women driving) + political repression (Khashoggi case).",
+      "importancia_es": "MBS (2017–): reformas sociales + represión política (caso Khashoggi)."
+    }
+  ],
+  "relacoes": []
+}
