@@ -564,10 +564,25 @@ function setupInteraction(svg,ents){
   const mm=e=>{if(!drag)return;S.tx=clampTx(stx+e.clientX-sx);applyT();};
   const mu=()=>{drag=false;svg.style.cursor='grab';};
   const wh=e=>{
+    // Ctrl+scroll / pinch → zoom
+    if(e.ctrlKey||e.metaKey){
+      e.preventDefault();
+      const f=e.deltaY<0?1.22:1/1.22;
+      const rect=svg.getBoundingClientRect();
+      doZoom(f,e.clientX-rect.left-S.ML,ents);
+      return;
+    }
+    // Scroll horizontal → pan da timeline
+    if(Math.abs(e.deltaX)>Math.abs(e.deltaY)){
+      e.preventDefault();
+      S.tx=clampTx(S.tx-e.deltaX*1.2);
+      applyT();
+      return;
+    }
+    // Scroll vertical → rola o container, não faz zoom
     e.preventDefault();
-    const f=e.deltaY<0?1.22:1/1.22;
-    const rect=svg.getBoundingClientRect();
-    doZoom(f,e.clientX-rect.left-S.ML,ents);
+    const body=document.querySelector('.tl-body');
+    if(body) body.scrollTop+=e.deltaY;
   };
   svg.addEventListener('mousedown',dn);
   window.addEventListener('mousemove',mm);
