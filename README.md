@@ -1,285 +1,198 @@
-# Orion — Interactive Historical Visualization System
+# Heródoto
+### Linha do Tempo Interativa e Grafo de Conhecimento Histórico
 
-Version: 6.7
-Status: Active development
-Datasets: 93
-Approximate entities: 700+
-Approximate relations: 600+
-Temporal coverage: -4.200.000 to 2023
+> *"Heródoto de Halicarnasso apresenta aqui os resultados de sua pesquisa, para que o tempo não apague os feitos dos homens."* — Heródoto, Histórias, c. 440 a.C.
 
 ---
 
-## Quick Start
+## O que é
 
-### Requirements
+**Heródoto** é uma ferramenta pedagógica para professores de história que combina dois modos de visualização:
 
-- Modern browser (Chrome 90+, Firefox 88+, Safari 14+, Edge 90+)
-- Local HTTP server (required — `file://` protocol blocks ES module imports and JSON fetch)
+- **Grafo de conhecimento** — eventos e personalidades históricas como nós interconectados por relações causais, temáticas e cronológicas, renderizado com D3.js force-directed layout
+- **Linha do tempo interativa** — eixo SVG com zoom/pan, filtragem por era e tipo, agrupamento visual de eventos próximos e navegação por região geográfica
 
-### Startup
-
-```bash
-# Python 3
-python -m http.server 8000
-
-# Node.js
-npx serve
-
-# PHP
-php -S localhost:8000
-```
-
-Open `http://localhost:8000` in the browser.
+O projeto cobre a história mundial desde os primeiros hominídeos (~3,3 milhões a.C.) até o presente, com ênfase especial no Brasil.
 
 ---
 
-## Project Structure
+## Funcionalidades
+
+### Linha do Tempo
+- Eixo histórico com escala logarítmica para pré-história e linear para história
+- Zoom (Ctrl+scroll), pan horizontal (scroll horizontal ou arrasto), navegação vertical entre regiões (scroll)
+- Rows colapsíveis por região: Europa, Oriente Médio, Ásia Oriental, Américas, África, etc.
+- Filtro por era (5 períodos) e tipo de evento (9 categorias)
+- Busca em tempo real com contagem de resultados
+- Painel lateral de detalhes ao clicar em um evento
+- Botão ⊟/⊞ para colapsar/expandir todas as regiões de uma vez
+- Botão `✕ limpar` para resetar todos os filtros
+
+### Grafo de Conhecimento
+- Motor de física com clustering inteligente por dataset
+- Forças de coesão intra-dataset e repulsão inter-dataset
+- Opacidade das arestas variável por intensidade histórica da relação
+- Legenda interativa de tipos (clique para filtrar por categoria)
+- Painel de contexto com descrição, importância historiográfica e tags
+
+### Módulos Analíticos
+- **Busca global** — pesquisa em nome, descrição, importância e tags de todas as entidades carregadas
+- **Comparação** — modo lado-a-lado de dois eventos históricos
+- **Cadeia causal** — percorre relações de causalidade/evolução em 2 níveis a partir de qualquer nó
+- **Perguntas geradoras** — 20 questões históricas curadas que selecionam e renderizam datasets automaticamente
+
+### Interface
+- Trilíngue: Português / English / Español (troca instantânea)
+- PWA: instalável em Android e iOS, funciona offline
+- Responsivo: desktop, tablet e mobile landscape
+- Paleta de pigmentos históricos: lápis-lazúli, cinábrio, ocre, malaquita, púrpura imperial
+
+---
+
+## Conteúdo
+
+**Total atual:** ~225 datasets · ~1.450 entidades (v7.20)
+
+### Brasil — 16 Períodos Cronológicos + Temáticos
+
+| # | Período | Cobertura |
+|---|---|---|
+| 01 | Povos Originários (até 1500) | Paleoíndios, sambaquis, Marajoara, Tupi-Guarani |
+| 02 | Pré-Colonial (1500–1530) | Cabral, pau-brasil, feitorias, ameaça francesa |
+| 03 | Capitanias (1530–1549) | Martim Afonso, engenhos, escravidão indígena |
+| 04 | Governo-Geral (1549–1580) | Nóbrega, Anchieta, Tamoios, fundação do Rio |
+| 05 | União Ibérica e Invasões (1580–1640) | Brasil holandês, Nassau, WIC, tráfico negreiro |
+| 06 | Expansão e Bandeirismo (1640–1700) | Palmares, bandeirantes, missões do Guairá |
+| 07 | Ciclo do Ouro (1700–1808) | Vila Rica, barroco mineiro, Inconfidência, Pombal |
+| 08 | Período Joanino (1808–1821) | Fuga da corte, abertura dos portos, Missão Francesa |
+| 09 | Independência (1821–1831) | 7 de setembro, Constituição de 1824, Confederação do Equador |
+| 10 | Regencial (1831–1840) | Cabanagem, Balaiada, Farroupilha, Revolta dos Malês |
+| 11 | Segundo Reinado (1840–1889) | D. Pedro II, Guerra do Paraguai, abolição, imigração |
+| 12 | República Velha (1889–1930) | Café-com-leite, Canudos, greve de 1917, tenentismo |
+| 13 | Era Vargas (1930–1945) | Revolução de 1930, Estado Novo, CLT, industrialização |
+| 14 | Populismo (1946–1964) | JK/Brasília, bossa nova, Goulart, reformas de base |
+| 15 | Ditadura Militar (1964–1985) | AI-5, milagre econômico, Araguaia, abertura |
+| 16 | Nova República (1985–presente) | Collor, Plano Real, Lula, Dilma, Bolsonaro |
+
+**Temáticos transversais:** quilombos, povos indígenas, escravidão colonial, missões jesuíticas, guerra do Paraguai, inconfidência, independência, cultura-arte, economia-social
+
+### Cobertura Mundial
+
+| Região | Destaques |
+|---|---|
+| **Pré-história** | Paleolítico, Neolítico, pré-história europeia e americana |
+| **Oriente Médio** | Suméria, Mesopotâmia, Babilônia, Pérsia/Aquemênidas, Fenícios, Cartago, Hitititas, Bronze Egeu |
+| **Egito** | Antigo, Médio e Novo Reino, período Tardio |
+| **Grécia** | Atenas, Esparta, guerras, filosofia, cultura, Alexandre, helenismo e ciência |
+| **Roma** | República, Imperial, exército, sociedade, cultura, queda |
+| **Islã** | Origens, expansão, fragmentação, Al-Andalus |
+| **Idade Média** | Feudalismo, cruzadas, carolíngios, castelos, cidades e universidades |
+| **Índia** | Védica/Maurya, medieval-moderna |
+| **China** | Neolítico, Shang-Zhou, Song, Ming, Qing, revolução |
+| **Japão** | Arcaico, antigo, Sengoku, Meiji, moderno |
+| **Coreia** | Antiga, Joseon, moderna |
+| **Sudeste Asiático** | Continental e marítimo |
+| **África** | Norte, oriental, ocidental, centro-sul, reinos africanos, descolonização |
+| **Mesoamérica** | Olmecas, Teotihuacan, Maias, Astecas, Zapotecas, Toltecas |
+| **Andes** | Caral, Wari, Chimu, culturas andinas |
+| **Américas Sul** | Mapuches, Tupis-Guaranis Amazônia |
+| **EUA** | Colônias, fundação, expansão, guerra civil, sécs. XIX-XX, contemporâneo |
+| **América Latina** | Séc. XX, independências |
+| **Europa Moderna** | Renascimento (norte e sul), absolutismo, Reforma, Revoluções liberais, Iluminismo |
+| **Filosofia** | Antiga, medieval, racionalismo, moderna |
+| **Igreja** | Fundação, concílios, inquisição, Reforma, Igreja e ciência, Igreja e escravidão |
+| **Antártida** | Descoberta e exploração moderna |
+| **Personalidades** | ~194 figuras históricas por região/período, incluindo 13 bíblicas com rigor historiográfico |
+
+---
+
+## Estrutura de Arquivos
 
 ```
-orion-final/
-├── index.html                 # Entry point and sidebar markup
-├── README.md                  # This file
-├── CHANGELOG.md               # Full version history
+herodoto/
+├── index.html              # Entrada principal
+├── manifest.json           # PWA manifest
 ├── css/
-│   ├── base.css               # Layout, header, sidebar shell
-│   └── components.css         # Filter groups, panel, badges
+│   ├── base.css            # Layout, variáveis de cor, tipografia
+│   └── components.css      # Componentes: toolbar, painéis, timeline
 ├── js/
-│   ├── main.js                # Orchestrator, event listeners
-│   ├── graph.js               # D3.js force simulation and rendering
-│   ├── data.js                # Dataset loading and merging
-│   ├── i18n.js                # Translation system
-│   ├── utils.js               # Color helpers, formatters
-│   └── context.js             # Context generator (disabled)
+│   ├── main.js             # Inicialização e orquestração
+│   ├── graph.js            # Motor D3.js force-directed
+│   ├── timeline.js         # Linha do tempo SVG interativa
+│   ├── data.js             # Carregamento e normalização de dados
+│   ├── filtros.js          # Lógica de filtros e paleta de cores
+│   ├── search.js           # Busca textual global
+│   ├── compare.js          # Modo comparação de eventos
+│   ├── questions.js        # 20 perguntas geradoras
+│   ├── causal-chain.js     # Cadeia de causas
+│   ├── consequence-chain.js# Cadeia de consequências
+│   ├── context-panel.js    # Painel lateral de contexto
+│   ├── legend-filter.js    # Legenda interativa de tipos
+│   ├── guided-mode.js      # Modo guiado com narrativas
+│   ├── dataset-labels.js   # Rótulos trilingues dos datasets
+│   ├── i18n.js             # Internacionalização PT/EN/ES
+│   └── utils.js            # Utilitários
 └── data/
-    └── dados-*.json           # 62 dataset files
+    ├── dados-brasil-01-povos-originarios.json
+    ├── dados-brasil-02-pre-colonial.json
+    ├── ... (225+ arquivos JSON)
+    └── dados-personagens-*.json
 ```
 
 ---
 
-## Dataset Organization
-
-Datasets are grouped in the sidebar in the following order:
-
-1. Pre-Historia e Evolucao Humana (universal — not tied to a continent)
-2. Europa
-3. Asia
-4. Africa
-5. Oriente Medio
-6. America do Norte
-7. America Central
-8. America do Sul
-9. Antartica (no datasets currently)
-
-The "Continentes" filter in the semantic filter panel has been removed; continent-based organization in the dataset list makes it redundant.
-
----
-
-## Dataset Format
-
-All datasets follow this JSON schema:
+## Estrutura de Entidade (JSON)
 
 ```json
 {
-  "entidades": [
-    {
-      "id": "prefix-001",
-      "nome": "Portuguese name",
-      "nome_en": "English name",
-      "nome_es": "Spanish name",
-      "tipo": "periodo",
-      "descricao": "PT description (220-280 chars)",
-      "descricao_en": "EN description (220-280 chars)",
-      "descricao_es": "ES description (220-280 chars)",
-      "inicio": 1789,
-      "fim": 1799,
-      "tags": ["tag1", "tag2"],
-      "importancia": "Why this entity matters historically",
-      "century_start": 18,
-      "century_end": 18,
-      "region": "Europe",
-      "type": "political",
-      "period": "EarlyModern"
-    }
-  ],
-  "relacoes": [
-    {
-      "origem": "prefix-001",
-      "destino": "prefix-002",
-      "tipo": "causalidade",
-      "intensidade": 0.9,
-      "descricao": "Relationship description"
-    }
-  ]
+  "id": "br15-001",
+  "nome": "O Golpe de 1964",
+  "nome_en": "The 1964 Coup",
+  "nome_es": "El Golpe de 1964",
+  "inicio": 1964,
+  "fim": 1964,
+  "tipo": "evento",
+  "region": "Americas",
+  "period": "20th Century",
+  "type": "political",
+  "tags": ["golpe", "militares", "Goulart", "1964", "debate-histórico"],
+  "descricao": "...",
+  "descricao_en": "...",
+  "descricao_es": "...",
+  "importancia": "...",
+  "importancia_en": "...",
+  "importancia_es": "...",
+  "century_start": 19,
+  "century_end": 20
 }
 ```
 
-### Field reference
+---
 
-**Entity fields**
+## Princípios Editoriais
 
-| Field | Type | Description |
-|---|---|---|
-| id | string | Unique identifier, format `prefix-NNN` |
-| nome / nome_en / nome_es | string | Trilingual name |
-| tipo | string | One of: `conceito`, `estrutura`, `periodo`, `conflito`, `evento` |
-| descricao / _en / _es | string | Trilingual description, 220-280 characters |
-| inicio / fim | integer | Year (negative = BC) |
-| tags | array | Thematic keywords |
-| importancia | string | Summary of historical significance |
-| century_start / century_end | integer | Century numbers (negative = BC, e.g. -5 = 5th century BC) |
-| region | string | See region values below |
-| type | string | See type values below |
-| period | string | See period values below |
-
-**Relation fields**
-
-| Field | Type | Description |
-|---|---|---|
-| origem / destino | string | Entity IDs |
-| tipo | string | One of: `causalidade`, `influencia`, `tensao`, `contemporaneo` |
-| intensidade | float | 0.5-1.0 |
-| descricao | string | Relation description |
-
-**Controlled vocabulary**
-
-region values: `Europe`, `Africa`, `MiddleEast`, `SouthAsia`, `SoutheastAsia`, `EastAsia`, `Mesoamerica`, `SouthAmerica`, `NorthAmerica`, `Americas`, `Global`, `Multiple`
-
-type values: `political`, `war`, `economic`, `cultural`, `religious`, `social`, `technological`, `intellectual`
-
-period values: `Ancient`, `Medieval`, `EarlyModern`, `Modern`, `Contemporary`
+- **Equilíbrio**: eventos controversos apresentam múltiplas perspectivas historiográficas sem tomar partido
+- **Rigor**: distinção explícita entre evidência histórica, debate acadêmico e consenso corrente
+- **Acessibilidade pedagógica**: cada entidade tem descrição factual e análise de importância histórica
+- **Trilingismo**: todo conteúdo disponível em PT, EN e ES
 
 ---
 
-## Adding a New Dataset
+## Uso em Sala de Aula
 
-1. Create `data/dados-<name>.json` following the schema above.
-2. Add a checkbox entry in `index.html` inside the appropriate continent section:
-
-```html
-<label class="checkbox-label">
-  <input type="checkbox" class="dataset" value="data/dados-<name>.json">
-  <span>Display Name</span>
-</label>
-```
-
-3. Update `CHANGELOG.md` under the current version entry.
-4. Update this README: increment dataset count and entity/relation approximations in the header block.
+1. Abrir `index.html` em qualquer navegador moderno (sem servidor necessário)
+2. Selecionar datasets pelo painel lateral ou usar as **Perguntas Geradoras**
+3. Alternar entre **Grafo** e **Linha do Tempo** conforme o objetivo da aula
+4. Clicar em qualquer evento para ver descrição completa e importância historiográfica
+5. Usar **Comparação** para contrastar dois eventos ou períodos
+6. Usar **Cadeia Causal** para explorar causas e consequências de um evento
 
 ---
 
-## Architecture
+## Tecnologias
 
-### Module loading order
-
-```
-main.js
-  data.js       -- fetch + merge JSON datasets
-  graph.js      -- D3 force simulation, SVG/Canvas render
-    i18n.js     -- translate node labels and panel text
-    utils.js    -- color map, date formatters
-```
-
-### Rendering modes
-
-| Node count | Mode | Labels |
-|---|---|---|
-| < 800 | SVG | Visible |
-| >= 800 | Canvas | Hidden |
-| Any | Performance mode (manual) | Hidden, reduced physics |
-
-Performance mode is toggled via the sidebar checkbox. It reduces node radius, repulsion force, and alpha decay rate.
-
-### Data flow
-
-1. User selects dataset checkboxes and clicks "Visualizar"
-2. `data.js` fetches all checked JSON files in parallel via `Promise.all`
-3. Entities and relations are merged into a single graph object
-4. Active filters (temporal range, century, region, type) are applied
-5. `graph.js` initializes or restarts the D3 force simulation with filtered data
-6. On node click, the info panel renders name, type, description, period, tags, and importancia in the active language
-
-### i18n system
-
-Language is selected via the header dropdown (PT / EN / ES). `i18n.js` replaces all `data-i18n` attribute targets and re-renders node labels and panel content. Default language is Portuguese.
-
-### Filter system
-
-Filters operate on the merged dataset before passing nodes to D3:
-
-- Temporal range: `inicio` / `fim` fields, supports negative years
-- Century: `century_start` / `century_end` fields
-- Region: `region` field
-- Type: `type` field
-- Period: `period` field
-
-Checked values within the same filter dimension use OR logic. Different dimensions use AND logic.
-
----
-
-## Performance
-
-| Nodes | Mode | Typical FPS | Init time | Memory |
-|---|---|---|---|---|
-| 10-50 | SVG | 60 | < 200ms | ~20 MB |
-| 100 | SVG | 45-60 | < 500ms | ~40 MB |
-| 500 | SVG | 20-30 | 1-2s | ~150 MB |
-| 800+ | Canvas auto | 60 | 2-3s | ~200 MB |
-
-For sessions with 500+ nodes, enabling performance mode is recommended.
-
----
-
-## Troubleshooting
-
-**Graph does not render**
-Cause: opened via `file://` protocol.
-Fix: serve with a local HTTP server.
-
-**"2 entidades, 0 relacoes" in status bar**
-Cause: stale dataset files or browser cache.
-Fix: hard reload (Ctrl+Shift+R) after replacing data files.
-
-**CORS error in console**
-Cause: same as above.
-Fix: use HTTP server.
-
-**Few nodes visible despite many datasets checked**
-Cause: temporal range filter excludes most entities.
-Fix: set range to -3000 / 2100 and verify all region/type checkboxes are checked.
-
-**Nodes appear but info panel shows no text**
-Cause: `descricao` field missing or empty in the dataset.
-Fix: verify all three description fields are populated in the JSON file.
-
----
-
-## Checklist for New Datasets
-
-- Valid JSON (`python -m json.tool dados-x.json`)
-- Minimum 4 entities
-- All three language fields populated for nome and descricao
-- Description length 220-280 characters per language
-- `importancia` field present and non-empty
-- `century_start`, `century_end`, `region`, `type`, `period` fields present
-- `inicio` and `fim` as integers (negative for BC)
-- ID prefix unique across all existing datasets
-- At least 2 relations defined
-- Checkbox entry added to `index.html` under the correct continent section
-- `CHANGELOG.md` updated
-- README dataset count and entity approximation updated
-
----
-
-## Dependencies
-
-- D3.js v7 (loaded from CDN, BSD-3-Clause license)
-- Google Fonts, Cormorant Garamond (loaded from CDN)
-- No build step, no bundler, no npm packages required
-
----
-
-## License
-
-Educational open-source project.
-D3.js: BSD-3-Clause.
-Historical content compiled from public academic sources.
+- **D3.js** v7 — grafo e simulação de força
+- **SVG nativo** — linha do tempo
+- JavaScript ES6+ puro, sem frameworks
+- CSS custom properties para tema consistente
+- Service Worker para funcionamento offline (PWA)

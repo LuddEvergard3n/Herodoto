@@ -66,11 +66,23 @@ const ALL_DATASETS = [
   "data/dados-andes.json","data/dados-incas.json","data/dados-chimu-conquista-peru.json",
   "data/dados-tupis-guaranis-amazonia.json","data/dados-mapuches-povos-sul.json",
   "data/dados-americas-coloniais.json","data/dados-independencias-america-latina.json",
-  "data/dados-brasil-ciclos-economicos.json","data/dados-brasil-colonial-inicial.json",
-  "data/dados-brasil-colonial-tardio.json","data/dados-brasil-imperio.json",
-  "data/dados-brasil-imperio-infraestrutura.json","data/dados-brasil-imperio-ciencia.json",
-  "data/dados-brasil-imperio-figuras.json","data/dados-brasil-revoltas-republica.json",
-  "data/dados-brasil-republica.json","data/dados-brasil-ditadura.json","data/dados-brasil-quilombos.json",
+  "data/dados-brasil-01-povos-originarios.json",
+  "data/dados-brasil-02-pre-colonial.json",
+  "data/dados-brasil-03-capitanias.json",
+  "data/dados-brasil-04-governo-geral.json",
+  "data/dados-brasil-05-uniao-iberica.json",
+  "data/dados-brasil-06-bandeirismo.json",
+  "data/dados-brasil-07-ciclo-ouro.json",
+  "data/dados-brasil-08-joanino.json",
+  "data/dados-brasil-09-independencia.json",
+  "data/dados-brasil-10-regencial.json",
+  "data/dados-brasil-11-segundo-reinado.json",
+  "data/dados-brasil-12-republica-velha.json",
+  "data/dados-brasil-13-era-vargas.json",
+  "data/dados-brasil-14-populismo.json",
+  "data/dados-brasil-15-ditadura.json",
+  "data/dados-brasil-16-nova-republica.json",
+,"data/dados-brasil-quilombos.json",
   "data/dados-brasil-indigenas.json","data/dados-antartica-descoberta.json","data/dados-antartica-moderna.json"
 ];
 
@@ -564,25 +576,10 @@ function setupInteraction(svg,ents){
   const mm=e=>{if(!drag)return;S.tx=clampTx(stx+e.clientX-sx);applyT();};
   const mu=()=>{drag=false;svg.style.cursor='grab';};
   const wh=e=>{
-    // Ctrl+scroll / pinch → zoom
-    if(e.ctrlKey||e.metaKey){
-      e.preventDefault();
-      const f=e.deltaY<0?1.22:1/1.22;
-      const rect=svg.getBoundingClientRect();
-      doZoom(f,e.clientX-rect.left-S.ML,ents);
-      return;
-    }
-    // Scroll horizontal → pan da timeline
-    if(Math.abs(e.deltaX)>Math.abs(e.deltaY)){
-      e.preventDefault();
-      S.tx=clampTx(S.tx-e.deltaX*1.2);
-      applyT();
-      return;
-    }
-    // Scroll vertical → rola o container, não faz zoom
     e.preventDefault();
-    const body=document.querySelector('.tl-body');
-    if(body) body.scrollTop+=e.deltaY;
+    const f=e.deltaY<0?1.22:1/1.22;
+    const rect=svg.getBoundingClientRect();
+    doZoom(f,e.clientX-rect.left-S.ML,ents);
   };
   svg.addEventListener('mousedown',dn);
   window.addEventListener('mousemove',mm);
