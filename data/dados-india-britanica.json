@@ -1,0 +1,101 @@
+{
+  "entidades": [
+    {
+      "id": "ibr-001",
+      "nome": "Colonização Britânica da Índia",
+      "nome_en": "British Colonization of India",
+      "nome_es": "Colonización Británica de la India",
+      "tipo": "periodo",
+      "inicio": 1757,
+      "fim": 1857,
+      "descricao": "Companhia das Índias Orientais Britânica: começou com postos comerciais (1600), gradualmente assumiu poder político. Batalha de Plassey (1757): Clive venceu o Nawab de Bengala — início do domínio britânico. Desindustrialização sistemática: tecido indiano taxado para proteger têxteis britânicos — Índia passou de ~25% do PIB mundial (1700) para ~4% (1900). Sistema de tributação fundiária (zamindari): converteu camponeses em servos. Grandes fomes: Bengala (1770, ~10 milhões), Madras, Orissa — resultado de políticas de exportação forçada de alimentos durante as fomes.",
+      "descricao_en": "British East India Company: started with trading posts (1600), gradually assumed political power. Battle of Plassey (1757): Clive defeated the Nawab of Bengal — beginning of British dominance. Systematic deindustrialization: Indian fabric taxed to protect British textiles — India went from ~25% of world GDP (1700) to ~4% (1900). Land taxation system (zamindari): converted peasants into serfs. Great famines: Bengal (1770, ~10 million), Madras, Orissa — result of policies of forced food export during famines.",
+      "descricao_es": "Compañía Británica de las Indias Orientales: desde puestos comerciales (1600) hasta el dominio político. Batalla de Plassey (1757): inicio del dominio británico. Desindustrialización: la India pasó de ~25% del PIB mundial (1700) al 4% (1900). Sistema zamindari. Grandes hambrunas: Bengala (1770, ~10 millones).",
+      "tags": [
+        "india-britanica",
+        "plassey",
+        "desindustrializacao",
+        "fomes-bengala"
+      ],
+      "importancia": "A Índia controlava ~25% do PIB mundial em 1700 — antes da colonização britânica. Em 1947, tinha 4%. Maior transferência de riqueza da história moderna.",
+      "century_start": 18,
+      "century_end": 19,
+      "region": "SouthAsia",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Great famines: Bengal (1770, ~10 million), Madras, Orissa — result of policies of forced food export during famines.",
+      "importancia_es": "Desindustrialización: la India pasó de ~25% del PIB mundial (1700) al 4% (1900). Grandes hambrunas: Bengala (1770, ~10 millones)."
+    },
+    {
+      "id": "ibr-002",
+      "nome": "Revolta dos Sipaios, Raj Britânico e Gandhi",
+      "nome_en": "Sepoy Mutiny, British Raj and Gandhi",
+      "nome_es": "Rebelión de los Cipayos, Raj Británico y Gandhi",
+      "tipo": "periodo",
+      "inicio": 1857,
+      "fim": 1947,
+      "descricao": "Revolta dos Sipaios (1857): soldados indianos do exército britânico rebelaram-se (cartuchos lubrificados com gordura bovina e suína — ofensa a hindus e muçulmanos). Coroa britânica assumiu diretamente (Raj, 1858). Congresso Nacional Indiano (1885): movimento por representação. Gandhi retornou da África do Sul (1915): não-cooperação, desobediência civil, Marcha do Sal (1930) — 386 km a pé para colher sal e desafiar o monopólio britânico. Jinnah e a Liga Muçulmana: dois Estados. Independência (15 ago 1947): partição entre Índia e Paquistão — ~1 milhão de mortos, 12 milhões deslocados.",
+      "descricao_en": "Sepoy Mutiny (1857): Indian soldiers in the British army revolted (cartridges lubricated with beef and pork fat — offense to Hindus and Muslims). British Crown took direct control (Raj, 1858). Indian National Congress (1885): movement for representation. Gandhi returned from South Africa (1915): non-cooperation, civil disobedience, Salt March (1930) — 386 km on foot to collect salt and challenge British monopoly. Jinnah and Muslim League: two states. Independence (Aug 15, 1947): partition between India and Pakistan — ~1 million dead, 12 million displaced.",
+      "descricao_es": "Rebelión de los Cipayos (1857): soldados indios del ejército británico se rebelaron (cartuchos lubricados con grasa bovina y porcina). La Corona Británica asumió el control directo (Raj, 1858). Gandhi: no-cooperación, desobediencia civil, Marcha de la Sal (1930). Independencia (15 ago 1947): partición entre India y Pakistán — ~1 millón de muertos, 12 millones desplazados.",
+      "tags": [
+        "gandhi",
+        "independencia-india",
+        "raj",
+        "marcha-sal",
+        "particao"
+      ],
+      "importancia": "A Marcha do Sal (1930): Gandhi caminhou 386 km e transformou o ato de colher sal em desafio ao Império Britânico — primeiro uso midiático moderno da desobediência civil.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "SouthAsia",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Independence (Aug 15, 1947): partition between India and Pakistan — ~1 million dead, 12 million displaced.",
+      "importancia_es": "Independencia (15 ago 1947): partición entre India y Pakistán — ~1 millón de muertos, 12 millones desplazados."
+    },
+    {
+      "id": "ibr-003",
+      "nome": "Índia e Paquistão Contemporâneos",
+      "nome_en": "Contemporary India and Pakistan",
+      "nome_es": "India y Pakistán Contemporáneos",
+      "tipo": "periodo",
+      "inicio": 1947,
+      "fim": 2023,
+      "descricao": "Nehru e a democracia indiana: maior democracia do mundo desde 1947 (exceto Emergency 1975–77). Guerra Indo-Paquistanesa por Caxemira (1947, 1965, 1971). Bangladesh (1971): independência com apoio indiano — ~1–3 milhões de mortos no genocídio paquistanês. Testes nucleares: Índia (1974, 1998), Paquistão (1998) — primeiro exemplo de proliferação nuclear no subcontinente. Revolução Verde (1960s–70s): Índia autossuficiente em alimentos. IT boom (1990s–): Bangalore como 'Vale do Silício da Índia', 5 milhões de empregos. BJP e Modi (2014–): hinduismo nacionalista, Artigo 370 (Caxemira, 2019). Índia ultrapassou China em população (2023).",
+      "descricao_en": "Nehru and Indian democracy: world's largest democracy since 1947 (except Emergency 1975–77). Indo-Pakistani War for Kashmir (1947, 1965, 1971). Bangladesh (1971): independence with Indian support — ~1–3 million deaths in Pakistani genocide. Nuclear tests: India (1974, 1998), Pakistan (1998) — first nuclear proliferation in the subcontinent. Green Revolution (1960s–70s): India self-sufficient in food. IT boom (1990s–): Bangalore as 'Silicon Valley of India', 5 million jobs. BJP and Modi (2014–): Hindu nationalism, Article 370 (Kashmir, 2019). India surpassed China in population (2023).",
+      "descricao_es": "Nehru y la democracia india: mayor democracia del mundo desde 1947. Bangladesh (1971): ~1–3 millones de muertos en el genocidio paquistaní. Pruebas nucleares: India (1974, 1998), Pakistán (1998). Revolución Verde. Boom de IT (años 1990): Bangalore. BJP y Modi (2014–). India superó a China en población (2023).",
+      "tags": [
+        "india-contemporanea",
+        "nehru",
+        "bangladesh",
+        "nuclear",
+        "bangalore",
+        "modi"
+      ],
+      "importancia": "A Índia é a maior democracia do mundo — 900 milhões de eleitores em 2024 — com eleições livres ininterruptas desde 1947, exceto o Emergency de 1975–77.",
+      "century_start": 20,
+      "century_end": 21,
+      "region": "SouthAsia",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "BJP and Modi (2014–): Hindu nationalism, Article 370 (Kashmir, 2019). India surpassed China in population (2023).",
+      "importancia_es": "Boom de IT (años 1990): Bangalore. India superó a China en población (2023)."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ibr-001",
+      "destino": "ibr-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A exploração britânica sistematizada na era da Companhia gerou a Revolta de 1857 e depois o movimento de independência de Gandhi"
+    },
+    {
+      "origem": "ibr-002",
+      "destino": "ibr-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A partição de 1947 criou a instabilidade estrutural que define as relações Índia-Paquistão até hoje"
+    }
+  ]
+}

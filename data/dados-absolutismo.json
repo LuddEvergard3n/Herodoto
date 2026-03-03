@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Absolutismo: Luis XIV, Habsburgos e a Monarquia Absoluta",
+    "periodo": "1550-1789"
+  },
+  "entidades": [
+    {
+      "id": "abs-002",
+      "nome": "Habsburgos: O Império Que Nunca Dormia",
+      "nome_en": "Habsburgs: The Empire on Which the Sun Never Set",
+      "nome_es": "Habsburgos: El Imperio en el que el Sol Nunca se Ponía",
+      "tipo": "periodo",
+      "inicio": 1519,
+      "fim": 1806,
+      "region": "Europe",
+      "period": "EarlyModern",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "A dinastia Habsburgo controlou, no auge do século XVI, o Sacro Império Romano, Espanha, Portugal (1580–1640), Países Baixos, Itália meridional e toda a América espanhola e portuguesa. Carlos V (r. 1519–1556) disse que em seu império 'o sol nunca se punha'. Os Habsburgos austríacos governaram o Império Austro-Húngaro até 1918. A estratégia dinástica (casamentos estratégicos) substituiu as guerras — Bella gerant alii, tu felix Austria nube.",
+      "descricao_en": "The Habsburg dynasty controlled, at its 16th-century peak, the Holy Roman Empire, Spain, Portugal (1580–1640), the Low Countries, southern Italy and all of Spanish and Portuguese America. Charles V (r. 1519–1556) said that in his empire 'the sun never set'. The Austrian Habsburgs governed the Austro-Hungarian Empire until 1918.",
+      "descricao_es": "La dinastía Habsburgo controló en el siglo XVI el Sacro Imperio, España, Portugal, Países Bajos y toda América hispánica. Carlos V dijo que en su imperio 'el sol nunca se ponía'.",
+      "importancia": "Os Habsburgos foram a família mais poderosa da história europeia — governando porções da Europa por 600 anos (1282–1918). Sua estratégia matrimonial ('Que outros guerreiem, tu, feliz Áustria, casa-te') moldou a diplomacia europeia.",
+      "importancia_en": "The Habsburgs were the most powerful family in European history — governing portions of Europe for 600 years (1282–1918). Their matrimonial strategy ('Let others wage war; you, happy Austria, marry') shaped European diplomacy.",
+      "importancia_es": "Los Habsburgos fueron la familia más poderosa de la historia europea, gobernando partes de Europa durante 600 años.",
+      "tags": [
+        "Habsburgos",
+        "Carlos V",
+        "Áustria",
+        "Espanha",
+        "império dinástico"
+      ],
+      "dataset": "data/dados-absolutismo.json"
+    },
+    {
+      "id": "abs-004",
+      "nome": "Mercantilismo e Companhias das Índias",
+      "nome_en": "Mercantilism and East India Companies",
+      "nome_es": "Mercantilismo y Compañías de las Indias",
+      "tipo": "periodo",
+      "inicio": 1600,
+      "fim": 1800,
+      "region": "Multiple",
+      "period": "EarlyModern",
+      "century_start": 17,
+      "type": "economic",
+      "descricao": "O mercantilismo foi a política econômica dominante do século XVII–XVIII: o Estado controlava o comércio para acumular metais preciosos e maximizar exportações. As Companhias das Índias Orientais (holandesa VOC, 1602; inglesa EIC, 1600) foram as primeiras empresas multinacionais — com poderes estatais (declarar guerra, cunhar moeda, administrar territórios). A VOC foi a maior empresa da história em valor real ajustado.",
+      "descricao_en": "Mercantilism was the dominant economic policy of the 17th–18th centuries: the State controlled trade to accumulate precious metals and maximize exports. The East India Companies (Dutch VOC, 1602; English EIC, 1600) were the first multinational corporations — with state powers (declare war, mint money, administer territories). The VOC was the largest company in history by real adjusted value.",
+      "descricao_es": "El mercantilismo fue la política económica dominante. Las Compañías de las Indias Orientales (VOC holandesa, EIC inglesa) fueron las primeras empresas multinacionales, con poderes estatales. La VOC fue la mayor empresa de la historia en valor real.",
+      "importancia": "As Companhias das Índias foram o modelo original do capitalismo corporativo — com acionistas, dividendos, gestores profissionais e poder estatal. A VOC foi o precedente histórico de todas as grandes corporações multinacionais modernas.",
+      "importancia_en": "The East India Companies were the original model of corporate capitalism — with shareholders, dividends, professional managers and state power. The VOC was the historical precedent for all modern multinational corporations.",
+      "importancia_es": "Las Compañías de las Indias fueron el modelo original del capitalismo corporativo. La VOC fue el precedente histórico de todas las corporaciones multinacionales modernas.",
+      "tags": [
+        "mercantilismo",
+        "VOC",
+        "Companhia das Índias",
+        "colonialismo",
+        "capitalismo"
+      ],
+      "dataset": "data/dados-absolutismo.json"
+    },
+    {
+      "id": "abs-005",
+      "nome": "Guerra dos Trinta Anos e a Nova Ordem Europeia",
+      "nome_en": "Thirty Years' War and the New European Order",
+      "nome_es": "Guerra de los Treinta Años y el Nuevo Orden Europeo",
+      "tipo": "periodo",
+      "inicio": 1618,
+      "fim": 1648,
+      "region": "Europe",
+      "period": "EarlyModern",
+      "century_start": 17,
+      "type": "war",
+      "descricao": "A Guerra dos Trinta Anos (1618–1648) foi o conflito mais devastador da Europa antes das guerras napoleônicas: matou 8 milhões de pessoas e destruiu 1/3 da população alemã. Começou como guerra religiosa (católicos vs. protestantes) e terminou como guerra de poder entre Estados. A Paz de Vestfália (1648) criou o sistema moderno de Estados soberanos, com os princípios de não-intervenção e equilíbrio de poder que estruturaram as relações internacionais por 370 anos.",
+      "descricao_en": "The Thirty Years' War (1618–1648) was the most devastating conflict in Europe before the Napoleonic Wars: it killed 8 million people and destroyed 1/3 of the German population. It began as a religious war (Catholics vs. Protestants) and ended as a power war between States. The Peace of Westphalia (1648) created the modern system of sovereign States, with non-intervention and balance of power principles.",
+      "descricao_es": "La Guerra de los Treinta Años mató 8 millones de personas. La Paz de Westfalia (1648) creó el sistema moderno de Estados soberanos con los principios de no intervención y equilibrio de poder.",
+      "importancia": "A Paz de Vestfália é o ato fundador do Direito Internacional moderno e do sistema de Estados soberanos. Os princípios de soberania e não-intervenção estabelecidos em 1648 ainda fundamentam a ONU e as relações internacionais contemporâneas.",
+      "importancia_en": "The Peace of Westphalia is the founding act of modern International Law and the sovereign States system. The sovereignty and non-intervention principles established in 1648 still underpin the UN and contemporary international relations.",
+      "importancia_es": "La Paz de Westfalia es el acto fundador del Derecho Internacional moderno.",
+      "tags": [
+        "Trinta Anos",
+        "Vestfália",
+        "soberania",
+        "Direito Internacional",
+        "equilíbrio"
+      ],
+      "dataset": "data/dados-absolutismo.json"
+    },
+    {
+      "id": "abs-003",
+      "nome": "Revolução Inglesa e Monarquia Constitucional",
+      "nome_en": "English Revolution and Constitutional Monarchy",
+      "nome_es": "Revolución Inglesa y Monarquía Constitucional",
+      "tipo": "periodo",
+      "inicio": 1640,
+      "fim": 1689,
+      "region": "Europe",
+      "period": "EarlyModern",
+      "century_start": 17,
+      "type": "political",
+      "descricao": "A Inglaterra viveu duas revoluções no século XVII: a Revolução Puritana (1640–1660, guerra civil, decapitação de Carlos I e a república de Cromwell) e a Gloriosa Revolução (1688–89, expulsão de Jaime II e entronização de Guilherme III com o Bill of Rights). O resultado foi único na Europa: monarquia constitucional, parlamento soberano, habeas corpus (1679) e liberdade de imprensa — sem revolução jacobina nem terror.",
+      "descricao_en": "England experienced two revolutions in the 17th century: the Puritan Revolution (1640–1660, civil war, beheading of Charles I and Cromwell's republic) and the Glorious Revolution (1688–89, expulsion of James II and enthronement of William III with the Bill of Rights). The result was unique in Europe: constitutional monarchy, sovereign parliament, habeas corpus (1679) and freedom of the press — without Jacobin revolution or terror.",
+      "descricao_es": "Inglaterra vivió dos revoluciones: la Revolución Puritana (decapitación de Carlos I) y la Gloriosa Revolución (1688). El resultado fue único: monarquía constitucional, parlamento soberano y Bill of Rights — sin revolución jacobina ni terror.",
+      "importancia": "A Revolução Inglesa criou o primeiro modelo moderno de monarquia constitucional e soberania parlamentar. O Bill of Rights (1689) influenciou diretamente a Declaração de Direitos dos EUA (1791) e foi o modelo para o constitucionalismo liberal do século XIX.",
+      "importancia_en": "The English Revolution created the first modern model of constitutional monarchy and parliamentary sovereignty. The Bill of Rights (1689) directly influenced the US Bill of Rights (1791) and was the model for 19th century liberal constitutionalism.",
+      "importancia_es": "La Revolución Inglesa creó el primer modelo moderno de monarquía constitucional. El Bill of Rights influyó directamente en la Carta de Derechos de EE.UU.",
+      "tags": [
+        "Cromwell",
+        "Carlos I",
+        "Gloriosa",
+        "Bill of Rights",
+        "parlamento",
+        "habeas corpus"
+      ],
+      "dataset": "data/dados-absolutismo.json"
+    },
+    {
+      "id": "abs-001",
+      "nome": "Luís XIV: O Rei Sol e Versalhes",
+      "nome_en": "Louis XIV: The Sun King and Versailles",
+      "nome_es": "Luis XIV: El Rey Sol y Versalles",
+      "tipo": "periodo",
+      "inicio": 1643,
+      "fim": 1715,
+      "region": "Europe",
+      "period": "EarlyModern",
+      "century_start": 17,
+      "type": "political",
+      "descricao": "Luís XIV (r. 1643–1715), 'O Rei Sol', personificou o absolutismo monárquico: 'L'État c'est moi' ('O Estado sou eu'). Centralizou o poder, suprimiu a nobreza provincial, construiu Versalhes como símbolo do poder real e transformou a França na maior potência cultural e militar da Europa. Revogou o Édito de Nantes (1685), expulsando os huguenotes. Travou guerras de expansão que esgotaram a França e prepararam o terreno para a Revolução.",
+      "descricao_en": "Louis XIV (r. 1643–1715), 'The Sun King', personified monarchical absolutism: 'L'État c'est moi' ('I am the State'). He centralized power, suppressed provincial nobility, built Versailles as a symbol of royal power and transformed France into Europe's greatest cultural and military power. He revoked the Edict of Nantes (1685), expelling the Huguenots.",
+      "descricao_es": "Luis XIV personificó el absolutismo monárquico: 'L'État c'est moi'. Construyó Versalles y transformó Francia en la mayor potencia cultural de Europa. Revocó el Edicto de Nantes, expulsando a los hugonotes.",
+      "importancia": "Versalhes tornou-se o modelo de palácio real copiado em toda a Europa. A França de Luís XIV fundou a supremacia cultural francesa — língua, moda, gastronomia, artes — que durou até o século XX. Mas seus gastos militares plantaram as sementes da bancarrota que precipitou a Revolução Francesa.",
+      "importancia_en": "Versailles became the model for royal palaces copied throughout Europe. Louis XIV's France established French cultural supremacy — language, fashion, gastronomy, arts — that lasted until the 20th century. But his military spending planted the seeds of the bankruptcy that precipitated the French Revolution.",
+      "importancia_es": "Versalles se convirtió en el modelo de palacio real copiado en toda Europa. Los gastos militares de Luis XIV sembraron las semillas de la bancarrota que precipitó la Revolución Francesa.",
+      "tags": [
+        "Luís XIV",
+        "Versalhes",
+        "absolutismo",
+        "Sun King",
+        "França"
+      ],
+      "dataset": "data/dados-absolutismo.json"
+    },
+    {
+      "id": "abs-006",
+      "nome": "Despotismo Esclarecido: Frederico e José II",
+      "nome_en": "Enlightened Despotism: Frederick II and Joseph II",
+      "nome_es": "Despotismo Ilustrado: Federico II y José II",
+      "tipo": "periodo",
+      "inicio": 1740,
+      "fim": 1792,
+      "region": "Europe",
+      "period": "EarlyModern",
+      "century_start": 18,
+      "type": "political",
+      "descricao": "O Despotismo Esclarecido foi a tentativa de monarcas absolutos de combinar o poder absolutista com as ideias iluministas. Frederico II da Prússia (1740–1786) foi o modelo: reformas legais, tolerância religiosa, apoio a Voltaire e aos filósofos, mas sem ceder poder ao povo ('tudo pelo povo, sem o povo'). José II da Áustria (1780–1790) aboliu a servidão, instituiu tolerância religiosa e tentou reformas radicais que provocaram revoltas.",
+      "descricao_en": "Enlightened Despotism was the attempt by absolute monarchs to combine absolutist power with Enlightenment ideas. Frederick II of Prussia (1740–1786) was the model: legal reforms, religious tolerance, support for Voltaire and philosophers, but without ceding power to the people ('everything for the people, nothing by the people'). Joseph II of Austria (1780–1790) abolished serfdom, instituted religious tolerance and attempted radical reforms.",
+      "descricao_es": "El Despotismo Ilustrado combinó poder absolutista con ideas ilustradas. Federico II de Prusia fue el modelo. José II abolió la servidumbre e instituyó tolerancia religiosa.",
+      "importancia": "O Despotismo Esclarecido demonstrou a contradição fundamental do absolutismo iluminado: as ideias liberais eram incompatíveis com o poder absoluto. A derrota das reformas de José II e o fracasso de Luís XVI em reformar a França prepararam a Revolução.",
+      "importancia_en": "Enlightened Despotism demonstrated the fundamental contradiction of enlightened absolutism: liberal ideas were incompatible with absolute power. The defeat of Joseph II's reforms and Louis XVI's failure to reform France prepared the Revolution.",
+      "importancia_es": "El Despotismo Ilustrado demostró la contradicción del absolutismo ilustrado: las ideas liberales eran incompatibles con el poder absoluto.",
+      "tags": [
+        "Frederico II",
+        "José II",
+        "despotismo esclarecido",
+        "Prússia",
+        "Áustria",
+        "Iluminismo"
+      ],
+      "dataset": "data/dados-absolutismo.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "abs-002",
+      "destino": "abs-001",
+      "tipo": "paralelo",
+      "intensidade": 0.6,
+      "descricao": "Habsburgos e Bourbon (Luís XIV) são rivais no absolutismo europeu"
+    },
+    {
+      "origem": "abs-001",
+      "destino": "abs-003",
+      "tipo": "contraste",
+      "intensidade": 0.7,
+      "descricao": "Absolutismo francês contrasta com constitucionalismo inglês emergente"
+    },
+    {
+      "origem": "abs-005",
+      "destino": "abs-001",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Vestfália cria o sistema que Luís XIV tentará dominar"
+    },
+    {
+      "origem": "abs-004",
+      "destino": "abs-002",
+      "tipo": "causalidade",
+      "intensidade": 0.6,
+      "descricao": "Mercantilismo é o motor econômico do imperialismo habsburgo"
+    },
+    {
+      "origem": "abs-006",
+      "destino": "abs-001",
+      "tipo": "evolucao",
+      "intensidade": 0.7,
+      "descricao": "Despotismo esclarecido é a fase terminal do absolutismo que Luís XIV fundou"
+    }
+  ]
+}

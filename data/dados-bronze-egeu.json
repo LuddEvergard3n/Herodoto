@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Idade do Bronze Egeia: Minoicos e Micênicos",
+    "periodo": "-3000 a -1150"
+  },
+  "entidades": [
+    {
+      "id": "beg-001",
+      "nome": "Civilização Minoica de Creta",
+      "nome_en": "Minoan Civilization of Crete",
+      "nome_es": "Civilización Minoica de Creta",
+      "tipo": "periodo",
+      "inicio": -3000,
+      "fim": -1450,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": -30,
+      "type": "cultural",
+      "descricao": "A civilização Minoica (c. 3000–1450 a.C.) floresceu em Creta com o Palácio de Cnossos como centro. Desenvolveram escrita Linear A (ainda não decifrada), comércio marítimo com o Egito e o Levante, arte sofisticada (afrescos, cerâmica), e provável sistema palacial redistributivo. Sem grandes muralhas, sugerindo ausência de militarismo. Entrou em colapso possivelmente pela erupção de Thera e invasão micênica.",
+      "descricao_en": "Minoan civilization (c. 3000–1450 BC) flourished in Crete with the Palace of Knossos as center. They developed Linear A writing (still undeciphered), maritime trade with Egypt and the Levant, sophisticated art and a probable palatial redistributive system. No large walls suggest absence of militarism.",
+      "descricao_es": "La civilización Minoica floreció en Creta con el Palacio de Cnosos como centro. Desarrollaron la escritura Lineal A, comercio marítimo y arte sofisticada.",
+      "importancia": "Os minoicos foram a primeira civilização avançada da Europa. Seu palácio de Cnossos e afrescos representam um nível artístico sem paralelo no Mediterrâneo da época. A escrita Linear A, ainda indecifrada, é um dos grandes mistérios da arqueologia.",
+      "importancia_en": "The Minoans were the first advanced civilization in Europe. Knossos palace and frescoes represent an unparalleled artistic level in the Mediterranean of the time.",
+      "importancia_es": "Los minoicos fueron la primera civilización avanzada de Europa.",
+      "tags": [
+        "Minoicos",
+        "Cnossos",
+        "Creta",
+        "Linear A",
+        "Bronze Age"
+      ],
+      "dataset": "data/dados-bronze-egeu.json"
+    },
+    {
+      "id": "beg-002",
+      "nome": "Erupção de Thera e Colapso Minoico",
+      "nome_en": "Eruption of Thera and Minoan Collapse",
+      "nome_es": "Erupción de Thera y Colapso Minoico",
+      "tipo": "evento",
+      "inicio": -1620,
+      "fim": -1450,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": -16,
+      "type": "natural",
+      "descricao": "A erupção catastrófica do vulcão Thera (Santorini, c. 1620 a.C.) — uma das maiores da história — destruiu a ilha e gerou tsunamis e nuvem de cinzas que afetou o Mediterrâneo oriental. Embora não haja consenso sobre a relação direta, o evento antecede o declínio minoico. Por volta de 1450 a.C., os micênicos conquistaram Cnossos, produzindo textos Linear B (grego arcaico), substituindo a escrita minoica.",
+      "descricao_en": "The catastrophic eruption of the Thera volcano (Santorini, c. 1620 BC) — one of the largest in history — destroyed the island and generated tsunamis and ash clouds affecting the eastern Mediterranean. By c. 1450 BC, the Mycenaeans conquered Knossos, producing Linear B texts (archaic Greek).",
+      "descricao_es": "La erupción catastrófica del volcán Thera fue una de las mayores de la historia. Hacia 1450 a.C., los micénicos conquistaron Cnosos.",
+      "importancia": "A erupção de Thera foi possivelmente a fonte histórica do mito da Atlântida (descrito por Platão). A conquista micênica de Cnossos marcou a transição do poder egeu de Creta para a Grécia continental.",
+      "importancia_en": "The Thera eruption was possibly the historical source of the Atlantis myth (described by Plato). The Mycenaean conquest of Knossos marked the shift of Aegean power from Crete to mainland Greece.",
+      "importancia_es": "La erupción de Thera fue posiblemente la fuente histórica del mito de la Atlántida.",
+      "tags": [
+        "Thera",
+        "Santorini",
+        "vulcão",
+        "colapso",
+        "Atlântida"
+      ],
+      "dataset": "data/dados-bronze-egeu.json"
+    },
+    {
+      "id": "beg-003",
+      "nome": "Civilização Micênica",
+      "nome_en": "Mycenaean Civilization",
+      "nome_es": "Civilización Micénica",
+      "tipo": "periodo",
+      "inicio": -1600,
+      "fim": -1100,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": -16,
+      "type": "political",
+      "descricao": "Os micênicos (1600–1100 a.C.) foram a primeira cultura helênica avançada. Construíram palácios fortaleza (Micenas, Tirinto, Pilos), usaram escrita Linear B (grego arcaico decifrado em 1952 por Michael Ventris), e desenvolveram comércio por todo o Mediterrâneo. Sua organização era burocrática e guerreira — diferente dos minoicos. São os 'heróis' descritos por Homero na Ilíada e Odisseia.",
+      "descricao_en": "The Mycenaeans (1600–1100 BC) were the first advanced Hellenic culture. They built palace-fortresses (Mycenae, Tiryns, Pylos), used Linear B writing (archaic Greek deciphered in 1952 by Michael Ventris), and developed trade throughout the Mediterranean. They are the 'heroes' described by Homer in the Iliad and Odyssey.",
+      "descricao_es": "Los micénicos fueron la primera cultura helénica avanzada. Construyeron palacios-fortaleza y usaron la escritura Lineal B. Son los 'héroes' descritos por Homero.",
+      "importancia": "A civilização micênica é a base histórica dos mitos gregos e das epopeias homéricas. A decifração do Linear B em 1952 revelou que os micênicos já falavam grego, recuando as origens da língua grega em 500 anos.",
+      "importancia_en": "Mycenaean civilization is the historical basis of Greek myths and Homeric epics. The decipherment of Linear B in 1952 revealed that the Mycenaeans already spoke Greek, pushing back the origins of the Greek language by 500 years.",
+      "importancia_es": "La civilización micénica es la base histórica de los mitos griegos y las epopeyas homéricas.",
+      "tags": [
+        "Micenas",
+        "micênicos",
+        "Linear B",
+        "Homero",
+        "Grécia"
+      ],
+      "dataset": "data/dados-bronze-egeu.json"
+    },
+    {
+      "id": "beg-006",
+      "nome": "Comércio Bronze Age: Ugarit e Redes Mediterrâneas",
+      "nome_en": "Bronze Age Trade: Ugarit and Mediterranean Networks",
+      "nome_es": "Comercio Edad de Bronce: Ugarit y Redes Mediterráneas",
+      "tipo": "periodo",
+      "inicio": -1400,
+      "fim": -1185,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -14,
+      "type": "economic",
+      "descricao": "Ugarit (costa síria) era o principal entreposto comercial do Mediterrâneo oriental no Bronze Age Final. Tabletes cuneiformes revelam redes de comércio entre Egito, Chipre, Creta, Micenas, Babilônia e o Levante. Estanho vinha do Afeganistão, cobre de Chipre, lápis-lazúli do Irã, ouro do Egito. O naufrágio de Uluburun (Turquia, c. 1300 a.C.) preservou uma carga desse comércio internacional.",
+      "descricao_en": "Ugarit (Syrian coast) was the main commercial entrepôt of the eastern Mediterranean in the Late Bronze Age. Cuneiform tablets reveal trade networks between Egypt, Cyprus, Crete, Mycenae, Babylon and the Levant. Tin came from Afghanistan, copper from Cyprus, lapis lazuli from Iran, gold from Egypt. The Uluburun shipwreck (Turkey, c. 1300 BC) preserved a cargo from this international trade.",
+      "descricao_es": "Ugarit era el principal emporio comercial del Mediterráneo oriental. Tabletas cuneiformes revelan redes de comercio entre Egipto, Chipre, Creta, Micenas y Babilonia.",
+      "importancia": "O comércio de longa distância do Bronze Age demonstra que a 'globalização' é muito mais antiga que se supõe. O colapso dessas redes em 1200 a.C. foi uma das causas do maior desastre civilizacional da Antiguidade.",
+      "importancia_en": "Long-distance Bronze Age trade demonstrates that 'globalization' is much older than assumed. The collapse of these networks in 1200 BC was one of the causes of the greatest civilizational disaster of Antiquity.",
+      "importancia_es": "El comercio a larga distancia de la Edad de Bronce demuestra que la 'globalización' es mucho más antigua de lo que se supone.",
+      "tags": [
+        "Ugarit",
+        "comércio",
+        "Bronze Age",
+        "Mediterrâneo",
+        "Uluburun"
+      ],
+      "dataset": "data/dados-bronze-egeu.json"
+    },
+    {
+      "id": "beg-004",
+      "nome": "Guerra de Tróia: Mito e Realidade Histórica",
+      "nome_en": "Trojan War: Myth and Historical Reality",
+      "nome_es": "Guerra de Troya: Mito y Realidad Histórica",
+      "tipo": "evento",
+      "inicio": -1260,
+      "fim": -1180,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -13,
+      "type": "war",
+      "descricao": "Tróia (Hissarlik, Turquia) foi identificada arqueologicamente por Heinrich Schliemann (1870). As escavações revelaram múltiplas camadas de ocupação; Tróia VII (c. 1300–1180 a.C.) apresenta evidências de destruição violenta compatível com a narrativa homérica. A guerra troiana provavelmente reflete um conflito histórico real entre micênicos e cidades anatolianas pelo controle dos Estreitos do Helesponto.",
+      "descricao_en": "Troy (Hisarlik, Turkey) was archaeologically identified by Heinrich Schliemann (1870). Excavations revealed multiple occupation layers; Troy VII (c. 1300–1180 BC) shows evidence of violent destruction compatible with the Homeric narrative. The Trojan War probably reflects a real historical conflict between Mycenaeans and Anatolian cities for control of the Hellespont Straits.",
+      "descricao_es": "Troya fue identificada arqueológicamente por Schliemann. La Guerra de Troya probablemente refleja un conflicto histórico real por el control de los Estrechos del Helesponto.",
+      "importancia": "A Guerra de Tróia é um dos eventos mais influentes da literatura ocidental. A Ilíada e a Odisseia de Homero moldaram a ética, a narrativa e a identidade cultural grega — e, por extensão, toda a literatura ocidental.",
+      "importancia_en": "The Trojan War is one of the most influential events in Western literature. Homer's Iliad and Odyssey shaped Greek ethics, narrative and cultural identity — and, by extension, all of Western literature.",
+      "importancia_es": "La Guerra de Troya es uno de los eventos más influyentes de la literatura occidental.",
+      "tags": [
+        "Tróia",
+        "Homero",
+        "Ilíada",
+        "Schliemann",
+        "micênicos"
+      ],
+      "dataset": "data/dados-bronze-egeu.json"
+    },
+    {
+      "id": "beg-005",
+      "nome": "Colapso da Idade do Bronze (c. 1200 a.C.)",
+      "nome_en": "Bronze Age Collapse (c. 1200 BC)",
+      "nome_es": "Colapso de la Edad de Bronce (c. 1200 a.C.)",
+      "tipo": "evento",
+      "inicio": -1200,
+      "fim": -1150,
+      "region": "Multiple",
+      "period": "Ancient",
+      "century_start": -12,
+      "type": "natural",
+      "descricao": "Entre 1200–1150 a.C., quase todas as grandes civilizações do Mediterrâneo oriental colapsaram em poucas décadas: Micenas, o Império Hitita, Ugarit, os reinos cipriotas e o poder egípcio no Levante. As causas debatidas incluem: invasão dos 'Povos do Mar' (grupos de migração não identificados), secas prolongadas, colapso das redes de comércio e terremotos. É o maior colapso civilizacional antes da queda de Roma.",
+      "descricao_en": "Between 1200–1150 BC, nearly all major Eastern Mediterranean civilizations collapsed within a few decades: Mycenae, the Hittite Empire, Ugarit, Cypriot kingdoms and Egyptian power in the Levant. Debated causes include: 'Sea Peoples' invasion, prolonged droughts, collapse of trade networks and earthquakes. It is the greatest civilizational collapse before the fall of Rome.",
+      "descricao_es": "Entre 1200–1150 a.C., casi todas las grandes civilizaciones del Mediterráneo oriental colapsaron en pocas décadas. Las causas debatidas incluyen la invasión de los 'Pueblos del Mar', sequías prolongadas y el colapso de las redes comerciales.",
+      "importancia": "O Colapso da Idade do Bronze criou um 'século escuro' mediterrâneo de 400 anos. A recuperação desse colapso gerou a Grécia Arcaica, o alfabeto fenício e, indiretamente, toda a civilização ocidental clássica.",
+      "importancia_en": "The Bronze Age Collapse created a Mediterranean 'dark age' of 400 years. Recovery from this collapse generated Archaic Greece, the Phoenician alphabet and, indirectly, all of classical Western civilization.",
+      "importancia_es": "El Colapso de la Edad de Bronce creó una 'edad oscura' mediterránea de 400 años.",
+      "tags": [
+        "colapso",
+        "Povos do Mar",
+        "Hititas",
+        "Micenas",
+        "Bronze Age"
+      ],
+      "dataset": "data/dados-bronze-egeu.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "beg-001",
+      "destino": "beg-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Cataclismo e invasão micênica destroem a civilização minoica"
+    },
+    {
+      "origem": "beg-002",
+      "destino": "beg-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Colapso minoico deixa os micênicos como potência dominante"
+    },
+    {
+      "origem": "beg-003",
+      "destino": "beg-004",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Poder micênico projeta-se na Guerra de Tróia"
+    },
+    {
+      "origem": "beg-006",
+      "destino": "beg-005",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Colapso das redes comerciais precipita o fim do Bronze Age"
+    },
+    {
+      "origem": "beg-004",
+      "destino": "beg-005",
+      "tipo": "causalidade",
+      "intensidade": 0.6,
+      "descricao": "Guerra de Tróia é contemporânea ao colapso geral"
+    }
+  ]
+}

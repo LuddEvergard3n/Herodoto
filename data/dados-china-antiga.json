@@ -1,0 +1,170 @@
+{
+  "entidades": [
+    {
+      "id": "cha-001",
+      "nome": "Shang, Zhou e o Período dos Reinos Combatentes",
+      "nome_en": "Shang, Zhou and the Warring States Period",
+      "nome_es": "Shang, Zhou y el Período de los Reinos Combatientes",
+      "tipo": "periodo",
+      "descricao": "Shang (~1600–1046 a.C.): primeira dinastia historicamente verificada, escrita oracular em ossos de adivinhação. Zhou (1046–256 a.C.): mais longa dinastia chinesa. Período Primavera e Outono e Reinos Combatentes (770–221 a.C.): fragmentação em reinos em guerra — e o período intelectual mais rico da história chinesa: Confúcio, Laozi, Sun Tzu (A Arte da Guerra), Mozi, Mencio, Han Fei. Invenção do ferro fundido, besta, cavalaria. Mil anos de fundação da cultura política, filosófica e literária chinesa.",
+      "descricao_en": "Shang (~1600–1046 BC): first historically verified dynasty, oracle bone writing. Zhou (1046–256 BC): longest Chinese dynasty. Spring and Autumn and Warring States periods (770–221 BC): fragmentation into warring kingdoms — and the richest intellectual period in Chinese history: Confucius, Laozi, Sun Tzu (The Art of War), Mozi, Mencius, Han Fei. Invention of cast iron, crossbow, cavalry. A thousand years laying China's political, philosophical and literary culture.",
+      "descricao_es": "Shang (~1600–1046 a.C.): primera dinastía históricamente verificada, escritura en huesos oraculares. Zhou (1046–256 a.C.): la más larga. Reinos Combatientes (770–221 a.C.): Confucio, Laozi, Sun Tzu (El Arte de la Guerra). Invención del hierro fundido, la ballesta y la caballería.",
+      "inicio": -1600,
+      "fim": -221,
+      "tags": [
+        "shang",
+        "zhou",
+        "confucio",
+        "sun-tzu",
+        "reinos-combatentes"
+      ],
+      "importancia": "O Período dos Reinos Combatentes gerou Confúcio, Laozi e Sun Tzu — três pensadores que moldam a política e estratégia asiática até hoje.",
+      "century_start": -16,
+      "century_end": -3,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "A thousand years laying China's political, philosophical and literary culture.",
+      "importancia_es": "Reinos Combatientes (770–221 a.C.): Confucio, Laozi, Sun Tzu (El Arte de la Guerra). Invención del hierro fundido, la ballesta y la caballería."
+    },
+    {
+      "id": "cha-002",
+      "nome": "Qin e Han: Unificação e Expansão",
+      "nome_en": "Qin and Han: Unification and Expansion",
+      "nome_es": "Qin y Han: Unificación y Expansión",
+      "tipo": "periodo",
+      "descricao": "Qin Shi Huang (221–210 a.C.): primeiro imperador unificado da China; padronizou pesos, medidas, moeda e escrita; construiu o núcleo inicial da Grande Muralha; Exército de Terracota (7.000 guerreiros em tamanho natural). Han (206 a.C.–220 d.C.): dinastia que deu o nome ao povo han (92% da China atual). Rota da Seda inaugurada por Zhang Qian (~130 a.C.): conectou Roma à China. Invenção do papel (~105 d.C., Cai Lun). Exame imperial meritocrático: acesso à burocracia por mérito intelectual — única vez no mundo antigo.",
+      "descricao_en": "Qin Shi Huang (221–210 BC): first unified emperor; standardized weights, measures, currency and script; Terracotta Army (7,000 warriors). Han (206 BC–220 AD): Silk Road inaugurated ~130 BC. Invention of paper (~105 AD). Imperial meritocratic exam: access to bureaucracy by intellectual merit — unique in the ancient world.",
+      "descricao_es": "Qin Shi Huang (221–210 a.C.): primer emperador unificado; estandarizó pesos, medidas, moneda y escritura; Ejército de Terracota (7.000 guerreros). Han (206 a.C.–220 d.C.): Ruta de la Seda inaugurada ~130 a.C. Invención del papel (~105 d.C.). Examen imperial meritocrático: único en el mundo antiguo.",
+      "inicio": -221,
+      "fim": 220,
+      "tags": [
+        "qin",
+        "han",
+        "rota-seda",
+        "papel",
+        "grande-muralha"
+      ],
+      "importancia": "O Exame Imperial Han (única meritocracia da Antiguidade) e a invenção do papel moldaram a burocracia chinesa por 2.000 anos.",
+      "century_start": -3,
+      "century_end": 3,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "Imperial meritocratic exam: access to bureaucracy by intellectual merit — unique in the ancient world.",
+      "importancia_es": "Invención del papel (~105 d.C.). Examen imperial meritocrático: único en el mundo antiguo."
+    },
+    {
+      "id": "cha-003",
+      "nome": "Tang, Song e as Grandes Invenções",
+      "nome_en": "Tang, Song and the Great Inventions",
+      "nome_es": "Tang, Song y las Grandes Invenciones",
+      "tipo": "periodo",
+      "descricao": "Tang (618–907): China mais cosmopolita da história — Chang'an com 1 milhão de habitantes, mercadores persas, árabes, japoneses. Impressão por blocos de madeira (~700 d.C.). Wu Zetian: única imperatriz soberana da China. Song (960–1279): quatro grandes invenções chinesas completas — pólvora (armas, séc. X), bússola magnética, impressão móvel (Bi Sheng ~1040), papel-moeda. PIB per capita Song: maior do mundo em ~1100. Produção de aço em 1078 (~125.000 toneladas) maior que a Europa inteira no séc. XVIII.",
+      "descricao_en": "Tang (618–907): most cosmopolitan China in history — Chang'an with 1 million inhabitants, Persian, Arab, Japanese merchants. Block printing (~700 AD). Wu Zetian: only sovereign empress of China. Song (960–1279): four great Chinese inventions complete — gunpowder (weapons, 10th c.), magnetic compass, movable type printing (Bi Sheng ~1040), paper money. Song GDP per capita: world's highest ~1100. Steel production in 1078 (~125,000 tons) greater than all of Europe in the 18th century.",
+      "descricao_es": "Tang (618–907): Chang'an, 1 millón de hab., la más cosmopolita de la historia. Song (960–1279): las cuatro grandes invenciones — pólvora, brújula, imprenta de tipos móviles (Bi Sheng ~1040), papel moneda. PIB per cápita Song: mayor del mundo en ~1100. Producción de acero en 1078 mayor que toda Europa en el siglo XVIII.",
+      "inicio": 618,
+      "fim": 1279,
+      "tags": [
+        "tang",
+        "song",
+        "polvora",
+        "bussola",
+        "impressao",
+        "papel-moeda"
+      ],
+      "importancia": "A China Song produziu mais aço em 1078 do que a Europa inteira no séc. XVIII — a Revolução Industrial foi, em parte, uma redescoberta tecnológica.",
+      "century_start": 7,
+      "century_end": 13,
+      "region": "EastAsia",
+      "type": "technological",
+      "period": "Medieval",
+      "importancia_en": "Steel production in 1078 (~125,000 tons) greater than all of Europe in the 18th century.",
+      "importancia_es": "Producción de acero en 1078 mayor que toda Europa en el siglo XVIII."
+    },
+    {
+      "id": "cha-004",
+      "nome": "Ming, Qing e o Isolamento Estratégico",
+      "nome_en": "Ming, Qing and Strategic Isolation",
+      "nome_es": "Ming, Qing y el Aislamiento Estratégico",
+      "tipo": "periodo",
+      "descricao": "Ming (1368–1644): expulsou mongóis, construiu Grande Muralha definitiva. Zheng He (1405–1433): armada de 300 navios (maior que a Armada Espanhola por 150 anos); chegou à África Oriental antes de Vasco da Gama. Decisão de isolar-se (~1433): queima dos registros navais, proibição de navios oceânicos — China abandonou voluntariamente o domínio dos mares. Qing (1644–1912): última dinastia, manchuriana; Kangxi e Qianlong: expansão para Xinjiang, Tibete, Mongólia. Guerras do Ópio (1839–42, 1856–60): China humilhada pela Grã-Bretanha — primeiro choque da modernidade.",
+      "descricao_en": "Ming (1368–1644): expelled Mongols, built the definitive Great Wall. Zheng He (1405–1433): fleet of 300 ships (larger than the Spanish Armada by 150 years); reached East Africa before Vasco da Gama. Decision to isolate (~1433): burning of naval records, ban on ocean ships — China voluntarily abandoned sea dominance. Qing (1644–1912): last dynasty, Manchu; Kangxi and Qianlong: expansion into Xinjiang, Tibet, Mongolia. Opium Wars (1839–42, 1856–60): China humiliated by Britain — first shock of modernity.",
+      "descricao_es": "Ming (1368–1644): Zheng He (1405–1433), armada de 300 navíos; llegó a África Oriental antes que Vasco da Gama. Decisión de aislarse (~1433): China abandonó voluntariamente el dominio de los mares. Qing (1644–1912): Guerras del Opio (1839–42, 1856–60) — primer choque de la modernidad.",
+      "inicio": 1368,
+      "fim": 1912,
+      "tags": [
+        "ming",
+        "qing",
+        "zheng-he",
+        "guerras-opio",
+        "isolamento"
+      ],
+      "importancia": "Zheng He chegou à África em 1418 — 77 anos antes de Vasco da Gama. A decisão de isolar-se em 1433 alterou o curso da história global.",
+      "century_start": 14,
+      "century_end": 20,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Opium Wars (1839–42, 1856–60): China humiliated by Britain — first shock of modernity.",
+      "importancia_es": "Qing (1644–1912): Guerras del Opio (1839–42, 1856–60) — primer choque de la modernidad."
+    },
+    {
+      "id": "cha-005",
+      "nome": "República, Mao e a China Contemporânea",
+      "nome_en": "Republic, Mao and Contemporary China",
+      "nome_es": "República, Mao y la China Contemporánea",
+      "tipo": "periodo",
+      "descricao": "República (1912–1949): Sun Yat-sen, fragmentação em senhores da guerra, invasão japonesa (1931–1945) — ~14 milhões de mortos. Guerra civil KMT vs PCC (1927–1949): vitória de Mao. República Popular (1949–): Grande Salto Adiante (1958–62) — coletivização forçada causou ~15-55 milhões de mortos por fome. Revolução Cultural (1966–76): destruição sistemática de patrimônio e intelectuais. Reformas de Deng Xiaoping (1978–): abertura econômica mantendo controle político. De 1978 a 2023: ~800 milhões de pessoas saíram da pobreza — maior redução de pobreza da história.",
+      "descricao_en": "Republic (1912–1949): Sun Yat-sen, warlord fragmentation, Japanese invasion (1931–1945) — ~14 million deaths. Civil war KMT vs CCP (1927–1949): Mao's victory. People's Republic (1949–): Great Leap Forward (1958–62) — forced collectivization caused ~15-55 million famine deaths. Cultural Revolution (1966–76): systematic destruction of heritage and intellectuals. Deng Xiaoping reforms (1978–): economic opening with retained political control. From 1978 to 2023: ~800 million lifted from poverty — largest poverty reduction in history.",
+      "descricao_es": "República (1912–1949): invasión japonesa ~14 millones de muertos. Guerra civil: victoria de Mao. Gran Salto Adelante (1958–62): ~15-55 millones de muertos por hambre. Revolución Cultural (1966–76). Reformas de Deng Xiaoping (1978–): de 1978 a 2023, ~800 millones salieron de la pobreza — mayor reducción de pobreza de la historia.",
+      "inicio": 1912,
+      "fim": 2023,
+      "tags": [
+        "mao",
+        "deng",
+        "prc",
+        "grande-salto",
+        "revolucao-cultural"
+      ],
+      "importancia": "As reformas de Deng Xiaoping (1978): 800 milhões saíram da pobreza em 40 anos — e recolocaram a China como a segunda maior economia do mundo.",
+      "century_start": 20,
+      "century_end": 21,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "From 1978 to 2023: ~800 million lifted from poverty — largest poverty reduction in history.",
+      "importancia_es": "Reformas de Deng Xiaoping (1978–): de 1978 a 2023, ~800 millones salieron de la pobreza — mayor reducción de pobreza de la historia."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "cha-001",
+      "destino": "cha-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Reinos Combatentes criaram as condições para a unificação de Qin Shi Huang"
+    },
+    {
+      "origem": "cha-002",
+      "destino": "cha-003",
+      "tipo": "evolucao",
+      "intensidade": 0.8,
+      "descricao": "Han estabeleceu a administração imperial que Tang e Song aperfeiçoaram"
+    },
+    {
+      "origem": "cha-003",
+      "destino": "cha-004",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Invenções Song (pólvora, bússola) foram transmitidas ao Ocidente via rotas mongolesas e islâmicas"
+    },
+    {
+      "origem": "cha-004",
+      "destino": "cha-005",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Humilhação Qing nas Guerras do Ópio alimentou o nacionalismo que culminou na Revolução de 1911 e depois em Mao"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "entidades": [
+    {
+      "id": "jpf-001",
+      "nome": "Japão Antigo: Nara, Heian e o Clã Fujiwara",
+      "nome_en": "Ancient Japan: Nara, Heian and the Fujiwara Clan",
+      "nome_es": "Japón Antiguo: Nara, Heian y el Clan Fujiwara",
+      "tipo": "periodo",
+      "descricao": "Nara (710–794): primeiro Estado centralizado japonês; adoção massiva do budismo e escrita chinesa. Heian (794–1185): corte refinada em Kyoto; Lady Murasaki Shikibu escreveu Genji Monogatari (~1000 d.C.) — considerado o primeiro romance psicológico da história. Fujiwara: família aristocrática que governou como regentes por 200 anos sem título imperial. Arte waka, teatro Noh, jardins zen. Cultura cortesã que molda a identidade estética japonesa até hoje.",
+      "descricao_en": "Nara (710–794): first centralized Japanese state; massive adoption of Buddhism and Chinese writing. Heian (794–1185): refined court in Kyoto; Lady Murasaki Shikibu wrote The Tale of Genji (~1000 AD) — considered the world's first psychological novel. Fujiwara: aristocratic family that ruled as regents for 200 years without imperial title. Waka art, Noh theater, Zen gardens. Court culture that shapes Japanese aesthetic identity to this day.",
+      "descricao_es": "Nara (710–794): primer Estado centralizado japonés. Heian (794–1185): Lady Murasaki Shikibu escribió Genji Monogatari (~1000 d.C.) — considerado el primer novel psicológica de la historia. Fujiwara: familia que gobernó como regentes 200 años. Arte waka, teatro Noh, jardines zen.",
+      "inicio": 710,
+      "fim": 1185,
+      "tags": [
+        "heian",
+        "nara",
+        "fujiwara",
+        "genji",
+        "budismo"
+      ],
+      "importancia": "O período de Nara-Heian (710-1185) foi a era de máxima influência chinesa no Japão — e paradoxalmente o momento em que a identidade japonesa mais se consolidou. Os japoneses adotaram o budismo, o confucionismo, a escrita chinesa e a arquitetura Tang — e os transformaram em algo inconfundivelmente japonês. O kana (silabário japonês derivado do kanji) foi criado para escrever japonês, não chinês; a literatura Heian das damas da corte é radicalmente diferente de qualquer literatura chinesa. A capacidade japonesa de absorver e transformar influências externas define sua civilização.",
+      "century_start": 8,
+      "century_end": 12,
+      "region": "EastAsia",
+      "type": "cultural",
+      "period": "Medieval",
+      "importancia_en": "Court culture that shapes Japanese aesthetic identity to this day.",
+      "importancia_es": "Fujiwara: familia que gobernó como regentes 200 años. Arte waka, teatro Noh, jardines zen."
+    },
+    {
+      "id": "jpf-002",
+      "nome": "Xogunato, Samurais e a Era Sengoku",
+      "nome_en": "Shogunate, Samurai and the Sengoku Era",
+      "nome_es": "Shogunato, Samurái y la Era Sengoku",
+      "tipo": "periodo",
+      "descricao": "Período Kamakura (1185–1333): primeiro xogunato — governo militar paralelo ao Imperador. Classe samurai: código bushido (lealdade, honra, morte honrosa). Dois ataques mongóis (1274, 1281): ambos destruídos por tufões — os kamikaze (ventos divinos). Sengoku (1467–1615): 150 anos de guerras civis entre daimios. Nobunaga Oda, Toyotomi Hideyoshi (unificou o Japão) e Tokugawa Ieyasu: os três unificadores. Dois insucessos de conquista da Coreia (1592, 1597). Xogunato Tokugawa (1603–1868): 265 anos de paz e isolamento voluntário.",
+      "descricao_en": "Kamakura Period (1185–1333): first shogunate — military government parallel to Emperor. Samurai class: bushido code (loyalty, honor, honorable death). Two Mongol attacks (1274, 1281): both destroyed by typhoons — the kamikaze (divine winds). Sengoku (1467–1615): 150 years of civil wars between daimyo. Nobunaga Oda, Toyotomi Hideyoshi (unified Japan) and Tokugawa Ieyasu: the three unifiers. Two failed conquests of Korea (1592, 1597). Tokugawa Shogunate (1603–1868): 265 years of peace and voluntary isolation.",
+      "descricao_es": "Kamakura (1185–1333): primer shogunato. Clase samurái: código bushido. Ataques mongoles (1274, 1281): destruidos por tifones — los kamikaze. Sengoku (1467–1615): 150 años de guerras civiles. Nobunaga, Hideyoshi y Tokugawa: los tres unificadores. Shogunato Tokugawa (1603–1868): 265 años de paz y aislamiento.",
+      "inicio": 1185,
+      "fim": 1868,
+      "tags": [
+        "samurai",
+        "sengoku",
+        "tokugawa",
+        "bushido",
+        "kamikaze"
+      ],
+      "importancia": "Os dois ataques mongóis destruídos por tufões (1274, 1281) convenceram os japoneses de proteção divina — mito que ressurgiu em 1944-45.",
+      "century_start": 12,
+      "century_end": 19,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Tokugawa Shogunate (1603–1868): 265 years of peace and voluntary isolation.",
+      "importancia_es": "Shogunato Tokugawa (1603–1868): 265 años de paz y aislamiento."
+    },
+    {
+      "id": "jpf-003",
+      "nome": "Meiji, Imperialismo e Segunda Guerra no Pacífico",
+      "nome_en": "Meiji, Imperialism and WWII in the Pacific",
+      "nome_es": "Meiji, Imperialismo y la Segunda Guerra en el Pacífico",
+      "tipo": "periodo",
+      "descricao": "Restauração Meiji (1868): industrialização deliberada em 30 anos — único país não ocidental a modernizar-se sem colonização. Adotou Constituição prussiana, marinha britânica, exército francês. Guerras imperialistas: derrota da China (1895, Taiwan), Rússia (1905, Manchúria) — primeiro país asiático a vencer potência europeia. Ocupação da Manchúria (1931), China (1937): ~10-25 milhões de mortos. Pearl Harbor (7 dez 1941): atacou EUA. Hiroshima e Nagasaki (ago 1945). Constituição pacifista de 1947 (Artigo 9): renúncia à guerra — permanece em vigor.",
+      "descricao_en": "Meiji Restoration (1868): deliberate industrialization in 30 years — only non-Western country to modernize without colonization. Adopted Prussian constitution, British navy, French army. Imperialist wars: defeated China (1895, Taiwan), Russia (1905, Manchuria) — first Asian country to defeat a European power. Occupation of Manchuria (1931), China (1937): ~10-25 million deaths. Pearl Harbor (Dec 7, 1941): attacked US. Hiroshima and Nagasaki (Aug 1945). 1947 pacifist constitution (Article 9): renunciation of war — still in force.",
+      "descricao_es": "Restauración Meiji (1868): industrialización deliberada en 30 años — único país no occidental en modernizarse sin colonización. Derrotó a China (1895) y Rusia (1905). Ocupación de China (1937): ~10-25 millones de muertos. Pearl Harbor (7 dic 1941). Hiroshima y Nagasaki (ago 1945). Constitución pacifista de 1947 (Artículo 9): vigente hasta hoy.",
+      "inicio": 1868,
+      "fim": 1947,
+      "tags": [
+        "meiji",
+        "pearl-harbor",
+        "hiroshima",
+        "pacifico"
+      ],
+      "importancia": "Japão Meiji: único caso de modernização industrial acelerada sem colonização ocidental — modelo estudado por Coreia, Turquia e China.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "1947 pacifist constitution (Article 9): renunciation of war — still in force.",
+      "importancia_es": "Constitución pacifista de 1947 (Artículo 9): vigente hasta hoy."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "jpf-001",
+      "destino": "jpf-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "A decadência da corte Heian abriu espaço para os clãs guerreiros que criaram o xogunato"
+    },
+    {
+      "origem": "jpf-002",
+      "destino": "jpf-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A chegada das naus negras americanas (1853) quebrou o isolamento Tokugawa e precipitou a Restauração Meiji"
+    }
+  ]
+}

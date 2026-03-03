@@ -1,0 +1,136 @@
+{
+  "entidades": [
+    {
+      "id": "hit-001",
+      "nome": "O Surgimento dos Hititas e o Primeiro Uso do Ferro (1700–1500 a.C.)",
+      "nome_en": "The Rise of the Hittites and the First Use of Iron (1700–1500 BC)",
+      "nome_es": "El Surgimiento de los Hititas y el Primer Uso del Hierro (1700–1500 a.C.)",
+      "tipo": "periodo",
+      "inicio": -1700,
+      "fim": -1500,
+      "descricao": "Os Hititas formaram um dos primeiros impérios da Ásia Menor (atual Turquia), com capital em Hattusa. Foram os primeiros povos a trabalhar o ferro em escala significativa — mantiveram esse conhecimento como segredo estratégico por séculos, dando vantagem militar sobre vizinhos armados com bronze. Língua indo-européia (hitita) — a mais antiga registrada dessa família linguística. Sistema legal (Código Hitita) notável por penas mais brandas que o Código de Hamurabi: indenizações em vez de morte para muitos crimes. Relações diplomáticas com Egito e Mitani — as primeiras correspondências diplomáticas internacionais (Arquivo de Amarna, séc. XIV a.C.).",
+      "descricao_en": "The Hittites formed one of the first empires of Asia Minor (modern Turkey), with their capital at Hattusa. They were the first people to work iron at significant scale — they kept this knowledge as a strategic secret for centuries, giving military advantage over neighbors armed with bronze. They spoke an Indo-European language (Hittite) — the oldest recorded member of that language family. Their legal code was notable for milder penalties than Hammurabi's Code.",
+      "descricao_es": "Los hititas formaron uno de los primeros imperios de Asia Menor (Turquía actual), con capital en Hatusa. Fueron los primeros pueblos en trabajar el hierro a escala significativa — mantuvieron este conocimiento como secreto estratégico durante siglos. Su lengua indoeuropea (hitita) es el miembro más antiguo registrado de esa familia lingüística.",
+      "importancia": "O monopólio hitita do ferro (1400–1200 a.C.) foi a primeira vantagem tecnológica militarmente decisiva da história — antecipando o papel das tecnologias de duplo uso no poder estatal moderno.",
+      "importancia_en": "The Hittite iron monopoly (1400–1200 BC) was the first militarily decisive technological advantage in history — anticipating the role of dual-use technologies in modern state power.",
+      "importancia_es": "El monopolio hitita del hierro (1400–1200 a.C.) fue la primera ventaja tecnológica militarmente decisiva de la historia — anticipando el papel de las tecnologías de doble uso en el poder estatal moderno.",
+      "tags": [
+        "hititas",
+        "ferro",
+        "anatolia",
+        "hattusa",
+        "bronze"
+      ],
+      "century_start": -17,
+      "century_end": -15,
+      "region": "MiddleEast",
+      "type": "political",
+      "period": "BronzeAge"
+    },
+    {
+      "id": "hit-002",
+      "nome": "Batalha de Kadesh e o Primeiro Tratado de Paz da História (1274 a.C.)",
+      "nome_en": "Battle of Kadesh and the World's First Peace Treaty (1274 BC)",
+      "nome_es": "Batalla de Qadesh y el Primer Tratado de Paz de la Historia (1274 a.C.)",
+      "tipo": "evento",
+      "inicio": -1274,
+      "fim": -1259,
+      "descricao": "A Batalha de Kadesh (1274 a.C.) foi o maior confronto de carros de guerra da Antiguidade: Ramsés II do Egito vs. Muwatalli II dos Hititas — ~5.000–6.000 carros de guerra no total. Resultado indeciso militarmente, mas ambos os lados proclamaram vitória em suas inscrições. O Tratado de Kadesh (1259 a.C.) — assinado 15 anos depois — é o tratado de paz internacional mais antigo que sobreviveu completo. Cópias em egípcio hieroglífico (no templo de Karnak e no Rameseum) e em acadiano cuneiforme (descoberto em Hattusa em 1906). Uma réplica do tratado está exposta na sede da ONU em Nova York.",
+      "descricao_en": "The Battle of Kadesh (1274 BC) was the largest chariot battle of antiquity: Ramesses II of Egypt vs. Muwatalli II of the Hittites — ~5,000–6,000 chariots total. Militarily inconclusive, both sides proclaimed victory. The Treaty of Kadesh (1259 BC) — signed 15 years later — is the oldest surviving complete international peace treaty. A replica hangs in the UN headquarters in New York.",
+      "descricao_es": "La Batalla de Qadesh (1274 a.C.) fue el mayor enfrentamiento de carros de guerra de la Antigüedad: Ramsés II vs. Muwatalli II — ~5.000–6.000 carros en total. El Tratado de Qadesh (1259 a.C.) es el tratado de paz internacional más antiguo que se conserva completo. Una réplica está expuesta en la sede de la ONU en Nueva York.",
+      "importancia": "O Tratado de Kadesh (1259 a.C.) estabeleceu o precedente de que potências em equilíbrio de forças preferem acordos negociados à guerra de extermínio — modelo direto para o conceito moderno de equilíbrio de poder e segurança coletiva.",
+      "importancia_en": "The Treaty of Kadesh (1259 BC) established the precedent that powers in a balance of forces prefer negotiated agreements to wars of annihilation — a direct model for the modern concept of balance of power and collective security.",
+      "importancia_es": "El Tratado de Qadesh (1259 a.C.) estableció el precedente de que las potencias en equilibrio de fuerzas prefieren acuerdos negociados a las guerras de exterminio — modelo directo del concepto moderno de equilibrio de poder y seguridad colectiva.",
+      "tags": [
+        "kadesh",
+        "ramses",
+        "hititas",
+        "tratado-paz",
+        "carros-guerra"
+      ],
+      "century_start": -13,
+      "century_end": -13,
+      "region": "MiddleEast",
+      "type": "war",
+      "period": "BronzeAge"
+    },
+    {
+      "id": "hit-003",
+      "nome": "Colapso da Idade do Bronze (1200–1150 a.C.): O Maior Colapso Civilizacional da Antiguidade",
+      "nome_en": "Bronze Age Collapse (1200–1150 BC): The Greatest Civilizational Collapse of Antiquity",
+      "nome_es": "Colapso de la Edad del Bronce (1200–1150 a.C.): El Mayor Colapso Civilizacional de la Antigüedad",
+      "tipo": "periodo",
+      "inicio": -1200,
+      "fim": -1150,
+      "descricao": "Ao redor de 1200 a.C., todas as civilizações avançadas do Mediterrâneo Oriental colapsaram simultaneamente: Hititas (capital Hattusa destruída e abandonada), Micenas (todos os palácios incendiados), Ugarit (destruída, nunca reerguida), Chipre (destruído), Egito (enfraquecido gravemente), Babilônia (enfraquecida). Possíveis causas (debatidas): 'Povos do Mar' (invasores não identificados), colapso de redes de comércio de longa distância, terremotos, seca prolongada (evidências paleoclimáticas), rebeliões internas. A escrita Linear B (grego micênico) e a escrita cuneiforme em Ugarit desapareceram. A tecnologia do cobre e do bronze foi substituída pelo ferro mais barato e amplamente disponível. Os 400 anos seguintes são chamados de 'Idades das Trevas' gregas — com declínio populacional e perda de escrita.",
+      "descricao_en": "Around 1200 BC, every advanced civilization in the Eastern Mediterranean collapsed simultaneously: Hittites (Hattusa destroyed and abandoned), Mycenae (all palaces burned), Ugarit (destroyed, never rebuilt), Cyprus (destroyed), Egypt (severely weakened), Babylon (weakened). Possible causes (debated): 'Sea Peoples' (unidentified invaders), collapse of long-distance trade networks, earthquakes, prolonged drought (paleoclimatic evidence), internal rebellions. Linear B writing and cuneiform at Ugarit disappeared. The following 400 years are called the Greek 'Dark Ages' — with population decline and loss of writing.",
+      "descricao_es": "Alrededor de 1200 a.C., todas las civilizaciones avanzadas del Mediterráneo oriental colapsaron simultáneamente: hititas (Hatusa destruida), Micenas (todos los palacios incendiados), Ugarit (destruida, nunca reconstruida), Egipto (gravemente debilitado). Posibles causas (debatidas): 'Pueblos del Mar', colapso de redes comerciales, terremotos, sequía prolongada, rebeliones internas. Los siguientes 400 años son las 'Edades Oscuras' griegas.",
+      "importancia": "O Colapso da Idade do Bronze é o único exemplo histórico de colapso civilizacional total e simultâneo em múltiplas civilizações avançadas — seu estudo é central para debates modernos sobre resiliência sistêmica e colapso de cadeias de suprimentos globais.",
+      "importancia_en": "The Bronze Age Collapse is the only historical example of total and simultaneous civilizational collapse across multiple advanced civilizations — its study is central to modern debates about systemic resilience and the fragility of global supply chains.",
+      "importancia_es": "El Colapso de la Edad del Bronce es el único ejemplo histórico de colapso civilizacional total y simultáneo en múltiples civilizaciones avanzadas — su estudio es central para los debates modernos sobre resiliencia sistémica y la fragilidad de las cadenas de suministro globales.",
+      "tags": [
+        "colapso-bronze",
+        "povos-do-mar",
+        "micenas",
+        "ugarit",
+        "hititas",
+        "idades-trevas"
+      ],
+      "century_start": -12,
+      "century_end": -12,
+      "region": "Mediterranean",
+      "type": "war",
+      "period": "BronzeAge"
+    },
+    {
+      "id": "hit-004",
+      "nome": "Povos do Mar: Migrações e a Reorganização do Mediterrâneo (1200–1000 a.C.)",
+      "nome_en": "Sea Peoples: Migrations and the Mediterranean Reorganization (1200–1000 BC)",
+      "nome_es": "Pueblos del Mar: Migraciones y la Reorganización del Mediterráneo (1200–1000 a.C.)",
+      "tipo": "periodo",
+      "inicio": -1200,
+      "fim": -1000,
+      "descricao": "Os 'Povos do Mar' (termo egípcio) foram grupos de migrantes/invasores não completamente identificados que atacaram o Egito (reinados de Merneptah e Ramsés III, ~1208–1176 a.C.). Registros egípcios em Medinet Habu (templo de Ramsés III) são a principal fonte. Prováveis origens: Egeu, Anatólia, Chipre, Sardenha. Grupos identificados nos textos: Peleset (possivelmente os filisteus bíblicos, que se estabeleceram em Canaã), Tjeker, Shekelesh, Weshesh, Denyen. Consequências: os filisteus estabeleceram cidades-estado em Gaza, Ashkelon, Ashdod, Gath, Ekron — entrando em conflito com os israelitas (historiado na Bíblia). Os fenícios emergiram como poder comercial dominant no Mediterrâneo oriental pós-colapso.",
+      "descricao_en": "The 'Sea Peoples' (Egyptian term) were groups of migrants/invaders not completely identified who attacked Egypt (reigns of Merneptah and Ramesses III, ~1208–1176 BC). Egyptian records at Medinet Habu are the primary source. Probable origins: Aegean, Anatolia, Cyprus, Sardinia. The Peleset (possibly the biblical Philistines) settled in Canaan. The Phoenicians emerged as the dominant commercial power in the post-collapse Eastern Mediterranean.",
+      "descricao_es": "Los 'Pueblos del Mar' (término egipcio) fueron grupos de migrantes/invasores no completamente identificados que atacaron Egipto (~1208–1176 a.C.). Los Peleset (posiblemente los filisteos bíblicos) se asentaron en Canaán. Los fenicios emergieron como potencia comercial dominante en el Mediterráneo oriental poscolapso.",
+      "importancia": "Os Povos do Mar são o exemplo mais antigo de migração em massa causada por colapso sistêmico — um fenômeno que se repetiria nas migrações germânicas do século V d.C. e nas migrações modernas causadas por guerras e mudanças climáticas.",
+      "importancia_en": "The Sea Peoples are the earliest example of mass migration caused by systemic collapse — a phenomenon that would recur in the Germanic migrations of the 5th century AD and in modern migrations caused by wars and climate change.",
+      "importancia_es": "Los Pueblos del Mar son el primer ejemplo de migración masiva causada por colapso sistémico — un fenómeno que se repetiría en las migraciones germánicas del siglo V d.C. y en las migraciones modernas causadas por guerras y cambio climático.",
+      "tags": [
+        "povos-do-mar",
+        "fenícios",
+        "filisteus",
+        "colapso-bronze",
+        "mediterrâneo"
+      ],
+      "century_start": -12,
+      "century_end": -10,
+      "region": "Mediterranean",
+      "type": "war",
+      "period": "BronzeAge"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "hit-001",
+      "destino": "hit-002",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "O poder militar hitita (ferro) possibilitou o equilíbrio de forças que gerou Kadesh"
+    },
+    {
+      "origem": "hit-002",
+      "destino": "hit-003",
+      "tipo": "causalidade",
+      "intensidade": 0.6,
+      "descricao": "O equilíbrio hitita-egípcio foi destruído pelo colapso do Bronze"
+    },
+    {
+      "origem": "hit-003",
+      "destino": "hit-004",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "O colapso gerou migrações em massa — os Povos do Mar"
+    }
+  ]
+}

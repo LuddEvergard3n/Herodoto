@@ -1,0 +1,230 @@
+{
+  "entidades": [
+    {
+      "id": "india-001",
+      "nome": "Civilização do Vale do Indo (Harappa)",
+      "nome_en": "Indus Valley Civilization (Harappa)",
+      "nome_es": "Civilización del Valle del Indo (Harappa)",
+      "tipo": "periodo",
+      "descricao": "Uma das primeiras civilizações urbanas do mundo (~3300-1300 a.C.). Cidades planejadas com rede de esgoto: Harappa, Mohenjo-Daro (40.000 habitantes). Sistema de pesos e medidas padronizado. Escrita do Indo (ainda não decifrada). Sem evidências de palácio, templo centralizado ou guerra em grande escala. Declínio ~1700 a.C.: seca, mudança de curso dos rios, possivelmente epidemias. Redescoberta apenas em 1921.",
+      "descricao_en": "One of the world's first urban civilizations (~3300-1300 BC). Planned cities with sewage systems: Harappa, Mohenjo-Daro (40,000 inhabitants). Standardized weights and measures system. Indus script (still undeciphered). No evidence of palace, centralized temple, or large-scale war. Decline ~1700 BC: drought, river course changes, possibly epidemics. Only rediscovered in 1921.",
+      "descricao_es": "Una de las primeras civilizaciones urbanas (~3300-1300 a.C.). Ciudades planificadas con alcantarillado: Harappa, Mohenjo-Daro (40.000 habitantes). Escritura del Indo (aún sin descifrar). Sin evidencias de palacio, templo centralizado o guerra a gran escala. Descubierta solo en 1921.",
+      "inicio": -3300,
+      "fim": -1300,
+      "tags": [
+        "harappa",
+        "vale-indo",
+        "urbanismo",
+        "india-antiga"
+      ],
+      "importancia": "Harappa e Mohenjo-Daro (2600-1900 a.C.) são as cidades mais bem planejadas da Antiguidade: esgotos cobertos, redes de drenagem, pesos padronizados, graneiros públicos — e nenhum palácio monumental nem arma de guerra encontrados. Uma civilização urbana de 50.000+ pessoas aparentemente sem exército e sem rei identificável é anomalia histórica profunda. Seu colapso ainda é mistério (mudança do curso do rio Indo? invasões? mudança climática?); sua escrita permanece não decifrada. Sabemos que existiu — e quase nada mais.",
+      "century_start": -33,
+      "century_end": -13,
+      "region": "SouthAsia",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "Decline ~1700 BC: drought, river course changes, possibly epidemics.",
+      "importancia_es": "Sin evidencias de palacio, templo centralizado o guerra a gran escala."
+    },
+    {
+      "id": "india-002",
+      "nome": "Império Máuria e Ashoka",
+      "nome_en": "Maurya Empire and Ashoka",
+      "nome_es": "Imperio Maurya y Ashoka",
+      "tipo": "periodo",
+      "descricao": "Chandragupta Máuria (322 a.C.): fundou o primeiro império pan-indiano após as conquistas de Alexandre Magno. Arthashastra de Chanakya: tratado de ciência política realista. Ashoka (r. 268-232 a.C.): após a sangrenta Batalha de Kalinga (260.000 mortos), converteu-se ao budismo e adotou ahimsa. Edictos em pilares de pedra em todo o subcontinente. Enviou missionários budistas ao Ceilão, Grécia, Síria. Modelo histórico de soberano arrependido.",
+      "descricao_en": "Chandragupta Maurya (322 BC): founded the first pan-Indian empire after Alexander the Great's conquests. Arthashastra by Chanakya: realistic political science treatise. Ashoka (r. 268-232 BC): after the bloody Battle of Kalinga (260,000 dead), converted to Buddhism and adopted ahimsa. Stone pillar edicts throughout the subcontinent. Sent Buddhist missionaries to Ceylon, Greece, Syria. Historical model of repentant sovereign.",
+      "descricao_es": "Chandragupta Maurya (322 a.C.): fundó el primer imperio pan-indio. Arthashastra de Chanakya. Ashoka (268-232 a.C.): tras la sangrienta Batalla de Kalinga, se convirtió al budismo y adoptó ahimsa. Edictos en pilares de piedra. Envió misioneros budistas. Modelo histórico de soberano arrepentido.",
+      "inicio": -322,
+      "fim": -185,
+      "tags": [
+        "maurya",
+        "ashoka",
+        "budismo",
+        "india"
+      ],
+      "importancia": "Ashoka (268-232 a.C.) foi o único imperador da história a abandonar a conquista militar após uma vitória e converter-se ao pacifismo budista — após o massacre de Kalinga (100.000 mortos). Seus Edictos em pedra são o primeiro código de ética de governo da história: tolerância religiosa, bem-estar dos animais, hospitais para humanos e animais, embaixadas de paz. A roda de Ashoka (Dharmachakra) está na bandeira da Índia moderna. Seu reinado levantou a questão que nenhum governante respondeu satisfatoriamente: uma política eficaz pode ser genuinamente ética?",
+      "century_start": -4,
+      "century_end": -2,
+      "region": "SouthAsia",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "Sent Buddhist missionaries to Ceylon, Greece, Syria. Historical model of repentant sovereign.",
+      "importancia_es": "Ashoka (268-232 a.C.): tras la sangrienta Batalla de Kalinga, se convirtió al budismo y adoptó ahimsa. Modelo histórico de soberano arrepentido."
+    },
+    {
+      "id": "india-003",
+      "nome": "Período Gupta: Idade de Ouro Indiana",
+      "nome_en": "Gupta Period: Indian Golden Age",
+      "nome_es": "Período Gupta: Edad de Oro India",
+      "tipo": "periodo",
+      "descricao": "Dinastia Gupta (320-550 d.C.): florrescimento cultural sem precedentes. Aryabhata: calculou π com precisão, propôs rotação da Terra, base do sistema numérico decimal que o mundo usa hoje (incluindo o 'zero'). Kalidasa: maior dramaturgo sânscrito. Medicina ayurvédica sistematizada. Nalanda: universidade com 10.000 estudantes de toda a Ásia. Escultura hindu clássica. Invasão dos Hunos Brancos (~450 d.C.) encerrou o período.",
+      "descricao_en": "Gupta Dynasty (320-550 AD): unprecedented cultural flourishing. Aryabhata: calculated π accurately, proposed Earth's rotation, basis of the decimal number system the world uses today (including 'zero'). Kalidasa: greatest Sanskrit playwright. Systematized Ayurvedic medicine. Nalanda: university with 10,000 students from across Asia. Classical Hindu sculpture. White Hun invasion (~450 AD) ended the period.",
+      "descricao_es": "Dinastía Gupta (320-550 d.C.): florecimiento cultural sin precedentes. Aryabhata: calculó π con precisión, propuso la rotación de la Tierra, base del sistema numérico decimal (incluyendo el 'cero'). Kalidasa: mayor dramaturgo sánscrito. Universidad de Nalanda: 10.000 estudiantes.",
+      "inicio": 320,
+      "fim": 550,
+      "tags": [
+        "gupta",
+        "india",
+        "matematica",
+        "zero"
+      ],
+      "importancia": "A Época de Ouro Gupta (320-550 d.C.) foi o Renascimento da Índia: Kalidasa escreveu dramas e poemas comparados a Shakespeare; Aryabhata calculou π com precisão e propôs que a Terra girava em torno do próprio eixo (mil anos antes de Copérnico); matemáticos gupta inventaram o sistema decimal com zero que o mundo usa hoje. Que esse sistema viajou para a Europa via árabe — tornando-se 'algarismos arábicos' — é uma das maiores ironias da história do conhecimento: a invenção indiana viajou disfarçada de árabe.",
+      "century_start": 4,
+      "century_end": 6,
+      "region": "SouthAsia",
+      "type": "intellectual",
+      "period": "Ancient",
+      "importancia_en": "Nalanda: university with 10,000 students from across Asia. White Hun invasion (~450 AD) ended the period.",
+      "importancia_es": "Kalidasa: mayor dramaturgo sánscrito. Universidad de Nalanda: 10.000 estudiantes."
+    },
+    {
+      "id": "india-004",
+      "nome": "Sultanato de Délhi e Invasões Islâmicas",
+      "nome_en": "Delhi Sultanate and Islamic Invasions",
+      "nome_es": "Sultanato de Delhi e Invasiones Islámicas",
+      "tipo": "periodo",
+      "descricao": "Primeiro sultanato islâmico na Índia (1206-1526). Muhammad Ghori: conquistas (1175-1206) que islamizaram o norte da Índia. Cinco dinastias: Escravos, Khilji, Tughlaq, Sayyid, Lodi. Alauddin Khilji repeliu os mongóis (1299-1306). Tamerlão saqueou Delhi (1398): 100.000 mortos. Sincretismo crescente: música, arquitetura, vocabulário (urdu). Luta constante entre sultanato e reinos hindus (Vijayanagara). Base para o Mogol.",
+      "descricao_en": "First Islamic sultanate in India (1206-1526). Muhammad Ghori: conquests (1175-1206) that Islamized northern India. Five dynasties: Slaves, Khilji, Tughlaq, Sayyid, Lodi. Alauddin Khilji repelled the Mongols (1299-1306). Timur sacked Delhi (1398): 100,000 dead. Growing syncretism: music, architecture, vocabulary (Urdu). Constant struggle between sultanate and Hindu kingdoms (Vijayanagara). Basis for the Mughal.",
+      "descricao_es": "Primer sultanato islámico en India (1206-1526). Muhammad Ghori islamizó el norte de la India. Alauddin Khilji repelió a los mongoles. Tamerlán saqueó Delhi (1398). Creciente sincretismo: música, arquitectura, vocabulario (urdu). Base para el Imperio Mogol.",
+      "inicio": 1206,
+      "fim": 1526,
+      "tags": [
+        "sultanato-delhi",
+        "india",
+        "islamismo",
+        "sincretismo"
+      ],
+      "importancia": "O Sultanato de Delhi (1206-1526) foi o primeiro Estado islâmico de grande escala na Índia — e o que tornou a eventual conquista mogol possível ao criar infraestrutura administrativa islâmica. A tensão entre a maioria hindu e a minoria governante islâmica que o Sultanato inaugurou moldou a política sul-asiática por 800 anos. A partilha da Índia em 1947 — Índia hindu e Paquistão islâmico — foi a culminação de uma divisão que o Sultanato de Delhi havia tornado estrutural.",
+      "century_start": 13,
+      "century_end": 16,
+      "region": "SouthAsia",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Constant struggle between sultanate and Hindu kingdoms (Vijayanagara).",
+      "importancia_es": "Creciente sincretismo: música, arquitectura, vocabulario (urdu)."
+    },
+    {
+      "id": "india-005",
+      "nome": "Império Mogol: Akbar e a Síntese Cultural",
+      "nome_en": "Mughal Empire: Akbar and Cultural Synthesis",
+      "nome_es": "Imperio Mogol: Akbar y la Síntesis Cultural",
+      "tipo": "periodo",
+      "descricao": "Babur fundou o Império Mogol (1526). Akbar (r. 1556-1605): o maior, com 100-150 milhões de súditos (1/4 da humanidade). Política de tolerância religiosa — casou com princesas hindus, contratou ministros hindus, criou Din-i-Ilahi (religião sincrética). Aboliu a jizya (taxa sobre não-muçulmanos). Shah Jahan (1628-1658): Taj Mahal (1632-1653). Aurangzeb (1658-1707): retornou ao islamismo ortodoxo, perseguiu hindus — sementes da divisão.",
+      "descricao_en": "Babur founded the Mughal Empire (1526). Akbar (r. 1556-1605): the greatest, with 100-150 million subjects (1/4 of humanity). Policy of religious tolerance — married Hindu princesses, hired Hindu ministers, created Din-i-Ilahi (syncretic religion). Abolished jizya (tax on non-Muslims). Shah Jahan (1628-1658): Taj Mahal (1632-1653). Aurangzeb (1658-1707): returned to orthodox Islam, persecuted Hindus — seeds of division.",
+      "descricao_es": "Babur fundó el Imperio Mogol (1526). Akbar (1556-1605): 100-150 millones de súbditos. Tolerancia religiosa, Din-i-Ilahi. Shah Jahan: Taj Mahal (1632-1653). Aurangzeb (1658-1707): islamismo ortodoxo, persiguió hindúes — semillas de la división.",
+      "inicio": 1526,
+      "fim": 1707,
+      "tags": [
+        "mogol",
+        "akbar",
+        "taj-mahal",
+        "india"
+      ],
+      "importancia": "Akbar o Grande (1556-1605) foi o governante mais notável da Índia pré-moderna: administrou com eficiência um império de 100 milhões de habitantes, aboliu o imposto sobre não-muçulmanos (jizya), casou-se com princesas hindus e rajputs e criou o Din-i-Ilahi, síntese religiosa pessoal. Sua política de sulh-i-kull ('paz com todos') foi o experimento histórico mais bem-sucedido de governo pluralista numa sociedade multiconfessional antes da democracia moderna. Seus sucessores abandonaram a tolerância — e o Império entrou em declínio.",
+      "century_start": 16,
+      "century_end": 18,
+      "region": "SouthAsia",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Aurangzeb (1658-1707): returned to orthodox Islam, persecuted Hindus — seeds of division.",
+      "importancia_es": "Aurangzeb (1658-1707): islamismo ortodoxo, persiguió hindúes — semillas de la división."
+    },
+    {
+      "id": "india-006",
+      "nome": "Colonização Britânica da Índia",
+      "nome_en": "British Colonization of India",
+      "nome_es": "Colonización Británica de India",
+      "tipo": "periodo",
+      "descricao": "Companhia das Índias Orientais (EIC) fundada em 1600. Batalha de Plassey (1757): Robert Clive derrotou Nawab de Bengala com traição interna. EIC assumiu controle fiscal de Bengala. Fome de Bengala (1770): 10 milhões mortos sob administração britânica. Motim dos Cipaios (1857): revolta generalizada. British Raj (1858-1947): administração direta da Coroa. Exploração: deindustrialização, exportação de matérias-primas, fome sistêmica.",
+      "descricao_en": "East India Company (EIC) founded 1600. Battle of Plassey (1757): Robert Clive defeated Nawab of Bengal with internal betrayal. EIC assumed fiscal control of Bengal. Bengal Famine (1770): 10 million dead under British administration. Sepoy Mutiny (1857): widespread revolt. British Raj (1858-1947): direct Crown administration. Exploitation: deindustrialization, raw material export, systemic famine.",
+      "descricao_es": "Compañía de las Indias Orientales fundada en 1600. Batalla de Plassey (1757). Hambruna de Bengala (1770): 10 millones de muertos. Motín de los Cipayos (1857). Raj Británico (1858-1947). Desindustrialización, exportación de materias primas, hambrunas sistémicas.",
+      "inicio": 1757,
+      "fim": 1947,
+      "tags": [
+        "colonialismo-britanico",
+        "india",
+        "raj",
+        "cipaios"
+      ],
+      "importancia": "A colonização britânica da Índia (1757-1947) foi o maior experimento de exploração imperial sistemática da história: a Índia contribuía com 25% do PIB mundial em 1750 e com 4% em 1947. O economista Utsa Patnaik estimou que o valor extraído da Índia pela Grã-Bretanha entre 1765 e 1938 foi de $45 trilhões em valores atuais. A 'desindustrialização' deliberada — destruição das manufaturas têxteis indianas para proteger a indústria britânica — transformou o maior produtor de tecidos do mundo em importador de algodão cru.",
+      "century_start": 18,
+      "century_end": 20,
+      "region": "SouthAsia",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Exploitation: deindustrialization, raw material export, systemic famine.",
+      "importancia_es": "Desindustrialización, exportación de materias primas, hambrunas sistémicas."
+    },
+    {
+      "id": "india-007",
+      "nome": "Gandhi e a Independência Indiana",
+      "nome_en": "Gandhi and Indian Independence",
+      "nome_es": "Gandhi y la Independencia India",
+      "tipo": "periodo",
+      "descricao": "Mahatma Gandhi (1869-1948): desobediência civil não-violenta (satyagraha). Marcha do Sal (1930): 388 km para protestar contra o imposto britânico. Movimento Quit India (1942). Jawaharlal Nehru: liderança do Congresso Nacional Indiano. Partição de 1947: Índia e Paquistão — 10-20 milhões de deslocados, 500.000 a 2 milhões de mortos. Independência em 15 de agosto de 1947. Gandhi assassinado por hindu extremista em 30 de janeiro de 1948.",
+      "descricao_en": "Mahatma Gandhi (1869-1948): non-violent civil disobedience (satyagraha). Salt March (1930): 388 km to protest British salt tax. Quit India Movement (1942). Jawaharlal Nehru: Indian National Congress leadership. Partition of 1947: India and Pakistan — 10-20 million displaced, 500,000-2 million dead. Independence on August 15, 1947. Gandhi assassinated by Hindu extremist on January 30, 1948.",
+      "descricao_es": "Gandhi (1869-1948): desobediencia civil no-violenta (satyagraha). Marcha de la Sal (1930). Movimiento Quit India (1942). Partición de 1947: India y Pakistán — 10-20 millones de desplazados. Independencia el 15 de agosto de 1947. Gandhi asesinado el 30 de enero de 1948.",
+      "inicio": 1920,
+      "fim": 1947,
+      "tags": [
+        "gandhi",
+        "independencia-india",
+        "satyagraha",
+        "particao"
+      ],
+      "importancia": "Gandhi inventou a desobediência civil como método político sistemático — e provou que funciona contra impérios. A satyagraha ('força da verdade') não era passividade: era confronto ativo que forçava o oponente a escolher entre recuar ou usar violência visível contra não-violentos. A Marcha do Sal (1930) — 380 km a pé para fazer sal do mar e violar o monopólio britânico — foi a operação de relações públicas mais eficaz da história colonial. Gandhi influenciou diretamente Martin Luther King e Nelson Mandela.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "SouthAsia",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "Independence on August 15, 1947. Gandhi assassinated by Hindu extremist on January 30, 1948.",
+      "importancia_es": "Independencia el 15 de agosto de 1947. Gandhi asesinado el 30 de enero de 1948."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "india-001",
+      "destino": "india-002",
+      "tipo": "contemporaneo",
+      "intensidade": 0.5,
+      "descricao": "A civilização do vale do Indo precedeu os impérios históricos da Índia"
+    },
+    {
+      "origem": "india-002",
+      "destino": "india-003",
+      "tipo": "influencia",
+      "intensidade": 0.8,
+      "descricao": "O Budismo difundido por Ashoka influenciou o florescimento Gupta"
+    },
+    {
+      "origem": "india-003",
+      "destino": "india-004",
+      "tipo": "causalidade",
+      "intensidade": 0.5,
+      "descricao": "O fim dos Guptas criou fragmentação que facilitou invasões islâmicas"
+    },
+    {
+      "origem": "india-004",
+      "destino": "india-005",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "O Sultanato foi substituído diretamente pelo Império Mogol fundado por Babur"
+    },
+    {
+      "origem": "india-005",
+      "destino": "india-006",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O declínio mogol no séc. XVIII abriu espaço para a conquista britânica"
+    },
+    {
+      "origem": "india-006",
+      "destino": "india-007",
+      "tipo": "causalidade",
+      "intensidade": 1.0,
+      "descricao": "A colonização britânica gerou o movimento de independência liderado por Gandhi"
+    }
+  ]
+}

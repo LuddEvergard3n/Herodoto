@@ -1,0 +1,358 @@
+{
+  "personagens": [
+    {
+      "id": "pbib-001",
+      "nome": "Jesus de Nazaré",
+      "nome_en": "Jesus of Nazareth",
+      "nome_es": "Jesús de Nazaret",
+      "nascimento": -4,
+      "morte": 30,
+      "regiao": "MiddleEast",
+      "area": [
+        "religião",
+        "filosofia"
+      ],
+      "cargo": "Pregador e Mestre",
+      "epoca": "Antiguidade",
+      "descricao": "Judeu galileu nascido em Belém ou Nazaré (c.4 a.C.), filho de Maria e José carpinteiro. Batizado por João Batista, reuniu discípulos e pregou o Reino de Deus pelo interior da Judeia e Galileia. Expulsou comerciantes do Templo de Jerusalém. Preso, julgado pelo Sinédrio e pelo prefeito romano Pôncio Pilatos, crucificado em c.30 d.C. Seus seguidores proclamaram sua ressurreição.\n\nFontes históricas externas: Flávio Josefo (Antiguidades Judaicas, 18.3.3 — embora com interpolações cristãs suspeitas; a referência a 'Tiago, irmão de Jesus chamado Cristo' em 20.9.1 é amplamente aceita como autêntica); Tácito (Anais 15.44 — confirma a crucificação sob Pilatos durante o reinado de Tibério); Plínio, o Jovem (c.112 d.C. — descreve cristãos que cantavam hinos 'a Cristo como a um deus'). O nome Yeshua bar Yosef aparece em ossuários do período.",
+      "importancia": "Jesus é o personagem histórico de maior impacto na história da humanidade: 2,4 bilhões de pessoas (31% da população mundial) professam fé em sua divindade. O Cristianismo que surgiu de seus ensinamentos moldou a lei, a arte, a filosofia, a política e a ética ocidental por dois mil anos. O debate sobre quem foi historicamente — profeta apocalíptico judeu? reformador social? filho de Deus? — continua sendo a questão mais estudada das ciências históricas e religiosas. Sua morte por crucificação, documentada por fontes romanas independentes, é um dos fatos mais bem atestados da Antiguidade.",
+      "eventos": [],
+      "tags": [
+        "jesus",
+        "cristianismo",
+        "galileu",
+        "crucificação",
+        "ressurreição",
+        "judeu",
+        "roma",
+        "pilatos"
+      ]
+    },
+    {
+      "id": "pbib-002",
+      "nome": "Paulo de Tarso",
+      "nome_en": "Paul of Tarsus",
+      "nome_es": "Pablo de Tarso",
+      "nascimento": -5,
+      "morte": 67,
+      "regiao": "MiddleEast",
+      "area": [
+        "religião",
+        "filosofia",
+        "teologia"
+      ],
+      "cargo": "Apóstolo e Teólogo",
+      "epoca": "Antiguidade",
+      "descricao": "Fariseu judeu de Tarso (atual Turquia), cidadão romano — nome hebraico Saul. Perseguiu os primeiros cristãos antes de uma experiência visionária no caminho de Damasco (~36 d.C.) transformá-lo no mais ardente missionário do Cristianismo. Realizou três grandes viagens missionárias pelo Mediterrâneo (Grécia, Ásia Menor, Roma). Suas 13 epístolas são os documentos cristãos mais antigos — anteriores aos Evangelhos.\n\nFontes históricas: Sete epístolas são consideradas autenticamente paulinas por consenso acadêmico (1 Tessalonicenses, Gálatas, 1-2 Coríntios, Romanos, Filipenses, Filemon). Josefo menciona sua atividade. Tácito e outros autores romanos confirmam o movimento cristão que ele ajudou a disseminar.",
+      "importancia": "Paulo é, depois de Jesus, o personagem mais influente do Cristianismo — e possivelmente mais importante para a forma que o Cristianismo assumiu. Ele universalizou uma seita judaica: separou o Cristianismo da lei mosaica (circuncisão, dieta), definiu teologia central (justificação pela fé, morte expiatória de Cristo), e criou a estrutura eclesiástica básica. Sem Paulo, o Cristianismo poderia ter permanecido uma seita judaica. A tensão entre o Jesus histórico e o Cristo de Paulo é um dos debates mais férteis da teologia.",
+      "eventos": [],
+      "tags": [
+        "paulo",
+        "tarso",
+        "apóstolo",
+        "epístolas",
+        "missão",
+        "teologia",
+        "cristianismo",
+        "damasco"
+      ]
+    },
+    {
+      "id": "pbib-003",
+      "nome": "João Batista",
+      "nome_en": "John the Baptist",
+      "nome_es": "Juan el Bautista",
+      "nascimento": -6,
+      "morte": 29,
+      "regiao": "MiddleEast",
+      "area": [
+        "religião"
+      ],
+      "cargo": "Profeta",
+      "epoca": "Antiguidade",
+      "descricao": "Profeta judeu do deserto, primo de Jesus segundo os Evangelhos. Pregava arrependimento e batismo no Rio Jordão como purificação espiritual para o 'Reino que estava chegando'. Batizou Jesus (~28 d.C.). Criticou publicamente o casamento do tetrarca Herodes Antipas com Herodias (cunhada) — foi preso e decapitado. A dança de Salomé que teria motivado sua morte é tradição, não fato certo.\n\nFontes: Flávio Josefo (Antiguidades 18.5.2) descreve João Batista com detalhes que diferem dos Evangelhos — foco no movimento popular que liderou, não em Jesus. Este relato independente de Josefo é considerado autêntico e confirma existência histórica.",
+      "importancia": "João Batista é uma das figuras do Novo Testamento com atestação histórica mais sólida: o relato de Josefo é independente dos Evangelhos e plausível no contexto dos movimentos de renovação judaica do século I. Historicamente, pode ter sido a figura central — Jesus como seu discípulo que o ultrapassou. O movimento batista que fundou antecede o cristão e persiste nas práticas de batismo de todas as denominações cristãs.",
+      "eventos": [],
+      "tags": [
+        "batista",
+        "profeta",
+        "jordão",
+        "herodes",
+        "josefo",
+        "judaísmo",
+        "decapitação"
+      ]
+    },
+    {
+      "id": "pbib-004",
+      "nome": "Maria de Mágdala",
+      "nome_en": "Mary Magdalene",
+      "nome_es": "María Magdalena",
+      "nascimento": -14,
+      "morte": 68,
+      "regiao": "MiddleEast",
+      "area": [
+        "religião"
+      ],
+      "cargo": "Discípula de Jesus",
+      "epoca": "Antiguidade",
+      "descricao": "Mulher de Magdala (Taricheias, à beira do mar da Galileia), uma das seguidoras mais próximas de Jesus. Os quatro Evangelhos a nomeiam como primeira testemunha da ressurreição — a pessoa a quem Jesus apareceu primeiro. Não há base bíblica para identificá-la com a 'pecadora' ou com a mulher adúltera — essa fusão foi criada pelo Papa Gregório I em 591 d.C. e desfeita pela Igreja Católica apenas em 1969.",
+      "importancia": "Maria Madalena é o caso mais documentado de distorção histórica por misoginia institucional: a Igreja a transformou de testemunha privilegiada da ressurreição (o papel mais central do Cristianismo) em prostituta arrependida — por 1.400 anos. Sua reabilitação em 1969 e designação como 'Apóstola dos Apóstolos' por João Paulo II (2016) reconhece o erro, mas o dano à memória é irreversível. Os textos gnósticos do século II lhe atribuem papel teológico central.",
+      "eventos": [],
+      "tags": [
+        "madalena",
+        "discípula",
+        "ressurreição",
+        "mulher",
+        "distorção-histórica",
+        "galileia"
+      ]
+    },
+    {
+      "id": "pbib-005",
+      "nome": "Pôncio Pilatos",
+      "nome_en": "Pontius Pilate",
+      "nome_es": "Poncio Pilato",
+      "nascimento": -15,
+      "morte": 39,
+      "regiao": "MiddleEast",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "Prefeito da Judeia",
+      "epoca": "Antiguidade",
+      "descricao": "Prefeito (não 'procurador') romano da Judeia de 26 a 36 d.C., sob o Imperador Tibério. Governou uma das províncias mais instáveis do Império — com insurreições frequentes e pressão do Sinédrio judeu. Julgou e condenou Jesus à crucificação. Em 1961, descobriu-se em Cesareia Marítima uma inscrição de pedra com seu nome e título — primeira confirmação arqueológica direta.\n\nFontes: Tácito, Josefo, Fílon de Alexandria e os quatro Evangelhos concordam em seus traços básicos. A 'lavagem das mãos' é provavelmente teológica, não histórica.",
+      "importancia": "Pilatos é o administrador colonial típico numa situação impossível: manter a paz numa província fanaticamente religiosa com tropas insuficientes. Os Evangelhos o apresentam como hesitante — mas Josefo e Fílon o descrevem como brutal e corrupto. A inscrição de Cesareia é um dos elos mais diretos entre o texto bíblico e a arqueologia. Sua sentença definiu o curso da história mundial.",
+      "eventos": [],
+      "tags": [
+        "roma",
+        "judeia",
+        "prefeito",
+        "crucificação",
+        "pilatos",
+        "arqueologia",
+        "tibério"
+      ]
+    },
+    {
+      "id": "pbib-006",
+      "nome": "Herodes, o Grande",
+      "nome_en": "Herod the Great",
+      "nome_es": "Herodes el Grande",
+      "nascimento": -73,
+      "morte": -4,
+      "regiao": "MiddleEast",
+      "area": [
+        "política",
+        "arquitetura"
+      ],
+      "cargo": "Rei da Judeia",
+      "epoca": "Antiguidade",
+      "descricao": "Rei romano-cliente da Judeia (37–4 a.C.), de origem idumeia (árabe convertida ao judaísmo). Construtor extraordinário: expandiu o Templo de Jerusalém (o Segundo Templo ampliado, destruído pelos romanos em 70 d.C.), construiu Cesareia Marítima, Masada, Herodiã e o palácio de Jericó. Matou esposa, filhos e sogra por suspeita de traição. A 'Matança dos Inocentes' não tem confirmação extra-bíblica.",
+      "importancia": "Herodes demonstra o dilema do 'colaboracionista': foi capaz de proteger o povo judeu do pior da violência romana graças ao seu relacionamento com Roma — mas ao custo de servir ao poder estrangeiro e matar qualquer ameaça ao seu trono. O Templo ampliado que construiu tornou-se o mais sagrado da história judaica (o Muro das Lamentações é seu muro de contenção). Seu reinado é o contexto histórico direto do nascimento de Jesus.",
+      "eventos": [],
+      "tags": [
+        "judeia",
+        "roma",
+        "templo",
+        "arquitetura",
+        "herodes",
+        "construção",
+        "vasalo"
+      ]
+    },
+    {
+      "id": "pbib-007",
+      "nome": "Rei Davi",
+      "nome_en": "King David",
+      "nome_es": "Rey David",
+      "nascimento": -1040,
+      "morte": -970,
+      "regiao": "MiddleEast",
+      "area": [
+        "política",
+        "militar",
+        "religião"
+      ],
+      "cargo": "Rei de Israel",
+      "epoca": "Antiguidade",
+      "descricao": "Segundo rei de Israel, unificou as tribos e estabeleceu Jerusalém como capital (~1000 a.C.). Pastor que derrotou Golias segundo a narrativa bíblica. Os Salmos são atribuídos a ele. Cometeu adulterio com Betsabé e mandou matar seu marido Urias. Seu filho Salomão construiu o Primeiro Templo.\n\nEvidência arqueológica: A Estela de Tel Dan (c.840 a.C.) contém a primeira menção externa à 'Casa de Davi' (Beit David) — confirmando que uma dinastia davídica existiu. A Estela de Mesa de Moabe (c.840 a.C.) pode também referenciar a Casa de Davi.",
+      "importancia": "Davi é o fundador simbólico da nação israelita e da ideia de 'Rei Ungido' (Messias) que moldou o judaísmo, o Cristianismo e o Islã. A 'Cidade de Davi' continua sendo escavada em Jerusalém — e cada descoberta gera debate político-religioso no conflito israelense-palestino. A Estela de Tel Dan, embora não confirme os detalhes bíblicos, demonstra que a 'Casa de Davi' era real o suficiente para ser referenciada por reis inimigos.",
+      "eventos": [],
+      "tags": [
+        "israel",
+        "jerusalém",
+        "rei",
+        "messias",
+        "salmos",
+        "davídica",
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "pbib-008",
+      "nome": "Nabucodonosor II",
+      "nome_en": "Nebuchadnezzar II",
+      "nome_es": "Nabucodonosor II",
+      "nascimento": -634,
+      "morte": -562,
+      "regiao": "MiddleEast",
+      "area": [
+        "política",
+        "militar",
+        "arquitetura"
+      ],
+      "cargo": "Rei da Babilônia",
+      "epoca": "Antiguidade",
+      "descricao": "Maior rei neobabilônico, filho de Nabopolassar. Destruiu Jerusalém e o Primeiro Templo (587/586 a.C.), deportou a elite judaica para Babilônia — o cativeiro babilônico que transformaria o judaísmo. Construiu os Jardins Suspensos da Babilônia (uma das Sete Maravilhas). Inscrições cuneiformes extensas confirmam sua existência e seus feitos militares.\n\nFontes: Crônicas babilônicas (tablete BM 21946) registram a tomada de Jerusalém em 597 a.C. e deportações. Inscrições de Wadi Brisa detalham suas campanhas.",
+      "importancia": "Nabucodonosor realizou o evento mais traumático da história judaica antes do Holocausto: a destruição do Templo e o exílio da Babilônia. Paradoxalmente, o exílio salvou o judaísmo: forçou a codificação das escrituras (a Torá foi editada no exílio), criou a sinagoga como forma de culto sem templo, e gerou a teologia profética que produziu o monoteísmo ético do deutero-Isaías. O trauma que Nabucodonosor causou criou o judaísmo moderno.",
+      "eventos": [],
+      "tags": [
+        "babilônia",
+        "jerusalém",
+        "templo",
+        "exílio",
+        "judeus",
+        "jardins-suspensos",
+        "cuneiforme"
+      ]
+    },
+    {
+      "id": "pbib-009",
+      "nome": "Isaías (profeta)",
+      "nome_en": "Isaiah",
+      "nome_es": "Isaías",
+      "nascimento": -765,
+      "morte": -681,
+      "regiao": "MiddleEast",
+      "area": [
+        "religião",
+        "filosofia"
+      ],
+      "cargo": "Profeta",
+      "epoca": "Antiguidade",
+      "descricao": "Profeta judaico de Jerusalém, ativo sob quatro reis (c.740–681 a.C.). O Livro de Isaías é o mais citado no Novo Testamento. Capítulos 1-39 (Proto-Isaías) criticam injustiça social, idolatria e a aliança política com Egito. Capítulos 40-55 (Deutero-Isaías, provavelmente século VI) consolam os exilados babilônicos e anunciam Ciro da Pérsia como 'messias'.\n\nEvidência: O Rolo de Isaías (Manuscritos do Mar Morto, c.150 a.C.) é o manuscrito bíblico mais antigo completo preservado. Sua existência como figura histórica no século VIII é aceita; a autoria dupla do livro é consenso acadêmico.",
+      "importancia": "Isaías é o fundador do monoteísmo ético universal: não apenas 'nosso Deus é mais forte', mas 'há apenas um Deus de toda a humanidade, que exige justiça acima de sacrifícios'. Sua visão de paz universal — 'transformarão espadas em arados' — é a base do projeto pacifista no Ocidente. O Servo Sofredor (Isaías 53), interpretado por cristãos como profecia de Jesus, é o texto mais lido da Bíblia Hebraica no Novo Testamento.",
+      "eventos": [],
+      "tags": [
+        "judaísmo",
+        "profecia",
+        "monoteísmo",
+        "bíblia",
+        "exílio",
+        "paz",
+        "isaías"
+      ]
+    },
+    {
+      "id": "pbib-010",
+      "nome": "Moisés",
+      "nome_en": "Moses",
+      "nome_es": "Moisés",
+      "nascimento": -1391,
+      "morte": -1271,
+      "regiao": "Africa",
+      "area": [
+        "religião",
+        "política",
+        "direito"
+      ],
+      "cargo": "Legislador e Profeta",
+      "epoca": "Antiguidade",
+      "descricao": "Figura central do judaísmo, Cristianismo e Islã: conduziu os israelitas do Egito para Canaã (o Êxodo), recebeu a Lei no Monte Sinai (os Dez Mandamentos) e organizou a estrutura religiosa e legal do povo israelita. A Torá (cinco primeiros livros da Bíblia) é atribuída a ele.\n\nStatus histórico: Não há evidência arqueológica direta de Moisés ou do Êxodo em escala bíblica. Egitólogos questionam o relato de 600.000 homens em êxodo. Alguns propõem um êxodo menor durante o reinado de Ramsés II; outros situam a origem da narrativa no exílio babilônico. O debate é aberto e honesto na academia.",
+      "importancia": "Independentemente da historicidade factual, Moisés é a figura fundadora da ética ocidental: o conceito de que existe uma lei moral universal — revelada, não arbitrária — que vincula reis tanto quanto povos é a contribuição mosaica. Os Dez Mandamentos são o código ético mais disseminado da história. A ideia de 'povo escolhido' com missão histórica especial, originada no mosaísmo, moldou identidades nacionais e messiânicos por 3.000 anos.",
+      "eventos": [],
+      "tags": [
+        "êxodo",
+        "torá",
+        "sinai",
+        "dez-mandamentos",
+        "judaísmo",
+        "lei",
+        "profeta",
+        "debate-histórico"
+      ]
+    },
+    {
+      "id": "pbib-011",
+      "nome": "Elias (profeta)",
+      "nome_en": "Elijah",
+      "nome_es": "Elías",
+      "nascimento": -910,
+      "morte": -850,
+      "regiao": "MiddleEast",
+      "area": [
+        "religião"
+      ],
+      "cargo": "Profeta",
+      "epoca": "Antiguidade",
+      "descricao": "Profeta do norte de Israel durante o reinado de Acabe (c.874–853 a.C.) e sua esposa fenícia Jezabel — que promoveu o culto a Baal. Elias desafiou os 450 profetas de Baal no Monte Carmelo, confrontou o rei por injustiça (assassinato de Nabote para tomar sua vinha), e fugiu ao deserto de Beersheba. Segundo a Bíblia, foi levado ao céu num carro de fogo sem morrer — por isso esperado como precursor do Messias.\n\nContexto histórico: O Reinado de Acabe é confirmado pela Estela de Shalmaneser III (846 a.C.), que menciona 'Acabe, o israelita'. A luta entre culto a Yahweh e culto a Baal é documentada por textos de Ugarit.",
+      "importancia": "Elias é o arquétipo do profeta que fala a verdade ao poder — confrontando o rei em nome da justiça, não apenas da religião. Sua defesa de Nabote (um cidadão comum contra expropriação real) é o primeiro texto bíblico claro de que a lei protege proprietários de terra mesmo contra o rei. No judaísmo, Elias é esperado anualmente na Páscoa; no Islamismo, Ilyas é profeta reconhecido. A figura de João Batista foi identificada com Elias redivivo.",
+      "eventos": [],
+      "tags": [
+        "profeta",
+        "israel",
+        "baal",
+        "acabe",
+        "jezabel",
+        "carmelo",
+        "justiça",
+        "carro-de-fogo"
+      ]
+    },
+    {
+      "id": "pbib-012",
+      "nome": "Salomé (Herodiana)",
+      "nome_en": "Salome (Herodian)",
+      "nome_es": "Salomé (herodiana)",
+      "nascimento": 14,
+      "morte": 71,
+      "regiao": "MiddleEast",
+      "area": [
+        "política"
+      ],
+      "cargo": "Princesa",
+      "epoca": "Antiguidade",
+      "descricao": "Filha de Herodias e Filipe (meio-irmão de Herodes Antipas). Segundo Marcos 6 e Mateus 14, dançou no aniversário de Herodes Antipas e pediu, a conselho da mãe, a cabeça de João Batista. Seu nome 'Salomé' não aparece nos Evangelhos — vem de Josefo (Antiguidades 18.5.4), que a menciona como filha de Herodias sem relacioná-la diretamente à morte de João.\n\nJosefo confirma que João Batista foi morto por Herodes Antipas por razões políticas (temia revolta popular). A dança e o pedido são detalhes evangélicos sem confirmação externa.",
+      "importancia": "Salomé tornou-se um dos personagens femininos mais representados na arte ocidental: de Tiziano a Klimt, de Wilde a Strauss, a 'dança dos sete véus' que a tradição artística lhe atribuiu (não os Evangelhos) encapsula a ansiedade patriarcal sobre poder feminino e sedução. A obra de Oscar Wilde (1891) e a ópera de Strauss (1905) transformaram o episódio bíblico num dos grandes dramas do decadentismo moderno.",
+      "eventos": [],
+      "tags": [
+        "salomé",
+        "herodes",
+        "joão-batista",
+        "dança",
+        "arte",
+        "bíblia",
+        "herodiana"
+      ]
+    },
+    {
+      "id": "pbib-013",
+      "nome": "Tiago, irmão de Jesus",
+      "nome_en": "James, brother of Jesus",
+      "nome_es": "Santiago, hermano de Jesús",
+      "nascimento": -6,
+      "morte": 62,
+      "regiao": "MiddleEast",
+      "area": [
+        "religião",
+        "política"
+      ],
+      "cargo": "Líder da Igreja de Jerusalém",
+      "epoca": "Antiguidade",
+      "descricao": "Irmão (ou meio-irmão, segundo tradição católica) de Jesus, líder da comunidade cristã de Jerusalém após a morte de Jesus. A Epístola de Tiago é atribuída a ele. Executado por apedrejamento em 62 d.C. por ordem do sumo sacerdote Anano II, durante intervalo entre prefeitos romanos.\n\nFontes: Josefo (Antiguidades 20.9.1) descreve sua execução — esta passagem é amplamente aceita como autêntica, ao contrário do Testimonium Flavianum sobre Jesus. É a referência mais sólida a um familiar de Jesus em fonte não-cristã.",
+      "importancia": "A menção de Tiago por Josefo é considerada a evidência histórica mais robusta de que Jesus existiu: Josefo o descreve como 'irmão de Jesus chamado Cristo' — não como afirmação de fé, mas como identificação factual. Tiago representa também um debate teológico crucial: o 'Cristianismo de Tiago' (fidelidade à lei judaica, primado de Jerusalém) perdeu para o 'Cristianismo de Paulo' (liberdade da lei, universalismo) — e a forma que o Cristianismo assumiu reflete essa vitória paulina.",
+      "eventos": [],
+      "tags": [
+        "jesus",
+        "tiago",
+        "josefo",
+        "jerusalém",
+        "judaísmo-cristão",
+        "execução",
+        "evidência"
+      ]
+    }
+  ]
+}

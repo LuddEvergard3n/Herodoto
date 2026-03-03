@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "EUA: Escravidão, Guerra Civil e Reconstrução",
+    "periodo": "1820-1877"
+  },
+  "entidades": [
+    {
+      "id": "egc-001",
+      "nome": "A Questão da Escravidão e os Compromissos Fracassados",
+      "nome_en": "The Slavery Question and Failed Compromises",
+      "nome_es": "La Cuestión de la Esclavitud y los Compromisos Fallidos",
+      "tipo": "periodo",
+      "inicio": 1820,
+      "fim": 1860,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "social",
+      "descricao": "A escravidão foi o maior conflito irresolvido da República americana desde sua fundação. O Compromisso de Missouri (1820) tentou equilibrar estados escravagistas e livres dividindo o território pelo paralelo 36°30'. O Compromisso de 1850 e a Lei Kansas-Nebraska (1854) reacenderam o conflito. O caso Dred Scott (1857) — em que a Suprema Corte declarou que negros não eram cidadãos e a proibição da escravidão era inconstitucional — foi o ponto de não-retorno que tornou a guerra civil inevitável.",
+      "descricao_en": "Slavery was the greatest unresolved conflict of the American Republic since its founding. The Missouri Compromise (1820) attempted to balance slave and free states. The Dred Scott case (1857) — in which the Supreme Court declared that Black people were not citizens and that the prohibition of slavery was unconstitutional — was the point of no return that made civil war inevitable.",
+      "descricao_es": "La esclavitud fue el mayor conflicto irresuelto de la República americana. El caso Dred Scott (1857) — que declaró que los negros no eran ciudadanos — fue el punto de no retorno que hizo inevitable la guerra civil.",
+      "importancia": "A decisão Dred Scott (1857) é considerada a pior decisão da Suprema Corte americana na história — e a que mais diretamente causou uma guerra. Demonstrou que instituições democráticas podem ser usadas para defender a opressão, não apenas para combatê-la.",
+      "importancia_en": "The Dred Scott decision (1857) is considered the worst Supreme Court decision in American history — and the one that most directly caused a war. It demonstrated that democratic institutions can be used to defend oppression, not just to combat it.",
+      "importancia_es": "La decisión Dred Scott es considerada la peor de la Corte Suprema americana — la que más directamente causó una guerra.",
+      "tags": [
+        "escravidão",
+        "Dred Scott",
+        "Missouri",
+        "Kansas-Nebraska",
+        "Suprema Corte"
+      ],
+      "dataset": "data/dados-eua-guerra-civil.json"
+    },
+    {
+      "id": "egc-005",
+      "nome": "Frederick Douglass e o Movimento Abolicionista",
+      "nome_en": "Frederick Douglass and the Abolitionist Movement",
+      "nome_es": "Frederick Douglass y el Movimiento Abolicionista",
+      "tipo": "periodo",
+      "inicio": 1845,
+      "fim": 1895,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "social",
+      "descricao": "Frederick Douglass (1818–1895) foi o intelectual e ativista negro mais importante do século XIX americano. Nascido escravo, fugiu para o Norte (1838) e tornou-se o orador e escritor abolicionista mais influente do país. Sua autobiografia (1845) foi um best-seller que humanizou a experiência da escravidão para o Norte branco. Aconselhou Lincoln durante a guerra. Sua frase — 'Sem luta, sem progresso' — tornou-se o mantra do ativismo social americano.",
+      "descricao_en": "Frederick Douglass (1818–1895) was the most important Black intellectual and activist of 19th century America. Born enslaved, he escaped to the North (1838) and became the country's most influential abolitionist orator and writer. His autobiography (1845) was a bestseller that humanized the experience of slavery for the white North. He advised Lincoln during the war.",
+      "descricao_es": "Frederick Douglass nació esclavo, escapó al Norte y se convirtió en el abolicionista más influyente de EE.UU. Su autobiografía humanizó la esclavitud para el Norte blanco. Asesoró a Lincoln durante la guerra.",
+      "importancia": "Douglass é uma das figuras centrais do movimento abolicionista americano — e seu legado intelectual moldou o pensamento sobre direitos civis e igualdade por gerações. \"Sem luta, sem progresso\" resume uma filosofia de engajamento cívico que influenciou líderes posteriores como W.E.B. Du Bois e Martin Luther King Jr.",
+      "importancia_en": "Douglass is one of the central figures of the American abolitionist movement — and his intellectual legacy shaped thinking about civil rights and equality for generations. \"Without struggle, without progress\" encapsulates a philosophy of civic engagement that influenced later leaders such as W.E.B. Du Bois and Martin Luther King Jr.",
+      "importancia_es": "Douglass es una de las figuras centrales del movimiento abolicionista americano. \"Sin lucha, sin progreso\" resume una filosofía de compromiso cívico que influyó en líderes posteriores como Du Bois y Martin Luther King Jr.",
+      "tags": [
+        "Douglass",
+        "abolicionismo",
+        "escravidão",
+        "autobiografia",
+        "Lincoln"
+      ],
+      "dataset": "data/dados-eua-guerra-civil.json"
+    },
+    {
+      "id": "egc-006",
+      "nome": "Harriet Tubman e o Underground Railroad",
+      "nome_en": "Harriet Tubman and the Underground Railroad",
+      "nome_es": "Harriet Tubman y el Ferrocarril Subterráneo",
+      "tipo": "periodo",
+      "inicio": 1849,
+      "fim": 1865,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "social",
+      "descricao": "Harriet Tubman (c. 1822–1913) escapou da escravidão em Maryland (1849) e retornou ao Sul 19 vezes para libertar ~70 escravizados através do Underground Railroad — rede clandestina de rotas e abrigos que levavam escravizados ao Norte livre e ao Canadá. Durante a Guerra Civil, tornou-se espiã e estrategista da União, liderando a Operação Combahee River (1863) que libertou 700 escravizados. Seu retrato foi selecionado para substituir Andrew Jackson na nota de 20 dólares.",
+      "descricao_en": "Harriet Tubman (c. 1822–1913) escaped slavery in Maryland (1849) and returned to the South 19 times to free ~70 enslaved people through the Underground Railroad — a clandestine network of routes and shelters leading enslaved people to the free North and Canada. During the Civil War, she became a Union spy and strategist, leading the Combahee River Raid (1863) that freed 700 enslaved people.",
+      "descricao_es": "Harriet Tubman escapó de la esclavitud y regresó al Sur 19 veces para liberar ~70 esclavizados. Durante la Guerra Civil fue espía de la Unión. Su retrato fue seleccionado para reemplazar a Jackson en el billete de 20 dólares.",
+      "importancia": "Tubman é considerada uma das heroínas americanas mais notáveis do século XIX — pelo papel no Underground Railroad, pela atuação como espiã e estrategista da União durante a Guerra Civil, e pela posterior luta pelo sufrágio feminino. A Operação Combahee River que liderou (1863) é um dos primeiros registros de uma operação de inteligência militar conduzida por uma mulher na história americana.",
+      "importancia_en": "Tubman is considered one of the most remarkable American heroines of the 19th century — for her role in the Underground Railroad, her service as a Union spy and strategist during the Civil War, and her subsequent fight for women's suffrage. The Combahee River Raid she led (1863) is one of the earliest records of a military intelligence operation conducted by a woman in American history.",
+      "importancia_es": "Tubman es considerada una de las heroínas americanas más notables del siglo XIX — por su papel en el Underground Railroad, su servicio como espía de la Unión y su posterior lucha por el sufragio femenino.",
+      "tags": [
+        "Tubman",
+        "Underground Railroad",
+        "espionagem",
+        "Combahee",
+        "escravidão"
+      ],
+      "dataset": "data/dados-eua-guerra-civil.json"
+    },
+    {
+      "id": "egc-002",
+      "nome": "Abraham Lincoln e a Presidência mais Difícil",
+      "nome_en": "Abraham Lincoln and the Most Difficult Presidency",
+      "nome_es": "Abraham Lincoln y la Presidencia más Difícil",
+      "tipo": "periodo",
+      "inicio": 1861,
+      "fim": 1865,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "Abraham Lincoln (presidente 1861–1865) liderou os EUA através da maior crise de sua história. Filho de pioneiros pobres, era advogado autodidata que se tornara uma força política pelo debate contra Stephen Douglas (1858). A eleição de Lincoln (novembro de 1860) precipitou a secessão dos estados sulistas. Conduziu a guerra com pragmatismo — mantendo o Norte unido ao evitar alienar os estados fronteiriços escravistas da União. A Proclamação de Emancipação (1863) transformou a guerra em cruzada moral. Assassinado por John Wilkes Booth em 14 de abril de 1865.",
+      "descricao_en": "Abraham Lincoln (president 1861–1865) led the US through the greatest crisis in its history. A self-taught lawyer from a poor pioneer family, he became a political force through debates against Stephen Douglas (1858). Lincoln's election (November 1860) precipitated the secession of Southern states. He conducted the war with pragmatism. The Emancipation Proclamation (1863) transformed the war into a moral crusade. Assassinated by John Wilkes Booth on April 14, 1865.",
+      "descricao_es": "Lincoln lideró EE.UU. durante su mayor crisis. La Proclamación de Emancipación (1863) transformó la guerra en cruzada moral. Fue asesinado por John Wilkes Booth el 14 de abril de 1865.",
+      "importancia": "Lincoln é classificado consistentemente como o maior presidente americano na história. Preservou a União e aboliu a escravidão — os dois maiores legados. Seu assassinato o transformou em mártir, privando a Reconstrução de sua liderança moderada e pavimentando o caminho para o fracasso da integração racial.",
+      "importancia_en": "Lincoln is consistently ranked as the greatest American president in history. He preserved the Union and abolished slavery — the two greatest legacies. His assassination transformed him into a martyr, depriving Reconstruction of his moderate leadership.",
+      "importancia_es": "Lincoln es clasificado consistentemente como el mayor presidente americano. Su asesinato privó a la Reconstrucción de su liderazgo moderado.",
+      "tags": [
+        "Lincoln",
+        "Emancipação",
+        "secessão",
+        "assassinato",
+        "Booth"
+      ],
+      "dataset": "data/dados-eua-guerra-civil.json"
+    },
+    {
+      "id": "egc-003",
+      "nome": "A Guerra Civil: Causa, Batalhas e Consequências",
+      "nome_en": "The Civil War: Cause, Battles and Consequences",
+      "nome_es": "La Guerra Civil: Causa, Batallas y Consecuencias",
+      "tipo": "evento",
+      "inicio": 1861,
+      "fim": 1865,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "war",
+      "descricao": "A Guerra Civil Americana (1861–1865) foi a guerra mais mortal da história americana — 620.000–750.000 mortos (mais que em todas as outras guerras americanas combinadas). A Confederação (11 estados do Sul) secedeu para preservar a escravidão. As batalhas incluíram Antietam (1862, o dia mais sangrento da história americana — 22.000 baixas em um dia), Gettysburg (1863, 3 dias, 50.000 baixas) e a marcha de Sherman pela Geórgia (primeira 'guerra total' moderna). A rendição de Lee em Appomattox (9 de abril de 1865) encerrou o conflito.",
+      "descricao_en": "The American Civil War (1861–1865) was the deadliest war in American history — 620,000–750,000 deaths (more than all other American wars combined). The Confederacy (11 Southern states) seceded to preserve slavery. Battles included Antietam (1862, the bloodiest single day in American history — 22,000 casualties), Gettysburg (1863, 50,000 casualties) and Sherman's March to the Sea (first modern 'total war').",
+      "descricao_es": "La Guerra Civil Americana mató 620.000-750.000 personas — más que todas las demás guerras americanas combinadas. Antietam (1862) fue el día más sangriento de la historia americana. La rendición de Lee en Appomattox (9 de abril de 1865) puso fin al conflicto.",
+      "importancia": "A Guerra Civil é o evento mais estudado e debatido da história americana. Definiu o que os EUA são: uma nação indivisível onde a escravidão é inconstitucional. As feridas abertas dessa guerra — sobre raça, poder federal vs. estadual, memória da Confederação — ainda estruturam a política americana.",
+      "importancia_en": "The Civil War is the most studied and debated event in American history. It defined what the US is: an indivisible nation where slavery is unconstitutional. The wounds opened by this war — on race, federal vs. state power, Confederate memory — still structure American politics.",
+      "importancia_es": "La Guerra Civil definió lo que son los EE.UU. Sus heridas — sobre raza, poder federal vs. estatal, memoria confederada — aún estructuran la política americana.",
+      "tags": [
+        "Guerra Civil",
+        "Confederação",
+        "Gettysburg",
+        "Antietam",
+        "Appomattox"
+      ],
+      "dataset": "data/dados-eua-guerra-civil.json"
+    },
+    {
+      "id": "egc-007",
+      "nome": "Ulysses S. Grant: General e Presidente",
+      "nome_en": "Ulysses S. Grant: General and President",
+      "nome_es": "Ulysses S. Grant: General y Presidente",
+      "tipo": "periodo",
+      "inicio": 1861,
+      "fim": 1877,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "Ulysses S. Grant (1822–1885) foi o general que ganhou a Guerra Civil para a União e o presidente que mais vigorosamente defendeu a Reconstrução. Sua campanha de Vicksburg (1863) cortou a Confederação ao meio; sua estratégia de atrito em 1864–65 desgastou os exércitos de Lee. Como presidente (1869–1877), combateu a Ku Klux Klan (Lei Anti-KKK, 1871) com tropas federais. Apesar de sua presidência ter sido manchada por escândalos de corrupção entre aliados, seu papel militar e a defesa da Reconstrução são amplamente reconhecidos hoje.",
+      "descricao_en": "Ulysses S. Grant (1822–1885) was the general who won the Civil War for the Union and the president who most vigorously defended Reconstruction. His Vicksburg campaign (1863) cut the Confederacy in two. As president (1869–1877), he fought the Ku Klux Klan (Anti-KKK Act, 1871) with federal troops.",
+      "descricao_es": "Grant ganó la Guerra Civil para la Unión con la campaña de Vicksburg. Como presidente combatió al Ku Klux Klan con tropas federales. Su presidencia fue manchada por escándalos de corrupción entre aliados.",
+      "importancia": "A reavaliação histórica de Grant nas últimas décadas transformou-o de presidente 'fracassado' (por corrupção em seus aliados) a um dos maiores defensores dos direitos civis negros do século XIX. É o exemplo de como o julgamento histórico de figuras muda com o tempo e com novos valores.",
+      "importancia_en": "The historical reassessment of Grant in recent decades transformed him from a 'failed' president (due to corruption in his allies) to one of the greatest defenders of Black civil rights in the 19th century. He exemplifies how historical judgment of figures changes over time.",
+      "importancia_es": "La reavaliación histórica de Grant lo transformó de presidente 'fracasado' a uno de los mayores defensores de los derechos civiles negros del siglo XIX.",
+      "tags": [
+        "Grant",
+        "Vicksburg",
+        "KKK",
+        "Reconstrução",
+        "corrupção",
+        "União"
+      ],
+      "dataset": "data/dados-eua-guerra-civil.json"
+    },
+    {
+      "id": "egc-004",
+      "nome": "Reconstrução e o Fracasso da Integração Racial",
+      "nome_en": "Reconstruction and the Failure of Racial Integration",
+      "nome_es": "Reconstrucción y el Fracaso de la Integración Racial",
+      "tipo": "periodo",
+      "inicio": 1865,
+      "fim": 1877,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "social",
+      "descricao": "A Reconstrução (1865–1877) foi o período em que o governo federal tentou reintegrar o Sul à União e garantir direitos civis aos ex-escravizados. As Emendas 13ª (abolição), 14ª (cidadania plena) e 15ª (voto masculino negro) foram aprovadas. Negros elegerem congressistas, governadores e senadores nos estados do Sul. Mas a retirada das tropas federais do Sul em 1877 (Compromisso de 1877) levou ao colapso da Reconstrução e ao surgimento das leis Jim Crow — segregação institucionalizada que durou até 1965.",
+      "descricao_en": "Reconstruction (1865–1877) was the period when the federal government tried to reintegrate the South into the Union and guarantee civil rights to formerly enslaved people. The 13th (abolition), 14th (full citizenship) and 15th (Black male voting) amendments were passed. Black men elected congressmen, governors and senators in Southern states. But withdrawal of federal troops from the South in 1877 led to Reconstruction's collapse and the rise of Jim Crow laws.",
+      "descricao_es": "La Reconstrucción intentó garantizar derechos civiles a los ex-esclavizados. Las enmiendas 13ª, 14ª y 15ª fueron aprobadas. Pero la retirada de tropas federales del Sur en 1877 llevó al surgimiento de las leyes Jim Crow.",
+      "importancia": "A Reconstrução estabeleceu, pela primeira vez, cidadania plena e direito ao voto para afro-americanos — avanço constitucional codificado nas Emendas 13ª, 14ª e 15ª. O fim da Reconstrução em 1877 e a subsequente implantação das leis Jim Crow no Sul reverteram muitos desses avanços por quase um século, até que a Lei dos Direitos Civis de 1964 e a Lei do Direito ao Voto de 1965 reafirmassem as garantias constitucionais.",
+      "importancia_en": "Reconstruction established, for the first time, full citizenship and voting rights for African-Americans — a constitutional advance codified in the 13th, 14th and 15th Amendments. The end of Reconstruction in 1877 and the subsequent implementation of Jim Crow laws reversed many of these advances for nearly a century, until the Civil Rights Act of 1964 and the Voting Rights Act of 1965 reaffirmed the constitutional guarantees.",
+      "importancia_es": "La Reconstrucción estableció por primera vez la ciudadanía plena y el derecho al voto para los afroamericanos. El fin de la Reconstrucción y las leyes Jim Crow revirtieron muchos de esos avances hasta que la Ley de Derechos Civiles de 1964 los reafirmó.",
+      "tags": [
+        "Reconstrução",
+        "Jim Crow",
+        "segregação",
+        "13ª Emenda",
+        "voto negro"
+      ],
+      "dataset": "data/dados-eua-guerra-civil.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "egc-001",
+      "destino": "egc-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Dred Scott e a crise da escravidão elegem Lincoln em 1860"
+    },
+    {
+      "origem": "egc-002",
+      "destino": "egc-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Eleição de Lincoln precipita a secessão e a guerra"
+    },
+    {
+      "origem": "egc-005",
+      "destino": "egc-001",
+      "tipo": "influencia",
+      "intensidade": 0.7,
+      "descricao": "Douglass e os abolicionistas pressionam o debate político sobre a escravidão"
+    },
+    {
+      "origem": "egc-006",
+      "destino": "egc-003",
+      "tipo": "influencia",
+      "intensidade": 0.6,
+      "descricao": "Underground Railroad demonstra a resistência ativa à escravidão"
+    },
+    {
+      "origem": "egc-003",
+      "destino": "egc-004",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Fim da guerra inaugura o período de Reconstrução"
+    },
+    {
+      "origem": "egc-002",
+      "destino": "egc-007",
+      "tipo": "evolucao",
+      "intensidade": 0.8,
+      "descricao": "Grant é o sucessor militar e político de Lincoln"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "fonte": "Arqueologia e historiografia especializada",
+    "lingua": "pt",
+    "tema": "Toltecas e Chichimecas: Guerreiros, Mitos e o Colapso do Norte",
+    "periodo": "700-1200"
+  },
+  "entidades": [
+    {
+      "id": "tol-006",
+      "nome": "Totonacas e Outros Povos do Golfo",
+      "nome_en": "Totonacs and Other Gulf Peoples",
+      "nome_es": "Totonacas y Otros Pueblos del Golfo",
+      "tipo": "periodo",
+      "inicio": 600,
+      "fim": 1521,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 7,
+      "type": "cultural",
+      "descricao": "Os totonacas (atual Veracruz, costa do Golfo) foram um dos primeiros povos a se aliar a Cortés — também oprimidos pela tributação asteca. El Tajín foi a maior cidade totonaca (c. 600–1100 d.C.), famosa pelo Templo das Nicas e seus 365 janelas, uma para cada dia do ano solar. Os totonacas cultivavam a baunilha nativa e eram famosos pela cerimônia dos 'Voladores de Papantla' — cinco homens que sobem num mastro de 30 metros e descem voando em espiral (os quatro 'voadores' fazem 13 voltas cada = 52, o ciclo calendário mesoamericano). A cerimônia é reconhecida pela UNESCO como Patrimônio Imaterial.",
+      "descricao_en": "The Totonacs (modern Veracruz, Gulf coast) were one of the first peoples to ally with Cortés — also oppressed by Aztec tribute. El Tajín was the largest Totonac city (c. 600–1100 AD), famous for the Pyramid of the Niches with its 365 windows, one for each day of the solar year. The Totonacs cultivated native vanilla and were famous for the 'Voladores de Papantla' ceremony — five men who climb a 30-meter pole and descend flying in a spiral (the four 'flyers' each make 13 turns = 52, the Mesoamerican calendar cycle). The ceremony is recognized by UNESCO as Intangible Heritage.",
+      "descricao_es": "Los totonacas se aliaron a Cortés, también oprimidos por el tributo azteca. El Tajín tiene el Templo de los Nichos con 365 ventanas. Los Voladores de Papantla — 5 hombres que descienden volando en espiral — son Patrimonio Inmaterial UNESCO.",
+      "importancia": "Os Voladores de Papantla são um dos mais belos exemplos de como o sistema calendário mesoamericano foi codificado em rituais performáticos: 4 voadores × 13 voltas = 52 anos (o ciclo completo asteca/mesoamericano). A cerimônia preserva matematicamente a astronomia mesoamericana em formato de dança.",
+      "importancia_en": "The Papantla Flyers are one of the most beautiful examples of how the Mesoamerican calendar system was codified in performative rituals: 4 flyers × 13 turns = 52 years (the complete Aztec/Mesoamerican cycle). The ceremony mathematically preserves Mesoamerican astronomy in dance format.",
+      "importancia_es": "Los Voladores de Papantla codifican matemáticamente el calendario mesoamericano: 4 voladores × 13 vueltas = 52 años, el ciclo completo.",
+      "tags": [
+        "Totonacas",
+        "El Tajín",
+        "Voladores",
+        "baunilha",
+        "aliança",
+        "Cortés"
+      ],
+      "dataset": "data/dados-toltecas.json"
+    },
+    {
+      "id": "tol-004",
+      "nome": "Xochicalco e Cholula: Cidades do Interregno",
+      "nome_en": "Xochicalco and Cholula: Cities of the Interregnum",
+      "nome_es": "Xochicalco y Cholula: Ciudades del Interregno",
+      "tipo": "periodo",
+      "inicio": 650,
+      "fim": 1200,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 7,
+      "type": "political",
+      "descricao": "Entre o colapso de Teotihuacán (c. 650) e a ascensão asteca (c. 1300), o vale do México e arredores abrigaram múltiplos centros independentes. Xochicalco ('Casa das Flores', atual Morelos) foi uma cidade-fortaleza no topo de colinas artificialmente terraçadas — com o mais belo Templo da Serpente Emplumada fora de Teotihuacán. Cholula (atual Puebla) abriga a maior pirâmide do mundo por volume — o Grande Altar de Quetzalcóatl: 450 × 450 metros de base, construída em quatro fases ao longo de 1.000 anos. A basílica colonial espanhola foi construída deliberadamente em cima.",
+      "descricao_en": "Between Teotihuacán's collapse (c. 650) and the Aztec rise (c. 1300), the Valley of Mexico and surroundings hosted multiple independent centers. Xochicalco ('House of Flowers', modern Morelos) was a fortress-city on artificially terraced hilltops — with the most beautiful Temple of the Feathered Serpent outside Teotihuacán. Cholula (modern Puebla) houses the world's largest pyramid by volume — the Great Altar of Quetzalcóatl: 450 × 450 meter base, built in four phases over 1,000 years. The Spanish colonial basilica was deliberately built on top.",
+      "descricao_es": "Xochicalco fue una ciudad-fortaleza con el más bello Templo de la Serpiente Emplumada fuera de Teotihuacán. Cholula alberga la pirámide más grande del mundo por volumen — 450×450 metros — construida en cuatro fases a lo largo de 1.000 años.",
+      "importancia": "A pirâmide de Cholula é 4 vezes maior em volume que a Grande Pirâmide de Gizé — e a maioria dos turistas não sabe que está pisando numa pirâmide quando visita a Basílica de Nossa Senhora de Remédios. Os espanhóis construíram uma igreja em cima como ato deliberado de substituição simbólica — a maior pirâmide do mundo coberta por uma basílica cristã.",
+      "importancia_en": "The Cholula pyramid is 4 times larger in volume than the Great Pyramid of Giza — and most tourists don't realize they're walking on a pyramid when they visit the Basilica of Our Lady of Remedies. The Spanish deliberately built a church on top as an act of symbolic replacement — the world's largest pyramid covered by a Christian basilica.",
+      "importancia_es": "La pirámide de Cholula es 4 veces más grande en volumen que la Gran Pirámide de Guiza. Los españoles construyeron deliberadamente una iglesia encima como acto de sustitución simbólica.",
+      "tags": [
+        "Cholula",
+        "Xochicalco",
+        "pirâmide",
+        "basílica",
+        "Quetzalcóatl",
+        "interregno"
+      ],
+      "dataset": "data/dados-toltecas.json"
+    },
+    {
+      "id": "tol-001",
+      "nome": "Tula: A Capital dos Guerreiros Toltecas",
+      "nome_en": "Tula: The Capital of the Toltec Warriors",
+      "nome_es": "Tula: La Capital de los Guerreros Toltecas",
+      "tipo": "periodo",
+      "inicio": 700,
+      "fim": 1150,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 8,
+      "type": "political",
+      "descricao": "Tula (atual Hidalgo, México) foi a capital do Estado tolteca (c. 700–1150 d.C.), com população estimada de 30.000–60.000 habitantes. Os Atlantes de Tula — quatro guerreiros de basalto de 4,6 metros que sustentavam o teto do Templo de Quetzalcóatl — são o símbolo mais icônico da arte tolteca. A Tula histórica foi provavelmente a base do mito de 'Tollan' — a cidade perfeita descrita em fontes astecas posteriores. Os astecas reivindicavam descender dos toltecas e invocavam seu prestígio para legitimar seu domínio.",
+      "descricao_en": "Tula (modern Hidalgo, Mexico) was the Toltec state's capital (c. 700–1150 AD), with an estimated population of 30,000–60,000 inhabitants. Tula's Atlanteans — four 4.6-meter basalt warriors that supported the roof of the Temple of Quetzalcóatl — are the most iconic symbol of Toltec art. Historical Tula was probably the basis of the 'Tollan' myth — the perfect city described in later Aztec sources. The Aztecs claimed descent from the Toltecs and invoked their prestige to legitimize their rule.",
+      "descricao_es": "Tula fue la capital tolteca con 30.000-60.000 habitantes. Los Atlantes de Tula — guerreros de basalto de 4,6 metros — son el símbolo más icónico del arte tolteca. Los aztecas reivindicaban descender de los toltecas para legitimizar su dominio.",
+      "importancia": "O Templo de Quetzalcóatl de Tula e o Templo dos Guerreiros de Chichén Itzá (maia) são arquitetonicamente tão similares que demonstram contacto direto entre as duas cidades — uma das maiores evidências de redes de longa distância na Mesoamérica. Se foi conquista, migração ou comércio permanece debatido.",
+      "importancia_en": "Tula's Temple of Quetzalcóatl and Chichén Itzá's Temple of Warriors (Maya) are architecturally so similar they demonstrate direct contact between the two cities — one of the greatest pieces of evidence for long-distance networks in Mesoamerica. Whether it was conquest, migration or trade remains debated.",
+      "importancia_es": "El Templo de Quetzalcóatl de Tula y el Templo de los Guerreros de Chichén Itzá son arquitectónicamente tan similares que demuestran contacto directo entre ambas ciudades.",
+      "tags": [
+        "Tula",
+        "Atlantes",
+        "toltecas",
+        "Quetzalcóatl",
+        "guerreiros",
+        "Tollan"
+      ],
+      "dataset": "data/dados-toltecas.json"
+    },
+    {
+      "id": "tol-002",
+      "nome": "Ce Ácatl Topiltzin: O Rei que Se Tornou Deus",
+      "nome_en": "Ce Ácatl Topiltzin: The King Who Became a God",
+      "nome_es": "Ce Ácatl Topiltzin: El Rey que Se Convirtió en Dios",
+      "tipo": "periodo",
+      "inicio": 935,
+      "fim": 987,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 10,
+      "type": "cultural",
+      "descricao": "Ce Ácatl Topiltzin Quetzalcóatl (c. 935–987 d.C.) foi o mais famoso rei tolteca — e sua história se confunde com o mito. As crônicas astecas narram que ele fundou Tula, introduziu o culto pacífico de Quetzalcóatl (proibindo o sacrifício humano), foi expulso por seu rival Tezcatlipoca através de feitiçaria e humilhação ritual, e partiu para o Leste prometendo retornar no ano Ce Ácatl (1 Cana) para reclamar seu reino. Hernán Cortés chegou ao México em 1519 — o ano Ce Ácatl no calendário asteca. Esta coincidência foi usada pelos cronistas coloniais para explicar a suposta 'confusão' de Moctezuma.",
+      "descricao_en": "Ce Ácatl Topiltzin Quetzalcóatl (c. 935–987 AD) was the most famous Toltec king — and his story blends with myth. Aztec chronicles narrate that he founded Tula, introduced the peaceful cult of Quetzalcóatl (prohibiting human sacrifice), was expelled by his rival Tezcatlipoca through sorcery and ritual humiliation, and departed East promising to return in the year Ce Ácatl (1 Reed) to reclaim his kingdom. Hernán Cortés arrived in Mexico in 1519 — the year Ce Ácatl in the Aztec calendar. This coincidence was used by colonial chroniclers to explain Moctezuma's supposed 'confusion'.",
+      "descricao_es": "Ce Ácatl Topiltzin Quetzalcóatl fue el más famoso rey tolteca. Partió hacia el Este prometiendo regresar en el año Ce Ácatl. Cortés llegó a México en 1519 — el año Ce Ácatl. Esta coincidencia fue usada para explicar la 'confusión' de Moctezuma.",
+      "importancia": "A narrativa de que Moctezuma 'confundiu' Cortés com o deus Quetzalcóatl retornando é questionada pela historiografia recente como uma construção colonial posterior — não há evidências contemporâneas da conquista que suportem isso. Foi provavelmente uma justificativa retroativa inserida nas crônicas coloniais para explicar a derrota asteca.",
+      "importancia_en": "The narrative that Moctezuma 'confused' Cortés with the returning god Quetzalcóatl is questioned by recent historiography as a later colonial construction — there is no contemporary evidence from the conquest that supports this. It was probably a retroactive justification inserted into colonial chronicles to explain the Aztec defeat.",
+      "importancia_es": "La narrativa de que Moctezuma confundió a Cortés con Quetzalcóatl es cuestionada por la historiografía reciente como una construcción colonial posterior.",
+      "tags": [
+        "Topiltzin",
+        "Quetzalcóatl",
+        "mito",
+        "Tezcatlipoca",
+        "Ce Ácatl",
+        "Cortés"
+      ],
+      "dataset": "data/dados-toltecas.json"
+    },
+    {
+      "id": "tol-003",
+      "nome": "O Colapso Tolteca e os Chichimecas",
+      "nome_en": "The Toltec Collapse and the Chichimecs",
+      "nome_es": "El Colapso Tolteca y los Chichimecas",
+      "tipo": "evento",
+      "inicio": 1150,
+      "fim": 1300,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 12,
+      "type": "war",
+      "descricao": "O colapso de Tula (c. 1150–1200 d.C.) foi causado por combinação de seca prolongada, pressão de povos migrantes do norte ('Chichimecas' — termo genérico para povos semi-nômades do árido norte mexicano) e colapso interno. 'Chichimeca' não é um grupo específico — é um termo náhuatl pejorativo (aproximadamente 'filhos de cão') para os múltiplos grupos nômades e seminômades do norte. Após o colapso de Tula, o vale do México ficou fragmentado entre múltiplas cidades-estado rivais — o vácuo de poder que os astecas preencheriam dois séculos depois.",
+      "descricao_en": "The collapse of Tula (c. 1150–1200 AD) was caused by a combination of prolonged drought, pressure from migrating northern peoples ('Chichimecs' — generic term for semi-nomadic peoples of arid northern Mexico) and internal collapse. 'Chichimec' is not a specific group — it is a pejorative Nahuatl term (roughly 'sons of dogs') for the multiple nomadic and semi-nomadic groups of the north. After Tula's collapse, the Valley of Mexico was fragmented among multiple rival city-states — the power vacuum that the Aztecs would fill two centuries later.",
+      "descricao_es": "El colapso de Tula (c. 1150-1200) fue causado por sequía prolongada y presión de los Chichimecas — término náhuatl genérico para pueblos nómadas del norte árido. El Valle de México quedó fragmentado, creando el vacío de poder que los aztecas llenarían.",
+      "importancia": "Os Chichimecas do norte não eram 'bárbaros' sem organização — muitos grupos tinham estruturas políticas complexas, conhecimento agrícola sofisticado e rotas de comércio de longa distância. A resistência Chichimeca ao domínio espanhol (Guerra Chichimeca, 1550–1590) foi a mais longa e cara guerra colonial da América do Norte.",
+      "importancia_en": "The northern Chichimecs were not 'barbarians' without organization — many groups had complex political structures, sophisticated agricultural knowledge and long-distance trade routes. The Chichimec resistance to Spanish rule (Chichimec War, 1550–1590) was the longest and most expensive colonial war in North America.",
+      "importancia_es": "Los Chichimecas no eran 'bárbaros' sin organización. La resistencia chichimeca al dominio español (1550-1590) fue la guerra colonial más larga y costosa de América del Norte.",
+      "tags": [
+        "Chichimecas",
+        "colapso",
+        "Tula",
+        "seca",
+        "nômades",
+        "norte"
+      ],
+      "dataset": "data/dados-toltecas.json"
+    },
+    {
+      "id": "tol-005",
+      "nome": "Tlaxcaltecas: Os Aliados da Conquista",
+      "nome_en": "Tlaxcaltecs: The Allies of the Conquest",
+      "nome_es": "Tlaxcaltecas: Los Aliados de la Conquista",
+      "tipo": "periodo",
+      "inicio": 1200,
+      "fim": 1600,
+      "region": "Americas",
+      "period": "EarlyModern",
+      "century_start": 13,
+      "type": "political",
+      "descricao": "Tlaxcala ('lugar da tortilha de milho') foi o Estado independente mais importante do México central na época da conquista. Uma república confederada de quatro cidades-estado aliadas — Ocotelolco, Quiahuiztlan, Tizatlan e Tepeticpac — governada por um conselho de senhores. Nunca foi conquistada pelos astecas, apesar de cercada por território de Tenochtitlan. Quando Cortés chegou em 1519, os tlaxcaltecas primeiro o combateram (derrotando seus aliados iniciais) e depois firmaram aliança — reconhecendo que Cortés oferecia a oportunidade de derrubar o odiado domínio asteca.",
+      "descricao_en": "Tlaxcala ('place of tortillas') was the most important independent state in central Mexico at the time of the conquest. A confederated republic of four allied city-states — Ocotelolco, Quiahuiztlan, Tizatlan and Tepeticpac — governed by a council of lords. It was never conquered by the Aztecs, despite being surrounded by Tenochtitlan's territory. When Cortés arrived in 1519, the Tlaxcaltecs first fought him (defeating his initial allies) and then formed an alliance — recognizing that Cortés offered the opportunity to overthrow the hated Aztec domination.",
+      "descricao_es": "Tlaxcala fue el Estado independente más importante de México central en la época de la conquista. Nunca fue conquistada por los aztecas. Cuando Cortés llegó en 1519, los tlaxcaltecas primero lo combatieron y luego se aliaron, reconociendo la oportunidad de derrocar el dominio azteca.",
+      "importancia": "Sem a aliança tlaxcalteca, Cortés teria fracassado. Os 150.000 guerreiros tlaxcaltecas (e aliados indígenas) que marcharam sobre Tenochtitlan em 1521 foram o fator decisivo — não as poucas centenas de soldados espanhóis. A Conquista do México foi primordialmente uma guerra civil mesoamericana na qual os espanhóis foram o catalisador.",
+      "importancia_en": "Without the Tlaxcaltecan alliance, Cortés would have failed. The 150,000 Tlaxcaltecan (and allied indigenous) warriors who marched on Tenochtitlan in 1521 were the decisive factor — not the few hundred Spanish soldiers. The Conquest of Mexico was primarily a Mesoamerican civil war in which the Spanish were the catalyst.",
+      "importancia_es": "Sin la alianza tlaxcalteca, Cortés habría fracasado. Los 150.000 guerreros tlaxcaltecas fueron el factor decisivo — no los pocos cientos de soldados españoles. La Conquista de México fue primordialmente una guerra civil mesoamericana.",
+      "tags": [
+        "Tlaxcala",
+        "aliança",
+        "Cortés",
+        "conquista",
+        "república",
+        "confederação"
+      ],
+      "dataset": "data/dados-toltecas.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "tol-001",
+      "destino": "tol-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Tula produz o mito-fundador de Topiltzin Quetzalcóatl"
+    },
+    {
+      "origem": "tol-002",
+      "destino": "tol-003",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Conflito ritual pelo poder em Tula precede o colapso"
+    },
+    {
+      "origem": "tol-003",
+      "destino": "tol-004",
+      "tipo": "evolucao",
+      "intensidade": 0.7,
+      "descricao": "Vácuo pós-Tula permite florescimento de Cholula e Xochicalco"
+    },
+    {
+      "origem": "tol-003",
+      "destino": "tol-005",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Fragmentação pós-tolteca cria o contexto de rivalidades que Tlaxcala explora"
+    },
+    {
+      "origem": "tol-005",
+      "destino": "tol-006",
+      "tipo": "paralelo",
+      "intensidade": 0.7,
+      "descricao": "Tlaxcaltecas e totonacas são os dois principais aliados indígenas de Cortés"
+    }
+  ]
+}

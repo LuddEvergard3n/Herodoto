@@ -1,0 +1,329 @@
+{
+  "entidades": [
+    {
+      "id": "evo-001",
+      "nome": "Australopithecus e Primeiros Hominídeos",
+      "nome_en": "Australopithecus and Early Hominids",
+      "nome_es": "Australopithecus y Primeros Homínidos",
+      "tipo": "periodo",
+      "descricao": "Australopithecus (4,2–1,9 Ma): primeiro hominídeo com bipedalismo regular. Fóssil 'Lucy' (A. afarensis, Etiópia, 3,2 Ma) mais famoso espécime. Cérebro ~450 cm³ (chimpanzé: ~380 cm³). Uso ocasional de ossos e pedras lascadas não intencionais. Coexistência de múltiplas espécies de hominídeos — a linhagem humana nunca foi linear nem simples.",
+      "descricao_en": "Australopithecus (4.2–1.9 Ma): first hominid with regular bipedalism. Fossil 'Lucy' (A. afarensis, Ethiopia, 3.2 Ma) most famous specimen. Brain ~450 cm³ (chimpanzee: ~380 cm³). Occasional use of bones and unintentional flaked stones. Coexistence of multiple hominid species — the human lineage was never linear or simple.",
+      "descricao_es": "Australopithecus (4,2–1,9 Ma): primer homínido con bipedalismo regular. Fósil 'Lucy' (A. afarensis, Etiopía, 3,2 Ma). Cerebro ~450 cm³. Uso ocasional de huesos y piedras. La línea humana nunca fue lineal ni simple.",
+      "inicio": -4200000,
+      "fim": -1900000,
+      "tags": [
+        "australopithecus",
+        "hominideos",
+        "evolucao",
+        "bipedalismo"
+      ],
+      "importancia": "Australopithecus (3.9–2.9 Ma) é o primeiro hominídeo que andava bipedalismo consistente — o que libertou as mãos para manipulação, criando o ciclo evolutivo que eventualmente produziu o Homo sapiens. 'Lucy' (Australopithecus afarensis, 3.2 Ma), descoberta em 1974, ainda é o espécime mais famoso da paleoantropologia. O bipedismo antecedeu o cérebro grande por 2 milhões de anos — sugerindo que a postura vertical não foi adaptação para inteligência, mas para locomoção eficiente no ambiente de savana pós-florestamento africano.",
+      "century_start": -42000,
+      "century_end": -19000,
+      "region": "Global",
+      "type": "cultural",
+      "period": "Prehistoric",
+      "importancia_en": "The discovery that humanity evolved in Africa — confirmed through fossil finds from Lucy (1974) to Sahelanthropus (2001) — is the most consequential fact in human self-understanding.",
+      "importancia_es": "El descubrimiento de que la humanidad evolucionó en África — confirmado mediante hallazgos fósiles desde Lucy (1974) hasta Sahelanthropus (2001) — es el hecho más trascendente en la autocomprensión humana."
+    },
+    {
+      "id": "evo-005",
+      "nome": "Paleolítico Inferior e Médio",
+      "nome_en": "Lower and Middle Paleolithic",
+      "nome_es": "Paleolítico Inferior y Medio",
+      "tipo": "periodo",
+      "descricao": "Paleolítico Inferior (3,3 Ma–300.000 a.C.): tecnologia olduvaina, depois acheuliana (bifaces simétricas). Paleolítico Médio (300.000–40.000 a.C.): tecnologia musteriense. Controle sistemático do fogo. Primeiros sepultamentos (neandertais e sapiens). Arte simbólica inicial — conchas perfuradas (África do Norte, ~130.000 a.C.). Grupos de 20–50 indivíduos, mobilidade sazonal. Sem sistemas de armazenamento duradouro ou hierarquias formais — mas evidências de cooperação e troca de longa distância.",
+      "descricao_en": "Lower Paleolithic (3.3 Ma–300,000 BC): Oldowan then Acheulean technology (symmetric bifaces). Middle Paleolithic (300,000–40,000 BC): Mousterian technology. Systematic fire control. First burials (Neanderthals and sapiens). Initial symbolic art — perforated shells (North Africa, ~130,000 BC). Groups of 20–50 individuals, seasonal mobility. No durable storage systems or formal hierarchies — but evidence of cooperation and long-distance exchange.",
+      "descricao_es": "Paleolítico Inferior (3,3 Ma–300.000 a.C.): tecnología olduvaiense, luego achelense. Paleolítico Medio (300.000–40.000 a.C.): tecnología musteriense. Control sistemático del fuego. Primeros enterramientos. Arte simbólico inicial — conchas perforadas (~130.000 a.C.).",
+      "inicio": -3300000,
+      "fim": -40000,
+      "tags": [
+        "paleolitico",
+        "ferramentas",
+        "acheuliana",
+        "musteriense"
+      ],
+      "importancia": "O Paleolítico Inferior (3,3 Ma–300.000 a.p.) e Médio (300.000–50.000 a.p.) são os 99% da história humana: quase toda a existência da linhagem homínida foi gasta em manufatura de ferramentas de pedra com mudança tecnológica extremamente lenta. A transição para o Paleolítico Superior (50.000 a.p.) — com arte, adornos e pensamento simbólico — foi tão abrupta que arqueólogos chamam de 'Revolução do Comportamento Humano'. A questão em aberto: foi a linguagem complexa o gatilho desta revolução cognitiva?",
+      "century_start": -33000,
+      "century_end": -400,
+      "region": "Global",
+      "type": "cultural",
+      "period": "Prehistoric",
+      "importancia_en": "No durable storage systems or formal hierarchies — but evidence of cooperation and long-distance exchange.",
+      "importancia_es": "Arte simbólico inicial — conchas perforadas (~130.000 a.C.)."
+    },
+    {
+      "id": "evo-002",
+      "nome": "Homo habilis e Homo erectus",
+      "nome_en": "Homo habilis and Homo erectus",
+      "nome_es": "Homo habilis y Homo erectus",
+      "tipo": "periodo",
+      "descricao": "Homo habilis (2,4–1,4 Ma): primeiro Homo, cérebro ~640 cm³, ferramentas olduvainas sistemáticas. Homo erectus (1,9 Ma–100.000 a.C.): primeiro hominídeo a sair da África — fósseis no Cáucaso, Ásia e Europa. Cérebro ~900 cm³. Controle do fogo (~1 Ma, debatido). Caça coordenada. Uso de abrigos. Evidências de dispersão global antes do Homo sapiens invalidam modelos simplistas de origem única.",
+      "descricao_en": "Homo habilis (2.4–1.4 Ma): first Homo, brain ~640 cm³, systematic Oldowan tools. Homo erectus (1.9 Ma–100,000 BC): first hominid to leave Africa — fossils in Caucasus, Asia and Europe. Brain ~900 cm³. Control of fire (~1 Ma, debated). Coordinated hunting. Use of shelters. Evidence of global dispersal before Homo sapiens invalidates simplistic single-origin models.",
+      "descricao_es": "Homo habilis (2,4–1,4 Ma): primer Homo, cerebro ~640 cm³, herramientas olduvainas. Homo erectus (1,9 Ma–100.000 a.C.): primer homínido en salir de África. Cerebro ~900 cm³. Control del fuego (~1 Ma). La dispersión global antes del Homo sapiens invalida modelos de origen único simplistas.",
+      "inicio": -2400000,
+      "fim": -100000,
+      "tags": [
+        "homo-habilis",
+        "homo-erectus",
+        "ferramentas",
+        "fogo"
+      ],
+      "importancia": "Homo habilis ('homem habilidoso', 2.4–1.5 Ma) e Homo erectus (1.9 Ma–100.000 a.p.) representam os dois saltos cognitivos fundamentais: ferramentas de pedra (indústria Olduvaiense) e controle do fogo. H. erectus foi o primeiro hominídeo a sair da África — chegou à China e Java há 1,8 Ma, muito antes do Homo sapiens. A dispersão do H. erectus demonstra que a migração humana para fora da África não foi evento único mas processo repetido de múltiplas ondas ao longo de 2 milhões de anos.",
+      "century_start": -24000,
+      "century_end": -1000,
+      "region": "Global",
+      "type": "cultural",
+      "period": "Prehistoric",
+      "importancia_en": "Homo erectus (~1.8 Ma) was the first hominid to leave Africa — spreading to Europe and Asia, mastering fire and creating the first stable tool traditions, proving that technological innovation and geographic expansion are linked.",
+      "importancia_es": "Homo erectus (~1,8 Ma) fue el primer homínido en salir de África — extendiéndose por Europa y Asia, dominando el fuego y creando las primeras tradiciones de herramientas estables, demostrando que la innovación tecnológica y la expansión geográfica están vinculadas."
+    },
+    {
+      "id": "evo-003",
+      "nome": "Neandertais e Denisovanos",
+      "nome_en": "Neanderthals and Denisovans",
+      "nome_es": "Neandertales y Denisovanos",
+      "tipo": "periodo",
+      "descricao": "Neandertais (400.000–30.000 a.C.): espécie adaptada ao frio europeu, cérebro igual ou maior que o sapiens (~1.500 cm³). Arte em cavernas (Espanha, 64.000 a.C. — anterior ao sapiens na Europa), sepultamentos, uso de pigmentos. Denisovanos (descobertos 2010, Sibéria): conhecidos quase só pelo DNA. Cruzamento comprovado com sapiens por sequenciamento genético — 2–4% do genoma eurasiano é neandertal; populações melanésias têm até 6% de DNA denisovano.",
+      "descricao_en": "Neanderthals (400,000–30,000 BC): species adapted to European cold, brain equal to or larger than sapiens (~1,500 cm³). Cave art (Spain, 64,000 BC — predating sapiens in Europe), burials, use of pigments. Denisovans (discovered 2010, Siberia): known almost solely by DNA. Cross-breeding with sapiens proven by genetic sequencing — 2–4% of Eurasian genome is Neanderthal; Melanesian populations have up to 6% Denisovan DNA.",
+      "descricao_es": "Neandertales (400.000–30.000 a.C.): adaptados al frío europeo, cerebro ~1.500 cm³. Arte rupestre (España, 64.000 a.C. — anterior al sapiens en Europa), sepulturas, pigmentos. Denisovanos (descubiertos 2010): conocidos casi solo por ADN. Cruce comprobado — 2–4% del genoma euroasiático es neandertal; melanesios tienen hasta 6% de ADN denisovano.",
+      "inicio": -400000,
+      "fim": -30000,
+      "tags": [
+        "neandertais",
+        "denisovanos",
+        "dna",
+        "hibridizacao"
+      ],
+      "importancia": "DNA neandertal/denisovano em humanos modernos prova hibridização extensa — modelo de dispersão humana é muito mais complexo que uma onda única.",
+      "century_start": -4000,
+      "century_end": -300,
+      "region": "Global",
+      "type": "cultural",
+      "period": "Prehistoric",
+      "importancia_en": "Cross-breeding with sapiens proven by genetic sequencing — 2–4% of Eurasian genome is Neanderthal; Melanesian populations have up to 6% Denisovan DNA.",
+      "importancia_es": "Cruce comprobado — 2–4% del genoma euroasiático es neandertal; melanesios tienen hasta 6% de ADN denisovano."
+    },
+    {
+      "id": "evo-004",
+      "nome": "Homo sapiens: Dispersões Múltiplas e Revisão do Modelo",
+      "nome_en": "Homo sapiens: Multiple Dispersals and Model Revision",
+      "nome_es": "Homo sapiens: Dispersiones Múltiples y Revisión del Modelo",
+      "tipo": "periodo",
+      "descricao": "O modelo \"saída única da África\" (~60.000 a.C.) está em revisão profunda. Fósseis de H. sapiens fora da África datam muito antes: Apidima, Grécia (~210.000 a.C., Nature 2019); Misliya, Israel (~194.000 a.C.); Al Wusta, Arábia (~85.000 a.C.); Daoxian/Fuyan, China (~80-120.000 a.C.); Tam Pa Ling, Laos (~65-45.000 a.C.); Austrália (~65.000 a.C.). Nas Américas, Chiquihuite Cave (México) sugere presença ~26.000 a.C. O modelo atual aponta para dispersões múltiplas e fluxo gênico entre populações, não uma onda única.",
+      "descricao_en": "The \"single exit from Africa\" model (~60,000 BC) is under deep revision. H. sapiens fossils outside Africa date far earlier: Apidima, Greece (~210,000 BC, Nature 2019); Misliya, Israel (~194,000 BC); Al Wusta, Arabia (~85,000 BC); Daoxian/Fuyan, China (~80-120,000 BC); Tam Pa Ling, Laos (~65-45,000 BC); Australia (~65,000 BC). In the Americas, Chiquihuite Cave (Mexico) suggests presence ~26,000 BC. The current model points to multiple dispersals and gene flow between populations, not a single wave.",
+      "descricao_es": "El modelo de \"salida única de África\" (~60.000 a.C.) está en revisión profunda. Fósiles de H. sapiens fuera de África datan mucho antes: Apidima, Grecia (~210.000 a.C., Nature 2019); Misliya, Israel (~194.000 a.C.); Al Wusta, Arabia (~85.000 a.C.); Daoxian/Fuyan, China (~80-120.000 a.C.); Tam Pa Ling, Laos (~65-45.000 a.C.); Australia (~65.000 a.C.). El modelo actual apunta a dispersiones múltiples y flujo génico, no a una ola única.",
+      "inicio": -315000,
+      "fim": -50000,
+      "tags": [
+        "homo-sapiens",
+        "origens",
+        "dispersao",
+        "paleogenetica"
+      ],
+      "importancia": "Apidima (Grécia, ~210.000 a.C.) e outros fósseis invalidam o modelo de saída única ~60-70 ka. A dispersão humana foi um processo de ondas múltiplas com hibridização extensa — não uma marcha linear.",
+      "century_start": -3150,
+      "century_end": -500,
+      "region": "Global",
+      "type": "cultural",
+      "period": "Prehistoric",
+      "importancia_en": "The 'Out of Africa' dispersal of Homo sapiens (~70,000 BC) and subsequent interbreeding with Neanderthals and Denisovans means every living human carries traces of multiple archaic human lineages — our species is a biological mosaic.",
+      "importancia_es": "La dispersión 'fuera de África' del Homo sapiens (~70.000 a.C.) y el posterior cruce con neandertales y denisovanos significa que todo ser humano vivo lleva trazos de múltiples linajes humanos arcaicos — nuestra especie es un mosaico biológico."
+    },
+    {
+      "id": "evo-006",
+      "nome": "Paleolítico Superior: Explosão Simbólica",
+      "nome_en": "Upper Paleolithic: Symbolic Explosion",
+      "nome_es": "Paleolítico Superior: Explosión Simbólica",
+      "tipo": "periodo",
+      "descricao": "Paleolítico Superior (~40.000–10.000 a.C.): explosão de inovação cultural. Arte rupestre: Lascaux (~17.000 a.C.), Altamira (~15.000 a.C.), Chauvet (~36.000 a.C.). Esculturas (Vênus de Willendorf, ~25.000 a.C.), flautas de osso, ornamentos. Tecnologia laminar altamente especializada. Colonização das Américas via Beríngia (~15.000–12.000 a.C., debatido). Extinção de megafauna (mamutes, mastodontes) — caça humana e mudança climática como causas combinadas.",
+      "descricao_en": "Upper Paleolithic (~40,000–10,000 BC): explosion of cultural innovation. Cave art: Lascaux (~17,000 BC), Altamira (~15,000 BC), Chauvet (~36,000 BC). Sculptures (Venus of Willendorf, ~25,000 BC), bone flutes, ornaments. Highly specialized blade technology. Colonization of the Americas via Beringia (~15,000–12,000 BC, debated). Megafauna extinction (mammoths, mastodons) — combined human hunting and climate change as causes.",
+      "descricao_es": "Paleolítico Superior (~40.000–10.000 a.C.): explosión cultural. Arte rupestre: Lascaux, Altamira, Chauvet (~36.000 a.C.). Venus de Willendorf, flautas de hueso. Colonización de América vía Beringia (~15.000–12.000 a.C.). Extinción de megafauna — caza humana y cambio climático.",
+      "inicio": -40000,
+      "fim": -10000,
+      "tags": [
+        "paleolitico-superior",
+        "arte-rupestre",
+        "beringia",
+        "megafauna"
+      ],
+      "importancia": "Arte de Chauvet (~36.000 a.C.): pensamento simbólico pleno 30 mil anos antes do Neolítico. A extinção da megafauna muda os ecossistemas para sempre.",
+      "century_start": -400,
+      "century_end": -100,
+      "region": "Global",
+      "type": "cultural",
+      "period": "Prehistoric",
+      "importancia_en": "Megafauna extinction (mammoths, mastodons) — combined human hunting and climate change as causes.",
+      "importancia_es": "Colonización de América vía Beringia (~15.000–12.000 a.C.). Extinción de megafauna — caza humana y cambio climático."
+    },
+    {
+      "id": "evo-007",
+      "nome": "Mesolítico: Adaptação Pós-Glacial",
+      "nome_en": "Mesolithic: Post-Glacial Adaptation",
+      "nome_es": "Mesolítico: Adaptación Posglacial",
+      "tipo": "periodo",
+      "descricao": "Mesolítico (~10.000–6.000 a.C.): período de transição após o fim da última glaciação (~11.700 a.C.). Extinção da megafauna forçou adaptação alimentar. Arco e flecha, anzóis, canoas e microlitos (lâminas minúsculas encabadas). Domesticação do cão (~15.000 a.C.). Semi-sedentarismo em sítios costeiros e ribeirinhos. Cemitérios coletivos (Skateholm, Suécia; Natufiano, Oriente Médio) indicam comunidades com territórios e identidade grupal estável.",
+      "descricao_en": "Mesolithic (~10,000–6,000 BC): transition period after the end of the last glaciation (~11,700 BC). Megafauna extinction forced dietary adaptation. Bow and arrow, fishhooks, canoes and microliths (tiny hafted blades). Dog domestication (~15,000 BC). Semi-sedentism at coastal and riverine sites. Collective cemeteries (Skateholm, Sweden; Natufian, Middle East) indicate communities with territories and stable group identity.",
+      "descricao_es": "Mesolítico (~10.000–6.000 a.C.): transición tras el fin de la glaciación (~11.700 a.C.). Extinción de megafauna. Arco y flecha, anzuelos, canoas y microlitos. Domesticación del perro (~15.000 a.C.). Cementerios colectivos (Skateholm; Natufiense) indican comunidades con identidad grupal estable.",
+      "inicio": -10000,
+      "fim": -6000,
+      "tags": [
+        "mesolitico",
+        "glaciacao",
+        "microlitos",
+        "domesticacao"
+      ],
+      "importancia": "Ponte entre caçadores-coletores e primeiros agricultores. Cemitérios coletivos: primeiras comunidades com identidade territorial clara.",
+      "century_start": -100,
+      "century_end": -60,
+      "region": "Global",
+      "type": "cultural",
+      "period": "Prehistoric",
+      "importancia_en": "Collective cemeteries (Skateholm, Sweden; Natufian, Middle East) indicate communities with territories and stable group identity.",
+      "importancia_es": "Cementerios colectivos (Skateholm; Natufiense) indican comunidades con identidad grupal estable."
+    },
+    {
+      "id": "evo-008",
+      "nome": "Revolução Neolítica",
+      "nome_en": "Neolithic Revolution",
+      "nome_es": "Revolución Neolítica",
+      "tipo": "periodo",
+      "descricao": "Neolítico (~10.000–3.000 a.C.): transição para agricultura e pastoreio em múltiplos focos independentes — Crescente Fértil (trigo, cevada), China (arroz, painço), Nova Guiné (taro), Américas (milho, batata). Sedentarismo permitiu aldeias permanentes: Jericó (~9.000 a.C.), Çatalhöyük (~7.500 a.C., 10.000 hab.). Cerâmica, tecelagem, pedra polida. Excedente alimentar possibilitou especialização artesanal e acúmulo de riqueza diferencial. Megalitos (Göbekli Tepe, ~9.600 a.C.) precedem a agricultura.",
+      "descricao_en": "Neolithic (~10,000–3,000 BC): transition to agriculture and herding in multiple independent centers — Fertile Crescent (wheat, barley), China (rice, millet), New Guinea (taro), Americas (maize, potato). Sedentism allowed permanent villages: Jericho (~9,000 BC), Çatalhöyük (~7,500 BC, 10,000 inhabitants). Ceramics, weaving, polished stone. Food surplus enabled craft specialization and differential wealth accumulation. Megaliths (Göbekli Tepe, ~9,600 BC) predate agriculture.",
+      "descricao_es": "Neolítico (~10.000–3.000 a.C.): agricultura y pastoreo en múltiples focos independientes. Çatalhöyük (~7.500 a.C., 10.000 hab.). Cerámica, tejido, piedra pulida. El excedente alimentario posibilitó la especialización artesanal. Göbekli Tepe (~9.600 a.C.) precede a la agricultura.",
+      "inicio": -10000,
+      "fim": -3000,
+      "tags": [
+        "neolitico",
+        "agricultura",
+        "sedentarismo",
+        "catalhoyuk"
+      ],
+      "importancia": "Göbekli Tepe reverte a hipótese: a construção monumental precedeu — não seguiu — a agricultura. Uma das maiores revisões da pré-história recente.",
+      "century_start": -100,
+      "century_end": -30,
+      "region": "Global",
+      "type": "technological",
+      "period": "Prehistoric",
+      "importancia_en": "The Neolithic Revolution (~10,000 BC) — agriculture, animal husbandry, permanent settlement — is the single most consequential behavioral change in human history: it enabled civilization but also created hierarchy, disease and warfare at scale.",
+      "importancia_es": "La Revolución Neolítica (~10.000 a.C.) — agricultura, ganadería, asentamiento permanente — es el cambio de comportamiento más trascendente en la historia humana: permitió la civilización pero también creó jerarquía, enfermedades y guerra a escala."
+    },
+    {
+      "id": "evo-009",
+      "nome": "Idade do Bronze e Primeiras Civilizações",
+      "nome_en": "Bronze Age and First Civilizations",
+      "nome_es": "Edad del Bronce y Primeras Civilizaciones",
+      "tipo": "periodo",
+      "descricao": "Idade do Bronze (~3.300–1.200 a.C.): metalurgia do bronze (cobre + estanho) revolucionou ferramentas, armas e comércio de longa distância. Primeiras civilizações urbanas: Suméria (~3.500 a.C.), Egito (~3.100 a.C.), Vale do Indo (~2.600 a.C.), Minoica (~2.700 a.C.), Shang (~1.600 a.C.). Invenção da escrita cuneiforme (~3.200 a.C.) e hieroglífica (~3.100 a.C.) encerram a pré-história por definição. Rota do Estanho conectou Oriente Médio, Europa e Ásia. Pirâmides e zigurates: organização estatal complexa.",
+      "descricao_en": "Bronze Age (~3,300–1,200 BC): bronze metallurgy (copper + tin) revolutionized tools, weapons and long-distance trade. First urban civilizations: Sumer (~3,500 BC), Egypt (~3,100 BC), Indus Valley (~2,600 BC), Minoan (~2,700 BC), Shang (~1,600 BC). Invention of cuneiform (~3,200 BC) and hieroglyphic (~3,100 BC) writing ends prehistory by definition. Tin Route connected Middle East, Europe and Asia. Pyramids and ziggurats: complex state organization.",
+      "descricao_es": "Edad del Bronce (~3.300–1.200 a.C.): metalurgia del bronce revolucionó herramientas y comercio. Primeras civilizaciones: Sumeria, Egipto, Valle del Indo, Minoica, Shang. Escritura cuneiforme (~3.200 a.C.) y jeroglífica (~3.100 a.C.) terminan la prehistoria. Pirámides y zigurats: organización estatal compleja.",
+      "inicio": -3300,
+      "fim": -1200,
+      "tags": [
+        "bronze",
+        "sumer",
+        "escrita",
+        "civilizacoes"
+      ],
+      "importancia": "A escrita marca o fim da pré-história. A Rota do Estanho: primeira cadeia de comércio verdadeiramente inter-regional da história.",
+      "century_start": -33,
+      "century_end": -12,
+      "region": "Global",
+      "type": "technological",
+      "period": "Ancient",
+      "importancia_en": "Tin Route connected Middle East, Europe and Asia. Pyramids and ziggurats: complex state organization.",
+      "importancia_es": "Escritura cuneiforme (~3.200 a.C.) y jeroglífica (~3.100 a.C.) terminan la prehistoria. Pirámides y zigurats: organización estatal compleja."
+    },
+    {
+      "id": "evo-010",
+      "nome": "Colapso da Idade do Bronze e Idade do Ferro",
+      "nome_en": "Bronze Age Collapse and Iron Age",
+      "nome_es": "Colapso de la Edad del Bronce y Edad del Hierro",
+      "tipo": "periodo",
+      "descricao": "Colapso da Idade do Bronze (~1.200–1.150 a.C.): uma das maiores catástrofes civilizacionais da história — destruição de Micenas, Ugarit, Hatti, colapso do comércio mediterrâneo. Causas debatidas: Povos do Mar, sismos, seca prolongada, colapso em cascata das redes de comércio. Idade do Ferro (~1.200 a.C.–500 d.C.): ferro mais abundante que bronze, tecnologia disseminada por hititas. Grandes impérios: Assírio, Persa, Macedônio, Romano. Alfabetos fonéticos expandiram a escrita para além das elites.",
+      "descricao_en": "Bronze Age Collapse (~1,200–1,150 BC): one of the greatest civilizational catastrophes in history — destruction of Mycenae, Ugarit, Hatti, collapse of Mediterranean trade. Debated causes: Sea Peoples, earthquakes, prolonged drought, cascading collapse of trade networks. Iron Age (~1,200 BC–500 AD): iron more abundant than bronze, technology disseminated by Hittites. Great empires: Assyrian, Persian, Macedonian, Roman. Phonetic alphabets expanded writing beyond elites.",
+      "descricao_es": "Colapso de la Edad del Bronce (~1.200–1.150 a.C.): destrucción de Micenas, Ugarit, Hatti, colapso del comercio mediterráneo. Causas debatidas: Pueblos del Mar, sismos, sequía. Edad del Hierro: hierro más abundante. Grandes imperios: Asirio, Persa, Macedonio, Romano. Alfabetos fonéticos expandieron la escritura.",
+      "inicio": -1200,
+      "fim": 500,
+      "tags": [
+        "colapso-bronze",
+        "ferro",
+        "povos-do-mar",
+        "impérios"
+      ],
+      "importancia": "O Colapso da Idade do Bronze: modelo de risco sistêmico em redes de interdependência. Ainda estudado como analogia para fragilidades modernas.",
+      "century_start": -12,
+      "century_end": 5,
+      "region": "Global",
+      "type": "technological",
+      "period": "Ancient",
+      "importancia_en": "Great empires: Assyrian, Persian, Macedonian, Roman. Phonetic alphabets expanded writing beyond elites.",
+      "importancia_es": "Grandes imperios: Asirio, Persa, Macedonio, Romano. Alfabetos fonéticos expandieron la escritura."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "evo-001",
+      "destino": "evo-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Australopithecus deu origem ao gênero Homo, com cérebro progressivamente maior"
+    },
+    {
+      "origem": "evo-002",
+      "destino": "evo-003",
+      "tipo": "contemporaneo",
+      "intensidade": 0.7,
+      "descricao": "Homo erectus coexistiu com os ancestrais dos neandertais durante centenas de milênios"
+    },
+    {
+      "origem": "evo-003",
+      "destino": "evo-004",
+      "tipo": "tensao",
+      "intensidade": 0.8,
+      "descricao": "Neandertais e sapiens coexistiram, competiram e se hibridizaram por pelo menos 10.000 anos"
+    },
+    {
+      "origem": "evo-004",
+      "destino": "evo-005",
+      "tipo": "contemporaneo",
+      "intensidade": 0.9,
+      "descricao": "Dispersões do Homo sapiens ocorreram ao longo de todo o Paleolítico Médio e Superior"
+    },
+    {
+      "origem": "evo-005",
+      "destino": "evo-006",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O Paleolítico Médio estabeleceu a base cognitiva para a explosão simbólica do Paleolítico Superior"
+    },
+    {
+      "origem": "evo-006",
+      "destino": "evo-007",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A extinção da megafauna no Paleolítico Superior forçou a adaptação mesolítica"
+    },
+    {
+      "origem": "evo-007",
+      "destino": "evo-008",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O semi-sedentarismo mesolítico preparou os experimentos agrícolas do Neolítico"
+    },
+    {
+      "origem": "evo-008",
+      "destino": "evo-009",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "O excedente agrícola neolítico permitiu a especialização artesanal que culminou na metalurgia do bronze"
+    },
+    {
+      "origem": "evo-009",
+      "destino": "evo-010",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A interdependência comercial da Idade do Bronze criou a fragilidade sistêmica que levou ao colapso de 1200 a.C."
+    }
+  ]
+}

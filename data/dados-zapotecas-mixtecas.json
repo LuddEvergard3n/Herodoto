@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "fonte": "Arqueologia e historiografia especializada",
+    "lingua": "pt",
+    "tema": "Zapotecas e Mixtecas: Monte Albán e os Señores de las Nubes",
+    "periodo": "-500 a 1521"
+  },
+  "entidades": [
+    {
+      "id": "zm-002",
+      "nome": "A Escrita Zapoteca: A Mais Antiga das Américas",
+      "nome_en": "Zapotec Writing: The Oldest in the Americas",
+      "nome_es": "La Escritura Zapoteca: La Más Antigua de las Américas",
+      "tipo": "periodo",
+      "inicio": -600,
+      "fim": 1521,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -6,
+      "type": "intellectual",
+      "descricao": "A escrita zapoteca (c. 600–400 a.C.) é atualmente considerada a mais antiga das Américas por maioria dos especialistas. Usa glifos logosilábicos — combinação de signos que representam palavras inteiras e sílabas — inscrita em monumentos de Monte Albán, Dainzú e Lambityeco. Os glifos representam nomes de guerreiros capturados, datas calendáricas e títulos de gobernantes. Parcialmente decifrada, a escrita zapoteca demonstra continuidade com o sistema posterior de outros povos oaxaquenhos mas não se confunde com a escrita maia.",
+      "descricao_en": "Zapotec writing (c. 600–400 BC) is currently considered the oldest in the Americas by the majority of specialists. It uses logosyllabic glyphs — a combination of signs representing whole words and syllables — inscribed on monuments at Monte Albán, Dainzú and Lambityeco. The glyphs represent names of captured warriors, calendar dates and ruler titles. Partially deciphered, Zapotec writing demonstrates continuity with the later writing of other Oaxacan peoples but is distinct from Maya writing.",
+      "descricao_es": "La escritura zapoteca (c. 600-400 a.C.) es actualmente considerada la más antigua de las Américas por la mayoría de especialistas. Usa glifos logosilábicos para representar guerreros capturados, fechas y títulos.",
+      "importancia": "A disputa entre zapotecas e olmecas pela escrita mais antiga das Américas não é meramente acadêmica — tem implicações para a compreensão de se a escrita mesoamericana surgiu uma ou múltiplas vezes independentemente. As evidências atuais favorecem os zapotecas para escrita sistemática comprovada.",
+      "importancia_en": "The dispute between Zapotec and Olmec for the oldest writing in the Americas is not merely academic — it has implications for understanding whether Mesoamerican writing arose once or multiple times independently. Current evidence favors the Zapotecs for proven systematic writing.",
+      "importancia_es": "La disputa entre zapotecas y olmecas por la escritura más antigua tiene implicaciones para entender si la escritura mesoamericana surgió una o múltiples veces independientemente.",
+      "tags": [
+        "zapotecas",
+        "escrita",
+        "glifos",
+        "logosilábico",
+        "Monte Albán",
+        "Dainzú"
+      ],
+      "dataset": "data/dados-zapotecas-mixtecas.json"
+    },
+    {
+      "id": "zm-001",
+      "nome": "Monte Albán: A Primeira Cidade Planejada do México",
+      "nome_en": "Monte Albán: Mexico's First Planned City",
+      "nome_es": "Monte Albán: La Primera Ciudad Planeada de México",
+      "tipo": "periodo",
+      "inicio": -500,
+      "fim": 700,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -5,
+      "type": "political",
+      "descricao": "Monte Albán (fundada c. 500 a.C., atual Oaxaca) foi a primeira grande cidade planejada do México e capital do Estado zapoteca por mais de 1.000 anos. Construída no topo de uma montanha artificialmente aplainada a 400 metros acima dos vales circundantes, com área de ~40 km² no auge e população estimada de 17.000–25.000 pessoas (séc. VII d.C.). Os zapotecas desenvolveram a escrita mais antiga comprovada da América (Stela 12, c. 600 a.C.) — anterior à olmeca controversa. Os edifícios J e P são observatórios astronômicos orientados para rastrear Vênus e os solstícios.",
+      "descricao_en": "Monte Albán (founded c. 500 BC, modern Oaxaca) was Mexico's first planned city and the Zapotec state's capital for over 1,000 years. Built atop an artificially flattened mountain 400 meters above the surrounding valleys, with an area of ~40 km² at its peak and an estimated population of 17,000–25,000 people (7th century AD). The Zapotecs developed the oldest proven writing in America (Stela 12, c. 600 BC) — predating the controversial Olmec claim. Buildings J and P are astronomical observatories oriented to track Venus and solstices.",
+      "descricao_es": "Monte Albán fue la primera ciudad planeada de México y capital zapoteca por más de 1.000 años. Los zapotecas desarrollaron la escritura más antigua comprobada de América (Estela 12, c. 600 a.C.). Los Edificios J y P son observatorios astronómicos.",
+      "importancia": "Monte Albán foi a capital de um Estado regional tão poderoso que conteve a expansão de Teotihuacán — as evidências mostram que as duas potências mantiveram relações diplomáticas formais, com um bairro zapoteca dentro de Teotihuacán e vice-versa. É o primeiro exemplo documentado de 'zona de embaixada' nas Américas.",
+      "importancia_en": "Monte Albán was the capital of a regional state powerful enough to contain Teotihuacán's expansion — evidence shows the two powers maintained formal diplomatic relations, with a Zapotec quarter inside Teotihuacán and vice versa. It is the first documented example of an 'embassy zone' in the Americas.",
+      "importancia_es": "Monte Albán fue capital de un Estado tan poderoso que contuvo la expansión de Teotihuacán — las dos potencias mantuvieron relaciones diplomáticas formales con barrios mutuos.",
+      "tags": [
+        "Monte Albán",
+        "zapotecas",
+        "Oaxaca",
+        "escrita",
+        "astronomia",
+        "cidade planejada"
+      ],
+      "dataset": "data/dados-zapotecas-mixtecas.json"
+    },
+    {
+      "id": "zm-003",
+      "nome": "Os Danzantes: Guerreiros, Sacrifícios e Poder",
+      "nome_en": "The Danzantes: Warriors, Sacrifices and Power",
+      "nome_es": "Los Danzantes: Guerreros, Sacrificios y Poder",
+      "tipo": "periodo",
+      "inicio": -500,
+      "fim": -100,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -5,
+      "type": "war",
+      "descricao": "Os 'Danzantes' ('dançarinos') de Monte Albán são uma galeria de ~300 tábuas de pedra com figuras humanas em posições contorcidas, olhos fechados e genitais expostos — na realidade, cativos de guerra sacrificados ou torturados, exibidos como demonstração de poder político. Datam do Período I de Monte Albán (c. 500–100 a.C.) e constituem um dos mais antigos programas iconográficos de terror de Estado das Américas. Inscrições nos corpos identificam nomes e lugares de origem — os zapotecas registravam sistematicamente suas conquistas.",
+      "descricao_en": "The 'Danzantes' ('dancers') of Monte Albán are a gallery of ~300 stone slabs with human figures in contorted positions, closed eyes and exposed genitals — in reality, sacrificed or tortured war captives, displayed as a demonstration of political power. Dating from Period I of Monte Albán (c. 500–100 BC), they constitute one of the oldest iconographic programs of state terror in the Americas. Inscriptions on the bodies identify names and places of origin — the Zapotecs systematically recorded their conquests.",
+      "descricao_es": "Los 'Danzantes' de Monte Albán son ~300 losas de piedra con cautivos de guerra sacrificados, expuestos como demostración de poder político. Las inscripciones identifican nombres y lugares de origen — los zapotecas registraban sistemáticamente sus conquistas.",
+      "importancia": "Os Danzantes são evidência direta de que os zapotecas usavam o sacrifício e a exibição de cativos como instrumento de poder político e dissuasão — não apenas como ritual religioso. É um dos mais claros exemplos de 'terror de Estado' organizado e monumentalizado nas Américas pré-colombianas.",
+      "importancia_en": "The Danzantes are direct evidence that the Zapotecs used sacrifice and display of captives as an instrument of political power and deterrence — not just as religious ritual. It is one of the clearest examples of organized and monumentalized 'state terror' in pre-Columbian America.",
+      "importancia_es": "Los Danzantes son evidencia de que los zapotecas usaban el sacrificio de cautivos como instrumento de poder político y disuasión, no solo como ritual religioso.",
+      "tags": [
+        "Danzantes",
+        "cativos",
+        "sacrifício",
+        "poder",
+        "guerra",
+        "Monte Albán"
+      ],
+      "dataset": "data/dados-zapotecas-mixtecas.json"
+    },
+    {
+      "id": "zm-004",
+      "nome": "Mixtecas: Os Señores das Nuvens e a Arte do Códice",
+      "nome_en": "Mixtecs: The Lords of the Clouds and the Art of the Codex",
+      "nome_es": "Mixtecas: Los Señores de las Nubes y el Arte del Códice",
+      "tipo": "periodo",
+      "inicio": 900,
+      "fim": 1521,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 10,
+      "type": "cultural",
+      "descricao": "Os mixtecas ('povo das nuvens', atual Oaxaca/Guerrero) foram os maiores artistas e artesãos da Mesoamérica pré-colombiana. Produziram os mais elaborados códices sobreviventes das Américas — especialmente o Códice Vindobonensis (Nuttall) e o Bodley, que narram genealogias reais, conquistas e rituais em pictografia sofisticada. Oito Veado Garra de Jaguar (1063–1115) foi o mais poderoso senhor mixteca — expandiu seu domínio de Tututepec a Tilantongo, submetendo 94 lugares e usando métodos que incluíam casamentos dinásticos, aliança e guerra.",
+      "descricao_en": "The Mixtecs ('people of the clouds', modern Oaxaca/Guerrero) were the greatest artists and artisans of pre-Columbian Mesoamerica. They produced the most elaborate surviving codices of the Americas — especially the Vindobonensis (Nuttall) and Bodley Codices, narrating royal genealogies, conquests and rituals in sophisticated pictography. Eight Deer Jaguar Claw (1063–1115) was the most powerful Mixtec lord — he expanded his domain from Tututepec to Tilantongo, subjugating 94 places using a combination of dynastic marriage, alliance and war.",
+      "descricao_es": "Los mixtecas fueron los mayores artistas de la Mesoamérica precolombina. Produjeron los códices más elaborados de las Américas. Ocho Venado Garra de Jaguar (1063-1115) fue el más poderoso señor mixteca, sometiendo 94 lugares.",
+      "importancia": "Os códices mixtecas são a maior fonte primária para a história política de qualquer povo mesoamericano pré-hispânico. A genealogia de Oito Veado está documentada com detalhes que rivalizam com crônicas medievais europeias — incluindo intrigas palacianas, alianças matrimoniais, assassinatos e rituais de tomada de poder.",
+      "importancia_en": "The Mixtec codices are the greatest primary source for the political history of any pre-Hispanic Mesoamerican people. Eight Deer's genealogy is documented with details rivaling European medieval chronicles — including palace intrigue, marriage alliances, assassinations and power-taking rituals.",
+      "importancia_es": "Los códices mixtecas son la mayor fuente primaria para la historia política de cualquier pueblo mesoamericano prehispánico.",
+      "tags": [
+        "mixtecas",
+        "Oito Veado",
+        "códice",
+        "arte",
+        "nuvens",
+        "Oaxaca"
+      ],
+      "dataset": "data/dados-zapotecas-mixtecas.json"
+    },
+    {
+      "id": "zm-005",
+      "nome": "Metalurgia Mixteca: O Ouro de Oaxaca",
+      "nome_en": "Mixtec Metallurgy: The Gold of Oaxaca",
+      "nome_es": "Metalurgia Mixteca: El Oro de Oaxaca",
+      "tipo": "periodo",
+      "inicio": 900,
+      "fim": 1521,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 10,
+      "type": "technological",
+      "descricao": "Os mixtecas foram os mais avançados metalurgistas da Mesoamérica — fundindo, soldando, dourado, filigrana e incrustação de ouro, prata, cobre e turquesa em objetos de extraordinária complexidade técnica. O Túmulo 7 de Monte Albán (descoberto em 1932 pelo arqueólogo Alfonso Caso) continha o tesouro mais rico da arqueologia mexicana: mais de 500 objetos mixtecas de ouro, jade, osso esculpido, âmbar, cristal de rocha e turquesa — incluindo um crânio humano decorado com mosaico de turquesa e nariz de ouro. A metalurgia mixteca chegou à Mesoamérica via redes comerciais vindas da Colômbia e Peru.",
+      "descricao_en": "The Mixtecs were the most advanced metallurgists of Mesoamerica — casting, soldering, gilding, filigree and inlay of gold, silver, copper and turquoise into objects of extraordinary technical complexity. Tomb 7 of Monte Albán (discovered in 1932 by archaeologist Alfonso Caso) contained the richest treasure in Mexican archaeology: over 500 Mixtec objects of gold, jade, sculpted bone, amber, rock crystal and turquoise — including a human skull decorated with turquoise mosaic and a gold nose. Mixtec metallurgy arrived in Mesoamerica via trade networks from Colombia and Peru.",
+      "descricao_es": "Los mixtecas fueron los más avanzados metalurgistas de Mesoamérica. La Tumba 7 de Monte Albán contenía el tesoro más rico de la arqueología mexicana, incluyendo un cráneo humano decorado con mosaico de turquesa.",
+      "importancia": "O Túmulo 7 de Monte Albán demonstra que o México pré-colombiano tinha redes comerciais que conectavam Oaxaca ao Peru e à Colômbia. A metalurgia mesoamericana chegou via essas redes — não foi inventada independentemente — revelando um continente muito mais interconectado do que se supunha.",
+      "importancia_en": "Tomb 7 of Monte Albán demonstrates that pre-Columbian Mexico had trade networks connecting Oaxaca to Peru and Colombia. Mesoamerican metallurgy arrived via these networks — it was not independently invented — revealing a far more interconnected continent than previously assumed.",
+      "importancia_es": "La Tumba 7 demuestra que el México precolombino tenía redes comerciales que conectaban Oaxaca con Perú y Colombia.",
+      "tags": [
+        "metalurgia",
+        "Túmulo 7",
+        "ouro",
+        "Monte Albán",
+        "Caso",
+        "tesoro"
+      ],
+      "dataset": "data/dados-zapotecas-mixtecas.json"
+    },
+    {
+      "id": "zm-006",
+      "nome": "Zapotecas e Mixtecas após a Conquista",
+      "nome_en": "Zapotecs and Mixtecs after the Conquest",
+      "nome_es": "Zapotecas y Mixtecas después de la Conquista",
+      "tipo": "periodo",
+      "inicio": 1521,
+      "fim": 1700,
+      "region": "Americas",
+      "period": "EarlyModern",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "Após a Conquista espanhola, zapotecas e mixtecas preservaram notável continuidade cultural. Os caciques mixtecas foram reconhecidos como nobreza colonial e muitos continuaram governando suas comunidades locais sob a nova ordem. Frei Francisco de Burgoa documentou extensamente as línguas e tradições zapotecas no século XVII. A região de Oaxaca manteve grande diversidade linguística — hoje fala 16 línguas indígenas distintas. Benito Juárez (1806–1872), o primeiro presidente indígena do México e um dos maiores da história mexicana, era zapoteca de Guelatao, Oaxaca.",
+      "descricao_en": "After the Spanish Conquest, Zapotecs and Mixtecs preserved remarkable cultural continuity. Mixtec caciques were recognized as colonial nobility and many continued governing their local communities under the new order. Fray Francisco de Burgoa extensively documented Zapotec languages and traditions in the 17th century. The Oaxaca region maintained great linguistic diversity — today it speaks 16 distinct indigenous languages. Benito Juárez (1806–1872), Mexico's first indigenous president and one of its greatest, was a Zapotec from Guelatao, Oaxaca.",
+      "descricao_es": "Tras la Conquista, caciques mixtecas fueron reconhecidos como nobleza colonial. Benito Juárez (1806-1872), el primer presidente indígena de México, era zapoteca de Guelatao, Oaxaca.",
+      "importancia": "Benito Juárez — o zapoteca que se tornou presidente, reformador liberal e resistiu à invasão francesa de Maximiliano — é a prova de que as culturas indígenas mexicanas produziram líderes políticos de primeiro plano muito além do período pré-colombiano. Oaxaca continua sendo o estado com maior diversidade cultural e linguística do México.",
+      "importancia_en": "Benito Juárez — the Zapotec who became president, liberal reformer and resisted Maximilian's French invasion — is proof that indigenous Mexican cultures produced first-rate political leaders well beyond the pre-Columbian period. Oaxaca remains Mexico's state with the greatest cultural and linguistic diversity.",
+      "importancia_es": "Benito Juárez — el zapoteca que se convirtió en presidente — demuestra que las culturas indígenas mexicanas produjeron líderes políticos de primer orden más allá del período precolombino.",
+      "tags": [
+        "Juárez",
+        "zapoteca",
+        "continuidade",
+        "Oaxaca",
+        "nobreza colonial",
+        "línguas"
+      ],
+      "dataset": "data/dados-zapotecas-mixtecas.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "zm-001",
+      "destino": "zm-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Monte Albán produz as condições para desenvolvimento da escrita"
+    },
+    {
+      "origem": "zm-001",
+      "destino": "zm-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Estado zapoteca usa os Danzantes como instrumento de poder"
+    },
+    {
+      "origem": "zm-002",
+      "destino": "zm-004",
+      "tipo": "evolucao",
+      "intensidade": 0.6,
+      "descricao": "Tradição escrita zapoteca influencia os códices mixtecas"
+    },
+    {
+      "origem": "zm-004",
+      "destino": "zm-005",
+      "tipo": "paralelo",
+      "intensidade": 0.7,
+      "descricao": "Sofisticação artística mixteca acompanha a metalurgia"
+    },
+    {
+      "origem": "zm-003",
+      "destino": "zm-006",
+      "tipo": "evolucao",
+      "intensidade": 0.5,
+      "descricao": "Poder zapoteca mantém continuidade após a Conquista"
+    }
+  ]
+}

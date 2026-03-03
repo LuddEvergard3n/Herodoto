@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Suméria: A Primeira Civilização",
+    "periodo": "-6000 a -2000"
+  },
+  "entidades": [
+    {
+      "id": "su-001",
+      "nome": "Ubaid e as Primeiras Aldeias Irrigadas da Mesopotâmia",
+      "nome_en": "Ubaid and the First Irrigated Villages of Mesopotamia",
+      "nome_es": "Ubaid y las Primeras Aldeas Irrigadas de Mesopotamia",
+      "tipo": "periodo",
+      "inicio": -6000,
+      "fim": -4000,
+      "region": "MiddleEast",
+      "period": "Prehistoric",
+      "century_start": -60,
+      "type": "social",
+      "descricao": "A cultura Ubaid (6000–4000 a.C.) foi a primeira a explorar sistematicamente a irrigação nos aluviões entre o Tigre e o Eufrates. Aldeias cresceram em torno de canais artificiais, viabilizando excedentes agrícolas em solo árido. Templos centrais (precursores dos zigurates) surgem em Eridu, considerada a cidade mais antiga do mundo (~5400 a.C.). A cooperação para construção e manutenção de sistemas de irrigação em larga escala gerou as primeiras formas de organização política supratribal.",
+      "descricao_en": "The Ubaid culture (6000–4000 BC) was the first to systematically exploit irrigation in the alluvial plain between the Tigris and Euphrates. Villages grew around artificial canals, enabling agricultural surpluses in arid soil. Central temples (precursors of ziggurats) appear at Eridu, considered the world's oldest city (~5400 BC). Cooperation for large-scale irrigation built the first forms of supratribal political organization.",
+      "descricao_es": "La cultura Ubaid fue la primera en explotar sistemáticamente la irrigación entre el Tigris y el Éufrates. Las aldeas crecieron alrededor de canales artificiales. Eridu (~5400 a.C.) es considerada la ciudad más antigua del mundo.",
+      "importancia": "A necessidade de coordenar grandes sistemas de irrigação coletiva foi o motor da complexidade social na Mesopotâmia — gerando hierarquia, especialização, contabilidade e, finalmente, a escrita. É o modelo do argumento 'hidráulico' de Karl Wittfogel sobre a origem do Estado.",
+      "importancia_en": "The need to coordinate large-scale collective irrigation was the driver of social complexity in Mesopotamia — generating hierarchy, specialization, accounting and ultimately writing. It is the model for Karl Wittfogel's 'hydraulic' argument about the origin of the State.",
+      "importancia_es": "La necesidad de coordinar la irrigación colectiva fue el motor de la complejidad social en Mesopotamia, generando jerarquía, especialización y finalmente la escritura.",
+      "tags": [
+        "Ubaid",
+        "irrigação",
+        "Eridu",
+        "zigurate",
+        "aldeia"
+      ],
+      "dataset": "data/dados-sumeria.json"
+    },
+    {
+      "id": "su-002",
+      "nome": "Uruk: A Primeira Metrópole do Mundo",
+      "nome_en": "Uruk: The World's First Metropolis",
+      "nome_es": "Uruk: La Primera Metrópoli del Mundo",
+      "tipo": "periodo",
+      "inicio": -4000,
+      "fim": -3100,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -40,
+      "type": "political",
+      "descricao": "Uruk (4000–3100 a.C.) foi a primeira cidade do mundo a ultrapassar 10.000 habitantes — chegando talvez a 80.000 no auge. Era o centro de uma rede de colônias comerciais que se estendia pelo Oriente Médio. O 'Período de Uruk' viu a invenção da escrita cuneiforme (c. 3200 a.C.) para administração contábil, o surgimento do Estado urbano com templo-palácio central, selagem cilíndrica para autenticação de documentos, e especialização profissional documentada (escribas, sacerdotes, artesãos).",
+      "descricao_en": "Uruk (4000–3100 BC) was the world's first city to exceed 10,000 inhabitants — possibly reaching 80,000 at its peak. It was the center of a commercial colony network extending across the Middle East. The 'Uruk Period' saw the invention of cuneiform writing (c. 3200 BC) for accounting, the emergence of the urban state with central temple-palace, cylinder seals for document authentication, and documented professional specialization.",
+      "descricao_es": "Uruk fue la primera ciudad del mundo en superar 10.000 habitantes. El 'Período de Uruk' vio la invención de la escritura cuneiforme (~3200 a.C.) para administración contable y el surgimiento del Estado urbano.",
+      "importancia": "Uruk é o modelo arquetípico de toda cidade: especialização profissional, governo centralizado, comércio de longa distância e escrita administrativa. Tudo o que define 'civilização urbana' aparece primeiro em Uruk — 5.000 anos antes de nós.",
+      "importancia_en": "Uruk is the archetypal model of every city: professional specialization, centralized government, long-distance trade and administrative writing. Everything that defines 'urban civilization' appears first in Uruk — 5,000 years before us.",
+      "importancia_es": "Uruk es el modelo arquetípico de toda ciudad: especialización, gobierno centralizado, comercio y escritura administrativa.",
+      "tags": [
+        "Uruk",
+        "escrita",
+        "cuneiforme",
+        "metrópole",
+        "Estado"
+      ],
+      "dataset": "data/dados-sumeria.json"
+    },
+    {
+      "id": "su-007",
+      "nome": "Tecnologia Suméria: Roda, Arado e Cerveja",
+      "nome_en": "Sumerian Technology: Wheel, Plow and Beer",
+      "nome_es": "Tecnología Sumeria: Rueda, Arado y Cerveza",
+      "tipo": "periodo",
+      "inicio": -3500,
+      "fim": -2000,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -35,
+      "type": "technological",
+      "descricao": "Os sumérios inventaram ou desenvolveram a roda (~3500 a.C., primeiro usada em olaria, depois no transporte), o arado de sementes (aumentando a produtividade agrícola 3–4 vezes), o bronze (liga de cobre e estanho), a vela náutica, o torno de oleiro e a cerveja industrial — a tábua de cerveja de Uruk (~3900 a.C.) é o registro mais antigo de remuneração de trabalhadores em produtos. A arquitetura de tijolo cru cozido (adobe) permitiu construções monumentais num território sem pedra ou madeira.",
+      "descricao_en": "The Sumerians invented or developed the wheel (~3500 BC, first used in pottery, then transport), the seed plow (increasing agricultural productivity 3–4 times), bronze (copper-tin alloy), the nautical sail, the potter's wheel and industrial beer — the Uruk beer tablet (~3900 BC) is the oldest record of worker compensation in goods. Mud brick architecture enabled monumental construction in a territory without stone or timber.",
+      "descricao_es": "Los sumerios inventaron la rueda (~3500 a.C.), el arado de semillas, el bronce, la vela náutica y la cerveza industrial. La tablilla de cerveza de Uruk (~3900 a.C.) es el registro más antiguo de remuneración de trabajadores.",
+      "importancia": "A roda suméria é um dos casos mais claros de invenção singular que transformou toda a civilização humana. A cerveja suméria — paga como salário — é evidência de que a economia monetária precede o dinheiro metálico em milênios. Os sumeristas hoje discutem se a civilização foi literalmente construída pela cerveja.",
+      "importancia_en": "The Sumerian wheel is one of the clearest cases of a singular invention that transformed all of human civilization. Sumerian beer — paid as wages — is evidence that monetary economy predates metallic money by millennia.",
+      "importancia_es": "La rueda sumeria es uno de los casos más claros de invención singular que transformó toda la civilización. La cerveza sumeria pagada como salario demuestra que la economía monetaria precede al dinero metálico.",
+      "tags": [
+        "roda",
+        "roda",
+        "arado",
+        "bronze",
+        "cerveja",
+        "tecnologia"
+      ],
+      "dataset": "data/dados-sumeria.json"
+    },
+    {
+      "id": "su-003",
+      "nome": "Invenção da Escrita Cuneiforme",
+      "nome_en": "Invention of Cuneiform Writing",
+      "nome_es": "Invención de la Escritura Cuneiforme",
+      "tipo": "evento",
+      "inicio": -3200,
+      "fim": -3000,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -32,
+      "type": "intellectual",
+      "descricao": "A escrita cuneiforme (c. 3200 a.C.) surgiu em Uruk para resolver um problema prático: registrar transações de grão, cerveja e animais em templos-armazéns. As primeiras tábuas (~3200 a.C.) são listas contábeis — não literatura. A escrita evoluiu de pictogramas para símbolos abstratos pressionados com estilete em argila úmida. O cuneiforme foi adaptado para sumérico, acadiano, elamita, hitita e dezenas de outros idiomas, sendo usado por 3.000 anos (até c. 100 d.C.).",
+      "descricao_en": "Cuneiform writing (c. 3200 BC) emerged in Uruk to solve a practical problem: recording grain, beer and animal transactions in temple-warehouses. The earliest tablets (~3200 BC) are accounting lists — not literature. Writing evolved from pictograms to abstract symbols pressed with a stylus into wet clay. Cuneiform was adapted for Sumerian, Akkadian, Elamite, Hittite and dozens of other languages, used for 3,000 years (until c. 100 AD).",
+      "descricao_es": "La escritura cuneiforme (~3200 a.C.) surgió para resolver problemas contables en templos-almacén. Evolucionó de pictogramas a símbolos abstractos en tablillas de arcilla. Fue adaptada para docenas de idiomas y usada durante 3.000 años.",
+      "importancia": "A escrita é a invenção mais consequente da história humana. Com ela, o conhecimento pôde transcender a memória individual e a morte — permitindo a acumulação cultural intergeracional que chamamos de civilização. A escrita cuneiforme precedeu o alfabeto fenício em ~2.000 anos.",
+      "importancia_en": "Writing is the most consequential invention in human history. With it, knowledge could transcend individual memory and death — enabling the intergenerational cultural accumulation we call civilization. Cuneiform preceded the Phoenician alphabet by ~2,000 years.",
+      "importancia_es": "La escritura es la invención más consecuente de la historia humana. La cuneiforme precedió al alfabeto fenicio en ~2.000 años.",
+      "tags": [
+        "cuneiforme",
+        "escrita",
+        "tábuas",
+        "argila",
+        "Uruk"
+      ],
+      "dataset": "data/dados-sumeria.json"
+    },
+    {
+      "id": "su-005",
+      "nome": "Religião Suméria: Panteão, Zigurates e Sacerdócio",
+      "nome_en": "Sumerian Religion: Pantheon, Ziggurats and Priesthood",
+      "nome_es": "Religión Sumeria: Panteón, Zigurats y Sacerdocio",
+      "tipo": "periodo",
+      "inicio": -3000,
+      "fim": -1800,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -30,
+      "type": "religious",
+      "descricao": "A religião suméria era politeísta com ~3.600 divindades. Os principais deuses — Anu (céu), Enlil (vento/ar), Enki (sabedoria/água), Inanna/Ishtar (amor e guerra) — controlavam forças naturais e destinos humanos. Os zigurates eram montanhas artificiais onde o deus residia e o sacerdote-rei mediava entre humanos e divino. O templo era ao mesmo tempo local de culto, banco, armazém e centro administrativo. A sacerdotisa Enheduanna (c. 2285 a.C.) é a primeira autora nomeada da história.",
+      "descricao_en": "Sumerian religion was polytheistic with ~3,600 deities. The main gods — Anu (sky), Enlil (wind/air), Enki (wisdom/water), Inanna/Ishtar (love and war) — controlled natural forces and human destinies. Ziggurats were artificial mountains where the god resided and the priest-king mediated between humans and the divine. The temple served simultaneously as worship site, bank, warehouse and administrative center. Priestess Enheduanna (c. 2285 BC) is the first named author in history.",
+      "descricao_es": "La religión sumeria era politeísta con ~3.600 divinidades. Los zigurats eran montañas artificiales donde residía el dios. La sacerdotisa Enheduanna (~2285 a.C.) es la primera autora nombrada de la historia.",
+      "importancia": "Enheduanna, sacerdotisa de Ur e filha de Sargão de Acádia, é a primeira escritora nomeada da história — anterior a Homero em 1.500 anos. Seus hinos a Inanna são os primeiros textos autobiográficos conhecidos. Os deuses sumérios influenciaram diretamente o panteão babilônico, acadiano e, indiretamente, a mitologia grega e hebraica.",
+      "importancia_en": "Enheduanna, priestess of Ur and daughter of Sargon of Akkad, is the first named writer in history — 1,500 years before Homer. Her hymns to Inanna are the first known autobiographical texts. Sumerian gods directly influenced the Babylonian and Akkadian pantheons and, indirectly, Greek and Hebrew mythology.",
+      "importancia_es": "Enheduanna es la primera escritora nombrada de la historia, 1.500 años antes de Homero. Los dioses sumerios influyeron en la mitología griega y hebrea.",
+      "tags": [
+        "Enheduanna",
+        "Inanna",
+        "Enlil",
+        "zigurate",
+        "sacerdócio",
+        "politeísmo"
+      ],
+      "dataset": "data/dados-sumeria.json"
+    },
+    {
+      "id": "su-006",
+      "nome": "Cidades-Estado Sumérias e as Primeiras Guerras",
+      "nome_en": "Sumerian City-States and the First Wars",
+      "nome_es": "Ciudades-Estado Sumerias y las Primeras Guerras",
+      "tipo": "periodo",
+      "inicio": -2900,
+      "fim": -2334,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -29,
+      "type": "war",
+      "descricao": "A Suméria era um mosaico de cidades-Estado independentes — Ur, Lagash, Nippur, Kish, Eridu, Umma — cada uma com seu deus protetor, seu rei e seu exército. As guerras entre cidades são as mais antigas documentadas: a Estela dos Abutres (c. 2450 a.C.) registra a vitória de Lagash sobre Umma. O rei Lugalzagesi de Umma unificou brevemente a Suméria (~2350 a.C.) antes de ser conquistado por Sargão de Acádia. A Lista Real Suméria registra reis com reinados de dezenas de milhares de anos antes do Dilúvio.",
+      "descricao_en": "Sumer was a mosaic of independent city-states — Ur, Lagash, Nippur, Kish, Eridu, Umma — each with its protective god, king and army. The first documented wars: the Stele of the Vultures (c. 2450 BC) records Lagash's victory over Umma. King Lugalzagesi of Umma briefly unified Sumer (~2350 BC) before being conquered by Sargon of Akkad. The Sumerian King List records kings with reigns of tens of thousands of years before the Flood.",
+      "descricao_es": "Sumer era un mosaico de ciudades-Estado independientes. La Estela de los Buitres (~2450 a.C.) registra la primera guerra documentada. La Lista Real Sumeria registra reyes con reinados de miles de años antes del Diluvio.",
+      "importancia": "A Lista Real Suméria mistura história e mito — reis com reinados de 28.800 anos antes do Dilúvio, e reinados históricos verificáveis depois. É o documento que mais claramente ilustra como os antigos entendiam a fronteira entre história e mito: não havia fronteira.",
+      "importancia_en": "The Sumerian King List mixes history and myth — kings with 28,800-year reigns before the Flood, and historically verifiable reigns after. It most clearly illustrates how the ancients understood the boundary between history and myth: there was no boundary.",
+      "importancia_es": "La Lista Real Sumeria mezcla historia y mito — reyes con reinados de miles de años antes del Diluvio, y reinados históricamente verificables después.",
+      "tags": [
+        "cidades-Estado",
+        "Lagash",
+        "Ur",
+        "Lugalzagesi",
+        "Estela dos Abutres",
+        "guerras"
+      ],
+      "dataset": "data/dados-sumeria.json"
+    },
+    {
+      "id": "su-004",
+      "nome": "Gilgamesh e a Épica da Mortalidade",
+      "nome_en": "Gilgamesh and the Epic of Mortality",
+      "nome_es": "Gilgamesh y la Épica de la Mortalidad",
+      "tipo": "periodo",
+      "inicio": -2700,
+      "fim": -2100,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -27,
+      "type": "cultural",
+      "descricao": "Gilgamesh, rei de Uruk (c. 2700 a.C.), é o primeiro herói literário da história. A Épica de Gilgamesh (compilada c. 1200 a.C. das tradições orais sumérias) narra a busca pela imortalidade após a morte do amigo Enkidu. O poema contém o primeiro relato do Dilúvio — notavelmente similar ao de Noé — com o personagem Utnapishtim que sobreviveu numa arca por ordem dos deuses. O Dilúvio sumério antecede o bíblico por pelo menos 1.000 anos.",
+      "descricao_en": "Gilgamesh, king of Uruk (c. 2700 BC), is the first literary hero in history. The Epic of Gilgamesh (compiled c. 1200 BC from Sumerian oral traditions) narrates the search for immortality after the death of his friend Enkidu. The poem contains the first Flood narrative — remarkably similar to Noah's — with the character Utnapishtim who survived in an ark by divine order.",
+      "descricao_es": "Gilgamesh es el primer héroe literario de la historia. La Épica de Gilgamesh contiene el primer relato del Diluvio — notablemente similar al de Noé — con Utnapishtim sobreviviendo en un arca.",
+      "importancia": "A Épica de Gilgamesh é o texto literário mais antigo do mundo e o primeiro a explorar temas universais: amizade, morte, busca por sentido. O Dilúvio sumério precedendo o bíblico levanta a questão: quanto da tradição hebraica tem raízes mesopotâmicas? A resposta dos académicos é: muito.",
+      "importancia_en": "The Epic of Gilgamesh is the world's oldest literary text and the first to explore universal themes: friendship, death, search for meaning. The Sumerian Flood predating the biblical one raises the question: how much of Hebrew tradition has Mesopotamian roots? The scholarly answer: a great deal.",
+      "importancia_es": "La Épica de Gilgamesh es el texto literario más antiguo del mundo. El Diluvio sumerio precede al bíblico, sugiriendo raíces mesopotámicas en la tradición hebrea.",
+      "tags": [
+        "Gilgamesh",
+        "Épica",
+        "Enkidu",
+        "Dilúvio",
+        "Utnapishtim",
+        "imortalidade"
+      ],
+      "dataset": "data/dados-sumeria.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "su-001",
+      "destino": "su-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Ubaid cria as condições para Uruk surgir como primeira metrópole"
+    },
+    {
+      "origem": "su-002",
+      "destino": "su-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Complexidade administrativa de Uruk exige a invenção da escrita"
+    },
+    {
+      "origem": "su-003",
+      "destino": "su-004",
+      "tipo": "evolucao",
+      "intensidade": 0.7,
+      "descricao": "Escrita viabiliza a compilação dos mitos orais de Gilgamesh"
+    },
+    {
+      "origem": "su-002",
+      "destino": "su-005",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Estado urbano organiza a religião em templos-zigurates"
+    },
+    {
+      "origem": "su-005",
+      "destino": "su-006",
+      "tipo": "paralelo",
+      "intensidade": 0.6,
+      "descricao": "Religião e política das cidades-Estado são inseparáveis"
+    },
+    {
+      "origem": "su-001",
+      "destino": "su-007",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Necessidade agrícola impulsiona as inovações tecnológicas"
+    }
+  ]
+}

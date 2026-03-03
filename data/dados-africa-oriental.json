@@ -1,0 +1,65 @@
+{
+  "entidades": [
+    {
+      "id": "afo-001",
+      "nome": "Axum e a Rota do Mar Vermelho",
+      "nome_en": "Axum and the Red Sea Route",
+      "nome_es": "Axum y la Ruta del Mar Rojo",
+      "tipo": "periodo",
+      "descricao": "Reino de Axum (100–940 d.C., atual Etiópia): quarta maior potência do mundo no séc. IV segundo o Persa Mani — ao lado de Roma, Pérsia e China. Controlava o comércio entre Índia, Arábia e Mediterrâneo via Mar Vermelho. Rei Ezana (r. ~325): primeiro monarca africano a adotar o cristianismo como religião oficial — anterior à Roma cristã de Teodósio (380). Obeliscos de granito (até 33 metros, sem cimento). Destruição por invasão islâmica e colapso climático (~940). Precursor do Império Etíope que durou até 1974.",
+      "descricao_en": "Kingdom of Axum (100–940 AD, modern Ethiopia): fourth greatest power in the world in the 4th century according to the Persian Mani — alongside Rome, Persia and China. Controlled trade between India, Arabia and the Mediterranean via the Red Sea. King Ezana (r. ~325): first African monarch to adopt Christianity as official religion — before Rome's Christian Theodosius (380). Granite obelisks (up to 33 meters, without cement). Destruction by Islamic invasion and climatic collapse (~940). Precursor of the Ethiopian Empire that lasted until 1974.",
+      "descricao_es": "Reino de Axum (100–940 d.C., Etiopía): cuarta mayor potencia del mundo en el siglo IV según el persa Mani — junto a Roma, Persia y China. Controlaba el comercio entre India, Arabia y el Mediterráneo. Rey Ezana (~325): primer monarca africano en adoptar el cristianismo como religión oficial — antes que la Roma cristiana de Teodosio (380). Obeliscos de granito de hasta 33 metros.",
+      "inicio": 100,
+      "fim": 940,
+      "tags": [
+        "axum",
+        "etiopia",
+        "comercio-mar-vermelho",
+        "cristandade-africana"
+      ],
+      "importancia": "Axum adotou o cristianismo em ~325 d.C. — antes que se tornasse obrigatório no Império Romano (380). O Islã etíope mais antigo também tem raízes aqui (Hégira para Etiópia, 615 d.C.).",
+      "century_start": 1,
+      "century_end": 10,
+      "region": "Africa",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "Destruction by Islamic invasion and climatic collapse (~940). Precursor of the Ethiopian Empire that lasted until 1974.",
+      "importancia_es": "Rey Ezana (~325): primer monarca africano en adoptar el cristianismo como religión oficial — antes que la Roma cristiana de Teodosio (380). Obeliscos de granito de hasta 33 metros."
+    },
+    {
+      "id": "afo-002",
+      "nome": "Suaíle e o Comércio do Índico",
+      "nome_en": "Swahili and the Indian Ocean Trade",
+      "nome_es": "Swahili y el Comercio del Océano Índico",
+      "tipo": "periodo",
+      "descricao": "Civilização Suaíle (séc. VIII–XVI): cidades-estado costeiras da África Oriental (Kilwa, Mombasa, Zanzibar, Sofala). Comerciantes árabes, persas e depois indianos e chineses. Kilwa (séc. XIII–XV): principal entreposto de ouro de Zimbabwe para o Índico — Ibn Battuta (1331) a descreveu como uma das cidades mais belas do mundo. Zheng He visitou a costa suaíle em 1418. Chegada de Vasco da Gama (1498): início da destruição violenta das redes comerciais pelo controle português. Língua suaíli: maior língua franca da África sub-saariana (200 milhões de falantes hoje).",
+      "descricao_en": "Swahili Civilization (8th–16th centuries): coastal city-states of East Africa (Kilwa, Mombasa, Zanzibar, Sofala). Arab, Persian, and later Indian and Chinese traders. Kilwa (13th–15th c.): main entrepôt for Zimbabwe gold to the Indian Ocean — Ibn Battuta (1331) described it as one of the world's most beautiful cities. Zheng He visited the Swahili coast in 1418. Arrival of Vasco da Gama (1498): beginning of violent destruction of trade networks by Portuguese control. Swahili language: largest lingua franca in sub-Saharan Africa (200 million speakers today).",
+      "descricao_es": "Civilización Suajili (siglos VIII–XVI): ciudades-estado costeras de África Oriental (Kilwa, Mombasa, Zanzíbar). Kilwa: principal entrepôt del oro de Zimbabwe al Océano Índico — Ibn Battuta (1331) la describió como una de las ciudades más bellas del mundo. Zheng He visitó la costa suajili en 1418. Llegada de Vasco da Gama (1498): destrucción de las redes comerciales. Lengua suajili: mayor lingua franca del África subsahariana (200 millones de hablantes hoy).",
+      "inicio": 700,
+      "fim": 1600,
+      "tags": [
+        "suaile",
+        "kilwa",
+        "indico",
+        "comercio-africano"
+      ],
+      "importancia": "A costa Suaíle (séculos VII-XVI) foi o ponto de encontro entre a África, o Islã e o Oceano Índico: cidades como Kilwa, Mombasa e Zanzibar eram mais prósperas e cosmopolitas que a maioria das cidades europeias contemporâneas, com arquitetura de coral, mesquitas elaboradas e comércio de ouro, marfim e escravizados que as conectava à Índia, Pérsia e China. Ibn Battuta visitou Kilwa em 1331 e chamou-a de uma das mais belas cidades do mundo. A chegada portuguesa em 1498 destruiu sistematicamente essa rede comercial e substituiu-a por monopólio forçado.",
+      "century_start": 8,
+      "century_end": 16,
+      "region": "Africa",
+      "type": "economic",
+      "period": "Medieval",
+      "importancia_en": "Swahili language: largest lingua franca in sub-Saharan Africa (200 million speakers today).",
+      "importancia_es": "Lengua suajili: mayor lingua franca del África subsahariana (200 millones de hablantes hoy)."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "afo-001",
+      "destino": "afo-002",
+      "tipo": "evolucao",
+      "intensidade": 0.5,
+      "descricao": "A rota comercial do Mar Vermelho de Axum precede e conecta-se à expansão suaíle no Índico"
+    }
+  ]
+}

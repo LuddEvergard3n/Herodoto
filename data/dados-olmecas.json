@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "fonte": "Arqueologia e historiografia especializada",
+    "lingua": "pt",
+    "tema": "Olmecas: A Civilização-Mãe da Mesoamérica",
+    "periodo": "-1500 a -400"
+  },
+  "entidades": [
+    {
+      "id": "ol-001",
+      "nome": "San Lorenzo: A Primeira Grande Cidade das Américas",
+      "nome_en": "San Lorenzo: The First Great City of the Americas",
+      "nome_es": "San Lorenzo: La Primera Gran Ciudad de las Américas",
+      "tipo": "periodo",
+      "inicio": -1500,
+      "fim": -900,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -15,
+      "type": "political",
+      "descricao": "San Lorenzo (c. 1500–900 a.C., atual Veracruz, México) foi o primeiro centro urbano monumental das Américas. Localizado num platô artificial de ~50 metros de altura sobre o rio Coatzacoalcos, abrigava ~1.000 habitantes no centro e dezenas de milhares na área de influência. Os olmecas esculpiram as 'Cabeças Colossais' — blocos de basalto de até 3,4 metros de altura e 8 toneladas, transportados de pedreiras a 100 km de distância sem roda, metal ou animais de tração. O sítio foi deliberadamente destruído c. 900 a.C. — os monumentos foram enterrados ou mutilados de forma ritual.",
+      "descricao_en": "San Lorenzo (c. 1500–900 BC, modern Veracruz, Mexico) was the first monumental urban center in the Americas. Located on an artificial plateau ~50 meters above the Coatzacoalcos river, it housed ~1,000 inhabitants in the center and tens of thousands in its area of influence. The Olmecs carved 'Colossal Heads' — basalt blocks up to 3.4 meters high and 8 tons, transported from quarries 100 km away without wheels, metal or draft animals. The site was deliberately destroyed c. 900 BC — monuments were ritually buried or mutilated.",
+      "descricao_es": "San Lorenzo fue el primer centro urbano monumental de las Américas. Los olmecas esculpieron 'Cabezas Colosales' de basalto de hasta 3,4 metros y 8 toneladas, transportadas 100 km sin ruedas ni animales de tiro. El sitio fue destruido ritualmente c. 900 a.C.",
+      "importancia": "O transporte das Cabeças Colossais de San Lorenzo — blocos de 8 toneladas movidos 100 km por uma civilização sem roda, sem cavalo e sem metal — é um dos maiores enigmas da engenharia da Antiguidade. Somente em 2023 pesquisas confirmaram o uso de caminhos lamacentos e força humana em massa como método mais provável.",
+      "importancia_en": "The transport of San Lorenzo's Colossal Heads — 8-ton blocks moved 100 km by a civilization without wheels, horses or metal — is one of Antiquity's greatest engineering mysteries. Only in 2023 did research confirm muddy paths and mass human labor as the most likely method.",
+      "importancia_es": "El transporte de las Cabezas Colosales de San Lorenzo es uno de los mayores enigmas de ingeniería de la Antigüedad.",
+      "tags": [
+        "San Lorenzo",
+        "Cabeças Colossais",
+        "olmecas",
+        "basalto",
+        "Veracruz"
+      ],
+      "dataset": "data/dados-olmecas.json"
+    },
+    {
+      "id": "ol-004",
+      "nome": "O Deus-Jaguar e a Religião Olmeca",
+      "nome_en": "The Jaguar God and Olmec Religion",
+      "nome_es": "El Dios-Jaguar y la Religión Olmeca",
+      "tipo": "periodo",
+      "inicio": -1500,
+      "fim": -400,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -15,
+      "type": "religious",
+      "descricao": "A religião olmeca girava em torno do jaguar — o maior predador da América tropical, símbolo de poder, noite e mundo subterrâneo. As esculturas de 'bebê-jaguar' (figura humana com traços felinos, boca caída) são o ícone mais reconhecível da arte olmeca. O xamanismo era central: o líder ritual podia 'se transformar' em jaguar. Evidências de autossacrifício (perfurações rituais) e possivelmente de sacrifício humano foram encontradas. O uso de bolas de borracha em campos de jogo ritual (tlachtli) também parece ter origem olmeca.",
+      "descricao_en": "Olmec religion revolved around the jaguar — the largest predator in tropical America, symbol of power, night and the underworld. 'Jaguar baby' sculptures (human figure with feline features, drooping mouth) are the most recognizable icon of Olmec art. Shamanism was central: the ritual leader could 'transform' into a jaguar. Evidence of self-sacrifice (ritual perforations) and possibly human sacrifice has been found. The use of rubber balls in ritual ball courts (tlachtli) also appears to have Olmec origins.",
+      "descricao_es": "La religión olmeca giraba en torno al jaguar — símbolo de poder y mundo subterráneo. Las esculturas de 'bebé-jaguar' son el icono más reconocible del arte olmeca. El chamanismo era central. El juego de pelota ritual parece tener origen olmeca.",
+      "importancia": "O jogo de bola mesoamericano — com suas regras, campos e significado cósmico — foi provavelmente criado pelos olmecas e adotado por todos os povos posteriores: maias, zapotecas, astecas. Em algumas versões, os perdedores (ou vencedores, conforme o contexto) eram sacrificados — o jogo conectava diretamente esporte, religião e poder político.",
+      "importancia_en": "The Mesoamerican ball game — with its rules, courts and cosmic meaning — was probably created by the Olmecs and adopted by all subsequent peoples: Maya, Zapotec, Aztec. In some versions, the losers (or winners, depending on context) were sacrificed — the game directly connected sport, religion and political power.",
+      "importancia_es": "El juego de pelota mesoamericano fue probablemente creado por los olmecas y adoptado por todos los pueblos posteriores.",
+      "tags": [
+        "jaguar",
+        "religião",
+        "xamanismo",
+        "jogo de bola",
+        "sacrifício",
+        "deus-jaguar"
+      ],
+      "dataset": "data/dados-olmecas.json"
+    },
+    {
+      "id": "ol-006",
+      "nome": "Legado Olmeca: A Fundação de Tudo",
+      "nome_en": "Olmec Legacy: The Foundation of Everything",
+      "nome_es": "Legado Olmeca: La Fundación de Todo",
+      "tipo": "periodo",
+      "inicio": -1500,
+      "fim": 1521,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -15,
+      "type": "cultural",
+      "descricao": "O legado olmeca permeia toda a civilização mesoamericana posterior. Identificado como herança olmeca: o sistema calendário de 260+365 dias; o jogo de bola ritual; o sacrifício humano como ato político-religioso; o culto ao jaguar transformado em Quetzalcóatl e Tlaloc; o urbanismo com eixos orientados astronomicamente; a iconografia do 'senhor nuvem-serpente'; a escultura monumental. A palavra 'olmeca' significa em náhuatl 'povo da terra da borracha' — nome dado pelos astecas a quem habitava a região, não necessariamente o nome que eles próprios usavam.",
+      "descricao_en": "The Olmec legacy permeates all subsequent Mesoamerican civilization. Identified as Olmec heritage: the 260+365 day calendar system; the ritual ball game; human sacrifice as a political-religious act; the jaguar cult transformed into Quetzalcóatl and Tlaloc; urbanism with astronomically oriented axes; the 'cloud-serpent lord' iconography; monumental sculpture. The word 'Olmec' means in Nahuatl 'people of the rubber land' — a name given by the Aztecs to those who inhabited the region, not necessarily the name they used themselves.",
+      "descricao_es": "El legado olmeca impregna toda la civilización mesoamericana posterior: el calendario, el juego de pelota, el sacrificio humano, el culto al jaguar. La palabra 'olmeca' en náhuatl significa 'pueblo de la tierra del hule' — nombre dado por los aztecas, no el que ellos mismos usaban.",
+      "importancia": "Os olmecas são chamados de 'cultura-mãe' da Mesoamérica porque não existe nenhum traço cultural mesoamericano significativo — ritual, artístico, arquitetônico ou calendário — que não tenha precedente ou origem no acervo olmeca. É a fundação sobre a qual tudo o mais foi construído.",
+      "importancia_en": "The Olmecs are called the 'mother culture' of Mesoamerica because there is no significant Mesoamerican cultural trait — ritual, artistic, architectural or calendar — that does not have a precedent or origin in the Olmec heritage. It is the foundation upon which everything else was built.",
+      "importancia_es": "Los olmecas son llamados 'cultura madre' de Mesoamérica porque no existe rasgo cultural mesoamericano significativo que no tenga precedente olmeca.",
+      "tags": [
+        "cultura-mãe",
+        "legado",
+        "influência",
+        "Mesoamérica",
+        "calendário",
+        "jogo de bola"
+      ],
+      "dataset": "data/dados-olmecas.json"
+    },
+    {
+      "id": "ol-002",
+      "nome": "La Venta: Pirâmide, Ritualismo e Arte Olmeca",
+      "nome_en": "La Venta: Pyramid, Ritualism and Olmec Art",
+      "nome_es": "La Venta: Pirámide, Ritualismo y Arte Olmeca",
+      "tipo": "periodo",
+      "inicio": -900,
+      "fim": -400,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -9,
+      "type": "cultural",
+      "descricao": "La Venta (c. 900–400 a.C., atual Tabasco) substituiu San Lorenzo como centro olmeca principal. Construiu a primeira grande pirâmide das Américas — 34 metros de altura, possivelmente imitando um vulcão. Os depósitos de ofrendas enterradas em La Venta incluem mosaicos de serpentina verde com 485 blocos individuais, figuras de jade e espelhos de magnetita (os mais antigos espelhos artificiais das Américas). A escultura olmeca introduziu elementos que perdurariam na arte mesoamericana por 2.000 anos: o deus-jaguar, o bebê-jaguar, a figura acrobática.",
+      "descricao_en": "La Venta (c. 900–400 BC, modern Tabasco) replaced San Lorenzo as the principal Olmec center. It built the first great pyramid of the Americas — 34 meters high, possibly imitating a volcano. La Venta's buried offering deposits include serpentine mosaics with 485 individual blocks, jade figures and magnetite mirrors (the oldest artificial mirrors in the Americas). Olmec sculpture introduced elements that would endure in Mesoamerican art for 2,000 years: the jaguar god, the jaguar baby, the acrobatic figure.",
+      "descricao_es": "La Venta construyó la primera gran pirámide de las Américas. Los depósitos de ofrendas incluyen mosaicos de serpentina y espejos de magnetita — los más antiguos de las Américas. La escultura olmeca introdujo elementos que perdurarían 2.000 años en el arte mesoamericano.",
+      "importancia": "A arte olmeca é a 'gramática visual' de toda a arte mesoamericana posterior. O deus-jaguar olmeca é o ancestral direto de Tlaloc azteca, do deus da chuva maia e de dezenas de divindades posteriores. La Venta foi inundada por petróleo em 1958 — parte do sítio foi destruída antes de ser escavada.",
+      "importancia_en": "Olmec art is the 'visual grammar' of all subsequent Mesoamerican art. The Olmec jaguar god is the direct ancestor of the Aztec Tlaloc, the Mayan rain god and dozens of later deities. La Venta was flooded by oil in 1958 — part of the site was destroyed before being excavated.",
+      "importancia_es": "El arte olmeca es la 'gramática visual' de todo el arte mesoamericano posterior. La Venta fue inundada por petróleo en 1958 — parte del sitio fue destruido antes de ser excavado.",
+      "tags": [
+        "La Venta",
+        "pirâmide",
+        "jade",
+        "jaguar",
+        "arte",
+        "Tabasco"
+      ],
+      "dataset": "data/dados-olmecas.json"
+    },
+    {
+      "id": "ol-003",
+      "nome": "Escrita e Calendário Olmeca: As Origens Contestadas",
+      "nome_en": "Olmec Writing and Calendar: The Contested Origins",
+      "nome_es": "Escritura y Calendario Olmeca: Los Orígenes Disputados",
+      "tipo": "periodo",
+      "inicio": -900,
+      "fim": -300,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -9,
+      "type": "intellectual",
+      "descricao": "Evidências sugerem que os olmecas desenvolveram os elementos básicos da escrita mesoamericana e do calendário de 365 dias antes dos maias. O Bloco de Cascajal (c. 900 a.C., descoberto em 1999) contém 62 glifos num padrão consistente com escrita — mas permanece indecifrado. O calendário de 52 anos (combinação do ciclo ritual de 260 dias com o solar de 365) que usariam todos os povos mesoamericanos posteriores pode ter origem olmeca. A questão é acadêmica e politicamente sensível — maias e zapotecas também reivindicam a origem independente da escrita.",
+      "descricao_en": "Evidence suggests the Olmecs developed the basic elements of Mesoamerican writing and the 365-day calendar before the Maya. The Cascajal Block (c. 900 BC, discovered 1999) contains 62 glyphs in a pattern consistent with writing — but remains undeciphered. The 52-year calendar (combination of the 260-day ritual cycle with the 365-day solar cycle) used by all subsequent Mesoamerican peoples may have Olmec origins. The question is academically and politically sensitive — Maya and Zapotec also claim independent origin of writing.",
+      "descricao_es": "Evidencias sugieren que los olmecas desarrollaron los elementos básicos de la escritura mesoamericana. El Bloque de Cascajal (c. 900 a.C.) contiene 62 glifos no descifrados. El calendario de 52 años puede tener origen olmeca.",
+      "importancia": "Se confirmada a origem olmeca da escrita mesoamericana, os olmecas seriam a quarta civilização independente a inventar a escrita (após sumérios, egípcios e chineses). A disputa acadêmica reflete tanto questões científicas legítimas quanto orgulho nacional mexicano sobre qual povo originou a civilização mesoamericana.",
+      "importancia_en": "If Olmec origin of Mesoamerican writing is confirmed, the Olmecs would be the fourth civilization to independently invent writing (after Sumerians, Egyptians and Chinese). The academic dispute reflects both legitimate scientific questions and Mexican national pride about which people originated Mesoamerican civilization.",
+      "importancia_es": "Si se confirma el origen olmeca de la escritura, los olmecas serían la cuarta civilización en inventar la escritura independientemente.",
+      "tags": [
+        "Cascajal",
+        "escrita",
+        "calendário",
+        "origem",
+        "olmeca",
+        "glifos"
+      ],
+      "dataset": "data/dados-olmecas.json"
+    },
+    {
+      "id": "ol-005",
+      "nome": "Três Zapotes e o Declínio Olmeca",
+      "nome_en": "Tres Zapotes and the Olmec Decline",
+      "nome_es": "Tres Zapotes y el Declive Olmeca",
+      "tipo": "periodo",
+      "inicio": -900,
+      "fim": -100,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -9,
+      "type": "political",
+      "descricao": "Três Zapotes (c. 900–100 a.C.) foi o terceiro grande centro olmeca, sobrevivendo ao declínio de La Venta. A Estela C de Três Zapotes contém a data inscrita mais antiga das Américas em sistema de pontos e barras (31 a.C. no calendário Longo Contagem), demonstrando a continuidade do sistema calendário olmeca-zapoteca. O declínio olmeca é atribuído a erupções vulcânicas, mudanças climáticas e colapso das redes de comércio de longa distância — a mesma combinação que derrubaria a Idade do Bronze no Mediterrâneo séculos antes.",
+      "descricao_en": "Tres Zapotes (c. 900–100 BC) was the third great Olmec center, surviving La Venta's decline. Stela C of Tres Zapotes contains the oldest inscribed date in the Americas in the bar-and-dot system (31 BC in the Long Count calendar), demonstrating continuity of the Olmec-Zapotec calendar system. The Olmec decline is attributed to volcanic eruptions, climate change and collapse of long-distance trade networks.",
+      "descricao_es": "Tres Zapotes fue el tercer gran centro olmeca. La Estela C contiene la fecha inscrita más antigua de las Américas en el sistema de puntos y barras. El declive olmeca se atribuye a erupciones volcánicas y cambios climáticos.",
+      "importancia": "A Estela C de Três Zapotes foi a chave que levou ao reconhecimento do 'Longo Contagem' maia como sistema calendário — quando foi descoberta em 1939, permitiu pela primeira vez calibrar as datas maias com o calendário gregoriano. O declínio olmeca não foi uma 'queda' abrupta — foi uma difusão: seus elementos culturais foram absorvidos por zapotecas, maias e teotihuacanos.",
+      "importancia_en": "Stela C of Tres Zapotes was the key that led to the recognition of the Maya 'Long Count' as a calendar system — when discovered in 1939, it allowed for the first time the calibration of Maya dates with the Gregorian calendar. The Olmec decline was not an abrupt 'fall' — it was a diffusion: their cultural elements were absorbed by Zapotecs, Maya and Teotihuacanos.",
+      "importancia_es": "La Estela C de Tres Zapotes fue clave para descifrar el calendario maya. El declive olmeca fue una difusión cultural, no una caída abrupta.",
+      "tags": [
+        "Três Zapotes",
+        "Estela C",
+        "Longo Contagem",
+        "declínio",
+        "difusão",
+        "calendário"
+      ],
+      "dataset": "data/dados-olmecas.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ol-001",
+      "destino": "ol-002",
+      "tipo": "evolucao",
+      "intensidade": 0.9,
+      "descricao": "La Venta sucede San Lorenzo como centro principal"
+    },
+    {
+      "origem": "ol-001",
+      "destino": "ol-003",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "San Lorenzo produz os primeiros elementos de escrita"
+    },
+    {
+      "origem": "ol-001",
+      "destino": "ol-004",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "San Lorenzo estabelece o culto ao jaguar"
+    },
+    {
+      "origem": "ol-002",
+      "destino": "ol-005",
+      "tipo": "evolucao",
+      "intensidade": 0.8,
+      "descricao": "La Venta declina e Três Zapotes absorve o legado"
+    },
+    {
+      "origem": "ol-004",
+      "destino": "ol-006",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Religião e arte olmeca tornam-se o DNA de toda a Mesoamérica"
+    }
+  ]
+}

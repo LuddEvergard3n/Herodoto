@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Suméria: Civilização, Escrita e Legado",
+    "periodo": "-5000 a -2000"
+  },
+  "entidades": [
+    {
+      "id": "sue-001",
+      "nome": "Ubaid e Uruk: O Nascimento das Primeiras Cidades",
+      "nome_en": "Ubaid and Uruk: The Birth of the First Cities",
+      "nome_es": "Ubaid y Uruk: El Nacimiento de las Primeras Ciudades",
+      "tipo": "periodo",
+      "inicio": -5000,
+      "fim": -3100,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -50,
+      "type": "social",
+      "descricao": "O período Ubaid (c. 5000–4000 a.C.) viu as primeiras aldeias permanentes da Mesopotâmia, com templos plataforma (precursores dos zigurates). Uruk (c. 4000–3100 a.C.) foi a primeira cidade-estado do mundo, com ~50.000 habitantes no auge. Desenvolveu a escrita cuneiforme (pictográfica primeiro, depois abstrata), o torno de oleiro, a roda, os selos-cilindro para autenticar propriedade e a burocracia administrativa baseada em tábuas de argila. A transição Uruk é o grande salto da aldeia para a cidade.",
+      "descricao_en": "The Ubaid period (c. 5000–4000 BC) saw Mesopotamia's first permanent villages with platform temples. Uruk (c. 4000–3100 BC) was the world's first city-state, with ~50,000 inhabitants at its peak. It developed cuneiform writing, the potter's wheel, the wheel, cylinder seals to authenticate property and administrative bureaucracy.",
+      "descricao_es": "El período Ubaid vio las primeras aldeas permanentes de Mesopotamia. Uruk fue la primera ciudad-estado del mundo, con ~50.000 habitantes. Desarrolló la escritura cuneiforme, la rueda y la burocracia.",
+      "importancia": "Uruk foi a maior cidade do mundo por mais de 1.000 anos. A escrita cuneiforme inventada ali é a primeira escrita da história humana — tudo o que escrevemos hoje descende, indiretamente, dessa invenção mesopotâmica.",
+      "importancia_en": "Uruk was the world's largest city for over 1,000 years. Cuneiform writing invented there is the first writing in human history — everything we write today descends, indirectly, from this Mesopotamian invention.",
+      "importancia_es": "Uruk fue la mayor ciudad del mundo durante más de 1.000 años. La escritura cuneiforme es la primera escritura de la historia humana.",
+      "tags": [
+        "Uruk",
+        "Ubaid",
+        "escrita",
+        "cidade",
+        "burocracia",
+        "cuneiforme"
+      ],
+      "dataset": "data/dados-sumeria-expandida.json"
+    },
+    {
+      "id": "sue-003",
+      "nome": "Invenções Sumérias: Tecnologia e Ciência",
+      "nome_en": "Sumerian Inventions: Technology and Science",
+      "nome_es": "Invenciones Sumerias: Tecnología y Ciencia",
+      "tipo": "periodo",
+      "inicio": -3500,
+      "fim": -2000,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -35,
+      "type": "technological",
+      "descricao": "Os sumérios inventaram ou aperfeiçoaram: a roda (c. 3500 a.C.) para transporte e o torno de oleiro; o arado; a vela náutica; o arco; a cerveja (documentada em tablete c. 3900 a.C.); o sistema numérico sexagesimal (base 60), que ainda usamos para medir horas, minutos e ângulos; o mapa mais antigo do mundo (Nippur, c. 1500 a.C.); e os primeiros registros astronômicos sistemáticos. Sua álgebra e geometria foram usadas para calcular áreas de campos e construir canais de irrigação.",
+      "descricao_en": "The Sumerians invented or perfected: the wheel (c. 3500 BC), the potter's wheel, the plow, the sail, the arch, beer (documented in tablet c. 3900 BC), the sexagesimal numerical system (base 60) — still used to measure hours, minutes and angles — the world's oldest map (Nippur, c. 1500 BC), and the first systematic astronomical records.",
+      "descricao_es": "Los sumerios inventaron la rueda, el arado, la vela náutica, la cerveza y el sistema numérico sexagesimal (base 60) — que aún usamos para medir horas y ángulos.",
+      "importancia": "O sistema sexagesimal sumério ainda estrutura nossa vida cotidiana: 60 segundos por minuto, 60 minutos por hora, 360 graus num círculo. A cerveja suméria, documentada há 5.900 anos, é o produto alimentar com mais longa continuidade histórica documentada.",
+      "importancia_en": "The Sumerian sexagesimal system still structures our daily life: 60 seconds per minute, 60 minutes per hour, 360 degrees in a circle. Sumerian beer, documented 5,900 years ago, is the food product with the longest documented historical continuity.",
+      "importancia_es": "El sistema sexagesimal sumerio aún estructura nuestra vida: 60 segundos, 60 minutos, 360 grados.",
+      "tags": [
+        "invenções",
+        "roda",
+        "cerveja",
+        "sexagesimal",
+        "astronomia",
+        "álgebra"
+      ],
+      "dataset": "data/dados-sumeria-expandida.json"
+    },
+    {
+      "id": "sue-005",
+      "nome": "Escrita Cuneiforme: Do Pictograma ao Alfabeto",
+      "nome_en": "Cuneiform Writing: From Pictogram to Alphabet",
+      "nome_es": "Escritura Cuneiforme: Del Pictograma al Alfabeto",
+      "tipo": "periodo",
+      "inicio": -3400,
+      "fim": -100,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -34,
+      "type": "intellectual",
+      "descricao": "A escrita cuneiforme (c. 3400 a.C.) começou como pictogramas contábeis em tábuas de argila e evoluiu para um sistema fonético de ~600 sinais. Foi usada por sumérios, acadianos, assírios, babilônios, hititas e persas por 3.000 anos. A Pedra de Behistun (521 a.C., Dario I, trilingue em persa antigo/acadiano/elamita) permitiu a decifração do cuneiforme por Rawlinson (1835–1851) — equivalente à Pedra de Roseta para o cuneiforme. Tornou-se obsoleta após a adoção do alfabeto aramaico.",
+      "descricao_en": "Cuneiform writing (c. 3400 BC) began as accounting pictograms on clay tablets and evolved into a phonetic system of ~600 signs. Used by Sumerians, Akkadians, Assyrians, Babylonians, Hittites and Persians for 3,000 years. The Behistun Stone (521 BC, Darius I, trilingual) allowed Rawlinson to decipher cuneiform (1835–1851) — equivalent to the Rosetta Stone.",
+      "descricao_es": "La escritura cuneiforme comenzó como pictogramas contables y evolucionó en un sistema fonético. La Piedra de Behistun permitió a Rawlinson descifrarla en 1835–1851.",
+      "importancia": "A decifração do cuneiforme por Rawlinson abriu 3.000 anos de história mesopotâmica ao conhecimento moderno. As tábuas cuneiformes preservam o Gilgamesh, o Código de Hamurabi, tratados diplomáticos, cartas comerciais e receitas médicas — a mais completa documentação de uma civilização antiga.",
+      "importancia_en": "Rawlinson's decipherment of cuneiform opened 3,000 years of Mesopotamian history to modern knowledge. Cuneiform tablets preserve Gilgamesh, Hammurabi's Code, diplomatic treaties, commercial letters and medical recipes.",
+      "importancia_es": "El descifrado del cuneiforme abrió 3.000 años de historia mesopotámica al conocimiento moderno.",
+      "tags": [
+        "cuneiforme",
+        "escrita",
+        "pictograma",
+        "Behistun",
+        "Rawlinson",
+        "tábuas"
+      ],
+      "dataset": "data/dados-sumeria-expandida.json"
+    },
+    {
+      "id": "sue-002",
+      "nome": "Cidades-Estado Sumérias e o Sistema Político",
+      "nome_en": "Sumerian City-States and the Political System",
+      "nome_es": "Ciudades-Estado Sumerias y el Sistema Político",
+      "tipo": "periodo",
+      "inicio": -3100,
+      "fim": -2334,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -31,
+      "type": "political",
+      "descricao": "As cidades-estado sumérias (Ur, Lagash, Kish, Nippur, Eridu, Umma) competiam por hegemonia regional. Cada cidade tinha um deus tutelar e um templo (zigurate) como centro político-econômico. O lugal ('rei') era inicialmente um líder militar temporário eleito em crises; tornou-se cargo permanente hereditário com o tempo. O Poema de Gilgamesh (c. 2100 a.C.) narra o rei de Uruk como herói épico — a mais antiga obra literária preservada. Guerras entre cidades eram frequentes, com conquistas e tributos.",
+      "descricao_en": "Sumerian city-states (Ur, Lagash, Kish, Nippur, Eridu, Umma) competed for regional hegemony. Each city had a tutelary god and a temple (ziggurat) as its political-economic center. The lugal ('king') was initially a temporarily elected military leader; it became a permanent hereditary office over time. The Epic of Gilgamesh (c. 2100 BC) narrates the king of Uruk as epic hero — the oldest preserved literary work.",
+      "descricao_es": "Las ciudades-estado sumerias competían por hegemonía regional. El Poema de Gilgamesh (c. 2100 a.C.) es la obra literaria preservada más antigua.",
+      "importancia": "O Poema de Gilgamesh é a obra literária mais antiga do mundo. Contém um relato de dilúvio universal que antecede o bíblico em séculos e é provavelmente sua fonte histórica. A epopeia explora temas que ainda ressoam: a busca pela imortalidade, a amizade, o luto e a aceitação da morte.",
+      "importancia_en": "The Epic of Gilgamesh is the world's oldest literary work. It contains a universal flood narrative that predates the biblical one by centuries and is probably its historical source.",
+      "importancia_es": "El Poema de Gilgamesh es la obra literaria más antigua del mundo. Contiene un relato de diluvio universal que antecede al bíblico en siglos.",
+      "tags": [
+        "Gilgamesh",
+        "Ur",
+        "Lagash",
+        "lugal",
+        "zigurate",
+        "cidade-estado"
+      ],
+      "dataset": "data/dados-sumeria-expandida.json"
+    },
+    {
+      "id": "sue-004",
+      "nome": "Religião Suméria: Deuses, Mitos e o Além",
+      "nome_en": "Sumerian Religion: Gods, Myths and the Afterlife",
+      "nome_es": "Religión Sumeria: Dioses, Mitos y el Más Allá",
+      "tipo": "periodo",
+      "inicio": -3100,
+      "fim": -2000,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -31,
+      "type": "religious",
+      "descricao": "O panteão sumerio tinha centenas de deuses, os principais sendo: An (céu), Enlil (ar/vento, rei dos deuses), Enki (sabedoria e água doce), Inanna/Ishtar (amor, guerra e fertilidade), Nanna (lua) e Utu (sol). Inanna desce ao Mundo dos Mortos (Kur) e retorna — mito da morte e ressurreição. O mito da Criação sumério (Enuma Elish) descreve Marduk derrotando o caos primordial. O dilúvio de Utnapishtim no Gilgamesh antecede Noé. Esses mitos influenciaram diretamente a Bíblia Hebraica.",
+      "descricao_en": "The Sumerian pantheon had hundreds of gods: An (sky), Enlil (air/wind, king of gods), Enki (wisdom and fresh water), Inanna/Ishtar (love, war and fertility), Nanna (moon) and Utu (sun). The myth of Inanna descending to the Underworld and returning is a death-resurrection narrative. The Utnapishtim flood in Gilgamesh predates Noah.",
+      "descricao_es": "El panteón sumerio incluía a An, Enlil, Enki e Inanna. El mito del diluvio de Utnapishtim antecede al Noé bíblico. Estos mitos influyeron directamente en la Biblia Hebrea.",
+      "importancia": "Os mitos sumérios são a fonte de narrativas bíblicas fundamentais: o dilúvio, o jardim do paraíso (Éden = 'planície fértil' em sumerio), a criação do homem do barro. A comparação textual entre o Gilgamesh e o Gênesis é um dos estudos mais importantes da historiografia religiosa.",
+      "importancia_en": "Sumerian myths are the source of fundamental biblical narratives: the flood, the garden of paradise (Eden = 'fertile plain' in Sumerian), the creation of man from clay.",
+      "importancia_es": "Los mitos sumerios son la fuente de narrativas bíblicas fundamentales: el diluvio, el jardín del Edén, la creación del hombre del barro.",
+      "tags": [
+        "Inanna",
+        "Enlil",
+        "Enki",
+        "dilúvio",
+        "Gilgamesh",
+        "Bíblia",
+        "mitos"
+      ],
+      "dataset": "data/dados-sumeria-expandida.json"
+    },
+    {
+      "id": "sue-006",
+      "nome": "Ur III e o Apogeu Burocrático Sumerio",
+      "nome_en": "Ur III and the Sumerian Bureaucratic Apogee",
+      "nome_es": "Ur III y el Apogeo Burocrático Sumerio",
+      "tipo": "periodo",
+      "inicio": -2112,
+      "fim": -2004,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -21,
+      "type": "political",
+      "descricao": "A Terceira Dinastia de Ur (2112–2004 a.C.) foi o último grande florescimento político sumerio, após o colapso do Império Acadiano. Ur-Nammu criou o Código de Ur-Nammu — o mais antigo conjunto de leis escritas conhecido, anterior ao Código de Hamurabi em ~300 anos. O Estado de Ur III era altamente burocrático: dezenas de milhares de tábuas contábeis registravam produção, trabalhadores, animais e alimentos. Colapsou sob pressão dos amoritas e elamitas c. 2004 a.C., encerrando a era política suméria.",
+      "descricao_en": "The Third Dynasty of Ur (2112–2004 BC) was the last great Sumerian political flowering, after the collapse of the Akkadian Empire. Ur-Nammu created the Code of Ur-Nammu — the oldest known written legal code, predating Hammurabi's by ~300 years. Ur III was highly bureaucratic: tens of thousands of accounting tablets recorded production, workers, animals and food.",
+      "descricao_es": "La Tercera Dinastía de Ur fue el último gran florecimiento político sumerio. El Código de Ur-Nammu es el conjunto de leyes escritas más antiguo conocido, anterior al de Hammurabi en ~300 años.",
+      "importancia": "Ur III é o ápice do Estado burocrático pré-moderno: mais de 100.000 tábuas contábeis sobrevivem, documentando cada transação econômica. É a maior base de dados da Antiguidade e uma fonte incomparável para o estudo da economia do Oriente Médio antigo.",
+      "importancia_en": "Ur III is the apex of the pre-modern bureaucratic state: over 100,000 accounting tablets survive, documenting every economic transaction. It is the largest database of Antiquity.",
+      "importancia_es": "Ur III es el apogeo del Estado burocrático premoderno: más de 100.000 tabletas contables sobreviven.",
+      "tags": [
+        "Ur III",
+        "Ur-Nammu",
+        "Código",
+        "burocracia",
+        "tábuas",
+        "Amoritas"
+      ],
+      "dataset": "data/dados-sumeria-expandida.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "sue-001",
+      "destino": "sue-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Uruk estabelece o modelo de cidade-estado replicado em toda a Suméria"
+    },
+    {
+      "origem": "sue-002",
+      "destino": "sue-006",
+      "tipo": "evolucao",
+      "intensidade": 0.8,
+      "descricao": "Cidades-estado sumérias culminam em Ur III"
+    },
+    {
+      "origem": "sue-003",
+      "destino": "sue-001",
+      "tipo": "paralelo",
+      "intensidade": 0.8,
+      "descricao": "Invenções tecnológicas surgem com as primeiras cidades"
+    },
+    {
+      "origem": "sue-004",
+      "destino": "sue-002",
+      "tipo": "influencia",
+      "intensidade": 0.8,
+      "descricao": "Religião organiza as cidades-estado em torno dos zigurates"
+    },
+    {
+      "origem": "sue-005",
+      "destino": "sue-001",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Escrita cuneiforme nasce em Uruk"
+    }
+  ]
+}

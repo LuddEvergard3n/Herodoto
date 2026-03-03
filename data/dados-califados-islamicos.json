@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "fonte": "Compilado — Califados Islâmicos",
+    "lingua": "pt",
+    "tema": "Califados Islâmicos"
+  },
+  "entidades": [
+    {
+      "id": "cal-001",
+      "nome": "Maomé e o Surgimento do Islã",
+      "nome_en": "Muhammad and the Rise of Islam",
+      "nome_es": "Mahoma y el Surgimiento del Islam",
+      "tipo": "evento",
+      "descricao": "Maomé ibn Abdullah (570-632 d.C.), mercador de Meca, recebeu o que descreveu como revelações, compiladas no Corão segundo a tradição islâmica, a partir de 610 d.C. Hégira (622): fuga de Meca para Medina — ano 1 do calendário islâmico. Unificou tribos árabes sob o Islã. Conquistou Meca pacificamente (630). Cinco Pilares: shahada (fé), salat (oração), zakat (esmola), sawm (jejum no Ramadã), hajj (peregrinação a Meca). Morreu em 632 sem designar sucessor, criando cisão sunita-xiita. Revelação do Corão como palavra direta de Alá em árabe.",
+      "descricao_en": "Muhammad (570-632 AD), Meccan merchant, received Quran revelations from 610 AD. Hijra (622): migration to Medina. United Arab tribes. Five Pillars. Died 632 without designated successor.",
+      "descricao_es": "Mahoma (570-632 d.C.), mercader de La Meca, recibió revelaciones del Corán desde 610 d.C. Hégira (622): migración a Medina. Unificó tribus árabes. Cinco Pilares.",
+      "inicio": 570,
+      "fim": 632,
+      "tags": [
+        "maome",
+        "isla",
+        "corao"
+      ],
+      "importancia": "Maomé não foi apenas fundador de religião — foi estadista, comandante militar e legislador que em 23 anos (610-632 d.C.) transformou a Arábia fragmentada em estado unificado. A velocidade do Islã é incomparável na história religiosa: em 100 anos da morte de Maomé, o Islã se estendia da Espanha à Índia — território maior que o Império Romano em seu apogeu. Isso só foi possível porque o Islã era simultaneamente fé, lei, política e identidade — sistema total mais do que religião no sentido ocidental moderno.",
+      "century_start": 6,
+      "century_end": 7,
+      "region": "MiddleEast",
+      "type": "religious",
+      "period": "Medieval",
+      "importancia_en": "Hijra (622): migration to Medina. Died 632 without designated successor.",
+      "importancia_es": "Mahoma (570-632 d.C.), mercader de La Meca, recibió revelaciones del Corán desde 610 d.C. Hégira (622): migración a Medina."
+    },
+    {
+      "id": "cal-011",
+      "nome": "Arquitetura Islâmica",
+      "nome_en": "Islamic Architecture",
+      "nome_es": "Arquitectura Islámica",
+      "tipo": "conceito",
+      "descricao": "Tradição arquitetônica iniciada com a Mesquita do Profeta em Medina (622). Elementos: minarete (torre para chamada à oração), muqarnas (decoração em favos), azulejos geométricos e arabescos (proibição de figuras humanas gera arte abstrata). Obras: Mesquita Omíada em Damasco (705), Domo da Rocha em Jerusalém (691), Alhambra em Granada (1238-1358), Mesquita Azul em Istambul (1616), Taj Mahal em Agra (1632-1648). Influenciou arquitetura mediterrânea e europeia via al-Andalus.",
+      "descricao_en": "Islamic architectural tradition from Prophet's Mosque (622). Minaret, muqarnas, geometric tiles, arabesques. Umayyad Mosque, Dome of the Rock, Alhambra, Blue Mosque, Taj Mahal.",
+      "descricao_es": "Tradición arquitectónica desde la Mezquita del Profeta (622). Minarete, muqarnas, azulejos geométricos, arabescos. Mezquita Omeya, Cúpula de la Roca, Alhambra, Mezquita Azul, Taj Mahal.",
+      "inicio": 622,
+      "fim": 1700,
+      "tags": [
+        "arquitetura",
+        "mesquita",
+        "alhambra"
+      ],
+      "importancia": "A arquitetura islâmica criou algumas das mais belas estruturas da história humana: a Cúpula da Rocha (691), a Alhambra (1238-1358), a Grande Mesquita de Córdoba, o Taj Mahal, a Mesquita Azul. O princípio organizador é teológico: a onipresença de Deus é evocada por repetição infinita de padrões geométricos (arabesco, muqarnas, caligrafia) que não têm início nem fim. A proibição islâmica de representar seres vivos impulsionou a geometria ornamental a níveis de sofisticação matemática sem paralelo na história da arte.",
+      "century_start": 7,
+      "century_end": 18,
+      "region": "MiddleEast",
+      "type": "cultural",
+      "period": "Medieval",
+      "importancia_en": "Umayyad Mosque, Dome of the Rock, Alhambra, Blue Mosque, Taj Mahal.",
+      "importancia_es": "Mezquita Omeya, Cúpula de la Roca, Alhambra, Mezquita Azul, Taj Mahal."
+    },
+    {
+      "id": "cal-002",
+      "nome": "Califado Rashidun (Bem-Guiados)",
+      "nome_en": "Rashidun Caliphate",
+      "nome_es": "Califato Rashidun",
+      "tipo": "periodo",
+      "descricao": "Quatro primeiros califas (632-661 d.C.): Abu Bakr, Umar I, Uthman, Ali. Explosão expansionista: conquistaram Pérsia sassânida, Síria, Egito, Norte da África e parte da Índia em 30 anos. Umar I criou estrutura administrativa. Uthman compilou versão definitiva do Corão (~650). Assassinato de Uthman (656) e guerra civil (Fitna) entre Ali e Muawiyah. Divisão sunita-xiita: sunitas reconhecem os quatro califas; xiitas reconhecem apenas Ali. Ali assassinado (661).",
+      "descricao_en": "First four caliphs (632-661 AD). Conquered Persia, Syria, Egypt, North Africa in 30 years. Quran compiled (~650). Uthman's murder triggered civil war (Fitna). Sunni-Shia split.",
+      "descricao_es": "Cuatro primeros califas (632-661 d.C.). Conquistaron Persia, Siria, Egipto, Norte de África en 30 años. Corán compilado (~650). División sunita-chií.",
+      "inicio": 632,
+      "fim": 661,
+      "tags": [
+        "rashidun",
+        "califado",
+        "conquista"
+      ],
+      "importancia": "Os califas Rashidun (Abu Bakr, Omar, Otmão, Ali — 632-661 d.C.) conquistaram mais território em 30 anos do que Roma em 300. Omar, segundo califa, era quase iletrado mas um gênio militar e administrativo: criou o diwan (registro fiscal), preservou estruturas administrativas persas e romanas, proibiu que muçulmanos árabes se tornassem fazendeiros (para manter a mobilidade militar) e estabeleceu a tolerância religiosa às 'Gentes do Livro' como política de estado. A rapidez das conquistas deveu-se tanto a reformas administrativas quanto a vitórias militares.",
+      "century_start": 7,
+      "century_end": 7,
+      "region": "MiddleEast",
+      "type": "war",
+      "period": "Medieval",
+      "importancia_en": "Conquered Persia, Syria, Egypt, North Africa in 30 years. Uthman's murder triggered civil war (Fitna).",
+      "importancia_es": "Conquistaron Persia, Siria, Egipto, Norte de África en 30 años."
+    },
+    {
+      "id": "cal-006",
+      "nome": "Cisma Sunita-Xiita",
+      "nome_en": "Sunni-Shia Split",
+      "nome_es": "Cisma Sunita-Chií",
+      "tipo": "conceito",
+      "descricao": "Divisão fundamental do Islã originada na questão da sucessão de Maomé (632). Sunitas: qualquer muçulmano virtuoso pode ser califa; reconhecem os quatro califas rashidun. Xiitas (shi'at Ali — partido de Ali): apenas descendentes de Maomé pelo filho adotivo Ali são legítimos imames; martirio de Husayn em Karbala (680) é evento fundador. Hoje: ~85-90% sunitas, ~10-15% xiitas (concentrados em Irã, Iraque, Azerbaijão, Bahrein). Divisão geopolítica central no Oriente Médio contemporâneo.",
+      "descricao_en": "Fundamental Islamic division from Muhammad's succession (632). Sunnis accept any virtuous caliph; Shia follow Ali's descendants only. Husayn's martyrdom at Karbala (680) is founding event. 85-90% Sunni, 10-15% Shia today.",
+      "descricao_es": "División fundamental del Islam por la sucesión de Mahoma (632). Suníes aceptan cualquier califa virtuoso; chiíes solo descendientes de Alí. Martirio de Husayn en Karbala (680).",
+      "inicio": 632,
+      "fim": 680,
+      "tags": [
+        "sunita",
+        "xiita",
+        "cisma"
+      ],
+      "importancia": "O Cisma Sunita-Xiita (657 d.C.) foi a divisão política mais consequente da história islâmica: nasceu de uma guerra civil sobre quem herdaria o califado, mas tornou-se diferença teológica, jurídica e cultural permanente. O martírio de Hussein em Karbala (680 d.C.) é para os xiitas o que a Crucificação é para os cristãos — evento fundador de identidade e fonte de emoção religiosa. A divisão não é apenas teológica: estrutura geopolítica do Oriente Médio contemporâneo, da rivalidade Arábia Saudita-Irã às guerras civis síria e iemenita.",
+      "century_start": 7,
+      "century_end": 7,
+      "region": "MiddleEast",
+      "type": "religious",
+      "period": "Medieval",
+      "importancia_en": "Husayn's martyrdom at Karbala (680) is founding event. 85-90% Sunni, 10-15% Shia today.",
+      "importancia_es": "Suníes aceptan cualquier califa virtuoso; chiíes solo descendientes de Alí. Martirio de Husayn en Karbala (680)."
+    },
+    {
+      "id": "cal-003",
+      "nome": "Califado Omíada",
+      "nome_en": "Umayyad Caliphate",
+      "nome_es": "Califato Omeya",
+      "tipo": "periodo",
+      "descricao": "Dinastia Omíada (661-750 d.C.) com capital em Damasco. Expandiu o Islã até a Ibéria (711: conquista da Hispânia visigótica por Tarique ibn Ziad), Ásia Central e Indo. Batalha de Poitiers/Tours (732): Carlos Martel deteve avanço para a Europa. Primeiro Estado islâmico com burocracia, árabe como língua oficial, cunhagem própria. Construção do Domo da Rocha em Jerusalém (691). Discriminação contra não-árabes muçulmanos (mawali) provocou revolução abássida. Sobrevivente criou Emirado de Córdoba.",
+      "descricao_en": "Umayyad Dynasty (661-750 AD), capital Damascus. Conquered Iberia (711), Central Asia, Indus. Battle of Tours (732) stopped European expansion. Dome of the Rock (691). Abbasid revolution.",
+      "descricao_es": "Dinastía Omeya (661-750 d.C.), capital Damasco. Conquistó Iberia (711), Asia Central, Indo. Batalla de Tours (732). Cúpula de la Roca (691). Revolución abásida.",
+      "inicio": 661,
+      "fim": 750,
+      "tags": [
+        "omeya",
+        "damasco",
+        "iberia"
+      ],
+      "importancia": "O Califado Omíada (661-750 d.C.) transformou o Islã de movimento igualitário árabe em Império multicultural com aristocracia árabe privilegiada — o que gerou o ressentimento que os Abássidas explorariam para derrubá-lo. Mas os Omíadas também criaram a administração imperial islâmica, arabizaram as burocracias persa e romana, cunharam a primeira moeda islâmica (Abd al-Malik, 696 d.C.) e expandiram o Islã para Espanha, Sind e Transoxiana. O apogeu e queda dos Omíadas moldou todas as divisões políticas islâmicas posteriores.",
+      "century_start": 7,
+      "century_end": 8,
+      "region": "MiddleEast",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Conquered Iberia (711), Central Asia, Indus. Battle of Tours (732) stopped European expansion.",
+      "importancia_es": "Dinastía Omeya (661-750 d.C.), capital Damasco. Conquistó Iberia (711), Asia Central, Indo."
+    },
+    {
+      "id": "cal-012",
+      "nome": "Comércio Islâmico — Rotas e Redes",
+      "nome_en": "Islamic Trade — Routes and Networks",
+      "nome_es": "Comercio Islámico — Rutas y Redes",
+      "tipo": "conceito",
+      "descricao": "O Islã unificou as rotas comerciais do Mediterrâneo ao Pacífico. Mercadores islâmicos controlavam Rota da Seda (produtos chineses para Europa), comércio no Oceano Índico (têxteis indianos, especiarias, ouro africano). Dhow (embarcação árabe) dominava o Índico. Papel (da China via Samarcanda), numerais hindus, jogo de xadrez (da Índia) foram transmitidos ao Ocidente via redes islâmicas. Carta de crédito (sakk — origem de 'cheque') e letra de câmbio facilitaram comércio de longa distância. Ibn Battuta (1304-1368) viajou 120.000 km.",
+      "descricao_en": "Islam unified trade routes from Mediterranean to Pacific. Merchants controlled Silk Road and Indian Ocean trade. Paper, Hindu numerals, chess transmitted to West. Bank drafts (sakk='cheque'). Ibn Battuta traveled 120,000 km.",
+      "descricao_es": "El Islam unificó rutas comerciales del Mediterráneo al Pacífico. Mercaderes controlaban Ruta de la Seda y comercio en Índico. Papel, números hindúes, ajedrez transmitidos a Occidente. Ibn Battuta.",
+      "inicio": 700,
+      "fim": 1500,
+      "tags": [
+        "comercio",
+        "rota-seda",
+        "indico"
+      ],
+      "importancia": "As rotas comerciais islâmicas (séculos VIII-XV) foram a rede de globalização medieval: de Marrocos à China, de Mali à Indonésia, o Islã foi o idioma do comércio intercontinental. Mercadores muçulmanos carregavam não apenas mercadorias mas tecnologia, plantas cultivadas, doenças e ideias. A difusão do algodão, do açúcar, dos cítricos, dos números indo-arábicos e do papel pelo mundo medieval foi obra principalmente de redes comerciais islâmicas. O dinar de ouro foi a moeda de reserva eurasiana por 500 anos.",
+      "century_start": 8,
+      "century_end": 16,
+      "region": "MiddleEast",
+      "type": "economic",
+      "period": "Medieval",
+      "importancia_en": "Paper, Hindu numerals, chess transmitted to West. Ibn Battuta traveled 120,000 km.",
+      "importancia_es": "Mercaderes controlaban Ruta de la Seda y comercio en Índico. Papel, números hindúes, ajedrez transmitidos a Occidente."
+    },
+    {
+      "id": "cal-007",
+      "nome": "Al-Andalus — Ibéria Islâmica",
+      "nome_en": "Al-Andalus — Islamic Iberia",
+      "nome_es": "Al-Ándalus — Iberia Islámica",
+      "tipo": "periodo",
+      "descricao": "Território ibérico sob domínio islâmico (711-1492). Emirado e Califado de Córdoba: pico sob Abd al-Rahman III (912-961) — Córdoba como maior cidade da Europa Ocidental (~500.000 hab.), com biblioteca de 400.000 volumes. Convivência (convivência) entre muçulmanos, cristãos e judeus, com tensões. Filosofia: Averróis (Córdoba), Maimônides (Córdoba). Reconquista cristã progressiva: Toledo (1085), Córdoba (1236), Sevilha (1248). Granada, último sultanato, caiu em 1492 — mesmo ano da expulsão dos judeus e da viagem de Colombo.",
+      "descricao_en": "Islamic Iberia (711-1492). Caliphate of Córdoba peak under Abd al-Rahman III: largest city in Western Europe (~500,000). Averroes, Maimonides. Christian Reconquista culminated in Granada (1492).",
+      "descricao_es": "Iberia islámica (711-1492). Califato de Córdoba bajo Abd al-Rahman III: mayor ciudad de Europa Occidental (~500.000). Averroes, Maimónides. Reconquista culminó en Granada (1492).",
+      "inicio": 711,
+      "fim": 1492,
+      "tags": [
+        "andalus",
+        "cordoba",
+        "reconquista"
+      ],
+      "importancia": "Al-Ândalus (711-1492) demonstrou que coexistência religiosa entre cristãos, muçulmanos e judeus era possível — e produtiva. A tradução de textos gregos e árabes em Toledo nos séculos XII-XIII foi o maior projeto de transferência intelectual da história medieval: foi por ali que a Europa reencontrou Aristóteles, Euclides, Galeno e Ptolomeu. A Reconquista destruiu esse modelo de convivência (expulsão dos judeus em 1492, dos mouriscos em 1609), mas o legado linguístico, arquitetônico e científico persiste.",
+      "century_start": 8,
+      "century_end": 15,
+      "region": "Europe",
+      "type": "cultural",
+      "period": "Medieval",
+      "importancia_en": "Caliphate of Córdoba peak under Abd al-Rahman III: largest city in Western Europe (~500,000). Christian Reconquista culminated in Granada (1492).",
+      "importancia_es": "Califato de Córdoba bajo Abd al-Rahman III: mayor ciudad de Europa Occidental (~500.000). Reconquista culminó en Granada (1492)."
+    },
+    {
+      "id": "cal-004",
+      "nome": "Califado Abássida",
+      "nome_en": "Abbasid Caliphate",
+      "nome_es": "Califato Abasí",
+      "tipo": "periodo",
+      "descricao": "Dinastia Abássida (750-1258 d.C.) com capital em Bagdá (fundada 762). Representou o apogeu da civilização islâmica. Harune-Arraxide (calixa das Mil e Uma Noites). Casa da Sabedoria (Bayt al-Hikmah): tradução de textos gregos, persas, indianos; matemática, astronomia, medicina. Al-Jabr (álgebra) por al-Khwarizmi. Al-Haytham (ótica). Avicena (medicina), Averróis (filosofia). Invasão mongol de Hulagu Khan destruiu Bagdá e a Biblioteca (1258) — fim do califado.",
+      "descricao_en": "Abbasid Dynasty (750-1258 AD), capital Baghdad. House of Wisdom: translated Greek, Persian, Indian texts. Algebra (al-Khwarizmi), optics (al-Haytham), medicine (Avicenna). Mongols destroyed Baghdad (1258).",
+      "descricao_es": "Dinastía Abasí (750-1258 d.C.), capital Bagdad. Casa de la Sabiduría: álgebra (al-Juarismí), óptica (al-Haytham), medicina (Avicena). Mongoles destruyeron Bagdad (1258).",
+      "inicio": 750,
+      "fim": 1258,
+      "tags": [
+        "abassida",
+        "bagda",
+        "ciencia"
+      ],
+      "importancia": "O Califado Abássida (750-1258 d.C.) foi o apogeu da civilização islâmica clássica — a Idade de Ouro que traduziu, preservou e expandiu o conhecimento grego, persa e indiano. Bagdá tornou-se a maior cidade do mundo (~1 milhão de habitantes no século X). A Casa da Sabedoria (Bayt al-Hikmah) foi o maior centro intelectual de sua época: álgebra (al-Khwarizmi), óptica (Ibn al-Haytham), medicina (Ibn Sina), filosofia (al-Farabi, Averróis). Sem os Abássidas, o conhecimento antigo não teria sobrevivido para alimentar o Renascimento europeu.",
+      "century_start": 8,
+      "century_end": 13,
+      "region": "MiddleEast",
+      "type": "intellectual",
+      "period": "Medieval",
+      "importancia_en": "Algebra (al-Khwarizmi), optics (al-Haytham), medicine (Avicenna). Mongols destroyed Baghdad (1258).",
+      "importancia_es": "Casa de la Sabiduría: álgebra (al-Juarismí), óptica (al-Haytham), medicina (Avicena). Mongoles destruyeron Bagdad (1258)."
+    },
+    {
+      "id": "cal-005",
+      "nome": "Idade de Ouro Islâmica — Ciência",
+      "nome_en": "Islamic Golden Age — Science",
+      "nome_es": "Edad de Oro Islámica — Ciencia",
+      "tipo": "conceito",
+      "descricao": "Florescimento científico islâmico (séc. VIII-XIV). Matemática: al-Khwarizmi (álgebra, algoritmo — seu nome latinizado), sistema decimal hindu-árabe transmitido ao Ocidente. Astronomia: catálogos estelares, instrumentos como astrolábio. Medicina: Avicena (Cânon da Medicina, enciclopédia usada por 700 anos), al-Razi (diagnóstico clínico). Química: al-Jabir (fundador da química). Geografia: al-Idrisi (mapa-múndi preciso para Carlos II da Sicília, 1154). Filosofia: Averróis comentou Aristóteles, transmitindo-o ao Ocidente.",
+      "descricao_en": "Islamic scientific flourishing (8th-14th c). Algebra and algorithm (al-Khwarizmi), Hindu-Arabic numerals. Avicenna's Canon of Medicine. Alchemy (al-Jabir). Al-Idrisi's world map. Averroes transmitted Aristotle.",
+      "descricao_es": "Florecimiento científico islámico (s. VIII-XIV). Álgebra y algoritmo (al-Juarismí), numeración hindú-árabe. Canon de Avicena. Al-Idrisi. Averroes transmitió Aristóteles.",
+      "inicio": 750,
+      "fim": 1400,
+      "tags": [
+        "ciencia",
+        "algebra",
+        "medicina"
+      ],
+      "importancia": "A Idade de Ouro Islâmica (750-1250 d.C.) foi o período mais cientificamente produtivo do mundo medieval. Al-Khwarizmi inventou a álgebra e deu seu nome ao algoritmo. Ibn al-Haytham fundou a óptica experimental 600 anos antes de Newton. Ibn Sina sistematizou a medicina num cânon que foi manual universitário europeu até o século XVII. Al-Biruni calculou o raio da Terra com 99% de precisão em 1020. Esses avanços não foram apenas transmitidos à Europa — foram desenvolvidos de forma independente e em muitos casos superiores ao que a Europa produziria depois.",
+      "century_start": 8,
+      "century_end": 14,
+      "region": "MiddleEast",
+      "type": "intellectual",
+      "period": "Medieval",
+      "importancia_en": "Algebra and algorithm (al-Khwarizmi), Hindu-Arabic numerals. Averroes transmitted Aristotle.",
+      "importancia_es": "Álgebra y algoritmo (al-Juarismí), numeración hindú-árabe. Averroes transmitió Aristóteles."
+    },
+    {
+      "id": "cal-008",
+      "nome": "Cruzadas e o Mundo Islâmico",
+      "nome_en": "Crusades and the Islamic World",
+      "nome_es": "Cruzadas y el Mundo Islámico",
+      "tipo": "evento",
+      "descricao": "As Cruzadas (1095-1291) representaram invasão militar cristã de territórios islâmicos. Primeira Cruzada (1096-1099): tomada de Jerusalém com massacre de muçulmanos e judeus. Saladino (Salah ad-Din, 1138-1193): sultão aiúbida de Egito/Síria reconquistou Jerusalém (1187). Terceira Cruzada (Ricardo Coração de Leão vs. Saladino): tratado permitiu peregrinação cristã. Cruzadas fracassaram em expulsar o Islã mas criaram redes comerciais e transferência de conhecimento. Trauma cultural ainda presente.",
+      "descricao_en": "Crusades (1095-1291): Christian military invasion of Islamic territories. First Crusade took Jerusalem (1099) with massacre. Saladin (1138-1193) recaptured Jerusalem (1187). Trade and knowledge transfer.",
+      "descricao_es": "Cruzadas (1095-1291): invasión militar cristiana de territorios islámicos. Primera Cruzada tomó Jerusalén (1099). Saladino (1138-1193) reconquistó Jerusalén (1187).",
+      "inicio": 1096,
+      "fim": 1291,
+      "tags": [
+        "cruzadas",
+        "saladino",
+        "jerusalem"
+      ],
+      "importancia": "As Cruzadas foram, do ponto de vista islâmico, uma invasão colonial que ocupou partes do Oriente Médio por até 200 anos — não o evento definidor que são para a historiografia cristã. O mundo islâmico estava fragmentado quando os cruzados chegaram (1099) e uniu-se sob Saladino para expulsá-los (Jerusalém, 1187). A memória das Cruzadas foi relativamente marginal no mundo islâmico medieval; tornou-se central apenas no século XX, quando líderes políticos como Nasser e depois jihadistas a mobilizaram como narrativa de resistência ao imperialismo ocidental.",
+      "century_start": 11,
+      "century_end": 13,
+      "region": "MiddleEast",
+      "type": "war",
+      "period": "Medieval",
+      "importancia_en": "First Crusade took Jerusalem (1099) with massacre. Saladin (1138-1193) recaptured Jerusalem (1187).",
+      "importancia_es": "Primera Cruzada tomó Jerusalén (1099). Saladino (1138-1193) reconquistó Jerusalén (1187)."
+    },
+    {
+      "id": "cal-010",
+      "nome": "Sultanato Mameluco",
+      "nome_en": "Mamluk Sultanate",
+      "nome_es": "Sultanato Mameluco",
+      "tipo": "periodo",
+      "descricao": "Os mamelucos (escravos-soldados de origem turca e caucasiana) tomaram o poder do Egito (1250-1517). Derrotaram os mongóis em Ain Jalut (1260) e expulsaram os cruzados de São João d'Acre (1291), último bastião cristão na Terra Santa. Cairo tornou-se capital intelectual islâmica após destruição de Bagdá. Ibn Khaldun (1332-1406) escreveu a Muqaddimah — primeiro tratado de filosofia da história e sociologia. Os otomanos conquistaram o sultanato em 1517.",
+      "descricao_en": "Mamluk slave-soldiers controlled Egypt (1250-1517). Defeated Mongols at Ain Jalut (1260), expelled Crusaders from Acre (1291). Cairo became Islamic intellectual capital. Ibn Khaldun wrote Muqaddimah.",
+      "descricao_es": "Soldados-esclavos mamelucos controlaron Egipto (1250-1517). Derrotaron a mongoles en Ain Jalut (1260), expulsaron cruzados de Acre (1291). Cairo capital intelectual islámica. Ibn Jaldún.",
+      "inicio": 1250,
+      "fim": 1517,
+      "tags": [
+        "mameluco",
+        "egito",
+        "ibn-khaldun"
+      ],
+      "importancia": "Os Mamelucos (1250-1517) foram o único poder que deteve os mongóis: na Batalha de Ain Jalut (1260), um exército de escravos-soldados turcos derrotou a força mongol que havia destruído Bagdá — a primeira grande derrota mongol em campo aberto. Os Mamelucos também expulsaram os últimos cruzados do Oriente Médio (Acre, 1291). A ironia histórica: escravos militares (mamelucos) tornaram-se a elite governante mais eficaz do mundo islâmico medieval, preservando-o quando todas as outras estruturas haviam colapsado.",
+      "century_start": 13,
+      "century_end": 16,
+      "region": "MiddleEast",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Defeated Mongols at Ain Jalut (1260), expelled Crusaders from Acre (1291). Cairo became Islamic intellectual capital.",
+      "importancia_es": "Derrotaron a mongoles en Ain Jalut (1260), expulsaron cruzados de Acre (1291). Cairo capital intelectual islámica."
+    },
+    {
+      "id": "cal-009",
+      "nome": "Invasão Mongol — Queda de Bagdá",
+      "nome_en": "Mongol Invasion — Fall of Baghdad",
+      "nome_es": "Invasión Mongol — Caída de Bagdad",
+      "tipo": "evento",
+      "descricao": "Hulagu Khan, neto de Gengis Khan, destruiu o Califado Abássida. Cerco e saque de Bagdá (13-20 de fevereiro de 1258). Calixa Al-Mutasim foi executado enrolado em tapete (para não derramar sangue real). Biblioteca da Casa da Sabedoria destruída — dizem que o rio Tigre ficou negro de tinta. Estimativa: 90.000-800.000 mortos. Derrota mongol em Ain Jalut (1260) pelo sultanato mameluco impediu avanço para o Egito. Os mongóis se converteram ao Islã nos séculos seguintes.",
+      "descricao_en": "Hulagu Khan destroyed the Abbasid Caliphate. Baghdad sacked (Feb 13-20, 1258). Caliph executed. House of Wisdom destroyed. 90,000-800,000 dead. Mongols defeated at Ain Jalut (1260).",
+      "descricao_es": "Hulagu Jan destruyó el Califato Abasí. Bagdad saqueada (13-20 feb. 1258). Califa ejecutado. Casa de la Sabiduría destruida. 90.000-800.000 muertos. Mongoles derrotados en Ain Jalut (1260).",
+      "inicio": 1258,
+      "fim": 1260,
+      "tags": [
+        "mongois",
+        "bagda",
+        "destruicao"
+      ],
+      "importancia": "A destruição de Bagdá pelos mongóis (1258) foi um dos maiores desastres culturais da história: a Casa da Sabedoria queimada, o rio Tigre tingido de tinta dos livros destruídos — exageração lendária mas baseada em destruição real. O califa al-Musta'sim foi executado enrolado em tapetes (para não derramar sangue real). O fim do Califado Abássida deixou o mundo islâmico sem centro político-religioso unificado por séculos, acelerando a fragmentação em sultanatos regionais e, eventualmente, o domínio otomano.",
+      "century_start": 13,
+      "century_end": 13,
+      "region": "MiddleEast",
+      "type": "war",
+      "period": "Medieval",
+      "importancia_en": "Baghdad sacked (Feb 13-20, 1258). Mongols defeated at Ain Jalut (1260).",
+      "importancia_es": "Casa de la Sabiduría destruida. Mongoles derrotados en Ain Jalut (1260)."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "cal-001",
+      "destino": "cal-002",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "Morte de Maomé desencadeou questão do califado"
+    },
+    {
+      "origem": "cal-001",
+      "destino": "cal-006",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Sucessão de Maomé causou cisma sunita-xiita"
+    },
+    {
+      "origem": "cal-002",
+      "destino": "cal-003",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Califado Rashidun foi substituído pelos Omíadas"
+    },
+    {
+      "origem": "cal-003",
+      "destino": "cal-004",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Revolução abássida derrubou os Omíadas"
+    },
+    {
+      "origem": "cal-003",
+      "destino": "cal-007",
+      "tipo": "dependencia",
+      "intensidade": 0.9,
+      "descricao": "Al-Andalus foi conquista do Califado Omíada"
+    },
+    {
+      "origem": "cal-004",
+      "destino": "cal-005",
+      "tipo": "dependencia",
+      "intensidade": 0.95,
+      "descricao": "Idade de Ouro Islâmica floresceu no Califado Abássida"
+    },
+    {
+      "origem": "cal-004",
+      "destino": "cal-009",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "Invasão mongol destruiu o Califado Abássida"
+    },
+    {
+      "origem": "cal-008",
+      "destino": "cal-004",
+      "tipo": "tensao",
+      "intensidade": 0.85,
+      "descricao": "Cruzadas tensionaram o mundo islâmico abássida"
+    },
+    {
+      "origem": "cal-009",
+      "destino": "cal-010",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Vitória mameluca em Ain Jalut salvou o Egito dos mongóis"
+    },
+    {
+      "origem": "cal-005",
+      "destino": "cal-007",
+      "tipo": "dependencia",
+      "intensidade": 0.75,
+      "descricao": "Conhecimento islâmico floresceu em Al-Andalus"
+    },
+    {
+      "origem": "cal-011",
+      "destino": "cal-003",
+      "tipo": "dependencia",
+      "intensidade": 0.8,
+      "descricao": "Arquitetura islâmica desenvolveu-se desde os Omíadas"
+    },
+    {
+      "origem": "cal-012",
+      "destino": "cal-004",
+      "tipo": "dependencia",
+      "intensidade": 0.85,
+      "descricao": "Redes comerciais floresceram no período abássida"
+    }
+  ]
+}

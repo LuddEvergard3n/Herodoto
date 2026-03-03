@@ -1,0 +1,164 @@
+{
+  "entidades": [
+    {
+      "id": "dg-005",
+      "nome": "Apartheid e Nelson Mandela",
+      "nome_en": "Apartheid and Nelson Mandela",
+      "nome_es": "Apartheid y Nelson Mandela",
+      "tipo": "periodo",
+      "descricao": "Apartheid (1948-1994): sistema legal de segregação racial sul-africano. Partido Nacional Afrikaander. Pass Laws: negros precisavam de passes para circular. Massacre de Sharpeville (1960): 69 mortos. ANC banida. Mandela preso em Robben Island (1964-1990) — 27 anos. Sanções internacionais crescentes. F.W. De Klerk liberou Mandela (fev 1990) e negociou o fim do apartheid. Eleições livres em 1994: Mandela eleito presidente. TRC (Comissão Verdade e Reconciliação): Desmond Tutu. Modelo de transição democrática.",
+      "descricao_en": "Apartheid (1948-1994): South African legal system of racial segregation. Afrikaner National Party. Pass Laws: Blacks needed passes to move around. Sharpeville Massacre (1960): 69 killed. ANC banned. Mandela imprisoned on Robben Island (1964-1990) — 27 years. Growing international sanctions. F.W. De Klerk freed Mandela (Feb 1990) and negotiated the end of apartheid. Free elections in 1994: Mandela elected president. TRC (Truth and Reconciliation Commission): Desmond Tutu. Model of democratic transition.",
+      "descricao_es": "Apartheid (1948-1994): segregación racial legalizada. Masacre de Sharpeville (1960). Mandela preso en Robben Island 27 años. Sanciones internacionales. De Klerk liberó a Mandela (feb 1990). Elecciones libres en 1994. CRV con Desmond Tutu. Modelo de transición democrática.",
+      "inicio": 1948,
+      "fim": 1994,
+      "tags": [
+        "apartheid",
+        "mandela",
+        "africa-do-sul",
+        "segregacao"
+      ],
+      "importancia": "Nelson Mandela é o argumento histórico mais poderoso de que perdão estratégico pode ser mais eficaz que vingança. Após 27 anos preso, saiu e liderou uma transição que poderia ter sido guerra civil — e não foi. A Comissão da Verdade e Reconciliação (1995-98) criou o modelo de justiça transicional mais estudado do mundo: confissão pública em troca de anistia, priorizando a verdade sobre a punição. O milagre sul-africano não foi espontâneo — foi resultado de liderança moral extraordinária e de cálculo político cuidadoso em contexto de enorme pressão.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Africa",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "TRC (Truth and Reconciliation Commission): Desmond Tutu. Model of democratic transition.",
+      "importancia_es": "De Klerk liberó a Mandela (feb 1990). Modelo de transición democrática."
+    },
+    {
+      "id": "dg-002",
+      "nome": "Guerra da Argélia (1954-1962)",
+      "nome_en": "Algerian War (1954-1962)",
+      "nome_es": "Guerra de Argelia (1954-1962)",
+      "tipo": "periodo",
+      "descricao": "Argélia: colônia francesa desde 1830, 1 milhão de colonos europeus (pieds-noirs). FLN (Frente de Libertação Nacional) iniciou guerra em novembro 1954. Batalha de Argel (1957): tortura sistemática pelo exército francês — debate na França sobre 'se o fim justifica os meios'. Fanon: 'Os Condenados da Terra' (1961) — violência anticolonial como libertação. De Gaulle: independência em 1962. 1 milhão de algeríamos mortos em 8 anos. Os pieds-noirs para França; os harkis (colaboradores) massacrados.",
+      "descricao_en": "Algeria: French colony since 1830, 1 million European settlers (pieds-noirs). FLN (National Liberation Front) started war in November 1954. Battle of Algiers (1957): systematic torture by French army — debate in France on 'whether ends justify means'. Fanon: 'The Wretched of the Earth' (1961) — anti-colonial violence as liberation. De Gaulle: independence in 1962. 1 million Algerians killed in 8 years. The pieds-noirs fled to France; the harkis (collaborators) were massacred.",
+      "descricao_es": "Argelia colonia francesa desde 1830, 1 millón de colonos europeos. FLN inició la guerra en 1954. Batalla de Argel (1957): tortura sistemática. Fanon: 'Los condenados de la tierra' (1961). De Gaulle: independencia en 1962. 1 millón de argelinos muertos. Los pieds-noirs a Francia; los harkis masacrados.",
+      "inicio": 1954,
+      "fim": 1962,
+      "tags": [
+        "argelia",
+        "descolonizacao",
+        "fnl",
+        "tortura"
+      ],
+      "importancia": "A Guerra da Argélia (1954-1962) foi a mais brutal das guerras de independência europeias: a França torturou sistematicamente, usou napalm em aldeias civis e matou entre 300.000 e 1,5 milhão de argelinos em 8 anos. Mas revelou uma verdade sobre guerras coloniais de contra-insurgência: democracias não conseguem sustentá-las indefinidamente quando a opinião pública interna se volta contra elas. A guerra derrubou a IV República francesa, trouxe De Gaulle ao poder e levou a França a conceder a independência que havia dito ser impossível. Lição que os EUA ignoraram no Vietnã e no Iraque.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Africa",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "The pieds-noirs fled to France; the harkis (collaborators) were massacred.",
+      "importancia_es": "De Gaulle: independencia en 1962. Los pieds-noirs a Francia; los harkis masacrados."
+    },
+    {
+      "id": "dg-001",
+      "nome": "Bandung e o Terceiro Mundo (1955)",
+      "nome_en": "Bandung and the Third World (1955)",
+      "nome_es": "Bandung y el Tercer Mundo (1955)",
+      "tipo": "evento",
+      "descricao": "Conferência de Bandung (18-24 abril 1955): 29 nações afro-asiáticas — Nehru, Sukarno, Nasser, Zhou Enlai, Ho Chi Minh. Primeira vez que países do 'Sul Global' se reuniram autônomo das superpotências. Dez Princípios de Bandung: soberania, não-intervenção, coexistência pacífica. Origem do Movimento dos Não-Alinhados (1961). 'Terceiro Mundo': não capitalista nem comunista — reivindicação de uma via própria. Antecipou o multilateralismo do séc. XXI.",
+      "descricao_en": "Bandung Conference (April 18-24, 1955): 29 Afro-Asian nations — Nehru, Sukarno, Nasser, Zhou Enlai, Ho Chi Minh. First time countries of the 'Global South' met independently of the superpowers. Ten Principles of Bandung: sovereignty, non-intervention, peaceful coexistence. Origin of the Non-Aligned Movement (1961). 'Third World': neither capitalist nor communist — claiming its own path. Anticipated 21st century multilateralism.",
+      "descricao_es": "Conferencia de Bandung (18-24 abr 1955): 29 naciones afro-asiáticas — Nehru, Sukarno, Nasser, Zhou Enlai, Ho Chi Minh. Primera vez que el 'Sur Global' se reunió autónomo. Diez Principios: soberanía, no-intervención. Origen del Movimiento de los No Alineados (1961).",
+      "inicio": 1955,
+      "fim": 1961,
+      "tags": [
+        "bandung",
+        "terceiro-mundo",
+        "nao-alinhados",
+        "descolonizacao"
+      ],
+      "importancia": "A Conferência de Bandung: nascimento do Sul Global como sujeito político autônomo. Antecipou o multilateralismo do séc. XXI.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Global",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "'Third World': neither capitalist nor communist — claiming its own path. Anticipated 21st century multilateralism.",
+      "importancia_es": "Diez Principios: soberanía, no-intervención. Origen del Movimiento de los No Alineados (1961)."
+    },
+    {
+      "id": "dg-003",
+      "nome": "Guerra do Vietnam (1955-1975)",
+      "nome_en": "Vietnam War (1955-1975)",
+      "nome_es": "Guerra de Vietnam (1955-1975)",
+      "tipo": "periodo",
+      "descricao": "Vietnam dividido em 1954 (Acordos de Genebra). EUA entraram gradualmente: Kennedy (conselheiros), Johnson (escalada após incidente de Tonkin, 1964 — pretexto contestado). Pico: 543.000 soldados americanos (1969). Ofensiva Tet (jan 1968): prova de que a guerra era imperdível. My Lai: massacre de 504 civis (1968). 58.000 americanos mortos; 3-4 milhões de vietnamitas. Saigon caiu em 30 abril 1975. A primeira derrota militar americana da história. O Vietnam transformou a política externa e a cultura americana.",
+      "descricao_en": "Vietnam divided in 1954 (Geneva Accords). US entered gradually: Kennedy (advisers), Johnson (escalation after Gulf of Tonkin incident, 1964 — contested pretext). Peak: 543,000 American soldiers (1969). Tet Offensive (Jan 1968): proof the war was unwinnable. My Lai: massacre of 504 civilians (1968). 58,000 Americans killed; 3-4 million Vietnamese. Saigon fell on April 30, 1975. America's first military defeat in history. Vietnam transformed American foreign policy and culture.",
+      "descricao_es": "Vietnam dividido en 1954. EE.UU. entró gradualmente. Pico: 543.000 soldados (1969). Ofensiva Tet (1968): prueba de que la guerra era imposible de ganar. My Lai: masacre de 504 civiles. 58.000 americanos muertos; 3-4 millones de vietnamitas. Saigón cayó el 30 abr 1975. Primera derrota militar americana.",
+      "inicio": 1955,
+      "fim": 1975,
+      "tags": [
+        "vietnam",
+        "guerra-vietnam",
+        "eua",
+        "descolonizacao"
+      ],
+      "importancia": "A Guerra do Vietnã (1955-1975) foi o caso definitivo de superpotência derrotada por força guerrilheira com apoio popular. Os EUA gastaram $840 bilhões (em dólares de 2011), lançaram mais bombas que em toda a Segunda Guerra, perderam 58.220 soldados — e perderam. A derrota criou a 'Síndrome do Vietnã' que limitou a política externa americana por 20 anos e transformou a cultura política ocidental: a geração que protestou contra o Vietnã dominou as décadas seguintes da política americana. O Vietnã reunificado tornou-se aliado comercial dos EUA em 30 anos — a ironia mais eloquente da Guerra Fria.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "SoutheastAsia",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "America's first military defeat in history. Vietnam transformed American foreign policy and culture.",
+      "importancia_es": "58.000 americanos muertos; 3-4 millones de vietnamitas. Primera derrota militar americana."
+    },
+    {
+      "id": "dg-004",
+      "nome": "Independências Africanas e o Ano de África (1960)",
+      "nome_en": "African Independences and the Year of Africa (1960)",
+      "nome_es": "Independencias Africanas y el Año de África (1960)",
+      "tipo": "periodo",
+      "descricao": "1960: 17 países africanos tornaram-se independentes no mesmo ano — 'Ano de África'. Kwame Nkrumah (Gana, 1957): primeiro território sub-saariano independente. Pan-africanismo: 'Nós afirmamos o direito inalienável de todos os povos africanos ao controle dos seus destinos'. Patrice Lumumba (Congo, 1960): assassinado com cumplicidade belga e CIA após 72 dias no poder. Amílcar Cabral (Guiné-Bissau). Descolonização portuguesa (Angola, Moçambique 1975): a mais tardia — levou guerras civis longas.",
+      "descricao_en": "1960: 17 African countries became independent in the same year — 'Year of Africa'. Kwame Nkrumah (Ghana, 1957): first sub-Saharan territory to gain independence. Pan-Africanism: 'We affirm the inalienable right of all African peoples to control their own destinies'. Patrice Lumumba (Congo, 1960): assassinated with Belgian and CIA complicity after 72 days in power. Amílcar Cabral (Guinea-Bissau). Portuguese decolonization (Angola, Mozambique 1975): the latest — led to long civil wars.",
+      "descricao_es": "1960: 17 países africanos independientes en un año — 'Año de África'. Nkrumah (Ghana, 1957): primero en el África subsahariana. Lumumba (Congo, 1960): asesinado con complicidad belga y de la CIA. Amílcar Cabral. Descolonización portuguesa (1975): la más tardía — guerras civiles largas.",
+      "inicio": 1957,
+      "fim": 1980,
+      "tags": [
+        "independencias-africanas",
+        "nkrumah",
+        "lumumba",
+        "pan-africanismo"
+      ],
+      "importancia": "O 'Ano da África' (1960) — 17 independências num único ano — foi o ponto de inflexão da descolonização: demonstrou que o processo era irreversível. Mas a velocidade criou um problema estrutural grave: Estados com fronteiras artificiais, sem classe política treinada, sem instituições funcionais e imediatamente arrastados para a Guerra Fria. A independência formal não criou autonomia real — apenas substituiu colonizadores brancos por elites nacionais frequentemente igualmente extractivistas, apoiadas pela superpotência que serviam.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Africa",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "Portuguese decolonization (Angola, Mozambique 1975): the latest — led to long civil wars.",
+      "importancia_es": "Descolonización portuguesa (1975): la más tardía — guerras civiles largas."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "dg-001",
+      "destino": "dg-002",
+      "tipo": "contemporaneo",
+      "intensidade": 0.8,
+      "descricao": "Bandung e a Guerra da Argélia são simultâneos e representam o mesmo impulso anticolonial"
+    },
+    {
+      "origem": "dg-001",
+      "destino": "dg-003",
+      "tipo": "contemporaneo",
+      "intensidade": 0.7,
+      "descricao": "Ho Chi Minh estava em Bandung e o Vietnam era o caso mais simbólico da resistência anti-imperialista"
+    },
+    {
+      "origem": "dg-001",
+      "destino": "dg-004",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Bandung deu impulso ideológico às independências africanas de 1960"
+    },
+    {
+      "origem": "dg-004",
+      "destino": "dg-005",
+      "tipo": "contemporaneo",
+      "intensidade": 0.7,
+      "descricao": "O apartheid era a sobrevivência do sistema colonial nas décadas das independências africanas"
+    }
+  ]
+}

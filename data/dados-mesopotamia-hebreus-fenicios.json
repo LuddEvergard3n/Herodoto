@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Mesopotâmia: Fenícios, Hebreus e Civilizações Levantinas",
+    "periodo": "-1200 a -300"
+  },
+  "entidades": [
+    {
+      "id": "mhf-003",
+      "nome": "Astronomia Babilônica: A Ciência do Céu",
+      "nome_en": "Babylonian Astronomy: The Science of the Sky",
+      "nome_es": "Astronomía Babilónica: La Ciencia del Cielo",
+      "tipo": "periodo",
+      "inicio": -1800,
+      "fim": -100,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -18,
+      "type": "intellectual",
+      "descricao": "A astronomia babilônica (c. 1800–100 a.C.) foi a mais avançada do mundo antes dos gregos — e influenciou profundamente os gregos. Os astrônomos babilônicos registraram sistematicamente posições planetárias por séculos, criando os primeiros modelos matemáticos do movimento celeste. Previram eclipses com precisão usando o Ciclo de Saros (223 meses lunares). Dividiram a eclíptica em 12 constelações (zodíaco). O período sideral e sinódico de todos os planetas foram calculados com grande precisão.",
+      "descricao_en": "Babylonian astronomy (c. 1800–100 BC) was the world's most advanced before the Greeks — and profoundly influenced the Greeks. Babylonian astronomers systematically recorded planetary positions for centuries, creating the first mathematical models of celestial motion. They predicted eclipses accurately using the Saros Cycle (223 lunar months). They divided the ecliptic into 12 constellations (zodiac).",
+      "descricao_es": "La astronomía babilónica fue la más avanzada del mundo antes de los griegos. Predecían eclipses con el Ciclo de Saros. Dividieron la eclíptica en 12 constelaciones (zodíaco).",
+      "importancia": "A astronomia babilônica é a raiz da astrologia e da astronomia ocidentais. O zodíaco babilônico (12 constelações) é o mesmo que usamos hoje. Os modelos matemáticos do movimento celeste desenvolvidos em Babilônia foram herdados pelos gregos e formaram a base da astronomia de Hiparco e Ptolomeu.",
+      "importancia_en": "Babylonian astronomy is the root of Western astrology and astronomy. The Babylonian zodiac (12 constellations) is the same one we use today. Babylonian mathematical models of celestial motion were inherited by the Greeks and formed the basis of Hipparchus and Ptolemy's astronomy.",
+      "importancia_es": "La astronomía babilónica es la raíz de la astrología y astronomía occidentales. El zodíaco babilónico es el mismo que usamos hoy.",
+      "tags": [
+        "astronomia",
+        "Babilônia",
+        "zodíaco",
+        "Saros",
+        "eclipses",
+        "matemática"
+      ],
+      "dataset": "data/dados-mesopotamia-hebreus-fenicios.json"
+    },
+    {
+      "id": "mhf-006",
+      "nome": "Hititas: O Terceiro Grande Poder do Bronze Age",
+      "nome_en": "Hittites: The Third Great Power of the Bronze Age",
+      "nome_es": "Hititas: El Tercer Gran Poder de la Edad de Bronce",
+      "tipo": "periodo",
+      "inicio": -1680,
+      "fim": -1180,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -17,
+      "type": "political",
+      "descricao": "Os Hititas (c. 1680–1180 a.C., atual Turquia central) foram a terceira grande potência do Bronze Age Final, ao lado do Egito e da Babilônia. Foram os primeiros a usar o ferro de forma sistemática na guerra. Sua língua é a mais antiga língua indo-europeia documentada. O Tratado de Kadesh com o Egito (1259 a.C.) é o mais antigo tratado internacional sobrevivente. Criaram um sistema legal sofisticado (Código Hitita) que era surpreendentemente humano para a época — com multas em vez de mutilações.",
+      "descricao_en": "The Hittites (c. 1680–1180 BC, modern central Turkey) were the third great power of the Late Bronze Age, alongside Egypt and Babylon. They were the first to use iron systematically in warfare. Their language is the oldest documented Indo-European language. The Treaty of Kadesh with Egypt (1259 BC) is the oldest surviving international treaty. They created a sophisticated legal system — the Hittite Code — remarkably humane for the time, with fines instead of mutilations.",
+      "descricao_es": "Los hititas fueron el tercer gran poder de la Edad de Bronce Final. Usaron el hierro sistemáticamente en la guerra. Su idioma es el más antiguo de la familia indoeuropea documentado. El Tratado de Kadesh (1259 a.C.) es el primer tratado internacional superviviente.",
+      "importancia": "A língua hitita (decifrada em 1915 por Bedřich Hrozný) foi a revelação que confirmou a família linguística indo-europeia. O Código Hitita, com suas penas de reparação em vez de mutilação, representa um humanismo jurídico raro na Antiguidade.",
+      "importancia_en": "The Hittite language (deciphered in 1915 by Bedřich Hrozný) was the revelation that confirmed the Indo-European language family. The Hittite Code, with its reparation penalties instead of mutilation, represents rare juridical humanism in Antiquity.",
+      "importancia_es": "La lengua hitita confirmó la familia lingüística indoeuropea. El Código Hitita, con penas de reparación en lugar de mutilación, representa un humanismo jurídico raro en la Antigüedad.",
+      "tags": [
+        "Hititas",
+        "ferro",
+        "Código Hitita",
+        "indo-europeu",
+        "Kadesh",
+        "Anatólia"
+      ],
+      "dataset": "data/dados-mesopotamia-hebreus-fenicios.json"
+    },
+    {
+      "id": "mhf-004",
+      "nome": "Ugarit e a Literatura do Levante",
+      "nome_en": "Ugarit and the Literature of the Levant",
+      "nome_es": "Ugarit y la Literatura del Levante",
+      "tipo": "periodo",
+      "inicio": -1400,
+      "fim": -1185,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -14,
+      "type": "cultural",
+      "descricao": "Ugarit (atual Ras Shamra, Síria) foi um dos centros intelectuais e literários mais ricos do Bronze Age Final. Seus arquivos cuneiformes (escavados desde 1929) revelaram uma literatura de alta sofisticação: mitos de Baal e Mot (morte e ressurreição da vegetação), o Ciclo de Baal (precursor dos mitos cananeus que influenciaram o Antigo Testamento), hinos, correspondências diplomáticas e tratados comerciais. A língua ugarítica é próxima do hebraico e ilumina a compreensão do Antigo Testamento.",
+      "descricao_en": "Ugarit (modern Ras Shamra, Syria) was one of the richest intellectual and literary centers of the Late Bronze Age. Its cuneiform archives (excavated since 1929) revealed highly sophisticated literature: myths of Baal and Mot (death and resurrection of vegetation), the Baal Cycle (precursor of Canaanite myths that influenced the Old Testament), hymns, diplomatic correspondence and trade treaties.",
+      "descricao_es": "Ugarit fue uno de los centros intelectuales más ricos de la Edad de Bronce Final. Sus archivos cuneiformes revelaron una rica literatura: el Ciclo de Baal, precursor de los mitos cananeos que influyeron en el Antiguo Testamento.",
+      "importancia": "O Ciclo de Baal de Ugarit é o precedente literário direto de muitas narrativas do Antigo Testamento — a rivalidade entre Baal e Yahweh refletida nos textos proféticos, os rituais agrários cananeus que os profetas hebraicos combatiam. Ugarit também produziu a evidência mais antiga da escrita alfabética consonantal.",
+      "importancia_en": "The Ugarit Baal Cycle is the direct literary precedent of many Old Testament narratives. Ugarit also produced the earliest evidence of consonantal alphabetic writing.",
+      "importancia_es": "El Ciclo de Baal de Ugarit es el precedente literario directo de muchas narrativas del Antiguo Testamento.",
+      "tags": [
+        "Ugarit",
+        "Baal",
+        "literatura",
+        "Bronze Age",
+        "Antigo Testamento",
+        "Síria"
+      ],
+      "dataset": "data/dados-mesopotamia-hebreus-fenicios.json"
+    },
+    {
+      "id": "mhf-001",
+      "nome": "Fenícios: O Povo que Inventou o Alfabeto",
+      "nome_en": "Phoenicians: The People Who Invented the Alphabet",
+      "nome_es": "Fenicios: El Pueblo que Inventó el Alfabeto",
+      "tipo": "periodo",
+      "inicio": -1200,
+      "fim": -300,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -12,
+      "type": "cultural",
+      "descricao": "Os fenícios (c. 1200–300 a.C., atuais Líbano/Israel/Síria costeiros) foram o povo comerciante do Mediterrâneo antigo. Desenvolveram o alfabeto consonantal (c. 1050 a.C.) — 22 letras, sem vogais — que revolucionou a comunicação por ser aprendível em dias, não anos como o cuneiforme. Fundaram colônias por todo o Mediterrâneo: Cartago (814 a.C.), Cádiz, Útica. Exploraram o Atlântico e possivelmente circum-navegaram a África a pedido do faraó Necao II (c. 600 a.C.).",
+      "descricao_en": "The Phoenicians (c. 1200–300 BC) were the trading people of the ancient Mediterranean. They developed the consonantal alphabet (c. 1050 BC) — 22 letters, no vowels — which revolutionized communication by being learnable in days, not years like cuneiform. They founded colonies throughout the Mediterranean: Carthage (814 BC), Cádiz, Utica. They explored the Atlantic and possibly circumnavigated Africa at the order of Pharaoh Necho II (c. 600 BC).",
+      "descricao_es": "Los fenicios desarrollaron el alfabeto consonántico (c. 1050 a.C.) — 22 letras, sin vocales. Fundaron colonias por todo el Mediterráneo: Cartago (814 a.C.), Cádiz. Posiblemente circunnavegaron África por orden del faraón Necao II.",
+      "importancia": "O alfabeto fenício é o ancestral direto de praticamente todos os sistemas de escrita alfabética do mundo — hebraico, árabe, grego, latino, cirílico, devanágari, etíope. Sem os fenícios, a escrita do mundo seria incomparavelmente mais difícil de aprender — e a democracia ateniense (que exigia cidadãos letrados) talvez nunca tivesse existido.",
+      "importancia_en": "The Phoenician alphabet is the direct ancestor of virtually all alphabetic writing systems in the world — Hebrew, Arabic, Greek, Latin, Cyrillic, Devanagari, Ethiopic. Without the Phoenicians, world writing would be incomparably harder to learn.",
+      "importancia_es": "El alfabeto fenicio es el ancestro directo de casi todos los sistemas de escritura alfabética del mundo.",
+      "tags": [
+        "Fenícios",
+        "alfabeto",
+        "Cartago",
+        "Mediterrâneo",
+        "comércio",
+        "Líbano"
+      ],
+      "dataset": "data/dados-mesopotamia-hebreus-fenicios.json"
+    },
+    {
+      "id": "mhf-002",
+      "nome": "Israel e Judá: Monoteísmo e o Cânone Bíblico",
+      "nome_en": "Israel and Judah: Monotheism and the Biblical Canon",
+      "nome_es": "Israel y Judá: Monoteísmo y el Canon Bíblico",
+      "tipo": "periodo",
+      "inicio": -1020,
+      "fim": -587,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -10,
+      "type": "religious",
+      "descricao": "O Reino de Israel (c. 1020–722 a.C.) unificado por Saul, Davi e Salomão, foi o berço do monoteísmo hebraico. O Templo de Salomão em Jerusalém (c. 960 a.C.) foi o centro do culto a Yahweh. Após o cisma, Israel (Norte) foi destruído pelos Assírios (722 a.C.) — as 'Dez Tribos Perdidas'. Judá (Sul) sobreviveu até a conquista babilônica (586 a.C.). O Exílio na Babilônia foi o momento em que a maioria dos textos do Antigo Testamento foi codificada na forma conhecida.",
+      "descricao_en": "The Kingdom of Israel (c. 1020–722 BC), unified by Saul, David and Solomon, was the cradle of Hebrew monotheism. Solomon's Temple in Jerusalem (c. 960 BC) was the center of Yahweh worship. After the schism, Israel (North) was destroyed by the Assyrians (722 BC) — the 'Ten Lost Tribes'. Judah (South) survived until Babylonian conquest (586 BC). The Babylonian Exile was when most Old Testament texts were codified.",
+      "descricao_es": "El Reino de Israel, unificado por Saúl, David y Salomón, fue la cuna del monoteísmo hebreo. El Templo de Salomón fue el centro del culto a Yahvé. El Exilio babilónico fue cuando se codificó la mayor parte del Antiguo Testamento.",
+      "importancia": "O monoteísmo judaico que emergiu do Exílio Babilônico é a fonte direta do Cristianismo e do Islão — as três religiões monoteístas que moldam a fé de mais de 4 bilhões de pessoas. É o legado mais influente da civilização do Levante antigo.",
+      "importancia_en": "The Jewish monotheism that emerged from the Babylonian Exile is the direct source of Christianity and Islam — the three monotheistic religions that shape the faith of over 4 billion people.",
+      "importancia_es": "El monoteísmo judío que emergió del Exilio Babilónico es la fuente directa del Cristianismo y del Islam.",
+      "tags": [
+        "Israel",
+        "Judá",
+        "Salomão",
+        "monoteísmo",
+        "Bíblia",
+        "Yahweh"
+      ],
+      "dataset": "data/dados-mesopotamia-hebreus-fenicios.json"
+    },
+    {
+      "id": "mhf-005",
+      "nome": "Nabateus e a Rota do Incenso",
+      "nome_en": "Nabataeans and the Incense Route",
+      "nome_es": "Nabateos y la Ruta del Incienso",
+      "tipo": "periodo",
+      "inicio": -400,
+      "fim": 106,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -4,
+      "type": "economic",
+      "descricao": "Os Nabateus (séc. IV a.C.–106 d.C.) foram um povo árabe que controlou as rotas de comércio de especiarias e incenso do sul da Arábia ao Mediterrâneo. Sua capital Petra (atual Jordânia) foi esculpida na rocha — uma das cidades mais extraordinárias da Antiguidade. Os Nabateus desenvolveram um sistema de armazenamento de água sofisticado no deserto, o nabateu como língua de comércio (ancestral do árabe moderno) e a escrita nabateia (ancestral direta da escrita árabe atual).",
+      "descricao_en": "The Nabataeans (4th century BC–106 AD) were an Arab people who controlled spice and incense trade routes from southern Arabia to the Mediterranean. Their capital Petra (modern Jordan) was carved into rock — one of Antiquity's most extraordinary cities. The Nabataeans developed a sophisticated water storage system in the desert, Nabataean as a trade language (ancestor of modern Arabic) and Nabataean script (direct ancestor of modern Arabic script).",
+      "descricao_es": "Los nabateos controlaron las rutas del incienso del sur de Arabia al Mediterráneo. Su capital Petra fue esculpida en la roca. La escritura nabatea es el ancestro directo de la escritura árabe actual.",
+      "importancia": "A escrita nabateia é o ancestral direto da escrita árabe — o sistema de escrita de mais de 1,5 bilhão de pessoas hoje. Petra, redescobrerta por Johann Ludwig Burckhardt em 1812, é um dos sítios arqueológicos mais visitados e fotografados do mundo.",
+      "importancia_en": "Nabataean script is the direct ancestor of Arabic script — the writing system of over 1.5 billion people today. Petra, rediscovered by Johann Ludwig Burckhardt in 1812, is one of the world's most visited archaeological sites.",
+      "importancia_es": "La escritura nabatea es el ancestro directo de la escritura árabe — el sistema de escritura de más de 1.500 millones de personas.",
+      "tags": [
+        "Nabateus",
+        "Petra",
+        "escrita árabe",
+        "incenso",
+        "comércio",
+        "Jordânia"
+      ],
+      "dataset": "data/dados-mesopotamia-hebreus-fenicios.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "mhf-001",
+      "destino": "mhf-002",
+      "tipo": "influencia",
+      "intensidade": 0.7,
+      "descricao": "Alfabeto fenício é adotado pelos hebreus para registrar seus textos"
+    },
+    {
+      "origem": "mhf-002",
+      "destino": "mhf-003",
+      "tipo": "paralelo",
+      "intensidade": 0.5,
+      "descricao": "Monoteísmo hebraico e astronomia babilônica se desenvolvem em contato"
+    },
+    {
+      "origem": "mhf-004",
+      "destino": "mhf-002",
+      "tipo": "influencia",
+      "intensidade": 0.8,
+      "descricao": "Mitologia cananéia de Ugarit influencia e é combatida pelos profetas hebraicos"
+    },
+    {
+      "origem": "mhf-006",
+      "destino": "mhf-001",
+      "tipo": "paralelo",
+      "intensidade": 0.6,
+      "descricao": "Hititas e fenícios são potências do mesmo Bronze Age Final"
+    },
+    {
+      "origem": "mhf-005",
+      "destino": "mhf-003",
+      "tipo": "paralelo",
+      "intensidade": 0.4,
+      "descricao": "Nabateus e astronomia babilônica são pontes entre Oriente e Ocidente"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "entidades": [
+    {
+      "id": "asc-001",
+      "nome": "Ásia Central: Sogdiana, Cidades-Oásis e Rota da Seda",
+      "nome_en": "Central Asia: Sogdiana, Oasis Cities and Silk Road",
+      "nome_es": "Asia Central: Sogdiana, Ciudades Oasis y Ruta de la Seda",
+      "tipo": "periodo",
+      "inicio": -600,
+      "fim": 1500,
+      "descricao": "Sogdianos (séc. VI a.C.–VIII d.C.): comerciantes iranianos que dominaram a Rota da Seda por 1.000 anos. Samarkand, Bukhara, Merv: cidades-oásis com 100.000 habitantes no pico, centros de comércio, arte e conhecimento. Afrásio (fresco de Samarkand, ~660): delegações da China, Índia, Bizâncio e Turcos retratadas na mesma sala. Zoroastrismo, maniqueísmo, budismo, nestorianismo, judaísmo e islamismo coexistiram. Conquista árabe (~710): Samarkand conquistada, islamização gradual. Califado dos Samanidas (~900): renascimento persa-islâmico, poesia de Rudaki.",
+      "descricao_en": "Sogdians (6th c. BC–8th c. AD): Iranian traders who dominated the Silk Road for 1,000 years. Samarkand, Bukhara, Merv: oasis cities with 100,000 inhabitants at peak, centers of trade, art and knowledge. Afrasiab (Samarkand fresco, ~660): delegations from China, India, Byzantium and Turks portrayed in the same room. Zoroastrianism, Manichaeism, Buddhism, Nestorianism, Judaism and Islam coexisted. Arab conquest (~710): Samarkand conquered, gradual Islamization. Samanid Caliphate (~900): Persian-Islamic renaissance, poetry of Rudaki.",
+      "descricao_es": "Sogdianos (siglo VI a.C.–VIII d.C.): comerciantes iraníes que dominaron la Ruta de la Seda durante 1.000 años. Samarcanda, Bujará, Merv: ciudades-oasis con 100.000 hab. en su apogeo. El fresco de Afrásio (~660): delegaciones de China, India, Bizancio y turcos retratadas en la misma sala. Zoroastrismo, maniqueísmo, budismo, nestorianismo, judaísmo e islam coexistieron.",
+      "tags": [
+        "sogdiana",
+        "samarkand",
+        "bukhara",
+        "rota-seda",
+        "zoroastrismo"
+      ],
+      "importancia": "Os Sogdianos dominaram o comércio eurasiano por 1.000 anos sem nunca ter um império militar — apenas redes comerciais, confiança e língua franca.",
+      "century_start": -6,
+      "century_end": 10,
+      "region": "CentralAsia",
+      "type": "economic",
+      "period": "Ancient",
+      "importancia_en": "Samanid Caliphate (~900): Persian-Islamic renaissance, poetry of Rudaki.",
+      "importancia_es": "Zoroastrismo, maniqueísmo, budismo, nestorianismo, judaísmo e islam coexistieron."
+    },
+    {
+      "id": "asc-002",
+      "nome": "Renascimento Timurid e Ulugh Beg",
+      "nome_en": "Timurid Renaissance and Ulugh Beg",
+      "nome_es": "Renacimiento Timúrida y Ulugh Beg",
+      "tipo": "periodo",
+      "inicio": 1370,
+      "fim": 1507,
+      "descricao": "Timur (1370–1405): destruiu; Shahrukh e Ulugh Beg construíram. Ulugh Beg (1394–1449): astrônomo-sultão de Samarkand. Construiu o maior observatório medieval do mundo (1428): catálogos de 1.018 estrelas com precisão de arco-minuto — mais exatos que Brahe por 150 anos. Matemático: tabelas trigonométricas com erro de 4 arco-segundos. Assassinado pelo próprio filho a mando dos mulás conservadores (1449). Renascimento Timurid: miniatura persa, arquitetura turquesa, poesia de Jami, Babur (fundador do Mogol indiano nasceu aqui).",
+      "descricao_en": "Timur (1370–1405): destroyed; Shahrukh and Ulugh Beg built. Ulugh Beg (1394–1449): astronomer-sultan of Samarkand. Built the largest medieval observatory in the world (1428): catalogs of 1,018 stars with arc-minute precision — more accurate than Brahe for 150 years. Mathematician: trigonometric tables with 4 arc-second error. Assassinated by his own son on orders of conservative mullahs (1449). Timurid Renaissance: Persian miniature, turquoise architecture, poetry of Jami, Babur (founder of Indian Mughal was born here).",
+      "descricao_es": "Ulugh Beg (1394–1449): astrónomo-sultán de Samarcanda. Construyó el mayor observatorio medieval del mundo (1428): catálogos de 1.018 estrellas con precisión de arco-minuto — más exactos que Brahe durante 150 años. Asesinado por su propio hijo a instancias de los mulás conservadores (1449). Renacimiento Timúrida: miniatura persa, arquitectura turquesa, poesía de Jami.",
+      "tags": [
+        "ulugh-beg",
+        "timur",
+        "samarkand",
+        "astronomia",
+        "observatorio"
+      ],
+      "importancia": "Ulugh Beg catalogou 1.018 estrelas com precisão superior à de Tycho Brahe — 150 anos antes de Brahe — e foi assassinado a mando de clérigos conservadores.",
+      "century_start": 14,
+      "century_end": 16,
+      "region": "CentralAsia",
+      "type": "cultural",
+      "period": "Medieval",
+      "importancia_en": "Timurid Renaissance: Persian miniature, turquoise architecture, poetry of Jami, Babur (founder of Indian Mughal was born here).",
+      "importancia_es": "Renacimiento Timúrida: miniatura persa, arquitectura turquesa, poesía de Jami."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "asc-001",
+      "destino": "asc-002",
+      "tipo": "evolucao",
+      "intensidade": 0.7,
+      "descricao": "Samarkand foi o centro sogdiano da Rota da Seda por 1.000 anos antes de se tornar a capital intelectual timurid"
+    }
+  ]
+}

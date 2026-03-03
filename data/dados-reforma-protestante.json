@@ -1,0 +1,171 @@
+{
+  "entidades": [
+    {
+      "id": "rep-001",
+      "nome": "Lutero e as 95 Teses",
+      "nome_en": "Luther and the 95 Theses",
+      "nome_es": "Lutero y las 95 Tesis",
+      "tipo": "evento",
+      "descricao": "Martinho Lutero (1483-1546): monge agostiniano, professor em Wittenberg. 31 outubro 1517: afixou as 95 Teses na porta da Igreja do Castelo — debate acadêmico sobre indulgências. A imprensa de Gutenberg (1440) multiplicou o texto pela Europa em semanas. Principais teses: salvação pela fé (sola fide), não pelas obras ou compras de indulgências; Bíblia como única autoridade (sola scriptura). Excomungado em 1521. Dieta de Worms (1521): 'Não posso revogar nada... Que Deus me ajude.'",
+      "descricao_en": "Martin Luther (1483-1546): Augustinian monk, professor in Wittenberg. 31 October 1517: posted the 95 Theses on the door of the Castle Church — academic debate on indulgences. Gutenberg's printing press (1440) multiplied the text across Europe in weeks. Main theses: salvation by faith alone (sola fide), not by works or purchasing indulgences; Bible as sole authority (sola scriptura). Excommunicated in 1521. Diet of Worms (1521): 'I can recant nothing... So help me God.'",
+      "descricao_es": "Lutero (1483-1546): monje agustino. 31 octubre 1517: las 95 Tesis. La imprenta de Gutenberg multiplicó el texto por Europa en semanas. Sola fide, sola scriptura. Excomulgado en 1521. Dieta de Worms (1521): 'No puedo retractarme... Que Dios me ayude.'",
+      "inicio": 1517,
+      "fim": 1521,
+      "tags": [
+        "lutero",
+        "95-teses",
+        "protestantismo",
+        "reforma"
+      ],
+      "importancia": "As 95 Teses de Lutero tornaram-se virais numa velocidade impossível sem a imprensa de Gutenberg: em duas semanas estavam em toda a Alemanha, em dois meses na Europa inteira. Foi o primeiro grande evento midiático da história moderna — e revelou o poder transformador da tecnologia de comunicação sobre estruturas de poder estabelecidas. A Igreja levou 35 anos para processar Galileu; levou 4 anos para que Lutero tornasse a Reforma irreversível. A diferença foi a velocidade da imprensa.",
+      "century_start": 16,
+      "century_end": 16,
+      "region": "Europe",
+      "type": "religious",
+      "period": "EarlyModern",
+      "importancia_en": "Main theses: salvation by faith alone (sola fide), not by works or purchasing indulgences; Bible as sole authority (sola scriptura). Diet of Worms (1521): 'I can recant nothing...",
+      "importancia_es": "La imprenta de Gutenberg multiplicó el texto por Europa en semanas. Dieta de Worms (1521): 'No puedo retractarme..."
+    },
+    {
+      "id": "rep-005",
+      "nome": "Reforma Anglicana: Igreja e Política",
+      "nome_en": "Anglican Reformation: Church and Politics",
+      "nome_es": "Reforma Anglicana: Iglesia y Política",
+      "tipo": "evento",
+      "descricao": "Henrique VIII (1509-1547): divorciado, excomungado por Clemente VII (1533). Ato de Supremacia (1534): Henrique chefe da Igreja da Inglaterra. Reforma anglicana não teológica: mesma doutrina, hierarquia diferente. Eduardo VI: protestantismo calvinista. Maria Tudor ('Sanguinária'): restaurou o catolicismo, executou 300. Elizabeth I (1558-1603): via média, Anglicanismo definitivo. Puritanos: queriam reforma mais radical → Revolução Inglesa (1640) → Emigração para América (Mayflower, 1620).",
+      "descricao_en": "Henry VIII (1509-1547): divorced, excommunicated by Clement VII (1533). Act of Supremacy (1534): Henry as head of the Church of England. Anglican Reformation not theological: same doctrine, different hierarchy. Edward VI: Calvinist Protestantism. Mary Tudor ('Bloody Mary'): restored Catholicism, executed 300. Elizabeth I (1558-1603): middle way, definitive Anglicanism. Puritans: wanted more radical reform → English Revolution (1640) → Emigration to America (Mayflower, 1620).",
+      "descricao_es": "Enrique VIII (1509-1547): excomulgado. Acta de Supremacía (1534): Enrique jefe de la Iglesia de Inglaterra. María Tudor: restauró el catolicismo, ejecutó 300. Isabel I: anglicanismo definitivo. Puritanos → Revolución Inglesa → Mayflower (1620).",
+      "inicio": 1534,
+      "fim": 1558,
+      "tags": [
+        "anglicano",
+        "henrique-viii",
+        "elizabeth-i",
+        "puritanos"
+      ],
+      "importancia": "A Reforma Anglicana foi a mais politicamente motivada das reformas: Henrique VIII não discordava teologicamente de Roma — discordava do poder papal de vetar seu divórcio. O anglicanismo nasceu como instrumento político e permaneceu como tal: a Coroa como Chefe da Igreja criou um modelo de religião nacional subordinada ao Estado que influenciou o conceito de soberania moderna. A Church of England tornou-se o modelo de como Estados modernos podem domesticar instituições religiosas sem suprimi-las.",
+      "century_start": 16,
+      "century_end": 16,
+      "region": "Europe",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Puritans: wanted more radical reform → English Revolution (1640) → Emigration to America (Mayflower, 1620).",
+      "importancia_es": "Isabel I: anglicanismo definitivo. Puritanos → Revolución Inglesa → Mayflower (1620)."
+    },
+    {
+      "id": "rep-002",
+      "nome": "Calvino e o Calvinismo",
+      "nome_en": "Calvin and Calvinism",
+      "nome_es": "Calvino y el Calvinismo",
+      "tipo": "periodo",
+      "descricao": "João Calvino (1509-1564): teólogo francês em Genebra. Predestinação: Deus elegeu desde a eternidade os que serão salvos. Ética do trabalho: sucesso material como sinal de eleição divina (Max Weber: A Ética Protestante e o Espírito do Capitalismo). Teocracia em Genebra. Calvinismo: Suíça, Países Baixos (Reforma Holandesa), Escócia (Presbiterianismo, Knox), França (Huguenotes), Inglaterra (Puritanismo). Base teológica do capitalismo e da democracia representativa.",
+      "descricao_en": "John Calvin (1509-1564): French theologian in Geneva. Predestination: God elected since eternity those to be saved. Work ethic: material success as sign of divine election (Max Weber: The Protestant Ethic and the Spirit of Capitalism). Theocracy in Geneva. Calvinism: Switzerland, Netherlands (Dutch Reformation), Scotland (Presbyterianism, Knox), France (Huguenots), England (Puritanism). Theological foundation of capitalism and representative democracy.",
+      "descricao_es": "Calvino (1509-1564): teólogo francés en Ginebra. Predestinación. Ética del trabajo: el éxito material como señal de elección divina (Max Weber). Teocracia en Ginebra. Calvinismo: Países Bajos, Escocia (Knox), Francia (Hugonotes), Inglaterra (Puritanismo). Base del capitalismo y la democracia representativa.",
+      "inicio": 1536,
+      "fim": 1564,
+      "tags": [
+        "calvino",
+        "predestinacao",
+        "calvinismo",
+        "puritanismo"
+      ],
+      "importancia": "O calvinismo foi mais politicamente radical que o luteranismo: ao vincular eleição divina ao sucesso material (a 'ética protestante' de Max Weber), criou a legitimação teológica do capitalismo. As repúblicas calvinistas — Países Baixos, Genebra, depois os puritanos na América — foram os primeiros experimentos de democracia republicana moderna. A ideia de que o sucesso econômico é sinal de favor divino estruturou a auto-imagem do capitalismo americano por séculos.",
+      "century_start": 16,
+      "century_end": 16,
+      "region": "Europe",
+      "type": "religious",
+      "period": "EarlyModern",
+      "importancia_en": "Theological foundation of capitalism and representative democracy.",
+      "importancia_es": "Calvinismo: Países Bajos, Escocia (Knox), Francia (Hugonotes), Inglaterra (Puritanismo). Base del capitalismo y la democracia representativa."
+    },
+    {
+      "id": "rep-003",
+      "nome": "Contrarreforma e o Concílio de Trento",
+      "nome_en": "Counter-Reformation and the Council of Trent",
+      "nome_es": "Contrarreforma y el Concilio de Trento",
+      "tipo": "periodo",
+      "descricao": "Concílio de Trento (1545-1563): resposta católica à Reforma. Confirmou doutrina medieval: indulgências (reformadas mas mantidas), tradição como igual à Escritura, sete sacramentos, Purgatório, celibato clerical. Reformou abusos internos: formação do clero, seminários. Inácio de Loyola (1491-1556): fundou a Companhia de Jesus (1540) — jesuítas como tropa de choque intelectual. Educação, missões no Novo Mundo e Japão. Inquisição reformada. Arte Barroca como propaganda da fé.",
+      "descricao_en": "Council of Trent (1545-1563): Catholic response to the Reformation. Confirmed medieval doctrine: indulgences (reformed but maintained), tradition as equal to Scripture, seven sacraments, Purgatory, clerical celibacy. Reformed internal abuses: clergy training, seminaries. Ignatius of Loyola (1491-1556): founded the Society of Jesus (1540) — Jesuits as intellectual shock troops. Education, missions in the New World and Japan. Reformed Inquisition. Baroque art as faith propaganda.",
+      "descricao_es": "Concilio de Trento (1545-1563). Confirmó la doctrina medieval. Reformó abusos internos. Loyola (1491-1556): fundó la Compañía de Jesús (1540) — jesuitas como tropa de choque intelectual. Arte Barroca como propaganda de la fe.",
+      "inicio": 1545,
+      "fim": 1563,
+      "tags": [
+        "contrarreforma",
+        "trento",
+        "jesuitas",
+        "loyola"
+      ],
+      "importancia": "O Concílio de Trento (1545-1563) foi a maior reforma interna da Igreja Católica — e aconteceu apenas porque a Reforma Protestante a tornou urgente. Definiu dogmas que antes eram vagos, criou os seminários modernos (padres treinados sistematicamente pela primeira vez), proibiu a venda de indulgências e estabeleceu o Index Librorum Prohibitorum. A ironia: Trento criou uma Igreja Católica mais coerente, mais disciplinada e mais capaz de sobreviver à modernidade do que a Igreja pré-Reforma — que havia produzido Lutero justamente por sua incoerência e corrupção.",
+      "century_start": 16,
+      "century_end": 16,
+      "region": "Europe",
+      "type": "religious",
+      "period": "EarlyModern",
+      "importancia_en": "Education, missions in the New World and Japan. Baroque art as faith propaganda.",
+      "importancia_es": "Loyola (1491-1556): fundó la Compañía de Jesús (1540) — jesuitas como tropa de choque intelectual. Arte Barroca como propaganda de la fe."
+    },
+    {
+      "id": "rep-004",
+      "nome": "Guerra dos Trinta Anos (1618-1648)",
+      "nome_en": "Thirty Years War (1618-1648)",
+      "nome_es": "Guerra de los Treinta Años (1618-1648)",
+      "tipo": "evento",
+      "descricao": "A mais devastadora guerra da história europeia até a Primeira Guerra Mundial. Began em Praga: Defenestração de Praga (1618) — protestantes jogaram conselheiros imperiais da janela. Quatro fases: boêmia, palatina, dinamarquesa, sueca, francesa. 1/3 da população alemã morreu (8 milhões). Suécia, França, Dinamarca, Espanha, Sacro Império todos envolvidos. Paz de Vestfália (1648): princípio da soberania nacional, liberdade religiosa relativa, fim das guerras de religião. Fundação do sistema de Estados modernos.",
+      "descricao_en": "The most devastating war in European history until World War I. Began in Prague: Defenestration of Prague (1618) — Protestants threw Imperial councilors out of a window. Four phases: Bohemian, Palatine, Danish, Swedish, French. 1/3 of the German population died (8 million). Sweden, France, Denmark, Spain, Holy Roman Empire all involved. Peace of Westphalia (1648): principle of national sovereignty, relative religious freedom, end of religious wars. Foundation of the modern state system.",
+      "descricao_es": "La más devastadora guerra de Europa hasta la Primera Guerra Mundial. Defenestración de Praga (1618). 1/3 de la población alemana murió (8 millones). Paz de Westfalia (1648): principio de soberanía nacional. Fundación del sistema de Estados modernos.",
+      "inicio": 1618,
+      "fim": 1648,
+      "tags": [
+        "30-anos",
+        "vestfalia",
+        "soberania",
+        "guerra-religiosa"
+      ],
+      "importancia": "A Guerra dos Trinta Anos (1618-1648) foi a última guerra de religião europeia e a mais destrutiva: matou 25-40% da população alemã, destruiu mais de mil cidades e deixou economias inteiras devastadas por uma geração. A Paz de Vestfália (1648) encerrou a guerra com o princípio cuius regio, eius religio — cada príncipe determina a religião de seus súditos — e reconheceu a soberania estatal como barreira contra interferência religiosa externa. Vestfália criou o sistema internacional moderno: Estados soberanos, iguais juridicamente, sem autoridade superior. A ONU, a lei internacional e o conceito de não-intervenção derivam diretamente de 1648.",
+      "century_start": 17,
+      "century_end": 17,
+      "region": "Europe",
+      "type": "war",
+      "period": "EarlyModern",
+      "importancia_en": "Peace of Westphalia (1648): principle of national sovereignty, relative religious freedom, end of religious wars. Foundation of the modern state system.",
+      "importancia_es": "Paz de Westfalia (1648): principio de soberanía nacional. Fundación del sistema de Estados modernos."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "rep-001",
+      "destino": "rep-002",
+      "tipo": "influencia",
+      "intensidade": 0.8,
+      "descricao": "Calvino radicalizou e sistematizou o protestantismo luterano"
+    },
+    {
+      "origem": "rep-001",
+      "destino": "rep-003",
+      "tipo": "tensao",
+      "intensidade": 0.95,
+      "descricao": "A Reforma de Lutero provocou a Contrarreforma Católica"
+    },
+    {
+      "origem": "rep-001",
+      "destino": "rep-005",
+      "tipo": "influencia",
+      "intensidade": 0.7,
+      "descricao": "A Reforma continental inspirou o cisma anglicano"
+    },
+    {
+      "origem": "rep-002",
+      "destino": "rep-004",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "O calvinismo em estados alemães foi estopim da Guerra dos Trinta Anos"
+    },
+    {
+      "origem": "rep-003",
+      "destino": "rep-004",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "A Contrarreforma e a tentativa de reconquista católica precipitaram a guerra"
+    }
+  ]
+}

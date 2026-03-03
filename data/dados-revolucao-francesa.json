@@ -1,0 +1,197 @@
+{
+  "entidades": [
+    {
+      "id": "rf-001",
+      "nome": "Crise do Antigo Regime",
+      "nome_en": "Crisis of the Ancien Régime",
+      "nome_es": "Crisis del Antiguo Régimen",
+      "tipo": "periodo",
+      "descricao": "A França de 1788 estava falida. Três guerras (Sete Anos, Independência Americana) esgotaram o tesouro. Seca + colheita ruim = fome urbana. Os três estados: Clero (1º), Nobreza (2º) isentos de impostos; Terceiro Estado (98% população) pagava tudo. Luís XVI convocou os Estados Gerais pela primeira vez desde 1614. A nobilidade resistiu a reformas fiscais. Tensão acumulada por décadas de privilégio e injustiça estrutural.",
+      "descricao_en": "France in 1788 was bankrupt. Three wars (Seven Years, American Independence) exhausted the treasury. Drought + bad harvest = urban famine. Three estates: Clergy (1st), Nobility (2nd) exempt from taxes; Third Estate (98% of population) paid everything. Louis XVI called the Estates-General for the first time since 1614. Nobility resisted fiscal reforms. Accumulated tension from decades of privilege and structural injustice.",
+      "descricao_es": "La Francia de 1788 estaba en quiebra. Tres guerras agotaron el tesoro. Sequía + mala cosecha = hambre urbana. Los tres estamentos: Clero y Nobleza exentos de impuestos; Tercer Estado (98% población) pagaba todo. Luis XVI convocó los Estados Generales por primera vez desde 1614.",
+      "inicio": 1786,
+      "fim": 1789,
+      "tags": [
+        "antigo-regime",
+        "crise",
+        "fome",
+        "impostos"
+      ],
+      "importancia": "A Crise do Antigo Regime foi sistêmica, não apenas fiscal: a sociedade de ordens (clero, nobreza, povo) estava moralmente deslegitimada por um século de crítica iluminista. A fome de 1788-89 — colheita péssima, pão a 80% do salário operário — transformou insatisfação intelectual em explosão popular. A ironia: Luís XVI convocou os Estados Gerais para resolver a crise financeira e precipitou a revolução que o guilhotinou.",
+      "century_start": 18,
+      "century_end": 18,
+      "region": "Europe",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Accumulated tension from decades of privilege and structural injustice.",
+      "importancia_es": "Luis XVI convocó los Estados Generales por primera vez desde 1614."
+    },
+    {
+      "id": "rf-002",
+      "nome": "Queda da Bastilha e Início da Revolução",
+      "nome_en": "Fall of the Bastille and Start of the Revolution",
+      "nome_es": "Caída de la Bastilla e Inicio de la Revolución",
+      "tipo": "evento",
+      "descricao": "14 de julho de 1789: multidão parisiense invade a Bastilha — prisão real símbolo do despotismo. A Assembleia Nacional havia declarado-se soberana (17 junho). A Grande Muralha (medo rural) se espalhava pelo campo. A Declaração dos Direitos do Homem e do Cidadão (26 agosto 1789): liberdade, igualdade, soberania nacional, propriedade. Luís XVI forçado a aceitar a tricolor. Fim do feudalismo (4 agosto).",
+      "descricao_en": "14 July 1789: Parisian crowd storms the Bastille — royal prison symbolizing despotism. The National Assembly had declared itself sovereign (17 June). The Great Fear (rural panic) spread through the countryside. Declaration of the Rights of Man and Citizen (26 August 1789): liberty, equality, national sovereignty, property. Louis XVI forced to accept the tricolor. End of feudalism (4 August).",
+      "descricao_es": "14 de julio de 1789: multitud parisina invade la Bastilla. La Asamblea Nacional se había declarado soberana (17 junio). La Gran Miedo se extendió por el campo. Declaración de los Derechos del Hombre (26 agosto 1789). Fin del feudalismo.",
+      "inicio": 1789,
+      "fim": 1789,
+      "tags": [
+        "bastilha",
+        "revolucao",
+        "direitos-homem",
+        "liberdade"
+      ],
+      "importancia": "A queda da Bastilha (14 julho 1789) libertou apenas 7 presos — mas seu simbolismo foi incomparável: uma fortaleza do poder real tornada rubble pela multidão popular. O evento inaugurou a dinâmica central da Revolução: mobilização popular espontânea superando as intenções dos líderes políticos. Luís XVI escreveu no diário: 'Nada.' A Revolução foi assim desde o início: os que a dirigiram nunca a controlaram; a multidão a levou a lugares que os Iluministas não planejavam.",
+      "century_start": 18,
+      "century_end": 18,
+      "region": "Europe",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Declaration of the Rights of Man and Citizen (26 August 1789): liberty, equality, national sovereignty, property. Louis XVI forced to accept the tricolor.",
+      "importancia_es": "La Gran Miedo se extendió por el campo. Declaración de los Derechos del Hombre (26 agosto 1789)."
+    },
+    {
+      "id": "rf-006",
+      "nome": "Legado da Revolução Francesa",
+      "nome_en": "Legacy of the French Revolution",
+      "nome_es": "Legado de la Revolución Francesa",
+      "tipo": "conceito",
+      "descricao": "Liberdade, Igualdade, Fraternidade: princípios exportados pelo mundo. Código Napoleônico (1804): igualdade perante a lei, propriedade privada, laicismo — base de 50+ sistemas jurídicos. Nationalismo moderno: nação como povo soberano. Esquerda e Direita política: termos originados na Assembleia de 1789. Abolição do feudalismo europeu. Direitos Humanos universais. Inspiração para: Revolução Haitiana (1804), Independências Latino-Americanas, Revolução de 1848.",
+      "descricao_en": "Liberty, Equality, Fraternity: principles exported to the world. Napoleonic Code (1804): equality before the law, private property, secularism — basis of 50+ legal systems. Modern nationalism: nation as sovereign people. Political Left and Right: terms originating in the Assembly of 1789. Abolition of European feudalism. Universal Human Rights. Inspiration for: Haitian Revolution (1804), Latin American Independences, Revolution of 1848.",
+      "descricao_es": "Libertad, Igualdad, Fraternidad exportados al mundo. Código Napoleónico (1804): base de 50+ sistemas jurídicos. Nacionalismo moderno. Izquierda y Derecha políticas: términos nacidos en la Asamblea de 1789. Inspiración para la Revolución Haitiana e Independencias Latinoamericanas.",
+      "inicio": 1789,
+      "fim": 1850,
+      "tags": [
+        "legado",
+        "codigo-napoleonico",
+        "direitos-humanos",
+        "nacionalismo"
+      ],
+      "importancia": "O legado da Revolução Francesa estrutura a política global até hoje: os conceitos de direita e esquerda nasceram na Assembleia Nacional (quem apoiava o rei sentava à direita, os reformistas à esquerda). A Declaração dos Direitos do Homem e do Cidadão (1789) é o ancestral direto da Declaração Universal de 1948. Os três princípios — liberté, égalité, fraternité — são o programa político do mundo moderno, mesmo onde são sistematicamente violados.",
+      "century_start": 18,
+      "century_end": 19,
+      "region": "Multiple",
+      "type": "intellectual",
+      "period": "EarlyModern",
+      "importancia_en": "Inspiration for: Haitian Revolution (1804), Latin American Independences, Revolution of 1848.",
+      "importancia_es": "Inspiración para la Revolución Haitiana e Independencias Latinoamericanas."
+    },
+    {
+      "id": "rf-003",
+      "nome": "Monarquia Constitucional e Fuga de Varennes",
+      "nome_en": "Constitutional Monarchy and Flight to Varennes",
+      "nome_es": "Monarquía Constitucional y Huida a Varennes",
+      "tipo": "periodo",
+      "descricao": "Constituição de 1791: monarquia constitucional, Assembleia Legislativa, sufrágio censitário (cidadãos ativos). Luís XVI jurou a Constituição mas boicotou internamente. Junho de 1791: Fuga de Varennes — a família real tentou escapar para a Áustria mas foi reconhecida e retornada. Destruiu a credibilidade do rei. Declaração de Pillnitz (agosto 1791): Áustria e Prússia ameaçaram intervir em defesa da monarquia. Radicalização republicana.",
+      "descricao_en": "Constitution of 1791: constitutional monarchy, Legislative Assembly, census suffrage (active citizens). Louis XVI swore to the Constitution but internally sabotaged it. June 1791: Flight to Varennes — royal family tried to flee to Austria but was recognized and returned. Destroyed the king's credibility. Declaration of Pillnitz (August 1791): Austria and Prussia threatened to intervene in defense of the monarchy. Republican radicalization.",
+      "descricao_es": "Constitución de 1791: monarquía constitucional. Luis XVI juró la Constitución pero la saboteó internamente. Junio 1791: Huida a Varennes. Declaración de Pillnitz: Austria y Prusia amenazaron con intervenir. Radicalización republicana.",
+      "inicio": 1791,
+      "fim": 1792,
+      "tags": [
+        "monarquia-constitucional",
+        "varennes",
+        "luís-xvi",
+        "constituicao"
+      ],
+      "importancia": "A Fuga de Varennes (junho 1791) foi o ponto sem retorno da Revolução: Luís XVI tentou fugir para a Áustria, foi reconhecido num posto de controle e trazido de volta como prisioneiro. A fuga provou o que os radicais diziam — o rei negociava com potências estrangeiras para esmagar a Revolução. A monarquia constitucional ainda podia ter funcionado; depois de Varennes, a república tornou-se inevitável e a guilhotina, provável.",
+      "century_start": 18,
+      "century_end": 18,
+      "region": "Europe",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Declaration of Pillnitz (August 1791): Austria and Prussia threatened to intervene in defense of the monarchy.",
+      "importancia_es": "Declaración de Pillnitz: Austria y Prusia amenazaron con intervenir."
+    },
+    {
+      "id": "rf-004",
+      "nome": "Primeira República e o Terror Jacobino",
+      "nome_en": "First Republic and the Jacobin Terror",
+      "nome_es": "Primera República y el Terror Jacobino",
+      "tipo": "periodo",
+      "descricao": "21 setembro 1792: Primeira República. 21 janeiro 1793: Luís XVI guilhotinado. Comitê de Salvação Pública dominado por Robespierre (1793-1794): o Terror. Guilhotina: ~17.000 execuções oficiais + ~40.000 mortes no processo. Lei dos Suspeitos (setembro 1793): qualquer pessoa podia ser denunciada. Girondinos executados. Maria Antonieta guilhotinada (outubro 1793). Dechristianisation: calendário republicano, meses renomeados. Termidor (julho 1794): Robespierre guilhotinado.",
+      "descricao_en": "21 September 1792: First Republic. 21 January 1793: Louis XVI guillotined. Committee of Public Safety dominated by Robespierre (1793-1794): the Terror. Guillotine: ~17,000 official executions + ~40,000 deaths in the process. Law of Suspects (September 1793): anyone could be denounced. Girondins executed. Marie Antoinette guillotined (October 1793). Dechristianization: republican calendar, months renamed. Thermidor (July 1794): Robespierre guillotined.",
+      "descricao_es": "21 septiembre 1792: Primera República. 21 enero 1793: Luis XVI guillotinado. Robespierre y el Comité de Salvación Pública: el Terror. ~17.000 ejecuciones + ~40.000 muertes. Ley de los Sospechosos. María Antonieta guillotinada. Termidor: Robespierre guillotinado.",
+      "inicio": 1792,
+      "fim": 1794,
+      "tags": [
+        "republica",
+        "terror",
+        "robespierre",
+        "guilhotina"
+      ],
+      "importancia": "O Terror Jacobino (1793-94) é o caso histórico mais estudado da revolução que devora seus filhos. A lógica era perversa mas coerente: numa guerra de vida ou morte contra coalização europeia e contra-revolução interna, qualquer desvio ideológico era traição. Robespierre criou o tribunal revolucionário como instrumento de pureza — e foi guilhotinado pelo mesmo instrumento quando seus aliados tiveram medo de ser os próximos. O Terror deixou a questão para a qual a política moderna ainda busca resposta: até onde vai a violência legítima de uma revolução?",
+      "century_start": 18,
+      "century_end": 18,
+      "region": "Europe",
+      "type": "war",
+      "period": "EarlyModern",
+      "importancia_en": "Dechristianization: republican calendar, months renamed. Thermidor (July 1794): Robespierre guillotined.",
+      "importancia_es": "~17.000 ejecuciones + ~40.000 muertes. Termidor: Robespierre guillotinado."
+    },
+    {
+      "id": "rf-005",
+      "nome": "Diretório e Ascensão de Napoleão",
+      "nome_en": "Directory and Rise of Napoleon",
+      "nome_es": "Directorio y Ascenso de Napoleón",
+      "tipo": "periodo",
+      "descricao": "Termidor (1794-1799): o Diretório — cinco diretores, república burguesa moderada. Instabilidade: golpes dentro do golpe (18 Fructidor, 22 Floréal). Napoleão Bonaparte: vitórias na Itália (1796-1797) e Egito (1798-1799). 18 Brumário (9 novembro 1799): golpe militar — Napoleão derruba o Diretório e instaura o Consulado. Fim da Revolução, início do Império.",
+      "descricao_en": "Thermidor (1794-1799): the Directory — five directors, moderate bourgeois republic. Instability: coups within coups (18 Fructidor, 22 Floréal). Napoleon Bonaparte: victories in Italy (1796-1797) and Egypt (1798-1799). 18 Brumaire (9 November 1799): military coup — Napoleon overthrows the Directory and installs the Consulate. End of the Revolution, beginning of the Empire.",
+      "descricao_es": "Termidor (1794-1799): el Directorio. Inestabilidad política. Napoleón: victorias en Italia (1796) y Egipto (1798). 18 Brumario (9 noviembre 1799): golpe militar. Napoleón derroca el Directorio. Fin de la Revolución, inicio del Imperio.",
+      "inicio": 1794,
+      "fim": 1799,
+      "tags": [
+        "diretorio",
+        "napoleao",
+        "brumario",
+        "fim-revolucao"
+      ],
+      "importancia": "O Diretório (1795-99) foi a tentativa de estabilizar a Revolução sem retornar ao Terror nem à monarquia — e fracassou em ambos os objetivos. Corrupto, instável e militarmente dependente, preparou o terreno para o golpe de Napoleão em 18 Brumário (novembro 1799). A trajetória Revolução→Terror→Diretório→Napoleão tornou-se o modelo que os conservadores usaram por décadas para argumentar que democracia inevitavelmente leva ao caos e à tirania.",
+      "century_start": 18,
+      "century_end": 18,
+      "region": "Europe",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "18 Brumaire (9 November 1799): military coup — Napoleon overthrows the Directory and installs the Consulate. End of the Revolution, beginning of the Empire.",
+      "importancia_es": "Napoleón derroca el Directorio. Fin de la Revolución, inicio del Imperio."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "rf-001",
+      "destino": "rf-002",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "A crise fiscal e a fome precipitaram a queda da Bastilha"
+    },
+    {
+      "origem": "rf-002",
+      "destino": "rf-003",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A Revolução criou a monarquia constitucional que Luís XVI traiu"
+    },
+    {
+      "origem": "rf-003",
+      "destino": "rf-004",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "A fuga de Varennes levou à radicalização jacobina e ao Terror"
+    },
+    {
+      "origem": "rf-004",
+      "destino": "rf-005",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "O esgotamento do Terror abriu caminho para o Diretório e Napoleão"
+    },
+    {
+      "origem": "rf-002",
+      "destino": "rf-006",
+      "tipo": "influencia",
+      "intensidade": 0.95,
+      "descricao": "A Declaração dos Direitos fundou os princípios que a Revolução exportou"
+    }
+  ]
+}

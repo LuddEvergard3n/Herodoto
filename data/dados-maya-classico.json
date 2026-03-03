@@ -1,0 +1,66 @@
+{
+  "entidades": [
+    {
+      "id": "myc-001",
+      "nome": "Maias Clássicos: Cidades, Escrita e Astronomia",
+      "nome_en": "Classic Maya: Cities, Writing and Astronomy",
+      "nome_es": "Mayas Clásicos: Ciudades, Escritura y Astronomía",
+      "tipo": "periodo",
+      "descricao": "Maias Clássicos (250–900 d.C.): civilização de cidades-estado independentes — Tikal, Palenque, Copan, Calakmul. ~2.000 cidades conhecidas. Escrita maia: único sistema de escrita plenamente desenvolvido das Américas pré-colombianas. Calendário de 365 dias com correção de anos bissextos; calendário ritual de 260 dias. Venus calculado com 2 minutos de erro em 500 anos. Colapso clássico (séc. IX): causas múltiplas — seca severa (evidências de δ18O), guerras, esgotamento agrícola, colapso do comércio.",
+      "descricao_en": "Classic Maya (250–900 AD): civilization of independent city-states — Tikal, Palenque, Copan, Calakmul. ~2,000 known cities. Maya script: only fully developed writing system in pre-Columbian Americas. 365-day calendar with leap year correction; 260-day ritual calendar. Venus calculated with 2-minute error over 500 years. Classic Collapse (9th century): multiple causes — severe drought (δ18O evidence), wars, agricultural exhaustion, trade collapse.",
+      "descricao_es": "Mayas Clásicos (250–900 d.C.): ciudades-estado — Tikal, Palenque, Copán, Calakmul. Escritura maya: único sistema de escritura plenamente desarrollado de las Américas. Calendario de 365 días con corrección de años bisiestos. Venus calculado con 2 minutos de error en 500 años. Colapso clásico (siglo IX): sequía, guerras, agotamiento agrícola.",
+      "inicio": 250,
+      "fim": 900,
+      "tags": [
+        "maias",
+        "tikal",
+        "palenque",
+        "escrita-maia",
+        "calendario"
+      ],
+      "importancia": "Os Maias Clássicos são a civilização pré-colombiana mais documentada: escrita hieroglífica completamente decifrada (nos anos 1970-80 por Linda Schele, David Stuart e outros), calendário astronômico com precisão de milissegundos, matemática com zero independente e arquitetura monumental sem uso de roda ou animais de tiro. O colapso do período Clássico (~800-900 d.C.) — quando dezenas de grandes cidades foram abandonadas em menos de um século — é o maior enigma da arqueologia americana. As causas (megasseca, guerra, colapso comercial, esgotamento ambiental) provavelmente combinaram numa crise sistêmica que os arqueólogos ainda debatem.",
+      "century_start": 3,
+      "century_end": 9,
+      "region": "Mesoamerica",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "Classic Collapse (9th century): multiple causes — severe drought (δ18O evidence), wars, agricultural exhaustion, trade collapse.",
+      "importancia_es": "Colapso clásico (siglo IX): sequía, guerras, agotamiento agrícola."
+    },
+    {
+      "id": "myc-002",
+      "nome": "Maias Pós-Clássicos e a Conquista Espanhola",
+      "nome_en": "Post-Classic Maya and the Spanish Conquest",
+      "nome_es": "Mayas Posclásicos y la Conquista Española",
+      "tipo": "periodo",
+      "descricao": "Maias pós-clássicos (900–1519): Chichén Itzá (influência tolteca), Uxmal, Mayapan. Liga de Mayapan (987–1441). Chegada de Hernán Cortés (1519): aliou-se a inimigos dos Astecas, venceu Tenochtitlan em 1521. Conquista do México e América Central (1519–1540). Epidemias de varíola: ~90% da população nativa morreu. Queima dos códices maias pelo Bispo Diego de Landa (1562) — destruição irreparável de conhecimento. Os Maias persistiram e persistem: ~7 milhões de falantes de línguas maias hoje.",
+      "descricao_en": "Post-Classic Maya (900–1519): Chichén Itzá (Toltec influence), Uxmal, Mayapan. League of Mayapan (987–1441). Arrival of Hernán Cortés (1519): allied with Aztec enemies, conquered Tenochtitlan in 1521. Conquest of Mexico and Central America (1519–1540). Smallpox epidemics: ~90% of native population died. Burning of Mayan codices by Bishop Diego de Landa (1562) — irreparable destruction of knowledge. The Maya persisted and persist: ~7 million Maya language speakers today.",
+      "descricao_es": "Mayas posclásicos (900–1519): Chichén Itzá, Uxmal, Mayapán. Llegada de Hernán Cortés (1519): conquista de Tenochtitlan (1521). Epidemias de viruela: ~90% de la población nativa murió. Quema de los códices mayas por el Obispo Diego de Landa (1562). Hoy: ~7 millones de hablantes de lenguas mayas.",
+      "inicio": 900,
+      "fim": 1600,
+      "tags": [
+        "conquista",
+        "cortes",
+        "codices",
+        "epidemias-maias"
+      ],
+      "importancia": "Quatro códices maias sobreviveram à queima de 1562 — o que sabemos da civilização maia veio em grande parte da arqueologia, não dos textos.",
+      "century_start": 9,
+      "century_end": 16,
+      "region": "Mesoamerica",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "The Maya persisted and persist: ~7 million Maya language speakers today.",
+      "importancia_es": "Quema de los códices mayas por el Obispo Diego de Landa (1562). Hoy: ~7 millones de hablantes de lenguas mayas."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "myc-001",
+      "destino": "myc-002",
+      "tipo": "evolucao",
+      "intensidade": 0.7,
+      "descricao": "O colapso clássico do séc. IX transformou mas não destruiu a civilização maia — que sobreviveu até a conquista"
+    }
+  ]
+}

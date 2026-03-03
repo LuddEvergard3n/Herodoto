@@ -1,0 +1,101 @@
+{
+  "entidades": [
+    {
+      "id": "emv-003",
+      "nome": "Cavalaria, Feudalismo e a Ordem Social Medieval (900–1300)",
+      "nome_en": "Chivalry, Feudalism and the Medieval Social Order (900–1300)",
+      "nome_es": "Caballería, Feudalismo y el Orden Social Medieval (900–1300)",
+      "tipo": "periodo",
+      "inicio": 900,
+      "fim": 1300,
+      "descricao": "Sistema feudal: rei → senhores → cavaleiros → servos. Troca de terra (feudo) por serviço militar. Castelos: centro da defesa local — mais de 20.000 castelos medievais ainda existem na Europa. Código da cavalaria: proteção dos fracos, coragem, lealdade ao senhor. Torneios como preparação para a guerra. Igrejas e catedrais góticas: Notre-Dame de Paris (iniciada 1163), Chartres (1194). Universidades: Bolonha (1088), Paris (1150), Oxford (1167) — primeiros centros de ensino laico. Escolástica: Tomás de Aquino reconciliou Aristóteles com o Cristianismo — base intelectual da Igreja medieval.",
+      "descricao_en": "Feudal system: king → lords → knights → serfs. Exchange of land (fief) for military service. Castles: center of local defense — more than 20,000 medieval castles still exist in Europe. Chivalric code: protection of the weak, courage, loyalty to the lord. Tournaments as preparation for war. Gothic churches and cathedrals: Notre-Dame de Paris (begun 1163), Chartres (1194). Universities: Bologna (1088), Paris (1150), Oxford (1167) — first secular teaching centers. Scholasticism: Thomas Aquinas reconciled Aristotle with Christianity — intellectual foundation of the medieval Church.",
+      "descricao_es": "Sistema feudal: rey → señores → caballeros → siervos. Castillos: más de 20.000 castillos medievales aún existen en Europa. Código de caballería. Catedrales góticas: Notre-Dame de París (iniciada 1163), Chartres (1194). Universidades: Bolonia (1088), París (1150), Oxford (1167). Escolástica: Tomás de Aquino reconcilió Aristóteles con el Cristianismo.",
+      "tags": [
+        "feudalismo",
+        "cavalaria",
+        "catedral-gotica",
+        "escolastica",
+        "tomas-aquino"
+      ],
+      "importancia": "Bolonha (1088) é a universidade mais antiga ainda em funcionamento no mundo — quase 1.000 anos mais velha que a maioria das instituições que hoje governam o mundo.",
+      "century_start": 10,
+      "century_end": 13,
+      "region": "Europe",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Scholasticism: Thomas Aquinas reconciled Aristotle with Christianity — intellectual foundation of the medieval Church.",
+      "importancia_es": "Escolástica: Tomás de Aquino reconcilió Aristóteles con el Cristianismo."
+    },
+    {
+      "id": "emv-001",
+      "nome": "As Cruzadas: Fé, Guerra e Comércio (1095–1291)",
+      "nome_en": "The Crusades: Faith, War and Commerce (1095–1291)",
+      "nome_es": "Las Cruzadas: Fe, Guerra y Comercio (1095–1291)",
+      "tipo": "periodo",
+      "inicio": 1095,
+      "fim": 1291,
+      "descricao": "Concílio de Clermont (1095): Papa Urbano II convocou a 1ª Cruzada — 'Deus o quer!'. Conquista de Jerusalém (1099): massacres de muçulmanos e judeus. Oito cruzadas principais em 200 anos. Saladino (Salah ad-Din): sultão curdo que reconquistou Jerusalém (1187) com clemência notável. 4ª Cruzada (1204): cruzados saquearam Constantinopla cristã em vez da Palestina — cisma permanente entre Roma e Oriente. Ordens militares: Templários, Hospitalários, Teutônicos. Consequências: transferência de conhecimento árabe para a Europa, desenvolvimento do comércio mediterrâneo, antissemitismo pogromista.",
+      "descricao_en": "Council of Clermont (1095): Pope Urban II called the 1st Crusade — 'God wills it!'. Conquest of Jerusalem (1099): massacres of Muslims and Jews. Eight main crusades over 200 years. Saladin (Salah ad-Din): Kurdish sultan who reconquered Jerusalem (1187) with notable clemency. 4th Crusade (1204): crusaders sacked Christian Constantinople instead of Palestine — permanent schism between Rome and East. Military orders: Templars, Hospitallers, Teutonic Knights. Consequences: transfer of Arab knowledge to Europe, Mediterranean trade development, pogrom antisemitism.",
+      "descricao_es": "Concilio de Clermont (1095): Papa Urbano II convocó la 1ª Cruzada — '¡Dios lo quiere!'. Conquista de Jerusalén (1099): masacres de musulmanes y judíos. Saladino: sultán kurdo que reconquistó Jerusalén (1187) con notable clemencia. 4ª Cruzada (1204): cruzados saquearon Constantinopla cristiana en vez de Palestina. Órdenes militares: Templarios, Hospitalarios, Teutónicos.",
+      "tags": [
+        "cruzadas",
+        "saladino",
+        "templarios",
+        "jerusalém",
+        "urbano-ii"
+      ],
+      "importancia": "A 4ª Cruzada (1204) saqueou Constantinopla — cidade cristã — em vez da Palestina. O escândalo consolidou a divisão entre católicos e ortodoxos que dura até hoje.",
+      "century_start": 11,
+      "century_end": 13,
+      "region": "Europe",
+      "type": "war",
+      "period": "Medieval",
+      "importancia_en": "Consequences: transfer of Arab knowledge to Europe, Mediterranean trade development, pogrom antisemitism.",
+      "importancia_es": "4ª Cruzada (1204): cruzados saquearon Constantinopla cristiana en vez de Palestina. Órdenes militares: Templarios, Hospitalarios, Teutónicos."
+    },
+    {
+      "id": "emv-002",
+      "nome": "A Peste Negra e a Crise do Século XIV (1347–1400)",
+      "nome_en": "The Black Death and the Crisis of the 14th Century (1347–1400)",
+      "nome_es": "La Peste Negra y la Crisis del Siglo XIV (1347–1400)",
+      "tipo": "periodo",
+      "inicio": 1347,
+      "fim": 1400,
+      "descricao": "Peste Negra (1347–53): Yersinia pestis chegou da Ásia Central via rotas comerciais. Matou ~30–50% da população europeia em 5 anos — 25 milhões de mortos. Flagelantes: seitas que se autoflagelavam como penitência; perseguição a judeus acusados de envenenar poços. Colapso do feudalismo: falta de mão de obra elevou salários — poder de barganha dos servos aumentou. Jacquerie (1358, França) e Revolta dos Camponeses (1381, Inglaterra): primeiros levantes populares em larga escala. Giovanni Boccaccio escreveu o Decameron (1353) durante a pandemia — obra fundadora da prosa moderna italiana.",
+      "descricao_en": "Black Death (1347–53): Yersinia pestis arrived from Central Asia via trade routes. Killed ~30–50% of Europe's population in 5 years — 25 million dead. Flagellants: sects that self-flagellated as penance; persecution of Jews accused of poisoning wells. Feudalism collapse: labor shortage raised wages — serfs' bargaining power increased. Jacquerie (1358, France) and Peasants' Revolt (1381, England): first large-scale popular uprisings. Giovanni Boccaccio wrote the Decameron (1353) during the pandemic — founding work of modern Italian prose.",
+      "descricao_es": "Peste Negra (1347–53): Yersinia pestis llegó de Asia Central por rutas comerciales. Mató al ~30–50% de la población europea en 5 años — 25 millones de muertos. Flagelantes: persecución de judíos acusados de envenenar pozos. Colapso del feudalismo: escasez de mano de obra elevó salarios. Jacquerie (1358, Francia) y Revuelta Campesina (1381, Inglaterra). Boccaccio escribió el Decamerón (1353) durante la pandemia.",
+      "tags": [
+        "peste-negra",
+        "feudalismo",
+        "flagelantes",
+        "boccaccio",
+        "jacquerie"
+      ],
+      "importancia": "A Peste Negra matou 25 milhões de europeus em 5 anos — o maior colapso demográfico da Europa até então. O efeito paradoxal: elevou salários e minou o feudalismo.",
+      "century_start": 14,
+      "century_end": 14,
+      "region": "Europe",
+      "type": "social",
+      "period": "Medieval",
+      "importancia_en": "Giovanni Boccaccio wrote the Decameron (1353) during the pandemic — founding work of modern Italian prose.",
+      "importancia_es": "Jacquerie (1358, Francia) y Revuelta Campesina (1381, Inglaterra). Boccaccio escribió el Decamerón (1353) durante la pandemia."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "emv-003",
+      "destino": "emv-001",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "O sistema feudal e a Igreja produziram a classe guerreira que formou os exércitos cruzados"
+    },
+    {
+      "origem": "emv-001",
+      "destino": "emv-002",
+      "tipo": "causalidade",
+      "intensidade": 0.5,
+      "descricao": "O comércio mediterrâneo gerado pelas Cruzadas foi o veículo pelo qual a Peste Negra viajou da Ásia para a Europa"
+    }
+  ]
+}

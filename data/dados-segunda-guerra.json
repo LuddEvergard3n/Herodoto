@@ -1,0 +1,375 @@
+{
+  "meta": {
+    "fonte": "Compilado",
+    "lingua": "pt",
+    "tema": "Segunda Guerra Mundial",
+    "periodo": "1939-1945"
+  },
+  "entidades": [
+    {
+      "id": "sgm-002",
+      "nome": "Nazismo",
+      "nome_en": "Nazism",
+      "nome_es": "Nazismo",
+      "tipo": "conceito",
+      "descricao": "O Nazismo foi a ideologia totalitária do Partido Nacional-Socialista dos Trabalhadores Alemães (NSDAP) liderado por Adolf Hitler, que governou Alemanha de 1933 a 1945. Baseava-se em nacionalismo extremo, culto ao Führer, militarismo agressivo, antissemitismo racial e crença na superioridade da 'raça ariana'. O regime nazista estabeleceu ditadura de partido único, eliminou oposição política, controlou imprensa e educação, e implementou política expansionista (Lebensraum). Perseguiu sistematicamente judeus, ciganos, homossexuais, deficientes e opositores políticos. O nazismo levou diretamente à Segunda Guerra Mundial através de anexações territoriais (Áustria, Sudetos, Polônia) e ao Holocausto, genocídio industrial de 6 milhões de judeus. Derrotado em 1945, deixou legado de horror que moldou direito internacional e conceito de crimes contra humanidade.",
+      "descricao_en": "Nazism was the totalitarian ideology of the National Socialist German Workers' Party (NSDAP) led by Adolf Hitler, which ruled Germany from 1933 to 1945. It was based on extreme nationalism, Führer cult, aggressive militarism, racial antisemitism and belief in 'Aryan race' superiority. The Nazi regime established a one-party dictatorship, eliminated political opposition, controlled press and education, and implemented expansionist policy (Lebensraum). It systematically persecuted Jews, Roma, homosexuals, disabled people and political opponents. Nazism led directly to World War II through territorial annexations (Austria, Sudetenland, Poland) and to the Holocaust, industrial genocide of 6 million Jews. Defeated in 1945, it left a legacy of horror that shaped international law and the concept of crimes against humanity.",
+      "inicio": 1933,
+      "fim": 1945,
+      "tags": [
+        "guerra_mundial",
+        "ideologia"
+      ],
+      "importancia": "O nazismo não foi anomalia histórica — foi o produto de condições específicas identificáveis: humilhação de Versalhes, hiperinflação de 1923, Depressão de 1929, fraqueza institucional da República de Weimar e um político de gênio demagógico que soube explorar ressentimentos reais. Isso é mais perturbador que a anomalia: significa que as condições podem se repetir. O estudo do nazismo não é arqueologia histórica — é análise de como democracias falham e como líderes carismáticos transformam crises econômicas em ódio étnico.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Defeated in 1945, it left a legacy of horror that shaped international law and the concept of crimes against humanity.",
+      "descricao_es": "Perseguiu sistematicamente judeus, ciganos, homossexuais, deficientes e opositores políticos. O nazismo levou diretamente à Segunda Guerra Mundial através de anexações territoriais (Áustria, Sudetos, Polônia) e ao Holocausto, genocídio industrial de 6 milhões de judeus. Derrotado em 1945, deixou legado de horror que moldou direito internacional e conceito de crimes contra humanidade.",
+      "importancia_es": "Regime genocida responsável por Holocausto e Segunda Guerra Mundial."
+    },
+    {
+      "id": "sgm-001",
+      "nome": "Segunda Guerra Mundial",
+      "nome_en": "World War II",
+      "nome_es": "Segunda Guerra Mundial",
+      "tipo": "conflito",
+      "descricao": "A Segunda Guerra Mundial (1939-1945) foi o maior e mais destrutivo conflito da história humana, envolvendo mais de 100 milhões de combatentes de 30 países organizados em dois blocos: os Aliados (liderados por Estados Unidos, União Soviética, Reino Unido e China) contra as Potências do Eixo (Alemanha, Itália e Japão). O conflito causou entre 70-85 milhões de mortes (3-4% da população mundial), sendo 50-55 milhões de civis. Caracterizou-se por guerra total mobilizando economias inteiras, bombardeios estratégicos de cidades, genocídio industrializado (Holocausto com 6 milhões de judeus) e culminou com as bombas atômicas sobre Hiroshima e Nagasaki. Redefiniu completamente a ordem mundial: destruiu impérios coloniais europeus, dividiu mundo em bipolarismo EUA-URSS, criou ONU, acelerou descolonização e inaugurou era nuclear.",
+      "descricao_en": "World War II (1939-1945) was the largest and most destructive conflict in human history, involving over 100 million combatants from 30 countries organized into two blocs: the Allies (led by United States, Soviet Union, United Kingdom and China) against the Axis Powers (Germany, Italy and Japan). The conflict caused 70-85 million deaths (3-4% of world population), with 50-55 million civilians. It was characterized by total war mobilizing entire economies, strategic bombing of cities, industrialized genocide (Holocaust with 6 million Jews), and culminated with atomic bombs on Hiroshima and Nagasaki. It completely redefined world order: destroyed European colonial empires, divided world into US-USSR bipolarity, created UN, accelerated decolonization and inaugurated nuclear age.",
+      "inicio": 1939,
+      "fim": 1945,
+      "tags": [
+        "guerra_mundial",
+        "conflito"
+      ],
+      "importancia": "A Segunda Guerra Mundial foi o conflito mais mortífero da história humana: 70-85 milhões de mortos, 6 dos quais no Holocausto. Redefiniu o mundo: destruiu os impérios europeus, criou a bipolaridade EUA-URSS, estabeleceu a ONU e os direitos humanos como norma internacional, e inaugurou a era nuclear. A guerra mostrou tanto os extremos da crueldade humana organizada quanto a capacidade de mobilização industrial democrática: os EUA produziram mais material de guerra que o Eixo inteiro enquanto mantinham eleições e liberdade de imprensa.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "technological",
+      "period": "Modern",
+      "importancia_en": "It completely redefined world order: destroyed European colonial empires, divided world into US-USSR bipolarity, created UN, accelerated decolonization and inaugurated nuclear age.",
+      "descricao_es": "O conflito causou entre 70-85 milhões de mortes (3-4% da população mundial), sendo 50-55 milhões de civis. Caracterizou-se por guerra total mobilizando economias inteiras, bombardeios estratégicos de cidades, genocídio industrializado (Holocausto com 6 milhões de judeus) e culminou com as bombas atômicas sobre Hiroshima e Nagasaki. Redefiniu completamente a ordem mundial: destruiu impérios coloniais europeus, dividiu mundo em bipolarismo EUA-URSS, criou ONU, acelerou descolonização e inaugurou e",
+      "importancia_es": "Redefiniu ordem mundial, levou a criação de ONU, início da Guerra Fria e descolonização."
+    },
+    {
+      "id": "sgm-003",
+      "nome": "Invasão da Polônia",
+      "nome_en": "Invasion of Poland",
+      "nome_es": "Invasión de Polonia",
+      "tipo": "evento",
+      "descricao": "Alemanha invadiu Polônia em 1 setembro 1939, iniciando Segunda Guerra. França e Reino Unido declararam guerra à Alemanha em 3 setembro. URSS invadiu Polônia oriental em 17 setembro.",
+      "inicio": 1939,
+      "fim": 1939,
+      "tags": [
+        "guerra_mundial",
+        "conflito"
+      ],
+      "importancia": "O ataque à Polônia marcou a virada da política europeia de apaziguamento para guerra total. O Pacto Ribbentrop-Molotov (23 agosto 1939) garantiu à Alemanha a retaguarda leste — sem ele, Hitler não teria ousado atacar. A resposta franco-britânica revelou que as potências ocidentais finalmente reconheceram que o apaziguamento de Munique havia fracassado. A entrada soviética pelo leste (17 setembro) liquidou qualquer esperança polonesa de resistência prolongada.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "[Invasion of Poland] Marco inicial da Segunda Guerra Mundial na Europa.",
+      "importancia_es": "[Invasión de Polonia] Marco inicial da Segunda Guerra Mundial na Europa.",
+      "descricao_en": "Alemanha invadiu Polônia em 1 setembro 1939, iniciando Segunda Guerra. França e Reino Unido declararam guerra à Alemanha em 3 setembro. URSS invadiu Polônia oriental em 17 setembro.",
+      "descricao_es": "Alemanha invadiu Polônia em 1 setembro 1939, iniciando Segunda Guerra. França e Reino Unido declararam guerra à Alemanha em 3 setembro. URSS invadiu Polônia oriental em 17 setembro."
+    },
+    {
+      "id": "sgm-004",
+      "nome": "Blitzkrieg",
+      "nome_en": "Blitzkrieg",
+      "nome_es": "Blitzkrieg",
+      "tipo": "conceito",
+      "descricao": "Tática militar alemã de 'guerra-relâmpago' combinando aviação, tanques e infantaria motorizada em ataques rápidos. Derrotou França em 6 semanas (maio-junho 1940).",
+      "inicio": 1939,
+      "fim": 1941,
+      "tags": [
+        "guerra_mundial",
+        "estrategia"
+      ],
+      "importancia": "A Blitzkrieg não era apenas uma tática — era uma filosofia de comando descentralizado (Auftragstaktik): oficiais de campo podiam tomar decisões sem consultar o alto comando. A queda da França em 6 semanas (enquanto a WWI durou 4 anos na mesma fronteira) demonstrou que a mobilidade superava as linhas defensivas estáticas. O fracasso da Blitzkrieg na URSS mostrou seus limites: dependia de espaço finito e de um inimigo incapaz de recuar indefinidamente.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "technological",
+      "period": "Modern",
+      "importancia_en": "[Blitzkrieg] Revolucionou guerra moderna com mobilidade e coordenação entre armas.",
+      "importancia_es": "[Blitzkrieg] Revolucionou guerra moderna com mobilidade e coordenação entre armas.",
+      "descricao_en": "Tática militar alemã de 'guerra-relâmpago' combinando aviação, tanques e infantaria motorizada em ataques rápidos. Derrotou França em 6 semanas (maio-junho 1940).",
+      "descricao_es": "Tática militar alemã de 'guerra-relâmpago' combinando aviação, tanques e infantaria motorizada em ataques rápidos. Derrotou França em 6 semanas (maio-junho 1940)."
+    },
+    {
+      "id": "sgm-005",
+      "nome": "Batalha da Inglaterra",
+      "nome_en": "Battle of Britain",
+      "nome_es": "Batalla de Inglaterra",
+      "tipo": "conflito",
+      "descricao": "Campanha aérea alemã (julho-outubro 1940) para destruir RAF e preparar invasão britânica. Primeira grande derrota nazista, impediu invasão.",
+      "inicio": 1940,
+      "fim": 1940,
+      "tags": [
+        "guerra_mundial",
+        "conflito"
+      ],
+      "importancia": "A Batalha da Inglaterra foi a primeira grande derrota estratégica de Hitler. A RAF sobreviveu graças a três fatores: radar (tecnologia que a Luftwaffe subestimou), produção industrial britânica de aviões superior à alemã, e a decisão alemã de mudar o alvo de aeródromos para cidades (o Blitz) — aliviando a pressão sobre a RAF num momento crítico. A sobrevivência da Grã-Bretanha como base aliada foi indispensável para o Dia D de 1944.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "[Battle of Britain] Impediu conquista nazista da Grã-Bretanha, mantendo resistência ocidental.",
+      "importancia_es": "[Batalla de Inglaterra] Impediu conquista nazista da Grã-Bretanha, mantendo resistência ocidental.",
+      "descricao_en": "Campanha aérea alemã (julho-outubro 1940) para destruir RAF e preparar invasão britânica. Primeira grande derrota nazista, impediu invasão.",
+      "descricao_es": "Campanha aérea alemã (julho-outubro 1940) para destruir RAF e preparar invasão britânica. Primeira grande derrota nazista, impediu invasão."
+    },
+    {
+      "id": "sgm-006",
+      "nome": "Operação Barbarossa",
+      "nome_en": "Operation Barbarossa",
+      "nome_es": "Operación Barbarossa",
+      "tipo": "conflito",
+      "descricao": "Invasão nazista da URSS (22 junho 1941) com 3,8 milhões de soldados. Maior operação militar terrestre da história. Fracassou diante de Moscou no inverno.",
+      "inicio": 1941,
+      "fim": 1941,
+      "tags": [
+        "guerra_mundial",
+        "conflito"
+      ],
+      "importancia": "Barbarossa foi o maior erro estratégico de Hitler: abriu uma frente de 2.900 km contra um país com reservas humanas e territoriais ilimitadas. A Frente Oriental respondeu por 80% das baixas alemãs na guerra. As batalhas de Moscou (1941), Stalingrado (1942-43) e Kursk (1943) destruíram o núcleo do exército alemão. O fator 'General Inverno' foi real — mas o colapso logístico alemão, agravado pela resistência soviética brutal, foi a causa principal do fracasso.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "[Operation Barbarossa] Abriu Frente Oriental, maior teatro de guerra onde Alemanha foi derrotada.",
+      "importancia_es": "[Operación Barbarossa] Abriu Frente Oriental, maior teatro de guerra onde Alemanha foi derrotada.",
+      "descricao_en": "Invasão nazista da URSS (22 junho 1941) com 3,8 milhões de soldados. Maior operação militar terrestre da história. Fracassou diante de Moscou no inverno.",
+      "descricao_es": "Invasão nazista da URSS (22 junho 1941) com 3,8 milhões de soldados. Maior operação militar terrestre da história. Fracassou diante de Moscou no inverno."
+    },
+    {
+      "id": "sgm-007",
+      "nome": "Ataque a Pearl Harbor",
+      "nome_en": "Attack on Pearl Harbor",
+      "nome_es": "Ataque a Pearl Harbor",
+      "tipo": "evento",
+      "descricao": "Japão atacou base naval americana Pearl Harbor (7 dezembro 1941) sem declaração de guerra, destruindo frota do Pacífico. EUA entraram imediatamente na guerra.",
+      "inicio": 1941,
+      "fim": 1941,
+      "tags": [
+        "guerra_mundial",
+        "conflito"
+      ],
+      "importancia": "Pearl Harbor transformou um conflito europeu numa guerra verdadeiramente mundial. Os EUA, com o maior PIB do planeta, entraram com capacidade industrial incomparável: até 1944 produziram mais aviões, tanques e navios que todos os países do Eixo juntos. A decisão japonesa de atacar revelou um erro de cálculo catastrófico: esperavam um acordo negociado, mas unificaram a opinião americana — que estava dividida entre isolacionismo e intervenção — num impulso de guerra total.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "[Attack on Pearl Harbor] Provocou entrada americana transformando conflito em verdadeiramente mundial.",
+      "importancia_es": "[Ataque a Pearl Harbor] Provocou entrada americana transformando conflito em verdadeiramente mundial.",
+      "descricao_en": "Japão atacou base naval americana Pearl Harbor (7 dezembro 1941) sem declaração de guerra, destruindo frota do Pacífico. EUA entraram imediatamente na guerra.",
+      "descricao_es": "Japão atacou base naval americana Pearl Harbor (7 dezembro 1941) sem declaração de guerra, destruindo frota do Pacífico. EUA entraram imediatamente na guerra."
+    },
+    {
+      "id": "sgm-008",
+      "nome": "Holocausto",
+      "nome_en": "Holocaust",
+      "nome_es": "Holocausto",
+      "tipo": "evento",
+      "descricao": "O Holocausto foi o genocídio sistemático e industrializado de aproximadamente 6 milhões de judeus europeus pelos nazistas e colaboradores entre 1941-1945, parte da 'Solução Final da Questão Judaica'. Além de judeus, nazistas assassinaram cerca de 5 milhões de outras vítimas: ciganos (250.000-500.000), prisioneiros de guerra soviéticos (2-3 milhões), poloneses étnicos (1,8-2 milhões), homossexuais, testemunhas de Jeová, deficientes físicos e mentais. O extermínio ocorreu através de fuzilamentos em massa por Einsatzgruppen, guetos urbanos onde fome e doença matavam milhares, e principalmente em campos de extermínio industrializados como Auschwitz-Birkenau, Treblinka, Sobibor e Bełżec, onde câmaras de gás zyklon B matavam milhares diariamente. Corpos eram queimados em crematórios. Foi o pior genocídio da história moderna, levou à Convenção para Prevenção e Repressão do Crime de Genocídio (1948) e criação do Estado de Israel (1948).",
+      "descricao_en": "The Holocaust was the systematic and industrialized genocide of approximately 6 million European Jews by Nazis and collaborators between 1941-1945, part of the 'Final Solution to the Jewish Question'. Beyond Jews, Nazis murdered about 5 million other victims: Roma (250,000-500,000), Soviet POWs (2-3 million), ethnic Poles (1.8-2 million), homosexuals, Jehovah's Witnesses, physically and mentally disabled. Extermination occurred through mass shootings by Einsatzgruppen, urban ghettos where hunger and disease killed thousands, and mainly in industrialized death camps like Auschwitz-Birkenau, Treblinka, Sobibor and Bełżec, where zyklon B gas chambers killed thousands daily. Bodies were burned in crematoria. It was the worst genocide in modern history, led to the Convention on Prevention and Punishment of Genocide (1948) and creation of State of Israel (1948).",
+      "inicio": 1941,
+      "fim": 1945,
+      "tags": [
+        "guerra_mundial"
+      ],
+      "importancia": "O Holocausto foi industrialmente planejado, burocraticamente executado e perpetrado não por monstros mas por pessoas comuns — a 'banalidade do mal' de Hannah Arendt. A Conferência de Wannsee (1942) planejou a 'Solução Final' como problema logístico-administrativo. O que torna o Holocausto singular na história não é apenas a escala — é a combinação de modernidade tecnológica, ideologia racial sistematizada e obediência burocrática. Nenhuma outra atrocidade histórica combinou esses três elementos com tanta eficiência.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "social",
+      "period": "Modern",
+      "importancia_en": "It was the worst genocide in modern history, led to the Convention on Prevention and Punishment of Genocide (1948) and creation of State of Israel (1948).",
+      "descricao_es": "O extermínio ocorreu através de fuzilamentos em massa por Einsatzgruppen, guetos urbanos onde fome e doença matavam milhares, e principalmente em campos de extermínio industrializados como Auschwitz-Birkenau, Treblinka, Sobibor e Bełżec, onde câmaras de gás zyklon B matavam milhares diariamente. Corpos eram queimados em crematórios. Foi o pior genocídio da história moderna, levou à Convenção para Prevenção e Repressão do Crime de Genocídio (1948) e criação do Estado de Israel (1948).",
+      "importancia_es": "Pior genocídio da história, levou a Convenção de Genocídio e criação de Israel."
+    },
+    {
+      "id": "sgm-009",
+      "nome": "Batalha de Stalingrado",
+      "nome_en": "Battle of Stalingrad",
+      "nome_es": "Batalla de Stalingrado",
+      "tipo": "conflito",
+      "descricao": "A Batalha de Stalingrado (23 agosto 1942 - 2 fevereiro 1943) foi o confronto urbano mais sangrento da Segunda Guerra Mundial, com aproximadamente 2 milhões de baixas totais (militares e civis). Os alemães atacaram a cidade industrial soviética estratégica no rio Volga com o 6º Exército de Friedrich Paulus (330.000 soldados), conquistando 90% da cidade em brutais combates casa-a-casa onde soldados lutavam por cada andar de edifícios em ruínas. Em 19 novembro, soviéticos lançaram Operação Urano, duplo envolvimento que cercou completamente os alemães. Hitler proibiu retirada ordenando resistência até morte, mas Luftwaffe fracassou em reabastecer sitiados por ar. Sem comida, munição ou combustível no inverno rigoroso (-30°C), Paulus rendeu-se em 2 fevereiro com apenas 91.000 sobreviventes (dos quais apenas 6.000 retornariam da Sibéria). Foi a primeira grande derrota alemã, virando maré da guerra e iniciando longo recuo até Berlim.",
+      "descricao_en": "The Battle of Stalingrad (August 23, 1942 - February 2, 1943) was the bloodiest urban battle of World War II, with approximately 2 million total casualties (military and civilian). Germans attacked the strategic Soviet industrial city on Volga River with Friedrich Paulus's 6th Army (330,000 soldiers), conquering 90% of the city in brutal house-to-house combat where soldiers fought for each floor of ruined buildings. On November 19, Soviets launched Operation Uranus, a double envelopment that completely encircled the Germans. Hitler forbade retreat ordering fight to death, but Luftwaffe failed to resupply besieged by air. Without food, ammunition or fuel in harsh winter (-30°C), Paulus surrendered on February 2 with only 91,000 survivors (of whom only 6,000 would return from Siberia). It was the first major German defeat, turning the tide of war and beginning the long retreat to Berlin.",
+      "inicio": 1942,
+      "fim": 1943,
+      "tags": [
+        "guerra_mundial",
+        "conflito"
+      ],
+      "importancia": "Stalingrado (agosto 1942 – fevereiro 1943) foi o ponto de virada da Segunda Guerra Mundial: pela primeira vez um exército alemão foi cercado e aniquilado. Os 300.000 soldados do 6º Exército de Paulus foram destruídos; apenas 91.000 se renderam, dos quais 5.000 voltaram à Alemanha após a guerra. A batalha custou 1,1-1,8 milhão de baixas soviéticas. Mas a derrota alemã não foi apenas militar — foi psicológica: destruiu o mito da invencibilidade da Wehrmacht e sinalizou ao mundo inteiro que a Alemanha perderia a guerra.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "It was the first major German defeat, turning the tide of war and beginning the long retreat to Berlin.",
+      "descricao_es": "Hitler proibiu retirada ordenando resistência até morte, mas Luftwaffe fracassou em reabastecer sitiados por ar. Sem comida, munição ou combustível no inverno rigoroso (-30°C), Paulus rendeu-se em 2 fevereiro com apenas 91.000 sobreviventes (dos quais apenas 6.000 retornariam da Sibéria). Foi a primeira grande derrota alemã, virando maré da guerra e iniciando longo recuo até Berlim.",
+      "importancia_es": "Maior derrota alemã, início do avanço soviético que culminou em Berlim."
+    },
+    {
+      "id": "sgm-010",
+      "nome": "Dia D - Desembarque na Normandia",
+      "nome_en": "D-Day - Normandy Landings",
+      "nome_es": "Día D - Desembarco de Normandía",
+      "tipo": "evento",
+      "descricao": "Invasão aliada da França ocupada (6 junho 1944) com 156.000 soldados desembarcando em praias normandas. Maior operação anfíbia da história.",
+      "inicio": 1944,
+      "fim": 1944,
+      "tags": [
+        "guerra_mundial",
+        "conflito"
+      ],
+      "importancia": "O Dia D foi a maior operação anfíbia da história: 156.000 soldados, 11.000 aviões, 6.900 navios. A abertura da Segunda Frente aliviou a pressão sobre o Exército Vermelho, que havia carregado o peso da guerra desde 1941. Churchill resistira anos à ideia, preferindo atacar o 'ventre mole' da Europa (Itália, Mediterrâneo). O sucesso deveu-se à enorme operação de decepção (Operação Fortitude) que convenceu Hitler de que o desembarque real seria no Pas-de-Calais.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "[D-Day - Normandy Landings] Abriu Segunda Frente na Europa, acelerando derrota nazista.",
+      "importancia_es": "[Día D - Desembarco de Normandía] Abriu Segunda Frente na Europa, acelerando derrota nazista.",
+      "descricao_en": "Invasão aliada da França ocupada (6 junho 1944) com 156.000 soldados desembarcando em praias normandas. Maior operação anfíbia da história.",
+      "descricao_es": "Invasão aliada da França ocupada (6 junho 1944) com 156.000 soldados desembarcando em praias normandas. Maior operação anfíbia da história."
+    },
+    {
+      "id": "sgm-011",
+      "nome": "Bombas Atômicas",
+      "nome_en": "Atomic Bombings",
+      "nome_es": "Bombas Atómicas",
+      "tipo": "evento",
+      "descricao": "EUA lançaram bombas atômicas sobre Hiroshima (6 agosto) e Nagasaki (9 agosto 1945), matando 200.000 pessoas. Japão rendeu-se em 15 agosto.",
+      "inicio": 1945,
+      "fim": 1945,
+      "tags": [
+        "guerra_mundial",
+        "tecnologia"
+      ],
+      "importancia": "Hiroshima e Nagasaki inauguraram a era nuclear e inauguraram o debate ético mais duradouro da história militar: usar armas de destruição em massa contra populações civis é justificável se encurtar uma guerra? O debate permanece aberto. A bomba atômica também acelerou a corrida armamentista soviética (a URSS testou sua própria bomba em 1949), criando o equilíbrio de terror que estruturou a Guerra Fria por 40 anos e, indiretamente, impediu uma Terceira Guerra Mundial convencional entre superpotências.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "technological",
+      "period": "Contemporary",
+      "importancia_en": "[Atomic Bombings] Primeira e única utilização de armas nucleares em guerra, inaugurou era atômica.",
+      "importancia_es": "[Bombas Atómicas] Primeira e única utilização de armas nucleares em guerra, inaugurou era atômica.",
+      "descricao_en": "EUA lançaram bombas atômicas sobre Hiroshima (6 agosto) e Nagasaki (9 agosto 1945), matando 200.000 pessoas. Japão rendeu-se em 15 agosto.",
+      "descricao_es": "EUA lançaram bombas atômicas sobre Hiroshima (6 agosto) e Nagasaki (9 agosto 1945), matando 200.000 pessoas. Japão rendeu-se em 15 agosto."
+    },
+    {
+      "id": "sgm-012",
+      "nome": "Rendição da Alemanha",
+      "nome_en": "German Surrender",
+      "nome_es": "Rendición de Alemania",
+      "tipo": "evento",
+      "descricao": "Alemanha assinou rendição incondicional (8 maio 1945, VE Day — Victory in Europe) após o suicídio de Hitler (30 abril) e a captura de Berlim pelo Exército Vermelho. Batalha de Berlim custou ~360.000 baixas soviéticas. O julgamento de Nuremberg (1945-46) estabeleceu o precedente de responsabilização individual por crimes de guerra e crimes contra a humanidade — conceito jurídico sem precedente na história.",
+      "inicio": 1945,
+      "fim": 1945,
+      "tags": [
+        "guerra_mundial"
+      ],
+      "importancia": "A rendição alemã encerrou 6 anos de guerra que mataram entre 70 e 85 milhões de pessoas — a maior catástrofe humana da história. O colapso do Terceiro Reich deixou a Europa destruída e dividida entre as duas superpotências emergentes, EUA e URSS, estabelecendo a estrutura da Guerra Fria. Nuremberg criou o Direito Internacional Humanitário moderno: a ideia de que 'ordens superiores' não isentam criminosos de guerra foi juridicamente estabelecida ali.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Contemporary",
+      "importancia_en": "[German Surrender] Vitória aliada na Europa, fim do Terceiro Reich.",
+      "importancia_es": "[Rendición de Alemania] Vitória aliada na Europa, fim do Terceiro Reich.",
+      "descricao_en": "Alemanha assinou rendição incondicional (8 maio 1945) após suicídio de Hitler e captura de Berlim pelos soviéticos. Fim da guerra na Europa.",
+      "descricao_es": "Alemanha assinou rendição incondicional (8 maio 1945) após suicídio de Hitler e captura de Berlim pelos soviéticos. Fim da guerra na Europa."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "sgm-002",
+      "destino": "sgm-001",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "Nazismo e expansionismo alemão causaram Segunda Guerra"
+    },
+    {
+      "origem": "sgm-003",
+      "destino": "sgm-001",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Invasão da Polônia iniciou Segunda Guerra Mundial"
+    },
+    {
+      "origem": "sgm-004",
+      "destino": "sgm-003",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Blitzkrieg foi tática usada para conquistar Polônia"
+    },
+    {
+      "origem": "sgm-004",
+      "destino": "sgm-005",
+      "tipo": "tensao",
+      "intensidade": 0.7,
+      "descricao": "Blitzkrieg fracassou na Batalha da Inglaterra"
+    },
+    {
+      "origem": "sgm-002",
+      "destino": "sgm-006",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Ideologia nazista motivou invasão da URSS"
+    },
+    {
+      "origem": "sgm-007",
+      "destino": "sgm-001",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Pearl Harbor provocou entrada americana tornando guerra global"
+    },
+    {
+      "origem": "sgm-002",
+      "destino": "sgm-008",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "Ideologia nazista levou a genocídio sistemático do Holocausto"
+    },
+    {
+      "origem": "sgm-006",
+      "destino": "sgm-009",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Invasão da URSS levou a confronto decisivo em Stalingrado"
+    },
+    {
+      "origem": "sgm-009",
+      "destino": "sgm-012",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Derrota em Stalingrado iniciou recuo alemão até rendição"
+    },
+    {
+      "origem": "sgm-010",
+      "destino": "sgm-012",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Dia D abriu Segunda Frente acelerando derrota alemã"
+    },
+    {
+      "origem": "sgm-011",
+      "destino": "sgm-001",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Bombas atômicas forçaram rendição japonesa encerrando guerra"
+    }
+  ]
+}

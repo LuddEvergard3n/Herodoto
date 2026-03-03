@@ -1,0 +1,341 @@
+{
+  "meta": {
+    "fonte": "Compilado - História do Brasil",
+    "lingua": "pt",
+    "tema": "Brasil República",
+    "periodo": "1889-2024"
+  },
+  "entidades": [
+    {
+      "id": "brr-001",
+      "nome": "República da Espada",
+      "nome_en": "Sword Republic",
+      "nome_es": "República de la Espada",
+      "tipo": "periodo",
+      "descricao": "Primeiros governos militares (1889-1894). Deodoro da Fonseca (1889-1891): governo provisório, Constituição de 1891 (federalismo, presidencialismo, voto aberto masculino não-analfabeto ~5% população), separação Igreja-Estado, positivismo. Revolta da Armada (1891): marinha contra governo. Deodoro renunciou, vice Floriano Peixoto assumiu. Floriano (1891-1894): 'Marechal de Ferro', reprimiu violentamente Revolta Federalista (RS 1893-1895) e segunda Revolta da Armada. Consolidou república mas com autoritarismo. Entregou poder a civil Prudente de Morais (1894) pacificamente. Economia: Encilhamento (política de Rui Barbosa, emissão excessiva de moeda) causou inflação e especulação.",
+      "descricao_en": "First military governments (1889-1894). Deodoro da Fonseca (1889-1891): provisional government, Constitution of 1891 (federalism, presidentialism, open male vote non-illiterate ~5% population), Church-State separation, positivism. Naval Revolt (1891): navy against government. Deodoro resigned, vice Floriano Peixoto assumed. Floriano (1891-1894): 'Iron Marshal', violently suppressed Federalist Revolt (RS 1893-1895) and second Naval Revolt. Consolidated republic but with authoritarianism. Handed power to civilian Prudente de Morais (1894) peacefully. Economy: Encilhamento (Rui Barbosa's policy, excessive money issuance) caused inflation and speculation.",
+      "descricao_es": "Primeros gobiernos militares (1889-1894). Deodoro da Fonseca (1889-1891): gobierno provisional, Constitución de 1891 (federalismo, presidencialismo, voto abierto masculino no-analfabeto ~5% población), separación Iglesia-Estado, positivismo. Revuelta de Armada (1891): marina contra gobierno. Deodoro renunció, vice Floriano Peixoto asumió. Floriano (1891-1894): 'Mariscal de Hierro', reprimió violentamente Revuelta Federalista (RS 1893-1895) y segunda Revuelta de Armada. Consolidó república pero con autoritarismo. Entregó poder a civil Prudente de Morais (1894) pacíficamente. Economía: Encilhamento (política de Rui Barbosa, emisión excesiva de moneda) causó inflación y especulación.",
+      "inicio": 1889,
+      "fim": 1894,
+      "tags": [
+        "brasil",
+        "republica",
+        "espada"
+      ],
+      "importancia": "A República da Espada (1889-1894) revelou imediatamente a contradição estrutural da república brasileira: foi proclamada por militares sem participação popular e seu primeiro presidente dissolveu o Congresso quando este resistiu. A Constituição de 1891 foi tecnicamente avançada — federalismo, separação de poderes, laicidade — mas operava numa sociedade onde 85% eram analfabetos e sem direito a voto. A estrutura formal democrática existia; a democracia real, não.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Economy: Encilhamento (Rui Barbosa's policy, excessive money issuance) caused inflation and speculation.",
+      "importancia_es": "Economía: Encilhamento (política de Rui Barbosa, emisión excesiva de moneda) causó inflación y especulación."
+    },
+    {
+      "id": "brr-002",
+      "nome": "República Oligárquica",
+      "nome_en": "Oligarchic Republic",
+      "nome_es": "República Oligárquica",
+      "tipo": "periodo",
+      "descricao": "Domínio das oligarquias rurais (1894-1930). Política do Café-com-Leite: alternância entre São Paulo (café) e Minas Gerais (leite) na presidência. Coronelismo: poder local de coronéis (grandes proprietários) controlando votos através de clientelismo, fraude (voto de cabresto). Política dos Governadores (Campos Sales): pacto entre presidente e governadores estaduais garantindo apoio mútuo. Economia exportadora dependente de café. Convênio de Taubaté (1906): valorização do café, governo comprava excedentes. Industrialização incipiente em SP. Movimentos de contestação: Canudos (1896-1897, Antônio Conselheiro, 25.000 mortos), Contestado (SC/PR 1912-1916, messianismo), Revolta da Vacina (RJ 1904, contra vacinação obrigatória), Revolta da Chibata (1910, João Cândido contra castigos corporais na marinha), greves operárias anarco-sindicalistas (1917).",
+      "descricao_en": "Rural oligarchies domination (1894-1930). Coffee-with-Milk Politics: alternation between São Paulo (coffee) and Minas Gerais (milk) in presidency. Coronelism: local power of colonels (large landowners) controlling votes through clientelism, fraud (halter vote). Governors' Politics (Campos Sales): pact between president and state governors guaranteeing mutual support. Export economy dependent on coffee. Taubaté Convention (1906): coffee valorization, government bought surpluses. Incipient industrialization in SP. Contestation movements: Canudos (1896-1897, Antônio Conselheiro, 25,000 deaths), Contestado (SC/PR 1912-1916, messianism), Vaccine Revolt (RJ 1904, against compulsory vaccination), Whip Revolt (1910, João Cândido against corporal punishment in navy), anarcho-syndicalist workers' strikes (1917).",
+      "descricao_es": "Dominación de oligarquías rurales (1894-1930). Política del Café-con-Leche: alternancia entre São Paulo (café) y Minas Gerais (leche) en presidencia. Coronelismo: poder local de coroneles (grandes propietarios) controlando votos a través de clientelismo, fraude (voto de cabestro). Política de Gobernadores (Campos Sales): pacto entre presidente y gobernadores estatales garantizando apoyo mutuo. Economía exportadora dependiente de café. Convenio de Taubaté (1906): valorización del café, gobierno compraba excedentes. Industrialización incipiente en SP. Movimientos de contestación: Canudos (1896-1897, Antônio Conselheiro, 25.000 muertos), Contestado (SC/PR 1912-1916, mesianismo), Revuelta de Vacuna (RJ 1904, contra vacunación obligatoria), Revuelta de Látigo (1910, João Cândido contra castigos corporales en marina), huelgas obreras anarco-sindicalistas (1917).",
+      "inicio": 1894,
+      "fim": 1930,
+      "tags": [
+        "brasil",
+        "republica",
+        "oligarquica"
+      ],
+      "importancia": "A República Velha (1894-1930) demonstrou como estruturas democráticas formais podem ser capturadas por oligarquias sem se transformar em ditaduras declaradas. O 'voto de cabresto' e o coronelismo eram instituições sociais, não apenas corrupção individual. A política 'café-com-leite' funcionou enquanto havia acordo entre as elites — entrou em colapso exatamente quando São Paulo tentou impor seu candidato sem dar vez a Minas Gerais, mostrando que acordos oligárquicos são tão estáveis quanto o equilíbrio de poder entre as partes.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "economic",
+      "period": "Modern",
+      "importancia_en": "Contestation movements: Canudos (1896-1897, Antônio Conselheiro, 25,000 deaths), Contestado (SC/PR 1912-1916, messianism), Vaccine Revolt (RJ 1904, against compulsory vaccination), Whip Revolt (1910, João Cândido against corporal punishment in navy), anarcho-syndicalist workers' strikes (1917).",
+      "importancia_es": "Movimientos de contestación: Canudos (1896-1897, Antônio Conselheiro, 25.000 muertos), Contestado (SC/PR 1912-1916, mesianismo), Revuelta de Vacuna (RJ 1904, contra vacunación obligatoria), Revuelta de Látigo (1910, João Cândido contra castigos corporales en marina), huelgas obreras anarco-sindicalistas (1917)."
+    },
+    {
+      "id": "brr-011",
+      "nome": "Cultura Brasileira Moderna",
+      "nome_en": "Modern Brazilian Culture",
+      "nome_es": "Cultura Brasileña Moderna",
+      "tipo": "periodo",
+      "descricao": "Expressões culturais (1920-2024). Semana de Arte Moderna (1922, SP): modernismo rompeu com academicismo. Mário de Andrade, Oswald de Andrade, Tarsila do Amaral, Anita Malfatti, Villa-Lobos. Manifestos: Pau-Brasil, Antropófago. Literatura: Drummond, Cecília Meireles, Guimarães Rosa, Clarice Lispector, Jorge Amado. Cinema Novo (1960s): Glauber Rocha, Nelson Pereira dos Santos. Música: samba (Cartola, Noel Rosa), bossa nova (Tom Jobim, Vinicius), MPB (Chico Buarque, Caetano, Gil), Tropicalismo. TV: novelas globais. Futebol: Pelé (tricampeão mundial), seleções vitoriosas (1958, 1962, 1970, 1994, 2002). Carnaval: expressão popular máxima. Diversidade: cultura afro-brasileira, indígena, europeia, asiática. Desigualdade social marcante.",
+      "descricao_en": "Cultural expressions (1920-2024). Modern Art Week (1922, SP): modernism broke with academicism. Mário de Andrade, Oswald de Andrade, Tarsila do Amaral, Anita Malfatti, Villa-Lobos. Manifestos: Pau-Brasil, Antropófago. Literature: Drummond, Cecília Meireles, Guimarães Rosa, Clarice Lispector, Jorge Amado. Cinema Novo (1960s): Glauber Rocha, Nelson Pereira dos Santos. Music: samba (Cartola, Noel Rosa), bossa nova (Tom Jobim, Vinicius), MPB (Chico Buarque, Caetano, Gil), Tropicalism. TV: Globo soap operas. Football: Pelé (three-time world champion), victorious teams (1958, 1962, 1970, 1994, 2002). Carnival: maximum popular expression. Diversity: Afro-Brazilian, indigenous, European, Asian culture. Marked social inequality.",
+      "descricao_es": "Expresiones culturales (1920-2024). Semana de Arte Moderno (1922, SP): modernismo rompió con academicismo. Mário de Andrade, Oswald de Andrade, Tarsila do Amaral, Anita Malfatti, Villa-Lobos. Manifiestos: Pau-Brasil, Antropófago. Literatura: Drummond, Cecília Meireles, Guimarães Rosa, Clarice Lispector, Jorge Amado. Cinema Novo (1960s): Glauber Rocha, Nelson Pereira dos Santos. Música: samba (Cartola, Noel Rosa), bossa nova (Tom Jobim, Vinicius), MPB (Chico Buarque, Caetano, Gil), Tropicalismo. TV: telenovelas de Globo. Fútbol: Pelé (tricampeón mundial), selecciones victoriosas (1958, 1962, 1970, 1994, 2002). Carnaval: expresión popular máxima. Diversidad: cultura afrobrasileña, indígena, europea, asiática. Desigualdad social marcada.",
+      "inicio": 1920,
+      "fim": 2024,
+      "tags": [
+        "brasil",
+        "republica",
+        "cultura"
+      ],
+      "importancia": "A cultura brasileira moderna é produto de uma síntese única de influências africanas, indígenas, europeias e asiáticas — num processo que Stuart Hall chamaria de 'hibridismo cultural'. Do samba ao bossa nova ao funk ao axé, cada movimento musical reflete dinâmicas sociais específicas. A Semana de 1922 não foi apenas artística — foi a declaração de que o Brasil tinha o direito de ter uma modernidade própria, não derivada da europeia. Essa tensão entre autenticidade e cosmopolitismo continua definindo a cultura brasileira.",
+      "century_start": 20,
+      "century_end": 21,
+      "region": "Americas",
+      "type": "cultural",
+      "period": "Modern",
+      "importancia_en": "Diversity: Afro-Brazilian, indigenous, European, Asian culture.",
+      "importancia_es": "Diversidad: cultura afrobrasileña, indígena, europea, asiática."
+    },
+    {
+      "id": "brr-003",
+      "nome": "Revolução de 1930",
+      "nome_en": "1930 Revolution",
+      "nome_es": "Revolución de 1930",
+      "tipo": "evento",
+      "descricao": "Golpe (1930) que encerrou República Velha. Crise de 1929 derrubou preços do café. Mineiros romperam Café-com-Leite indicando paulista Júlio Prestes. Aliança Liberal (Getúlio Vargas-RS, João Pessoa-PB) perdeu eleição fraudulenta. Assassinato de João Pessoa (julho 1930) foi estopim. Revolução iniciou no Sul (3 outubro) liderada por Vargas, tenentes (Juarez Távora, Luís Carlos Prestes) e oposicionistas. Tropas marcharam para Rio. Washington Luís deposto (24 outubro). Vargas assumiu provisoriamente (3 novembro) iniciando 15 anos de poder. Revolução representou ascensão de classes médias urbanas, militares e burguesia industrial contra oligarquias rurais. Modernização conservadora. Intervenções federais em estados. Tenentismo influenciou políticas.",
+      "descricao_en": "Coup (1930) ending Old Republic. 1929 crisis dropped coffee prices. Mineiros broke Coffee-with-Milk indicating São Paulo's Júlio Prestes. Liberal Alliance (Getúlio Vargas-RS, João Pessoa-PB) lost fraudulent election. Assassination of João Pessoa (July 1930) was trigger. Revolution started in South (October 3) led by Vargas, lieutenants (Juarez Távora, Luís Carlos Prestes) and oppositionists. Troops marched to Rio. Washington Luís deposed (October 24). Vargas assumed provisionally (November 3) beginning 15 years of power. Revolution represented ascension of urban middle classes, military and industrial bourgeoisie against rural oligarchies. Conservative modernization. Federal interventions in states. Tenentism influenced policies.",
+      "descricao_es": "Golpe (1930) terminando República Vieja. Crisis de 1929 derrumbó precios del café. Mineiros rompieron Café-con-Leche indicando paulista Júlio Prestes. Alianza Liberal (Getúlio Vargas-RS, João Pessoa-PB) perdió elección fraudulenta. Asesinato de João Pessoa (julio 1930) fue detonante. Revolución inició en Sur (3 octubre) liderada por Vargas, tenientes (Juarez Távora, Luís Carlos Prestes) y oposicionistas. Tropas marcharon a Río. Washington Luís depuesto (24 octubre). Vargas asumió provisionalmente (3 noviembre) iniciando 15 años de poder. Revolución representó ascenso de clases medias urbanas, militares y burguesía industrial contra oligarquías rurales. Modernización conservadora. Intervenciones federales en estados. Tenentismo influenció políticas.",
+      "inicio": 1930,
+      "fim": 1930,
+      "tags": [
+        "brasil",
+        "republica",
+        "revolucao_1930"
+      ],
+      "importancia": "A Revolução de 1930 é o momento fundador do Brasil moderno: Vargas desmontou o poder das oligarquias estaduais e construiu um Estado nacional centralizado com burocracia profissional, legislação trabalhista e industrialização dirigida. Não foi uma revolução social — as elites continuaram poderosas — mas foi uma ruptura com o modelo agrário-exportador. O paradoxo de Vargas: o homem que criou a CLT e os direitos trabalhistas foi também o ditador do Estado Novo que torturava opositores.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "economic",
+      "period": "Modern",
+      "importancia_en": "Revolution represented ascension of urban middle classes, military and industrial bourgeoisie against rural oligarchies. Federal interventions in states.",
+      "importancia_es": "Intervenciones federales en estados. Tenentismo influenció políticas."
+    },
+    {
+      "id": "brr-004",
+      "nome": "Era Vargas - Estado Novo",
+      "nome_en": "Vargas Era - New State",
+      "nome_es": "Era Vargas - Estado Nuevo",
+      "tipo": "periodo",
+      "descricao": "Ditadura de Getúlio Vargas (1937-1945) inspirada em fascismo europeu. Golpe de 1937 fechou Congresso usando Plano Cohen (falso plano comunista) como pretexto. Constituição polaca de 1937: presidencialismo forte, censura (DIP - Departamento de Imprensa e Propaganda), proibição de partidos, interventores federais. Trabalhismo: CLT (1943) criou direitos (salário mínimo, 8h diárias, férias, previdência) cooptando sindicatos sob controle estatal. Nacionalismo desenvolvimentista: CSN (1941), Vale do Rio Doce, Petrobras planejada. Industrialização por substituição de importações. Segunda Guerra: Brasil inicialmente neutro, depois aliou-se aos Aliados (1942) enviando FEB à Itália (25.000 pracinhas). Contradição: lutar por democracia na Europa mantendo ditadura no Brasil. Deposição (1945) por militares pressionados pela redemocratização.",
+      "descricao_en": "Getúlio Vargas dictatorship (1937-1945) inspired by European fascism. 1937 coup closed Congress using Cohen Plan (false communist plan) as pretext. Polish Constitution of 1937: strong presidentialism, censorship (DIP - Department of Press and Propaganda), party prohibition, federal interveners. Laborism: CLT (1943) created rights (minimum wage, 8h daily, vacation, social security) co-opting unions under state control. Developmentalist nationalism: CSN (1941), Vale do Rio Doce, planned Petrobras. Import substitution industrialization. World War II: Brazil initially neutral, later allied with Allies (1942) sending FEB to Italy (25,000 soldiers). Contradiction: fighting for democracy in Europe maintaining dictatorship in Brazil. Deposition (1945) by military pressured by redemocratization.",
+      "descricao_es": "Dictadura de Getúlio Vargas (1937-1945) inspirada en fascismo europeo. Golpe de 1937 cerró Congreso usando Plan Cohen (falso plan comunista) como pretexto. Constitución polaca de 1937: presidencialismo fuerte, censura (DIP - Departamento de Prensa y Propaganda), prohibición de partidos, interventores federales. Laborismo: CLT (1943) creó derechos (salario mínimo, 8h diarias, vacaciones, seguridad social) cooptando sindicatos bajo control estatal. Nacionalismo desarrollista: CSN (1941), Vale do Rio Doce, Petrobras planificada. Industrialización por sustitución de importaciones. Segunda Guerra: Brasil inicialmente neutro, después se alió con Aliados (1942) enviando FEB a Italia (25.000 soldados). Contradicción: luchar por democracia en Europa manteniendo dictadura en Brasil. Deposición (1945) por militares presionados por redemocratización.",
+      "inicio": 1937,
+      "fim": 1945,
+      "tags": [
+        "brasil",
+        "republica",
+        "estado_novo"
+      ],
+      "importancia": "O Estado Novo (1937-1945) foi o regime autoritário mais bem-sucedido da história brasileira do ponto de vista da construção institucional: criou a CLT, a Justiça do Trabalho, a Petrobras (preparação), a CSN, o DNOC e centralizou o Estado de forma duradoura. Vargas usou o trabalhismo como base de legitimidade popular enquanto reprimia comunistas e liberais. O modelo corporativista inspirado no fascismo italiano produziu, paradoxalmente, as principais instituições do Estado de bem-estar brasileiro.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Deposition (1945) by military pressured by redemocratization.",
+      "importancia_es": "Deposición (1945) por militares presionados por redemocratización."
+    },
+    {
+      "id": "brr-005",
+      "nome": "República Populista",
+      "nome_en": "Populist Republic",
+      "nome_es": "República Populista",
+      "tipo": "periodo",
+      "descricao": "Democracia (1945-1964) com populismo. Constituição de 1946: liberal-democrática, voto secreto universal alfabetizado. Dutra (1946-1951): liberal, Plano SALTE, Constituição. Vargas eleito (1951-1954): nacionalismo, petróleo é nosso, criou Petrobras (1953). Crise: atentado da Rua Tonelero contra Carlos Lacerda. Militares exigiram renúncia. Vargas suicidou-se (24 agosto 1954, carta-testamento comoveu nação). JK (1956-1961): desenvolvimentismo ('50 anos em 5'), Plano de Metas, construção de Brasília (1960), indústria automobilística, rodovias. Endividamento externo. Jânio Quadros (1961): renunciou após 7 meses (crise). João Goulart (1961-1964): trabalhismo, reformas de base (agrária, urbana, educacional), reaproximação com esquerda. Oposição conservadora (empresários, latifundiários, classe média, militares, EUA) culminou em golpe.",
+      "descricao_en": "Democracy (1945-1964) with populism. Constitution of 1946: liberal-democratic, universal secret literate vote. Dutra (1946-1951): liberal, SALTE Plan, Constitution. Vargas elected (1951-1954): nationalism, oil is ours, created Petrobras (1953). Crisis: Tonelero Street attack against Carlos Lacerda. Military demanded resignation. Vargas committed suicide (August 24, 1954, testament letter moved nation). JK (1956-1961): developmentalism ('50 years in 5'), Goals Plan, Brasília construction (1960), automotive industry, highways. External debt. Jânio Quadros (1961): resigned after 7 months (crisis). João Goulart (1961-1964): laborism, base reforms (agrarian, urban, educational), rapprochement with left. Conservative opposition (businessmen, landowners, middle class, military, USA) culminated in coup.",
+      "descricao_es": "Democracia (1945-1964) con populismo. Constitución de 1946: liberal-democrática, voto secreto universal alfabetizado. Dutra (1946-1951): liberal, Plan SALTE, Constitución. Vargas elegido (1951-1954): nacionalismo, petróleo es nuestro, creó Petrobras (1953). Crisis: atentado de Calle Tonelero contra Carlos Lacerda. Militares exigieron renuncia. Vargas se suicidó (24 agosto 1954, carta-testamento conmovió nación). JK (1956-1961): desarrollismo ('50 años en 5'), Plan de Metas, construcción de Brasília (1960), industria automotriz, carreteras. Endeudamiento externo. Jânio Quadros (1961): renunció tras 7 meses (crisis). João Goulart (1961-1964): laborismo, reformas de base (agraria, urbana, educacional), reacercamiento con izquierda. Oposición conservadora (empresarios, latifundistas, clase media, militares, EE.UU.) culminó en golpe.",
+      "inicio": 1945,
+      "fim": 1964,
+      "tags": [
+        "brasil",
+        "republica",
+        "populista"
+      ],
+      "importancia": "O período populista (1945-1964) foi a única experiência democrática plena do Brasil antes de 1985: sufrágio ampliado, partidos políticos reais, imprensa livre, alternância de poder. Mas a industrialização rápida criou tensões redistributivas que o sistema político não conseguia absorver. JK, Jânio e Goulart representam três projetos distintos de modernização — o nacional-desenvolvimentismo, o moralismo conservador e o reformismo de base — e a impossibilidade de qualquer deles de construir maioria estável levou ao golpe.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "Conservative opposition (businessmen, landowners, middle class, military, USA) culminated in coup.",
+      "importancia_es": "Oposición conservadora (empresarios, latifundistas, clase media, militares, EE.UU.) culminó en golpe."
+    },
+    {
+      "id": "brr-006",
+      "nome": "Ditadura Militar",
+      "nome_en": "Military Dictatorship",
+      "nome_es": "Dictadura Militar",
+      "tipo": "periodo",
+      "descricao": "Regime autoritário (1964-1985) instaurado por golpe militar (31 março-1 abril 1964) apoiado por EUA (Operação Brother Sam), empresários e classe média anti-comunista. Cinco presidentes militares: Castelo Branco (1964-1967), Costa e Silva (1967-1969), Médici (1969-1974), Geisel (1974-1979), Figueiredo (1979-1985). AI-5 (1968): fechou Congresso, cassou mandatos, suspendeu habeas corpus, institucionalizou censura e tortura. Repressão: DOI-CODI, SNI, tortura sistemática, desaparecimentos, exílio. Resistência: guerrilha urbana (Carlos Marighella, Dilma Rousseff), Araguaia. Economia: milagre econômico (1968-1973, crescimento 10% ao ano), obras faraônicas (Transamazônica, Itaipu), mas aumento da dívida externa e desigualdade. Abertura 'lenta, gradual e segura' (Geisel). Diretas Já (1984): movimento por eleições diretas. Colégio eleitoral elegeu Tancredo Neves (oposição, 1985).",
+      "descricao_en": "Authoritarian regime (1964-1985) established by military coup (March 31-April 1, 1964) supported by USA (Operation Brother Sam), businessmen and anti-communist middle class. Five military presidents: Castelo Branco (1964-1967), Costa e Silva (1967-1969), Médici (1969-1974), Geisel (1974-1979), Figueiredo (1979-1985). AI-5 (1968): closed Congress, revoked mandates, suspended habeas corpus, institutionalized censorship and torture. Repression: DOI-CODI, SNI, systematic torture, disappearances, exile. Resistance: urban guerrilla (Carlos Marighella, Dilma Rousseff), Araguaia. Economy: economic miracle (1968-1973, 10% annual growth), pharaonic works (Transamazônica, Itaipu), but increased external debt and inequality. 'Slow, gradual and safe' opening (Geisel). Diretas Já (1984): movement for direct elections. Electoral college elected Tancredo Neves (opposition, 1985).",
+      "descricao_es": "Régimen autoritario (1964-1985) instaurado por golpe militar (31 marzo-1 abril 1964) apoyado por EE.UU. (Operación Brother Sam), empresarios y clase media anticomunista. Cinco presidentes militares: Castelo Branco (1964-1967), Costa e Silva (1967-1969), Médici (1969-1974), Geisel (1974-1979), Figueiredo (1979-1985). AI-5 (1968): cerró Congreso, anuló mandatos, suspendió habeas corpus, institucionalizó censura y tortura. Represión: DOI-CODI, SNI, tortura sistemática, desapariciones, exilio. Resistencia: guerrilla urbana (Carlos Marighella, Dilma Rousseff), Araguaia. Economía: milagro económico (1968-1973, crecimiento 10% anual), obras faraónicas (Transamazónica, Itaipu), pero aumento de deuda externa y desigualdad. Apertura 'lenta, gradual y segura' (Geisel). Diretas Já (1984): movimiento por elecciones directas. Colegio electoral eligió Tancredo Neves (oposición, 1985).",
+      "inicio": 1964,
+      "fim": 1985,
+      "tags": [
+        "brasil",
+        "republica",
+        "ditadura"
+      ],
+      "importancia": "A Ditadura Militar (1964-1985) foi mais longa, mais eficiente economicamente e mais seletivamente brutal do que os regimes militares vizinhos. O 'milagre econômico' (1969-1973: 10% de crescimento anual) legitimou o regime internamente enquanto o AI-5 institucionalizava a tortura. O paradoxo brasileiro: a ditadura construiu parte da infraestrutura moderna do país (Itaipu, Transamazônica, telecomunicações) enquanto sistematicamente torturava e desaparecia com opositores. A anistia de 1979 — que incluiu torturadores — definiu a transição: impunidade em troca de estabilidade.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "Electoral college elected Tancredo Neves (opposition, 1985).",
+      "importancia_es": "Diretas Já (1984): movimiento por elecciones directas. Colegio electoral eligió Tancredo Neves (oposición, 1985)."
+    },
+    {
+      "id": "brr-007",
+      "nome": "Redemocratização",
+      "nome_en": "Redemocratization",
+      "nome_es": "Redemocratización",
+      "tipo": "periodo",
+      "descricao": "Transição (1985-1990) para democracia. Tancredo Neves eleito indiretamente (1985) morreu antes de posse. Vice José Sarney assumiu (1985-1990, primeiro civil após 21 anos). Constituição de 1988 ('Cidadã'): ampliou direitos sociais, voto analfabeto, eleições diretas, federalismo, 5 anos mandato presidencial. Planos econômicos fracassados contra hiperinflação: Cruzado (1986), Bresser, Verão. Inflação chegou a 1.000% ao ano. Eleição direta (1989): Fernando Collor (PRN) venceu Lula (PT) no 2º turno. Collor (1990-1992): Plano Collor (confisco de poupanças), abertura econômica, privatizações. Corrupção (PC Farias, tesoureiro). Movimento Caras-Pintadas (estudantes). Impeachment (1992, 1º da história). Vice Itamar Franco assumiu.",
+      "descricao_en": "Transition (1985-1990) to democracy. Tancredo Neves indirectly elected (1985) died before inauguration. Vice José Sarney assumed (1985-1990, first civilian after 21 years). Constitution of 1988 ('Citizen'): expanded social rights, illiterate vote, direct elections, federalism, 5-year presidential term. Failed economic plans against hyperinflation: Cruzado (1986), Bresser, Verão. Inflation reached 1,000% annually. Direct election (1989): Fernando Collor (PRN) defeated Lula (PT) in 2nd round. Collor (1990-1992): Collor Plan (savings confiscation), economic opening, privatizations. Corruption (PC Farias, treasurer). Painted Faces movement (students). Impeachment (1992, 1st in history). Vice Itamar Franco assumed.",
+      "descricao_es": "Transición (1985-1990) a democracia. Tancredo Neves elegido indirectamente (1985) murió antes de posesión. Vice José Sarney asumió (1985-1990, primer civil tras 21 años). Constitución de 1988 ('Ciudadana'): amplió derechos sociales, voto analfabeto, elecciones directas, federalismo, 5 años mandato presidencial. Planes económicos fracasados contra hiperinflación: Cruzado (1986), Bresser, Verão. Inflación llegó a 1.000% anual. Elección directa (1989): Fernando Collor (PRN) venció Lula (PT) en 2ª vuelta. Collor (1990-1992): Plan Collor (confisco de ahorros), apertura económica, privatizaciones. Corrupción (PC Farias, tesorero). Movimiento Caras Pintadas (estudiantes). Impeachment (1992, 1º de historia). Vice Itamar Franco asumió.",
+      "inicio": 1985,
+      "fim": 1992,
+      "tags": [
+        "brasil",
+        "republica",
+        "redemocratizacao"
+      ],
+      "importancia": "A redemocratização de 1985-1988 foi gradual, negociada e incompleta — o que a tornou duradoura. Diferente de rupturas revolucionárias que frequentemente geram instabilidade, a transição brasileira preservou as instituições e os atores do regime anterior enquanto criava espaço para novos. A Constituição de 1988 ('Constituição Cidadã') foi a mais detalhada e ambiciosa da história brasileira — e sua extensão reflete a desconfiança em poderes discricionários que qualquer regime autoritário recente inevitavelmente gera.",
+      "century_start": 20,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "Painted Faces movement (students). Impeachment (1992, 1st in history).",
+      "importancia_es": "Movimiento Caras Pintadas (estudiantes). Impeachment (1992, 1º de historia)."
+    },
+    {
+      "id": "brr-008",
+      "nome": "Estabilização Econômica",
+      "nome_en": "Economic Stabilization",
+      "nome_es": "Estabilización Económica",
+      "tipo": "periodo",
+      "descricao": "Plano Real (1994) estabilizou economia. Itamar Franco (1992-1994): governo de transição, FHC ministro da Fazenda criou Plano Real (URV → Real, controle inflação, âncora cambial). FHC eleito (1994, 1998 após emenda reeleição). Governo FHC (1995-2002): privatizações (Vale, Telebrás, bancos estaduais), Lei de Responsabilidade Fiscal, metas inflação, câmbio flutuante (1999), superávit primário. Inflação controlada (~10% → 5%). Desemprego e dívida pública cresceram. Programas sociais: Bolsa Escola, Comunidade Solidária. Crise energética (2001, racionamento). Lei de Responsabilidade Fiscal (2000). BNDES financiou empresas nacionais. Mercosul consolidado.",
+      "descricao_en": "Real Plan (1994) stabilized economy. Itamar Franco (1992-1994): transition government, FHC Finance Minister created Real Plan (URV → Real, inflation control, exchange anchor). FHC elected (1994, 1998 after reelection amendment). FHC government (1995-2002): privatizations (Vale, Telebrás, state banks), Fiscal Responsibility Law, inflation targets, floating exchange (1999), primary surplus. Controlled inflation (~10% → 5%). Unemployment and public debt grew. Social programs: Bolsa Escola, Solidary Community. Energy crisis (2001, rationing). Fiscal Responsibility Law (2000). BNDES financed national companies. Consolidated Mercosur.",
+      "descricao_es": "Plan Real (1994) estabilizó economía. Itamar Franco (1992-1994): gobierno de transición, FHC ministro de Hacienda creó Plan Real (URV → Real, control inflación, ancla cambiaria). FHC elegido (1994, 1998 tras enmienda reelección). Gobierno FHC (1995-2002): privatizaciones (Vale, Telebrás, bancos estatales), Ley de Responsabilidad Fiscal, metas inflación, cambio fluctuante (1999), superávit primario. Inflación controlada (~10% → 5%). Desempleo y deuda pública crecieron. Programas sociales: Bolsa Escuela, Comunidad Solidaria. Crisis energética (2001, racionamiento). Ley de Responsabilidad Fiscal (2000). BNDES financió empresas nacionales. Mercosur consolidado.",
+      "inicio": 1994,
+      "fim": 2002,
+      "tags": [
+        "brasil",
+        "republica",
+        "plano_real"
+      ],
+      "importancia": "O Plano Real (1994) foi mais do que uma política econômica — foi uma transformação social. A inflação crônica (chegou a 80% ao mês em 1994) era um imposto regressivo brutal: destruía o valor dos salários dos pobres enquanto os ricos protegiam riqueza em ativos reais ou no exterior. A estabilização criou as condições para o consumo de massa e a ascensão das classes C e D que alimentaram o crescimento dos anos 2000. FHC e Lula, apesar da polarização política, construíram sobre a mesma fundação macroeconômica que o Real estabeleceu.",
+      "century_start": 20,
+      "century_end": 21,
+      "region": "Americas",
+      "type": "economic",
+      "period": "Contemporary",
+      "importancia_en": "Fiscal Responsibility Law (2000). BNDES financed national companies.",
+      "importancia_es": "Ley de Responsabilidad Fiscal (2000). BNDES financió empresas nacionales."
+    },
+    {
+      "id": "brr-009",
+      "nome": "Governos PT",
+      "nome_en": "PT Governments",
+      "nome_es": "Gobiernos PT",
+      "tipo": "periodo",
+      "descricao": "Partido dos Trabalhadores no poder (2003-2016). Lula (2003-2010): social-desenvolvimentismo, Bolsa Família (unificou programas sociais, ~50 milhões beneficiados), ProUni, REUNI, Minha Casa Minha Vida, PAC. Crescimento econômico com boom commodities, classe C expandiu. Pré-Sal descoberto (2007). Mensalão (2005): escândalo de compra de votos, José Dirceu cassado. Dilma Rousseff (2011-2016): primeira mulher presidente, continuou políticas sociais. Protestos junho 2013 (transporte, Copa, corrupção). Operação Lava Jato (2014): maior investigação de corrupção (Petrobras, empreiteiras, políticos). Recessão (2015-2016). Impeachment (2016) por pedaladas fiscais. Michel Temer (PMDB) assumiu (2016-2018).",
+      "descricao_en": "Workers' Party in power (2003-2016). Lula (2003-2010): social-developmentalism, Bolsa Família (unified social programs, ~50 million benefited), ProUni, REUNI, My House My Life, PAC. Economic growth with commodities boom, class C expanded. Pre-Salt discovered (2007). Mensalão (2005): vote-buying scandal, José Dirceu revoked. Dilma Rousseff (2011-2016): first woman president, continued social policies. June 2013 protests (transport, World Cup, corruption). Operation Car Wash (2014): largest corruption investigation (Petrobras, contractors, politicians). Recession (2015-2016). Impeachment (2016) for fiscal pedaling. Michel Temer (PMDB) assumed (2016-2018).",
+      "descricao_es": "Partido de Trabajadores en poder (2003-2016). Lula (2003-2010): social-desarrollismo, Bolsa Familia (unificó programas sociales, ~50 millones beneficiados), ProUni, REUNI, Mi Casa Mi Vida, PAC. Crecimiento económico con boom commodities, clase C se expandió. Pre-Sal descubierto (2007). Mensalão (2005): escándalo de compra de votos, José Dirceu revocado. Dilma Rousseff (2011-2016): primera mujer presidente, continuó políticas sociales. Protestas junio 2013 (transporte, Copa, corrupción). Operación Lava Jato (2014): mayor investigación de corrupción (Petrobras, contratistas, políticos). Recesión (2015-2016). Impeachment (2016) por pedaleos fiscales. Michel Temer (PMDB) asumió (2016-2018).",
+      "inicio": 2003,
+      "fim": 2016,
+      "tags": [
+        "brasil",
+        "republica",
+        "pt"
+      ],
+      "importancia": "Os governos PT (2003-2016) produziram a maior redução de desigualdade da história brasileira: 36 milhões saíram da pobreza, o Índice de Gini caiu de 0,59 para 0,52. O Bolsa Família tornou-se referência internacional de transferência de renda condicional. Mas o ciclo terminou em escândalo de corrupção sistêmica (Petrolão) que revelou que o PT havia adotado as mesmas práticas que criticava. O impeachment de Dilma em 2016 e a prisão de Lula em 2018 polarizaram o país de forma duradoura.",
+      "century_start": 21,
+      "century_end": 21,
+      "region": "Americas",
+      "type": "political",
+      "period": "Contemporary",
+      "importancia_en": "Impeachment (2016) for fiscal pedaling. Michel Temer (PMDB) assumed (2016-2018).",
+      "importancia_es": "Impeachment (2016) por pedaleos fiscales. Michel Temer (PMDB) asumió (2016-2018)."
+    },
+    {
+      "id": "brr-010",
+      "nome": "Brasil Contemporâneo",
+      "nome_en": "Contemporary Brazil",
+      "nome_es": "Brasil Contemporáneo",
+      "tipo": "periodo",
+      "descricao": "Período recente (2016-2024). Temer (2016-2018): reformas neoliberais, Teto de Gastos, reforma trabalhista. Bolsonaro (2019-2022): extrema-direita, conservadorismo, armamentismo, negacionismo científico, desmatamento Amazônia, milícias digitais. COVID-19: 700.000+ mortos, gestão caótica. Auxílio emergencial. Polarização política extrema. Eleição 2022: Lula venceu Bolsonaro (2º turno apertado). Ataques à democracia: 8 de janeiro 2023 (invasão do Planalto, STF, Congresso). Lula III (2023-atual): reconstrução institucional, combate à fome, valorização salário mínimo, transição energética. Desafios: polarização, desinformação, desigualdade, mudanças climáticas, reforma tributária. População: ~215 milhões. 9ª economia mundial.",
+      "descricao_en": "Recent period (2016-2024). Temer (2016-2018): Spending Cap fiscal reform, labor reform. Bolsonaro (2019-2022): far-right, conservatism, armamentism, scientific denialism, Amazon deforestation, digital militias. COVID-19: 700,000+ deaths, chaotic management. Emergency aid. Extreme political polarization. 2022 election: Lula defeated Bolsonaro (tight 2nd round). Attacks on democracy: January 8, 2023 (invasion of Planalto, STF, Congress). Lula III (2023-present): institutional reconstruction, fight against hunger, minimum wage appreciation, energy transition. Challenges: polarization, disinformation, inequality, climate change, tax reform. Population: ~215 million. 9th world economy.",
+      "descricao_es": "Período reciente (2016-2024). Temer (2016-2018): reformas fiscais, Techo de Gastos, reforma laboral. Bolsonaro (2019-2022): extrema derecha, conservadurismo, armamentismo, negacionismo científico, deforestación Amazonía, milicias digitales. COVID-19: 700.000+ muertos, gestión caótica. Auxilio emergencial. Polarización política extrema. Elección 2022: Lula venció Bolsonaro (2ª vuelta ajustada). Ataques a democracia: 8 de enero 2023 (invasión de Planalto, STF, Congreso). Lula III (2023-actual): reconstrucción institucional, combate al hambre, valorización salario mínimo, transición energética. Desafíos: polarización, desinformación, desigualdad, cambios climáticos, reforma tributaria. Población: ~215 millones. 9ª economía mundial.",
+      "inicio": 2016,
+      "fim": 2024,
+      "tags": [
+        "brasil",
+        "republica",
+        "contemporaneo"
+      ],
+      "importancia": "O Brasil contemporâneo (2016-presente) é definido pela polarização entre projetos nacionais incompatíveis: o de 2016-2022 (Temer, Bolsonaro) de ajuste fiscal, liberalismo econômico e conservadorismo cultural, e o retorno de Lula em 2022 com agenda redistributiva. A volatilidade política reflete tensões estruturais não resolvidas: concentração de renda, informalidade, violência, desmatamento. O país continua sendo simultaneamente uma das maiores democracias eleitorais do mundo e uma das sociedades mais desiguais.",
+      "century_start": 21,
+      "century_end": 21,
+      "region": "Americas",
+      "type": "technological",
+      "period": "Contemporary",
+      "importancia_en": "Challenges: polarization, disinformation, inequality, climate change, tax reform.",
+      "importancia_es": "Desafíos: polarización, desinformación, desigualdad, cambios climáticos, reforma tributaria."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "brr-001",
+      "destino": "brr-002",
+      "tipo": "evolucao",
+      "descricao": "República da Espada deu lugar a oligarquias civis"
+    },
+    {
+      "origem": "brr-002",
+      "destino": "brr-003",
+      "tipo": "causalidade",
+      "descricao": "Crise do café e fraudes levaram à Revolução de 1930"
+    },
+    {
+      "origem": "brr-003",
+      "destino": "brr-004",
+      "tipo": "evolucao",
+      "descricao": "Vargas consolidou poder estabelecendo Estado Novo"
+    },
+    {
+      "origem": "brr-004",
+      "destino": "brr-005",
+      "tipo": "causalidade",
+      "descricao": "Contradição da FEB levou à redemocratização"
+    },
+    {
+      "origem": "brr-005",
+      "destino": "brr-006",
+      "tipo": "causalidade",
+      "descricao": "Reformas de Goulart geraram golpe militar"
+    },
+    {
+      "origem": "brr-006",
+      "destino": "brr-007",
+      "tipo": "evolucao",
+      "descricao": "Abertura lenta levou à redemocratização"
+    },
+    {
+      "origem": "brr-007",
+      "destino": "brr-008",
+      "tipo": "evolucao",
+      "descricao": "Hiperinflação foi controlada pelo Plano Real"
+    },
+    {
+      "origem": "brr-008",
+      "destino": "brr-009",
+      "tipo": "evolucao",
+      "descricao": "Estabilização permitiu governos com foco social"
+    },
+    {
+      "origem": "brr-009",
+      "destino": "brr-010",
+      "tipo": "causalidade",
+      "descricao": "Crise e Lava Jato levaram a polarização contemporânea"
+    }
+  ]
+}

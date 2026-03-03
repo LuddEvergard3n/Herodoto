@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "fonte": "Arqueologia e historiografia especializada",
+    "lingua": "pt",
+    "tema": "Maya: Matemática, Astronomia e Sistema de Escrita",
+    "periodo": "-200 a 1500"
+  },
+  "entidades": [
+    {
+      "id": "mc-002",
+      "nome": "O Calendário Maia: Três Ciclos Simultâneos",
+      "nome_en": "The Maya Calendar: Three Simultaneous Cycles",
+      "nome_es": "El Calendario Maya: Tres Ciclos Simultáneos",
+      "tipo": "periodo",
+      "inicio": -500,
+      "fim": 1520,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -5,
+      "type": "intellectual",
+      "descricao": "Os maias operavam três calendários simultâneos: o Tzolk'in (260 dias, ritual — combinação de 13 números e 20 nomes de dias); o Haab' (365 dias, solar — 18 meses de 20 dias + 5 dias 'sem nome' Wayeb', considerados perigosos); e o Longo Contagem (sistema posicional para datas absolutas desde a criação mítica em 3114 a.C. — o equivalente maia do calendário gregoriano para registrar história). A Roda Calendária combina Tzolk'in e Haab' num ciclo de 52 anos. O fim do Longo Contagem em 21 dezembro 2012 foi mal interpretado popularmente como 'fim do mundo' — era simplesmente o fim de um ciclo de 5.125 anos.",
+      "descricao_en": "The Maya operated three simultaneous calendars: the Tzolk'in (260 days, ritual); the Haab' (365 days, solar — 18 months of 20 days + 5 nameless 'Wayeb'' days, considered dangerous); and the Long Count (positional system for absolute dates from mythical creation in 3114 BC). The Calendar Round combines Tzolk'in and Haab' in a 52-year cycle. The end of the Long Count on December 21, 2012 was popularly misinterpreted as the 'end of the world' — it was simply the end of a 5,125-year cycle.",
+      "descricao_es": "Los mayas operaban tres calendarios simultáneos: Tzolk'in (260 días), Haab' (365 días) y Cuenta Larga. El 21 de diciembre de 2012 fue malinterpretado como 'fin del mundo' — era simplemente el fin de un ciclo de 5.125 años.",
+      "importancia": "O sistema de Longo Contagem maia permite datar eventos com precisão absoluta — é por isso que podemos afirmar que a conquista de Tikal por Teotihuacán ocorreu em 16 de janeiro de 378 d.C. Nenhuma outra civilização das Américas desenvolveu um sistema de datação absoluta de precisão equivalente.",
+      "importancia_en": "The Maya Long Count system allows events to be dated with absolute precision — which is why we can state that Teotihuacán's conquest of Tikal occurred on January 16, 378 AD. No other civilization in the Americas developed an equivalent precision absolute dating system.",
+      "importancia_es": "El sistema de Cuenta Larga maya permite datar eventos con precisión absoluta. Ninguna otra civilización de las Américas desarrolló un sistema equivalente.",
+      "tags": [
+        "Tzolk'in",
+        "Haab'",
+        "Longo Contagem",
+        "2012",
+        "ciclo",
+        "calendário"
+      ],
+      "dataset": "data/dados-maya-ciencia.json"
+    },
+    {
+      "id": "mc-003",
+      "nome": "A Escrita Maia: O Único Sistema Completo das Américas",
+      "nome_en": "Maya Writing: The Only Complete System in the Americas",
+      "nome_es": "La Escritura Maya: El Único Sistema Completo de las Américas",
+      "tipo": "periodo",
+      "inicio": -300,
+      "fim": 1562,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -3,
+      "type": "intellectual",
+      "descricao": "A escrita maia é o único sistema de escrita completo das Américas pré-colombianas — capaz de registrar qualquer coisa que possa ser dita na língua. Usa ~800 signos logosilábicos (combinando logogramas e sílabas). Foi decifrada principalmente por Yuri Knorozov (linguista soviético, 1952) e Linda Schele/David Stuart (anos 1980–90). Em 1562, o bispo Diego de Landa queimou dezenas de códices maias em Maní, Yucatán — 'porque não continham nada além de superstições e falsidades do diabo'. Apenas quatro códices completos sobreviveram.",
+      "descricao_en": "Maya writing is the only complete writing system in pre-Columbian America — capable of recording anything that can be said in the language. It uses ~800 logosyllabic signs (combining logograms and syllables). It was deciphered mainly by Yuri Knorozov (Soviet linguist, 1952) and Linda Schele/David Stuart (1980s–90s). In 1562, Bishop Diego de Landa burned dozens of Maya codices in Maní, Yucatán — 'because they contained nothing but superstitions and lies of the devil'. Only four complete codices survived.",
+      "descricao_es": "La escritura maya es el único sistema completo de las Américas. Fue descifrada principalmente por el lingüista soviético Yuri Knorozov (1952). El obispo Diego de Landa quemó decenas de códices en 1562 — solo cuatro completos sobrevivieron.",
+      "importancia": "A destruição dos códices maias por Landa em 1562 é considerada uma das maiores perdas documentais da história humana. Ironicamente, o próprio Landa escreveu a 'Relación de las Cosas de Yucatán' — que preservou o alfabeto maia e foi a chave para a decifração moderna. Sem Landa, saberíamos menos; com menos Landa, saberíamos mais.",
+      "importancia_en": "The destruction of Maya codices by Landa in 1562 is considered one of the greatest documentary losses in human history. Ironically, Landa himself wrote the 'Relación de las Cosas de Yucatán' — which preserved the Maya alphabet and was the key to modern decipherment. Without Landa, we would know less; with less Landa, we would know more.",
+      "importancia_es": "La destrucción de los códices por Landa (1562) es una de las mayores pérdidas documentales de la historia. Irónicamente, el propio Landa escribió la clave para descifrar la escritura maya.",
+      "tags": [
+        "escrita",
+        "Knorozov",
+        "Landa",
+        "códices",
+        "decifração",
+        "logosilábico"
+      ],
+      "dataset": "data/dados-maya-ciencia.json"
+    },
+    {
+      "id": "mc-001",
+      "nome": "O Sistema Numérico Maia: Zero e Base 20",
+      "nome_en": "The Maya Numerical System: Zero and Base 20",
+      "nome_es": "El Sistema Numérico Maya: Cero y Base 20",
+      "tipo": "periodo",
+      "inicio": -200,
+      "fim": 900,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -2,
+      "type": "intellectual",
+      "descricao": "Os maias desenvolveram independentemente o conceito de zero — um dos poucos povos na história a fazê-lo (junto com os indianos, de forma mais conhecida). O zero maia (representado por uma concha) aparece c. 350 a.C. nas estelas de Nakbé. Usavam base 20 (vigesimal) com três símbolos: ponto (1), barra (5) e concha (0). Com esses três símbolos podiam representar qualquer número. O sistema permitia cálculos astronômicos de precisão extraordinária: o ciclo de Vênus calculado pelos maias (583,92 dias) difere do valor moderno por apenas 0,02 dias.",
+      "descricao_en": "The Maya independently developed the concept of zero — one of the few peoples in history to do so (alongside the Indians, more famously). The Maya zero (represented by a shell) appears c. 350 BC in Nakbé stelae. They used base 20 (vigesimal) with three symbols: dot (1), bar (5) and shell (0). With these three symbols they could represent any number. The system enabled astronomical calculations of extraordinary precision: the Maya-calculated Venus cycle (583.92 days) differs from the modern value by only 0.02 days.",
+      "descricao_es": "Los mayas desarrollaron independientemente el concepto de cero. Usaban base 20 con tres símbolos. El ciclo de Venus calculado (583,92 días) difiere del valor moderno en solo 0,02 días.",
+      "importancia": "O zero maia é uma das invenções intelectuais mais extraordinárias da história humana — inventado independentemente, sem contato com a Índia ou com o mundo árabe. Sem o zero, a matemática avançada é impossível. Os maias fizeram astronomia de precisão comparável à europeia do século XVII usando apenas observação a olho nu e matemática de pontos e barras.",
+      "importancia_en": "The Maya zero is one of the most extraordinary intellectual inventions in human history — invented independently, without contact with India or the Arab world. Without zero, advanced mathematics is impossible. The Maya did astronomical calculations comparable in precision to 17th-century Europe using only naked-eye observation and dot-and-bar mathematics.",
+      "importancia_es": "El cero maya es una de las invenciones intelectuales más extraordinarias de la historia humana — inventado independientemente. Los mayas hicieron astronomía de precisión comparable a la Europa del siglo XVII.",
+      "tags": [
+        "zero",
+        "matemática",
+        "base 20",
+        "Vênus",
+        "astronomia",
+        "vigesimal"
+      ],
+      "dataset": "data/dados-maya-ciencia.json"
+    },
+    {
+      "id": "mc-005",
+      "nome": "Palenque e Tikal: As Cidades-Estado Clássicas",
+      "nome_en": "Palenque and Tikal: The Classic City-States",
+      "nome_es": "Palenque y Tikal: Las Ciudades-Estado Clásicas",
+      "tipo": "periodo",
+      "inicio": 250,
+      "fim": 900,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 3,
+      "type": "political",
+      "descricao": "O período clássico maia (250–900 d.C.) foi dominado pela rivalidade entre as duas superpotências: Tikal (norte da Guatemala) e Calakmul (sul do México), cada uma com uma rede de aliados e estados-cliente. Palenque (atual Chiapas) floresceu como centro artístico e intelectual sob Pakal o Grande (r. 615–683) e seu filho Chan Bahlum — que construiu o Grupo das Cruzes, uma das mais complexas declarações teológicas na arquitetura das Américas. Tikal tinha pirâmides de 65–70 metros (Templo IV, o mais alto edifício pré-colombiano da Mesoamérica).",
+      "descricao_en": "The Classic Maya period (250–900 AD) was dominated by the rivalry between two superpowers: Tikal (northern Guatemala) and Calakmul (southern Mexico), each with a network of allies and client states. Palenque (modern Chiapas) flourished as an artistic and intellectual center under Pakal the Great (r. 615–683) and his son Chan Bahlum — who built the Cross Group, one of the most complex theological statements in the architecture of the Americas. Tikal had pyramids of 65–70 meters (Temple IV, the tallest pre-Columbian building in Mesoamerica).",
+      "descricao_es": "El período Clásico maya fue dominado por la rivalidad Tikal-Calakmul. Palenque floreció bajo Pakal el Grande (615-683). El Templo IV de Tikal es el edificio precolombino más alto de Mesoamérica.",
+      "importancia": "A tumba de Pakal, descoberta em 1952 por Alberto Ruz Lhuillier, foi a primeira tumba real descoberta dentro de uma pirâmide maia — comparável em importância à descoberta da tumba de Tutancâmon. O sarcófago de Pakal, com sua tampa esculpida (que os entusiastas de alienígenas interpretam equivocadamente como um astronauta), é uma das obras de arte mais densamente iconográficas das Américas.",
+      "importancia_en": "Pakal's tomb, discovered in 1952 by Alberto Ruz Lhuillier, was the first royal tomb discovered inside a Maya pyramid — comparable in importance to Tutankhamun's discovery. Pakal's sarcophagus, with its sculpted lid (which alien enthusiasts mistakenly interpret as an astronaut), is one of the most iconographically dense artworks in the Americas.",
+      "importancia_es": "La tumba de Pakal, descubierta en 1952, fue la primera tumba real encontrada dentro de una pirámide maya — comparable al descubrimiento de Tutankamón.",
+      "tags": [
+        "Pakal",
+        "Tikal",
+        "Palenque",
+        "Calakmul",
+        "clássico",
+        "sarcófago"
+      ],
+      "dataset": "data/dados-maya-ciencia.json"
+    },
+    {
+      "id": "mc-004",
+      "nome": "Observatórios Maias: Chichén Itzá e Palenque",
+      "nome_en": "Maya Observatories: Chichén Itzá and Palenque",
+      "nome_es": "Observatorios Mayas: Chichén Itzá y Palenque",
+      "tipo": "periodo",
+      "inicio": 600,
+      "fim": 1200,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 7,
+      "type": "intellectual",
+      "descricao": "Os maias construíram observatórios funcionais integrados à arquitetura. O Caracol de Chichén Itzá (c. 900 d.C.) é uma torre circular cujas janelas estão alinhadas com eventos astronômicos específicos: equinócios, solstícios, pontos extremos do ciclo de Vênus. O Templo das Inscrições de Palenque foi construído para que a luz do sol do pôr do sol do solstício de inverno desça pela escada interna até a tumba do rei Pakal — projetado com precisão de engenharia para um evento que ocorre uma vez por ano. Em Uxmal, a 'Casa do Governador' tem porta principal alinhada ao ponto mais sul do nascer de Vênus.",
+      "descricao_en": "The Maya built functional observatories integrated into architecture. The Caracol at Chichén Itzá (c. 900 AD) is a round tower whose windows are aligned with specific astronomical events: equinoxes, solstices, extreme points of Venus's cycle. The Temple of the Inscriptions at Palenque was built so that the setting sun of the winter solstice descends the inner staircase to King Pakal's tomb — engineered with precision for an event occurring once a year. At Uxmal, the 'Governor's House' has its main door aligned to Venus's southernmost rising point.",
+      "descricao_es": "El Caracol de Chichén Itzá tiene ventanas alineadas con eventos astronómicos específicos. El Templo de las Inscripciones de Palenque fue construido para que el sol del solsticio de invierno descienda hasta la tumba del rey Pakal. En Uxmal, la 'Casa del Gobernador' está alineada con Venus.",
+      "importancia": "A integração de astronomia e arquitetura maia é sem paralelo nas Américas — e comparável ao melhor da astronomia arquitetônica do Velho Mundo (Stonehenge, templos egípcios, Newgrange). A diferença é que a astronomia maia era acompanhada por matemática de alta sofisticação que permitia previsão, não apenas observação.",
+      "importancia_en": "The integration of Mayan astronomy and architecture is unparalleled in the Americas — and comparable to the best of Old World architectural astronomy (Stonehenge, Egyptian temples, Newgrange). The difference is that Maya astronomy was accompanied by highly sophisticated mathematics enabling prediction, not just observation.",
+      "importancia_es": "La integración de astronomía y arquitectura maya no tiene paralelo en las Américas, comparable al mejor del Viejo Mundo.",
+      "tags": [
+        "Caracol",
+        "Palenque",
+        "Pakal",
+        "Uxmal",
+        "observatório",
+        "Vênus",
+        "solstício"
+      ],
+      "dataset": "data/dados-maya-ciencia.json"
+    },
+    {
+      "id": "mc-006",
+      "nome": "O Popol Vuh: A Bíblia dos Maias K'iche'",
+      "nome_en": "The Popol Vuh: The Bible of the K'iche' Maya",
+      "nome_es": "El Popol Vuh: La Biblia de los Mayas K'iche'",
+      "tipo": "periodo",
+      "inicio": 1000,
+      "fim": 1701,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 11,
+      "type": "cultural",
+      "descricao": "O Popol Vuh ('Livro do Conselho') é o mais completo texto mitológico sobrevivente das Américas. Escrito pelos maias K'iche' da Guatemala provavelmente no século XIV, transcrito em alfabeto latino c. 1550–1700 pelo frei Francisco Ximénez. Narra a criação do mundo, os 'Heróis Gêmeos' Hunahpu e Xbalanque e suas batalhas contra os Senhores do Submundo (Xibalba), e a criação da humanidade do milho — não do barro como no Gênesis. O milho (maíz) como substância da humanidade é a metáfora mais poderosa da cosmovisão mesoamericana: os humanos são literalmente feitos do que comem.",
+      "descricao_en": "The Popol Vuh ('Book of Council') is the most complete surviving mythological text of the Americas. Written by the K'iche' Maya of Guatemala probably in the 14th century, transcribed in Latin alphabet c. 1550–1700 by Friar Francisco Ximénez. It narrates world creation, the 'Hero Twins' Hunahpu and Xbalanque and their battles against the Lords of the Underworld (Xibalba), and the creation of humanity from corn — not clay as in Genesis. Corn (maize) as the substance of humanity is the most powerful metaphor of the Mesoamerican worldview.",
+      "descricao_es": "El Popol Vuh es el texto mitológico más completo de las Américas. Narra la creación del mundo y los Héroes Gemelos. La humanidad es creada del maíz — no del barro como en el Génesis.",
+      "importancia": "O Popol Vuh é o texto literário mais importante das Américas pré-colombianas — e um dos grandes textos mitológicos da humanidade, comparável ao Gilgamesh, à Ilíada e ao Mahabharata. Sua preservação foi acidental: um único manuscrito sobreviveu, copiado por Ximénez, e ficou esquecido numa biblioteca guatemalteca até o século XIX.",
+      "importancia_en": "The Popol Vuh is the most important literary text of pre-Columbian America — and one of humanity's great mythological texts, comparable to Gilgamesh, the Iliad and the Mahabharata. Its preservation was accidental: a single manuscript survived, copied by Ximénez, and lay forgotten in a Guatemalan library until the 19th century.",
+      "importancia_es": "El Popol Vuh es el texto literario más importante de la América precolombina — comparable al Gilgamesh, la Ilíada y el Mahabharata.",
+      "tags": [
+        "Popol Vuh",
+        "K'iche'",
+        "Heróis Gêmeos",
+        "milho",
+        "Xibalba",
+        "mitologia"
+      ],
+      "dataset": "data/dados-maya-ciencia.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "mc-001",
+      "destino": "mc-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Sistema numérico com zero viabiliza os três calendários"
+    },
+    {
+      "origem": "mc-002",
+      "destino": "mc-004",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Precisão calendária exige observatórios funcionais"
+    },
+    {
+      "origem": "mc-003",
+      "destino": "mc-005",
+      "tipo": "paralelo",
+      "intensidade": 0.7,
+      "descricao": "Escrita e política são inseparáveis nas cidades-estado clássicas"
+    },
+    {
+      "origem": "mc-001",
+      "destino": "mc-003",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Matemática e escrita se desenvolvem conjuntamente"
+    },
+    {
+      "origem": "mc-006",
+      "destino": "mc-005",
+      "tipo": "paralelo",
+      "intensidade": 0.6,
+      "descricao": "Popol Vuh e a teologia de Palenque são expressões da mesma cosmologia"
+    }
+  ]
+}

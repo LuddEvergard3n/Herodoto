@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "fonte": "Arqueologia e historiografia especializada",
+    "lingua": "pt",
+    "tema": "Caral e as Civilizações Andinas Antigas: Origens e Precursores",
+    "periodo": "-3000 a 600"
+  },
+  "entidades": [
+    {
+      "id": "ca-001",
+      "nome": "Caral: A Civilização Mais Antiga das Américas",
+      "nome_en": "Caral: The Oldest Civilization in the Americas",
+      "nome_es": "Caral: La Civilización Más Antigua de las Américas",
+      "tipo": "periodo",
+      "inicio": -3000,
+      "fim": -1800,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -30,
+      "type": "political",
+      "descricao": "Caral (c. 3000–1800 a.C., Vale de Supe, Peru) é a civilização mais antiga das Américas — contemporânea das primeiras pirâmides egípcias. O sítio de Caral cobre 66 hectares e contém seis pirâmides de plataforma, praças circulares e residências para ~3.000 habitantes. Descoberta moderna: Ruth Shady Solís iniciou as escavações sistemáticas em 1994 — até então o sítio era considerado uma fazenda colonial. Caral não tem evidências de guerra — sem muros defensivos, sem armas, sem imagens bélicas. Seu poder parece ter sido baseado em controle do comércio de produtos do mar com o interior andino.",
+      "descricao_en": "Caral (c. 3000–1800 BC, Supe Valley, Peru) is the oldest civilization in the Americas — contemporary with the first Egyptian pyramids. The Caral site covers 66 hectares and contains six platform pyramids, circular plazas and residences for ~3,000 inhabitants. Modern discovery: Ruth Shady Solís began systematic excavations in 1994 — until then the site was considered a colonial farm. Caral shows no evidence of warfare — no defensive walls, no weapons, no warlike imagery. Its power appears to have been based on control of coastal product trade with the Andean interior.",
+      "descricao_es": "Caral (c. 3000-1800 a.C., Valle de Supe, Perú) es la civilización más antigua de las Américas. Contemporánea de las primeras pirámides egipcias. Sin evidencias de guerra. Su poder se basaba en control del comercio entre la costa y el interior andino.",
+      "importancia": "Caral foi redescoberta sem qualquer objeto de cerâmica — o que inicialmente fez arqueólogos duvidarem de sua antiguidade (cerâmica é o marcador padrão de civilizações complexas). Mas Caral usava quipus — nós em cordas — para registro de informação, possivelmente o mais antigo sistema de registro das Américas. Os quipus de Caral precedem em 1.500 anos os incas que os tornaram famosos.",
+      "importancia_en": "Caral was rediscovered without any ceramic objects — which initially made archaeologists doubt its antiquity (pottery is the standard marker of complex civilizations). But Caral used quipus — knotted cords — for information recording, possibly the oldest recording system in the Americas. Caral's quipus predate the Incas who made them famous by 1,500 years.",
+      "importancia_es": "Caral fue redescubierta sin cerámica. Usaba quipus — cuerdas anudadas — el más antiguo sistema de registro de las Américas, 1.500 años antes que los Incas.",
+      "tags": [
+        "Caral",
+        "quipus",
+        "pirâmides",
+        "Supe",
+        "Peru",
+        "mais antiga",
+        "Ruth Shady"
+      ],
+      "dataset": "data/dados-caral-culturas-antigas.json"
+    },
+    {
+      "id": "ca-002",
+      "nome": "Chavín de Huántar: O Oráculo dos Andes",
+      "nome_en": "Chavín de Huántar: The Oracle of the Andes",
+      "nome_es": "Chavín de Huántar: El Oráculo de los Andes",
+      "tipo": "periodo",
+      "inicio": -900,
+      "fim": -200,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -9,
+      "type": "religious",
+      "descricao": "Chavín de Huántar (c. 900–200 a.C., Andes peruanos a 3.177m de altitude) foi o principal centro religioso dos Andes centrais por séculos. O 'Lanzón' — um monólito de granito de 4,5 metros gravado com uma divindade de dentes de jaguar, garras de raptor e cobra no cabelo — é o ícone mais importante da arte andina antiga. O complexo tem um labirinto de galerias subterrâneas que amplificavam sons e possivelmente criavam alucinações acústicas nos rituais. Análises indicam uso de San Pedro (mescalina) nos rituais — um cacto alucinógeno andino usado há 3.400 anos.",
+      "descricao_en": "Chavín de Huántar (c. 900–200 BC, Peruvian Andes at 3,177m altitude) was the main religious center of the central Andes for centuries. The 'Lanzón' — a 4.5-meter granite monolith engraved with a jaguar-toothed, raptor-clawed, snake-haired deity — is the most important icon of ancient Andean art. The complex has a labyrinth of underground galleries that amplified sounds and possibly created acoustic hallucinations in rituals. Analyses indicate use of San Pedro (mescaline) in rituals — an Andean hallucinogenic cactus used for 3,400 years.",
+      "descricao_es": "Chavín de Huántar fue el principal centro religioso de los Andes. El 'Lanzón' — monolito con deidad jaguar/raptor/serpiente — es el ícono más importante del arte andino antiguo. Las galerías subterráneas creaban alucinaciones acústicas. Se usaba San Pedro (mescalina) en rituales.",
+      "importancia": "O 'estilo Chavín' — combinação de jaguar, raptor e serpente numa única figura transformacional — difundiu-se por toda a costa peruana entre 900–200 a.C., demonstrando que Chavín funcionou como centro de influência religiosa e cultural de raio de centenas de quilômetros. É o equivalente andino do papel dos olmecas na Mesoamérica.",
+      "importancia_en": "The 'Chavín style' — combination of jaguar, raptor and serpent in a single transformational figure — spread throughout the Peruvian coast between 900–200 BC, demonstrating that Chavín functioned as a religious and cultural influence center with a radius of hundreds of kilometers. It is the Andean equivalent of the Olmec role in Mesoamerica.",
+      "importancia_es": "El 'estilo Chavín' — jaguar/raptor/serpiente en una sola figura — se difundió por toda la costa peruana, como los olmecas en Mesoamérica.",
+      "tags": [
+        "Chavín",
+        "Lanzón",
+        "jaguar",
+        "San Pedro",
+        "oráculo",
+        "Andes"
+      ],
+      "dataset": "data/dados-caral-culturas-antigas.json"
+    },
+    {
+      "id": "ca-003",
+      "nome": "Paracas e os Têxteis mais Sofisticados do Mundo",
+      "nome_en": "Paracas and the World's Most Sophisticated Textiles",
+      "nome_es": "Paracas y los Textiles más Sofisticados del Mundo",
+      "tipo": "periodo",
+      "inicio": -800,
+      "fim": 200,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -8,
+      "type": "cultural",
+      "descricao": "A cultura Paracas (c. 800 a.C.–200 d.C., costa sul do Peru) produziu os têxteis pré-colombianos mais sofisticados — e, segundo muitos especialistas, os mais avançados do mundo antigo. Os mantos funerários de Paracas têm até 400 fios por centímetro linear (os de maior resolução modernos têm ~300), em padrões de extraordinária complexidade e com paleta de até 190 cores distintas. O clima hipeárido da costa peruana preservou centenas de múmias fardadas em seus mantos originais. A iconografia de Paracas — o 'Ser Oculado' — prefigura a iconografia Nazca.",
+      "descricao_en": "The Paracas culture (c. 800 BC–200 AD, southern coast of Peru) produced the most sophisticated pre-Columbian textiles — and, according to many specialists, the most advanced of the ancient world. Paracas funerary mantles have up to 400 threads per linear centimeter (the highest-resolution modern ones have ~300), in patterns of extraordinary complexity with a palette of up to 190 distinct colors. The hyperarid climate of the Peruvian coast has preserved hundreds of mummified figures in their original mantles. Paracas iconography — the 'Oculate Being' — prefigures Nazca iconography.",
+      "descricao_es": "Paracas produjo los tejidos más sofisticados del mundo antiguo: 400 hilos por centímetro lineal, 190 colores distintos. El clima hipeárido preservó cientos de momias. La iconografía Paracas prefigura la Nazca.",
+      "importancia": "Os têxteis de Paracas têm uma densidade de fios superior à das melhores sedas chinesas medievais e à dos melhores tapetes persas. Foram produzidos sem tear vertical moderno, sem tinturas sintéticas e sem nenhuma ferramenta metálica. Representam o pico absoluto da têxtil manual humana.",
+      "importancia_en": "Paracas textiles have a thread density superior to the best medieval Chinese silks and the finest Persian carpets. They were produced without modern vertical looms, without synthetic dyes and without any metal tools. They represent the absolute peak of human manual textile work.",
+      "importancia_es": "Los tejidos de Paracas tienen densidad de hilos superior a las mejores sedas chinas medievales y alfombras persas, producidos sin telares modernos ni tintes sintéticos.",
+      "tags": [
+        "Paracas",
+        "têxteis",
+        "múmias",
+        "mantos",
+        "190 cores",
+        "Ser Oculado"
+      ],
+      "dataset": "data/dados-caral-culturas-antigas.json"
+    },
+    {
+      "id": "ca-004",
+      "nome": "Nazca: As Linhas e o Enigma",
+      "nome_en": "Nazca: The Lines and the Mystery",
+      "nome_es": "Nazca: Las Líneas y el Enigma",
+      "tipo": "periodo",
+      "inicio": -100,
+      "fim": 800,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": -1,
+      "type": "cultural",
+      "descricao": "As Linhas de Nazca (c. 100 a.C.–800 d.C., deserto de Nazca, Peru) são um dos conjuntos de geóglifos mais extensos do mundo: ~300 figuras (animais, plantas, seres humanos) e ~70 linhas geométricas cobrindo ~450 km². Visíveis do ar mas não do solo. Criadas retirando camadas de pedras escurecidas para revelar o solo mais claro abaixo. Sua função é debatida: calendário astronômico (teoria de Maria Reiche), caminhos rituais, marcadores de aquíferos subterrâneos (teoria atual mais aceita), ou locais de culto à água. Não há evidência de visitantes extraterrestres — a hipótese desqualifica quem a propõe.",
+      "descricao_en": "The Nazca Lines (c. 100 BC–800 AD, Nazca desert, Peru) are one of the world's most extensive geoglyph sets: ~300 figures (animals, plants, humans) and ~70 geometric lines covering ~450 km². Visible from the air but not from the ground. Created by removing darkened stone layers to reveal lighter soil below. Their function is debated: astronomical calendar (Maria Reiche's theory), ritual paths, underground aquifer markers (currently most accepted theory), or water cult sites. There is no evidence of extraterrestrial visitors — the hypothesis disqualifies those who propose it.",
+      "descricao_es": "Las Líneas de Nazca son ~300 figuras y ~70 líneas geométricas cubriendo ~450 km². Su función es debatida: marcadores de acuíferos (teoría más aceptada), calzadas rituales o calendario astronómico. No hay evidencia de visitantes extraterrestres.",
+      "importancia": "As Linhas de Nazca sobreviveram 2.000 anos porque o deserto de Nazca é um dos climas mais estáveis do mundo — vento mínimo, chuva mínima, temperatura constante. São frágeis: em 2014, Greenpeace causou dano irreparável ao colibrí ao instalar faixas próximas para uma manifestação climática. São Patrimônio UNESCO desde 1994.",
+      "importancia_en": "The Nazca Lines survived 2,000 years because the Nazca desert is one of the world's most stable climates — minimal wind, minimal rain, constant temperature. They are fragile: in 2014, Greenpeace caused irreparable damage to the hummingbird figure by placing banners nearby for a climate demonstration. UNESCO World Heritage Site since 1994.",
+      "importancia_es": "Las Líneas de Nazca sobrevivieron 2.000 años por el clima estable del desierto. En 2014, Greenpeace causó daño irreparable al colibrí durante una manifestación.",
+      "tags": [
+        "Nazca",
+        "linhas",
+        "geóglifos",
+        "Maria Reiche",
+        "aquíferos",
+        "deserto"
+      ],
+      "dataset": "data/dados-caral-culturas-antigas.json"
+    },
+    {
+      "id": "ca-005",
+      "nome": "Moche: O Povo dos Vasos Retrato",
+      "nome_en": "Moche: The People of the Portrait Vessels",
+      "nome_es": "Moche: El Pueblo de los Vasos Retrato",
+      "tipo": "periodo",
+      "inicio": 100,
+      "fim": 800,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 1,
+      "type": "cultural",
+      "descricao": "A cultura Moche (c. 100–800 d.C., costa norte do Peru) produziu a arte figurativa mais realista das Américas pré-colombianas. Os 'huacos retrato' — vasos de cerâmica com rostos humanos individualizados de extraordinária precisão — são individuais o suficiente para especular que retratam pessoas reais. As Huacas del Sol e de la Luna (Pirâmides de Moche) são as maiores construções de adobe do mundo antigo: a Huaca del Sol contém ~140 milhões de tijolos de adobe. Os murais de Moche mostram guerreiros, sacerdotes, sacrifícios e cenas do mundo sobrenatural com detalhes sem paralelo.",
+      "descricao_en": "The Moche culture (c. 100–800 AD, northern coast of Peru) produced the most realistic figurative art in pre-Columbian America. The 'huacos retrato' — ceramic vessels with individualized human faces of extraordinary precision — are individual enough to speculate that they portray real people. The Huacas del Sol and de la Luna (Moche Pyramids) are the largest adobe constructions of the ancient world: the Huaca del Sol contains ~140 million adobe bricks. Moche murals show warriors, priests, sacrifices and scenes from the supernatural world with unparalleled detail.",
+      "descricao_es": "Los moche produjeron el arte figurativo más realista de la América precolombina. Los 'huacos retrato' tienen rostros tan individualizados que pueden retratar personas reales. La Huaca del Sol contiene ~140 millones de ladrillos de adobe.",
+      "importancia": "Os Moche não tinham escrita — mas sua cerâmica é uma enciclopédia visual de sua sociedade: doenças, deformidades, práticas sexuais, rituais, cotidiano. Nenhuma outra cultura das Américas nos deu um retrato visual tão detalhado de sua própria vida. O 'Senhor de Sipán' (descoberto 1987) é a tumba real moche mais intacta — seu ouro rivaliza com Tutancâmon em sofisticação.",
+      "importancia_en": "The Moche had no writing — but their ceramics are a visual encyclopedia of their society: diseases, deformities, sexual practices, rituals, daily life. No other culture in the Americas gave us such a detailed visual portrait of its own life. The 'Lord of Sipán' (discovered 1987) is the most intact Moche royal tomb — his gold rivals Tutankhamun in sophistication.",
+      "importancia_es": "Los Moche no tenían escritura, pero su cerámica es una enciclopedia visual de su sociedad. El 'Señor de Sipán' (1987) es la tumba real Moche más intacta — su oro rivaliza con Tutankamón.",
+      "tags": [
+        "Moche",
+        "huacos retrato",
+        "Sipán",
+        "adobe",
+        "arte",
+        "cerâmica"
+      ],
+      "dataset": "data/dados-caral-culturas-antigas.json"
+    },
+    {
+      "id": "ca-006",
+      "nome": "Tiwanaku: A Metrópole do Altiplano",
+      "nome_en": "Tiwanaku: The Metropolis of the Altiplano",
+      "nome_es": "Tiwanaku: La Metrópolis del Altiplano",
+      "tipo": "periodo",
+      "inicio": 500,
+      "fim": 1100,
+      "region": "Americas",
+      "period": "Medieval",
+      "century_start": 6,
+      "type": "political",
+      "descricao": "Tiwanaku (c. 500–1100 d.C., Bolívia, a 3.840m de altitude no Altiplano, próximo ao Lago Titicaca) foi a maior cidade das Américas do Sul pré-colombianas — estimados 10.000–20.000 habitantes no núcleo urbano, com área de influência de milhões. O Portal do Sol (monólito de 3×4 metros, ~10 toneladas, esculpido de um único bloco de andesita) é o símbolo iconográfico mais importante dos Andes. O sistema de agricultura 'suka kollus' (campos elevados) desenvolvido em Tiwanaku transformou áreas inundáveis em campos produtivos — sustentando populações densas num altiplano hostil. Colapso súbito c. 1100 por seca prolongada.",
+      "descricao_en": "Tiwanaku (c. 500–1100 AD, Bolivia, at 3,840m altitude on the Altiplano, near Lake Titicaca) was the largest city in pre-Columbian South America — estimated 10,000–20,000 inhabitants in the urban core, with an area of influence of millions. The Gateway of the Sun (3×4 meter monolith, ~10 tons, carved from a single andesite block) is the most important iconographic symbol of the Andes. The 'suka kollus' (raised fields) agricultural system developed at Tiwanaku transformed floodable areas into productive fields — sustaining dense populations in a hostile high plateau. Sudden collapse c. 1100 due to prolonged drought.",
+      "descricao_es": "Tiwanaku fue la mayor ciudad de Sudamérica precolombina a 3.840m de altitud. El Portal del Sol — monolito de 10 toneladas de un solo bloque — es el símbolo más importante de los Andes. El sistema de 'suka kollus' transformó el altiplano hostil en campos productivos.",
+      "importancia": "O Portal do Sol de Tiwanaku foi encontrado partido ao meio — nunca foi descoberto por que ou quando. A figura central (o 'Deus dos Cajados') tornou-se o ancestral direto de Viracocha, o deus criador dos incas. Tiwanaku foi venerada pelos incas como cidade sagrada — acreditavam que a humanidade foi criada no Lago Titicaca próximo.",
+      "importancia_en": "Tiwanaku's Gateway of the Sun was found split in two — it has never been discovered why or when. The central figure (the 'Staff God') became the direct ancestor of Viracocha, the Inca creator god. Tiwanaku was revered by the Incas as a sacred city — they believed humanity was created at nearby Lake Titicaca.",
+      "importancia_es": "El Portal del Sol fue encontrado partido en dos — nunca se supo por qué. La figura central fue el ancestro directo de Viracocha, dios creador inca.",
+      "tags": [
+        "Tiwanaku",
+        "Portal do Sol",
+        "altiplano",
+        "Titicaca",
+        "suka kollus",
+        "Viracocha"
+      ],
+      "dataset": "data/dados-caral-culturas-antigas.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ca-001",
+      "destino": "ca-002",
+      "tipo": "evolucao",
+      "intensidade": 0.6,
+      "descricao": "Caral estabelece base religiosa e comercial que precede Chavín"
+    },
+    {
+      "origem": "ca-002",
+      "destino": "ca-003",
+      "tipo": "paralelo",
+      "intensidade": 0.5,
+      "descricao": "Chavín e Paracas são contemporâneos e trocam influências"
+    },
+    {
+      "origem": "ca-003",
+      "destino": "ca-004",
+      "tipo": "evolucao",
+      "intensidade": 0.7,
+      "descricao": "Iconografia Paracas prefigura a cultura Nazca"
+    },
+    {
+      "origem": "ca-005",
+      "destino": "ca-006",
+      "tipo": "paralelo",
+      "intensidade": 0.6,
+      "descricao": "Moche (costa norte) e Tiwanaku (altiplano) são os grandes poderes andinos paralelos"
+    },
+    {
+      "origem": "ca-006",
+      "destino": "ca-002",
+      "tipo": "influencia",
+      "intensidade": 0.5,
+      "descricao": "Tiwanaku incorpora e transforma a herança religiosa de Chavín via Viracocha"
+    }
+  ]
+}

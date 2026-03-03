@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "fonte": "Compilado - Século XIX",
+    "lingua": "pt",
+    "tema": "Século XIX",
+    "periodo": "1815-1914"
+  },
+  "entidades": [
+    {
+      "id": "sec19-001",
+      "nome": "Congresso de Viena e Restauração",
+      "nome_en": "Congress of Vienna and Restoration",
+      "nome_es": "Congreso de Viena y Restauración",
+      "tipo": "periodo",
+      "descricao": "Reorganização europeia (1814-1815) após guerras napoleônicas liderada por Metternich (Áustria), Talleyrand (França), Castlereagh (Grã-Bretanha) e Alexandre I (Rússia). Princípios: legitimidade monárquica, equilíbrio de poder, contenção da França. Fronteiras redesenhadas: Países Baixos unidos (Holanda + Bélgica), Confederação Germânica (39 estados), Lombardia-Veneza à Áustria, Polônia dividida. Santa Aliança (Rússia, Áustria, Prússia) comprometeu-se com intervenção contra revoluções. Sistema de congressos coordenou política europeia. Restauração Bourbon na França, Espanha e Nápoles. Liberalismo e nacionalismo reprimidos. Ondas revolucionárias (1820, 1830, 1848) desafiaram ordem vienense. Primavera dos Povos (1848) sacudiu Europa mas foi contida. Sistema perdurou até unificações alemã (1871) e italiana (1861-1871) alterarem equilíbrio.",
+      "descricao_en": "European reorganization (1814-1815) after Napoleonic wars led by Metternich (Austria), Talleyrand (France), Castlereagh (Britain) and Alexander I (Russia). Principles: monarchical legitimacy, balance of power, French containment. Borders redrawn: United Netherlands (Holland + Belgium), German Confederation (39 states), Lombardy-Venetia to Austria, Poland partitioned. Holy Alliance (Russia, Austria, Prussia) committed to intervention against revolutions. Congress system coordinated European politics. Bourbon Restoration in France, Spain and Naples. Liberalism and nationalism suppressed. Revolutionary waves (1820, 1830, 1848) challenged Viennese order. Springtime of Peoples (1848) shook Europe but was contained. System endured until German (1871) and Italian (1861-1871) unifications altered balance.",
+      "descricao_es": "Reorganización europea (1814-1815) tras guerras napoleónicas liderada por Metternich (Austria), Talleyrand (Francia), Castlereagh (Gran Bretaña) y Alejandro I (Rusia). Principios: legitimidad monárquica, equilibrio de poder, contención de Francia. Fronteras rediseñadas: Países Bajos unidos (Holanda + Bélgica), Confederación Germánica (39 estados), Lombardía-Venecia a Austria, Polonia dividida. Santa Alianza (Rusia, Austria, Prusia) se comprometió con intervención contra revoluciones. Sistema de congresos coordinó política europea. Restauración Borbón en Francia, España y Nápoles. Liberalismo y nacionalismo reprimidos. Olas revolucionarias (1820, 1830, 1848) desafiaron orden vienés. Primavera de Pueblos (1848) sacudió Europa pero fue contenida. Sistema perduró hasta unificaciones alemana (1871) e italiana (1861-1871) alteraron equilibrio.",
+      "inicio": 1814,
+      "fim": 1848,
+      "tags": [
+        "sec19",
+        "viena",
+        "restauracao"
+      ],
+      "importancia": "O Congresso de Viena (1814-15) é o modelo histórico mais bem-sucedido de construção de paz pós-guerra: as cinco grandes potências (Áustria, Prússia, Rússia, Grã-Bretanha, França restaurada) criaram um sistema de equilíbrio que evitou guerra europeia de grande escala por 99 anos. Metternich entendeu que a estabilidade exigia incluir a França derrotada, não humilhá-la — lição que os aliados ignoraram em Versalhes 100 anos depois, com consequências catastróficas.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Europe",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "System endured until German (1871) and Italian (1861-1871) unifications altered balance.",
+      "importancia_es": "Sistema perduró hasta unificaciones alemana (1871) e italiana (1861-1871) alteraron equilibrio."
+    },
+    {
+      "id": "sec19-004",
+      "nome": "Era Vitoriana",
+      "nome_en": "Victorian Era",
+      "nome_es": "Era Victoriana",
+      "tipo": "periodo",
+      "descricao": "Reinado da Rainha Vitória (1837-1901) marcou apogeu do Império Britânico controlando 1/4 da população mundial (~450 milhões) e território. Pax Britannica: supremacia naval (Royal Navy) garantiu comércio global e ordem. Revolução Industrial consolidada: ferrovias (40.000 km construídos), telégrafo, canais (Suez 1869), máquinas a vapor. Londres tornou-se maior cidade mundial (~6,5 milhões em 1900), centro financeiro global. Grande Exposição (1851, Palácio de Cristal) exibiu supremacia industrial. Reformas sociais: Reform Acts expandiram voto (1832, 1867, 1884), regulamentação fabril, educação primária obrigatória (1870). Valores vitorianos: moralidade estrita, trabalho, família nuclear, filantropia. Ciência: Darwin (Origem das Espécies 1859), Maxwell (eletromagnetismo). Literatura: Dickens, Brontës, Eliot. Declínio relativo: Alemanha e EUA industrializaram-se rapidamente.",
+      "descricao_en": "Queen Victoria's reign (1837-1901) marked apex of British Empire controlling 1/4 of world population (~450 million) and territory. Pax Britannica: naval supremacy (Royal Navy) guaranteed global trade and order. Consolidated Industrial Revolution: railways (40,000 km built), telegraph, canals (Suez 1869), steam engines. London became world's largest city (~6.5 million in 1900), global financial center. Great Exhibition (1851, Crystal Palace) displayed industrial supremacy. Social reforms: Reform Acts expanded vote (1832, 1867, 1884), factory regulation, compulsory primary education (1870). Victorian values: strict morality, work, nuclear family, philanthropy. Science: Darwin (Origin of Species 1859), Maxwell (electromagnetism). Literature: Dickens, Brontës, Eliot. Relative decline: Germany and USA rapidly industrialized.",
+      "descricao_es": "Reinado de Reina Victoria (1837-1901) marcó apogeo del Imperio Británico controlando 1/4 de población mundial (~450 millones) y territorio. Pax Britannica: supremacía naval (Royal Navy) garantizó comercio global y orden. Revolución Industrial consolidada: ferrocarriles (40.000 km construidos), telégrafo, canales (Suez 1869), máquinas a vapor. Londres se convirtió en mayor ciudad mundial (~6,5 millones en 1900), centro financiero global. Gran Exposición (1851, Palacio de Cristal) exhibió supremacía industrial. Reformas sociales: Reform Acts expandieron voto (1832, 1867, 1884), regulación fabril, educación primaria obligatoria (1870). Valores victorianos: moralidad estricta, trabajo, familia nuclear, filantropía. Ciencia: Darwin (Origen de Especies 1859), Maxwell (electromagnetismo). Literatura: Dickens, Brontës, Eliot. Declive relativo: Alemania y EE.UU. industrializaron rápidamente.",
+      "inicio": 1837,
+      "fim": 1901,
+      "tags": [
+        "sec19",
+        "vitoria",
+        "imperio_britanico"
+      ],
+      "importancia": "A Era Vitoriana (1837-1901) foi o apogeu e o ponto de inflexão do poder britânico: maior império da história, maior marinha do mundo, moeda de reserva global, exportadora de capital e tecnologia. Mas o domínio britânico era mais frágil do que parecia: dependia de ausência de rivais comparáveis. Quando Alemanha, EUA e Japão industrializaram-se no final do século XIX, o equilíbrio mudou irrevogavelmente. A 'Pax Britannica' foi possível porque nenhum rival tinha ainda capacidade industrial comparável — não por alguma virtude inerente britânica.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "Europe",
+      "type": "technological",
+      "period": "Modern",
+      "importancia_en": "Literature: Dickens, Brontës, Eliot. Relative decline: Germany and USA rapidly industrialized.",
+      "importancia_es": "Literatura: Dickens, Brontës, Eliot. Declive relativo: Alemania y EE.UU."
+    },
+    {
+      "id": "sec19-003",
+      "nome": "Unificação Alemã",
+      "nome_en": "German Unification",
+      "nome_es": "Unificación Alemana",
+      "tipo": "periodo",
+      "descricao": "Processo (1862-1871) que unificou 39 estados alemães sob Prússia liderada por Otto von Bismarck, chanceler de Guilherme I. Realpolitik de Bismarck ('política de sangue e ferro') usou guerras calculadas: Guerra dos Ducados vs. Dinamarca (1864) anexou Schleswig-Holstein; Guerra Austro-Prussiana (1866) excluiu Áustria da Alemanha, criou Confederação da Alemanha do Norte; Guerra Franco-Prussiana (1870-1871) unificou estados alemães contra inimigo comum. Vitória em Sedan capturou Napoleão III. Guilherme I proclamado Kaiser no Palácio de Versalhes (18 janeiro 1871) humilhando França. Tratado de Frankfurt: França cedeu Alsácia-Lorena e pagou 5 bilhões de francos. Império Alemão tornou-se maior potência continental europeia com 41 milhões habitantes, superando França. Industrialização acelerada. Alterou equilíbrio de poder estabelecido em Viena, contribuindo para tensões que levaram à Primeira Guerra.",
+      "descricao_en": "Process (1862-1871) unifying 39 German states under Prussia led by Otto von Bismarck, chancellor of Wilhelm I. Bismarck's Realpolitik ('blood and iron politics') used calculated wars: Schleswig War vs. Denmark (1864) annexed Schleswig-Holstein; Austro-Prussian War (1866) excluded Austria from Germany, created North German Confederation; Franco-Prussian War (1870-1871) unified German states against common enemy. Victory at Sedan captured Napoleon III. Wilhelm I proclaimed Kaiser at Palace of Versailles (January 18, 1871) humiliating France. Treaty of Frankfurt: France ceded Alsace-Lorraine and paid 5 billion francs. German Empire became greatest continental European power with 41 million inhabitants, surpassing France. Accelerated industrialization. Altered balance of power established at Vienna, contributing to tensions leading to World War I.",
+      "descricao_es": "Proceso (1862-1871) unificando 39 estados alemanes bajo Prusia liderada por Otto von Bismarck, canciller de Guillermo I. Realpolitik de Bismarck ('política de sangre y hierro') usó guerras calculadas: Guerra de Ducados vs. Dinamarca (1864) anexó Schleswig-Holstein; Guerra Austro-Prusiana (1866) excluyó Austria de Alemania, creó Confederación de Alemania del Norte; Guerra Franco-Prusiana (1870-1871) unificó estados alemanes contra enemigo común. Victoria en Sedán capturó Napoleón III. Guillermo I proclamado Kaiser en Palacio de Versalles (18 enero 1871) humillando Francia. Tratado de Frankfurt: Francia cedió Alsacia-Lorena y pagó 5 mil millones de francos. Imperio Alemán se convirtió en mayor potencia continental europea con 41 millones habitantes, superando Francia. Industrialización acelerada. Alteró equilibrio de poder establecido en Viena, contribuyendo a tensiones que llevaron a Primera Guerra.",
+      "inicio": 1862,
+      "fim": 1871,
+      "tags": [
+        "sec19",
+        "alemanha",
+        "bismarck"
+      ],
+      "importancia": "Bismarck unificou a Alemanha não com ideais liberais mas com 'sangue e ferro' — três guerras deliberadamente provocadas (contra Dinamarca, Áustria e França) para criar a nação alemã sob hegemonia prussiana. O Segundo Reich que emergiu em 1871 era militarmente poderoso, economicamente dinâmico e politicamente instável — uma potência que precisava de expansão para sustentar sua nova identidade. Bismarck manteve o sistema em equilíbrio com sua habilidade diplomática; quando saiu em 1890, o sistema entrou em colapso.",
+      "century_start": 19,
+      "century_end": 19,
+      "region": "Europe",
+      "type": "economic",
+      "period": "Modern",
+      "importancia_en": "Altered balance of power established at Vienna, contributing to tensions leading to World War I.",
+      "importancia_es": "Alteró equilibrio de poder establecido en Viena, contribuyendo a tensiones que llevaron a Primera Guerra."
+    },
+    {
+      "id": "sec19-002",
+      "nome": "Imperialismo do Século XIX",
+      "nome_en": "19th Century Imperialism",
+      "nome_es": "Imperialismo del Siglo XIX",
+      "tipo": "periodo",
+      "descricao": "Expansão colonial europeia (1870-1914) controlando ~84% da superfície terrestre. Motivações: matérias-primas (borracha, petróleo, minerais), mercados consumidores, investimentos lucrativos, prestígio nacional, missão civilizatória (Fardo do Homem Branco). Conferência de Berlim (1884-1885) dividiu África entre potências europeias sem consultar africanos: Reino Unido (Egito, Sudão, Nigéria, África Oriental, Sul), França (África Ocidental, Equatorial, Madagascar), Bélgica (Congo - 10 milhões mortos sob Leopoldo II), Alemanha (Tanganica, Namíbia, Camarões), Portugal (Angola, Moçambique). Ásia: Reino Unido na Índia (joia da coroa), França na Indochina, Holanda na Indonésia, Rússia expandiu Sibéria/Ásia Central. Guerras: Ópio na China (1839-1860), Sepoy na Índia (1857), Zulu (1879), Boxer (1900). Consequências: exploração econômica, fronteiras artificiais, resistência nativa.",
+      "descricao_en": "European colonial expansion (1870-1914) controlling ~84% of Earth's surface. Motivations: raw materials (rubber, oil, minerals), consumer markets, profitable investments, national prestige, civilizing mission (White Man's Burden). Berlin Conference (1884-1885) divided Africa among European powers without consulting Africans: United Kingdom (Egypt, Sudan, Nigeria, East Africa, South), France (West, Equatorial Africa, Madagascar), Belgium (Congo - 10 million deaths under Leopold II), Germany (Tanganyika, Namibia, Cameroon), Portugal (Angola, Mozambique). Asia: UK in India (crown jewel), France in Indochina, Netherlands in Indonesia, Russia expanded Siberia/Central Asia. Wars: Opium in China (1839-1860), Sepoy in India (1857), Zulu (1879), Boxer (1900). Consequences: economic exploitation, artificial borders, native resistance.",
+      "descricao_es": "Expansión colonial europea (1870-1914) controlando ~84% de superficie terrestre. Motivaciones: materias primas (caucho, petróleo, minerales), mercados consumidores, inversiones lucrativas, prestigio nacional, misión civilizatoria (Carga del Hombre Blanco). Conferencia de Berlín (1884-1885) dividió África entre potencias europeas sin consultar africanos: Reino Unido (Egipto, Sudán, Nigeria, África Oriental, Sur), Francia (África Occidental, Ecuatorial, Madagascar), Bélgica (Congo - 10 millones muertos bajo Leopoldo II), Alemania (Tanganica, Namibia, Camerún), Portugal (Angola, Mozambique). Asia: Reino Unido en India (joya de corona), Francia en Indochina, Holanda en Indonesia, Rusia expandió Siberia/Asia Central. Guerras: Opio en China (1839-1860), Sepoy en India (1857), Zulu (1879), Boxer (1900). Consecuencias: explotación económica, fronteras artificiales, resistencia nativa.",
+      "inicio": 1870,
+      "fim": 1914,
+      "tags": [
+        "sec19",
+        "imperialismo",
+        "colonialismo"
+      ],
+      "importancia": "O imperialismo do século XIX não foi apenas conquista territorial — foi um sistema ideológico completo com 'missão civilizadora', racismo científico (Social Darwinismo) e suporte intelectual de figuras como Spencer e Kipling. A Conferência de Berlim (1884-85) repartiu a África entre potências europeias com régua e compasso, ignorando completamente as realidades étnicas e políticas do continente. As fronteiras artificiais criadas ali são a principal causa de conflitos africanos pós-coloniais que perduram até hoje.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "Europe",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "Consequences: economic exploitation, artificial borders, native resistance.",
+      "importancia_es": "Consecuencias: explotación económica, fronteras artificiales, resistencia nativa."
+    },
+    {
+      "id": "sec19-005",
+      "nome": "Belle Époque",
+      "nome_en": "Belle Époque",
+      "nome_es": "Belle Époque",
+      "tipo": "periodo",
+      "descricao": "Período de prosperidade cultural e econômica (1871-1914) na Europa Ocidental, especialmente França. Paz relativa após unificação alemã e antes da Primeira Guerra. Inovações tecnológicas: automóvel (Benz 1886), cinema (Lumière 1895), telefone, eletricidade urbana, metrô (Londres 1863, Paris 1900). Exposições Universais celebraram progresso: Paris 1889 (Torre Eiffel), 1900 (Grand Palais). Art Nouveau revolucionou design (Gaudí, Mucha). Impressionismo e pós-impressionismo: Monet, Renoir, Van Gogh, Cézanne. Cabarés parisienses (Moulin Rouge 1889), Folies Bergère. Ciência: Curie (radioatividade), Planck (física quântica), Einstein (relatividade 1905). Sufragismo feminino ganhou força (Pankhurst). Tensões ocultas: corrida armamentista, alianças militares (Tríplice Entente vs. Tríplice Aliança), crises balcânicas. Otimismo ingênuo antes do cataclismo de 1914.",
+      "descricao_en": "Period of cultural and economic prosperity (1871-1914) in Western Europe, especially France. Relative peace after German unification and before World War I. Technological innovations: automobile (Benz 1886), cinema (Lumière 1895), telephone, urban electricity, subway (London 1863, Paris 1900). Universal Expositions celebrated progress: Paris 1889 (Eiffel Tower), 1900 (Grand Palais). Art Nouveau revolutionized design (Gaudí, Mucha). Impressionism and post-impressionism: Monet, Renoir, Van Gogh, Cézanne. Parisian cabarets (Moulin Rouge 1889), Folies Bergère. Science: Curie (radioactivity), Planck (quantum physics), Einstein (relativity 1905). Women's suffrage gained momentum (Pankhurst). Hidden tensions: arms race, military alliances (Triple Entente vs. Triple Alliance), Balkan crises. Naive optimism before 1914 cataclysm.",
+      "descricao_es": "Período de prosperidad cultural y económica (1871-1914) en Europa Occidental, especialmente Francia. Paz relativa tras unificación alemana y antes de Primera Guerra. Innovaciones tecnológicas: automóvil (Benz 1886), cine (Lumière 1895), teléfono, electricidad urbana, metro (Londres 1863, París 1900). Exposiciones Universales celebraron progreso: París 1889 (Torre Eiffel), 1900 (Grand Palais). Art Nouveau revolucionó diseño (Gaudí, Mucha). Impresionismo y postimpresionismo: Monet, Renoir, Van Gogh, Cézanne. Cabarets parisinos (Moulin Rouge 1889), Folies Bergère. Ciencia: Curie (radioactividad), Planck (física cuántica), Einstein (relatividad 1905). Sufragismo femenino ganó fuerza (Pankhurst). Tensiones ocultas: carrera armamentista, alianzas militares (Triple Entente vs. Triple Alianza), crisis balcánicas. Optimismo ingenuo antes de cataclismo de 1914.",
+      "inicio": 1871,
+      "fim": 1914,
+      "tags": [
+        "sec19",
+        "belle_epoque",
+        "progresso"
+      ],
+      "importancia": "A Belle Époque (1871-1914) é a armadilha da retrospectiva: pareceu uma época de paz e prosperidade apenas para quem não estava entre os subjugados pelo imperialismo europeu. Para a África, Índia e China, foi período de invasões, famines artificiais e destruição de indústrias locais. Para as classes trabalhadoras europeias, foi período de greves e agitação. O mito da Belle Époque foi construído depois da WWI por quem sentia saudade de um mundo perdido — e projetou sobre o passado uma harmonia que nunca existiu para todos.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "Europe",
+      "type": "technological",
+      "period": "Modern",
+      "importancia_en": "Triple Alliance), Balkan crises. Naive optimism before 1914 cataclysm.",
+      "importancia_es": "Triple Alianza), crisis balcánicas. Optimismo ingenuo antes de cataclismo de 1914."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "sec19-001",
+      "destino": "sec19-002",
+      "tipo": "evolucao",
+      "descricao": "Estabilidade pós-Viena permitiu expansão colonial europeia"
+    },
+    {
+      "origem": "sec19-001",
+      "destino": "sec19-003",
+      "tipo": "evolucao",
+      "descricao": "Revoluções de 1848 prepararam terreno para unificação alemã"
+    },
+    {
+      "origem": "sec19-003",
+      "destino": "sec19-005",
+      "tipo": "causalidade",
+      "descricao": "Unificação alemã inaugurou Belle Époque de paz armada"
+    },
+    {
+      "origem": "sec19-004",
+      "destino": "sec19-002",
+      "tipo": "causalidade",
+      "descricao": "Supremacia britânica permitiu expansão imperial global"
+    }
+  ]
+}

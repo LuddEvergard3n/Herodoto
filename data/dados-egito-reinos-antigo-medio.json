@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Egito: Reino Antigo, Médio e a Civilização dos Faraós",
+    "periodo": "-3100 a -1550"
+  },
+  "entidades": [
+    {
+      "id": "era-001",
+      "nome": "Unificação do Egito e as Primeiras Dinastias",
+      "nome_en": "Unification of Egypt and the First Dynasties",
+      "nome_es": "Unificación de Egipto y las Primeras Dinastías",
+      "tipo": "periodo",
+      "inicio": -3100,
+      "fim": -2686,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -31,
+      "type": "political",
+      "descricao": "O rei Narmer (c. 3100 a.C.) unificou o Alto e Baixo Egito, inaugurando o período Dinástico. As primeiras dinastias estabeleceram a capital em Mênfis, desenvolveram a escrita hieroglífica para administração e religião, e criaram as instituições fundamentais do Estado egípcio: faraó como deus-rei, sacerdócio, nomarcas. Os egípcios chamavam seu país de Kemet ('Terra Negra', pelas cheias do Nilo) em oposição ao Deshret ('Terra Vermelha', o deserto).",
+      "descricao_en": "King Narmer (c. 3100 BC) unified Upper and Lower Egypt, inaugurating the Dynastic period. The first dynasties established the capital at Memphis, developed hieroglyphic writing for administration and religion, and created the fundamental institutions of the Egyptian state: pharaoh as god-king, priesthood, nomarchs.",
+      "descricao_es": "El rey Narmer (c. 3100 a.C.) unificó el Alto y Bajo Egipto. Las primeras dinastías establecieron la capital en Menfis y desarrollaron la escritura jeroglífica.",
+      "importancia": "A unificação do Egito foi o ato fundador de um Estado que duraria 3.000 anos ininterruptos — a civilização política mais longeva da história humana. Nenhum outro Estado na história durou tanto em relativa continuidade institucional.",
+      "importancia_en": "The unification of Egypt was the founding act of a state that would last 3,000 uninterrupted years — the most long-lasting political civilization in human history.",
+      "importancia_es": "La unificación de Egipto fue el acto fundacional de un Estado que duraría 3.000 años — la civilización política más longeva de la historia humana.",
+      "tags": [
+        "Narmer",
+        "unificação",
+        "hieróglifos",
+        "Mênfis",
+        "faraó"
+      ],
+      "dataset": "data/dados-egito-reinos-antigo-medio.json"
+    },
+    {
+      "id": "era-002",
+      "nome": "Reino Antigo: As Pirâmides e o Estado Faraônico",
+      "nome_en": "Old Kingdom: The Pyramids and the Pharaonic State",
+      "nome_es": "Reino Antiguo: Las Pirámides y el Estado Faraónico",
+      "tipo": "periodo",
+      "inicio": -2686,
+      "fim": -2181,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -27,
+      "type": "cultural",
+      "descricao": "O Reino Antigo (2686–2181 a.C.) foi o período das Grandes Pirâmides. O faraó Djoser e o arquiteto Imhotep construíram a primeira pirâmide em degraus (Saqqara, 2650 a.C.). Keóps ergueu a Grande Pirâmide de Gizé (2560 a.C.) — a maior construção da história até o século XIX. A administração centralizada e a teologia real (faraó como filho de Rá) atingiram seu auge. O colapso do Reino Antigo (c. 2181 a.C.) foi causado por seca prolongada e descentralização do poder.",
+      "descricao_en": "The Old Kingdom (2686–2181 BC) was the period of the Great Pyramids. Pharaoh Djoser and architect Imhotep built the first step pyramid (Saqqara, 2650 BC). Khufu erected the Great Pyramid of Giza (2560 BC) — the largest construction in history until the 19th century. Centralized administration and royal theology (pharaoh as son of Ra) reached their apex.",
+      "descricao_es": "El Reino Antiguo fue el período de las Grandes Pirámides. Djoser e Imhotep construyeron la primera pirámide escalonada. Keops erigió la Gran Pirámide de Guiza (2560 a.C.), la mayor construcción de la historia hasta el siglo XIX.",
+      "importancia": "A Grande Pirâmide de Gizé foi a estrutura mais alta do mundo por 3.800 anos (até a Catedral de Lincoln, 1311). Imhotep — arquiteto da pirâmide de Djoser — foi o primeiro arquiteto e médico nomeado na história, e foi posteriormente deificado.",
+      "importancia_en": "The Great Pyramid of Giza was the world's tallest structure for 3,800 years (until Lincoln Cathedral, 1311). Imhotep — architect of Djoser's pyramid — was the first named architect and physician in history, later deified.",
+      "importancia_es": "La Gran Pirámide de Guiza fue la estructura más alta del mundo durante 3.800 años. Imhotep fue el primer arquitecto y médico nombrado en la historia.",
+      "tags": [
+        "pirâmides",
+        "Gizé",
+        "Imhotep",
+        "Keóps",
+        "Reino Antigo"
+      ],
+      "dataset": "data/dados-egito-reinos-antigo-medio.json"
+    },
+    {
+      "id": "era-006",
+      "nome": "Medicina e Ciência no Egito Antigo",
+      "nome_en": "Medicine and Science in Ancient Egypt",
+      "nome_es": "Medicina y Ciencia en el Antiguo Egipto",
+      "tipo": "periodo",
+      "inicio": -2650,
+      "fim": -300,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -27,
+      "type": "intellectual",
+      "descricao": "O Egito antigo desenvolveu medicina científica notavelmente avançada. O Papiro Ebers (c. 1550 a.C.) é o mais completo tratado médico da Antiguidade — descreve 700 remédios e doenças. O Papiro Edwin Smith (c. 1600 a.C.) descreve 48 casos cirúrgicos com abordagem empírica, sem referências mágicas. Os egípcios conheciam o papel do coração no sistema circulatório, praticavam cirurgia de catarata, tratavam fraturas e realizavam amputações. Imhotep foi o primeiro médico nomeado da história.",
+      "descricao_en": "Ancient Egypt developed remarkably advanced scientific medicine. The Ebers Papyrus (c. 1550 BC) is the most complete medical treatise of Antiquity — describing 700 remedies and diseases. The Edwin Smith Papyrus (c. 1600 BC) describes 48 surgical cases with empirical approach, without magical references. The Egyptians knew the heart's role in the circulatory system and practiced cataract surgery.",
+      "descricao_es": "El Antiguo Egipto desarrolló medicina científica avanzada. El Papiro Ebers describe 700 remedios. El Papiro Edwin Smith describe 48 casos quirúrgicos con enfoque empírico. Imhotep fue el primer médico nombrado de la historia.",
+      "importancia": "O Papiro Edwin Smith (c. 1600 a.C.) é o primeiro texto médico do mundo a usar uma abordagem puramente empírica — sem magia ou rezas. É o precursor do método científico em medicina, anterior a Hipócrates por mais de 1.000 anos.",
+      "importancia_en": "The Edwin Smith Papyrus (c. 1600 BC) is the world's first medical text to use a purely empirical approach — without magic or prayers. It is the precursor of the scientific method in medicine, predating Hippocrates by more than 1,000 years.",
+      "importancia_es": "El Papiro Edwin Smith es el primer texto médico del mundo con enfoque puramente empírico, anterior a Hipócrates en más de 1.000 años.",
+      "tags": [
+        "medicina",
+        "Papiro Ebers",
+        "Edwin Smith",
+        "Imhotep",
+        "cirurgia"
+      ],
+      "dataset": "data/dados-egito-reinos-antigo-medio.json"
+    },
+    {
+      "id": "era-003",
+      "nome": "Primeiro Período Intermediário e Reunificação",
+      "nome_en": "First Intermediate Period and Reunification",
+      "nome_es": "Primer Período Intermedio y Reunificación",
+      "tipo": "periodo",
+      "inicio": -2181,
+      "fim": -2055,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -22,
+      "type": "political",
+      "descricao": "O Primeiro Período Intermediário (2181–2055 a.C.) foi uma época de descentralização, secas (provável colapso climático do Evento de 4,2 ka) e fragmentação política. A literatura da época — os 'Textos das Pirâmides' e os 'Textos dos Sarcófagos' — democratizou o acesso à vida após a morte, antes reservado ao faraó. Mentuhotepe II (c. 2055 a.C.) reunificou o Egito e inaugurou o Reino Médio a partir de Tebas.",
+      "descricao_en": "The First Intermediate Period (2181–2055 BC) was an era of decentralization, droughts (probable 4.2 ka climatic event) and political fragmentation. The era's literature — the 'Pyramid Texts' and 'Coffin Texts' — democratized access to afterlife, previously reserved for the pharaoh. Mentuhotep II (c. 2055 BC) reunified Egypt and inaugurated the Middle Kingdom from Thebes.",
+      "descricao_es": "El Primer Período Intermedio fue una época de sequías y fragmentación política. La literatura democratizó el acceso a la vida después de la muerte. Mentuhotep II reunificó Egipto inaugurando el Reino Medio.",
+      "importancia": "A 'democratização' da vida após a morte no Período Intermediário foi uma revolução religiosa: os 'Textos dos Sarcófagos' permitiam que qualquer egípcio rico (não só o faraó) tivesse acesso aos rituais funerários. É a origem do posterior Livro dos Mortos.",
+      "importancia_en": "The 'democratization' of the afterlife in the Intermediate Period was a religious revolution: the 'Coffin Texts' allowed any wealthy Egyptian (not just the pharaoh) to access funerary rituals. It is the origin of the later Book of the Dead.",
+      "importancia_es": "La 'democratización' de la vida después de la muerte fue una revolución religiosa. Los 'Textos de los Ataúdes' son el origen del posterior Libro de los Muertos.",
+      "tags": [
+        "Período Intermediário",
+        "Tebas",
+        "Mentuhotepe",
+        "Textos dos Sarcófagos",
+        "reunificação"
+      ],
+      "dataset": "data/dados-egito-reinos-antigo-medio.json"
+    },
+    {
+      "id": "era-004",
+      "nome": "Reino Médio: Arte, Literatura e Expansão",
+      "nome_en": "Middle Kingdom: Art, Literature and Expansion",
+      "nome_es": "Reino Medio: Arte, Literatura y Expansión",
+      "tipo": "periodo",
+      "inicio": -2055,
+      "fim": -1650,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -21,
+      "type": "cultural",
+      "descricao": "O Reino Médio (2055–1650 a.C.) é considerado o 'período clássico' da cultura egípcia. A literatura floresceu — 'A História de Sinuhe', 'As Instruções de Amenemhat I', e textos filosóficos como 'A Disputa de um Homem com sua Alma'. O faraó Senusret III expandiu o Egito para a Núbia e a Palestina. O comércio com o Mediterrâneo e a Rota do Incenso foi intensificado. O Canal do Mar Vermelho foi escavado pela primeira vez.",
+      "descricao_en": "The Middle Kingdom (2055–1650 BC) is considered the 'classical period' of Egyptian culture. Literature flourished — 'The Story of Sinuhe', 'The Instructions of Amenemhat I', and philosophical texts. Pharaoh Senusret III expanded Egypt into Nubia and Palestine. Trade with the Mediterranean was intensified. The Red Sea canal was first excavated.",
+      "descricao_es": "El Reino Medio es considerado el 'período clásico' de la cultura egipcia. La literatura floreció y el comercio mediterráneo se intensificó. Se excavó por primera vez el Canal del Mar Rojo.",
+      "importancia": "A 'História de Sinuhe' é um dos primeiros textos literários do mundo a explorar temas de identidade pessoal, exílio e pertencimento — questões que a literatura moderna ainda explora. É o precursor dos 'romances de viagem' da literatura ocidental.",
+      "importancia_en": "The 'Story of Sinuhe' is one of the first literary texts in the world to explore themes of personal identity, exile and belonging. It is the precursor of 'travel narratives' in Western literature.",
+      "importancia_es": "La 'Historia de Sinuhé' es uno de los primeros textos literarios que explora temas de identidad personal y exilio.",
+      "tags": [
+        "Reino Médio",
+        "Sinuhe",
+        "Senusret",
+        "literatura",
+        "Núbia"
+      ],
+      "dataset": "data/dados-egito-reinos-antigo-medio.json"
+    },
+    {
+      "id": "era-005",
+      "nome": "Hicsos e o Segundo Período Intermediário",
+      "nome_en": "Hyksos and the Second Intermediate Period",
+      "nome_es": "Hicsos y el Segundo Período Intermedio",
+      "tipo": "periodo",
+      "inicio": -1650,
+      "fim": -1550,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -17,
+      "type": "war",
+      "descricao": "Os Hicsos ('governantes de terras estrangeiras') — povos semitas da Ásia — conquistaram o Delta do Nilo e governaram o Baixo Egito (c. 1650–1550 a.C.). Introduziram o carro de guerra, o cavalo, arcos compostos e novos tipos de espada, transformando a tecnologia militar egípcia. O faraó Ahmose I expulsou os Hicsos (c. 1550 a.C.), reunificou o Egito e fundou o Novo Império — incorporando as tecnologias bélicas dos invasores.",
+      "descricao_en": "The Hyksos ('rulers of foreign lands') — Semitic peoples from Asia — conquered the Nile Delta and ruled Lower Egypt (c. 1650–1550 BC). They introduced the war chariot, the horse, composite bows and new sword types, transforming Egyptian military technology. Pharaoh Ahmose I expelled the Hyksos (c. 1550 BC), reunified Egypt and founded the New Kingdom — incorporating the invaders' warfare technologies.",
+      "descricao_es": "Los Hicsos conquistaron el Delta del Nilo e introdujeron el carro de guerra, el caballo y los arcos compuestos. El faraón Ahmose I los expulsó, reunificó Egipto y fundó el Nuevo Imperio.",
+      "importancia": "A conquista dos Hicsos foi o maior trauma da história egípcia até então — e o maior catalisador de transformação militar. O Novo Império que emergiu após a expulsão foi radicalmente diferente do anterior: militarizado, expansionista e equipado com tecnologia de guerra asiática.",
+      "importancia_en": "The Hyksos conquest was the greatest trauma in Egyptian history until then — and the greatest catalyst for military transformation. The New Kingdom that emerged after expulsion was radically different: militarized, expansionist and equipped with Asian warfare technology.",
+      "importancia_es": "La conquista de los Hicsos fue el mayor catalizador de transformación militar en Egipto. El Nuevo Imperio que emergió fue radicalmente más militarizado y expansionista.",
+      "tags": [
+        "Hicsos",
+        "carro de guerra",
+        "cavalo",
+        "Ahmose",
+        "Novo Império"
+      ],
+      "dataset": "data/dados-egito-reinos-antigo-medio.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "era-001",
+      "destino": "era-002",
+      "tipo": "evolucao",
+      "intensidade": 0.9,
+      "descricao": "Unificação cria o Estado que ergue as pirâmides"
+    },
+    {
+      "origem": "era-002",
+      "destino": "era-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Crise climática e descentralização derrubam o Reino Antigo"
+    },
+    {
+      "origem": "era-003",
+      "destino": "era-004",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Reunificação de Mentuhotepe inaugura o florescimento do Reino Médio"
+    },
+    {
+      "origem": "era-004",
+      "destino": "era-005",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Fraqueza do Reino Médio tardio permite a conquista dos Hicsos"
+    },
+    {
+      "origem": "era-002",
+      "destino": "era-006",
+      "tipo": "paralelo",
+      "intensidade": 0.6,
+      "descricao": "Ciência médica e arquitetura florescem em paralelo"
+    }
+  ]
+}

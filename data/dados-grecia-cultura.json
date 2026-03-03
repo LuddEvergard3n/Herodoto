@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "fonte": "Historiografia Internacional",
+    "lingua": "pt",
+    "tema": "Arte, Ciência e Literatura da Grécia Clássica",
+    "periodo": "800–30 a.C."
+  },
+  "entidades": [
+    {
+      "id": "gc-001",
+      "nome": "Homero e os Poemas Épicos Fundadores",
+      "nome_en": "Homer and the Founding Epic Poems",
+      "nome_es": "Homero y los Poemas Épicos Fundadores",
+      "tipo": "periodo",
+      "inicio": -800,
+      "fim": -700,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": -9,
+      "century_end": -8,
+      "type": "cultural",
+      "descricao": "Homero (c. séc. VIII a.C.) é o autor atribuído da Ilíada e da Odisseia, os dois poemas épicos fundadores da literatura ocidental. A Ilíada narra a Guerra de Troia e a cólera de Aquiles; a Odisseia, o retorno de Odisseu. Estes poemas foram transmitidos oralmente por séculos antes de serem transcritos (c. 550 a.C.). A questão homérica — se Homero existiu, ou eram múltiplos autores — permanece em aberto.",
+      "descricao_en": "Homer (c. 8th century BC) is the attributed author of the Iliad and Odyssey, the two founding epic poems of Western literature. The Iliad narrates the Trojan War and Achilles' wrath; the Odyssey, Odysseus' return. These poems were transmitted orally for centuries before being transcribed (c. 550 BC).",
+      "descricao_es": "Homero es el autor atribuido de la Ilíada y la Odisea, los dos poemas épicos fundadores de la literatura occidental.",
+      "importancia": "A Ilíada e a Odisseia são os textos literários mais influentes da história ocidental. Toda a épica posterior — Eneida de Virgílio, Divina Comédia de Dante, Paraíso Perdido de Milton — dialoga com Homero.",
+      "importancia_en": "The Iliad and Odyssey are the most influential literary texts in Western history. All subsequent epic — Virgil's Aeneid, Dante's Divine Comedy, Milton's Paradise Lost — dialogues with Homer.",
+      "importancia_es": "La Ilíada y la Odisea son los textos literarios más influyentes de la historia occidental.",
+      "tags": [
+        "Homero",
+        "Ilíada",
+        "Odisseia",
+        "Troia",
+        "Aquiles",
+        "épica",
+        "literatura"
+      ],
+      "dataset": "data/dados-grecia-cultura.json"
+    },
+    {
+      "id": "gc-002",
+      "nome": "Teatro Grego: Tragédia, Comédia e os Grandes Dramaturgos",
+      "nome_en": "Greek Theater: Tragedy, Comedy and Great Playwrights",
+      "nome_es": "Teatro Griego: Tragedia, Comedia y Grandes Dramaturgos",
+      "tipo": "periodo",
+      "inicio": -525,
+      "fim": -385,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": -6,
+      "century_end": -4,
+      "type": "cultural",
+      "descricao": "O teatro grego nasceu dos rituais dionisíacos. Ésquilo (525–456 a.C.) inventou o segundo ator e escreveu a Oréstia. Sófocles (496–406 a.C.) adicionou o terceiro ator e escreveu Édipo Rei (o modelo perfeito de tragédia para Aristóteles). Eurípides (480–406 a.C.) humanizou os heróis. Aristófanes (446–386 a.C.) criou a comédia política. Os festivais dramáticos eram eventos cívicos e religiosos — toda a polis assistia.",
+      "descricao_en": "Greek theater was born from Dionysian rituals. Aeschylus (525–456 BC) invented the second actor and wrote the Oresteia. Sophocles (496–406 BC) added the third actor and wrote Oedipus Rex. Euripides (480–406 BC) humanized heroes. Aristophanes (446–386 BC) created political comedy. Dramatic festivals were civic and religious events.",
+      "descricao_es": "El teatro griego nació de los rituales dionisíacos. Esquilo inventó el segundo actor. Sófocles escribió Edipo Rey. Aristófanes creó la comedia política.",
+      "importancia": "O teatro grego inventou a dramaturgia ocidental. Édipo Rei de Sófocles é o modelo da tragédia — Sigmund Freud o usou para nomear o 'complexo de Édipo'. A estrutura dramática grega (ato, cena, clímax) ainda domina o cinema e o teatro modernos.",
+      "importancia_en": "Greek theater invented Western dramaturgy. Sophocles' Oedipus Rex is the model of tragedy — Sigmund Freud used it to name the 'Oedipus complex'. Greek dramatic structure still dominates modern cinema and theater.",
+      "importancia_es": "El teatro griego inventó la dramaturgia occidental.",
+      "tags": [
+        "Ésquilo",
+        "Sófocles",
+        "Eurípides",
+        "Aristófanes",
+        "tragédia",
+        "comédia",
+        "Dioniso"
+      ],
+      "dataset": "data/dados-grecia-cultura.json"
+    },
+    {
+      "id": "gc-003",
+      "nome": "Arquitetura Grega: Partenon e as Ordens",
+      "nome_en": "Greek Architecture: The Parthenon and the Orders",
+      "nome_es": "Arquitectura Griega: El Partenón y los Órdenes",
+      "tipo": "periodo",
+      "inicio": -480,
+      "fim": -30,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": -5,
+      "century_end": -1,
+      "type": "cultural",
+      "descricao": "A arquitetura grega clássica desenvolveu três ordens: dórica (colunas simples, Partenon), jônica (colunas com volutas, Erechteion) e coríntia (colunas com folhas de acanto). O Partenon (447–432 a.C.), desenhado por Ictino e Calícrates sob Péricles, é o pináculo do classicismo grego. Usa o 'entasis' (leve curvatura das colunas) para criar ilusão de retas perfeitas.",
+      "descricao_en": "Classical Greek architecture developed three orders: Doric (simple columns, Parthenon), Ionic (columns with volutes, Erechtheion) and Corinthian (columns with acanthus leaves). The Parthenon (447–432 BC), designed by Ictinus and Callicrates under Pericles, is the pinnacle of Greek classicism. It uses 'entasis' (slight column curvature) to create the illusion of perfect lines.",
+      "descricao_es": "La arquitectura griega desarrolló tres órdenes: dórico, jónico y corintio. El Partenón es el pináculo del clasicismo griego.",
+      "importancia": "A arquitetura greco-romana moldou toda a arquitetura ocidental posterior — da Renascença até os edifícios neoclássicos do século XIX e os capitólios americanos. As três ordens gregas ainda são ensinadas em todas as escolas de arquitetura.",
+      "importancia_en": "Greco-Roman architecture shaped all subsequent Western architecture — from the Renaissance to 19th-century neoclassical buildings and American capitols.",
+      "importancia_es": "La arquitectura greco-romana moldeó toda la arquitectura occidental posterior.",
+      "tags": [
+        "Partenon",
+        "arquitetura",
+        "dórica",
+        "jônica",
+        "coríntia",
+        "Atenas",
+        "Acrópole"
+      ],
+      "dataset": "data/dados-grecia-cultura.json"
+    },
+    {
+      "id": "gc-004",
+      "nome": "Matemática e Astronomia Gregas",
+      "nome_en": "Greek Mathematics and Astronomy",
+      "nome_es": "Matemáticas y Astronomía Griegas",
+      "tipo": "periodo",
+      "inicio": -580,
+      "fim": -100,
+      "region": "Multiple",
+      "period": "Ancient",
+      "century_start": -6,
+      "century_end": -1,
+      "type": "technological",
+      "descricao": "Os gregos transformaram a matemática de ferramenta prática em ciência teórica. Euclides (c. 300 a.C.) sistematizou a geometria nos 13 livros dos 'Elementos' — o texto mais influente da história da matemática. Arquimedes (287–212 a.C.) calculou π, desenvolveu a estática, hidrodinâmica e antecipou o cálculo integral. Eratóstenes (c. 276–194 a.C.) calculou a circunferência da Terra com menos de 2% de erro. Aristarco de Samos propôs o heliocentrismo ~1.800 anos antes de Copérnico.",
+      "descricao_en": "The Greeks transformed mathematics from a practical tool into a theoretical science. Euclid (c. 300 BC) systematized geometry in 13 books of 'Elements' — the most influential text in the history of mathematics. Archimedes (287–212 BC) calculated π, developed statics, hydrodynamics and anticipated integral calculus. Eratosthenes (c. 276–194 BC) calculated Earth's circumference with less than 2% error. Aristarchus of Samos proposed heliocentrism ~1,800 years before Copernicus.",
+      "descricao_es": "Los griegos transformaron la matemática en ciencia teórica. Euclides sistematizó la geometría. Arquímedes calculó π. Eratóstenes calculó la circunferencia de la Tierra. Aristarco propuso el heliocentrismo.",
+      "importancia": "Os Elementos de Euclides foram o segundo livro mais impresso da história (após a Bíblia) e foram usados como texto-base de matemática até o século XX. A circunferência da Terra calculada por Eratóstenes prova que a esfericidade da Terra era conhecida na Antiguidade — 1.700 anos antes de Colombo.",
+      "importancia_en": "Euclid's Elements was the second most printed book in history (after the Bible) and was used as a mathematics textbook until the 20th century. Eratosthenes' Earth circumference proves Earth's sphericity was known in Antiquity.",
+      "importancia_es": "Los Elementos de Euclides fue el segundo libro más impreso de la historia. La esfericidad de la Tierra era conocida en la Antigüedad.",
+      "tags": [
+        "Euclides",
+        "Arquimedes",
+        "Eratóstenes",
+        "Aristarco",
+        "matemática",
+        "π",
+        "astronomia"
+      ],
+      "dataset": "data/dados-grecia-cultura.json"
+    },
+    {
+      "id": "gc-005",
+      "nome": "Medicina Hipocrática e a Ciência Natural",
+      "nome_en": "Hippocratic Medicine and Natural Science",
+      "nome_es": "Medicina Hipocrática y la Ciencia Natural",
+      "tipo": "periodo",
+      "inicio": -460,
+      "fim": -300,
+      "region": "Multiple",
+      "period": "Ancient",
+      "century_start": -5,
+      "century_end": -4,
+      "type": "technological",
+      "descricao": "Hipócrates de Cós (c. 460–370 a.C.) fundou a medicina racional, separando-a da religião e da magia. O Corpus Hippocraticum (60+ textos) estabeleceu a observação clínica, o prognóstico, a dieta e a ética médica (Juramento de Hipócrates). Galeno de Pérgamo (129–216 d.C.) sistematizou a medicina grega e dominou a medicina ocidental até o século XVI. A frase 'primeiro, não causar dano' (primum non nocere) deriva desta tradição.",
+      "descricao_en": "Hippocrates of Cos (c. 460–370 BC) founded rational medicine, separating it from religion and magic. The Corpus Hippocraticum (60+ texts) established clinical observation, prognosis, diet and medical ethics (Hippocratic Oath). Galen of Pergamon (129–216 AD) systematized Greek medicine and dominated Western medicine until the 16th century.",
+      "descricao_es": "Hipócrates fundó la medicina racional. El Corpus Hippocraticum estableció la observación clínica y la ética médica (Juramento Hipocrático).",
+      "importancia": "O Juramento de Hipócrates é ainda a base da ética médica moderna. A medicina hipocrática — observação, diagnóstico, prognóstico — foi o método médico dominante por 2.000 anos. A separação entre medicina e religião foi uma das revoluções intelectuais mais importantes da Antiguidade.",
+      "importancia_en": "The Hippocratic Oath is still the basis of modern medical ethics. The separation of medicine from religion was one of the most important intellectual revolutions of Antiquity.",
+      "importancia_es": "El Juramento Hipocrático sigue siendo la base de la ética médica moderna.",
+      "tags": [
+        "Hipócrates",
+        "medicina",
+        "Juramento",
+        "Galeno",
+        "diagnóstico",
+        "ciência",
+        "ética médica"
+      ],
+      "dataset": "data/dados-grecia-cultura.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "gc-001",
+      "destino": "gc-002",
+      "tipo": "evolucao",
+      "intensidade": 0.7,
+      "descricao": "Homero alimenta o teatro trágico"
+    },
+    {
+      "origem": "gc-003",
+      "destino": "gc-002",
+      "tipo": "paralelo",
+      "intensidade": 0.5,
+      "descricao": "Arte dramática e arquitetônica florescem conjuntamente"
+    },
+    {
+      "origem": "gc-004",
+      "destino": "gc-005",
+      "tipo": "paralelo",
+      "intensidade": 0.7,
+      "descricao": "Matemática e medicina se desenvolvem como ciências autônomas"
+    }
+  ]
+}

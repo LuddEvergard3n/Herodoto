@@ -1,0 +1,171 @@
+{
+  "entidades": [
+    {
+      "id": "imp-002",
+      "nome": "Imperialismo Britânico: O Império em que o Sol Não Se Punha",
+      "nome_en": "British Imperialism: The Empire on Which the Sun Never Set",
+      "nome_es": "Imperialismo Británico: El Imperio en que el Sol Nunca Se Ponía",
+      "tipo": "periodo",
+      "descricao": "Império Britânico (sécs. XVII-XX): no pico (1922), 35,5 milhões km² — 25% do mundo, 458 milhões de pessoas — 20% da humanidade. 'O Império em que o Sol nunca se põe': Canadá, Austrália, Índia, Paquistão, África do Sul, Nigéria, Egito, Hong Kong, etc. Conceito de 'missão civilizadora' (civilizing mission). Free trade imperialism: comércio forçado em termos britânicos. Cepalinos coloniais e drenagem de riqueza. Ferrovias indianas, administração colonial. Língua inglesa como legado global.",
+      "descricao_en": "British Empire (17th-20th c.): at peak (1922), 35.5 million km² — 25% of the world, 458 million people — 20% of humanity. 'The Empire on which the Sun never sets': Canada, Australia, India, Pakistan, South Africa, Nigeria, Egypt, Hong Kong, etc. Concept of 'civilizing mission'. Free trade imperialism: trade forced on British terms. Colonial drain of wealth. Indian railways, colonial administration. English language as global legacy.",
+      "descricao_es": "Imperio Británico: en su apogeo (1922), 35,5 millones km² — 25% del mundo. 'El Imperio en el que el sol nunca se pone'. 'Misión civilizadora'. Libre comercio imperialista. El inglés como legado global.",
+      "inicio": 1815,
+      "fim": 1947,
+      "tags": [
+        "imperio-britanico",
+        "colonialismo",
+        "india",
+        "missao-civilizadora"
+      ],
+      "importancia": "Maior império da história. O inglês como língua global e inúmeras instituições políticas são seu legado. O mesmo império causou famines que mataram dezenas de milhões (Bengala 1770, Irlanda 1845, Índia 1876–79), exploração sistemática de recursos, e desindustrialização forçada de economias como a indiana. Ambos os legados pertencem à história do Império.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Indian railways, colonial administration. English language as global legacy.",
+      "importancia_es": "Imperio Británico: en su apogeo (1922), 35,5 millones km² — 25% del mundo. 'El Imperio en el que el sol nunca se pone'."
+    },
+    {
+      "id": "imp-004",
+      "nome": "Imperialismo Americano e a Doutrina Monroe",
+      "nome_en": "American Imperialism and the Monroe Doctrine",
+      "nome_es": "Imperialismo Americano y la Doctrina Monroe",
+      "tipo": "periodo",
+      "descricao": "Doutrina Monroe (1823): 'América para os americanos' — Europa não intervenha no Hemisfério Ocidental. Guerra Hispano-Americana (1898): EUA venceram a Espanha, tomaram Cuba (protetorado), Porto Rico, Filipinas, Guam. Theodore Roosevelt: 'Grande Porrete' (Big Stick) — intervenção militar na América Latina quando necessário. Panama Canal (1914): EUA financiaram a independência do Panamá para construir o canal. Imperialismo 'diferente': sem colônias formais, mas dominação econômica e militar.",
+      "descricao_en": "Monroe Doctrine (1823): 'America for Americans' — Europe should not intervene in the Western Hemisphere. Spanish-American War (1898): US defeated Spain, took Cuba (protectorate), Puerto Rico, Philippines, Guam. Theodore Roosevelt: 'Big Stick' — military intervention in Latin America when necessary. Panama Canal (1914): US financed Panamanian independence to build the canal. 'Different' imperialism: no formal colonies, but economic and military domination.",
+      "descricao_es": "Doctrina Monroe (1823). Guerra Hispano-Estadounidense (1898): EE.UU. tomó Cuba, Puerto Rico, Filipinas. Theodore Roosevelt: 'Gran Garrote'. Canal de Panamá (1914). Imperialismo 'diferente': sin colonias formales, pero dominación económica y militar.",
+      "inicio": 1823,
+      "fim": 1914,
+      "tags": [
+        "eua",
+        "monroe",
+        "imperialismo",
+        "caribe"
+      ],
+      "importancia": "A Doutrina Monroe (1823) e o imperialismo americano demonstraram que a retórica anticolonial pode coexistir perfeitamente com práticas imperiais. Os EUA intervieram militarmente na América Latina mais de 50 vezes entre 1898 e 1994. Theodore Roosevelt adicionou o 'corolário Roosevelt' (1904): os EUA têm o direito de intervir em qualquer nação latina que não gerencie seus assuntos de forma 'civilizada'. A diferença entre o imperialismo europeu e o americano era de método — não de resultado para os países subjugados.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "Americas",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "'Different' imperialism: no formal colonies, but economic and military domination.",
+      "importancia_es": "Imperialismo 'diferente': sin colonias formales, pero dominación económica y militar."
+    },
+    {
+      "id": "imp-005",
+      "nome": "Resistências Anticoloniais Pré-WWI",
+      "nome_en": "Anti-Colonial Resistances Pre-WWI",
+      "nome_es": "Resistencias Anticoloniales Pre-WWI",
+      "tipo": "periodo",
+      "descricao": "Resistências em todo o Mundo Colonial: Revolta dos Taiping (China, 1850-64) — 20-30 milhões de mortos, maior guerra civil da história. Revolta dos Cipaios (Índia, 1857). Revolução Mexicana (1910). Etiópia derrotou Itália em Adowa (1896). Revoltas Maji Maji (Tanzânia, 1905-07), Herero e Nama (Namíbia, 1904-08 — genocídio alemão). Filipinas resistiu aos EUA (1899-1902). Xhosa, Zulu (África do Sul). Movimentos precursores do nationalismo asiático e africano do século XX.",
+      "descricao_en": "Resistances throughout the Colonial World: Taiping Revolt (China, 1850-64) — 20-30 million dead, largest civil war in history. Sepoy Mutiny (India, 1857). Mexican Revolution (1910). Ethiopia defeated Italy at Adowa (1896). Maji Maji revolts (Tanzania, 1905-07), Herero and Nama (Namibia, 1904-08 — German genocide). Philippines resisted the US (1899-1902). Xhosa, Zulu (South Africa). Precursor movements of 20th-century Asian and African nationalism.",
+      "descricao_es": "Resistencias en todo el mundo colonial: Rebelión Taiping (China, 1850-64) — 20-30 millones de muertos. Motín de los Cipayos (India, 1857). Etiopía derrotó a Italia en Adua (1896). Genocidio herero y nama (Namibia, 1904-08). Precursores del nacionalismo asiático y africano.",
+      "inicio": 1850,
+      "fim": 1914,
+      "tags": [
+        "resistencia-anticolonial",
+        "taiping",
+        "adowa",
+        "genocidio"
+      ],
+      "importancia": "As resistências anticoloniais pré-WWI (Zulu vs. Grã-Bretanha, Etiópia vs. Itália em Adwa 1896, Boxer na China, Abd el-Krim no Marrocos) revelaram que a dominação colonial nunca foi aceita passivamente. A derrota italiana em Adwa foi a única derrota militar de uma potência europeia por um exército africano no auge do imperialismo — e tornou a Etiópia símbolo da resistência pan-africana. A memória dessas resistências foi o combustível moral dos movimentos de independência do século XX.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Modern",
+      "importancia_en": "Precursor movements of 20th-century Asian and African nationalism.",
+      "importancia_es": "Genocidio herero y nama (Namibia, 1904-08). Precursores del nacionalismo asiático y africano."
+    },
+    {
+      "id": "imp-003",
+      "nome": "Imperialismo nos Trópicos: Cultura e Racismo",
+      "nome_en": "Imperialism in the Tropics: Culture and Racism",
+      "nome_es": "Imperialismo en los Trópicos: Cultura y Racismo",
+      "tipo": "conceito",
+      "descricao": "'Fardo do Homem Branco' (Kipling, 1899): missão civilizadora como justificativa colonial. Darwinismo social: raças 'inferiores' deveriam ser tuteladas. Craniotometria, poligenismo, frenologia — pseudociências racistas legitimando imperialismo. Museus etnográficos: artefatos roubados de África e Ásia. Racismo científico → base do Holocausto. Joseph Conrad, Coração das Trevas (1899): crítica literária ao imperialismo belga no Congo. Resistência: revoltas anticoloniais em toda a África e Ásia.",
+      "descricao_en": "'White Man's Burden' (Kipling, 1899): civilizing mission as colonial justification. Social Darwinism: 'inferior' races should be tutored. Craniometry, polygenism, phrenology — racist pseudosciences legitimizing imperialism. Ethnographic museums: artifacts stolen from Africa and Asia. Scientific racism → basis of the Holocaust. Joseph Conrad, Heart of Darkness (1899): literary critique of Belgian imperialism in the Congo. Resistance: anti-colonial revolts throughout Africa and Asia.",
+      "descricao_es": "'Carga del Hombre Blanco' (Kipling, 1899). Darwinismo social: razas 'inferiores'. Craneometría, poligenismo — pseudociencias racistas. Museos etnográficos: artefactos robados. Racismo científico → base del Holocausto. Conrad, El corazón de las tinieblas (1899).",
+      "inicio": 1880,
+      "fim": 1914,
+      "tags": [
+        "racismo-cientifico",
+        "kipling",
+        "darwinismo-social",
+        "colonialismo"
+      ],
+      "importancia": "O imperialismo colonial não se sustentava apenas pela força — exigia uma ideologia que o tornasse moralmente aceitável: o 'fardo do homem branco' de Kipling, o Social Darwinismo de Spencer, a 'missão civilizadora' francesa. Essa ideologia não era cosmética — moldou genuinamente como colonizadores se viam. Isso torna o imperialismo mais perturbador que a conquista simples: foi um sistema global legitimado por ciência, filosofia e literatura da maior civilização da época. O racismo científico não foi aberração — foi mainstream intelectual por 100 anos.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "Multiple",
+      "type": "cultural",
+      "period": "Modern",
+      "importancia_en": "Resistance: anti-colonial revolts throughout Africa and Asia.",
+      "importancia_es": "Racismo científico → base del Holocausto. Conrad, El corazón de las tinieblas (1899)."
+    },
+    {
+      "id": "imp-001",
+      "nome": "A Corrida por África (Conferência de Berlim)",
+      "nome_en": "The Scramble for Africa (Berlin Conference)",
+      "nome_es": "La Carrera por África (Conferencia de Berlín)",
+      "tipo": "evento",
+      "descricao": "1884-1885: Conferência de Berlim — potências europeias dividiram a África sem consultar africanos. Em 1870: ~10% da África colonizado; em 1914: ~90%. 'Corrida por África': Grã-Bretanha, França, Alemanha, Bélgica, Portugal, Espanha, Itália competiram. Congo Belga de Leopoldo II: 10 milhões de mortos pelo sistema de borracha forçada — um dos primeiros genocídios coloniais documentados. Somente Etiópia (Adowa, 1896 — derrotou a Itália) e Libéria permaneceram independentes. O mapa político da África foi desenhado por europeus: 50+ fronteiras sem sentido étnico.",
+      "descricao_en": "1884-1885: Berlin Conference — European powers divided Africa without consulting Africans. In 1870: ~10% of Africa colonized; in 1914: ~90%. 'Scramble for Africa': Britain, France, Germany, Belgium, Portugal, Spain, Italy competed. Belgian Congo of Leopold II: 10 million dead from forced rubber system — one of the first documented colonial genocides. Only Ethiopia (Adowa, 1896 — defeated Italy) and Liberia remained independent. Africa's political map was drawn by Europeans: 50+ borders without ethnic sense.",
+      "descricao_es": "1884-1885: Conferencia de Berlín. En 1870: ~10% de África colonizada; en 1914: ~90%. Congo Belga de Leopoldo II: 10 millones de muertos. Solo Etiopía (Adua, 1896) y Liberia permanecieron independientes. El mapa político de África fue dibujado por europeos.",
+      "inicio": 1884,
+      "fim": 1914,
+      "tags": [
+        "africa",
+        "berlim",
+        "colonialismo",
+        "leopoldo-ii"
+      ],
+      "importancia": "A Conferência de Berlim (1884-85) partilhou a África entre 14 potências europeias sem que um único africano fosse consultado. As fronteiras traçadas com régua e compasso — ignorando etnias, línguas, reinos e rotas comerciais existentes — são a principal causa estrutural dos conflitos africanos pós-coloniais. A partilha não foi apenas territorial: foi a afirmação jurídica de que africanos não eram sujeitos políticos legítimos — eram objetos de administração colonial. Essa negação de agência política moldou a África pós-colonial de formas que 60 anos de independência ainda não reverteram.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "Africa",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Africa's political map was drawn by Europeans: 50+ borders without ethnic sense.",
+      "importancia_es": "Solo Etiopía (Adua, 1896) y Liberia permanecieron independientes. El mapa político de África fue dibujado por europeos."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "imp-001",
+      "destino": "imp-002",
+      "tipo": "contemporaneo",
+      "intensidade": 0.9,
+      "descricao": "A Conferência de Berlim foi dominada pelo Império Britânico"
+    },
+    {
+      "origem": "imp-002",
+      "destino": "imp-003",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "A 'missão civilizadora' britânica foi a principal ideologia justificadora do imperialismo"
+    },
+    {
+      "origem": "imp-003",
+      "destino": "imp-005",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O racismo e a exploração colonial geraram as resistências anticoloniais"
+    },
+    {
+      "origem": "imp-004",
+      "destino": "imp-002",
+      "tipo": "contemporaneo",
+      "intensidade": 0.7,
+      "descricao": "O imperialismo americano e britânico coexistiram e às vezes conflitaram"
+    },
+    {
+      "origem": "imp-001",
+      "destino": "imp-005",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "A partilha colonial gerou as revoltas africanas anticoloniais"
+    }
+  ]
+}

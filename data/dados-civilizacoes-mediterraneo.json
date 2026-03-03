@@ -1,0 +1,197 @@
+{
+  "entidades": [
+    {
+      "id": "med-006",
+      "nome": "Civilização Minoica e Micênica",
+      "nome_en": "Minoan and Mycenaean Civilization",
+      "nome_es": "Civilización Minoica y Micénica",
+      "tipo": "periodo",
+      "descricao": "Minoicos (2700-1450 a.C.): Creta — primeiro palácio, escrita Linear A (não decifrada), comércio mediterrâneo, arte sofisticada, sem muralhas (paz?). Destruídos provavelmente pela erupção de Tera (~1600 a.C.) e invasão micênica. Micênicos (1600-1100 a.C.): gregos proto-históricos, palácio de Micenas e Tiryns, Linear B (forma arcaica do grego, decifrado por Ventris em 1952), Troianus. 'Colapso da Idade do Bronze' (~1200 a.C.): misteriosa destruição de todas as civilizações mediterrâneas simultaneamente.",
+      "descricao_en": "Minoans (2700-1450 BC): Crete — first palace, Linear A script (undeciphered), Mediterranean trade, sophisticated art, no walls (peace?). Probably destroyed by Thera eruption (~1600 BC) and Mycenaean invasion. Mycenaeans (1600-1100 BC): proto-historical Greeks, palace of Mycenae and Tiryns, Linear B (archaic Greek, deciphered by Ventris in 1952), Trojans. 'Bronze Age Collapse' (~1200 BC): mysterious simultaneous destruction of all Mediterranean civilizations.",
+      "descricao_es": "Minoicos (2700-1450 a.C.): Creta. Linear A (sin descifrar). Destruidos por la erupción de Tera y los micénicos. Micénicos (1600-1100 a.C.): Linear B (descifrado por Ventris en 1952). 'Colapso de la Edad del Bronce' (~1200 a.C.): misteriosa destrucción simultánea.",
+      "inicio": -2700,
+      "fim": -1100,
+      "tags": [
+        "minoicos",
+        "micenicos",
+        "creta",
+        "linear-b"
+      ],
+      "importancia": "Minoicos e micênicos são as civilizações que Homero transformou em mito. A arqueologia de Heinrich Schliemann (que acreditava em Homero literalmente e encontrou Troia e Micenas) e Arthur Evans (que descobriu Cnossos) provou que por baixo do mito havia história real. O colapso do Bronze Final (~1200 a.C.) destruiu Micenas mas não apagou a memória: Homero recolheu fragmentos de uma civilização perdida 400 anos antes dele e criou o fundamento da literatura ocidental. Toda narrativa de heroísmo, destino e guerra deriva dos poemas homéricos.",
+      "century_start": -27,
+      "century_end": -11,
+      "region": "Europe",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "'Bronze Age Collapse' (~1200 BC): mysterious simultaneous destruction of all Mediterranean civilizations.",
+      "importancia_es": "'Colapso de la Edad del Bronce' (~1200 a.C.): misteriosa destrucción simultánea."
+    },
+    {
+      "id": "med-001",
+      "nome": "Fenícia: Comércio e Alfabeto",
+      "nome_en": "Phoenicia: Commerce and Alphabet",
+      "nome_es": "Fenicia: Comercio y Alfabeto",
+      "tipo": "periodo",
+      "descricao": "Fenícia (atual Líbano, sécs. XII-IV a.C.): cidades-estado marítimas — Tiro, Sidon, Biblos. Dominavam o comércio mediterrâneo: púrpura (cor dos reis), vidro, cedros do Líbano. Criaram o alfabeto abjad (~1050 a.C.): 22 consoantes. Todos os alfabetos do mundo ocidental, árabe e hebraico derivam deste. Fundaram Cartago (814 a.C.) e cidades na Espanha, Sicília, Norte da África. Heródoto os chamou de 'os maiores comerciantes da Antiguidade'.",
+      "descricao_en": "Phoenicia (present-day Lebanon, 12th-4th c. BC): maritime city-states — Tyre, Sidon, Byblos. Dominated Mediterranean trade: purple dye (color of kings), glass, Lebanese cedars. Created the abjad alphabet (~1050 BC): 22 consonants. All Western world, Arabic, and Hebrew alphabets derive from this. Founded Carthage (814 BC) and cities in Spain, Sicily, North Africa. Herodotus called them 'the greatest traders of antiquity'.",
+      "descricao_es": "Fenicia (actual Líbano, siglos XII-IV a.C.): ciudades-estado marítimas — Tiro, Sidón, Biblos. Comercio mediterráneo: púrpura, vidrio, cedros. Crearon el alfabeto abyad (~1050 a.C.): 22 consonantes. Todos los alfabetos occidentales, árabe y hebreo derivan de este. Fundaron Cartago (814 a.C.).",
+      "inicio": -1200,
+      "fim": -332,
+      "tags": [
+        "fenicia",
+        "alfabeto",
+        "comercio",
+        "mediterraneo"
+      ],
+      "importancia": "Os fenícios são o povo que mais discretamente moldou a civilização ocidental: o alfabeto que inventaram (~1050 a.C.) — 22 consonantes, sem vogais — foi adotado pelos gregos, que adicionaram vogais, criando o alfabeto que usamos hoje. Toda escrita alfabética do mundo (latina, grega, árabe, hebraica, cirílica) descende do fenício. Além disso, fundaram Cartago, estabeleceram rotas comerciais do Atlântico ao Mar Vermelho e transmitiram tecnologia e conhecimento egípcio e mesopotâmico para o Mediterrâneo ocidental.",
+      "century_start": -12,
+      "century_end": -4,
+      "region": "MiddleEast",
+      "type": "economic",
+      "period": "Ancient",
+      "importancia_en": "Founded Carthage (814 BC) and cities in Spain, Sicily, North Africa. Herodotus called them 'the greatest traders of antiquity'.",
+      "importancia_es": "Todos los alfabetos occidentales, árabe y hebreo derivan de este."
+    },
+    {
+      "id": "med-005",
+      "nome": "Etruscos e Pré-Roma Itálica",
+      "nome_en": "Etruscans and Pre-Roman Italic Peoples",
+      "nome_es": "Etruscos y Pueblos Itálicos Pre-Romanos",
+      "tipo": "periodo",
+      "descricao": "Etruscos (sécs. IX-III a.C.): civilização da Itália central, provavelmente oriunda da Anatólia. Língua ainda não totalmente decifrada. Tecnologias: arquitetura em arco, engenharia hidráulica, metalurgia avançada, cidades planejadas. Transmitíram à Roma: toga, gladiadores, luta, numerais romanos, ritos augurais. Roma foi inicialmente governada por reis etruscos (Tarquínios). Outras civilizações: Samnitas, Sabinos, Latinos, Oscos, Úmbrios — Roma os absorveu gradualmente.",
+      "descricao_en": "Etruscans (9th-3rd c. BC): civilization of central Italy, probably from Anatolia. Language not yet fully deciphered. Technologies: arch architecture, hydraulic engineering, advanced metallurgy, planned cities. Transmitted to Rome: toga, gladiators, combat, Roman numerals, augural rites. Rome was initially ruled by Etruscan kings (Tarquins). Other civilizations: Samnites, Sabines, Latins, Oscans, Umbrians — Rome gradually absorbed them.",
+      "descricao_es": "Etruscos (siglos IX-III a.C.): civilización de Italia central. Lengua aún no descifrada del todo. Transmitieron a Roma: toga, gladiadores, numerales romanos. Roma fue gobernada inicialmente por reyes etruscos (Tarquinos).",
+      "inicio": -900,
+      "fim": -200,
+      "tags": [
+        "etruscos",
+        "italia",
+        "pre-roma",
+        "arco"
+      ],
+      "importancia": "Os etruscos são os ancestrais esquecidos de Roma: transmitiram o alfabeto (via gregos), a arquitetura (arco e abóbada), a religião (augúrios, haruspicina) e os símbolos de poder (fasces, toga, lituus) que Roma adotou e transformou em seus próprios. A absorção dos etruscos por Roma no século III a.C. é o modelo do processo romano de incorporação: conquistar, assimilar, chamar de romano o que foi absorvido. A identidade 'romana' foi sempre construída sobre camadas de outros povos.",
+      "century_start": -9,
+      "century_end": -2,
+      "region": "Europe",
+      "type": "cultural",
+      "period": "Ancient",
+      "importancia_en": "Other civilizations: Samnites, Sabines, Latins, Oscans, Umbrians — Rome gradually absorbed them.",
+      "importancia_es": "Roma fue gobernada inicialmente por reyes etruscos (Tarquinos)."
+    },
+    {
+      "id": "med-003",
+      "nome": "Pérsia Aquemênida: O Primeiro Grande Império",
+      "nome_en": "Achaemenid Persia: The First Great Empire",
+      "nome_es": "Persia Aqueménida: El Primer Gran Imperio",
+      "tipo": "periodo",
+      "descricao": "Ciro, o Grande (560-530 a.C.): fundou o Império Aquemênida — do Egeu ao Indo. Primeiro Direito Internacional: Cilindro de Ciro (539 a.C.) — primeiro decreto de direitos humanos do mundo (libertou os judeus do cativeiro babilônico). Dario I: estradas reais, correio (angarium), satrapias. Terras do Medo, Babilônia, Egito, Ásia Menor. 10 milhões de km² — maior do mundo até então. Derrotado pelos gregos em Maratona (490), Salamina (480), Plateia (479). Alexandre Magno o conquistou em 330 a.C.",
+      "descricao_en": "Cyrus the Great (560-530 BC): founded the Achaemenid Empire — from the Aegean to the Indus. First International Law: Cyrus Cylinder (539 BC) — world's first human rights decree (freed Jews from Babylonian captivity). Darius I: royal roads, postal system (angarium), satrapies. Lands of the Medes, Babylon, Egypt, Asia Minor. 10 million km² — world's largest until then. Defeated by Greeks at Marathon (490), Salamis (480), Plataea (479). Conquered by Alexander the Great in 330 BC.",
+      "descricao_es": "Ciro el Grande (560-530 a.C.): fundó el Imperio Aqueménida. Cilindro de Ciro (539 a.C.): primer decreto de derechos humanos. Darío I: calzadas reales, satrapías. 10 millones de km². Derrotado por los griegos en Maratón, Salamina, Platea. Conquistado por Alejandro Magno en 330 a.C.",
+      "inicio": -560,
+      "fim": -330,
+      "tags": [
+        "persia",
+        "ciro",
+        "aquemenida",
+        "direitos-humanos"
+      ],
+      "importancia": "O Império Persa Aquemênida (550-330 a.C.) foi o primeiro a demonstrar que impérios multiétnicos podem funcionar com tolerância religiosa: Ciro libertou os judeus do cativeiro babilônico, respeitou os cultos locais e governou por satrapas que preservavam costumes locais. O modelo persa de 'império tolerante' contrasta com o assírio de destruição total. Sua derrota para Alexandre não foi colapso da civilização — foi transferência: Alexandre adotou a administração, a corte e muitos costumes persas após a conquista.",
+      "century_start": -6,
+      "century_end": -4,
+      "region": "MiddleEast",
+      "type": "political",
+      "period": "Ancient",
+      "importancia_en": "Defeated by Greeks at Marathon (490), Salamis (480), Plataea (479). Conquered by Alexander the Great in 330 BC.",
+      "importancia_es": "Derrotado por los griegos en Maratón, Salamina, Platea. Conquistado por Alejandro Magno en 330 a.C."
+    },
+    {
+      "id": "med-004",
+      "nome": "Alexandre Magno e o Helenismo",
+      "nome_en": "Alexander the Great and Hellenism",
+      "nome_es": "Alejandro Magno y el Helenismo",
+      "tipo": "periodo",
+      "descricao": "Alexandre III da Macedônia (356-323 a.C.): em 13 anos conquistou o maior império contíguo até então — Grécia, Pérsia, Egito, Babilônia, Indo. Nunca perdeu uma batalha. Discípulo de Aristóteles. Fundou Alexandria (321 a.C.) e ~70 cidades 'Alexandria'. Helenismo (323-31 a.C.): fusão cultural greco-oriental — koiné (grego comum), filosofia, arte, ciência. Alexandria: Biblioteca de Alexandria, Farol, Museum. Morreu aos 32 anos — causa desconhecida.",
+      "descricao_en": "Alexander III of Macedon (356-323 BC): in 13 years conquered the largest contiguous empire until then — Greece, Persia, Egypt, Babylon, Indus. Never lost a battle. Disciple of Aristotle. Founded Alexandria (321 BC) and ~70 'Alexandria' cities. Hellenism (323-31 BC): Greek-Eastern cultural fusion — koiné (common Greek), philosophy, art, science. Alexandria: Library of Alexandria, Lighthouse, Museum. Died at 32 — unknown cause.",
+      "descricao_es": "Alejandro Magno (356-323 a.C.): conquistó en 13 años el mayor imperio de la historia hasta entonces. Nunca perdió una batalla. Discípulo de Aristóteles. Fundó ~70 ciudades 'Alejandría'. Helenismo (323-31 a.C.): fusión cultural grecoriental. Murió a los 32 años.",
+      "inicio": -356,
+      "fim": -323,
+      "tags": [
+        "alexandre",
+        "helenismo",
+        "macedonia",
+        "conquistas"
+      ],
+      "importancia": "O Helenismo (323-31 a.C.) foi a primeira globalização cultural da história: a língua grega tornou-se língua franca do Mediterrâneo Oriental e do Oriente Próximo, permitindo que judeus (a LXX — Bíblia em grego), egípcios e persas compartilhassem um espaço intelectual comum. O Novo Testamento foi escrito em grego, não em aramaico, por causa do Helenismo. A síntese greco-judaica no Helenismo foi o contexto cultural que tornou o Cristianismo possível como religião universal.",
+      "century_start": -4,
+      "century_end": -4,
+      "region": "Multiple",
+      "type": "war",
+      "period": "Ancient",
+      "importancia_en": "Hellenism (323-31 BC): Greek-Eastern cultural fusion — koiné (common Greek), philosophy, art, science. Alexandria: Library of Alexandria, Lighthouse, Museum.",
+      "importancia_es": "Fundó ~70 ciudades 'Alejandría'. Helenismo (323-31 a.C.): fusión cultural grecoriental."
+    },
+    {
+      "id": "med-002",
+      "nome": "Cartago e as Guerras Púnicas",
+      "nome_en": "Carthage and the Punic Wars",
+      "nome_es": "Cartago y las Guerras Púnicas",
+      "tipo": "periodo",
+      "descricao": "Cartago (814 a.C.): maior cidade do Mediterrâneo Ocidental — 700.000 habitantes no séc. III a.C. Potência marítima e comercial. Guerras Púnicas (264-146 a.C.): três guerras contra Roma. Aníbal Barca: cruzou os Alpes com elefantes (218 a.C.), venceu Canas (216 a.C.) — maior derrota romana. Mas não tomou Roma. Cipião Africano derrotou Aníbal em Zama (202 a.C.). Terceira Guerra (149-146 a.C.): 'Cartago deve ser destruída' (Catão). Cartago arrasada, terra salgada (mito).",
+      "descricao_en": "Carthage (814 BC): largest city of the Western Mediterranean — 700,000 inhabitants in 3rd c. BC. Maritime and commercial power. Punic Wars (264-146 BC): three wars against Rome. Hannibal Barca: crossed the Alps with elephants (218 BC), won Cannae (216 BC) — greatest Roman defeat. But did not take Rome. Scipio Africanus defeated Hannibal at Zama (202 BC). Third War (149-146 BC): 'Carthage must be destroyed' (Cato). Carthage razed, land salted (myth).",
+      "descricao_es": "Cartago (814 a.C.): 700.000 habitantes en el siglo III a.C. Guerras Púnicas (264-146 a.C.). Aníbal: cruzó los Alpes con elefantes, venció en Cannas. Escipión Africano venció en Zama (202 a.C.). Tercera Guerra: 'Cartago debe ser destruida' (Catón). Cartago arrasada.",
+      "inicio": -264,
+      "fim": -146,
+      "tags": [
+        "cartago",
+        "punicas",
+        "anibal",
+        "roma"
+      ],
+      "importancia": "Cartago e as Guerras Púnicas (264-146 a.C.) são o caso mais famoso de luta existencial entre duas civilizações incompatíveis. Aníbal cruzou os Alpes com elefantes e derrotou Roma em Canas (216 a.C.) com 70.000 romanos mortos num único dia — a maior derrota romana da história. Roma sobreviveu por teimosia e recursos superiores; Cartago foi destruída completamente em 146 a.C. ('Delenda est Carthago'). O fim de Cartago mostrou que Roma não toleraria rivals: apenas subjugados ou destruídos.",
+      "century_start": -3,
+      "century_end": -2,
+      "region": "Africa",
+      "type": "war",
+      "period": "Ancient",
+      "importancia_en": "Third War (149-146 BC): 'Carthage must be destroyed' (Cato). Carthage razed, land salted (myth).",
+      "importancia_es": "Escipión Africano venció en Zama (202 a.C.). Tercera Guerra: 'Cartago debe ser destruida' (Catón)."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "med-001",
+      "destino": "med-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Cartago foi colônia fenícia"
+    },
+    {
+      "origem": "med-003",
+      "destino": "med-004",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "Alexandre conquistou e destruiu o Império Persa Aquemênida"
+    },
+    {
+      "origem": "med-006",
+      "destino": "med-001",
+      "tipo": "contemporaneo",
+      "intensidade": 0.6,
+      "descricao": "Minoicos e micênicos precederam os fenícios no comércio mediterrâneo"
+    },
+    {
+      "origem": "med-004",
+      "destino": "med-002",
+      "tipo": "contemporaneo",
+      "intensidade": 0.7,
+      "descricao": "Cartago existia quando Alexandre criou o helenismo no Mediterrâneo Oriental"
+    },
+    {
+      "origem": "med-005",
+      "destino": "med-002",
+      "tipo": "contemporaneo",
+      "intensidade": 0.5,
+      "descricao": "Etruscos e cartagineses foram contemporâneos e comerciaram no Mediterrâneo"
+    }
+  ]
+}

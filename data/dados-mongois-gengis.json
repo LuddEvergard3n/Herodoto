@@ -1,0 +1,68 @@
+{
+  "entidades": [
+    {
+      "id": "mgg-001",
+      "nome": "Gêngis Khan e a Unificação Mongol",
+      "nome_en": "Genghis Khan and Mongol Unification",
+      "nome_es": "Gengis Kan y la Unificación Mongola",
+      "tipo": "periodo",
+      "inicio": 1162,
+      "fim": 1227,
+      "descricao": "Temüjin nasceu (~1162) no sopé do Monte Burhan Khaldun. Orfanado aos 9 anos; escravizado duas vezes. Unificou tribos mongolas rivais (1206): declarado Gêngis Khan (Soberano Universal). Criou o maior exército profissional da era: disciplina ferro, meritocracia, cavalaria móvel com arcos compostos de 320m de alcance. Conquistas: Tangut, Jin do Norte (China), Khwarezmia (Pérsia/Ásia Central). Yassa: código legal que igualava nobres e comuns. Liberdade religiosa decretada. Morte de ~40 milhões de pessoas (~10% da população mundial) nas conquistas mongolas — a taxa proporcional mais alta da história.",
+      "descricao_en": "Temüjin was born (~1162) at the foot of Mount Burhan Khaldun. Orphaned at 9; enslaved twice. Unified rival Mongol tribes (1206): declared Genghis Khan (Universal Sovereign). Created the greatest professional army of the era: iron discipline, meritocracy, mobile cavalry with composite bows of 320m range. Conquests: Tangut, Northern Jin (China), Khwarezmia (Persia/Central Asia). Yassa: legal code that equalized nobles and commoners. Religious freedom decreed. Death of ~40 million people (~10% of world population) in Mongol conquests — the proportionally highest death rate in history.",
+      "descricao_es": "Temüjin (~1162): huérfano a los 9 años, esclavizado dos veces. Unificó las tribus mongolas (1206): Gengis Kan. Creó el mayor ejército profesional de la era: disciplina de hierro, meritocracia, caballería móvil. Yassa: código legal que igualaba nobles y plebeyos. Libertad religiosa decretada. ~40 millones de muertos (~10% de la población mundial) en las conquistas mongolas.",
+      "tags": [
+        "gengis-khan",
+        "mongois",
+        "yassa",
+        "cavalaria",
+        "conquistas"
+      ],
+      "importancia": "Gêngis Khan matou ~40 milhões de pessoas — ~10% da população mundial de 1200. Nenhum outro conflito atingiu essa proporção relativa até o séc. XX.",
+      "century_start": 12,
+      "century_end": 13,
+      "region": "EastAsia",
+      "type": "war",
+      "period": "Medieval",
+      "importancia_en": "Death of ~40 million people (~10% of world population) in Mongol conquests — the proportionally highest death rate in history.",
+      "importancia_es": "~40 millones de muertos (~10% de la población mundial) en las conquistas mongolas."
+    },
+    {
+      "id": "mgg-002",
+      "nome": "Império Mongol: Dos Netos à Fragmentação",
+      "nome_en": "Mongol Empire: From Grandsons to Fragmentation",
+      "nome_es": "Imperio Mongol: De los Nietos a la Fragmentación",
+      "tipo": "periodo",
+      "inicio": 1227,
+      "fim": 1368,
+      "descricao": "Ögedei (1229–41): Invasão da Europa — Batalha de Legnica (1241, Polônia) e Mohi (1241, Hungria): ejército mongol invencível retirou-se pela morte de Ögedei. Europa escapou por acidente. Kublai Khan (1260–94): Yuan na China; Marco Polo. Ilcanato da Pérsia: Hülegü destruiu Bagdá (1258). Quatro canatos: Yuan, Ilcanato, Chagatai, Horda Dourada. Pax Mongolica (~1260–1350): paz eurasiana, comércio, transmissão da Peste Negra. Timur Lenk (1370–1405): herdeiro tardio, destruiu Délhi, Bagdá, Síria — 15–20 milhões de mortos. Fragmentação final em canatos turco-mongóis.",
+      "descricao_en": "Ögedei (1229–41): Invasion of Europe — Battle of Legnica (1241, Poland) and Mohi (1241, Hungary): invincible Mongol army withdrew due to Ögedei's death. Europe escaped by accident. Kublai Khan (1260–94): Yuan in China; Marco Polo. Ilkhanate of Persia: Hülegü destroyed Baghdad (1258). Four khanates: Yuan, Ilkhanate, Chagatai, Golden Horde. Pax Mongolica (~1260–1350): Eurasian peace, trade, transmission of Black Death. Timur Lenk (1370–1405): late heir, destroyed Delhi, Baghdad, Syria — 15–20 million killed. Final fragmentation into Turco-Mongol khanates.",
+      "descricao_es": "Ögedei (1229–41): invasión de Europa — Legnica y Mohi (1241): Europa escapó por la muerte de Ögedei. Kublai Khan: Yuan en China. Hülegü destruyó Bagdad (1258). Pax Mongolica (~1260–1350): paz euroasiática, transmisión de la Peste Negra. Timur Lenk (1370–1405): 15–20 millones de muertos. Fragmentación en kanatos turco-mongoles.",
+      "tags": [
+        "imperio-mongol",
+        "ogedei",
+        "kublai",
+        "timur",
+        "pax-mongolica",
+        "horda-dourada"
+      ],
+      "importancia": "A Europa escapou da conquista mongola em 1241 apenas porque Ögedei Khan morreu durante a campanha — um acidente histórico que mudou o destino da civilização ocidental.",
+      "century_start": 13,
+      "century_end": 15,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Timur Lenk (1370–1405): late heir, destroyed Delhi, Baghdad, Syria — 15–20 million killed. Final fragmentation into Turco-Mongol khanates.",
+      "importancia_es": "Timur Lenk (1370–1405): 15–20 millones de muertos. Fragmentación en kanatos turco-mongoles."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "mgg-001",
+      "destino": "mgg-002",
+      "tipo": "causalidade",
+      "intensidade": 0.95,
+      "descricao": "Gêngis construiu o sistema que seus netos expandiram ao tamanho máximo"
+    }
+  ]
+}

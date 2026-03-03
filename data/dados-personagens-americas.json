@@ -1,0 +1,380 @@
+{
+  "personagens": [
+    {
+      "id": "pam-001",
+      "nome": "Simón Bolívar",
+      "nome_en": "Simón Bolívar",
+      "nome_es": "Simón Bolívar",
+      "nascimento": 1783,
+      "morte": 1830,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "Libertador",
+      "epoca": "Séc. XIX",
+      "descricao": "Crioulo venezolano de família rica, educado em Europa, influenciado pelo Iluminismo. Liderou campanhas militares que libertaram Venezuela, Colômbia, Equador, Peru e Bolívia do domínio espanhol. Sonhou com uma Grande Colômbia unida — o sonho não sobreviveu à independência. Morreu pobre e exilado em Santa Marta, tuberculoso, amargado: 'Arei o mar'.",
+      "importancia": "Bolívar personifica a tragédia do libertador: o homem que vence a guerra e perde a paz. Libertou meio continente mas não conseguiu construir a unidade política que sonhava. A fragmentação da América Latina em repúblicas pequenas e rivais — que ele lutou para evitar — é ainda hoje consequência de sua derrota política pós-independência. É símbolo ambivalente: herói e caudilho simultaneamente.",
+      "eventos": [],
+      "tags": [
+        "america-latina",
+        "independência",
+        "venezuela",
+        "libertador",
+        "grande-colombia",
+        "tragédia"
+      ]
+    },
+    {
+      "id": "pam-002",
+      "nome": "Pachamama / Mama Ocllo",
+      "nome_en": "Inca Origins",
+      "nome_es": "Origen Inca",
+      "nascimento": null,
+      "morte": null,
+      "regiao": "Americas",
+      "area": [
+        "religião",
+        "fundação"
+      ],
+      "cargo": "Figura Mítica Fundadora",
+      "epoca": "Medieval",
+      "descricao": "Segundo a cosmologia inca, Manco Cápac e Mama Ocllo emergiram do Lago Titicaca enviados por Inti (Sol) para ensinar a civilização aos humanos. Fundaram Cusco — 'umbigo do mundo' — e estabeleceram o Tawantinsuyu. Pachamama (Terra Mãe) é a divindade mais venerada dos Andes, associada à fertilidade da terra e ainda cultuada ativamente por comunidades indígenas.",
+      "importancia": "As figuras fundadoras do Tawantinsuyu revelam algo fundamental sobre a cosmologia andina: a legitimidade do poder imperial estava diretamente conectada à divindade solar, e o dever do Inca era redistributivo — o Estado coletava e redistribuía. Esse modelo contrasta radicalmente com o europeu feudal. Pachamama permanece viva na religiosidade popular andina e foi reconhecida pela Constituição boliviana de 2009.",
+      "eventos": [
+        "inca-002"
+      ],
+      "tags": [
+        "incas",
+        "andes",
+        "cosmologia",
+        "pachamama",
+        "tawantinsuyu",
+        "mito-fundador"
+      ]
+    },
+    {
+      "id": "pam-003",
+      "nome": "Moctezuma II",
+      "nome_en": "Moctezuma II",
+      "nome_es": "Moctezuma II",
+      "nascimento": 1466,
+      "morte": 1520,
+      "regiao": "Americas",
+      "area": [
+        "política"
+      ],
+      "cargo": "Tlatoani (Governante)",
+      "epoca": "Pré-Moderna",
+      "descricao": "Nono tlatoani do império mexica (asteca), no auge de Tenochtitlan com 300.000 habitantes. Recebeu Hernán Cortés (1519) com protocolos de hospitalidade ritual — possivelmente confundindo-o com o retorno do deus Quetzalcóatl. Mantido como refém por Cortés. Morreu em 1520 — espanhóis dizem que foi apedrejado pelos próprios mexicas revoltados; cronistas indígenas dizem que foi assassinado pelos espanhóis.",
+      "importancia": "A conquista de Tenochtitlan é o evento mais perturbador da história americana: a capital mais populosa do mundo ocidental destruída em dois anos por 400 homens. Como? Alianças com povos tributários inimigos dos mexicas, doenças (varíola matou metade da população), tecnologia (metal, cavalos, arcabuzes) e — crucialmente — a desorientação política causada pela própria grandeza imperial mexica.",
+      "eventos": [
+        "azt-004"
+      ],
+      "tags": [
+        "azteca",
+        "tenochtitlan",
+        "conquista",
+        "cortés",
+        "méxico",
+        "quetzalcóatl"
+      ]
+    },
+    {
+      "id": "pam-004",
+      "nome": "Tupac Amaru II",
+      "nome_en": "Tupac Amaru II",
+      "nome_es": "Túpac Amaru II",
+      "nascimento": 1738,
+      "morte": 1781,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "resistência"
+      ],
+      "cargo": "Líder Revolucionário",
+      "epoca": "Séc. XVIII",
+      "descricao": "José Gabriel Condorcanqui, descendente direto do último Inca Tupac Amaru I. Liderou a maior rebelião indígena das Américas (1780-81): 100.000 combatentes no Peru e Alto Peru (Bolívia) contra o domínio colonial espanhol. Após derrota, foi esquartejado publicamente em Cusco junto com sua família para servir de exemplo. A revolta continuou por mais dois anos após sua morte.",
+      "importancia": "A rebelião de Tupac Amaru II antecipou as independências latino-americanas por 40 anos e foi um dos maiores terrores para os colonizadores espanhóis. Seu nome foi adotado por movimentos guerrilheiros (Tupamaro no Uruguai), pela Constituição peruana e por grupos indígenas contemporâneos. A violência extrema de sua execução revela o grau em que a autoridade colonial dependia do terror.",
+      "eventos": [],
+      "tags": [
+        "peru",
+        "independência",
+        "indígena",
+        "colonial",
+        "inca",
+        "rebelião"
+      ]
+    },
+    {
+      "id": "pam-005",
+      "nome": "Zumbi dos Palmares",
+      "nome_en": "Zumbi of Palmares",
+      "nome_es": "Zumbi de los Palmares",
+      "nascimento": 1655,
+      "morte": 1695,
+      "regiao": "Americas",
+      "area": [
+        "resistência",
+        "política"
+      ],
+      "cargo": "Líder do Quilombo dos Palmares",
+      "epoca": "Pré-Moderna",
+      "descricao": "Nascido livre em Palmares, capturado criança, educado por frei português, fugiu de volta a Palmares aos 15 anos. Tornou-se líder militar e depois político de Palmares — quilombo com ~20.000 pessoas no que é hoje Alagoas. Resistiu por décadas às expedições coloniais portuguesas. Morreu em combate ou executado em novembro de 1695 — sua cabeça exposta em Recife para provar que não era imortal.",
+      "importancia": "Zumbi e Palmares representam a maior e mais duradoura resistência à escravidão nas Américas: quase 100 anos de Estado africano autônomo dentro do Brasil colonial. A Lei Áurea (1888) aboliu a escravidão, mas Palmares mostrou que os escravizados nunca aceitaram sua condição passivamente. O 20 de novembro (morte de Zumbi) é o Dia da Consciência Negra no Brasil.",
+      "eventos": [],
+      "tags": [
+        "brasil",
+        "quilombo",
+        "escravidão",
+        "resistência",
+        "palmares",
+        "consciência-negra"
+      ]
+    },
+    {
+      "id": "pam-006",
+      "nome": "D. Pedro II",
+      "nome_en": "Emperor Pedro II",
+      "nome_es": "Pedro II de Brasil",
+      "nascimento": 1825,
+      "morte": 1891,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "ciência"
+      ],
+      "cargo": "Imperador do Brasil",
+      "epoca": "Séc. XIX",
+      "descricao": "Coroado aos 14 anos, governou o Brasil por 58 anos (1831-1889) — o mais longo de qualquer governante das Américas. Falava 14 idiomas, era cientista amador, correspondente de Darwin, Pasteur e Longfellow. Abolicionista convicto (mas lento), assinou a Lei Áurea em 1888 por mão da filha Isabel. Deposto pelo golpe republicano de 1889, morreu exilado em Paris.",
+      "importancia": "D. Pedro II é o único governante da história que foi deposto em parte por ter abolido a escravidão — os fazendeiros que perderam sua 'propriedade' apoiaram o golpe republicano. É também o caso mais claro de modernidade contraditória: um monarca esclarecido que pessoalmente liberou escravos mas dependia de um sistema escravocrata para financiar seu governo. A República que o substituiu não foi mais democrática.",
+      "eventos": [],
+      "tags": [
+        "brasil",
+        "império",
+        "abolição",
+        "ciência",
+        "pedro-II",
+        "monarquia"
+      ]
+    },
+    {
+      "id": "pam-007",
+      "nome": "Frida Kahlo",
+      "nome_en": "Frida Kahlo",
+      "nome_es": "Frida Kahlo",
+      "nascimento": 1907,
+      "morte": 1954,
+      "regiao": "Americas",
+      "area": [
+        "arte"
+      ],
+      "cargo": "Pintora",
+      "epoca": "Séc. XX",
+      "descricao": "Mexicana de Coyoacán, sofreu poliomielite na infância e acidente de ônibus devastador aos 18 anos (fratura da coluna, pelve, pé — 35 cirurgias ao longo da vida). Pintou 143 obras — a maioria auto-retratos que exploram dor, identidade, sexualidade, maternidade e política. Marxista, surrealista relutante ('nunca pintei sonhos, pintei minha realidade'), esposa tumultuada de Diego Rivera.",
+      "importancia": "Kahlo foi redescoberta no final do século XX como ícone do feminismo, indigenismo e resistência através da arte. Sua obra é única por transformar trauma pessoal — dor física incessante — em imagem política e cultural. A popularidade massiva de Kahlo hoje levanta questão: o que significa quando uma artista que viveu na margem torna-se marca global? Isso honra ou comodifica sua resistência?",
+      "eventos": [],
+      "tags": [
+        "méxico",
+        "arte",
+        "feminismo",
+        "dor",
+        "auto-retrato",
+        "indigenismo",
+        "marxismo"
+      ]
+    },
+    {
+      "id": "pam-008",
+      "nome": "Ernesto 'Che' Guevara",
+      "nome_en": "Ernesto 'Che' Guevara",
+      "nome_es": "Ernesto 'Che' Guevara",
+      "nascimento": 1928,
+      "morte": 1967,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "Guerrilheiro e Revolucionário",
+      "epoca": "Séc. XX",
+      "descricao": "Médico argentino de família de classe média, percorreu a América Latina de moto (Diários de Motocicleta) e encontrou pobreza que o radicalizou. Participou da Revolução Cubana ao lado de Fidel Castro (1956-59). Ministro de Cuba. Partiu para liderar guerrilhas no Congo e Bolívia — capturado e executado por forças bolivianas com apoio da CIA em outubro de 1967.",
+      "importancia": "O paradoxo de Che: o homem que queria destruir o capitalismo tornou-se seu ícone mais lucrativo — a fotografia de Korda estampada em milhões de camisetas. Sua teoria da foquismo (um pequeno grupo de guerrilheiros cria as condições para a revolução) foi desmentida por sua própria morte. Inspirou gerações de ativistas e guerrilheiros; seu romance é inseparável de sua eficácia política real — limitada.",
+      "eventos": [],
+      "tags": [
+        "cuba",
+        "revolução",
+        "guerrilha",
+        "argentina",
+        "foquismo",
+        "ícone"
+      ]
+    },
+    {
+      "id": "pam-009",
+      "nome": "Bartolomeu de Las Casas",
+      "nome_en": "Bartolomé de las Casas",
+      "nome_es": "Bartolomé de las Casas",
+      "nascimento": 1484,
+      "morte": 1566,
+      "regiao": "Americas",
+      "area": [
+        "religião",
+        "ativismo",
+        "direito"
+      ],
+      "cargo": "Frade e Defensor",
+      "epoca": "Pré-Moderna",
+      "descricao": "Frade dominicano espanhol que chegou às Américas como colono, participou da conquista de Cuba — e depois fez conversão radical: tornou-se o primeiro defensor sistemático dos direitos dos indígenas. A Brevíssima Relação da Destruição das Índias (1542) descreveu os massacres coloniais para o Rei Carlos V. Defendeu os índios no debate de Valladolid (1550) contra Juan Ginés de Sepúlveda.",
+      "importancia": "Las Casas é o fundador do direito internacional dos povos colonizados. O Debate de Valladolid (1550) foi a primeira discussão filosófico-jurídica sistemática sobre se um povo pode conquistar e escravizar outro — e ele argumentou que não. Sua posição foi parcialmente incorporada nas Leis Novas (1542). Paradoxo: para defender índios, defendeu brevemente a escravidão africana — um erro que depois admitiu.",
+      "eventos": [],
+      "tags": [
+        "colonialismo",
+        "índios",
+        "direitos",
+        "frade",
+        "espanha",
+        "abolição",
+        "americas"
+      ]
+    },
+    {
+      "id": "pam-010",
+      "nome": "Tupac Amaru II",
+      "nome_en": "Túpac Amaru II",
+      "nome_es": "Túpac Amaru II",
+      "nascimento": 1738,
+      "morte": 1781,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "militar",
+        "resistência"
+      ],
+      "cargo": "Líder da Revolta",
+      "epoca": "Séc. XVIII",
+      "descricao": "José Gabriel Condorcanqui, líder indígena peruano que se identificou como descendente do último Inca. Liderou a maior revolta anticolonial da América do Sul antes das independências (1780-81): 60.000 a 100.000 guerreiros contra o exército espanhol. Capturado, foi executado com sua família num ritual de terror público. O nome Túpac Amaru virou símbolo de resistência.",
+      "importancia": "Túpac Amaru II antecipou as independências latino-americanas em 40 anos e foi a maior expressão da resistência indígena ao colonialismo espanhol. Sua revolta assustou tanto as autoridades coloniais que aceleraram as reformas que ironicamente alimentaram as independências crioulas. O nome ressurgiu no século XX: o Movimento Tupac Amaru e grupos guerrilheiros o invocaram por todo o continente.",
+      "eventos": [],
+      "tags": [
+        "peru",
+        "índios",
+        "inca",
+        "revolta",
+        "resistência",
+        "anticolonial",
+        "tupac"
+      ]
+    },
+    {
+      "id": "pam-011",
+      "nome": "Toussaint Louverture",
+      "nome_en": "Toussaint Louverture",
+      "nome_es": "Toussaint Louverture",
+      "nascimento": 1743,
+      "morte": 1803,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "General e Governador",
+      "epoca": "Séc. XVIII",
+      "descricao": "Ex-escravo haitiano que liderou a única revolução escrava bem-sucedida da história moderna. Derrotou exércitos francês, britânico e espanhol. Capturado por traição de Napoleão em 1802, preso no Fort de Joux na neve alpina. Sua frase: 'Ao me derrubar, vocês derrubaram apenas o tronco da árvore da liberdade negra. Ela crescerá de novo pelas raízes.' Haiti tornou-se independente em 1804.",
+      "importancia": "A Revolução Haitiana é o evento mais revolucionário das Américas porque realizou o que a Revolução Francesa proclamou mas não aplicou: liberdade, igualdade e fraternidade para todos — incluindo os escravizados. O medo que Haiti gerou nos outros países americanos escravocratas (incluindo EUA e Brasil) atrasou a abolição por décadas. Toussaint é o símbolo de que a escravidão não é natural — é política.",
+      "eventos": [],
+      "tags": [
+        "haiti",
+        "escravidão",
+        "revolução",
+        "liberdade",
+        "napoleão",
+        "independência",
+        "negro"
+      ]
+    },
+    {
+      "id": "pam-012",
+      "nome": "Benito Juárez",
+      "nome_en": "Benito Juárez",
+      "nome_es": "Benito Juárez",
+      "nascimento": 1806,
+      "morte": 1872,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "direito"
+      ],
+      "cargo": "Presidente do México",
+      "epoca": "Séc. XIX",
+      "descricao": "Zapoteca de Oaxaca, primeiro presidente indígena das Américas. Advogado autodidata, liderou a Reforma Liberal mexicana: separação Igreja-Estado, confisco de terras eclesiásticas, código civil laico. Derrotou a intervenção francesa e o Império de Maximiliano (1864-67). Sua frase: 'Entre os indivíduos como entre as nações, o respeito ao direito alheio é a paz'.",
+      "importancia": "Juárez realizou a secularização do México num contexto em que a Igreja possuía metade das terras e controlava educação, registro civil e hospitais. Criou o Estado laico moderno no México — com custos enormes (guerra civil, invasão estrangeira). O fato de ser indígena numa sociedade hierarquizada por raça tornou sua trajetória duplamente significativa para as identidades nacionais latinoamericanas.",
+      "eventos": [],
+      "tags": [
+        "méxico",
+        "laicismo",
+        "reforma",
+        "indígena",
+        "independência",
+        "juárez",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "pam-013",
+      "nome": "Harriet Tubman",
+      "nome_en": "Harriet Tubman",
+      "nome_es": "Harriet Tubman",
+      "nascimento": 1822,
+      "morte": 1913,
+      "regiao": "Americas",
+      "area": [
+        "ativismo",
+        "resistência",
+        "militar"
+      ],
+      "cargo": "Abolicionista e Espiã",
+      "epoca": "Séc. XIX",
+      "descricao": "Nascida escrava em Maryland, fugiu para o Norte em 1849. Voltou ao Sul 13 vezes para libertar mais de 70 escravizados pela Estrada de Ferro Subterrânea. Durante a Guerra Civil, espionou para a União e liderou o Raid Combahee (1863) — libertando 700 escravizados numa operação militar. Viveu até os 91 anos, lutando depois pelo sufrágio feminino.",
+      "importancia": "Harriet Tubman é o símbolo do abolicionismo ativo — não apenas discurso, mas ação de risco pessoal enorme. Sua coragem em retornar ao Sul depois de livre, arriscando recaptura, contrasta com o abolicionismo confortável dos salões. Buscada por recompensa de 40.000 dólares, nunca foi capturada. Será a figura no bilhete de 20 dólares americano — uma das honras mais significativas da história dos EUA.",
+      "eventos": [],
+      "tags": [
+        "escravidão",
+        "abolição",
+        "eua",
+        "resistência",
+        "mulher",
+        "negro",
+        "tubman"
+      ]
+    },
+    {
+      "id": "pam-014",
+      "nome": "Ernesto 'Che' Guevara",
+      "nome_en": "Che Guevara",
+      "nome_es": "Che Guevara",
+      "nascimento": 1928,
+      "morte": 1967,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "Revolucionário",
+      "epoca": "Séc. XX",
+      "descricao": "Médico argentino que participou da Revolução Cubana com Fidel Castro, tornou-se ministro da Indústria (1961-65) e depois partiu para exportar a revolução: Congo (fracasso) e Bolívia (onde foi capturado e executado pela CIA em 1967). O 'Diário da Motocicleta' documenta a viagem de juventude que o transformou.",
+      "importancia": "Che Guevara é o símbolo mais vendido da contracultura e da revolução — sua imagem é a mais reproduzida do século XX. O paradoxo: o homem que combateu o capitalismo tornou-se produto de consumo capitalista em milhões de camisetas. Mais substantivamente, sua teoria do 'foco guerrilheiro' influenciou dezenas de movimentos armados na América Latina, Africa e Ásia — com resultados mistos a desastrosos.",
+      "eventos": [],
+      "tags": [
+        "cuba",
+        "revolução",
+        "guerrilha",
+        "argentina",
+        "ícone",
+        "americas",
+        "che"
+      ]
+    }
+  ]
+}

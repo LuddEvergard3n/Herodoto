@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Feudalismo e Estrutura Social Medieval",
+    "periodo": "500-1400"
+  },
+  "entidades": [
+    {
+      "id": "mdf-001",
+      "nome": "Origens do Feudalismo Europeu",
+      "nome_en": "Origins of European Feudalism",
+      "nome_es": "Orígenes del Feudalismo Europeo",
+      "tipo": "periodo",
+      "inicio": 476,
+      "fim": 800,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 5,
+      "type": "social",
+      "descricao": "O feudalismo emergiu do colapso do poder romano no Ocidente (476 d.C.) e das invasões bárbaras. Sem autoridade central, a proteção militar tornou-se o bem mais valioso. Os francos desenvolveram o sistema de benefício: o rei concedia terras (feudos) a guerreiros (vassalos) em troca de serviço militar. Carlos Martel formalizou esse sistema ao distribuir terras da Igreja para cavaleiros após a Batalha de Poitiers (732 d.C.).",
+      "descricao_en": "Feudalism emerged from the collapse of Roman power in the West (476 AD) and barbarian invasions. Without central authority, military protection became the most valuable commodity. The Franks developed the benefit system: the king granted lands (fiefs) to warriors (vassals) in exchange for military service. Charles Martel formalized this by distributing Church lands to knights after the Battle of Tours (732 AD).",
+      "descricao_es": "El feudalismo emergió del colapso del poder romano y las invasiones bárbaras. Los francos desarrollaron el sistema de beneficio: el rey concedía tierras a guerreros a cambio de servicio militar.",
+      "importancia": "O feudalismo foi a estrutura política e social dominante da Europa por ~700 anos. Sua hierarquia (rei → nobreza → cavaleiros → servos) moldou as instituições, a lei e a cultura medieval europeia.",
+      "importancia_en": "Feudalism was the dominant political and social structure of Europe for ~700 years. Its hierarchy (king → nobility → knights → serfs) shaped medieval European institutions, law and culture.",
+      "importancia_es": "El feudalismo fue la estructura política y social dominante de Europa durante ~700 años.",
+      "tags": [
+        "feudalismo",
+        "vassalos",
+        "feudos",
+        "Carlos Martel",
+        "francos"
+      ],
+      "dataset": "data/dados-medieval-feudalismo.json"
+    },
+    {
+      "id": "mdf-002",
+      "nome": "Servos da Gleba e Economia Senhorial",
+      "nome_en": "Serfs and the Manorial Economy",
+      "nome_es": "Siervos de la Gleba y Economía Señorial",
+      "tipo": "periodo",
+      "inicio": 700,
+      "fim": 1400,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 8,
+      "type": "economic",
+      "descricao": "A base econômica do feudalismo era o manor (senhorio): o senhor possuía terras cultivadas por servos (servi glebae — 'escravos da terra'). Os servos não podiam deixar a terra sem permissão, deviam trabalho compulsório nas terras do senhor (corveia) e pagavam taxas em produtos. Em troca, recebiam proteção e uso de terra. O sistema era relativamente estático — a mobilidade social era rara, mas possível através da Igreja.",
+      "descricao_en": "The economic base of feudalism was the manor: the lord owned lands cultivated by serfs (servi glebae — 'slaves of the land'). Serfs could not leave the land without permission, owed compulsory labor on the lord's lands (corvée) and paid taxes in produce. In exchange, they received protection and use of land.",
+      "descricao_es": "La base económica del feudalismo era el señorío: el señor poseía tierras cultivadas por siervos. Los siervos no podían abandonar la tierra sin permiso y debían trabajo compulsorio al señor.",
+      "importancia": "A servidão feudal foi a condição de vida da maioria da população europeia medieval. A Peste Negra (1347) paradoxalmente libertou muitos servos, pois a escassez de mão-de-obra forçou os senhores a pagar salários.",
+      "importancia_en": "Feudal serfdom was the life condition of the majority of the medieval European population. The Black Death (1347) paradoxically freed many serfs, as labor scarcity forced lords to pay wages.",
+      "importancia_es": "La servidumbre feudal fue la condición de vida de la mayoría de la población medieval europea.",
+      "tags": [
+        "servos",
+        "corveia",
+        "manor",
+        "senhorio",
+        "economia agrária"
+      ],
+      "dataset": "data/dados-medieval-feudalismo.json"
+    },
+    {
+      "id": "mdf-007",
+      "nome": "Vikings: Expansão e Influência Medieval",
+      "nome_en": "Vikings: Expansion and Medieval Influence",
+      "nome_es": "Vikingos: Expansión e Influencia Medieval",
+      "tipo": "periodo",
+      "inicio": 793,
+      "fim": 1100,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 9,
+      "type": "war",
+      "descricao": "Os vikings (793–1100 d.C.) foram navegadores, comerciantes e guerreiros escandinavos que saquearam costas europeias, fundaram colônias na Islândia, Groenlândia e América do Norte (Vinland, c. 1000). Estabeleceram Novgorod e Kiev (Rurik, 862), fundando o embrião da Rússia. Na Normandia, tornaram-se o povo que conquistaria a Inglaterra (1066, Guilherme o Conquistador). Em Dublim, fundaram a cidade que se tornaria capital da Irlanda.",
+      "descricao_en": "The Vikings (793–1100 AD) were Scandinavian navigators, traders and warriors who raided European coasts, founded colonies in Iceland, Greenland and North America (Vinland, c. 1000). They established Novgorod and Kiev (Rurik, 862), founding the embryo of Russia. In Normandy, they became the people who would conquer England (1066, William the Conqueror). In Dublin, they founded the city that would become Ireland's capital.",
+      "descricao_es": "Los vikingos saquearon costas europeas, fundaron colonias en Islandia, Groenlandia y América del Norte. Establecieron Novgorod y Kiev, fundando el embrión de Rusia. En Normandía, se convirtieron en el pueblo que conquistaría Inglaterra.",
+      "importancia": "Os vikings foram os europeus a chegar à América ~500 anos antes de Colombo. Fundaram o embrião do Estado russo. A conquista normanda da Inglaterra (1066) fundiu línguas germânicas e romanas no inglês moderno.",
+      "importancia_en": "The Vikings were the Europeans to reach America ~500 years before Columbus. They founded the embryo of the Russian state. The Norman conquest of England (1066) merged Germanic and Romance languages into modern English.",
+      "importancia_es": "Los vikingos llegaron a América ~500 años antes de Colón. Fundaron el embrión del Estado ruso.",
+      "tags": [
+        "vikings",
+        "Normandia",
+        "Rus",
+        "Vinland",
+        "Rurik",
+        "escandinavos"
+      ],
+      "dataset": "data/dados-medieval-feudalismo.json"
+    },
+    {
+      "id": "mdf-003",
+      "nome": "Cavalaria: Código, Ordens e Cultura",
+      "nome_en": "Chivalry: Code, Orders and Culture",
+      "nome_es": "Caballería: Código, Órdenes y Cultura",
+      "tipo": "periodo",
+      "inicio": 900,
+      "fim": 1300,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 10,
+      "type": "cultural",
+      "descricao": "A cavalaria (chevalerie) emergiu no século X como ideal ético-militar. O cavaleiro ideal era bravo, leal ao senhor e à Igreja, protetor dos fracos e da fé. As Ordens de Cavalaria (Templários, 1119; Hospitalários, 1113; Teutônicos, 1190) combinavam votos religiosos com vocação militar. A literatura arturiana (Rei Artur, Parsifal, Lancelot) codificou o ideal cavalheiresco na imaginação europeia.",
+      "descricao_en": "Chivalry (chevalerie) emerged in the 10th century as an ethical-military ideal. The ideal knight was brave, loyal to lord and Church, protector of the weak and faith. Chivalric Orders (Templars, 1119; Hospitallers, 1113; Teutonic Knights, 1190) combined religious vows with military vocation. Arthurian literature (King Arthur, Parsifal, Lancelot) codified the chivalric ideal in the European imagination.",
+      "descricao_es": "La caballería emergió como ideal ético-militar. Las Órdenes de Caballería (Templarios, Hospitalarios, Teutónicos) combinaban votos religiosos con vocación militar.",
+      "importancia": "O ideal cavalheiresco moldou a ética militar, o amor cortês e a literatura europeia. Conceitos como 'honra', 'lealdade' e 'proteção dos fracos' ainda permeiam a cultura ocidental através da literatura e do cinema.",
+      "importancia_en": "The chivalric ideal shaped military ethics, courtly love and European literature. Concepts like 'honor', 'loyalty' and 'protection of the weak' still permeate Western culture through literature and cinema.",
+      "importancia_es": "El ideal caballeresco moldeó la ética militar, el amor cortés y la literatura europea.",
+      "tags": [
+        "cavalaria",
+        "Templários",
+        "Hospitalários",
+        "cavaleiros",
+        "Rei Artur"
+      ],
+      "dataset": "data/dados-medieval-feudalismo.json"
+    },
+    {
+      "id": "mdf-004",
+      "nome": "Cidades Medievais e o Surgimento da Burguesia",
+      "nome_en": "Medieval Cities and the Rise of the Bourgeoisie",
+      "nome_es": "Ciudades Medievales y el Surgimiento de la Burguesía",
+      "tipo": "periodo",
+      "inicio": 1000,
+      "fim": 1400,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 11,
+      "type": "economic",
+      "descricao": "A partir do século XI, as cidades europeias começaram a crescer. Comerciantes e artesãos organizaram-se em guildas (corporações de ofício) e obtiveram cartas de liberdade dos senhores feudais (communes). Hamburgo (1189), Florença e Veneza tornaram-se centros comerciais. A burguesia (habitantes dos burgos) acumulou riqueza através do comércio, desafiando gradualmente a primazia da nobreza fundiária.",
+      "descricao_en": "From the 11th century, European cities began to grow. Merchants and artisans organized into guilds and obtained charters of freedom from feudal lords (communes). Hamburg (1189), Florence and Venice became commercial centers. The bourgeoisie (burghers) accumulated wealth through trade, gradually challenging the primacy of landed nobility.",
+      "descricao_es": "A partir del siglo XI, las ciudades europeas comenzaron a crecer. Los comerciantes se organizaron en gremios y obtuvieron cartas de libertad. La burguesía acumuló riqueza a través del comercio.",
+      "importancia": "O crescimento urbano e da burguesia medieval foi o processo que gradualmente solapou o feudalismo. A riqueza comercial criou uma classe que não dependia da terra — precursora do capitalismo moderno.",
+      "importancia_en": "Medieval urban growth and the rise of the bourgeoisie gradually undermined feudalism. Commercial wealth created a class independent of land — precursor of modern capitalism.",
+      "importancia_es": "El crecimiento urbano y la burguesía medieval socavaron gradualmente el feudalismo.",
+      "tags": [
+        "cidades",
+        "burguesia",
+        "guildas",
+        "communes",
+        "comerciantes"
+      ],
+      "dataset": "data/dados-medieval-feudalismo.json"
+    },
+    {
+      "id": "mdf-005",
+      "nome": "Magna Carta e Limitação do Poder Real",
+      "nome_en": "Magna Carta and Limitation of Royal Power",
+      "nome_es": "Magna Carta y Limitación del Poder Real",
+      "tipo": "evento",
+      "inicio": 1215,
+      "fim": 1215,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 13,
+      "type": "political",
+      "descricao": "A Magna Carta (1215) foi arrancada dos barões ingleses ao Rei João (João Sem-Terra), limitando pela primeira vez o poder absoluto do monarca. Estabeleceu que o rei não podia tributar sem consentimento dos barões (parlamento embrionário) e que nenhum homem livre poderia ser preso sem julgamento justo (habeas corpus embrionário). É o documento fundador do constitucionalismo ocidental.",
+      "descricao_en": "The Magna Carta (1215) was wrested by English barons from King John (John Lackland), limiting for the first time the absolute power of the monarch. It established that the king could not tax without baronial consent (embryonic parliament) and that no free man could be imprisoned without fair trial (embryonic habeas corpus). It is the founding document of Western constitutionalism.",
+      "descricao_es": "La Magna Carta (1215) limitó por primera vez el poder absoluto del monarca. Estableció que el rey no podía tributar sin consentimiento de los barones y que ningún hombre libre podría ser preso sin juicio justo.",
+      "importancia": "A Magna Carta é o documento fundador do constitucionalismo e do Estado de Direito no Ocidente. O princípio de que nenhum governante está acima da lei deriva diretamente dela — e influenciou a Declaração de Independência dos EUA e a Declaração Universal dos Direitos Humanos.",
+      "importancia_en": "The Magna Carta is the founding document of constitutionalism and the Rule of Law in the West. The principle that no ruler is above the law derives directly from it — and influenced the US Declaration of Independence and the Universal Declaration of Human Rights.",
+      "importancia_es": "La Magna Carta es el documento fundador del constitucionalismo occidental.",
+      "tags": [
+        "Magna Carta",
+        "João Sem-Terra",
+        "parlamento",
+        "habeas corpus",
+        "constitucionalismo"
+      ],
+      "dataset": "data/dados-medieval-feudalismo.json"
+    },
+    {
+      "id": "mdf-006",
+      "nome": "Peste Negra e o Fim da Ordem Feudal",
+      "nome_en": "Black Death and the End of the Feudal Order",
+      "nome_es": "Peste Negra y el Fin del Orden Feudal",
+      "tipo": "evento",
+      "inicio": 1347,
+      "fim": 1353,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 14,
+      "type": "natural",
+      "descricao": "A Peste Negra (1347–1353) matou 30–60% da população europeia (~25 milhões de pessoas). Chegou da Ásia pela rota da seda e Gênova. A catástrofe teve efeito paradoxalmente libertador: a escassez de mão-de-obra deu poder de negociação aos trabalhadores sobreviventes, elevou salários, liberou servos e acelerou o fim do feudalismo. Também gerou questionamentos religiosos profundos — 'por que Deus permitiu isso?' — que alimentaram movimentos de reforma posterior.",
+      "descricao_en": "The Black Death (1347–1353) killed 30–60% of the European population (~25 million people). Arriving from Asia via the Silk Road and Genoa, the catastrophe had a paradoxically liberating effect: the labor shortage gave bargaining power to surviving workers, raised wages, freed serfs and accelerated the end of feudalism. It also generated profound religious questioning that fed later reform movements.",
+      "descricao_es": "La Peste Negra mató al 30-60% de la población europea. La escasez de mano de obra dio poder de negociación a los trabajadores, elevó salarios y aceleró el fin del feudalismo.",
+      "importancia": "A Peste Negra foi o maior desastre demográfico da Europa medieval e um dos maiores catalisadores de mudança social da história. Acelerou o fim do feudalismo, impulsionou o questionamento religioso que precedeu a Reforma e transformou a relação capital-trabalho.",
+      "importancia_en": "The Black Death was the greatest demographic disaster of medieval Europe and one of the greatest catalysts of social change in history. It accelerated the end of feudalism, drove religious questioning that preceded the Reformation and transformed the capital-labor relationship.",
+      "importancia_es": "La Peste Negra fue el mayor desastre demográfico de la Europa medieval y uno de los mayores catalizadores de cambio social.",
+      "tags": [
+        "Peste Negra",
+        "demografía",
+        "servidão",
+        "morte",
+        "Gênova",
+        "salários"
+      ],
+      "dataset": "data/dados-medieval-feudalismo.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "mdf-001",
+      "destino": "mdf-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Sistema feudal cria a servidão da gleba"
+    },
+    {
+      "origem": "mdf-001",
+      "destino": "mdf-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Feudalismo produz o ideal cavalheiresco"
+    },
+    {
+      "origem": "mdf-004",
+      "destino": "mdf-005",
+      "tipo": "causalidade",
+      "intensidade": 0.6,
+      "descricao": "Crescimento urbano e burgues fortalece barões contra o rei"
+    },
+    {
+      "origem": "mdf-006",
+      "destino": "mdf-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Peste Negra destrói a base econômica do sistema servil"
+    },
+    {
+      "origem": "mdf-007",
+      "destino": "mdf-001",
+      "tipo": "paralelo",
+      "intensidade": 0.6,
+      "descricao": "Vikings pressionam o feudalismo da Normandia à Rússia"
+    }
+  ]
+}

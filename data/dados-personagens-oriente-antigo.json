@@ -1,0 +1,470 @@
+{
+  "personagens": [
+    {
+      "id": "po-001",
+      "nome": "Confúcio",
+      "nome_en": "Confucius",
+      "nome_es": "Confucio",
+      "nascimento": -551,
+      "morte": -479,
+      "regiao": "EastAsia",
+      "area": [
+        "filosofia",
+        "ética"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Antiguidade",
+      "descricao": "Kong Qiu (nome real) viveu no período dos Reinos Combatentes, época de fragmentação política e violência endêmica. Ensinava ética governamental: os governantes devem governar pelo exemplo moral, não pela força. Seus ensinamentos foram compilados como Analetos por discípulos. Viajou décadas buscando um príncipe disposto a aplicar seus princípios — nunca encontrou.",
+      "importancia": "O confucionismo estruturou a civilização chinesa, coreana, japonesa e vietnamita por 2.500 anos: a hierarquia de relações (pai-filho, governante-súdito, marido-mulher), a ênfase na educação como caminho para o mérito, e o sistema de exames imperiais (que durou até 1905) são legado direto de Confúcio. Mais de 1 bilhão de pessoas vivem em culturas moldadas por ele.",
+      "eventos": [
+        "chin-011"
+      ],
+      "tags": [
+        "confucionismo",
+        "china",
+        "ética",
+        "hierarquia",
+        "educação"
+      ]
+    },
+    {
+      "id": "po-002",
+      "nome": "Buda (Sidarta Gautama)",
+      "nome_en": "Buddha (Siddhartha Gautama)",
+      "nome_es": "Buda (Siddharta Gautama)",
+      "nascimento": -563,
+      "morte": -483,
+      "regiao": "SouthAsia",
+      "area": [
+        "filosofia",
+        "religião"
+      ],
+      "cargo": "Mestre espiritual",
+      "epoca": "Antiguidade",
+      "descricao": "Príncipe da linhagem Shakya no Nepal atual. Abandonou vida privilegiada ao 29 anos após confrontar sofrimento, doença e morte. Após anos de ascetismo extremo, optou pelo 'caminho do meio'. Sob a Árvore Bodhi em Bodh Gaya, atingiu a iluminação. Ensinou por 45 anos: as Quatro Nobres Verdades e o Caminho Óctuplo como método para cessar o sofrimento.",
+      "importancia": "O budismo é uma das primeiras grandes religiões não-teístas: não exige fé num deus, mas prática meditativa e ética. Sua análise do sofrimento como resultado do apego ainda ressoa em psicologia moderna (mindfulness é budismo secularizado). Chegou à China no século I d.C., transformou-se em Budismo Chan/Zen, influenciou toda a arte e filosofia asiática.",
+      "eventos": [],
+      "tags": [
+        "budismo",
+        "iluminação",
+        "meditação",
+        "sofrimento",
+        "índia"
+      ]
+    },
+    {
+      "id": "po-003",
+      "nome": "Ciro II (O Grande)",
+      "nome_en": "Cyrus the Great",
+      "nome_es": "Ciro el Grande",
+      "nascimento": -600,
+      "morte": -530,
+      "regiao": "MiddleEast",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "Rei dos Reis",
+      "epoca": "Antiguidade",
+      "descricao": "Fundador do Império Aquemênida, conquistou a Média, Lídia e Babilônia em menos de 20 anos. Ao conquistar a Babilônia (539 a.C.), libertou os judeus em cativeiro — o Cilindro de Ciro (gravado em cuneiforme) declarou liberdade religiosa e proibiu escravidão forçada. É o único não-judeu chamado de 'Messias' na Bíblia (Isaías 45:1).",
+      "importancia": "Ciro criou o modelo de empire tolerante que contrasta com os impérios assírio e babilônico baseados em terror e deportação. Sua política de respeito às religiões locais não era apenas moral — era pragmática: povos que mantêm seus deuses são mais fáceis de governar. O Cilindro de Ciro é exibido na ONU como símbolo dos direitos humanos.",
+      "eventos": [],
+      "tags": [
+        "pérsia",
+        "aquemênida",
+        "tolerância",
+        "judeus",
+        "cilindro-de-ciro"
+      ]
+    },
+    {
+      "id": "po-004",
+      "nome": "Ashoka",
+      "nome_en": "Ashoka",
+      "nome_es": "Asoka",
+      "nascimento": -304,
+      "morte": -232,
+      "regiao": "SouthAsia",
+      "area": [
+        "política"
+      ],
+      "cargo": "Imperador",
+      "epoca": "Antiguidade",
+      "descricao": "Terceiro imperador da dinastia Maurya, governou quase todo o subcontinente indiano. Após a brutal Batalha de Kalinga (~261 a.C.) — que matou 100.000 pessoas — converteu-se ao budismo e abandonou a conquista pela força. Seus Edictos, gravados em pilares de pedra por todo o império, pregavam tolerância religiosa, bem-estar animal e cuidado com os pobres.",
+      "importancia": "Ashoka é o único caso histórico de um conquistador que, no auge do poder, renunciou à guerra por convicção moral — e documentou publicamente essa mudança. Seu governo prefigurou conceitos modernos de Estado de bem-estar e tolerância religiosa. O símbolo de sua roda dharma está na bandeira da Índia moderna. É referência obrigatória em debates sobre ética política.",
+      "eventos": [],
+      "tags": [
+        "índia",
+        "maurya",
+        "budismo",
+        "tolerância",
+        "dharma",
+        "pacifismo"
+      ]
+    },
+    {
+      "id": "po-005",
+      "nome": "Sun Tzu",
+      "nome_en": "Sun Tzu",
+      "nome_es": "Sun Tzu",
+      "nascimento": -544,
+      "morte": -496,
+      "regiao": "EastAsia",
+      "area": [
+        "militar",
+        "estratégia"
+      ],
+      "cargo": "General e Estrategista",
+      "epoca": "Antiguidade",
+      "descricao": "General do Estado de Wu durante os Reinos Combatentes. A Arte da Guerra (13 capítulos, ~500 palavras cada) é o tratado estratégico mais antigo e mais influente do mundo. Seu princípio central: a guerra suprema é vencer sem combater; o objetivo é dobrar a vontade do inimigo, não destruí-lo. Profundo conhecimento do terreno, clima, espionagem e psicologia.",
+      "importancia": "A Arte da Guerra está nos currículos de academias militares de 50 países e em cursos de MBA. Influenciou Mao Tsé-Tung, Ho Chi Minh e a estratégia militar japonesa da Segunda Guerra. Em gestão, marketing e negociação, seus princípios sobre conhecer o inimigo e usar suas forças contra ele tornaram-se lugar-comum. É o livro não-ocidental mais influente no Ocidente.",
+      "eventos": [],
+      "tags": [
+        "estratégia",
+        "guerra",
+        "china",
+        "arte-da-guerra",
+        "liderança"
+      ]
+    },
+    {
+      "id": "po-006",
+      "nome": "Ramsés II",
+      "nome_en": "Ramesses II",
+      "nome_es": "Ramsés II",
+      "nascimento": -1303,
+      "morte": -1213,
+      "regiao": "Africa",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "Faraó",
+      "epoca": "Antiguidade",
+      "descricao": "Faraó da XIX Dinastia do Egito, governou 66 anos (1279–1213 a.C.). Considerou a si mesmo deus vivo. Batalha de Kadesh (1274 a.C.) contra os hititas — maior batalha de carros da história — terminou em empate; o tratado de paz resultante é o mais antigo conhecido. Construiu Abu Simbel, Ramsesseum e expandiu Karnak. É o candidato mais provável ao faraó do Êxodo bíblico.",
+      "importancia": "Ramsés II dominou a propaganda real como nenhum predecessor: seus monumentos reescreveram Kadesh como vitória esmagadora quando foi empate. Essa capacidade de construir narrativa histórica self-serving é talvez seu legado mais persistente — e mais relevante politicamente. O tratado de Kadesh demonstrou que mesmo superpotências inimigas podem preferir acordo à guerra prolongada.",
+      "eventos": [],
+      "tags": [
+        "egito",
+        "faraó",
+        "kadesh",
+        "abu-simbel",
+        "êxodo",
+        "propaganda"
+      ]
+    },
+    {
+      "id": "po-007",
+      "nome": "Hamurabi",
+      "nome_en": "Hammurabi",
+      "nome_es": "Hammurabi",
+      "nascimento": -1810,
+      "morte": -1750,
+      "regiao": "MiddleEast",
+      "area": [
+        "política",
+        "direito"
+      ],
+      "cargo": "Rei",
+      "epoca": "Antiguidade",
+      "descricao": "Rei da Babilônia, unificou a Mesopotâmia sob seu domínio (1792–1750 a.C.). O Código de Hamurábi (282 leis gravadas numa estela de 2,25m) é o corpus jurídico mais completo da Antiguidade: regula salários, preços, propriedade, contratos, divórcio, adoção. Famoso pelo princípio 'olho por olho' — na realidade, uma inovação de proporcionalidade que limitou a vingança desmedida.",
+      "importancia": "O Código de Hamurábi estabeleceu que o rei não é apenas guerreiro, mas guardião da justiça — responsável pelo bem-estar das viúvas e órfãos. Esta ideia de que o poder político tem obrigações para com os vulneráveis é a origem da noção de Estado de direito. 'Olho por olho' não era crueldade, mas proporcionalidade: nobre que matasse plebeu não podia matar a família inteira do plebeu.",
+      "eventos": [],
+      "tags": [
+        "babilônia",
+        "direito",
+        "código",
+        "mesopotâmia",
+        "justiça",
+        "lei"
+      ]
+    },
+    {
+      "id": "po-008",
+      "nome": "Zaratustra (Zoroastro)",
+      "nome_en": "Zarathustra (Zoroaster)",
+      "nome_es": "Zaratustra (Zoroastro)",
+      "nascimento": -628,
+      "morte": -551,
+      "regiao": "MiddleEast",
+      "area": [
+        "religião",
+        "filosofia"
+      ],
+      "cargo": "Profeta",
+      "epoca": "Antiguidade",
+      "descricao": "Profeta iraniano que fundou o zoroastrismo, a primeira religião monoteísta com componentes dualistas: Ahura Mazda (bem) vs. Angra Mainyu (mal). Enfatizou o livre-arbítrio: cada pessoa escolhe a qual lado pertencer. Influenciou profundamente o judaísmo durante o exílio babilônico, onde os judeus entraram em contato com ideias zoroastristas.",
+      "importancia": "Zoroastrismo é a fonte histórica de: céu e inferno como destinos post-mortem, o julgamento das almas, o salvador messias, a batalha final entre bem e mal (apocalipse), os anjos e demônios como entidades distintas. Todas essas ideias entraram no judaísmo tardio, depois no Cristianismo e no Islã. Estamos vivendo num mundo cujas categorias morais foram moldadas por Zaratustra.",
+      "eventos": [],
+      "tags": [
+        "pérsia",
+        "zoroastrismo",
+        "monoteísmo",
+        "dualismo",
+        "bem-mal",
+        "religião"
+      ]
+    },
+    {
+      "id": "po-009",
+      "nome": "Maomé",
+      "nome_en": "Muhammad",
+      "nome_es": "Mahoma",
+      "nascimento": 570,
+      "morte": 632,
+      "regiao": "MiddleEast",
+      "area": [
+        "religião",
+        "política"
+      ],
+      "cargo": "Profeta",
+      "epoca": "Medieval",
+      "descricao": "Nascido em Meca, comerciante, órfão criado pelo avô e tio. Aos 40 anos, começou a receber revelações (o Corão) pelo anjo Gabriel na Caverna Hira. Em 622 fez a Hégira (migração) para Medina — ano 1 do calendário islâmico. Unificou politicamente as tribos árabes sob o Islã. Morreu em 632, tendo convertido toda a Arábia e lançado a expansão que transformaria o mundo.",
+      "importancia": "Em menos de um século após a morte de Maomé, o Islã se expandiu do Atlântico à Índia — a expansão religiosa mais rápida da história. O Islã não é apenas religião mas sistema jurídico (sharia), social e político. 1,8 bilhão de pessoas seguem seus ensinamentos. A cisão sunita-xiita (sobre a sucessão de Maomé) continua determinando guerras no século XXI.",
+      "eventos": [],
+      "tags": [
+        "islã",
+        "profeta",
+        "corão",
+        "meca",
+        "hégira",
+        "religião"
+      ]
+    },
+    {
+      "id": "po-010",
+      "nome": "Al-Khwarizmi",
+      "nome_en": "Al-Khwarizmi",
+      "nome_es": "Al-Juarismi",
+      "nascimento": 780,
+      "morte": 850,
+      "regiao": "MiddleEast",
+      "area": [
+        "matemática",
+        "ciência"
+      ],
+      "cargo": "Matemático",
+      "epoca": "Medieval",
+      "descricao": "Matemático persa que trabalhava na Casa da Sabedoria de Bagdá. Seu livro 'Al-Kitab al-mukhtasar fi hisab al-jabr wal-muqabala' (c.830) deu origem à palavra 'álgebra' (al-jabr). Introduziu o sistema decimal hindu-arábico na matemática islâmica e europeia. Seu nome latinizado — 'Algoritmi' — deu origem à palavra 'algoritmo'.",
+      "importancia": "Sem Al-Khwarizmi não há álgebra, sem álgebra não há matemática moderna, sem matemática moderna não há ciência ou tecnologia contemporâneas. Os algoritmos que nomeiam toda a ciência da computação derivam de seu nome. A Casa da Sabedoria de Bagdá, onde trabalhou, foi o maior centro intelectual do mundo no século IX — quando a Europa atravessava a Idade das Trevas.",
+      "eventos": [],
+      "tags": [
+        "álgebra",
+        "algoritmo",
+        "matemática",
+        "bagdá",
+        "islã",
+        "ciência"
+      ]
+    },
+    {
+      "id": "po-011",
+      "nome": "Avicena (Ibn Sina)",
+      "nome_en": "Avicenna (Ibn Sina)",
+      "nome_es": "Avicena (Ibn Sina)",
+      "nascimento": 980,
+      "morte": 1037,
+      "regiao": "MiddleEast",
+      "area": [
+        "medicina",
+        "filosofia"
+      ],
+      "cargo": "Médico e Filósofo",
+      "epoca": "Medieval",
+      "descricao": "Médico e filósofo persa, o mais influente do mundo islâmico medieval. O Cânon da Medicina (5 volumes) foi o padrão da medicina europeia até o século XVII. Descreveu meningite, diabetes, doenças psicossomáticas e contágio. Filosoficamente, reconciliou Aristóteles com o Islã e desenvolveu o argumento do 'homem voador' — precursor do cogito cartesiano.",
+      "importancia": "O Cânon de Avicena foi traduzido para o latim no século XII e foi livro-texto nas universidades europeias por 600 anos. Mais de 450 obras em árabe e persa. Seu argumento do 'homem voador' (consciousness sem sensação corporal) antecipa o 'penso, logo existo' de Descartes em 600 anos. A medicina islâmica medieval era mais avançada que a europeia — e Avicena foi seu pico.",
+      "eventos": [],
+      "tags": [
+        "medicina",
+        "filosofia",
+        "islã",
+        "cânon",
+        "pérsia",
+        "ciência"
+      ]
+    },
+    {
+      "id": "po-012",
+      "nome": "Gengis Khan",
+      "nome_en": "Genghis Khan",
+      "nome_es": "Gengis Kan",
+      "nascimento": 1162,
+      "morte": 1227,
+      "regiao": "EastAsia",
+      "area": [
+        "militar",
+        "política"
+      ],
+      "cargo": "Grande Khan",
+      "epoca": "Medieval",
+      "descricao": "Temujin, nascido numa família empobrecida da estepe mongol. Unificou tribos guerreiras mongóis (1206) e criou o maior império contíguo da história. Suas conquistas mataram 40 milhões de pessoas — 10% da população mundial. Mas criou a Pax Mongolica: rotas comerciais seguras do Pacífico ao Mediterrâneo, liberdade religiosa, meritocracia militar.",
+      "importancia": "O Império Mongol conectou pela primeira vez o mundo eurasiático: tecnologias (pólvora, imprensa, compasso da China para Europa), doenças (Peste Negra viajou pelas rotas mongóis) e culturas circularam em escala sem precedente. A destruição de Bagdá (1258) encerrou o Califado Abássida e o 'século de ouro islâmico'. O DNA de ~16 milhões de homens atuais traça a Gengis Khan.",
+      "eventos": [],
+      "tags": [
+        "mongóis",
+        "conquista",
+        "império",
+        "estepe",
+        "pax-mongolica",
+        "guerra"
+      ]
+    },
+    {
+      "id": "po-013",
+      "nome": "Laozi (Lao-Tsé)",
+      "nome_en": "Laozi (Lao-Tzu)",
+      "nome_es": "Laozi (Lao-Tsé)",
+      "nascimento": -601,
+      "morte": -531,
+      "regiao": "EastAsia",
+      "area": [
+        "filosofia",
+        "religião"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Antiguidade",
+      "descricao": "Fundador lendário do taoísmo, suposto autor do Tao Te Ching — 81 capítulos curtos sobre o Tao (o Caminho), a não-ação (wu wei) e a harmonia com a natureza. Segundo a lenda, era arquivista real que, desgostoso com a decadência, partiu para o Ocidente e foi convencido a escrever sua sabedoria antes de desaparecer.",
+      "importancia": "O taoísmo moldou profundamente a medicina, a arte marcial, a pintura e a filosofia chinesas. O conceito de wu wei (não-forçar, fluir com a natureza) é talvez o mais influente da filosofia chinesa no Ocidente contemporâneo — zen, mindfulness e a física de Niels Bohr foram comparados ao taoísmo. Em contraste com Confúcio (ordem social), Laozi propõe harmonia com o cosmos.",
+      "eventos": [],
+      "tags": [
+        "taoísmo",
+        "china",
+        "wu-wei",
+        "tao",
+        "filosofia",
+        "natureza"
+      ]
+    },
+    {
+      "id": "po-014",
+      "nome": "Akhenaton",
+      "nome_en": "Akhenaten",
+      "nome_es": "Akenatón",
+      "nascimento": -1380,
+      "morte": -1336,
+      "regiao": "Africa",
+      "area": [
+        "religião",
+        "política"
+      ],
+      "cargo": "Faraó",
+      "epoca": "Antiguidade",
+      "descricao": "Faraó da XVIII Dinastia que abandonou o politeísmo egípcio e impôs o culto exclusivo de Aton (o disco solar) — o primeiro monoteísmo de Estado da história. Construiu nova capital, Amarna. Sua reforma religiosa foi tão radical que após sua morte foi apagado dos registros — seu nome martelado dos monumentos. Pai de Tutancâmon.",
+      "importancia": "Akhenaton realizou a primeira revolução religiosa monoteísta documentada — 800 anos antes de Moisés (se Moisés existiu historicamente). Freud propôs que o judaísmo derivou da teologia de Amarna. Independentemente dessa controversa hipótese, Akhenaton demonstra que revoluções religiosas radicais impostas de cima geralmente fracassam — a classe sacerdotal reverteu tudo após sua morte.",
+      "eventos": [],
+      "tags": [
+        "egito",
+        "monoteísmo",
+        "aton",
+        "amarna",
+        "revolução-religiosa",
+        "faraó"
+      ]
+    },
+    {
+      "id": "po-015",
+      "nome": "Hatshepsut",
+      "nome_en": "Hatshepsut",
+      "nome_es": "Hatshepsut",
+      "nascimento": -1507,
+      "morte": -1458,
+      "regiao": "Africa",
+      "area": [
+        "política"
+      ],
+      "cargo": "Faraó",
+      "epoca": "Antiguidade",
+      "descricao": "Uma das pouquíssimas mulheres a governar como Faraó (não como rainha consorte). Governou o Egito por ~20 anos (1479-1458 a.C.) como co-regente e depois governante plena. Usava barba postiça ritual. Expandiu o comércio com Punt, construiu o magnífico templo de Deir el-Bahari. Seu enteado Tutmósis III apagou sua memória após sua morte.",
+      "importancia": "Hatshepsut é o caso mais documentado de liderança feminina na Antiguidade — e de apagamento sistemático dessa liderança. Sua damnatio memoriae (destruição de imagens e nome) por Tutmósis III foi por muito tempo atribuída a vingança pessoal, mas pesquisas recentes sugerem motivação dinástica. Só foi redescoberta no século XIX. É símbolo do apagamento histórico de mulheres.",
+      "eventos": [],
+      "tags": [
+        "egito",
+        "faraó",
+        "mulher",
+        "poder",
+        "apagamento",
+        "comércio"
+      ]
+    },
+    {
+      "id": "po-016",
+      "nome": "Dario I",
+      "nome_en": "Darius I",
+      "nome_es": "Dario I",
+      "nascimento": -550,
+      "morte": -486,
+      "regiao": "MiddleEast",
+      "area": [
+        "política",
+        "administração"
+      ],
+      "cargo": "Rei dos Reis",
+      "epoca": "Antiguidade",
+      "descricao": "Terceiro Rei Aquemênida da Pérsia, organizou o maior império da época em satrapias (províncias) com governadores, sistema postal real (mansab), pesos e medidas uniformes e o Código de Dario. Construiu Persépolis. Iniciou as Guerras Médicas contra a Grécia — derrotado em Maratona (490 a.C.) por Milcíades.",
+      "importancia": "Dario criou o primeiro grande Estado burocrático da história: um sistema administrativo que permitia governar 50 milhões de pessoas em território enorme com comunicação eficiente. Seu modelo de satrapias — autonomia local dentro de lealdade imperial — foi copiado por Alexandre, os romanos, os otomanos e os britânicos na Índia. A administração imperial moderna tem raízes em Dario.",
+      "eventos": [
+        "grecia-002"
+      ],
+      "tags": [
+        "pérsia",
+        "aquemênida",
+        "administração",
+        "satrapias",
+        "maratona",
+        "império"
+      ]
+    },
+    {
+      "id": "po-017",
+      "nome": "Ptolomeu I",
+      "nome_en": "Ptolemy I",
+      "nome_es": "Ptolomeo I",
+      "nascimento": -367,
+      "morte": -283,
+      "regiao": "Africa",
+      "area": [
+        "política",
+        "ciência"
+      ],
+      "cargo": "Faraó e General",
+      "epoca": "Antiguidade",
+      "descricao": "General de Alexandre Magno que se tornou governador e depois Faraó do Egito, fundando a dinastia ptolemaica. Fundou a Biblioteca de Alexandria — reunindo o maior acervo de conhecimento da Antiguidade. Seu filho Ptolomeu II expandiu a Biblioteca para 700.000 rolos. O Museu de Alexandria foi o primeiro centro de pesquisa pública do mundo.",
+      "importancia": "A Biblioteca de Alexandria representa o projeto mais ambicioso de preservação do conhecimento humano já concebido — e sua destruição progressiva, o maior desastre intelectual da Antiguidade. Ptolomeu I compreendeu que o poder intelectual é tão importante quanto o militar para um império. O conceito de biblioteca pública universal como serviço ao conhecimento humano começa com ele.",
+      "eventos": [],
+      "tags": [
+        "alexandria",
+        "biblioteca",
+        "egito",
+        "ptolemaica",
+        "conhecimento",
+        "ciência"
+      ]
+    },
+    {
+      "id": "po-018",
+      "nome": "Ezra (profeta)",
+      "nome_en": "Ezra the Scribe",
+      "nome_es": "Esdras",
+      "nascimento": -480,
+      "morte": -440,
+      "regiao": "MiddleEast",
+      "area": [
+        "religião",
+        "direito"
+      ],
+      "cargo": "Escriba e Sacerdote",
+      "epoca": "Antiguidade",
+      "descricao": "Escriba e sacerdote judeu que liderou a reconstrução da identidade judaica após o retorno do exílio babilônico (458 a.C.). Reuniu o povo e leu publicamente a Torá por sete dias — o evento que transformou Israel de um povo étnico-político num 'povo do Livro'. Estabeleceu a Bíblia Hebraica como constituição religiosa e civil da comunidade.",
+      "importancia": "Ezra inventou o judaísmo rabínico: uma religião baseada em texto sagrado e interpretação letrada, que pode sobreviver sem território, sem templo e sem Estado — como provou o exílio. Esse modelo de identidade religiosa portátil, baseada em texto e comunidade, foi copiado pelo Cristianismo e pelo Islã. O judaísmo de Ezra sobreviveu 2.500 anos e dois exílios porque não dependia de lugar físico.",
+      "eventos": [],
+      "tags": [
+        "judaísmo",
+        "bíblia",
+        "exílio",
+        "torá",
+        "identidade",
+        "religião"
+      ]
+    }
+  ]
+}

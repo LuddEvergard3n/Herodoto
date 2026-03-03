@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "EUA: Guerra Fria, Direitos Civis e Contracultura",
+    "periodo": "1947-1975"
+  },
+  "entidades": [
+    {
+      "id": "gf-001",
+      "nome": "Doutrina Truman e o Início da Guerra Fria",
+      "nome_en": "Truman Doctrine and the Beginning of the Cold War",
+      "nome_es": "Doctrina Truman y el Inicio de la Guerra Fría",
+      "tipo": "periodo",
+      "inicio": 1947,
+      "fim": 1953,
+      "region": "NorthAmerica",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "A Doutrina Truman (1947) comprometeu os EUA a apoiar 'povos livres que resistem à subjugação por minorias armadas ou pressão exterior' — fundando o princípio da contenção. O Plano Marshall (1948) reconstruiu a Europa Ocidental como baluarte contra o comunismo. A OTAN (1949) criou a aliança militar ocidental. A explosão da bomba atômica soviética (1949) e a vitória comunista na China (outubro 1949) intensificaram o medo. A Guerra da Coreia (1950–53) foi a primeira guerra quente da Guerra Fria.",
+      "descricao_en": "The Truman Doctrine (1947) committed the US to supporting 'free peoples who are resisting subjugation by armed minorities or by outside pressures' — founding the containment principle. The Marshall Plan (1948) rebuilt Western Europe as a bulwark against communism. NATO (1949) created the Western military alliance. The Soviet atomic bomb (1949) and Communist victory in China (October 1949) intensified fear. The Korean War (1950–53) was the Cold War's first hot war.",
+      "descricao_es": "La Doctrina Truman comprometió a los EE.UU. a contener el comunismo. El Plan Marshall reconstruyó Europa Occidental. La bomba atómica soviética (1949) y la victoria comunista en China intensificaron el miedo.",
+      "importancia": "A 'contenção' formulada por George Kennan e adotada por Truman foi a estratégia americana que eventualmente 'venceu' a Guerra Fria sem confronto direto — esperando que o sistema soviético implodisse por suas próprias contradições, o que ocorreu em 1991.",
+      "importancia_en": "The 'containment' strategy formulated by George Kennan and adopted by Truman was the American strategy that eventually 'won' the Cold War without direct confrontation — waiting for the Soviet system to implode from its own contradictions, which occurred in 1991.",
+      "importancia_es": "La estrategia de 'contención' formulada por Kennan y adoptada por Truman fue la que eventualmente 'ganó' la Guerra Fría sin confrontación directa.",
+      "tags": [
+        "Truman",
+        "contenção",
+        "Plano Marshall",
+        "OTAN",
+        "Coreia",
+        "Guerra Fria"
+      ],
+      "dataset": "data/dados-eua-guerra-fria.json"
+    },
+    {
+      "id": "gf-002",
+      "nome": "McCarthyismo e a Caça às Bruxas Americana",
+      "nome_en": "McCarthyism and the American Witch Hunt",
+      "nome_es": "El Macartismo y la Caza de Brujas Americana",
+      "tipo": "periodo",
+      "inicio": 1947,
+      "fim": 1957,
+      "region": "NorthAmerica",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "O senador Joseph McCarthy (1950–54) liderou a 'caça às bruxas' anticomunista — acusando sem provas centenas de funcionários, artistas, intelectuais e militares de espionagem soviética. O HUAC (House Un-American Activities Committee) convocou e destruiu carreiras em Hollywood (Lista Negra). Ethel e Julius Rosenberg foram executados como espiões em 1953. O jornalista Edward R. Murrow (CBS) foi o primeiro a expor publicamente a demagogia de McCarthy — que acabou desacreditado em 1954.",
+      "descricao_en": "Senator Joseph McCarthy (1950–54) led the anticommunist 'witch hunt' — accusing without evidence hundreds of officials, artists, intellectuals and military personnel of Soviet espionage. HUAC (House Un-American Activities Committee) summoned and destroyed Hollywood careers (Blacklist). Ethel and Julius Rosenberg were executed as spies in 1953. Journalist Edward R. Murrow (CBS) was the first to publicly expose McCarthy's demagoguery.",
+      "descricao_es": "El senador McCarthy lideró la 'caza de brujas' anticomunista. El HUAC destruyó carreras en Hollywood. Los Rosenberg fueron ejecutados. Murrow fue el primero en exponer la demagogia de McCarthy.",
+      "importancia": "O McCarthyismo é o exemplo clássico americano de pânico moral e supressão civil em nome da segurança. A perseguição sem evidências de inocentes, a destruição de carreiras por associação, e o medo do 'inimigo interno' são padrões que se repetem na história americana (Red Scare de 1919, pós-11/9).",
+      "importancia_en": "McCarthyism is the classic American example of moral panic and civil suppression in the name of security. The evidence-free persecution of innocents, destruction of careers by association, and fear of the 'internal enemy' are patterns that repeat in American history.",
+      "importancia_es": "El macartismo es el ejemplo clásico americano de pánico moral y supresión civil en nombre de la seguridad.",
+      "tags": [
+        "McCarthy",
+        "HUAC",
+        "Lista Negra",
+        "Rosenberg",
+        "Murrow",
+        "anticomunismo"
+      ],
+      "dataset": "data/dados-eua-guerra-fria.json"
+    },
+    {
+      "id": "gf-003",
+      "nome": "Martin Luther King e o Movimento dos Direitos Civis",
+      "nome_en": "Martin Luther King and the Civil Rights Movement",
+      "nome_es": "Martin Luther King y el Movimiento de Derechos Civiles",
+      "tipo": "periodo",
+      "inicio": 1954,
+      "fim": 1968,
+      "region": "NorthAmerica",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "social",
+      "descricao": "Rosa Parks recusou-se a ceder seu assento no ônibus (Montgomery, 1955), desencadeando o boicote de 381 dias liderado por Martin Luther King Jr. A Suprema Corte derrubou a segregação escolar (Brown vs. Board of Education, 1954). As marchas, sit-ins e a violência policial televisionada chocaram a nação. O discurso 'I Have a Dream' (Washington, 1963, 250.000 presentes) mobilizou a opinião pública. O Civil Rights Act (1964) e o Voting Rights Act (1965) desmantelaram legalmente o sistema Jim Crow.",
+      "descricao_en": "Rosa Parks refused to give up her seat on the bus (Montgomery, 1955), triggering the 381-day boycott led by Martin Luther King Jr. The Supreme Court struck down school segregation (Brown vs. Board of Education, 1954). Marches, sit-ins and televised police violence shocked the nation. The 'I Have a Dream' speech (Washington, 1963) mobilized public opinion. The Civil Rights Act (1964) and Voting Rights Act (1965) legally dismantled the Jim Crow system.",
+      "descricao_es": "Rosa Parks desencadenó el boicot de Montgomery liderado por King. El discurso 'I Have a Dream' (1963) movilizó la opinión pública. El Civil Rights Act (1964) y el Voting Rights Act (1965) desmantelaron legalmente el sistema Jim Crow.",
+      "importancia": "O Movimento dos Direitos Civis americano é o modelo global de resistência não violenta — estudado por movimentos em todo o mundo. King foi assassinado em 4 de abril de 1968, mas seu legado moldou a política americana permanentemente, culminando na eleição do primeiro presidente negro (Obama, 2008).",
+      "importancia_en": "The American Civil Rights Movement is the global model of nonviolent resistance — studied by movements worldwide. King was assassinated on April 4, 1968, but his legacy permanently shaped American politics, culminating in the election of the first Black president (Obama, 2008).",
+      "importancia_es": "El Movimiento de Derechos Civiles americano es el modelo global de resistencia no violenta. King fue asesinado en 1968, pero su legado culminó en la elección de Obama en 2008.",
+      "tags": [
+        "King",
+        "Rosa Parks",
+        "Montgomery",
+        "Jim Crow",
+        "Civil Rights Act",
+        "sonho"
+      ],
+      "dataset": "data/dados-eua-guerra-fria.json"
+    },
+    {
+      "id": "gf-005",
+      "nome": "Vietnã: A Primeira Guerra Perdida dos EUA",
+      "nome_en": "Vietnam: America's First Lost War",
+      "nome_es": "Vietnam: La Primera Guerra Perdida de EE.UU.",
+      "tipo": "periodo",
+      "inicio": 1955,
+      "fim": 1975,
+      "region": "NorthAmerica",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "war",
+      "descricao": "Os EUA enviaram 550.000 soldados ao Vietnã no auge (1968) para conter o comunismo norte-vietnamita. As transmissões televisivas da guerra — My Lai, Napalm, a ofensiva Tet — destruíram o apoio doméstico. O Movimento Antibelicista dividiu a América. A retirada americana (1973, Acordos de Paris) e a queda de Saigon (30 de abril de 1975) foram o maior trauma militar americano do século XX. 58.000 americanos e ~2 milhões de vietnamitas morreram. A Síndrome do Vietnã moldou a política externa americana por décadas.",
+      "descricao_en": "The US sent 550,000 soldiers to Vietnam at peak (1968) to contain North Vietnamese communism. Television broadcasts of the war — My Lai, napalm, the Tet Offensive — destroyed domestic support. The Anti-War Movement divided America. The American withdrawal (1973, Paris Accords) and fall of Saigon (April 30, 1975) were the greatest US military trauma of the 20th century. 58,000 Americans and ~2 million Vietnamese died.",
+      "descricao_es": "Los EE.UU. enviaron 550.000 soldados a Vietnam. Las imágenes televisadas de My Lai y la ofensiva Tet destruyeron el apoyo doméstico. La caída de Saigón (1975) fue el mayor trauma militar americano del siglo XX.",
+      "importancia": "O Vietnã demonstrou os limites do poder militar americano — uma superpotência nuclear não pôde derrotar um movimento de guerrilha de países pequenos. A 'Síndrome do Vietnã' tornou os americanos céticos sobre intervenções militares, durando até o 11 de setembro.",
+      "importancia_en": "Vietnam demonstrated the limits of American military power — a nuclear superpower could not defeat a small-country guerrilla movement. The 'Vietnam Syndrome' made Americans skeptical of military interventions, lasting until September 11.",
+      "importancia_es": "Vietnam demostró los límites del poder militar americano. La 'Síndrome de Vietnam' hizo a los americanos escépticos sobre las intervenciones militares.",
+      "tags": [
+        "Vietnã",
+        "Saigon",
+        "antibelicismo",
+        "My Lai",
+        "Tet",
+        "derrota"
+      ],
+      "dataset": "data/dados-eua-guerra-fria.json"
+    },
+    {
+      "id": "gf-004",
+      "nome": "A Corrida Espacial e a Lua",
+      "nome_en": "The Space Race and the Moon",
+      "nome_es": "La Carrera Espacial y la Luna",
+      "tipo": "periodo",
+      "inicio": 1957,
+      "fim": 1972,
+      "region": "NorthAmerica",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "technological",
+      "descricao": "O Sputnik soviético (outubro de 1957) chocou os americanos e lançou a corrida espacial. A NASA foi criada em 1958. Yuri Gagarin (abril de 1961) tornou-se o primeiro homem no espaço — humilhação americana. Kennedy prometeu enviar um homem à Lua até 1969. A missão Apollo 11 (16–24 de julho de 1969) pousou Neil Armstrong e Buzz Aldrin na Lua — 600 milhões de pessoas assistiram ao vivo na TV. 'Um pequeno passo para um homem, um gigante salto para a humanidade.' A NASA recebeu 4% do orçamento federal.",
+      "descricao_en": "The Soviet Sputnik (October 1957) shocked Americans and launched the space race. NASA was created in 1958. Yuri Gagarin (April 1961) became the first man in space — American humiliation. Kennedy promised to land a man on the Moon by 1969. Apollo 11 (July 16–24, 1969) landed Neil Armstrong and Buzz Aldrin on the Moon — 600 million people watched live on TV.",
+      "descricao_es": "El Sputnik soviético (1957) lanzó la carrera espacial. La NASA fue creada en 1958. Armstrong y Aldrin llegaron a la Luna el 20 de julio de 1969 — 600 millones de personas lo vieron en vivo.",
+      "importancia": "A corrida espacial foi o maior projeto científico-tecnológico de paz da história — e provou que a competição geopolítica pode acelerar a inovação. As tecnologias desenvolvidas pela NASA (circuitos integrados, computadores, internet — via ARPANET) transformaram o mundo.",
+      "importancia_en": "The space race was the greatest peacetime scientific-technological project in history — proving that geopolitical competition can accelerate innovation. Technologies developed by NASA (integrated circuits, computers, internet — via ARPANET) transformed the world.",
+      "importancia_es": "La carrera espacial fue el mayor proyecto científico-tecnológico de paz. Las tecnologías desarrolladas por la NASA (circuitos integrados, internet) transformaron el mundo.",
+      "tags": [
+        "Apollo",
+        "Lua",
+        "Armstrong",
+        "Kennedy",
+        "NASA",
+        "Sputnik"
+      ],
+      "dataset": "data/dados-eua-guerra-fria.json"
+    },
+    {
+      "id": "gf-006",
+      "nome": "Kennedy, Watergate e a Crise da Confiança",
+      "nome_en": "Kennedy, Watergate and the Crisis of Trust",
+      "nome_es": "Kennedy, Watergate y la Crisis de Confianza",
+      "tipo": "periodo",
+      "inicio": 1960,
+      "fim": 1974,
+      "region": "NorthAmerica",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "John F. Kennedy (r. 1961–63) representou a esperança da geração do pós-guerra — jovem, carismático, católico. A Crise dos Mísseis de Cuba (outubro de 1962) foi o momento mais perigoso da Guerra Fria — 13 dias à beira da guerra nuclear. Kennedy foi assassinado em Dallas (22 de novembro de 1963). O escândalo Watergate (1972–74) levou à renúncia de Nixon — primeiro presidente americano a renunciar. 'Não sou um vigarista', disse Nixon. A confiança nas instituições americanas nunca se recuperou completamente.",
+      "descricao_en": "John F. Kennedy (r. 1961–63) represented the hope of the postwar generation. The Cuban Missile Crisis (October 1962) was the most dangerous moment of the Cold War — 13 days on the brink of nuclear war. Kennedy was assassinated in Dallas (November 22, 1963). The Watergate scandal (1972–74) led to Nixon's resignation — the first American president to resign. Trust in American institutions never fully recovered.",
+      "descricao_es": "Kennedy representó la esperanza de la posguerra. La Crisis de los Misiles de Cuba (1962) fue el momento más peligroso de la Guerra Fría. El escándalo Watergate (1972-74) llevó a la renuncia de Nixon — el primer presidente americano en renunciar.",
+      "importancia": "O assassinato de Kennedy é o maior mistério não resolvido da história americana moderna. Watergate estabeleceu o precedente de que nenhum presidente está acima da lei — Nixon foi o primeiro, mas não o último, a aprender essa lição. A crise de confiança pós-Vietnã e pós-Watergate criou o cinismo político americano contemporâneo.",
+      "importancia_en": "Kennedy's assassination is the greatest unsolved mystery of modern American history. Watergate established the precedent that no president is above the law. The post-Vietnam and post-Watergate trust crisis created contemporary American political cynicism.",
+      "importancia_es": "El asesinato de Kennedy es el mayor misterio no resuelto de la historia americana moderna. Watergate estableció que ningún presidente está por encima de la ley.",
+      "tags": [
+        "Kennedy",
+        "Watergate",
+        "Nixon",
+        "Cuba",
+        "assassinato",
+        "confiança"
+      ],
+      "dataset": "data/dados-eua-guerra-fria.json"
+    },
+    {
+      "id": "gf-007",
+      "nome": "A Contracultura dos Anos 60: Hippies, Rock e Revolução Social",
+      "nome_en": "The 1960s Counterculture: Hippies, Rock and Social Revolution",
+      "nome_es": "La Contracultura de los 60: Hippies, Rock y Revolución Social",
+      "tipo": "periodo",
+      "inicio": 1963,
+      "fim": 1974,
+      "region": "NorthAmerica",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "cultural",
+      "descricao": "Os anos 1960–74 foram a maior revolução cultural da história americana: o Movimento dos Direitos Civis, o feminismo de segunda onda (Betty Friedan, 'A Mística Feminina', 1963), a Revolução Sexual (pílula anticoncepcional, 1960), os Beatles e o Rock, Woodstock (1969, 400.000 presentes), o Black Power, o Movimento Gay (Stonewall, 1969) e os hippies. Essa contracultura redefiniu os valores americanos — e exportou-os para o mundo inteiro via cultura pop.",
+      "descricao_en": "The years 1960–74 were the greatest cultural revolution in American history: the Civil Rights Movement, second-wave feminism (Betty Friedan, 'The Feminine Mystique', 1963), the Sexual Revolution (contraceptive pill, 1960), the Beatles and Rock, Woodstock (1969, 400,000 attendees), Black Power, the Gay Movement (Stonewall, 1969) and the hippies.",
+      "descricao_es": "Los años 1960-74 fueron la mayor revolución cultural de la historia americana: Derechos Civiles, feminismo, Revolución Sexual, Beatles, Woodstock, Black Power y Stonewall.",
+      "importancia": "A contracultura americana dos anos 60 transformou os valores morais, sexuais e políticos do Ocidente inteiro — via música, cinema, moda e movimentos sociais. Nenhum outro período de dez anos na história americana produziu mudança cultural comparável.",
+      "importancia_en": "The American counterculture of the 1960s transformed the moral, sexual and political values of the entire West — through music, cinema, fashion and social movements. No other ten-year period in American history produced comparable cultural change.",
+      "importancia_es": "La contracultura americana de los 60 transformó los valores del Occidente entero vía música, cine y movimientos sociales.",
+      "tags": [
+        "hippies",
+        "Woodstock",
+        "Beatles",
+        "Stonewall",
+        "feminismo",
+        "contracultura"
+      ],
+      "dataset": "data/dados-eua-guerra-fria.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "gf-001",
+      "destino": "gf-002",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Doutrina Truman e medo soviético criam clima para o McCarthyismo"
+    },
+    {
+      "origem": "gf-001",
+      "destino": "gf-004",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Guerra Fria e Sputnik lançam a corrida espacial"
+    },
+    {
+      "origem": "gf-003",
+      "destino": "gf-007",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Direitos Civis inspiram e se fundem com a contracultura dos 60"
+    },
+    {
+      "origem": "gf-005",
+      "destino": "gf-006",
+      "tipo": "causalidade",
+      "intensidade": 0.6,
+      "descricao": "Vietnã e assassinatos criam a crise de confiança que prepara Watergate"
+    },
+    {
+      "origem": "gf-006",
+      "destino": "gf-005",
+      "tipo": "paralelo",
+      "intensidade": 0.7,
+      "descricao": "Watergate e Vietnã são crises simultâneas que traumatizam a América"
+    },
+    {
+      "origem": "gf-004",
+      "destino": "gf-007",
+      "tipo": "paralelo",
+      "intensidade": 0.6,
+      "descricao": "Corrida espacial e contracultura são expressões opostas dos anos 60"
+    }
+  ]
+}

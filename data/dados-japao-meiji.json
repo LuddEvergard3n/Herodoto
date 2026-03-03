@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "fonte": "Historiografia Internacional",
+    "lingua": "pt",
+    "tema": "Era Meiji: A Modernização do Japão (1868–1912)",
+    "periodo": "1868–1912"
+  },
+  "entidades": [
+    {
+      "id": "jm-001",
+      "nome": "Restauração Meiji: Fim do Xogunato Tokugawa",
+      "nome_en": "Meiji Restoration: End of the Tokugawa Shogunate",
+      "nome_es": "Restauración Meiji: Fin del Shogunato Tokugawa",
+      "tipo": "evento",
+      "inicio": 1868,
+      "fim": 1868,
+      "region": "Asia",
+      "period": "Modern",
+      "century_start": 19,
+      "century_end": 19,
+      "type": "political",
+      "descricao": "A Restauração Meiji (1868) pôs fim a 265 anos de Xogunato Tokugawa e restaurou o poder imperial na figura do jovem Imperador Meiji (Mutsuhito, 15 anos). O Juramento de Cinco Artigos comprometeu o Japão a buscar conhecimento no mundo inteiro. O modelo feudal foi abolido: domínios (han) transformados em prefeituras, samurais perderam seus privilégios e estipêndios.",
+      "descricao_en": "The Meiji Restoration (1868) ended 265 years of Tokugawa Shogunate and restored imperial power in the figure of the young Emperor Meiji (Mutsuhito, 15 years old). The Five Charter Oath committed Japan to seek knowledge throughout the world. The feudal model was abolished.",
+      "descricao_es": "La Restauración Meiji (1868) puso fin a 265 años de Shogunato Tokugawa y restauró el poder imperial.",
+      "importancia": "A Restauração Meiji foi o processo de modernização mais rápido e bem-sucedido da história — em 40 anos, o Japão passou de nação feudal a potência industrial capaz de derrotar a Rússia (1905). É o modelo estudado por todos os países em desenvolvimento que buscam modernização acelerada.",
+      "importancia_en": "The Meiji Restoration was the fastest and most successful modernization process in history — in 40 years, Japan went from feudal nation to industrial power capable of defeating Russia (1905).",
+      "importancia_es": "La Restauración Meiji fue el proceso de modernización más rápido y exitoso de la historia.",
+      "tags": [
+        "Meiji",
+        "restauração",
+        "Tokugawa",
+        "modernização",
+        "imperador",
+        "feudalismo"
+      ],
+      "dataset": "data/dados-japao-meiji.json"
+    },
+    {
+      "id": "jm-002",
+      "nome": "Industrialização Japonesa e a Oligarquia Meiji",
+      "nome_en": "Japanese Industrialization and the Meiji Oligarchy",
+      "nome_es": "Industrialización Japonesa y la Oligarquía Meiji",
+      "tipo": "periodo",
+      "inicio": 1868,
+      "fim": 1912,
+      "region": "Asia",
+      "period": "Modern",
+      "century_start": 19,
+      "century_end": 20,
+      "type": "technological",
+      "descricao": "A oligarquia Meiji — liderada por ex-samurais como Okubo Toshimichi, Ito Hirobumi e Yamagata Aritomo — dirigiu a modernização: enviou a Missão Iwakura (1871–73, 107 membros) ao Ocidente para estudar instituições; contratou ~3.000 especialistas estrangeiros (o-yatoi); estabeleceu universidades, escolas, bancos, ferrovias e indústrias têxteis. O PIB japonês cresceu 5 vezes entre 1868 e 1912.",
+      "descricao_en": "The Meiji oligarchy — led by former samurai like Okubo Toshimichi, Ito Hirobumi and Yamagata Aritomo — directed modernization: sent the Iwakura Mission (1871–73, 107 members) to the West to study institutions; hired ~3,000 foreign specialists (o-yatoi); established universities, schools, banks, railways and textile industries. Japanese GDP grew 5 times between 1868 and 1912.",
+      "descricao_es": "La oligarquía Meiji dirigió la modernización: envió la Misión Iwakura al Occidente y contrató ~3.000 especialistas extranjeros.",
+      "importancia": "A Missão Iwakura é única na história: um governo enviou mais de 100 de seus maiores líderes para estudar o inimigo/modelo durante 2 anos. Esse nível de humildade estratégica não tem paralelo na história moderna.",
+      "importancia_en": "The Iwakura Mission is unique in history: a government sent over 100 of its greatest leaders to study the enemy/model for 2 years. This level of strategic humility has no parallel in modern history.",
+      "importancia_es": "La Misión Iwakura es única en la historia: un gobierno envió a más de 100 de sus mayores líderes a estudiar Occidente durante 2 años.",
+      "tags": [
+        "Iwakura",
+        "industrialização",
+        "o-yatoi",
+        "Ito Hirobumi",
+        "ferrovias",
+        "modernização"
+      ],
+      "dataset": "data/dados-japao-meiji.json"
+    },
+    {
+      "id": "jm-003",
+      "nome": "Constituição Meiji e o Bushido Militarista",
+      "nome_en": "Meiji Constitution and Militarist Bushido",
+      "nome_es": "Constitución Meiji y el Bushido Militarista",
+      "tipo": "periodo",
+      "inicio": 1889,
+      "fim": 1912,
+      "region": "Asia",
+      "period": "Modern",
+      "century_start": 19,
+      "century_end": 20,
+      "type": "political",
+      "descricao": "A Constituição Meiji (1889), redigida por Ito Hirobumi baseando-se no modelo prussiano, foi a primeira constituição da Ásia. Criou um parlamento (Dieta) com poderes limitados — o imperador mantinha controle sobre o exército e a marinha. O Código de Educação Nacional (1890) introduziu o Rescrito Imperial sobre Educação, que promovia obediência ao imperador e ao Estado. O bushido foi recodificado como ética nacional militarista.",
+      "descricao_en": "The Meiji Constitution (1889), drafted by Ito Hirobumi based on the Prussian model, was the first constitution in Asia. It created a parliament (Diet) with limited powers — the emperor retained control over the army and navy. The Rescript on Education (1890) promoted obedience to the emperor and State. Bushido was recodified as nationalist militarist ethics.",
+      "descricao_es": "La Constitución Meiji (1889) fue la primera constitución de Asia. El Rescripto Imperial sobre Educación promovió la obediencia al emperador.",
+      "importancia": "A Constituição Meiji, baseada no modelo prussiano, criou o arcabouço político que levaria ao militarismo da Era Showa e à Segunda Guerra Mundial. A escolha do modelo prussiano em vez do britânico ou americano foi determinante para o futuro do Japão.",
+      "importancia_en": "The Meiji Constitution, based on the Prussian model, created the political framework that would lead to Showa Era militarism and World War II. The choice of the Prussian rather than British or American model was determinative for Japan's future.",
+      "importancia_es": "La Constitución Meiji creó el marco político que llevaría al militarismo de la Era Showa y la Segunda Guerra Mundial.",
+      "tags": [
+        "Constituição Meiji",
+        "Dieta",
+        "imperador",
+        "bushido",
+        "prussiano",
+        "Rescrito",
+        "militarismo"
+      ],
+      "dataset": "data/dados-japao-meiji.json"
+    },
+    {
+      "id": "jm-004",
+      "nome": "Guerras Sino-Japonesa e Russo-Japonesa",
+      "nome_en": "Sino-Japanese and Russo-Japanese Wars",
+      "nome_es": "Guerras Sino-Japonesa y Ruso-Japonesa",
+      "tipo": "periodo",
+      "inicio": 1894,
+      "fim": 1905,
+      "region": "Multiple",
+      "period": "Modern",
+      "century_start": 19,
+      "century_end": 20,
+      "type": "war",
+      "descricao": "A Guerra Sino-Japonesa (1894–95) demonstrou o poder da modernização: o Japão derrotou a China Qing, obteve Taiwan e o reconhecimento como potência regional. A Guerra Russo-Japonesa (1904–05) foi a primeira grande derrota de uma potência europeia por uma asiática desde as Cruzadas: a frota russa do Báltico foi destruída na Batalha de Tsushima (1905) pelo Almirante Togo. O Tratado de Portsmouth (mediado por Roosevelt) consagrou o Japão como grande potência.",
+      "descricao_en": "The Sino-Japanese War (1894–95) demonstrated modernization's power: Japan defeated Qing China, obtained Taiwan and recognition as a regional power. The Russo-Japanese War (1904–05) was the first major defeat of a European power by an Asian one since the Crusades: Russia's Baltic Fleet was destroyed at the Battle of Tsushima (1905). The Treaty of Portsmouth (mediated by Roosevelt) established Japan as a great power.",
+      "descricao_es": "La Guerra Sino-Japonesa demostró el poder de la modernización. La Guerra Ruso-Japonesa fue la primera gran derrota de una potencia europea por una asiática.",
+      "importancia": "A derrota russa em 1905 teve reverberações mundiais: inspirou movimentos anticoloniais na Ásia, África e Oriente Médio; contribuiu para a Revolução Russa de 1905; e alertou as potências europeias para a ascensão japonesa.",
+      "importancia_en": "The Russian defeat in 1905 had worldwide reverberations: it inspired anti-colonial movements across Asia, Africa and the Middle East; contributed to the Russian Revolution of 1905; and alerted European powers to Japan's rise.",
+      "importancia_es": "La derrota rusa en 1905 inspiró movimientos anticoloniales en Asia, África y Oriente Medio.",
+      "tags": [
+        "Tsushima",
+        "Togo",
+        "Rússia",
+        "China",
+        "Guerra Russo-Japonesa",
+        "Portsmouth",
+        "Taiwan"
+      ],
+      "dataset": "data/dados-japao-meiji.json"
+    },
+    {
+      "id": "jm-005",
+      "nome": "Cultura Meiji: Arte, Literatura e a Identidade Japonesa",
+      "nome_en": "Meiji Culture: Art, Literature and Japanese Identity",
+      "nome_es": "Cultura Meiji: Arte, Literatura e Identidad Japonesa",
+      "tipo": "periodo",
+      "inicio": 1868,
+      "fim": 1912,
+      "region": "Asia",
+      "period": "Modern",
+      "century_start": 19,
+      "century_end": 20,
+      "type": "cultural",
+      "descricao": "A Era Meiji produziu uma síntese única entre tradição japonesa e modernidade ocidental: Natsume Soseki escreveu os primeiros romances psicológicos japoneses em estilo ocidental. A pintura yōga (estilo ocidental) coexistiu com a nihonga (estilo japonês renovado). As ukiyo-e de Hiroshige e Hokusai, descobertas pelos impressionistas europeus, revolucionaram a arte ocidental (Japonisme). O teatro Kabuki e o Noh foram reconhecidos como patrimônio nacional.",
+      "descricao_en": "The Meiji Era produced a unique synthesis between Japanese tradition and Western modernity: Natsume Soseki wrote the first Japanese psychological novels in Western style. Yōga (Western-style) painting coexisted with nihonga (renewed Japanese style). Hiroshige and Hokusai's ukiyo-e, discovered by European Impressionists, revolutionized Western art (Japonisme). Kabuki and Noh theater were recognized as national heritage.",
+      "descricao_es": "La Era Meiji produjo una síntesis única entre tradición japonesa y modernidad occidental. Las ukiyo-e de Hiroshige y Hokusai revolucionaron el arte occidental (Japonisme).",
+      "importancia": "O 'Japonisme' — a influência da arte japonesa no Impressionismo europeu — é um dos mais fascinantes intercâmbios culturais da história. Monet, Van Gogh e Degas colecionavam gravuras japonesas que transformaram sua visão da perspectiva, cor e composição.",
+      "importancia_en": "Japonisme — the influence of Japanese art on European Impressionism — is one of the most fascinating cultural exchanges in history. Monet, Van Gogh and Degas collected Japanese prints that transformed their vision of perspective, color and composition.",
+      "importancia_es": "El Japonisme — la influencia del arte japonés en el Impresionismo europeo — es uno de los intercambios culturales más fascinantes de la historia.",
+      "tags": [
+        "Meiji",
+        "cultura",
+        "Soseki",
+        "ukiyo-e",
+        "Japonisme",
+        "Impressionismo",
+        "identidade"
+      ],
+      "dataset": "data/dados-japao-meiji.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "jm-001",
+      "destino": "jm-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Restauração cria a oligarquia que dirige a modernização"
+    },
+    {
+      "origem": "jm-002",
+      "destino": "jm-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Industrialização exige constituição e estado moderno"
+    },
+    {
+      "origem": "jm-003",
+      "destino": "jm-004",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "Exército moderno permite guerras vitoriosas"
+    },
+    {
+      "origem": "jm-002",
+      "destino": "jm-005",
+      "tipo": "paralelo",
+      "intensidade": 0.6,
+      "descricao": "Modernização econômica e cultural ocorrem simultaneamente"
+    }
+  ]
+}

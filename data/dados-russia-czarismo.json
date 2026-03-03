@@ -1,0 +1,197 @@
+{
+  "entidades": [
+    {
+      "id": "rus-001",
+      "nome": "Rus de Kiev e Origens Russas",
+      "nome_en": "Kievan Rus and Russian Origins",
+      "nome_es": "Rus de Kiev y Orígenes Rusos",
+      "tipo": "periodo",
+      "descricao": "Rus de Kiev (séc. IX-XIII): Estado eslavo medieval com capital em Kiev (atual Ucrânia). Rurik: fundador varegue (viking) lendário (862). Vladimir I (980-1015): conversão ao Cristianismo Ortodoxo Bizantino (988) — escolheu Ortodoxia por sua beleza estética (testemunhas na Hagia Sophia). 'Batismo da Rússia' definiu a identidade cultural eslava oriental. Yaroslav, o Sábio: apogeu cultural. Destruído pelos Mongóis (1237-1240).",
+      "descricao_en": "Kievan Rus (9th-13th c.): medieval Slavic state with capital in Kyiv (present-day Ukraine). Rurik: legendary Varangian (Viking) founder (862). Vladimir I (980-1015): conversion to Byzantine Orthodox Christianity (988) — chose Orthodoxy for its aesthetic beauty (witnesses at Hagia Sophia). 'Baptism of Russia' defined Eastern Slavic cultural identity. Yaroslav the Wise: cultural peak. Destroyed by the Mongols (1237-1240).",
+      "descricao_es": "Rus de Kiev (siglos IX-XIII). Rurik: fundador varego (vikingo) legendario (862). Vladímir I (980-1015): conversión al Cristianismo Ortodoxo Bizantino (988). El 'Bautismo de Rusia' definió la identidad cultural eslava oriental. Destruida por los mongoles (1237-1240).",
+      "inicio": 862,
+      "fim": 1240,
+      "tags": [
+        "rus-kiev",
+        "vladmir",
+        "ortodoxia",
+        "eslavos"
+      ],
+      "importancia": "A Rus de Kiev (880-1240) foi o embrião do que se tornaria três nações: Rússia, Ucrânia e Bielorrússia — todas reivindicam heranças do mesmo Estado medieval. A adoção do Cristianismo Ortodoxo por Vladimir I (988) foi decisão geopolítica antes de religiosa: alinhou Kiev com Bizâncio e afastou-a da Europa latina. Essa escolha moldou a cultura, a escrita (cirílico), a arquitetura e a auto-identidade russa por mil anos. A invasão mongol de 1240 destruiu Kiev e deslocou o centro político para Moscou.",
+      "century_start": 9,
+      "century_end": 13,
+      "region": "Europe",
+      "type": "political",
+      "period": "Medieval",
+      "importancia_en": "Yaroslav the Wise: cultural peak. Destroyed by the Mongols (1237-1240).",
+      "importancia_es": "El 'Bautismo de Rusia' definió la identidad cultural eslava oriental. Destruida por los mongoles (1237-1240)."
+    },
+    {
+      "id": "rus-002",
+      "nome": "Ivan, o Terrível e o Czarado",
+      "nome_en": "Ivan the Terrible and the Tsardom",
+      "nome_es": "Iván el Terrible y el Zarato",
+      "tipo": "periodo",
+      "descricao": "Ivan IV, 'o Terrível' (1533-1584): primeiro czar de todas as Rússias. Oprichnina: guarda pessoal de terror — confiscou terras da nobreza (boyardos), massacres em Novgorod (1570). Expandiu para Sibéria (Irmak, 1581) e Cazã. Matou seu próprio filho num acesso de fúria (1581). Paradoxo: expandiu o Estado e o fragilizou. Tempo dos Problemas (Smutnoe Vremia, 1598-1613): vácuo de poder, invasões polonesas. Casa Romanov (1613): início da dinastia que governaria até 1917.",
+      "descricao_en": "Ivan IV, 'the Terrible' (1533-1584): first Tsar of all Russias. Oprichnina: personal terror guard — confiscated nobility (boyar) lands, Novgorod massacres (1570). Expanded into Siberia (Yermak, 1581) and Kazan. Killed his own son in a fit of rage (1581). Paradox: expanded and weakened the State. Time of Troubles (Smutnoe Vremia, 1598-1613): power vacuum, Polish invasions. Romanov dynasty (1613): beginning of the dynasty that would rule until 1917.",
+      "descricao_es": "Iván IV, 'el Terrible' (1533-1584): primer zar de todas las Rusias. Oprichnina: guardia personal de terror. Mató a su propio hijo (1581). Tiempo de los Problemas (1598-1613). Casa Románov (1613): inicio de la dinastía que gobernaría hasta 1917.",
+      "inicio": 1547,
+      "fim": 1584,
+      "tags": [
+        "ivan-terrivel",
+        "czar",
+        "oprichnina",
+        "romanov"
+      ],
+      "importancia": "Ivan IV 'o Terrível' (1547-1584) foi o primeiro czar e o fundador do Estado russo centralizado — ao mesmo tempo em que criou o modelo do terror como instrumento de governo. A Oprichnina (1565-72), sua polícia secreta pessoal, inaugura uma tradição de terror estatal que vai dos streltsy de Pedro às purgas de Stalin. O paradoxo russo: Ivan expandiu o território e centralizou o poder, mas destruiu a boiaria (nobreza) que poderia ter criado as instituições necessárias para limitar o poder czarista.",
+      "century_start": 16,
+      "century_end": 16,
+      "region": "Europe",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Romanov dynasty (1613): beginning of the dynasty that would rule until 1917.",
+      "importancia_es": "Casa Románov (1613): inicio de la dinastía que gobernaría hasta 1917."
+    },
+    {
+      "id": "rus-005",
+      "nome": "Servidão e a Questão Camponesa",
+      "nome_en": "Serfdom and the Peasant Question",
+      "nome_es": "Servidumbre y la Cuestión Campesina",
+      "tipo": "conceito",
+      "descricao": "Servidão russa: ~35% da população eram servos no séc. XVIII — presos à terra, propriedade efetiva dos nobres. Mais intensa e tardia que na Europa Ocidental: abolida apenas em 1861 por Alexandre II. Emancipação incompleta: servos libertos mas sem terra suficiente (mir, terra comunal) e com dívidas por 49 anos (pagamentos de resgate). Consequências: frustração camponesa, base do populismo (narodniki) e posterior apoio ao bolchevismo. 'Problema russo' central do século XIX.",
+      "descricao_en": "Russian serfdom: ~35% of the population were serfs in the 18th c. — tied to the land, effectively property of nobles. More intense and later than in Western Europe: abolished only in 1861 by Alexander II. Incomplete emancipation: serfs freed but without sufficient land (mir, communal land) and with debts for 49 years (redemption payments). Consequences: peasant frustration, base of populism (narodniks) and later Bolshevik support. Central 'Russian problem' of the 19th century.",
+      "descricao_es": "Servidumbre rusa: ~35% de la población en el siglo XVIII. Abolida solo en 1861 por Alejandro II. Emancipación incompleta: libres pero sin tierra suficiente y con deudas por 49 años. Base del populismo y del posterior apoyo bolchevique.",
+      "inicio": 1600,
+      "fim": 1861,
+      "tags": [
+        "servidao",
+        "campesinato",
+        "abolição",
+        "russia"
+      ],
+      "importancia": "A servidão russa (abolida em 1861) foi estruturalmente similar à escravidão americana: trabalhadores vinculados à terra, vendáveis com ela, sem direitos legais. Mas sua abolição, ao contrário da americana, não veio da guerra civil — veio do czar Alexandre II, que a considerava instável e modernizou-a por decreto. O problema: os ex-servos receberam terra mas tinham que pagar por ela em 49 anos — criando uma camada de camponeses endividados que alimentaria a revolução de 1917. A emancipação sem reforma econômica real criou mais ressentimento que a servidão.",
+      "century_start": 17,
+      "century_end": 19,
+      "region": "Europe",
+      "type": "social",
+      "period": "EarlyModern",
+      "importancia_en": "Consequences: peasant frustration, base of populism (narodniks) and later Bolshevik support. Central 'Russian problem' of the 19th century.",
+      "importancia_es": "Emancipación incompleta: libres pero sin tierra suficiente y con deudas por 49 años. Base del populismo y del posterior apoyo bolchevique."
+    },
+    {
+      "id": "rus-003",
+      "nome": "Pedro, o Grande e a Ocidentalização",
+      "nome_en": "Peter the Great and Westernization",
+      "nome_es": "Pedro el Grande y la Occidentalización",
+      "tipo": "periodo",
+      "descricao": "Pedro I (1682-1725): viajou à Europa incógnito (Grande Embaixada, 1697-98). Reformas radicais: barba obrigatória cortada, roupas europeias, calendário gregoriano, capital transferida para São Petersburgo (1703) — 'janela para o Ocidente'. Criou a marinha, exército moderno, Academia de Ciências. Venceu Carlos XII da Suécia em Poltava (1709) — Rússia como potência europeia. Tabela de Postos: mérito substituiu nascimento. Modernização forçada à custa de sofrimento humano imenso.",
+      "descricao_en": "Peter I (1682-1725): traveled to Europe incognito (Grand Embassy, 1697-98). Radical reforms: forced beard cutting, European clothing, Gregorian calendar, capital transferred to St. Petersburg (1703) — 'window to the West'. Created navy, modern army, Academy of Sciences. Defeated Charles XII of Sweden at Poltava (1709) — Russia as European power. Table of Ranks: merit replaced birth. Forced modernization at the cost of immense human suffering.",
+      "descricao_es": "Pedro I (1682-1725): viajó a Europa de incógnito. Reformas radicales: corte de barba, ropa europea, capital trasladada a San Petersburgo (1703). Derrotó a Carlos XII en Poltava (1709). Occidentalización forzada.",
+      "inicio": 1682,
+      "fim": 1725,
+      "tags": [
+        "pedro-grande",
+        "ocidentalizacao",
+        "sao-petersburgo",
+        "modernizacao"
+      ],
+      "importancia": "Pedro, o Grande (1682-1725) tentou comprimir 200 anos de modernização em 30 — e conseguiu parcialmente. A fundação de São Petersburgo (1703) como 'janela para a Europa' foi ato de vontade política: construída em pântano, com trabalho forçado, como capital europeia numa sociedade ainda feudal. Pedro adotou tecnologia, exércitos e vestuário ocidentais mas manteve a servidão e o poder absoluto. A modernização 'de cima para baixo' sem reforma social criou a Rússia que Marx analisou: tecnologia avançada sobre base econômica medieval.",
+      "century_start": 17,
+      "century_end": 18,
+      "region": "Europe",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Forced modernization at the cost of immense human suffering.",
+      "importancia_es": "Reformas radicales: corte de barba, ropa europea, capital trasladada a San Petersburgo (1703). Derrotó a Carlos XII en Poltava (1709)."
+    },
+    {
+      "id": "rus-004",
+      "nome": "Catarina II e o Expansionismo Russo",
+      "nome_en": "Catherine II and Russian Expansionism",
+      "nome_es": "Catalina II y el Expansionismo Ruso",
+      "tipo": "periodo",
+      "descricao": "Catarina II (1762-1796): prussiana que depôs e (provavelmente) mandou matar o marido Pedro III. Déspota esclarecida: correspondência com Voltaire, colecionou arte europeia (Hermitage). Expansão: três partilhas da Polônia (1772, 1793, 1795 — Polônia deixa de existir), guerras contra a Turquia, Criméia. Repressão da Revolta de Pugachev (1773-75): a maior revolta camponesa russa. Fortaleceu a nobreza (nobres isentos de serviço obrigatório). Russo como Terceiro Estado mais poderoso.",
+      "descricao_en": "Catherine II (1762-1796): Prussian who deposed and (probably) had her husband Peter III killed. Enlightened despot: correspondence with Voltaire, collected European art (Hermitage). Expansion: three partitions of Poland (1772, 1793, 1795 — Poland ceases to exist), wars against Turkey, Crimea. Repression of the Pugachev Revolt (1773-75): the largest Russian peasant revolt. Strengthened the nobility. Russia as the most powerful Third Estate.",
+      "descricao_es": "Catalina II (1762-1796): prusiana que depuso a su marido Pedro III. Déspota ilustrada: correspondencia con Voltaire. Expansión: tres particiones de Polonia. Represión de la Revuelta de Pugachev (1773-75). Rusia como gran potencia.",
+      "inicio": 1762,
+      "fim": 1796,
+      "tags": [
+        "catarina-ii",
+        "expansionismo",
+        "polonia",
+        "pugachev"
+      ],
+      "importancia": "Catarina II 'a Grande' (1762-1796) foi a czarina mais notável da história russa: expandiu o território para o Mar Negro, dividiu a Polônia, correspondia-se com Voltaire e Diderot — e aprofundou a servidão após a Revolta de Pugachev (1773). O paradoxo de Catarina é o paradoxo do Despotismo Esclarecido em sua forma mais extrema: liderou o Iluminismo russo intelectualmente enquanto tornava os servos legalmente equivalentes a escravos. As reformas eram para a elite; a servidão era para os 85% que sustentavam a economia.",
+      "century_start": 18,
+      "century_end": 18,
+      "region": "Europe",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Repression of the Pugachev Revolt (1773-75): the largest Russian peasant revolt. Russia as the most powerful Third Estate.",
+      "importancia_es": "Expansión: tres particiones de Polonia. Represión de la Revuelta de Pugachev (1773-75)."
+    },
+    {
+      "id": "rus-006",
+      "nome": "Russificação e o Pan-Eslavismo",
+      "nome_en": "Russification and Pan-Slavism",
+      "nome_es": "Rusificación y Pan-Eslavismo",
+      "tipo": "conceito",
+      "descricao": "Século XIX: Rússia como líder dos povos eslavos (pan-eslavismo). Conflito com o Pan-Germanismo. Alexandre III (1881-1894): rusificação forçada — poloneses, finlandeses, judeus (pogroms). Intelectuais: Tchaikovsky, Dostoiévski, Tolstói, Turguêniev debateram identidade russa vs. Ocidente. Pogroms antissemitas (1881-1884, 1903-1906): milhões de judeus emigraram para EUA. Guerra Russo-Japonesa (1905): derrota humilhante — Rússia vencida por potência asiática pela primeira vez.",
+      "descricao_en": "19th century: Russia as leader of Slavic peoples (Pan-Slavism). Conflict with Pan-Germanism. Alexander III (1881-1894): forced Russification — Poles, Finns, Jews (pogroms). Intellectuals: Tchaikovsky, Dostoevsky, Tolstoy, Turgenev debated Russian vs. Western identity. Anti-Semitic pogroms (1881-1884, 1903-1906): millions of Jews emigrated to the US. Russo-Japanese War (1905): humiliating defeat — Russia defeated by an Asian power for the first time.",
+      "descricao_es": "Siglo XIX: Rusia como líder de los pueblos eslavos. Alejandro III: rusificación forzada, pogromos. Intelectuales: Dostoievski, Tolstoi. Pogromos antisemitas: millones de judíos emigraron a EE.UU. Guerra Ruso-Japonesa (1905): derrota humillante.",
+      "inicio": 1880,
+      "fim": 1905,
+      "tags": [
+        "russificacao",
+        "pan-eslavismo",
+        "pogroms",
+        "identidade"
+      ],
+      "importancia": "A Russificação e o Pan-Eslavismo foram as versões russas do nacionalismo do século XIX — mas com uma complicação: a Rússia era simultaneamente um Estado-nação e um império multiétnico. Forçar o russo sobre poloneses, ucranianos, finlandeses e povos do Cáucaso criou resistências que o Império não pôde conter. O Pan-Eslavismo como ideologia — Rússia como protetora de todos os eslavos — justificou a intervenção nos Bálcãs que levou à WWI. A tensão entre identidade nacional e império multiétnico que destruiu o czarismo em 1917 destruiu também a URSS em 1991.",
+      "century_start": 19,
+      "century_end": 20,
+      "region": "Europe",
+      "type": "political",
+      "period": "Modern",
+      "importancia_en": "Russo-Japanese War (1905): humiliating defeat — Russia defeated by an Asian power for the first time.",
+      "importancia_es": "Pogromos antisemitas: millones de judíos emigraron a EE.UU. Guerra Ruso-Japonesa (1905): derrota humillante."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "rus-001",
+      "destino": "rus-002",
+      "tipo": "causalidade",
+      "intensidade": 0.7,
+      "descricao": "A Rus de Kiev é a origem mítica e histórica do Estado russo"
+    },
+    {
+      "origem": "rus-002",
+      "destino": "rus-003",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "O Czarado de Ivan preparou as instituições que Pedro modernizou"
+    },
+    {
+      "origem": "rus-003",
+      "destino": "rus-004",
+      "tipo": "causalidade",
+      "intensidade": 0.85,
+      "descricao": "Catarina continuou e expandiu a ocidentalização de Pedro"
+    },
+    {
+      "origem": "rus-005",
+      "destino": "rus-006",
+      "tipo": "influencia",
+      "intensidade": 0.75,
+      "descricao": "A questão da servidão alimentou os debates sobre identidade russa"
+    },
+    {
+      "origem": "rus-004",
+      "destino": "rus-005",
+      "tipo": "influencia",
+      "intensidade": 0.7,
+      "descricao": "Catarina fortaleceu a nobreza às custas dos servos, intensificando a servidão"
+    }
+  ]
+}

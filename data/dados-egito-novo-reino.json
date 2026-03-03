@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "fonte": "Historiografia especializada",
+    "lingua": "pt",
+    "tema": "Egito: Novo Reino, Faraós Guerreiros e Cleópatra",
+    "periodo": "-1550 a 30"
+  },
+  "entidades": [
+    {
+      "id": "enr-001",
+      "nome": "Hatchepsut: A Faraó que Construiu o Mundo",
+      "nome_en": "Hatshepsut: The Pharaoh Who Built the World",
+      "nome_es": "Hatshepsut: La Faraona que Construyó el Mundo",
+      "tipo": "periodo",
+      "inicio": -1479,
+      "fim": -1458,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -15,
+      "type": "political",
+      "descricao": "Hatchepsut (r. 1479–1458 a.C.) foi uma das poucas mulheres a governar o Egito como faraó plena, com coroa dupla e barba cerimonial. Liderou a mais bem-sucedida expedição comercial egípcia — ao misterioso reino de Punt (atual Eritreia/Somália). Construiu o templo funerário de Deir el-Bahari (um dos mais belos do Egito). Seu sucessor Tutmósis III apagou sua memória dos monumentos — redescobrindo-se apenas no século XIX.",
+      "descricao_en": "Hatshepsut (r. 1479–1458 BC) was one of the few women to rule Egypt as full pharaoh, with double crown and ceremonial beard. She led the most successful Egyptian commercial expedition — to the mysterious kingdom of Punt. She built the funerary temple of Deir el-Bahari. Her successor Thutmose III erased her memory from monuments — rediscovered only in the 19th century.",
+      "descricao_es": "Hatshepsut fue una de las pocas mujeres en gobernar Egipto como faraona plena. Lideró la expedición comercial al reino de Punt y construyó el templo de Deir el-Bahari.",
+      "importancia": "Hatchepsut foi redescoberta apenas em 1822, quando Champollion decifrou hieróglifos. Por séculos, historiadores confundiram seus monumentos com os de um rei homem. Sua história é o caso mais famoso de apagamento histórico sistemático de uma governante feminina.",
+      "importancia_en": "Hatshepsut was only rediscovered in 1822, when Champollion deciphered hieroglyphs. For centuries, historians confused her monuments with those of a male king. Her story is the most famous case of systematic historical erasure of a female ruler.",
+      "importancia_es": "Hatshepsut fue redescubierta solo en 1822. Su historia es el caso más famoso de borrado histórico sistemático de una gobernante femenina.",
+      "tags": [
+        "Hatchepsut",
+        "faraó",
+        "Punt",
+        "Deir el-Bahari",
+        "mulher"
+      ],
+      "dataset": "data/dados-egito-novo-reino.json"
+    },
+    {
+      "id": "enr-002",
+      "nome": "Akhenáton e o Monoteísmo Solar",
+      "nome_en": "Akhenaten and Solar Monotheism",
+      "nome_es": "Akhenatón y el Monoteísmo Solar",
+      "tipo": "evento",
+      "inicio": -1353,
+      "fim": -1336,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -14,
+      "type": "religious",
+      "descricao": "Akhenáton (r. 1353–1336 a.C.) aboliu o panteão egípcio e instituiu o culto exclusivo de Aton (o disco solar) — o primeiro monoteísmo estatal da história. Mudou a capital para Amarna (Akhetaton), desenvolveu um novo estilo artístico naturalista (arte de Amarna) e produziu o 'Grande Hino a Aton', que tem paralelos notórios com o Salmo 104 bíblico. Após sua morte, Tutancâmon restaurou o politeísmo e a memória de Akhenáton foi apagada.",
+      "descricao_en": "Akhenaten (r. 1353–1336 BC) abolished the Egyptian pantheon and instituted exclusive worship of Aten (the solar disk) — the first state monotheism in history. He moved the capital to Amarna, developed a new naturalistic artistic style and produced the 'Great Hymn to Aten', which has notable parallels with biblical Psalm 104. After his death, Tutankhamun restored polytheism.",
+      "descricao_es": "Akhenatón instituyó el culto exclusivo de Atón — el primer monoteísmo estatal de la historia. El 'Gran Himno a Atón' tiene paralelos notables con el Salmo 104 bíblico.",
+      "importancia": "O 'Grande Hino a Aton' de Akhenáton é notavelmente similar ao Salmo 104 hebraico — gerando debates sobre influência egípcia no monoteísmo judaico. Sigmund Freud argumentou em 'Moisés e o Monoteísmo' (1939) que Moisés era um seguidor de Akhenáton.",
+      "importancia_en": "Akhenaten's 'Great Hymn to Aten' is remarkably similar to Hebrew Psalm 104 — generating debates about Egyptian influence on Jewish monotheism. Sigmund Freud argued in 'Moses and Monotheism' (1939) that Moses was a follower of Akhenaten.",
+      "importancia_es": "El 'Gran Himno a Atón' es notablemente similar al Salmo 104 hebreo. Freud argumentó que Moisés era seguidor de Akhenatón.",
+      "tags": [
+        "Akhenáton",
+        "Aton",
+        "monoteísmo",
+        "Amarna",
+        "Tutancâmon"
+      ],
+      "dataset": "data/dados-egito-novo-reino.json"
+    },
+    {
+      "id": "enr-003",
+      "nome": "Ramsés II e a Batalha de Kadesh",
+      "nome_en": "Ramesses II and the Battle of Kadesh",
+      "nome_es": "Ramsés II y la Batalla de Qadesh",
+      "tipo": "periodo",
+      "inicio": -1279,
+      "fim": -1213,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -13,
+      "type": "war",
+      "descricao": "Ramsés II (r. 1279–1213 a.C.) governou o Egito por 66 anos, sendo o mais longo reinado da história do Novo Império. A Batalha de Kadesh (1274 a.C.) contra os Hititas foi a maior batalha de carros de guerra da Antiguidade. Terminou em empate e resultou no primeiro tratado de paz internacional da história (Tratado Egípcio-Hitita, 1259 a.C. — uma cópia do original está exposta na sede da ONU em Nova York). Ramsés construiu mais monumentos que qualquer outro faraó, incluindo Abu Simbel.",
+      "descricao_en": "Ramesses II (r. 1279–1213 BC) ruled Egypt for 66 years. The Battle of Kadesh (1274 BC) against the Hittites was the largest chariot battle in Antiquity. It ended in a draw and resulted in the first international peace treaty in history (Egyptian-Hittite Treaty, 1259 BC — a copy is displayed at the UN headquarters in New York). Ramesses built more monuments than any other pharaoh, including Abu Simbel.",
+      "descricao_es": "Ramsés II gobernó Egipto 66 años. La Batalla de Kadesh fue la mayor batalla de carros de la Antigüedad. El Tratado Egipcio-Hitita (1259 a.C.) es el primer tratado de paz internacional de la historia — una copia está en la sede de la ONU.",
+      "importancia": "O Tratado Egípcio-Hitita de 1259 a.C. é o mais antigo tratado de paz internacional do mundo — uma cópia está exposta na sede da ONU como símbolo da diplomacia. Ramsés II é o faraó mais frequentemente associado ao Êxodo bíblico.",
+      "importancia_en": "The Egyptian-Hittite Treaty of 1259 BC is the world's oldest international peace treaty — a copy is displayed at UN headquarters as a symbol of diplomacy. Ramesses II is the pharaoh most often associated with the biblical Exodus.",
+      "importancia_es": "El Tratado Egipcio-Hitita de 1259 a.C. es el más antiguo tratado de paz internacional del mundo — una copia está en la sede de la ONU.",
+      "tags": [
+        "Ramsés II",
+        "Kadesh",
+        "Hititas",
+        "tratado de paz",
+        "Abu Simbel"
+      ],
+      "dataset": "data/dados-egito-novo-reino.json"
+    },
+    {
+      "id": "enr-004",
+      "nome": "Colapso do Novo Império e Período Tardio",
+      "nome_en": "Collapse of the New Kingdom and the Late Period",
+      "nome_es": "Colapso del Nuevo Imperio y el Período Tardío",
+      "tipo": "periodo",
+      "inicio": -1200,
+      "fim": -332,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -12,
+      "type": "political",
+      "descricao": "O colapso do Bronze Age (c. 1200 a.C.) enfraqueceu o Egito irreversivelmente. A Baixa Época viu dominações estrangeiras sucessivas: líbios, núbios (Dinastia XXV), assírios, persas (Cambises II, 525 a.C.). O período persa foi relativamente tolerante com a religião egípcia. A Última Fase do Período Tardio (664–332 a.C.) conheceu o último florescimento artístico nativo, com o renascimento do estilo do Antigo e Médio Impérios como afirmação de identidade cultural.",
+      "descricao_en": "The Bronze Age collapse (c. 1200 BC) irreversibly weakened Egypt. The Late Period saw successive foreign dominations: Libyans, Nubians (Dynasty XXV), Assyrians, Persians (Cambyses II, 525 BC). The last phase of the Late Period (664–332 BC) saw the last native artistic flowering, with revival of Old and Middle Kingdom styles as cultural identity assertion.",
+      "descricao_es": "El colapso de la Edad de Bronce debilitó irreversiblemente a Egipto. El Período Tardío vio dominaciones sucesivas: libios, nubios, asirios, persas. El último florecimiento artístico nativo afirmó la identidad cultural frente a los invasores.",
+      "importancia": "A capacidade egípcia de absorver invasores e preservar identidade cultural por 3.000 anos é notável. Mesmo sob dominação persa, os faraós persas adotaram títulos e protocolos egípcios. Esta 'resiliência cultural' é o legado mais extraordinário da civilização egípcia.",
+      "importancia_en": "Egypt's capacity to absorb invaders and preserve cultural identity for 3,000 years is remarkable. Even under Persian domination, Persian pharaohs adopted Egyptian titles and protocols. This 'cultural resilience' is ancient Egyptian civilization's most extraordinary legacy.",
+      "importancia_es": "La capacidad de Egipto para absorber invasores y preservar la identidad cultural durante 3.000 años es su legado más extraordinario.",
+      "tags": [
+        "Baixa Época",
+        "persas",
+        "núbios",
+        "identidade cultural",
+        "colapso"
+      ],
+      "dataset": "data/dados-egito-novo-reino.json"
+    },
+    {
+      "id": "enr-005",
+      "nome": "Alexandre e o Egito Ptolemaico",
+      "nome_en": "Alexander and Ptolemaic Egypt",
+      "nome_es": "Alejandro y el Egipto Ptolemaico",
+      "tipo": "periodo",
+      "inicio": -332,
+      "fim": -30,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -4,
+      "type": "political",
+      "descricao": "Alexandre Magno conquistou o Egito sem resistência (332 a.C.) e foi proclamado faraó. Fundou Alexandria — que se tornaria a maior cidade do mundo helenístico e o maior centro intelectual da Antiguidade. Após sua morte, o general Ptolomeu fundou a Dinastia Ptolemaica (305–30 a.C.). Os Ptolemeus governaram como faraós gregos, fundaram a Biblioteca de Alexandria (maior do mundo antigo), o Museu e o Farol de Alexandria (uma das Sete Maravilhas). Cleópatra VII foi a última Ptolemaica.",
+      "descricao_en": "Alexander the Great conquered Egypt without resistance (332 BC) and was proclaimed pharaoh. He founded Alexandria — which would become the largest city of the Hellenistic world and the greatest intellectual center of Antiquity. After his death, General Ptolemy founded the Ptolemaic Dynasty (305–30 BC). The Ptolemies ruled as Greek pharaohs, founded the Library of Alexandria and the Pharos lighthouse.",
+      "descricao_es": "Alejandro Magno conquistó Egipto sin resistencia y fundó Alejandría. Los Ptolomeos fundaron la Biblioteca de Alejandría, el mayor centro intelectual de la Antigüedad. Cleopatra VII fue la última Ptolemaica.",
+      "importancia": "A Biblioteca de Alexandria foi o maior repositório de conhecimento da Antiguidade — com estimados 400.000–700.000 rolos. Sua destruição gradual (não foi um único incêndio) representa a maior perda de conhecimento da história humana.",
+      "importancia_en": "The Library of Alexandria was the greatest repository of knowledge in Antiquity — with an estimated 400,000–700,000 scrolls. Its gradual destruction (not a single fire) represents the greatest loss of knowledge in human history.",
+      "importancia_es": "La Biblioteca de Alejandría fue el mayor repositorio de conocimiento de la Antigüedad. Su destrucción representa la mayor pérdida de conocimiento de la historia humana.",
+      "tags": [
+        "Alexandre",
+        "Alexandria",
+        "Ptolemaicos",
+        "Biblioteca",
+        "Cleópatra"
+      ],
+      "dataset": "data/dados-egito-novo-reino.json"
+    },
+    {
+      "id": "enr-006",
+      "nome": "Cleópatra VII: A Última Rainha do Egito",
+      "nome_en": "Cleopatra VII: The Last Queen of Egypt",
+      "nome_es": "Cleopatra VII: La Última Reina de Egipto",
+      "tipo": "periodo",
+      "inicio": -51,
+      "fim": -30,
+      "region": "MiddleEast",
+      "period": "Ancient",
+      "century_start": -1,
+      "type": "political",
+      "descricao": "Cleópatra VII (r. 51–30 a.C.) foi a última monarca da Dinastia Ptolemaica e a única a aprender o egípcio nativo. Fluente em 9 idiomas, foi uma governante de notável habilidade política que se aliou a Júlio César (com quem teve Cesarião) e depois a Marco Antônio. A derrota naval de Actium (31 a.C.) para Otávio (Augusto) levou ao seu suicídio e à incorporação do Egito ao Império Romano como província imperial pessoal de Augusto — encerrando 3.000 anos de civilização faraônica.",
+      "descricao_en": "Cleopatra VII (r. 51–30 BC) was the last monarch of the Ptolemaic Dynasty and the only one to learn native Egyptian. Fluent in 9 languages, she was a remarkably skilled political ruler who allied with Julius Caesar (with whom she had Caesarion) and later Mark Antony. Naval defeat at Actium (31 BC) to Octavian (Augustus) led to her suicide and Egypt's incorporation into the Roman Empire.",
+      "descricao_es": "Cleopatra VII fue la última monarca ptolemaica y la única que aprendió el egipcio nativo. Aliada de César y Marco Antonio, su derrota en Actium (31 a.C.) puso fin a 3.000 años de civilización faraónica.",
+      "importancia": "O suicídio de Cleópatra em 30 a.C. encerrou 3.000 anos de civilização faraônica. É o fim de uma das mais longas tradições culturais contínuas da história humana. Shakespeare, Shaw e Hollywood a imortalizaram — tornando-a provavelmente a figura histórica feminina mais representada na cultura popular ocidental.",
+      "importancia_en": "Cleopatra's suicide in 30 BC ended 3,000 years of pharaonic civilization — the end of one of the longest continuous cultural traditions in human history. Shakespeare, Shaw and Hollywood immortalized her.",
+      "importancia_es": "El suicidio de Cleopatra en 30 a.C. puso fin a 3.000 años de civilización faraónica.",
+      "tags": [
+        "Cleópatra",
+        "César",
+        "Marco Antônio",
+        "Actium",
+        "fim do Egito"
+      ],
+      "dataset": "data/dados-egito-novo-reino.json"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "enr-001",
+      "destino": "enr-002",
+      "tipo": "evolucao",
+      "intensidade": 0.5,
+      "descricao": "Novo Império produz faraós guerreiros e depois o reformador Akhenáton"
+    },
+    {
+      "origem": "enr-002",
+      "destino": "enr-003",
+      "tipo": "evolucao",
+      "intensidade": 0.7,
+      "descricao": "Restauração politeísta após Akhenáton culmina no longo reinado de Ramsés II"
+    },
+    {
+      "origem": "enr-003",
+      "destino": "enr-004",
+      "tipo": "causalidade",
+      "intensidade": 0.8,
+      "descricao": "Colapso do Bronze Age enfraquece o Egito após Ramsés II"
+    },
+    {
+      "origem": "enr-004",
+      "destino": "enr-005",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "Fraqueza do Período Tardio facilita conquista de Alexandre"
+    },
+    {
+      "origem": "enr-005",
+      "destino": "enr-006",
+      "tipo": "evolucao",
+      "intensidade": 0.9,
+      "descricao": "Ptolemeus governam até o colapso com Cleópatra"
+    }
+  ]
+}

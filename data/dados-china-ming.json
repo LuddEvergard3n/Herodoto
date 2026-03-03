@@ -1,0 +1,66 @@
+{
+  "entidades": [
+    {
+      "id": "cmi-001",
+      "nome": "Ming: Da Restauração ao Isolamento",
+      "nome_en": "Ming: From Restoration to Isolation",
+      "nome_es": "Ming: De la Restauración al Aislamiento",
+      "tipo": "periodo",
+      "descricao": "Zhu Yuanzhang (Hongwu): camponês que expulsou os mongóis e fundou a Ming (1368). Construiu Cidade Proibida de Beijing (1406–1420: 180.000 trabalhadores, 24 imperadores até 1912). Yongle: mudou capital para Beijing. Zheng He (1405–1433): sete voyages com frotas de ~300 navios — Costa da África, Golfo Pérsico, Java. Decisão de queimar os registros navais e proibir navios oceânicos (~1433): China abandonou o domínio dos mares quando era claramente capaz de conquistar o mundo. Grande Muralha definitiva (1368–1644): ~8.850 km de granito e tijolo. Queda: crise fiscal, fome, cossaco-manchu ao norte, rebelião Li Zicheng.",
+      "descricao_en": "Zhu Yuanzhang (Hongwu): peasant who expelled the Mongols and founded Ming (1368). Built the Forbidden City in Beijing (1406–1420: 180,000 workers, 24 emperors until 1912). Yongle: moved capital to Beijing. Zheng He (1405–1433): seven voyages with fleets of ~300 ships — African coast, Persian Gulf, Java. Decision to burn naval records and ban ocean ships (~1433): China abandoned sea dominance when clearly capable of conquering the world. Definitive Great Wall (1368–1644): ~8,850 km of granite and brick. Fall: fiscal crisis, famine, Cossack-Manchu in the north, Li Zicheng rebellion.",
+      "descricao_es": "Zhu Yuanzhang: campesino que fundó la Ming (1368). Ciudad Prohibida de Pekín (1406–1420: 180.000 trabajadores). Zheng He (1405–1433): siete viajes con ~300 navíos. Decisión de quemar los registros navales (~1433): China abandonó el dominio del mar. Gran Muralla definitiva (1368–1644): ~8.850 km. Caída: crisis fiscal, hambruna, rebelión Li Zicheng.",
+      "inicio": 1368,
+      "fim": 1644,
+      "tags": [
+        "ming",
+        "zheng-he",
+        "cidade-proibida",
+        "grande-muralha",
+        "isolamento"
+      ],
+      "importancia": "Zheng He visitou a África em 1418 com 300 navios — 77 anos antes de Vasco da Gama. A China decidiu parar voluntariamente quando poderia ter colonizado o mundo.",
+      "century_start": 14,
+      "century_end": 17,
+      "region": "EastAsia",
+      "type": "political",
+      "period": "EarlyModern",
+      "importancia_en": "Fall: fiscal crisis, famine, Cossack-Manchu in the north, Li Zicheng rebellion.",
+      "importancia_es": "Gran Muralla definitiva (1368–1644): ~8.850 km. Caída: crisis fiscal, hambruna, rebelión Li Zicheng."
+    },
+    {
+      "id": "cmi-002",
+      "nome": "A Questão do Grande Isolamento Chinês",
+      "nome_en": "The Question of China's Great Isolation",
+      "nome_es": "La Cuestión del Gran Aislamiento Chino",
+      "tipo": "periodo",
+      "descricao": "Por que a China, que em 1400 era tecnologicamente superior à Europa em quase tudo, ficou para trás no séc. XIX? Debate historiográfico central. Hipóteses: (1) Kenneth Pomeranz — 'Grande Divergência': acesso ao carvão e colônias foi decisivo para a Europa, não superioridade tecnológica; (2) Sistema imperial centralizador sufocou inovação descentralizada; (3) Confucionismo desvalorizava comércio e mecânica em favor das letras; (4) China suficientemente grande internamente — sem incentivo para exploração externa; (5) Burocracia hostil ao lucro comercial privado. Revolução Industrial britânica passou a China como primeira economia ~1850.",
+      "descricao_en": "Why did China, technologically superior to Europe in almost everything in 1400, fall behind in the 19th century? Central historiographical debate. Hypotheses: (1) Kenneth Pomeranz — 'Great Divergence': access to coal and colonies was decisive for Europe, not technological superiority; (2) Centralizing imperial system stifled decentralized innovation; (3) Confucianism devalued trade and mechanics in favor of letters; (4) China large enough internally — no incentive for external exploration; (5) Bureaucracy hostile to private commercial profit. British Industrial Revolution surpassed China as first economy ~1850.",
+      "descricao_es": "¿Por qué China, tecnológicamente superior a Europa en casi todo en 1400, se quedó atrás en el siglo XIX? Debate historiográfico central. Hipótesis: (1) Pomeranz — 'Gran Divergencia': el carbón y las colonias fueron decisivos; (2) El sistema imperial centralizador sofocó la innovación; (3) El confucianismo desvalorizaba el comercio; (4) China suficientemente grande internamente; (5) Burocracia hostil al lucro privado.",
+      "inicio": 1433,
+      "fim": 1850,
+      "tags": [
+        "grande-divergencia",
+        "pomeranz",
+        "industrializacao",
+        "atraso-chines"
+      ],
+      "importancia": "A 'Grande Divergência' (por que o Ocidente e não a China liderou a Revolução Industrial?) é um dos debates mais importantes da história econômica mundial.",
+      "century_start": 15,
+      "century_end": 19,
+      "region": "EastAsia",
+      "type": "economic",
+      "period": "EarlyModern",
+      "importancia_en": "British Industrial Revolution surpassed China as first economy ~1850.",
+      "importancia_es": "Hipótesis: (1) Pomeranz — 'Gran Divergencia': el carbón y las colonias fueron decisivos; (2) El sistema imperial centralizador sofocó la innovación; (3) El confucianismo desvalorizaba el comercio; (4) China suficientemente grande internamente; (5) Burocracia hostil al lucro privado."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "cmi-001",
+      "destino": "cmi-002",
+      "tipo": "causalidade",
+      "intensidade": 0.9,
+      "descricao": "A decisão Ming de isolar-se (~1433) é o ponto de partida do debate sobre a Grande Divergência China-Europa"
+    }
+  ]
+}
