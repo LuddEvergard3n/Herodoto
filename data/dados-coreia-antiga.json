@@ -7,7 +7,7 @@
   },
   "entidades": [
     {
-      "id": "ca-001",
+      "id": "cora-001",
       "nome": "Gojoseon: O Primeiro Estado Coreano",
       "nome_en": "Gojoseon: The First Korean State",
       "nome_es": "Gojoseon: El Primer Estado Coreano",
@@ -37,7 +37,7 @@
       "dataset": "data/dados-coreia-antiga.json"
     },
     {
-      "id": "ca-002",
+      "id": "cora-002",
       "nome": "Os Três Reinos: Goguryeo, Baekje e Silla",
       "nome_en": "The Three Kingdoms: Goguryeo, Baekje and Silla",
       "nome_es": "Los Tres Reinos: Goguryeo, Baekje y Silla",
@@ -67,7 +67,7 @@
       "dataset": "data/dados-coreia-antiga.json"
     },
     {
-      "id": "ca-003",
+      "id": "cora-003",
       "nome": "Silla Unificada e o Florescimento Budista",
       "nome_en": "Unified Silla and the Buddhist Flowering",
       "nome_es": "Silla Unificada y el Florecimiento Budista",
@@ -97,7 +97,7 @@
       "dataset": "data/dados-coreia-antiga.json"
     },
     {
-      "id": "ca-004",
+      "id": "cora-004",
       "nome": "Goryeo: Arte, Celadons e a Invasão Mongol",
       "nome_en": "Goryeo: Art, Celadons and the Mongol Invasion",
       "nome_es": "Goryeo: Arte, Celadones y la Invasión Mongol",
@@ -127,7 +127,7 @@
       "dataset": "data/dados-coreia-antiga.json"
     },
     {
-      "id": "ca-005",
+      "id": "cora-005",
       "nome": "Joseon e o Hangul: Alfabeto Coreano",
       "nome_en": "Joseon and Hangul: The Korean Alphabet",
       "nome_es": "Joseon y el Hangul: El Alfabeto Coreano",

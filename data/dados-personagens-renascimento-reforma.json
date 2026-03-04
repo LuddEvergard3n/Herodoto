@@ -321,33 +321,6 @@
       ]
     },
     {
-      "id": "prr-013",
-      "nome": "Joana d'Arc",
-      "nome_en": "Joan of Arc",
-      "nome_es": "Juana de Arco",
-      "nascimento": 1412,
-      "morte": 1431,
-      "regiao": "Europe",
-      "area": [
-        "militar",
-        "religião"
-      ],
-      "cargo": "Comandante Militar",
-      "epoca": "Renascimento",
-      "descricao": "Camponesa de Domrémy que afirmava ouvir vozes de santos. Convenceu o Delfim Carlos a lhe dar um exército, libertou Orléans (1429) e virou o curso da Guerra dos Cem Anos. Capturada pelos burgúndios, julgada por heresia e queimada viva aos 19 anos. Reabilitada 25 anos depois. Canonizada em 1920.",
-      "importancia": "Joana d'Arc é o caso mais perturbador de gênio militar surgido de origem impossível — adolescente, analfabeta, camponesa. Reverteu uma guerra que durava 80 anos. Os historiadores debatem: visões reais? performance calculada? O que é certo: sua execução transformou-a no símbolo da nação francesa emergente. É o primeiro grande mártir do sentimento nacional moderno.",
-      "eventos": [],
-      "tags": [
-        "france",
-        "guerra",
-        "religião",
-        "militar",
-        "gênio",
-        "mártir",
-        "nacional"
-      ]
-    },
-    {
       "id": "prr-014",
       "nome": "Calvino",
       "nome_en": "John Calvin",

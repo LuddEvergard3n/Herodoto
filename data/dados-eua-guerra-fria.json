@@ -7,7 +7,7 @@
   },
   "entidades": [
     {
-      "id": "gf-001",
+      "id": "euagf-001",
       "nome": "Doutrina Truman e o Início da Guerra Fria",
       "nome_en": "Truman Doctrine and the Beginning of the Cold War",
       "nome_es": "Doctrina Truman y el Inicio de la Guerra Fría",
@@ -35,7 +35,7 @@
       "dataset": "data/dados-eua-guerra-fria.json"
     },
     {
-      "id": "gf-002",
+      "id": "euagf-002",
       "nome": "McCarthyismo e a Caça às Bruxas Americana",
       "nome_en": "McCarthyism and the American Witch Hunt",
       "nome_es": "El Macartismo y la Caza de Brujas Americana",
@@ -63,7 +63,7 @@
       "dataset": "data/dados-eua-guerra-fria.json"
     },
     {
-      "id": "gf-003",
+      "id": "euagf-003",
       "nome": "Martin Luther King e o Movimento dos Direitos Civis",
       "nome_en": "Martin Luther King and the Civil Rights Movement",
       "nome_es": "Martin Luther King y el Movimiento de Derechos Civiles",
@@ -91,7 +91,7 @@
       "dataset": "data/dados-eua-guerra-fria.json"
     },
     {
-      "id": "gf-005",
+      "id": "euagf-005",
       "nome": "Vietnã: A Primeira Guerra Perdida dos EUA",
       "nome_en": "Vietnam: America's First Lost War",
       "nome_es": "Vietnam: La Primera Guerra Perdida de EE.UU.",
@@ -119,7 +119,7 @@
       "dataset": "data/dados-eua-guerra-fria.json"
     },
     {
-      "id": "gf-004",
+      "id": "euagf-004",
       "nome": "A Corrida Espacial e a Lua",
       "nome_en": "The Space Race and the Moon",
       "nome_es": "La Carrera Espacial y la Luna",
@@ -147,7 +147,7 @@
       "dataset": "data/dados-eua-guerra-fria.json"
     },
     {
-      "id": "gf-006",
+      "id": "euagf-006",
       "nome": "Kennedy, Watergate e a Crise da Confiança",
       "nome_en": "Kennedy, Watergate and the Crisis of Trust",
       "nome_es": "Kennedy, Watergate y la Crisis de Confianza",
@@ -175,7 +175,7 @@
       "dataset": "data/dados-eua-guerra-fria.json"
     },
     {
-      "id": "gf-007",
+      "id": "euagf-007",
       "nome": "A Contracultura dos Anos 60: Hippies, Rock e Revolução Social",
       "nome_en": "The 1960s Counterculture: Hippies, Rock and Social Revolution",
       "nome_es": "La Contracultura de los 60: Hippies, Rock y Revolución Social",

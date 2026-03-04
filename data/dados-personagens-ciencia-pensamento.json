@@ -493,31 +493,6 @@
       ]
     },
     {
-      "id": "pcp-019",
-      "nome": "Friedrich Nietzsche",
-      "nome_en": "Friedrich Nietzsche",
-      "nome_es": "Friedrich Nietzsche",
-      "nascimento": 1844,
-      "morte": 1900,
-      "regiao": "Europe",
-      "area": [
-        "filosofia"
-      ],
-      "cargo": "Filósofo",
-      "epoca": "Séc. XIX",
-      "descricao": "Filósofo alemão que proclamou 'Deus está morto' — não como ateísmo triunfante, mas como diagnóstico da crise: os valores ocidentais foram fundados na crença divina; sem ela, entram em colapso. A vontade de poder, o eterno retorno, o super-homem, o niilismo e a crítica da moral dos escravos são seus conceitos centrais. Enlouqueceu em 1889, viveu mais 11 anos sem consciência.",
-      "importancia": "Nietzsche é o filósofo mais citado do século XX porque diagnosticou com precisão a crise de sentido da modernidade. Seu método genealógico — rastrear as origens históricas (e frequentemente vergonhosas) dos valores morais — inaugurou toda a teoria crítica posterior. Heidegger, Foucault, Deleuze, Derrida são impensáveis sem Nietzsche. Infelizmente sua irmã editou seus textos para o nazismo — que ele teria repudiado.",
-      "eventos": [],
-      "tags": [
-        "filosofia",
-        "niilismo",
-        "além-do-bem-e-do-mal",
-        "vontade-de-poder",
-        "deus-morto",
-        "nietzsche"
-      ]
-    },
-    {
       "id": "pcp-020",
       "nome": "Georg Hegel",
       "nome_en": "Georg Hegel",
@@ -569,36 +544,6 @@
         "educação",
         "revolução",
         "deportação"
-      ]
-    },
-    {
-      "id": "pcp-022",
-      "nome": "Nelson Mandela",
-      "nome_en": "Nelson Mandela",
-      "nome_es": "Nelson Mandela",
-      "nascimento": 1918,
-      "morte": 2013,
-      "regiao": "Africa",
-      "area": [
-        "política",
-        "ativismo",
-        "direito"
-      ],
-      "cargo": "Presidente da África do Sul",
-      "epoca": "Séc. XX",
-      "descricao": "Advogado xhosa, líder do ANC, preso 27 anos (1964-1990) na Ilha Robben por sabotagem contra o apartheid. Saiu da prisão recusando a negociar enquanto o apartheid persistisse. Negociou com De Klerk a transição para democracia multirracial. Eleito primeiro presidente negro da África do Sul (1994). Recusou terceiro mandato. Recebeu Nobel da Paz em 1993.",
-      "importancia": "Mandela realizou uma transição política que parecia impossível — do apartheid à democracia sem guerra civil — por uma combinação de intransigência nos princípios e pragmatismo na negociação. A Comissão da Verdade e Reconciliação que seu governo criou (dirigida por Desmond Tutu) tornou-se modelo global de como sociedades lidam com crimes do passado. Sua recusa ao terceiro mandato foi tão importante quanto sua resistência.",
-      "eventos": [
-        "mov-004"
-      ],
-      "tags": [
-        "africa-do-sul",
-        "apartheid",
-        "ANC",
-        "reconciliação",
-        "democracia",
-        "mandela",
-        "prisão"
       ]
     }
   ]

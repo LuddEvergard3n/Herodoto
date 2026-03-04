@@ -7,7 +7,7 @@
   },
   "entidades": [
     {
-      "id": "pam-001",
+      "id": "pham-001",
       "nome": "Travessia de Beríngea e Chegada às Américas",
       "nome_en": "Crossing of Beringia and Arrival in the Americas",
       "nome_es": "Cruce de Beringia y Llegada a las Américas",
@@ -36,7 +36,7 @@
       "dataset": "data/dados-pre-historia-americas.json"
     },
     {
-      "id": "pam-002",
+      "id": "pham-002",
       "nome": "Cultura Clóvis e a Caça de Megafauna",
       "nome_en": "Clovis Culture and Megafauna Hunting",
       "nome_es": "Cultura Clovis y la Caza de Megafauna",
@@ -65,7 +65,7 @@
       "dataset": "data/dados-pre-historia-americas.json"
     },
     {
-      "id": "pam-003",
+      "id": "pham-003",
       "nome": "Pedra Furada e o Debate da Antiguidade Brasileira",
       "nome_en": "Pedra Furada and the Debate over Brazilian Antiquity",
       "nome_es": "Pedra Furada y el Debate sobre la Antigüedad Brasileña",
@@ -94,7 +94,7 @@
       "dataset": "data/dados-pre-historia-americas.json"
     },
     {
-      "id": "pam-004",
+      "id": "pham-004",
       "nome": "Domesticação nas Américas: Milho, Batata e Cacau",
       "nome_en": "Domestication in the Americas: Maize, Potato and Cacao",
       "nome_es": "Domesticación en las Américas: Maíz, Papa y Cacao",
@@ -124,7 +124,7 @@
       "dataset": "data/dados-pre-historia-americas.json"
     },
     {
-      "id": "pam-005",
+      "id": "pham-005",
       "nome": "Civilizações Pré-Cerâmicas: Caral e Norte Chico",
       "nome_en": "Pre-Ceramic Civilizations: Caral and Norte Chico",
       "nome_es": "Civilizaciones Pre-Cerámicas: Caral y Norte Chico",

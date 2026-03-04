@@ -1,32 +1,6 @@
 {
   "personagens": [
     {
-      "id": "pir-001",
-      "nome": "Isaac Newton",
-      "nome_en": "Isaac Newton",
-      "nome_es": "Isaac Newton",
-      "nascimento": 1643,
-      "morte": 1727,
-      "regiao": "Europe",
-      "area": [
-        "ciência",
-        "matemática"
-      ],
-      "cargo": "Físico e Matemático",
-      "epoca": "Iluminismo",
-      "descricao": "Nasceu prematuro, pai morto antes de seu nascimento, criado pela avó. Em dois anos de isolamento (Peste de 1665-66) inventou o cálculo infinitesimal, a óptica corpuscular e a lei da gravitação universal. Philosophiae Naturalis Principia Mathematica (1687) unificou mecânica celeste e terrestre numa única teoria matemática. Também alquimista secreto e teólogo heterodoxo.",
-      "importancia": "Newton é o padrão contra o qual toda genialidade científica é medida. Seus Principia estabeleceram o modelo do que uma teoria científica deve ser: matemática, universal, preditiva. A mecânica newtoniana dominou a física por 200 anos até Einstein. Mas o Newton real era tão místico quanto racional — investigava alquimia e o Apocalipse com o mesmo rigor que a gravidade.",
-      "eventos": [],
-      "tags": [
-        "física",
-        "matemática",
-        "gravitação",
-        "cálculo",
-        "iluminismo",
-        "óptica"
-      ]
-    },
-    {
       "id": "pir-002",
       "nome": "Voltaire",
       "nome_en": "Voltaire",
@@ -238,32 +212,6 @@
       ]
     },
     {
-      "id": "pir-010",
-      "nome": "Toussaint Louverture",
-      "nome_en": "Toussaint Louverture",
-      "nome_es": "Toussaint Louverture",
-      "nascimento": 1743,
-      "morte": 1803,
-      "regiao": "Americas",
-      "area": [
-        "política",
-        "militar"
-      ],
-      "cargo": "Líder Revolucionário",
-      "epoca": "Revolução Haitiana",
-      "descricao": "Filho de africano escravizado no Haiti (então Saint-Domingue), aprendeu a ler e estudou estratégia militar. Liderou a única revolução de escravos bem-sucedida da história (1791-1804). Usou táticas guerrilheiras para derrotar consecutivamente as forças coloniais espanholas, britânicas e francesas. Capturado por traição de Napoleão, morreu na prisão nos Alpes.",
-      "importancia": "A Revolução Haitiana é o evento mais radical da era das revoluções: estendeu os princípios iluministas — liberdade, igualdade — a quem os iluministas mesmos excluíam. Quando Napoleão enviou 60.000 soldados para reescravizar Haiti, Toussaint os derrotou. Haiti tornou-se a primeira república negra do mundo (1804). O Ocidente nunca perdoou: Haiti pagou indenização à França até 1947 por sua própria liberdade.",
-      "eventos": [],
-      "tags": [
-        "haiti",
-        "escravidão",
-        "revolução",
-        "liberdade",
-        "colonialismo",
-        "héroe"
-      ]
-    },
-    {
       "id": "pir-011",
       "nome": "John Locke",
       "nome_en": "John Locke",
@@ -287,109 +235,6 @@
         "locke",
         "democracia",
         "filosofia"
-      ]
-    },
-    {
-      "id": "pir-012",
-      "nome": "Voltaire",
-      "nome_en": "Voltaire",
-      "nome_es": "Voltaire",
-      "nascimento": 1694,
-      "morte": 1778,
-      "regiao": "Europe",
-      "area": [
-        "filosofia",
-        "literatura"
-      ],
-      "cargo": "Escritor e Filósofo",
-      "epoca": "Iluminismo",
-      "descricao": "François-Marie Arouet, preso na Bastilha duas vezes, exilado na Inglaterra e na Prússia. Seu Cândido satirizou o otimismo filosófico de Leibniz com a brutalidade da realidade. Cometou campanhas específicas: libertar Jean Calas (protestanteacondenado injustamente), combater a Igreja, promover a tolerância religiosa. Sua última palavra ao padre: 'Deixe-me morrer em paz'.",
-      "importancia": "Voltaire encarna o intelectual público como adversário do poder: usou a ironia e a razão como armas contra o fanatismo religioso e a injustiça institucional. 'Écraser l'Infâme' (esmagar o infame — a intolerância) foi seu lema. Mais que sistema filosófico, seu legado é uma atitude: ceticismo, ironia, engajamento. O intelectual moderno como consciência crítica da sociedade começa com Voltaire.",
-      "eventos": [],
-      "tags": [
-        "iluminismo",
-        "tolerância",
-        "satíra",
-        "crítica",
-        "razão",
-        "ironia",
-        "religião"
-      ]
-    },
-    {
-      "id": "pir-013",
-      "nome": "Immanuel Kant",
-      "nome_en": "Immanuel Kant",
-      "nome_es": "Immanuel Kant",
-      "nascimento": 1724,
-      "morte": 1804,
-      "regiao": "Europe",
-      "area": [
-        "filosofia"
-      ],
-      "cargo": "Filósofo",
-      "epoca": "Iluminismo",
-      "descricao": "Filósofo prussiano de Königsberg que nunca viajou mais de 100km de sua cidade natal mas realizou a maior revolução filosófica desde Descartes. A Crítica da Razão Pura (1781) questionou: o que podemos conhecer? O imperativo categórico: 'Age como se a máxima de tua ação devesse tornar-se lei universal'. Kant disse que Rousseau o ensinou a respeitar os homens comuns.",
-      "importancia": "Kant reconciliou empirismo (Hume) e racionalismo (Leibniz) e fundou o idealismo transcendental. Seu imperativo categórico é a mais influente formulação da ética secular. 'A Paz Perpétua' (1795) propôs uma federação de repúblicas como base para a paz — antecipando a ONU e a UE. Todo filósofo depois dele dialogou com Kant — concordando, refutando ou escapando.",
-      "eventos": [],
-      "tags": [
-        "filosofia",
-        "ética",
-        "imperativo-categórico",
-        "crítica",
-        "razão",
-        "iluminismo"
-      ]
-    },
-    {
-      "id": "pir-014",
-      "nome": "Adam Smith",
-      "nome_en": "Adam Smith",
-      "nome_es": "Adam Smith",
-      "nascimento": 1723,
-      "morte": 1790,
-      "regiao": "Europe",
-      "area": [
-        "economia",
-        "filosofia"
-      ],
-      "cargo": "Economista e Filósofo",
-      "epoca": "Iluminismo",
-      "descricao": "Filósofo moral escocês cujo A Riqueza das Nações (1776) fundou a economia política moderna. A 'mão invisível' do mercado coordena interesses individuais produzindo bem coletivo sem planejamento central. Defendeu livre-comércio contra o mercantilismo. Antes do livro famoso, A Teoria dos Sentimentos Morais (1759) analisou empatia como base da moralidade.",
-      "importancia": "A Riqueza das Nações é o livro fundador do capitalismo como sistema teórico — mas Smith é frequentemente mal lido: ele criticava monopólios e lucros excessivos, defendia os trabalhadores, e sua 'mão invisível' aparece apenas três vezes em toda a obra. O neoliberalismo do século XX invocou 'Adam Smith' como autoridade para políticas que o próprio Smith teria criticado.",
-      "eventos": [],
-      "tags": [
-        "economia",
-        "capitalismo",
-        "mercado",
-        "livre-comércio",
-        "riqueza",
-        "iluminismo"
-      ]
-    },
-    {
-      "id": "pir-015",
-      "nome": "Mary Wollstonecraft",
-      "nome_en": "Mary Wollstonecraft",
-      "nome_es": "Mary Wollstonecraft",
-      "nascimento": 1759,
-      "morte": 1797,
-      "regiao": "Europe",
-      "area": [
-        "filosofia",
-        "feminismo"
-      ],
-      "cargo": "Escritora e Filósofa",
-      "epoca": "Iluminismo",
-      "descricao": "Escritora inglesa que respondeu a Edmund Burke (crítico da Revolução Francesa) com a Vindicação dos Direitos dos Homens — e depois escreveu A Vindicação dos Direitos das Mulheres (1792): o primeiro tratado sistemático do feminismo moderno. Argumentou que as mulheres parecem irracionais porque são educadas para serem irracionais, não por natureza.",
-      "importancia": "Wollstonecraft descobriu a estrutura do argumento feminista: a inferioridade das mulheres é produto de condicionamento social, não de natureza — e portanto pode ser desfeita pela educação e pelas instituições. Sua filha, Mary Shelley, escreveu Frankenstein. Sua vida — amantes, filha ilegítima, tentativas de suicídio, morte no parto — foi tão escandalosa que seu legado ficou esquecido por um século.",
-      "eventos": [],
-      "tags": [
-        "feminismo",
-        "iluminismo",
-        "direitos-da-mulher",
-        "educação",
-        "revolução-francesa"
       ]
     },
     {

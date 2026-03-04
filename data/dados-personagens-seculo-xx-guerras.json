@@ -264,32 +264,6 @@
       ]
     },
     {
-      "id": "pxx-011",
-      "nome": "Winston Churchill",
-      "nome_en": "Winston Churchill",
-      "nome_es": "Winston Churchill",
-      "nascimento": 1874,
-      "morte": 1965,
-      "regiao": "Europe",
-      "area": [
-        "política",
-        "literatura"
-      ],
-      "cargo": "Primeiro-Ministro",
-      "epoca": "Séc. XX",
-      "descricao": "Político britânico que liderou o Reino Unido na Segunda Guerra Mundial após a queda da França (1940). Seus discursos ('Lutaremos nas praias', 'O seu melhor momento') transformaram o derrotismo em resistência. Ganhou o Nobel de Literatura em 1953. Promoveu o imperialismo britânico e foi responsável pela fome de Bengala (1943) que matou 3 milhões.",
-      "importancia": "Churchill exemplifica a complexidade moral da grandeza histórica: o homem que salvou a democracia ocidental do nazismo também defendeu o imperialismo britânico com convicção racista e tomou decisões que mataram milhões na Índia. O debate sobre seu legado — herói ou vilão? — é microcosmo do debate sobre como julgar figuras históricas por padrões morais que elas não compartilhavam.",
-      "eventos": [],
-      "tags": [
-        "guerra",
-        "reino-unido",
-        "liderança",
-        "imperialismo",
-        "oratória",
-        "segunda-guerra"
-      ]
-    },
-    {
       "id": "pxx-012",
       "nome": "Albert Einstein",
       "nome_en": "Albert Einstein",
@@ -313,89 +287,6 @@
         "nazismo",
         "bomba-atômica",
         "ciência"
-      ]
-    },
-    {
-      "id": "pxx-013",
-      "nome": "Ho Chi Minh",
-      "nome_en": "Ho Chi Minh",
-      "nome_es": "Ho Chi Minh",
-      "nascimento": 1890,
-      "morte": 1969,
-      "regiao": "SoutheastAsia",
-      "area": [
-        "política",
-        "militar"
-      ],
-      "cargo": "Líder Revolucionário",
-      "epoca": "Séc. XX",
-      "descricao": "Revolucionário vietnamita que passou anos em Paris, Moscou e China antes de liderar a resistência contra o Japão e depois contra a França e os EUA. Fundou o Viet Minh e o Vietnã do Norte. Citou a Declaração de Independência americana no discurso de independência do Vietnã (1945). Morreu em 1969, 6 anos antes da reunificação que ele planejou.",
-      "importancia": "Ho Chi Minh derrotou sucessivamente o Japão imperial, o colonialismo francês e a superpotência americana — a única derrota militar dos EUA em guerra convencional do século XX. Sua estratégia de guerra de guerrilha e guerra de desgaste influenciou movimentos de libertação em todo o mundo. A Guerra do Vietnã transformou a política interna americana e a percepção global do poder americano.",
-      "eventos": [
-        "gf-007"
-      ],
-      "tags": [
-        "vietnã",
-        "anticolonialismo",
-        "guerrilha",
-        "comunismo",
-        "independência",
-        "guerra"
-      ]
-    },
-    {
-      "id": "pxx-014",
-      "nome": "Mao Tsé-Tung",
-      "nome_en": "Mao Zedong",
-      "nome_es": "Mao Zedong",
-      "nascimento": 1893,
-      "morte": 1976,
-      "regiao": "EastAsia",
-      "area": [
-        "política",
-        "militar"
-      ],
-      "cargo": "Presidente da China",
-      "epoca": "Séc. XX",
-      "descricao": "Fundador da República Popular da China (1949). Liderou o exército comunista na Longa Marcha (1934-35), derrotou Chiang Kai-shek e expulsou o Japão. O Grande Salto Adiante (1958-62) causou a maior fome da história: 15-55 milhões de mortos. A Revolução Cultural (1966-76) destruiu gerações de intelectuais e patrimônio histórico.",
-      "importancia": "Mao unificou a China após um século de humilhação e fragmentação — façanha histórica enorme. Mas o custo humano de suas políticas foi catastrófico: mais mortes civis que Hitler e Stalin combinados em algumas estimativas. O paradoxo maoísta define o dilema do 'desenvolvimento forçado': progresso real pode ser acompanhado de violência sistemática em escala que invalida o projeto?",
-      "eventos": [
-        "chin-009"
-      ],
-      "tags": [
-        "china",
-        "comunismo",
-        "revolução",
-        "fome",
-        "longa-marcha",
-        "maoísmo"
-      ]
-    },
-    {
-      "id": "pxx-015",
-      "nome": "Simone de Beauvoir",
-      "nome_en": "Simone de Beauvoir",
-      "nome_es": "Simone de Beauvoir",
-      "nascimento": 1908,
-      "morte": 1986,
-      "regiao": "Europe",
-      "area": [
-        "filosofia",
-        "feminismo",
-        "literatura"
-      ],
-      "cargo": "Filósofa e Escritora",
-      "epoca": "Séc. XX",
-      "descricao": "Filósofa existencialista francesa, companheira de Sartre. O Segundo Sexo (1949): 'Não se nasce mulher, torna-se' — a feminilidade é construção social, não destino biológico. Foi escândalo imediato: Vaticano incluiu na lista de livros proibidos. Romancista premiada (Mandarins ganhou o Goncourt em 1954). Ativista política até o fim da vida.",
-      "importancia": "O Segundo Sexo é o texto fundador do feminismo de segunda onda. A distinção entre sexo (biológico) e gênero (social/cultural) que Beauvoir inaugurou é o conceito mais transformador dos estudos de gênero do século XX — e o mais debatido hoje nas discussões sobre identidade de gênero. Beauvoir demonstrou que ser mulher é uma situação histórica, não uma essência natural.",
-      "eventos": [],
-      "tags": [
-        "feminismo",
-        "existencialismo",
-        "filosofia",
-        "gênero",
-        "segundo-sexo",
-        "beauvoir"
       ]
     },
     {

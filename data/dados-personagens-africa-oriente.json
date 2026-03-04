@@ -30,31 +30,6 @@
       ]
     },
     {
-      "id": "pao-002",
-      "nome": "Cleópatra VII",
-      "nome_en": "Cleopatra VII",
-      "nome_es": "Cleopatra VII",
-      "nascimento": -69,
-      "morte": -30,
-      "regiao": "Africa",
-      "area": [
-        "política"
-      ],
-      "cargo": "Rainha do Egito",
-      "epoca": "Antiguidade",
-      "descricao": "Última rainha da linhagem ptolemaica, falava 9 idiomas incluindo o egípcio (a única Ptolomaica a fazê-lo). Política e estrategista, aliou-se a César e depois a Marco Antônio para preservar a independência do Egito contra Roma. Derrotada em Ácio (31 a.C.), suicidou-se. Com ela, terminou o último reino helenístico independente.",
-      "importancia": "Cleópatra é um dos casos mais graves de distorção histórica por gênero. Sua imagem de sedutora apaga a estadista que administrou o Egito com competência notável. Sua estratégia de usar alianças românticas com líderes romanos era pragmatismo, não devassidão — era a única ferramenta disponível para um estado-cliente resistir à anexação. Fracassou, mas foi a mais competente resistência possível.",
-      "eventos": [],
-      "tags": [
-        "egito",
-        "ptolemaica",
-        "roma",
-        "género",
-        "estadista",
-        "suicídio"
-      ]
-    },
-    {
       "id": "pao-003",
       "nome": "Yaa Asantewaa",
       "nome_en": "Yaa Asantewaa",
@@ -234,33 +209,6 @@
         "sabedoria",
         "jerusalém",
         "bíblia"
-      ]
-    },
-    {
-      "id": "pao-010",
-      "nome": "Ibn Battuta",
-      "nome_en": "Ibn Battuta",
-      "nome_es": "Ibn Battuta",
-      "nascimento": 1304,
-      "morte": 1368,
-      "regiao": "Africa",
-      "area": [
-        "exploração",
-        "história"
-      ],
-      "cargo": "Viajante e Geógrafo",
-      "epoca": "Medieval",
-      "descricao": "Marroquino de Tânger que viajou 117.000 km em 29 anos — mais que qualquer pessoa da era pré-industrial. Visitou África do Norte, Oriente Médio, Índia, Sudeste Asiático, China e Mali. O Rihla (seu relato) é fonte primária insubstituível sobre o mundo islâmico do século XIV.",
-      "importancia": "Ibn Battuta é o maior documentarista das civilizações do século XIV. Sua comparação entre diferentes regiões islâmicas — Marrocos, Mali, Índia, China — revelou a enorme diversidade interna do mundo muçulmano. O Rihla preservou informações sobre civilizações que de outra forma seriam opacas para nós: cidades suaíli, Mali no auge, sultanatos indianos.",
-      "eventos": [],
-      "tags": [
-        "marrocos",
-        "islã",
-        "exploração",
-        "viagem",
-        "mali",
-        "rihla",
-        "africa"
       ]
     },
     {

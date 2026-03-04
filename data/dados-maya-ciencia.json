@@ -7,7 +7,7 @@
   },
   "entidades": [
     {
-      "id": "mc-002",
+      "id": "mayc-002",
       "nome": "O Calendário Maia: Três Ciclos Simultâneos",
       "nome_en": "The Maya Calendar: Three Simultaneous Cycles",
       "nome_es": "El Calendario Maya: Tres Ciclos Simultáneos",
@@ -35,7 +35,7 @@
       "dataset": "data/dados-maya-ciencia.json"
     },
     {
-      "id": "mc-003",
+      "id": "mayc-003",
       "nome": "A Escrita Maia: O Único Sistema Completo das Américas",
       "nome_en": "Maya Writing: The Only Complete System in the Americas",
       "nome_es": "La Escritura Maya: El Único Sistema Completo de las Américas",
@@ -63,7 +63,7 @@
       "dataset": "data/dados-maya-ciencia.json"
     },
     {
-      "id": "mc-001",
+      "id": "mayc-001",
       "nome": "O Sistema Numérico Maia: Zero e Base 20",
       "nome_en": "The Maya Numerical System: Zero and Base 20",
       "nome_es": "El Sistema Numérico Maya: Cero y Base 20",
@@ -91,7 +91,7 @@
       "dataset": "data/dados-maya-ciencia.json"
     },
     {
-      "id": "mc-005",
+      "id": "mayc-005",
       "nome": "Palenque e Tikal: As Cidades-Estado Clássicas",
       "nome_en": "Palenque and Tikal: The Classic City-States",
       "nome_es": "Palenque y Tikal: Las Ciudades-Estado Clásicas",
@@ -119,7 +119,7 @@
       "dataset": "data/dados-maya-ciencia.json"
     },
     {
-      "id": "mc-004",
+      "id": "mayc-004",
       "nome": "Observatórios Maias: Chichén Itzá e Palenque",
       "nome_en": "Maya Observatories: Chichén Itzá and Palenque",
       "nome_es": "Observatorios Mayas: Chichén Itzá y Palenque",
@@ -148,7 +148,7 @@
       "dataset": "data/dados-maya-ciencia.json"
     },
     {
-      "id": "mc-006",
+      "id": "mayc-006",
       "nome": "O Popol Vuh: A Bíblia dos Maias K'iche'",
       "nome_en": "The Popol Vuh: The Bible of the K'iche' Maya",
       "nome_es": "El Popol Vuh: La Biblia de los Mayas K'iche'",

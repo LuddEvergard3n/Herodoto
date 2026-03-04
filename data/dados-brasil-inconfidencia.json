@@ -7,7 +7,7 @@
   },
   "entidades": [
     {
-      "id": "bim-001",
+      "id": "binc-001",
       "nome": "Revolta de Beckman (1684)",
       "nome_en": "Revolta de Beckman (1684)",
       "nome_es": "Revolta de Beckman (1684)",
@@ -35,7 +35,7 @@
       "dataset": "data/dados-brasil-inconfidencia.json"
     },
     {
-      "id": "bim-002",
+      "id": "binc-002",
       "nome": "Guerra dos Mascates (1710-1711)",
       "nome_en": "Guerra dos Mascates (1710-1711)",
       "nome_es": "Guerra dos Mascates (1710-1711)",
@@ -63,7 +63,7 @@
       "dataset": "data/dados-brasil-inconfidencia.json"
     },
     {
-      "id": "bim-003",
+      "id": "binc-003",
       "nome": "Inconfidência Mineira (1789)",
       "nome_en": "Inconfidência Mineira (1789)",
       "nome_es": "Inconfidência Mineira (1789)",
@@ -92,7 +92,7 @@
       "dataset": "data/dados-brasil-inconfidencia.json"
     },
     {
-      "id": "bim-004",
+      "id": "binc-004",
       "nome": "Conjuração Baiana (Revolta dos Alfaiates, 1798)",
       "nome_en": "Conjuração Baiana (Revolta dos Alfaiates, 1798)",
       "nome_es": "Conjuração Baiana (Revolta dos Alfaiates, 1798)",
@@ -120,7 +120,7 @@
       "dataset": "data/dados-brasil-inconfidencia.json"
     },
     {
-      "id": "bim-005",
+      "id": "binc-005",
       "nome": "Abertura dos Portos às Nações Amigas (1808)",
       "nome_en": "Abertura dos Portos às Nações Amigas (1808)",
       "nome_es": "Abertura dos Portos às Nações Amigas (1808)",
@@ -148,7 +148,7 @@
       "dataset": "data/dados-brasil-inconfidencia.json"
     },
     {
-      "id": "bim-007",
+      "id": "binc-007",
       "nome": "D. João VI: A Corte no Brasil (1808-1821)",
       "nome_en": "D. João VI: A Corte no Brasil (1808-1821)",
       "nome_es": "D. João VI: A Corte no Brasil (1808-1821)",
@@ -176,7 +176,7 @@
       "dataset": "data/dados-brasil-inconfidencia.json"
     },
     {
-      "id": "bim-006",
+      "id": "binc-006",
       "nome": "Revolução Pernambucana de 1817",
       "nome_en": "Revolução Pernambucana de 1817",
       "nome_es": "Revolução Pernambucana de 1817",
@@ -204,7 +204,7 @@
       "dataset": "data/dados-brasil-inconfidencia.json"
     },
     {
-      "id": "bim-008",
+      "id": "binc-008",
       "nome": "Revolução do Porto e a Questão do Retorno",
       "nome_en": "Revolução do Porto e a Questão do Retorno",
       "nome_es": "Revolução do Porto e a Questão do Retorno",

@@ -258,32 +258,6 @@
       ]
     },
     {
-      "id": "po-011",
-      "nome": "Avicena (Ibn Sina)",
-      "nome_en": "Avicenna (Ibn Sina)",
-      "nome_es": "Avicena (Ibn Sina)",
-      "nascimento": 980,
-      "morte": 1037,
-      "regiao": "MiddleEast",
-      "area": [
-        "medicina",
-        "filosofia"
-      ],
-      "cargo": "Médico e Filósofo",
-      "epoca": "Medieval",
-      "descricao": "Médico e filósofo persa, o mais influente do mundo islâmico medieval. O Cânon da Medicina (5 volumes) foi o padrão da medicina europeia até o século XVII. Descreveu meningite, diabetes, doenças psicossomáticas e contágio. Filosoficamente, reconciliou Aristóteles com o Islã e desenvolveu o argumento do 'homem voador' — precursor do cogito cartesiano.",
-      "importancia": "O Cânon de Avicena foi traduzido para o latim no século XII e foi livro-texto nas universidades europeias por 600 anos. Mais de 450 obras em árabe e persa. Seu argumento do 'homem voador' (consciousness sem sensação corporal) antecipa o 'penso, logo existo' de Descartes em 600 anos. A medicina islâmica medieval era mais avançada que a europeia — e Avicena foi seu pico.",
-      "eventos": [],
-      "tags": [
-        "medicina",
-        "filosofia",
-        "islã",
-        "cânon",
-        "pérsia",
-        "ciência"
-      ]
-    },
-    {
       "id": "po-012",
       "nome": "Gengis Khan",
       "nome_en": "Genghis Khan",

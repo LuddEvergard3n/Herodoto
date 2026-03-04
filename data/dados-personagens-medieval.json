@@ -391,36 +391,6 @@
       ]
     },
     {
-      "id": "pm-016",
-      "nome": "Mansa Musa",
-      "nome_en": "Mansa Musa",
-      "nome_es": "Mansa Musa",
-      "nascimento": 1280,
-      "morte": 1337,
-      "regiao": "Africa",
-      "area": [
-        "política",
-        "religião"
-      ],
-      "cargo": "Imperador",
-      "epoca": "Medieval",
-      "descricao": "Décimo mansa (imperador) do Império Mali, considerado o homem mais rico que já existiu. Sua peregrinação a Meca (1324-1325) com 60.000 homens e 12 toneladas de ouro causou inflação no Egito e no Oriente Médio por décadas. Construiu a Grande Mesquita de Djenné e a Mesquita de Djingareyber em Timbuktu, transformando a cidade em centro intelectual islâmico.",
-      "importancia": "Mansa Musa revelou ao mundo islâmico e europeu a existência de uma civilização africana de riqueza incomparável — sua imagem apareceu em mapas europeus medievais segurando uma pepita de ouro. A pilgrimage e o acidente da inflação que causou demonstram um princípio econômico fundamental: excesso de oferta monetária, mesmo de ouro, destrói valor. Timbuktu sob ele tinha 25.000 estudantes universitários.",
-      "eventos": [
-        "afri-003",
-        "rafr-002"
-      ],
-      "tags": [
-        "mali",
-        "africa",
-        "ouro",
-        "meca",
-        "islã",
-        "riqueza",
-        "timbuktu"
-      ]
-    },
-    {
       "id": "pm-017",
       "nome": "Tomás Becket",
       "nome_en": "Thomas Becket",

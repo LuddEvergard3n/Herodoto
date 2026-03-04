@@ -7,7 +7,7 @@
   },
   "entidades": [
     {
-      "id": "and-007",
+      "id": "aland-007",
       "nome": "O Islao no Norte da Africa: Magrebe e Transaariano",
       "nome_en": "Islam in North Africa: Maghreb and Trans-Saharan",
       "nome_es": "El Islam en el Norte de Africa: Magreb y Transahariano",
@@ -36,7 +36,7 @@
       "dataset": "data/dados-al-andalus.json"
     },
     {
-      "id": "and-001",
+      "id": "aland-001",
       "nome": "A Conquista Islamica da Iberia (711-718)",
       "nome_en": "The Islamic Conquest of Iberia (711-718)",
       "nome_es": "La Conquista Islamica de Iberia (711-718)",
@@ -65,7 +65,7 @@
       "dataset": "data/dados-al-andalus.json"
     },
     {
-      "id": "and-003",
+      "id": "aland-003",
       "nome": "A Convivencia: Coexistencia e Conflito em Al-Andalus",
       "nome_en": "Convivencia: Coexistence and Conflict in Al-Andalus",
       "nome_es": "La Convivencia: Coexistencia y Conflicto en Al-Andalus",
@@ -94,7 +94,7 @@
       "dataset": "data/dados-al-andalus.json"
     },
     {
-      "id": "and-006",
+      "id": "aland-006",
       "nome": "Legado de Al-Andalus: Ciencia, Arte e Lingua",
       "nome_en": "Legacy of Al-Andalus: Science, Art and Language",
       "nome_es": "Legado de Al-Andalus: Ciencia, Arte y Lengua",
@@ -123,7 +123,7 @@
       "dataset": "data/dados-al-andalus.json"
     },
     {
-      "id": "and-004",
+      "id": "aland-004",
       "nome": "A Reconquista: 780 Anos de Expansao Crista (718-1492)",
       "nome_en": "The Reconquista: 780 Years of Christian Expansion (718-1492)",
       "nome_es": "La Reconquista: 780 Anos de Expansion Cristiana (718-1492)",
@@ -152,7 +152,7 @@
       "dataset": "data/dados-al-andalus.json"
     },
     {
-      "id": "and-002",
+      "id": "aland-002",
       "nome": "Cordoba: Capital Cultural do Occidente Medieval",
       "nome_en": "Cordoba: Cultural Capital of Medieval West",
       "nome_es": "Cordoba: Capital Cultural del Occidente Medieval",
@@ -181,7 +181,7 @@
       "dataset": "data/dados-al-andalus.json"
     },
     {
-      "id": "and-008",
+      "id": "aland-008",
       "nome": "O Islao Mistico: Sufismo e Ordens Dervixes",
       "nome_en": "Mystical Islam: Sufism and Dervish Orders",
       "nome_es": "El Islam Mistico: Sufismo y Ordenes Derviches",
@@ -210,7 +210,7 @@
       "dataset": "data/dados-al-andalus.json"
     },
     {
-      "id": "and-005",
+      "id": "aland-005",
       "nome": "A Queda de Granada e a Expulsao dos Judeus (1492)",
       "nome_en": "The Fall of Granada and the Expulsion of the Jews (1492)",
       "nome_es": "La Caida de Granada y la Expulsion de los Judios (1492)",

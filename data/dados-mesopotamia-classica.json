@@ -7,7 +7,7 @@
   },
   "entidades": [
     {
-      "id": "mc-001",
+      "id": "mesoc-001",
       "nome": "Sargão de Acádia: O Primeiro Imperador",
       "nome_en": "Sargon of Akkad: The First Emperor",
       "nome_es": "Sargón de Acad: El Primer Emperador",
@@ -34,7 +34,7 @@
       "dataset": "data/dados-mesopotamia-classica.json"
     },
     {
-      "id": "mc-002",
+      "id": "mesoc-002",
       "nome": "Código de Hamurabi e a Babilônia Antiga",
       "nome_en": "Code of Hammurabi and Old Babylon",
       "nome_es": "Código de Hammurabi y la Babilonia Antigua",
@@ -62,7 +62,7 @@
       "dataset": "data/dados-mesopotamia-classica.json"
     },
     {
-      "id": "mc-003",
+      "id": "mesoc-003",
       "nome": "Astronomia Babilônica: O Nascimento da Ciência do Céu",
       "nome_en": "Babylonian Astronomy: The Birth of the Science of the Sky",
       "nome_es": "Astronomía Babilónica: El Nacimiento de la Ciencia del Cielo",
@@ -89,7 +89,7 @@
       "dataset": "data/dados-mesopotamia-classica.json"
     },
     {
-      "id": "mc-006",
+      "id": "mesoc-006",
       "nome": "Fenícios: Alfabeto, Mar e Comércio",
       "nome_en": "Phoenicians: Alphabet, Sea and Trade",
       "nome_es": "Fenicios: Alfabeto, Mar y Comercio",
@@ -117,7 +117,7 @@
       "dataset": "data/dados-mesopotamia-classica.json"
     },
     {
-      "id": "mc-007",
+      "id": "mesoc-007",
       "nome": "Israel e Judá: Monoteísmo e o Cânone Bíblico",
       "nome_en": "Israel and Judah: Monotheism and the Biblical Canon",
       "nome_es": "Israel y Judá: Monoteísmo y el Canon Bíblico",
@@ -145,7 +145,7 @@
       "dataset": "data/dados-mesopotamia-classica.json"
     },
     {
-      "id": "mc-004",
+      "id": "mesoc-004",
       "nome": "Império Assírio: Terror como Instrumento de Estado",
       "nome_en": "Assyrian Empire: Terror as an Instrument of State",
       "nome_es": "Imperio Asirio: El Terror como Instrumento de Estado",
@@ -173,7 +173,7 @@
       "dataset": "data/dados-mesopotamia-classica.json"
     },
     {
-      "id": "mc-005",
+      "id": "mesoc-005",
       "nome": "Nabucodonosor e o Exílio Babilônico",
       "nome_en": "Nebuchadnezzar and the Babylonian Exile",
       "nome_es": "Nabucodonosor y el Exilio Babilónico",

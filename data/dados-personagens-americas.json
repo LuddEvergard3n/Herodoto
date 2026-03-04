@@ -240,34 +240,6 @@
       ]
     },
     {
-      "id": "pam-010",
-      "nome": "Tupac Amaru II",
-      "nome_en": "Túpac Amaru II",
-      "nome_es": "Túpac Amaru II",
-      "nascimento": 1738,
-      "morte": 1781,
-      "regiao": "Americas",
-      "area": [
-        "política",
-        "militar",
-        "resistência"
-      ],
-      "cargo": "Líder da Revolta",
-      "epoca": "Séc. XVIII",
-      "descricao": "José Gabriel Condorcanqui, líder indígena peruano que se identificou como descendente do último Inca. Liderou a maior revolta anticolonial da América do Sul antes das independências (1780-81): 60.000 a 100.000 guerreiros contra o exército espanhol. Capturado, foi executado com sua família num ritual de terror público. O nome Túpac Amaru virou símbolo de resistência.",
-      "importancia": "Túpac Amaru II antecipou as independências latino-americanas em 40 anos e foi a maior expressão da resistência indígena ao colonialismo espanhol. Sua revolta assustou tanto as autoridades coloniais que aceleraram as reformas que ironicamente alimentaram as independências crioulas. O nome ressurgiu no século XX: o Movimento Tupac Amaru e grupos guerrilheiros o invocaram por todo o continente.",
-      "eventos": [],
-      "tags": [
-        "peru",
-        "índios",
-        "inca",
-        "revolta",
-        "resistência",
-        "anticolonial",
-        "tupac"
-      ]
-    },
-    {
       "id": "pam-011",
       "nome": "Toussaint Louverture",
       "nome_en": "Toussaint Louverture",
@@ -347,33 +319,6 @@
         "mulher",
         "negro",
         "tubman"
-      ]
-    },
-    {
-      "id": "pam-014",
-      "nome": "Ernesto 'Che' Guevara",
-      "nome_en": "Che Guevara",
-      "nome_es": "Che Guevara",
-      "nascimento": 1928,
-      "morte": 1967,
-      "regiao": "Americas",
-      "area": [
-        "política",
-        "militar"
-      ],
-      "cargo": "Revolucionário",
-      "epoca": "Séc. XX",
-      "descricao": "Médico argentino que participou da Revolução Cubana com Fidel Castro, tornou-se ministro da Indústria (1961-65) e depois partiu para exportar a revolução: Congo (fracasso) e Bolívia (onde foi capturado e executado pela CIA em 1967). O 'Diário da Motocicleta' documenta a viagem de juventude que o transformou.",
-      "importancia": "Che Guevara é o símbolo mais vendido da contracultura e da revolução — sua imagem é a mais reproduzida do século XX. O paradoxo: o homem que combateu o capitalismo tornou-se produto de consumo capitalista em milhões de camisetas. Mais substantivamente, sua teoria do 'foco guerrilheiro' influenciou dezenas de movimentos armados na América Latina, Africa e Ásia — com resultados mistos a desastrosos.",
-      "eventos": [],
-      "tags": [
-        "cuba",
-        "revolução",
-        "guerrilha",
-        "argentina",
-        "ícone",
-        "americas",
-        "che"
       ]
     }
   ]

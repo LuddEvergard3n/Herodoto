@@ -84,6 +84,11 @@ const ALL_DATASETS = [
   "data/dados-brasil-16-nova-republica.json",
 ,"data/dados-brasil-quilombos.json",
   "data/dados-brasil-indigenas.json","data/dados-antartica-descoberta.json","data/dados-antartica-moderna.json"
+
+  // ── Personalidades ──
+  "data/dados-personagens-africa-oriente.json","data/dados-personagens-americas.json","data/dados-personagens-asia.json","data/dados-personagens-biblicas.json","data/dados-personagens-ciencia-pensamento.json","data/dados-personagens-grecia-roma.json","data/dados-personagens-iluminismo-revolucoes.json","data/dados-personagens-medieval.json","data/dados-personagens-oriente-antigo.json","data/dados-personagens-renascimento-reforma.json","data/dados-personagens-seculo-xix.json","data/dados-personagens-seculo-xx-guerras.json",
+  // ── Outros ──
+  "data/dados-al-andalus.json","data/dados-astecas-imperio.json","data/dados-brasil-colonial-escravidao.json","data/dados-brasil-contemporaneo.json","data/dados-brasil-cultura-arte.json","data/dados-brasil-economia-social.json","data/dados-brasil-guerra-paraguai.json","data/dados-brasil-imperio-ciencia.json","data/dados-brasil-imperio-figuras.json","data/dados-brasil-imperio-infraestrutura.json","data/dados-brasil-inconfidencia.json","data/dados-brasil-independencia.json","data/dados-brasil-missoes-jesuiticas.json","data/dados-brasil-precolonial.json","data/dados-brasil-redemocratizacao.json","data/dados-brasil-republica-velha.json","data/dados-caral-andino-antigo.json","data/dados-chimu-wari.json","data/dados-egito-tardio.json","data/dados-eua-colonias.json","data/dados-eua-expansao-civil.json","data/dados-eua-guerra-fria.json","data/dados-eua-guerras-mundiais.json","data/dados-eua-industrializacao.json","data/dados-islao-fundacao.json","data/dados-japao-arcaico.json","data/dados-japao-feudal.json","data/dados-persia-antiga.json","data/dados-pre-historia-americas.json","data/dados-pre-historia-neolitico.json","data/dados-pre-historia-paleolitico.json",
 ];
 
 const TYPE_COLORS = {
@@ -667,7 +672,7 @@ function openSidePanel(entity){
   sp.appendChild(inner);
 }
 
-async function openTimeline(){
+async async function openTimeline(){
   if(!panelEl)return;
   cleanup.forEach(f=>f());cleanup=[];
   S.tx=0;S.sc=1;S.types=new Set(Object.keys(TYPE_COLORS));S.q='';

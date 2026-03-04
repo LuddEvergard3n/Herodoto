@@ -7,7 +7,7 @@
   },
   "entidades": [
     {
-      "id": "gf-001",
+      "id": "grf-001",
       "nome": "Pré-Socráticos: A Busca do Arkhé",
       "nome_en": "Pre-Socratics: The Search for Arkhê",
       "nome_es": "Presocráticos: La Búsqueda del Arjé",
@@ -37,7 +37,7 @@
       "dataset": "data/dados-grecia-filosofia.json"
     },
     {
-      "id": "gf-002",
+      "id": "grf-002",
       "nome": "Sócrates: O Método da Maiêutica",
       "nome_en": "Socrates: The Method of Maieutics",
       "nome_es": "Sócrates: El Método de la Mayéutica",
@@ -67,7 +67,7 @@
       "dataset": "data/dados-grecia-filosofia.json"
     },
     {
-      "id": "gf-003",
+      "id": "grf-003",
       "nome": "Platão: A Academia e a Teoria das Formas",
       "nome_en": "Plato: The Academy and the Theory of Forms",
       "nome_es": "Platón: La Academia y la Teoría de las Formas",
@@ -96,7 +96,7 @@
       "dataset": "data/dados-grecia-filosofia.json"
     },
     {
-      "id": "gf-004",
+      "id": "grf-004",
       "nome": "Aristóteles: O Polímata que Fundou a Ciência",
       "nome_en": "Aristotle: The Polymath who Founded Science",
       "nome_es": "Aristóteles: El Polímata que Fundó la Ciencia",
@@ -126,7 +126,7 @@
       "dataset": "data/dados-grecia-filosofia.json"
     },
     {
-      "id": "gf-005",
+      "id": "grf-005",
       "nome": "Estoicismo, Epicurismo e o Helenismo Filosófico",
       "nome_en": "Stoicism, Epicureanism and the Philosophical Hellenism",
       "nome_es": "Estoicismo, Epicureísmo y el Helenismo Filosófico",

@@ -7,7 +7,7 @@
   },
   "entidades": [
     {
-      "id": "cm-001",
+      "id": "corm-001",
       "nome": "Ocupação Japonesa da Coreia (1910–1945)",
       "nome_en": "Japanese Occupation of Korea (1910–1945)",
       "nome_es": "Ocupación Japonesa de Corea (1910–1945)",
@@ -36,7 +36,7 @@
       "dataset": "data/dados-coreia-moderna.json"
     },
     {
-      "id": "cm-002",
+      "id": "corm-002",
       "nome": "A Guerra da Coreia (1950–1953) e a Divisão",
       "nome_en": "The Korean War (1950–1953) and the Division",
       "nome_es": "La Guerra de Corea (1950–1953) y la División",
@@ -66,7 +66,7 @@
       "dataset": "data/dados-coreia-moderna.json"
     },
     {
-      "id": "cm-003",
+      "id": "corm-003",
       "nome": "Milagre Econômico Sul-Coreano: Os Chaebols e o Han",
       "nome_en": "South Korea's Economic Miracle: Chaebols and the Han River",
       "nome_es": "Milagro Económico Surcoreano: Los Chaebols y el Han",
@@ -96,7 +96,7 @@
       "dataset": "data/dados-coreia-moderna.json"
     },
     {
-      "id": "cm-004",
+      "id": "corm-004",
       "nome": "Democratização Sul-Coreana (1987–presente)",
       "nome_en": "South Korean Democratization (1987–present)",
       "nome_es": "Democratización Surcoreana (1987–presente)",
@@ -125,7 +125,7 @@
       "dataset": "data/dados-coreia-moderna.json"
     },
     {
-      "id": "cm-005",
+      "id": "corm-005",
       "nome": "Hallyu: A Onda Coreana e o Soft Power",
       "nome_en": "Hallyu: The Korean Wave and Soft Power",
       "nome_es": "Hallyu: La Ola Coreana y el Soft Power",
