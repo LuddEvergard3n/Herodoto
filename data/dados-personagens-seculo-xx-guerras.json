@@ -1,7 +1,7 @@
 {
   "personagens": [
     {
-      "id": "pxx-001",
+      "id": "ps688",
       "nome": "Vladimir Lenin",
       "nome_en": "Vladimir Lenin",
       "nome_es": "Vladímir Lenin",
@@ -24,10 +24,14 @@
         "urss",
         "vanguarda",
         "comunismo"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1870,
+      "fim": 1924,
+      "region": "Europe"
     },
     {
-      "id": "pxx-002",
+      "id": "ps787",
       "nome": "Adolf Hitler",
       "nome_en": "Adolf Hitler",
       "nome_es": "Adolf Hitler",
@@ -49,10 +53,14 @@
         "totalitarismo",
         "fascismo",
         "alemanha"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1889,
+      "fim": 1945,
+      "region": "Europe"
     },
     {
-      "id": "pxx-003",
+      "id": "ps205",
       "nome": "Winston Churchill",
       "nome_en": "Winston Churchill",
       "nome_es": "Winston Churchill",
@@ -75,10 +83,14 @@
         "liderança",
         "imperialismo",
         "blitz"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1874,
+      "fim": 1965,
+      "region": "Europe"
     },
     {
-      "id": "pxx-004",
+      "id": "ps760",
       "nome": "Franklin D. Roosevelt",
       "nome_en": "Franklin D. Roosevelt",
       "nome_es": "Franklin D. Roosevelt",
@@ -100,10 +112,14 @@
         "democracia",
         "crise",
         "estado-de-bem-estar"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1882,
+      "fim": 1945,
+      "region": "Americas"
     },
     {
-      "id": "pxx-005",
+      "id": "ps577",
       "nome": "Joseph Stalin",
       "nome_en": "Joseph Stalin",
       "nome_es": "José Stalin",
@@ -125,10 +141,14 @@
         "gulags",
         "coletivização",
         "segunda-guerra"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1878,
+      "fim": 1953,
+      "region": "Europe"
     },
     {
-      "id": "pxx-006",
+      "id": "ps344",
       "nome": "Mahatma Gandhi",
       "nome_en": "Mahatma Gandhi",
       "nome_es": "Mahatma Gandhi",
@@ -151,10 +171,14 @@
         "satyagraha",
         "império-britânico",
         "partição"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1869,
+      "fim": 1948,
+      "region": "SouthAsia"
     },
     {
-      "id": "pxx-007",
+      "id": "ps268",
       "nome": "Mao Tsé-Tung",
       "nome_en": "Mao Zedong",
       "nome_es": "Mao Zedong",
@@ -179,10 +203,14 @@
         "grande-salto",
         "fome",
         "maoísmo"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1893,
+      "fim": 1976,
+      "region": "EastAsia"
     },
     {
-      "id": "pxx-008",
+      "id": "ps900",
       "nome": "Nelson Mandela",
       "nome_en": "Nelson Mandela",
       "nome_es": "Nelson Mandela",
@@ -206,10 +234,14 @@
         "reconciliação",
         "prisão",
         "liberdade"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1918,
+      "fim": 2013,
+      "region": "Africa"
     },
     {
-      "id": "pxx-009",
+      "id": "ps755",
       "nome": "Simone de Beauvoir",
       "nome_en": "Simone de Beauvoir",
       "nome_es": "Simone de Beauvoir",
@@ -233,10 +265,14 @@
         "filosofia",
         "França",
         "o-segundo-sexo"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1908,
+      "fim": 1986,
+      "region": "Europe"
     },
     {
-      "id": "pxx-010",
+      "id": "ps962",
       "nome": "Martin Luther King Jr.",
       "nome_en": "Martin Luther King Jr.",
       "nome_es": "Martin Luther King Jr.",
@@ -261,10 +297,14 @@
         "racismo",
         "sonho",
         "assassinato"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1929,
+      "fim": 1968,
+      "region": "Americas"
     },
     {
-      "id": "pxx-012",
+      "id": "ps387",
       "nome": "Albert Einstein",
       "nome_en": "Albert Einstein",
       "nome_es": "Albert Einstein",
@@ -287,10 +327,14 @@
         "nazismo",
         "bomba-atômica",
         "ciência"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1879,
+      "fim": 1955,
+      "region": "Europe"
     },
     {
-      "id": "pxx-016",
+      "id": "ps436",
       "nome": "Alan Turing",
       "nome_en": "Alan Turing",
       "nome_es": "Alan Turing",
@@ -315,7 +359,183 @@
         "guerra",
         "matemática",
         "gay"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1912,
+      "fim": 1954,
+      "region": "Europe"
+    },
+    {
+      "id": "ps554",
+      "nome": "Mahatma Gandhi",
+      "nome_en": "Mahatma Gandhi",
+      "nome_es": "Mahatma Gandhi",
+      "nascimento": 1869,
+      "morte": 1948,
+      "regiao": "Asia",
+      "area": [
+        "ativismo",
+        "política"
+      ],
+      "cargo": "Líder Independentista",
+      "epoca": "Séc. XX",
+      "descricao": "Advogado gujarati que desenvolveu a satyagraha (resistência pela verdade) na África do Sul e levou-a à Índia. A Marcha do Sal (1930): 388 km a pé para desafiar o monopólio britânico do sal — o gesto mais elegante de desobediência civil da história. Independência da Índia em 1947. Assassinado por um extremista hindu em 1948.",
+      "importancia": "Gandhi provou que a resistência não-violenta pode derrotar impérios militares. Seu método — fazer o opressor mostrar sua violência diante do mundo — foi adotado por Martin Luther King, Mandela e movimentos em dezenas de países. A questão que ele deixa: a não-violência funciona apenas contra inimigos com consciência moral?",
+      "eventos": [],
+      "tags": [
+        "independência indiana",
+        "não-violência",
+        "colonialismo",
+        "desobediência civil"
+      ],
+      "type": "person",
+      "inicio": 1869,
+      "fim": 1948,
+      "region": "Asia"
+    },
+    {
+      "id": "ps764",
+      "nome": "Martin Luther King Jr.",
+      "nome_en": "Martin Luther King Jr.",
+      "nome_es": "Martin Luther King Jr.",
+      "nascimento": 1929,
+      "morte": 1968,
+      "regiao": "Americas",
+      "area": [
+        "ativismo",
+        "religião"
+      ],
+      "cargo": "Pastor e Ativista",
+      "epoca": "Séc. XX",
+      "descricao": "Pastor batista de Atlanta que liderou o Movimento pelos Direitos Civis usando táticas ganhianas adaptadas ao Sul americano. O boicote aos ônibus de Montgomery (1955-56), a Marcha em Washington (1963), 'I Have a Dream'. Nobel da Paz em 1964. Assassinado aos 39 anos em Memphis.",
+      "importancia": "King transformou uma luta por direitos legais numa exigência moral que os EUA não podiam ignorar sem se contradizer — e usou a televisão para transmitir ao mundo a violência do estado contra manifestantes pacíficos. Seu assassinato gerou os distúrbios que aceleraram a aprovação do Fair Housing Act, mostrando que sua morte continuou sua obra.",
+      "eventos": [],
+      "tags": [
+        "direitos civis",
+        "EUA",
+        "não-violência",
+        "segregação",
+        "I Have a Dream"
+      ],
+      "type": "person",
+      "inicio": 1929,
+      "fim": 1968,
+      "region": "Americas"
+    },
+    {
+      "id": "ps462",
+      "nome": "Simone de Beauvoir",
+      "nome_en": "Simone de Beauvoir",
+      "nome_es": "Simone de Beauvoir",
+      "nascimento": 1908,
+      "morte": 1986,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "literatura"
+      ],
+      "cargo": "Filósofa e Escritora",
+      "epoca": "Séc. XX",
+      "descricao": "Filósofa existencialista e companheira de Sartre. O Segundo Sexo (1949) analisou sistematicamente como 'a mulher' é construída como alteridade — o Outro do sujeito masculino — em todas as esferas: biologia, psicanálise, mito, história. Proibido pela Igreja Católica. Base teórica do feminismo da segunda onda.",
+      "importancia": "Beauvoir formulou a distinção fundamental entre sexo biológico e gênero cultural: 'Não se nasce mulher, torna-se'. Essa frase reorientou o feminismo do biológico para o social e cultural — se o feminino é construído, pode ser desconstruído. O Segundo Sexo ainda é o texto mais citado dos estudos de gênero.",
+      "eventos": [],
+      "tags": [
+        "feminismo",
+        "existencialismo",
+        "filosofia",
+        "gênero",
+        "segunda onda"
+      ],
+      "type": "person",
+      "inicio": 1908,
+      "fim": 1986,
+      "region": "Europe"
+    },
+    {
+      "id": "ps477",
+      "nome": "Mikhail Gorbachev",
+      "nome_en": "Mikhail Gorbachev",
+      "nome_es": "Mijaíl Gorbachov",
+      "nascimento": 1931,
+      "morte": 2022,
+      "regiao": "Europe",
+      "area": [
+        "política"
+      ],
+      "cargo": "Secretário-Geral da URSS",
+      "epoca": "Séc. XX",
+      "descricao": "Último líder soviético. Lançou glasnost (transparência) e perestroika (reestruturação) para reformar o socialismo — e inadvertidamente desfez a URSS. Retirou tropas do Afeganistão, permitiu eleições nos países satélites, não enviou tanques quando o Muro de Berlim caiu. Nobel da Paz em 1990.",
+      "importancia": "Gorbachev é o estudo de caso de um líder que tentou reformar um sistema irreformável. Se tivesse agido como Deng Xiaoping (reformas econômicas, repressão política), a URSS poderia ter sobrevivido. Sua escolha de não usar a força foi moralmente admirável e politicamente suicida — e mudou o mundo mais do que qualquer guerra.",
+      "eventos": [],
+      "tags": [
+        "URSS",
+        "guerra fria",
+        "perestroika",
+        "glasnost",
+        "colapso soviético"
+      ],
+      "type": "person",
+      "inicio": 1931,
+      "fim": 2022,
+      "region": "Europe"
+    },
+    {
+      "id": "ps902",
+      "nome": "Ho Chi Minh",
+      "nome_en": "Ho Chi Minh",
+      "nome_es": "Ho Chi Minh",
+      "nascimento": 1890,
+      "morte": 1969,
+      "regiao": "Asia",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "Revolucionário e Presidente",
+      "epoca": "Séc. XX",
+      "descricao": "Fundador do Vietnã moderno. Passou anos em Paris, Moscou e China antes de voltar ao Vietnã. Derrotou os franceses em Dien Bien Phu (1954) com estratégia de guerrilha. Liderou o Norte do Vietnã contra os EUA — morreu antes de ver a reunificação (1975). Viveu com ascetismo espartano, recusando privilégios.",
+      "importancia": "Ho Chi Minh demonstrou que uma superpotência com bomba atômica pode ser derrotada por guerrilheiros motivados por causa nacional. A derrota americana no Vietnã redefiniu o poder militar: tecnologia superior não vence determinação popular em terreno doméstico. Sua estratégia de 'guerra prolongada' foi estudada por movimentos de libertação em todo o mundo.",
+      "eventos": [],
+      "tags": [
+        "vietnã",
+        "descolonização",
+        "guerra do vietnã",
+        "comunismo",
+        "guerrilha"
+      ],
+      "type": "person",
+      "inicio": 1890,
+      "fim": 1969,
+      "region": "Asia"
+    },
+    {
+      "id": "ps297",
+      "nome": "Hannah Arendt",
+      "nome_en": "Hannah Arendt",
+      "nome_es": "Hannah Arendt",
+      "nascimento": 1906,
+      "morte": 1975,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "política"
+      ],
+      "cargo": "Filósofa Política",
+      "epoca": "Séc. XX",
+      "descricao": "Filósofa judia alemã que fugiu do nazismo para os EUA. Origens do Totalitarismo (1951) analisou nazismo e stalinismo como formas radicalmente novas de dominação. Cobriu o julgamento de Eichmann em Jerusalém e cunhou a frase 'banalidade do mal': genocídio praticado por burocratas sem maldade excepcional.",
+      "importancia": "Arendt respondeu à pergunta mais urgente do século XX: como homens comuns cometem atrocidades em escala industrial? A resposta — que o mal não requer monstros, apenas obediência e ausência de pensamento — é mais perturbadora que qualquer teoria sobre psicopatia. A Condição Humana (1958) distingue trabalho, labor e ação política de forma que ancora toda ciência política contemporânea.",
+      "eventos": [],
+      "tags": [
+        "totalitarismo",
+        "holocausto",
+        "banalidade do mal",
+        "filosofia política",
+        "nazismo"
+      ],
+      "type": "person",
+      "inicio": 1906,
+      "fim": 1975,
+      "region": "Europe"
     }
   ]
 }

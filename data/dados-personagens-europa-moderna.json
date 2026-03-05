@@ -1,0 +1,349 @@
+{
+  "personagens": [
+    {
+      "id": "pem-001",
+      "nome": "Nicolau Copérnico",
+      "nome_en": "Nicolaus Copernicus",
+      "nome_es": "Nicolás Copérnico",
+      "nascimento": 1473,
+      "morte": 1543,
+      "regiao": "Europe",
+      "area": [
+        "ciência",
+        "astronomia"
+      ],
+      "cargo": "Astrônomo",
+      "epoca": "Era Moderna",
+      "descricao": "Cônego polonês que propôs o heliocentrismo em De Revolutionibus (1543) — publicado no ano de sua morte, segundo a lenda por medo da Inquisição. Na verdade, esperou décadas por cálculos mais precisos. Seu modelo ainda era circular (não elíptico como Kepler corrigi depois) mas deslocou a Terra do centro do universo.",
+      "importancia": "A revolução copernicana não foi apenas astronômica: ao remover a Terra do centro do universo, removeu também o ser humano do centro da criação. O choque existencial desta descoberta — que somos habitantes de um planeta menor orbitando uma estrela comum — moldou toda a filosofia e teologia dos 5 séculos seguintes.",
+      "eventos": [],
+      "tags": [
+        "heliocentrismo",
+        "revolução científica",
+        "astronomia",
+        "renascimento"
+      ],
+      "type": "person",
+      "inicio": 1473,
+      "fim": 1543,
+      "region": "Europe"
+    },
+    {
+      "id": "pem-002",
+      "nome": "Galileu Galilei",
+      "nome_en": "Galileo Galilei",
+      "nome_es": "Galileo Galilei",
+      "nascimento": 1564,
+      "morte": 1642,
+      "regiao": "Europe",
+      "area": [
+        "ciência",
+        "física"
+      ],
+      "cargo": "Astrônomo e Físico",
+      "epoca": "Era Moderna",
+      "descricao": "Inventou o método experimental: medir, quantificar, experimentar — não deduzir da autoridade de Aristóteles. Confirmou o heliocentrismo com o telescópio, descobriu as luas de Júpiter, estudou o movimento dos projéteis. Condenado pela Inquisição em 1633 a abjurar 'a Terra se move' — fez a abjuração e ficou em prisão domiciliar até morrer.",
+      "importancia": "O caso Galileu é o arquétipo do conflito entre conhecimento empírico e autoridade dogmática. Mas a história é mais complexa: Galileu foi imprudente diplomaticamente e o Papa era seu amigo antes do processo. O conflito era menos Ciência vs. Religião do que sobre quem controlava o que era verdadeiro — questão que nunca foi resolvida.",
+      "eventos": [],
+      "tags": [
+        "revolução científica",
+        "inquisição",
+        "telescópio",
+        "método experimental",
+        "heliocentrismo"
+      ],
+      "type": "person",
+      "inicio": 1564,
+      "fim": 1642,
+      "region": "Europe"
+    },
+    {
+      "id": "pem-003",
+      "nome": "Martinho Lutero",
+      "nome_en": "Martin Luther",
+      "nome_es": "Martín Lutero",
+      "nascimento": 1483,
+      "morte": 1546,
+      "regiao": "Europe",
+      "area": [
+        "religião",
+        "política"
+      ],
+      "cargo": "Teólogo e Reformador",
+      "epoca": "Era Moderna",
+      "descricao": "Monge agostiniano que pregou 95 Teses na porta da igreja de Wittenberg em 1517 — ou as enviou por carta ao bispo, a dramaturgia da porta é provavelmente lenda. Traduzir a Bíblia para o alemão foi mais revolucionário: democratizou o acesso ao texto sagrado e padronizou a língua alemã moderna. Excomungado e proscritos, sobreviveu protegido pelo Eleitor da Saxônia.",
+      "importancia": "Lutero não pretendia fragmentar o Cristianismo — queria reformá-lo de dentro. Ao invocar a consciência individual como árbitro supremo da interpretação bíblica, criou o princípio que tornaria impossível qualquer autoridade religiosa única. O protestantismo gerou 40.000 denominações e, indiretamente, o individualismo secular moderno.",
+      "eventos": [],
+      "tags": [
+        "reforma protestante",
+        "luteranismo",
+        "bíblia",
+        "indulgências",
+        "religião"
+      ],
+      "type": "person",
+      "inicio": 1483,
+      "fim": 1546,
+      "region": "Europe"
+    },
+    {
+      "id": "pem-004",
+      "nome": "Isabel I de Inglaterra",
+      "nome_en": "Elizabeth I of England",
+      "nome_es": "Isabel I de Inglaterra",
+      "nascimento": 1533,
+      "morte": 1603,
+      "regiao": "Europe",
+      "area": [
+        "política",
+        "cultura"
+      ],
+      "cargo": "Rainha da Inglaterra",
+      "epoca": "Era Moderna",
+      "descricao": "'Rainha Virgem': filha de Henrique VIII e Ana Bolena, declarada bastarda, presa na Torre de Londres por sua meia-irmã Maria I. Subiu ao trono aos 25 anos e governou 45. Era Elisabetana: Shakespeare, Francis Drake, a derrota da Armada Espanhola (1588). Recusou casamento para manter poder pessoal independente.",
+      "importancia": "Isabel provou que uma mulher poderia governar sozinha uma potência europeia — mas ao custo de negar publicamente sua feminilidade ('Tenho o coração e o estômago de um rei'). Seu reinado estabeleceu a supremacia naval britânica que seria a base do Império. A era Elizabetana é também a era de ouro da língua inglesa.",
+      "eventos": [],
+      "tags": [
+        "Inglaterra",
+        "tudor",
+        "armada espanhola",
+        "era elisabetana",
+        "Shakespeare"
+      ],
+      "type": "person",
+      "inicio": 1533,
+      "fim": 1603,
+      "region": "Europe"
+    },
+    {
+      "id": "pem-005",
+      "nome": "Francisco de Assis",
+      "nome_en": "Francis of Assisi",
+      "nome_es": "Francisco de Asís",
+      "nascimento": 1181,
+      "morte": 1226,
+      "regiao": "Europe",
+      "area": [
+        "religião"
+      ],
+      "cargo": "Frade e Fundador",
+      "epoca": "Idade Média",
+      "descricao": "Filho de comerciante rico de Assis que abandonou tudo, vestiu-se de mendigo e pregou para os pássaros. Fundou a ordem franciscana (1209) baseada na pobreza absoluta e irmandade com toda a criação. Recebeu os estigmas em 1224. Foi a La Verna evangelizar o Sultão do Egito durante a 5ª Cruzada — e voltou vivo.",
+      "importancia": "Francisco antecipou 800 anos de ecologia ao tratar a natureza como irmã, não como recurso. Sua pobreza voluntária foi um protesto silencioso contra a Igreja que acumulava riquezas — e gerou o movimento dos Espirituais Franciscanos que a Igreja perseguiu por heresia. João Paulo II o declarou patrono da ecologia em 1979.",
+      "eventos": [],
+      "tags": [
+        "franciscanos",
+        "pobreza",
+        "natureza",
+        "cruzadas",
+        "estigmas"
+      ],
+      "type": "person",
+      "inicio": 1181,
+      "fim": 1226,
+      "region": "Europe"
+    },
+    {
+      "id": "pem-006",
+      "nome": "Carlos V",
+      "nome_en": "Charles V",
+      "nome_es": "Carlos V",
+      "nascimento": 1500,
+      "morte": 1558,
+      "regiao": "Europe",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "Imperador do Sacro Império Romano-Germânico",
+      "epoca": "Era Moderna",
+      "descricao": "O governante mais poderoso da história cristã: herdou a Espanha, as Américas, os Países Baixos, a Áustria e a coroa imperial. Lutou contra François I da França, os Otomanos de Solimão e os Protestantes alemães simultaneamente. Saque de Roma em 1527 — por seus próprios soldados que não recebia salário. Abdicou em 1555 e entrou num monastério.",
+      "importancia": "Carlos V governou um império que nunca tinha existido antes e nunca existiria depois — e descobriu que era ingovernável. Sua abdicação em favor de Filipe II (Espanha/Américas) e Fernando I (Áustria/Império) dividiu a hegemonia habsburga para sempre. Sua incapacidade de esmagar o protestantismo na Alemanha tornou a divisão religiosa permanente.",
+      "eventos": [],
+      "tags": [
+        "habsburgo",
+        "sacro império",
+        "reforma protestante",
+        "conquista das américas",
+        "abdicação"
+      ],
+      "type": "person",
+      "inicio": 1500,
+      "fim": 1558,
+      "region": "Europe"
+    },
+    {
+      "id": "pem-007",
+      "nome": "Thomas More",
+      "nome_en": "Thomas More",
+      "nome_es": "Tomás Moro",
+      "nascimento": 1478,
+      "morte": 1535,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "política"
+      ],
+      "cargo": "Chanceler da Inglaterra",
+      "epoca": "Era Moderna",
+      "descricao": "Lord Chancellor de Henrique VIII, humanista amigo de Erasmo, autor de Utopia (1516) — que descreveu uma sociedade ideal sem propriedade privada, dando nome ao gênero inteiro. Recusou jurar fidelidade ao Ato de Supremacia que fazia Henrique cabeça da Igreja inglesa. Decapitado por traição. Canonizado em 1935.",
+      "importancia": "More é o mártir da consciência individual contra o poder do estado — o mesmo princípio que Lutero invocou para justificar sua heresia. A ironia é que Lutero e More são inimigos ideológicos que morrem pelo mesmo princípio em lados opostos. Utopia cunhou uma palavra e moldou 500 anos de pensamento político sobre sociedades alternativas.",
+      "eventos": [],
+      "tags": [
+        "utopia",
+        "humanismo",
+        "henrique VIII",
+        "reforma inglesa",
+        "mártir"
+      ],
+      "type": "person",
+      "inicio": 1478,
+      "fim": 1535,
+      "region": "Europe"
+    },
+    {
+      "id": "pem-008",
+      "nome": "Juana de Arco",
+      "nome_en": "Joan of Arc",
+      "nome_es": "Juana de Arco",
+      "nascimento": 1412,
+      "morte": 1431,
+      "regiao": "Europe",
+      "area": [
+        "militar",
+        "religião"
+      ],
+      "cargo": "Guerreira e Mártir",
+      "epoca": "Idade Média",
+      "descricao": "Camponesa analfabeta de Domrémy que disse ouvir vozes de santos mandando-a expulsar os ingleses da França. Convenceu o Delfim Carlos VII a lhe dar um exército. Libertou Orléans em 9 dias (1429) — ponto de virada da Guerra dos Cem Anos. Capturada pelos borgonheses, vendida aos ingleses, condenada por heresia e queimada viva aos 19 anos.",
+      "importancia": "Joana é o paradoxo mais fascinante da Idade Média: uma camponesa sem educação que convenceu reis, derrotou exércitos e foi queimada pela Igreja — e canonizada pela mesma Igreja 500 anos depois. Sua canonização (1920) foi política tanto quanto religiosa: a França precisava de uma santa nacional após a Grande Guerra.",
+      "eventos": [],
+      "tags": [
+        "guerra dos cem anos",
+        "França",
+        "heresia",
+        "mártir",
+        "visões"
+      ],
+      "type": "person",
+      "inicio": 1412,
+      "fim": 1431,
+      "region": "Europe"
+    },
+    {
+      "id": "pem-009",
+      "nome": "Cristóvão Colombo",
+      "nome_en": "Christopher Columbus",
+      "nome_es": "Cristóbal Colón",
+      "nascimento": 1451,
+      "morte": 1506,
+      "regiao": "Europe",
+      "area": [
+        "exploração",
+        "navegação"
+      ],
+      "cargo": "Navegador",
+      "epoca": "Era Moderna",
+      "descricao": "Genovês que convenceu a Espanha a financiar uma rota ocidental para as Índias. Chegou às Bahamas em 12 de outubro de 1492 — pensando ser o Japão. Fez 4 viagens, nunca admitiu ter chegado a um continente desconhecido. Governador brutal do Caribe: enviado de volta à Espanha acorrentado em 1500 por crueldade com nativos e colonos.",
+      "importancia": "Colombo abriu uma conexão entre dois mundos que haviam evoluído separados por 15.000 anos. O Intercâmbio Colombiano — batatas, milho, tomates para a Europa; cavalos, doenças, escravidão para as Américas — transformou o metabolismo global. A questão sobre como comemorar Colombo versus como nomear sua herança de genocídio ainda divide opiniões.",
+      "eventos": [],
+      "tags": [
+        "descoberta das américas",
+        "navegações",
+        "intercâmbio colombiano",
+        "colonização",
+        "espanha"
+      ],
+      "type": "person",
+      "inicio": 1451,
+      "fim": 1506,
+      "region": "Europe"
+    },
+    {
+      "id": "pem-010",
+      "nome": "Nicolau Maquiavel",
+      "nome_en": "Niccolò Machiavelli",
+      "nome_es": "Nicolás Maquiavelo",
+      "nascimento": 1469,
+      "morte": 1527,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "política"
+      ],
+      "cargo": "Diplomata e Filósofo",
+      "epoca": "Era Moderna",
+      "descricao": "Servidor público florentino por 14 anos, torturado e exilado pelos Médici em 1512. Escreveu O Príncipe (1513) no exílio — um manual de poder real, não idealizado. 'É melhor ser temido do que amado, se não puder ser os dois.' Observou Cesare Bórgia operar como modelo de eficácia sem escrúpulos.",
+      "importancia": "Maquiavel separou política e ética pela primeira vez na história do pensamento ocidental. Antes dele, teoria política era sempre normativa (como o governante DEVE agir). Ele descreveu como governantes REALMENTE agem — e isso foi tão perturbador que 'maquiavélico' se tornou sinônimo de maldade. Toda ciência política moderna começa com essa separação.",
+      "eventos": [],
+      "tags": [
+        "renascimento",
+        "filosofia política",
+        "O Príncipe",
+        "florença",
+        "realpolitik"
+      ],
+      "type": "person",
+      "inicio": 1469,
+      "fim": 1527,
+      "region": "Europe"
+    },
+    {
+      "id": "pem-011",
+      "nome": "Baruch Spinoza",
+      "nome_en": "Baruch Spinoza",
+      "nome_es": "Baruch Spinoza",
+      "nascimento": 1632,
+      "morte": 1677,
+      "regiao": "Europe",
+      "area": [
+        "filosofia"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Era Moderna",
+      "descricao": "Judeu português nascido em Amsterdã, excomungado pela comunidade judaica aos 23 anos com o banimento mais severo já registrado — sem que o motivo fosse especificado. Sua Ética (1677) identificou Deus com a Natureza (panteísmo), negou o livre-arbítrio e a alma imortal. Ganhou a vida polindo lentes ópticas para preservar independência intelectual.",
+      "importancia": "Spinoza é o filósofo mais radicalmente moderno do século XVII: democracia, separação entre Estado e Igreja, liberdade de expressão, crítica histórica da Bíblia, negação de milagres — tudo está ali, 100 anos antes do Iluminismo. Foi a influência não declarada de quase todos os filósofos iluministas que temiam associar-se a ele publicamente.",
+      "eventos": [],
+      "tags": [
+        "panteísmo",
+        "racionalismo",
+        "excomunhão",
+        "liberdade",
+        "filosofia moderna"
+      ],
+      "type": "person",
+      "inicio": 1632,
+      "fim": 1677,
+      "region": "Europe"
+    },
+    {
+      "id": "pem-012",
+      "nome": "Teresa de Ávila",
+      "nome_en": "Teresa of Ávila",
+      "nome_es": "Teresa de Ávila",
+      "nascimento": 1515,
+      "morte": 1582,
+      "regiao": "Europe",
+      "area": [
+        "religião",
+        "mística"
+      ],
+      "cargo": "Mística e Reformadora",
+      "epoca": "Era Moderna",
+      "descricao": "Freira carmelita espanhola que fundou 17 conventos reformados e escreveu as obras mais influentes da mística cristã: O Castelo Interior e A Vida. Teve êxtases místicos representados na escultura de Bernini. Investigada pela Inquisição por seus escritos — e absolvida. Primeira mulher declarada Doutora da Igreja (1970).",
+      "importancia": "Teresa demonstrou que uma mulher podia ter autoridade espiritual e intelectual numa Igreja patriarcal — através do caminho estreito da mística, que a teologia formal lhe fechava. Seu Castelo Interior é a mais sofisticada cartografia da experiência interior já escrita, e continua influenciando a psicologia profunda e as práticas meditativas contemporâneas.",
+      "eventos": [],
+      "tags": [
+        "mística",
+        "reforma católica",
+        "carmelitas",
+        "inquisição",
+        "mulheres na Igreja"
+      ],
+      "type": "person",
+      "inicio": 1515,
+      "fim": 1582,
+      "region": "Europe"
+    }
+  ]
+}

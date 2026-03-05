@@ -24,7 +24,11 @@
         "França",
         "sátira",
         "liberdade"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1694,
+      "fim": 1778,
+      "region": "Europe"
     },
     {
       "id": "pir-003",
@@ -50,7 +54,11 @@
         "natureza",
         "educação",
         "vontade-geral"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1712,
+      "fim": 1778,
+      "region": "Europe"
     },
     {
       "id": "pir-004",
@@ -75,7 +83,11 @@
         "direito",
         "constituição",
         "ciência-política"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1689,
+      "fim": 1755,
+      "region": "Europe"
     },
     {
       "id": "pir-005",
@@ -100,7 +112,11 @@
         "iluminismo",
         "imperativo-categórico",
         "crítica"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1724,
+      "fim": 1804,
+      "region": "Europe"
     },
     {
       "id": "pir-006",
@@ -125,7 +141,11 @@
         "guilhotina",
         "virtude",
         "tirania"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1758,
+      "fim": 1794,
+      "region": "Europe"
     },
     {
       "id": "pir-007",
@@ -157,7 +177,11 @@
         "código-napoleônico",
         "waterloo",
         "conquista"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1769,
+      "fim": 1821,
+      "region": "Europe"
     },
     {
       "id": "pir-008",
@@ -183,7 +207,11 @@
         "livre-mercado",
         "Escócia",
         "iluminismo"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1723,
+      "fim": 1790,
+      "region": "Europe"
     },
     {
       "id": "pir-009",
@@ -209,10 +237,14 @@
         "razão",
         "rousseau",
         "gênero"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1759,
+      "fim": 1797,
+      "region": "Europe"
     },
     {
-      "id": "pir-011",
+      "id": "pi501",
       "nome": "John Locke",
       "nome_en": "John Locke",
       "nome_es": "John Locke",
@@ -235,10 +267,14 @@
         "locke",
         "democracia",
         "filosofia"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1632,
+      "fim": 1704,
+      "region": "Europe"
     },
     {
-      "id": "pir-016",
+      "id": "pi807",
       "nome": "Simon Bolívar",
       "nome_en": "Simón Bolívar",
       "nome_es": "Simón Bolívar",
@@ -261,7 +297,237 @@
         "libertador",
         "integração",
         "gran-colombia"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1783,
+      "fim": 1830,
+      "region": "Americas"
+    },
+    {
+      "id": "pi502",
+      "nome": "John Locke",
+      "nome_en": "John Locke",
+      "nome_es": "John Locke",
+      "nascimento": 1632,
+      "morte": 1704,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "política"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Era Moderna",
+      "descricao": "Pai do liberalismo clássico. Formulou que os seres humanos nascem como uma 'tábula rasa' e que o conhecimento vem da experiência. Sua teoria do contrato social e dos direitos naturais (vida, liberdade e propriedade) influenciou diretamente a Declaração de Independência americana e a Revolução Francesa.",
+      "importancia": "Locke separou o poder secular do religioso e argumentou que um governo que viola os direitos naturais perde a legitimidade — dando fundamento filosófico à revolução como direito. Thomas Jefferson o copiou quase palavra por palavra na Declaração de 1776.",
+      "eventos": [],
+      "tags": [
+        "liberalismo",
+        "contrato social",
+        "empirismo",
+        "direitos naturais"
+      ],
+      "type": "person",
+      "inicio": 1632,
+      "fim": 1704,
+      "region": "Europe"
+    },
+    {
+      "id": "pir-012",
+      "nome": "Denis Diderot",
+      "nome_en": "Denis Diderot",
+      "nome_es": "Denis Diderot",
+      "nascimento": 1713,
+      "morte": 1784,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "literatura"
+      ],
+      "cargo": "Enciclopedista",
+      "epoca": "Era Moderna",
+      "descricao": "Editor-chefe da Encyclopédie (1751–1772), o projeto intelectual mais ambicioso do Iluminismo: 28 volumes reunindo todo o conhecimento humano com um viés crítico à superstição e à tirania. Preso pela Bastilha antes de completar a obra. Ateu convicto numa era perigosa para sê-lo.",
+      "importancia": "A Encyclopédie democratizou o conhecimento e criou um vocabulário comum para a crítica ao Ancien Régime. Ao justapor artigos técnicos sobre artesanato e artigos filosóficos sobre liberdade, Diderot mostrou que saber é poder — e colocou esse poder nas mãos de quem soubesse ler.",
+      "eventos": [],
+      "tags": [
+        "enciclopédia",
+        "iluminismo",
+        "ateísmo",
+        "filosofia francesa"
+      ],
+      "type": "person",
+      "inicio": 1713,
+      "fim": 1784,
+      "region": "Europe"
+    },
+    {
+      "id": "pir-013",
+      "nome": "Benjamin Franklin",
+      "nome_en": "Benjamin Franklin",
+      "nome_es": "Benjamín Franklin",
+      "nascimento": 1706,
+      "morte": 1790,
+      "regiao": "Americas",
+      "area": [
+        "ciência",
+        "política"
+      ],
+      "cargo": "Estadista e Cientista",
+      "epoca": "Era Moderna",
+      "descricao": "O único Founding Father que assinou os quatro documentos fundadores dos EUA. Inventor do para-raios, bifocais e da estufa Franklin. Diplomata em Paris que convenceu a França a apoiar a Revolução Americana — sem esse apoio, a independência teria falhado.",
+      "importancia": "Franklin encarna o ideal iluminista do gentleman-scientist: a ideia de que a razão aplicada pode melhorar tanto a natureza quanto a sociedade. Sua autobiografia inventou o mito do self-made man americano, moldando a cultura dos EUA por séculos.",
+      "eventos": [],
+      "tags": [
+        "revolução americana",
+        "ciência",
+        "diplomacia",
+        "iluminismo"
+      ],
+      "type": "person",
+      "inicio": 1706,
+      "fim": 1790,
+      "region": "Americas"
+    },
+    {
+      "id": "pir-014",
+      "nome": "Olympe de Gouges",
+      "nome_en": "Olympe de Gouges",
+      "nome_es": "Olympe de Gouges",
+      "nascimento": 1748,
+      "morte": 1793,
+      "regiao": "Europe",
+      "area": [
+        "política",
+        "ativismo"
+      ],
+      "cargo": "Ativista e Escritora",
+      "epoca": "Era Moderna",
+      "descricao": "Filha ilegítima de açougueiro que se tornou dramaturga e panfletária em Paris. Em 1791 publicou a Declaração dos Direitos da Mulher e da Cidadã, respondendo diretamente à Declaração dos Direitos do Homem — que excluía as mulheres. Guilhotinada em 1793 por se opor à execução de Luís XVI.",
+      "importancia": "Gouges apontou a contradição fundamental da Revolução Francesa: liberté, égalité, fraternité para quem? Sua execução revelou os limites do universalismo iluminista — e sua Declaração tornou-se texto fundador do feminismo ocidental, redescoberta apenas no século XX.",
+      "eventos": [],
+      "tags": [
+        "feminismo",
+        "revolução francesa",
+        "direitos das mulheres",
+        "guilhotina"
+      ],
+      "type": "person",
+      "inicio": 1748,
+      "fim": 1793,
+      "region": "Europe"
+    },
+    {
+      "id": "pir-015",
+      "nome": "Toussaint Louverture",
+      "nome_en": "Toussaint Louverture",
+      "nome_es": "Toussaint Louverture",
+      "nascimento": 1743,
+      "morte": 1803,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "General e Estadista",
+      "epoca": "Era Moderna",
+      "descricao": "Ex-escravo que liderou a única revolta de escravizados bem-sucedida da história, transformando Saint-Domingue no Haiti independente. Derrotou exércitos espanhóis, britânicos e franceses. Napoleão o prendeu por traição — morreu na prisão nos Alpes. O Haiti proclamou independência em 1804.",
+      "importancia": "A Revolução Haitiana colocou em xeque a hipocrisia do Iluminismo escravocrata. Os ideais de liberdade e igualdade eram genuínos apenas quando aplicados a europeus brancos? Louverture forçou o mundo a responder. Sua derrota de Napoleão também levou à venda da Louisiana aos EUA, dobrando o território americano.",
+      "eventos": [],
+      "tags": [
+        "haiti",
+        "escravidão",
+        "revolução",
+        "napoleão",
+        "independência"
+      ],
+      "type": "person",
+      "inicio": 1743,
+      "fim": 1803,
+      "region": "Americas"
+    },
+    {
+      "id": "pi222",
+      "nome": "Maximilien Robespierre",
+      "nome_en": "Maximilien Robespierre",
+      "nome_es": "Maximilien Robespierre",
+      "nascimento": 1758,
+      "morte": 1794,
+      "regiao": "Europe",
+      "area": [
+        "política"
+      ],
+      "cargo": "Advogado e Revolucionário",
+      "epoca": "Era Moderna",
+      "descricao": "O 'Incorruptível': advogado de província que se tornou o homem mais poderoso da França revolucionária. Arquitetou o Terror (1793–94): 40.000 execuções em nome da virtude republicana. Acreditava genuinamente que eliminando os inimigos da revolução criaria uma república de cidadãos virtuosos. Guilhotinado pelos próprios companheiros.",
+      "importancia": "Robespierre é o estudo de caso sobre como ideais puros podem justificar atrocidades. O Terror inaugurou o padrão de 'revolução devorando seus filhos' — repetido na Revolução Russa, Revolução Cultural chinesa e Camboja. A pergunta que ele levanta: pode a violência criar uma sociedade justa?",
+      "eventos": [],
+      "tags": [
+        "terror",
+        "revolução francesa",
+        "jacobinos",
+        "virtude republicana",
+        "guilhotina"
+      ],
+      "type": "person",
+      "inicio": 1758,
+      "fim": 1794,
+      "region": "Europe"
+    },
+    {
+      "id": "pir-017",
+      "nome": "Simon Bolívar",
+      "nome_en": "Simón Bolívar",
+      "nome_es": "Simón Bolívar",
+      "nascimento": 1783,
+      "morte": 1830,
+      "regiao": "Americas",
+      "area": [
+        "militar",
+        "política"
+      ],
+      "cargo": "Libertador",
+      "epoca": "Era Moderna",
+      "descricao": "O 'Libertador': libertou Venezuela, Colômbia, Equador, Peru e Bolívia da Espanha. Sonhava com uma grande federação latino-americana chamada Gran Colombia. Morreu tuberculoso e desencantado, com seu projeto se fragmentando — 'Arei no mar', disse nas últimas semanas.",
+      "importancia": "Bolívar ganhou as guerras e perdeu a paz. Sua trajetória define um paradoxo latino-americano: heróis militares que libertam nações mas não constroem instituições duráveis. O fracasso da Gran Colombia antecipou o padrão de fragmentação política regional que persiste até hoje.",
+      "eventos": [],
+      "tags": [
+        "independência",
+        "américa latina",
+        "liberalismo",
+        "militarismo",
+        "federalismo"
+      ],
+      "type": "person",
+      "inicio": 1783,
+      "fim": 1830,
+      "region": "Americas"
+    },
+    {
+      "id": "pir-018",
+      "nome": "Edmund Burke",
+      "nome_en": "Edmund Burke",
+      "nome_es": "Edmund Burke",
+      "nascimento": 1729,
+      "morte": 1797,
+      "regiao": "Europe",
+      "area": [
+        "filosofia",
+        "política"
+      ],
+      "cargo": "Político e Filósofo",
+      "epoca": "Era Moderna",
+      "descricao": "Político britânico-irlandês que apoiou a independência americana mas atacou ferozmente a Revolução Francesa antes que ela se tornasse violenta — prevendo com exatidão o Terror. Suas Reflexões sobre a Revolução na França (1790) fundaram o conservadorismo moderno.",
+      "importancia": "Burke formulou a crítica conservadora ao radicalismo: a sociedade é um contrato entre os mortos, os vivos e os que ainda não nasceram — não pode ser redesenhada do zero por uma geração. A disputa Burke vs. Paine sobre a Revolução Francesa é o debate fundador entre conservadorismo e progressismo modernos.",
+      "eventos": [],
+      "tags": [
+        "conservadorismo",
+        "revolução francesa",
+        "tradição",
+        "contrato social"
+      ],
+      "type": "person",
+      "inicio": 1729,
+      "fim": 1797,
+      "region": "Europe"
     }
   ]
 }

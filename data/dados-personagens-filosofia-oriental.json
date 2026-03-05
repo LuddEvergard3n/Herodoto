@@ -1,0 +1,470 @@
+{
+  "titulo": "Filosofia e Sabedoria Oriental",
+  "periodo": "600 a.C.–1300 d.C.",
+  "descricao": "Filósofos e pensadores que moldaram as tradições intelectuais da Ásia e do Oriente Médio.",
+  "personagens": [
+    {
+      "id": "pfo-001",
+      "nome": "Confúcio",
+      "nome_en": "Confucius",
+      "nome_es": "Confucio",
+      "nascimento": -551,
+      "morte": -479,
+      "inicio": -551,
+      "fim": -479,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "filosofia",
+        "educação",
+        "política"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Antiguidade Asiática",
+      "type": "person",
+      "descricao": "Filósofo chinês cujos ensinamentos sobre ética, família e governo moldaram a civilização da China, Coreia, Japão e Vietnã por 2.500 anos. Não escreveu nada: seus discípulos compilaram suas conversas nos 'Analectos'. Pregava que a harmonia social dependia de cada um cumprir bem seu papel: filho, pai, funcionário, governante.",
+      "importancia": "Confúcio é o filósofo com maior impacto demográfico da história: seu pensamento influenciou diretamente mais de 1 bilhão de pessoas por mais de 20 séculos. O confucionismo não é uma religião mas uma ética de relações — e explica muito sobre a organização social da Ásia Oriental: ênfase em educação, hierarquia, família e responsabilidade coletiva.",
+      "eventos": [],
+      "tags": [
+        "china",
+        "filosofia",
+        "confucionismo",
+        "ética",
+        "educação",
+        "família"
+      ]
+    },
+    {
+      "id": "pfo-002",
+      "nome": "Buda (Siddharta Gautama)",
+      "nome_en": "Buddha (Siddhartha Gautama)",
+      "nome_es": "Buda (Siddhartha Gautama)",
+      "nascimento": -563,
+      "morte": -483,
+      "inicio": -563,
+      "fim": -483,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "religião",
+        "filosofia"
+      ],
+      "cargo": "Fundador do Budismo",
+      "epoca": "Antiguidade Asiática",
+      "type": "person",
+      "descricao": "Príncipe do clã Shakya (atual Nepal/Índia) que abandonou riqueza e família para buscar a natureza do sofrimento. Após anos de ascetismo extremo, optou pelo 'caminho do meio' e atingiu a iluminação meditando sob uma figueira-bodhi em Bodh Gaya. Seus ensinamentos — sobre sofrimento, impermanência e o caminho para o nirvana — tornam-se budismo.",
+      "importancia": "O budismo é único entre as grandes religiões por não postular um Deus criador: é uma filosofia psicológica sobre a mente humana. O Buda dizia 'não me acredite — experimente'. Seus insights sobre impermanência, sofrimento e apego antecipam em 2.500 anos achados da psicologia cognitiva moderna. Com 500 milhões de seguidores, continua a segunda maior influência filosófica do mundo.",
+      "eventos": [],
+      "tags": [
+        "budismo",
+        "india",
+        "iluminação",
+        "nirvana",
+        "sofrimento",
+        "meditação"
+      ]
+    },
+    {
+      "id": "pfo-003",
+      "nome": "Laozi",
+      "nome_en": "Laozi",
+      "nome_es": "Laozi",
+      "nascimento": -600,
+      "morte": -500,
+      "inicio": -600,
+      "fim": -500,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "filosofia"
+      ],
+      "cargo": "Filósofo e Sábio",
+      "epoca": "Antiguidade Asiática",
+      "type": "person",
+      "descricao": "Sábio chinês semilendário, autor atribuído do Tao Te Ching — um dos textos mais traduzidos da história, com 81 capítulos sobre o Tao (o Caminho). Teria sido arquivista imperial e encontrado Confúcio, deixando-o desconcertado. Fundou o taoísmo: uma filosofia de harmonia com a natureza, não-ação (wu wei) e humildade.",
+      "importancia": "O Tao Te Ching tem cerca de 5.000 caracteres — menos que este verbete — e foi traduzido para mais idiomas que qualquer outro livro exceto a Bíblia. Sua influência é paradoxalmente invisível: está na filosofia zen, na medicina tradicional chinesa, nas artes marciais, e na física moderna (o próprio Niels Bohr considerava o taoísmo compatível com a mecânica quântica).",
+      "eventos": [],
+      "tags": [
+        "china",
+        "taoísmo",
+        "tao-te-ching",
+        "filosofia",
+        "wu-wei",
+        "natureza"
+      ]
+    },
+    {
+      "id": "pfo-004",
+      "nome": "Nagarjuna",
+      "nome_en": "Nagarjuna",
+      "nome_es": "Nagarjuna",
+      "nascimento": 150,
+      "morte": 250,
+      "inicio": 150,
+      "fim": 250,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "filosofia",
+        "religião"
+      ],
+      "cargo": "Filósofo Budista",
+      "epoca": "Antiguidade Asiática",
+      "type": "person",
+      "descricao": "Filósofo budista indiano, fundador da escola Madhyamaka (Via do Meio). Desenvolveu o conceito de 'sunyata' (vacuidade): nenhum fenômeno tem existência independente — tudo existe em relação a tudo. Foi um dos filósofos mais sofisticados da antiguidade, usando lógica rigorosa para demolir qualquer posição metafísica fixa.",
+      "importancia": "Nagarjuna aplicou à metafísica o mesmo raciocínio que o Buda aplicou à psicologia: não existe substância fixa, nem mesmo o 'eu'. Seu sistema filosófico influencia o budismo tibetano, o zen japonês e continua sendo estudado por filósofos analíticos contemporâneos. A noção de 'vacuidade' ecoa estranhamente com o campo quântico da física moderna.",
+      "eventos": [],
+      "tags": [
+        "budismo",
+        "índia",
+        "madhyamaka",
+        "vacuidade",
+        "filosofia",
+        "mahayana"
+      ]
+    },
+    {
+      "id": "pfo-005",
+      "nome": "Ibn Rushd (Averróis)",
+      "nome_en": "Averroes",
+      "nome_es": "Averroes",
+      "nascimento": 1126,
+      "morte": 1198,
+      "inicio": 1126,
+      "fim": 1198,
+      "regiao": "Middle East",
+      "region": "Middle East",
+      "area": [
+        "filosofia",
+        "medicina"
+      ],
+      "cargo": "Filósofo e Médico",
+      "epoca": "Idade Média",
+      "type": "person",
+      "descricao": "Filósofo árabe de Córdoba que resgatou e comentou Aristóteles tão profundamente que ficou conhecido simplesmente como 'O Comentador'. Seus textos, traduzidos para o latim, reintroduziram Aristóteles na Europa medieval — desencadeando a Escolástica e o pensamento de Tomás de Aquino. Foi banido e seus livros queimados por religiosos islâmicos.",
+      "importancia": "Averróis é um dos casos mais irônicos da história das ideias: um filósofo árabe muçulmano que foi perseguido em seu mundo e venerado no mundo cristão medieval. Sem seus comentários, a Europa talvez nunca tivesse redescoberto Aristóteles — o que teria mudado completamente o desenvolvimento da ciência e da filosofia ocidentais.",
+      "eventos": [],
+      "tags": [
+        "al-andalus",
+        "islã",
+        "aristóteles",
+        "filosofia",
+        "medicina",
+        "escolástica",
+        "tradução"
+      ]
+    },
+    {
+      "id": "pfo-006",
+      "nome": "Zhuangzi",
+      "nome_en": "Zhuangzi",
+      "nome_es": "Zhuangzi",
+      "nascimento": -369,
+      "morte": -286,
+      "inicio": -369,
+      "fim": -286,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "filosofia",
+        "literatura"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Antiguidade Asiática",
+      "type": "person",
+      "descricao": "Filósofo taoísta chinês, autor do 'Zhuangzi' — um dos textos mais literariamente brilhantes da filosofia mundial, cheio de paradoxos, parábolas e humor. Famoso pelo sonho da borboleta: 'Sonhei que era uma borboleta. Agora não sei se sou um homem que sonhou ser borboleta ou uma borboleta sonhando ser homem'.",
+      "importancia": "Zhuangzi é o grande relativista e humorista da filosofia chinesa: questionou todas as certezas, incluindo as de Confúcio, com histórias e paradoxos. Sua influência no zen budismo e na estética japonesa é profunda. O sonho da borboleta antecipa em 2.300 anos debates contemporâneos sobre consciência, identidade e realidade.",
+      "eventos": [],
+      "tags": [
+        "china",
+        "taoísmo",
+        "paradoxo",
+        "sonho",
+        "filosofia",
+        "humor",
+        "identidade"
+      ]
+    },
+    {
+      "id": "pfo-007",
+      "nome": "Al-Ghazali",
+      "nome_en": "Al-Ghazali",
+      "nome_es": "Al-Ghazali",
+      "nascimento": 1058,
+      "morte": 1111,
+      "inicio": 1058,
+      "fim": 1111,
+      "regiao": "Middle East",
+      "region": "Middle East",
+      "area": [
+        "filosofia",
+        "religião",
+        "mística"
+      ],
+      "cargo": "Filósofo e Teólogo",
+      "epoca": "Idade Média",
+      "type": "person",
+      "descricao": "Filósofo islâmico persa que, no auge da fama como professor em Bagdá, abandonou tudo por uma crise espiritual profunda. Passou anos como dervixe errante antes de reaparecer com sua obra-prima: 'A Revivificação das Ciências Religiosas'. Também escreveu 'A Incoerência dos Filósofos', atacando a filosofia aristotélica com seus próprios métodos.",
+      "importancia": "Al-Ghazali é simultaneamente o maior crítico da filosofia islâmica e um dos seus praticantes mais sofisticados. Sua crise espiritual — narrada com honestidade impressionante em sua autobiografia — antecipa a dúvida cartesiana por 500 anos. Seu impacto no islã sunita foi tão profundo que alguns o consideram o segundo homem mais influente do islã após Maomé.",
+      "eventos": [],
+      "tags": [
+        "islã",
+        "filosofia",
+        "mística",
+        "sufi",
+        "bagdá",
+        "teologia",
+        "aristóteles"
+      ]
+    },
+    {
+      "id": "pfo-008",
+      "nome": "Mencius",
+      "nome_en": "Mencius",
+      "nome_es": "Mencio",
+      "nascimento": -372,
+      "morte": -289,
+      "inicio": -372,
+      "fim": -289,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "filosofia",
+        "política"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Antiguidade Asiática",
+      "type": "person",
+      "descricao": "Filósofo confucionista chinês, o 'segundo sábio' após Confúcio. Desenvolveu a ideia de que a natureza humana é fundamentalmente boa — e que a maldade é desvio causado por ambiente ruim. Defendeu o 'mandato do céu': o povo tem o direito de se rebelar contra governantes tirânicos. Foi um dos primeiros a articular uma teoria da legitimidade política baseada no consentimento.",
+      "importancia": "A ideia de Mencius de que o povo pode depor governantes ilegítimos — 2.300 anos antes da Revolução Francesa — é radicalmente moderna. Sua visão da natureza humana como fundamentalmente boa (contra Hobbes, que viria milênios depois) ainda estrutura debates filosóficos sobre educação, política e ética. É o grande otimista da filosofia chinesa.",
+      "eventos": [],
+      "tags": [
+        "china",
+        "confucionismo",
+        "filosofia",
+        "política",
+        "natureza-humana",
+        "governo"
+      ]
+    },
+    {
+      "id": "pfo-009",
+      "nome": "Shankara",
+      "nome_en": "Adi Shankaracharya",
+      "nome_es": "Adi Shankaracharya",
+      "nascimento": 788,
+      "morte": 820,
+      "inicio": 788,
+      "fim": 820,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "filosofia",
+        "religião"
+      ],
+      "cargo": "Filósofo e Teólogo Hindu",
+      "epoca": "Idade Média",
+      "type": "person",
+      "descricao": "Filósofo hindu que viveu apenas 32 anos mas revolucionou o hinduísmo através do Advaita Vedanta: a ideia de que o Brahman (realidade última) e o Atman (self individual) são idênticos — toda separação é maya (ilusão). Percorreu toda a Índia em debates filosóficos, estabelecendo quatro mosteiros nos quatro cantos do subcontinente.",
+      "importancia": "Shankara revitalizou o hinduísmo em um momento em que o budismo dominava a Índia intelectual, usando os próprios métodos budistas de argumento lógico. Sua equação Brahman=Atman — 'tu és isso' (tat tvam asi) — é uma das ideias mais radicais da história filosófica: a identidade entre o self individual e o cosmos total.",
+      "eventos": [],
+      "tags": [
+        "hinduísmo",
+        "índia",
+        "vedanta",
+        "filosofia",
+        "brahman",
+        "maya",
+        "advaita"
+      ]
+    },
+    {
+      "id": "pfo-010",
+      "nome": "Rumi",
+      "nome_en": "Rumi (Jalal ad-Din)",
+      "nome_es": "Rumi",
+      "nascimento": 1207,
+      "morte": 1273,
+      "inicio": 1207,
+      "fim": 1273,
+      "regiao": "Middle East",
+      "region": "Middle East",
+      "area": [
+        "filosofia",
+        "poesia",
+        "mística"
+      ],
+      "cargo": "Poeta e Místico Sufi",
+      "epoca": "Idade Média",
+      "type": "person",
+      "descricao": "Poeta e místico sufi persa-afegão, autor do Masnavi — 25.000 versos sobre amor divino, alma e transcendência. Fundou a Ordem dos Mevlevis (dervixes giradores). Seu encontro com Shams de Tabriz transformou um teólogo respeitável em poeta extático. Hoje é um dos poetas mais lidos do mundo em inglês.",
+      "importancia": "Rumi separa o místico do dogmático: seu islã é de amor e busca, não de lei e punição. O fato de ser hoje o poeta mais vendido nos EUA (em tradução) sugere que sua mensagem — sobre amor como força transcendente, sobre a busca da alma — ressoa além de culturas e séculos. Seu 'Konya' (Turquia) é hoje destino de peregrinação secular.",
+      "eventos": [],
+      "tags": [
+        "islã",
+        "sufi",
+        "poesia",
+        "mística",
+        "persa",
+        "amor",
+        "derviches"
+      ]
+    },
+    {
+      "id": "pfo-011",
+      "nome": "Mozi",
+      "nome_en": "Mozi",
+      "nome_es": "Mozi",
+      "nascimento": -470,
+      "morte": -391,
+      "inicio": -470,
+      "fim": -391,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "filosofia",
+        "política",
+        "tecnologia"
+      ],
+      "cargo": "Filósofo",
+      "epoca": "Antiguidade Asiática",
+      "type": "person",
+      "descricao": "Filósofo chinês que fundou o Moísmo — rival direto do confucionismo na era dos 'Cem Escolas'. Pregava o 'amor universal' (jian ai) sem distinção de família ou hierarquia: amar o próximo exatamente como ama os seus. Era também engenheiro militar que desenvolvia máquinas defensivas para ajudar cidades sitiadas.",
+      "importancia": "Mozi é o grande utilitarista da filosofia chinesa: todo valor é medido pelo benefício real para o maior número de pessoas. Antecipa Bentham por 2.000 anos. Seu amor universal — sem as distinções confucianas de família e hierarquia — era tão radical que o moísmo foi suprimido após a unificação Qin. O que teria acontecido se vencesse a batalha filosófica?",
+      "eventos": [],
+      "tags": [
+        "china",
+        "moísmo",
+        "filosofia",
+        "amor-universal",
+        "utilitarismo",
+        "engenharia"
+      ]
+    },
+    {
+      "id": "pfo-012",
+      "nome": "Nalanda",
+      "nome_en": "Nalanda (Universidade)",
+      "nome_es": "Nalanda (Universidad)",
+      "nascimento": 427,
+      "morte": 1197,
+      "inicio": 427,
+      "fim": 1197,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "educação",
+        "religião",
+        "filosofia"
+      ],
+      "cargo": "Centro de Saber Budista",
+      "epoca": "Antiguidade Medieval",
+      "type": "person",
+      "descricao": "Universidade budista de Nalanda (Bihar, Índia) — o maior centro de aprendizado do mundo antigo, com até 10.000 estudantes e 2.000 professores de 30 países. Existiu por 700 anos (5–12 séc. d.C.), ensinando budismo, lógica, gramática, medicina e astronomia. Destruída pelos exércitos de Bakhtiyar Khilji em 1193, que queimou sua biblioteca por meses.",
+      "importancia": "A destruição de Nalanda foi uma das maiores perdas intelectuais da história: manuscritos únicos queimados por semanas. Representa o fim do budismo como força intelectual dominante na Índia. A India moderna iniciou projeto de reconstrução em 2010 — mas o que foi perdido em 1193 é irrecuperável. Nalanda representa o que poderia ter sido.",
+      "eventos": [],
+      "tags": [
+        "budismo",
+        "índia",
+        "educação",
+        "universidade",
+        "conhecimento",
+        "destruição"
+      ]
+    },
+    {
+      "id": "pfo-013",
+      "nome": "Kanishka I",
+      "nome_en": "Kanishka I",
+      "nome_es": "Kanishka I",
+      "nascimento": 127,
+      "morte": 150,
+      "inicio": 127,
+      "fim": 150,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "política",
+        "religião"
+      ],
+      "cargo": "Imperador Kushana",
+      "epoca": "Antiguidade Asiática",
+      "type": "person",
+      "descricao": "Imperador do Império Kushana (atual Afeganistão/Paquistão/Índia do Norte) que tornou-se um dos grandes patrocinadores do budismo Mahayana. Convocou o Quarto Concílio Budista, financiou a construção de monastérios e a tradução de textos. Seu império era cruzamento de rotas da Seda — misturando budismo com helenismo e zoroastrismo.",
+      "importancia": "Kanishka representa o papel que o patrocínio imperial tem na sobrevivência de ideias: o budismo Mahayana, a forma que se expandiria para a China e o Leste Asiático, deve muito a seu apoio. O Gandhara que ele governava produziu as primeiras imagens de Buda em forma humana — a fusão do helenismo grego com o budismo indiano.",
+      "eventos": [],
+      "tags": [
+        "kushana",
+        "budismo",
+        "mahayana",
+        "seda",
+        "afeganistão",
+        "gandhara",
+        "sincretismo"
+      ]
+    },
+    {
+      "id": "pfo-014",
+      "nome": "Fazang",
+      "nome_en": "Fazang",
+      "nome_es": "Fazang",
+      "nascimento": 643,
+      "morte": 712,
+      "inicio": 643,
+      "fim": 712,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "filosofia",
+        "religião"
+      ],
+      "cargo": "Patriarca do Budismo Huayan",
+      "epoca": "Antiguidade Asiática",
+      "type": "person",
+      "descricao": "Monge budista chinês, terceiro patriarca da escola Huayan, que usou a metáfora da 'Joia de Indra' para explicar a inter-dependência universal: imagine uma rede infinita de joias, cada uma refletindo todas as outras — assim é a realidade. Explicou ao imperador o conceito usando dez espelhos e uma vela.",
+      "importancia": "A metáfora da Joia de Indra de Fazang antecipa o holismo sistêmico: a ideia de que cada parte contém e reflete o todo. É citada hoje por físicos quânticos, ecologistas e filósofos da mente. A imagem de espelhos refletindo espelhos — que ele demonstrou literalmente à corte imperial — é uma das mais poderosas da história do pensamento.",
+      "eventos": [],
+      "tags": [
+        "china",
+        "budismo",
+        "huayan",
+        "filosofia",
+        "tang",
+        "interdependência",
+        "sistema"
+      ]
+    },
+    {
+      "id": "pfo-015",
+      "nome": "Xuanzang",
+      "nome_en": "Xuanzang",
+      "nome_es": "Xuanzang",
+      "nascimento": 602,
+      "morte": 664,
+      "inicio": 602,
+      "fim": 664,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "religião",
+        "exploração",
+        "tradução"
+      ],
+      "cargo": "Monge e Viajante",
+      "epoca": "Antiguidade Asiática",
+      "type": "person",
+      "descricao": "Monge budista chinês que viajou sozinho da China à Índia (629–645 d.C.) — 16 anos percorrendo desertos e montanhas para estudar budismo em Nalanda. Trouxe 657 textos sânscritos de volta, traduzindo 75 obras ao longo de 19 anos. Sua viagem inspirou o clássico literário chinês 'A Jornada ao Oeste'.",
+      "importancia": "Xuanzang realizou um dos maiores atos individuais de preservação intelectual da história: sua tradução tornou o budismo filosófico acessível à China e, por extensão, ao Leste Asiático inteiro. Seu registro de viagem 'Grande Tang sobre os Reinos do Oeste' é também fonte histórica primária sobre a Índia do século VII. Um monge que mudou duas civilizações.",
+      "eventos": [],
+      "tags": [
+        "china",
+        "budismo",
+        "índia",
+        "nalanda",
+        "tradução",
+        "seda",
+        "tang"
+      ]
+    }
+  ]
+}

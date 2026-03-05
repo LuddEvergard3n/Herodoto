@@ -27,7 +27,11 @@
         "invenção",
         "florentino",
         "notebooks"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1452,
+      "fim": 1519,
+      "region": "Europe"
     },
     {
       "id": "prr-002",
@@ -54,7 +58,11 @@
         "sistina",
         "florença",
         "rome"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1475,
+      "fim": 1564,
+      "region": "Europe"
     },
     {
       "id": "prr-003",
@@ -82,7 +90,11 @@
         "o-príncipe",
         "realismo",
         "poder"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1469,
+      "fim": 1527,
+      "region": "Europe"
     },
     {
       "id": "prr-004",
@@ -109,7 +121,11 @@
         "teologia",
         "satíra",
         "tolerância"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1466,
+      "fim": 1536,
+      "region": "Europe"
     },
     {
       "id": "prr-005",
@@ -134,7 +150,11 @@
         "sola-fide",
         "bíblia",
         "protestantismo"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1483,
+      "fim": 1546,
+      "region": "Europe"
     },
     {
       "id": "prr-006",
@@ -161,7 +181,11 @@
         "inquisição",
         "física",
         "método-científico"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1564,
+      "fim": 1642,
+      "region": "Europe"
     },
     {
       "id": "prr-007",
@@ -187,7 +211,11 @@
         "ciência",
         "renascimento",
         "cosmologia"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1473,
+      "fim": 1543,
+      "region": "Europe"
     },
     {
       "id": "prr-008",
@@ -213,7 +241,11 @@
         "leis-kepler",
         "matemática",
         "ciência"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1571,
+      "fim": 1630,
+      "region": "Europe"
     },
     {
       "id": "prr-009",
@@ -240,7 +272,11 @@
         "Inglaterra",
         "consciência",
         "política"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1478,
+      "fim": 1535,
+      "region": "Europe"
     },
     {
       "id": "prr-010",
@@ -267,7 +303,11 @@
         "cálculo",
         "método-científico",
         "óptica"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1643,
+      "fim": 1727,
+      "region": "Europe"
     },
     {
       "id": "prr-011",
@@ -292,7 +332,11 @@
         "indução",
         "empirismo",
         "conhecimento"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1561,
+      "fim": 1626,
+      "region": "Europe"
     },
     {
       "id": "prr-012",
@@ -318,7 +362,11 @@
         "matemática",
         "geometria",
         "ceticismo"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1596,
+      "fim": 1650,
+      "region": "Europe"
     },
     {
       "id": "prr-014",
@@ -344,7 +392,11 @@
         "genebra",
         "capitalismo",
         "protestantismo"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1509,
+      "fim": 1564,
+      "region": "Europe"
     },
     {
       "id": "prr-015",
@@ -370,7 +422,11 @@
         "renascimento",
         "química",
         "toxicologia"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1493,
+      "fim": 1541,
+      "region": "Europe"
     }
   ]
 }

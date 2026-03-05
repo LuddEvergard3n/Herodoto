@@ -26,7 +26,11 @@
         "judeu",
         "roma",
         "pilatos"
-      ]
+      ],
+      "type": "person",
+      "inicio": -4,
+      "fim": 30,
+      "region": "MiddleEast"
     },
     {
       "id": "pbib-002",
@@ -55,7 +59,11 @@
         "teologia",
         "cristianismo",
         "damasco"
-      ]
+      ],
+      "type": "person",
+      "inicio": -5,
+      "fim": 67,
+      "region": "MiddleEast"
     },
     {
       "id": "pbib-003",
@@ -81,7 +89,11 @@
         "josefo",
         "judaísmo",
         "decapitação"
-      ]
+      ],
+      "type": "person",
+      "inicio": -6,
+      "fim": 29,
+      "region": "MiddleEast"
     },
     {
       "id": "pbib-004",
@@ -106,7 +118,11 @@
         "mulher",
         "distorção-histórica",
         "galileia"
-      ]
+      ],
+      "type": "person",
+      "inicio": -14,
+      "fim": 68,
+      "region": "MiddleEast"
     },
     {
       "id": "pbib-005",
@@ -133,7 +149,11 @@
         "pilatos",
         "arqueologia",
         "tibério"
-      ]
+      ],
+      "type": "person",
+      "inicio": -15,
+      "fim": 39,
+      "region": "MiddleEast"
     },
     {
       "id": "pbib-006",
@@ -160,7 +180,11 @@
         "herodes",
         "construção",
         "vasalo"
-      ]
+      ],
+      "type": "person",
+      "inicio": -73,
+      "fim": -4,
+      "region": "MiddleEast"
     },
     {
       "id": "pbib-007",
@@ -188,7 +212,11 @@
         "salmos",
         "davídica",
         "arqueologia"
-      ]
+      ],
+      "type": "person",
+      "inicio": -1040,
+      "fim": -970,
+      "region": "MiddleEast"
     },
     {
       "id": "pbib-008",
@@ -216,7 +244,11 @@
         "judeus",
         "jardins-suspensos",
         "cuneiforme"
-      ]
+      ],
+      "type": "person",
+      "inicio": -634,
+      "fim": -562,
+      "region": "MiddleEast"
     },
     {
       "id": "pbib-009",
@@ -243,7 +275,11 @@
         "exílio",
         "paz",
         "isaías"
-      ]
+      ],
+      "type": "person",
+      "inicio": -765,
+      "fim": -681,
+      "region": "MiddleEast"
     },
     {
       "id": "pbib-010",
@@ -272,7 +308,11 @@
         "lei",
         "profeta",
         "debate-histórico"
-      ]
+      ],
+      "type": "person",
+      "inicio": -1391,
+      "fim": -1271,
+      "region": "Africa"
     },
     {
       "id": "pbib-011",
@@ -299,7 +339,11 @@
         "carmelo",
         "justiça",
         "carro-de-fogo"
-      ]
+      ],
+      "type": "person",
+      "inicio": -910,
+      "fim": -850,
+      "region": "MiddleEast"
     },
     {
       "id": "pbib-012",
@@ -325,7 +369,11 @@
         "arte",
         "bíblia",
         "herodiana"
-      ]
+      ],
+      "type": "person",
+      "inicio": 14,
+      "fim": 71,
+      "region": "MiddleEast"
     },
     {
       "id": "pbib-013",
@@ -352,7 +400,11 @@
         "judaísmo-cristão",
         "execução",
         "evidência"
-      ]
+      ],
+      "type": "person",
+      "inicio": -6,
+      "fim": 62,
+      "region": "MiddleEast"
     }
   ]
 }

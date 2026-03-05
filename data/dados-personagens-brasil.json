@@ -1,0 +1,345 @@
+{
+  "personagens": [
+    {
+      "id": "pbr-001",
+      "nome": "Tiradentes (Joaquim José da Silva Xavier)",
+      "nome_en": "Tiradentes",
+      "nome_es": "Tiradentes",
+      "nascimento": 1746,
+      "morte": 1792,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "Mártir da Independência",
+      "epoca": "Era Moderna",
+      "descricao": "Alferes e dentista amador de Vila Rica que liderou a Inconfidência Mineira (1789), a primeira tentativa de independência do Brasil. Traído por Silvério dos Reis, foi o único dos conspiradores a ser executado — enforcado e esquartejado em 1792. Os outros foram exilados. Escolheu não delatar ninguém em troca de clemência.",
+      "importancia": "Tiradentes tornou-se símbolo precisamente porque foi o único que pagou com a vida — transformando traição (plagiou o movimento da Independência americana) em martirologio. A República Velha canonizou-o como herói nacional em 1890, criando um mito fundador para o Brasil republicano que precisava de um Jesus laico. 21 de abril é feriado nacional.",
+      "eventos": [],
+      "tags": [
+        "inconfidência mineira",
+        "independência",
+        "martírio",
+        "Vila Rica",
+        "minas gerais"
+      ],
+      "type": "person",
+      "inicio": 1746,
+      "fim": 1792,
+      "region": "Americas"
+    },
+    {
+      "id": "pbr-002",
+      "nome": "D. Pedro I",
+      "nome_en": "Dom Pedro I",
+      "nome_es": "Dom Pedro I",
+      "nascimento": 1798,
+      "morte": 1834,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "militar"
+      ],
+      "cargo": "Imperador do Brasil",
+      "epoca": "Era Moderna",
+      "descricao": "Filho de D. João VI que ficou no Brasil quando a família real retornou a Portugal. Às margens do Ipiranga em 7 de setembro de 1822, declarou independência ('Independência ou Morte'). Outorgou a Constituição de 1824. Abdicou em 1831 pressionado por crises, guerra na Cisplatina e impopularidade — deixou o trono ao filho de 5 anos.",
+      "importancia": "A independência brasileira foi singular: feita pela própria família real, sem guerra, mantendo a escravidão e a unidade territorial continental. D. Pedro I garantiu que o Brasil não se fragmentasse em várias repúblicas como a América espanhola — mas ao custo de preservar a monarquia e a escravidão por mais 60 anos.",
+      "eventos": [],
+      "tags": [
+        "independência do brasil",
+        "monarquia",
+        "ipiranga",
+        "constituição de 1824"
+      ],
+      "type": "person",
+      "inicio": 1798,
+      "fim": 1834,
+      "region": "Americas"
+    },
+    {
+      "id": "pbr-003",
+      "nome": "D. Pedro II",
+      "nome_en": "Dom Pedro II",
+      "nome_es": "Dom Pedro II",
+      "nascimento": 1825,
+      "morte": 1891,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "ciência"
+      ],
+      "cargo": "Imperador do Brasil",
+      "epoca": "Séc. XIX",
+      "descricao": "Coroado aos 14 anos, governou por 49 anos. Financiou Pasteur, Darwin, Gobineau, Longfellow — correspondeu-se com os maiores intelectuais do século. Falava 14 idiomas. Aboliu a escravidão em 1888 através da Princesa Isabel. Deposto em 1889 por um golpe militar enquanto dormia. Morreu exilado em Paris dois anos depois, de pneumonia.",
+      "importancia": "D. Pedro II foi o governante mais culto das Américas no século XIX — e o mais ingênuo politicamente. Sua lealdade ao constitucionalismo impediu-o de reagir ao golpe militar. O Brasil que deixou estava mais desenvolvido, instruído e integrado que o encontrara — e a República que o substituiu levou décadas para superar suas realizações.",
+      "eventos": [],
+      "tags": [
+        "segundo reinado",
+        "abolição",
+        "república",
+        "mecenas",
+        "monarquia constitucional"
+      ],
+      "type": "person",
+      "inicio": 1825,
+      "fim": 1891,
+      "region": "Americas"
+    },
+    {
+      "id": "pbr-004",
+      "nome": "Getúlio Vargas",
+      "nome_en": "Getúlio Vargas",
+      "nome_es": "Getúlio Vargas",
+      "nascimento": 1882,
+      "morte": 1954,
+      "regiao": "Americas",
+      "area": [
+        "política"
+      ],
+      "cargo": "Presidente do Brasil",
+      "epoca": "Séc. XX",
+      "descricao": "O 'Pai dos Pobres' e o 'Mãe dos Ricos'. Chegou ao poder pela revolução de 1930, instalou a ditadura do Estado Novo em 1937, foi deposto em 1945, eleito democraticamente em 1950, e suicidou-se em 1954 com uma carta ao povo que se tornou o texto político mais lido da história brasileira.",
+      "importancia": "Vargas criou o Brasil moderno industrial: CLT, salário mínimo, carteira de trabalho, Petrobras, CSN. Mas ao mesmo tempo construiu uma política populista de dependência do estado que moldou o comportamento político brasileiro por gerações. O getulismo — estado forte, trabalhismo, nacionalismo — permanece o DNA de grande parte da política brasileira.",
+      "eventos": [],
+      "tags": [
+        "estado novo",
+        "trabalhismo",
+        "industrialização",
+        "populismo",
+        "suicídio"
+      ],
+      "type": "person",
+      "inicio": 1882,
+      "fim": 1954,
+      "region": "Americas"
+    },
+    {
+      "id": "pbr-005",
+      "nome": "Princesa Isabel",
+      "nome_en": "Princess Isabel",
+      "nome_es": "Princesa Isabel",
+      "nascimento": 1846,
+      "morte": 1921,
+      "regiao": "Americas",
+      "area": [
+        "política"
+      ],
+      "cargo": "Regente do Brasil",
+      "epoca": "Séc. XIX",
+      "descricao": "Filha de D. Pedro II que assinou a Lei Áurea em 13 de maio de 1888 — abolindo a escravidão no Brasil, o último país das Américas a fazê-lo. Exerceu a regência 3 vezes. Devota católica. A abolição alienou a elite cafeicultora, que apoiou o golpe republicano de 1889 — Isabel foi para o exílio e nunca mais voltou ao Brasil.",
+      "importancia": "A abolição brasileira foi feita de cima para baixo, sem indenização, sem distribuição de terra, sem inclusão dos ex-escravizados — criando uma liberdade nominal que perpetuou a desigualdade racial por gerações. Isabel é heroína e símbolo de um processo incompleto: libertou corpos mas não combateu a estrutura que os oprimia.",
+      "eventos": [],
+      "tags": [
+        "abolição",
+        "lei áurea",
+        "escravidão",
+        "monarquia",
+        "13 de maio"
+      ],
+      "type": "person",
+      "inicio": 1846,
+      "fim": 1921,
+      "region": "Americas"
+    },
+    {
+      "id": "pbr-006",
+      "nome": "Zumbi dos Palmares",
+      "nome_en": "Zumbi dos Palmares",
+      "nome_es": "Zumbi de los Palmares",
+      "nascimento": 1655,
+      "morte": 1695,
+      "regiao": "Americas",
+      "area": [
+        "militar",
+        "política"
+      ],
+      "cargo": "Líder Quilombola",
+      "epoca": "Era Moderna",
+      "descricao": "Nasceu livre em Palmares (maior quilombo das Américas, ~30.000 pessoas), foi capturado e batizado pelo Pe. Melo, fugiu aos 15 anos e retornou a Palmares. Tornou-se líder militar, recusou a proposta de paz de Domingos Jorge Velho que manteria a escravidão de novos capturados. Morreu decapitado em 20 de novembro de 1695.",
+      "importancia": "Zumbi é o símbolo da resistência negra que recusa qualquer liberdade que não seja total e incondicional. Ao rejeitar a paz de Ganga Zumba — que aceitava liberdade apenas para os já libertos — manteve um princípio que custou Palmares e sua própria vida. 20 de novembro (Dia da Consciência Negra) é o dia de sua morte.",
+      "eventos": [],
+      "tags": [
+        "quilombo",
+        "palmares",
+        "escravidão",
+        "resistência negra",
+        "20 de novembro"
+      ],
+      "type": "person",
+      "inicio": 1655,
+      "fim": 1695,
+      "region": "Americas"
+    },
+    {
+      "id": "pbr-007",
+      "nome": "Anita Garibaldi",
+      "nome_en": "Anita Garibaldi",
+      "nome_es": "Anita Garibaldi",
+      "nascimento": 1821,
+      "morte": 1849,
+      "regiao": "Americas",
+      "area": [
+        "militar",
+        "política"
+      ],
+      "cargo": "Revolucionária",
+      "epoca": "Séc. XIX",
+      "descricao": "Catarinense de Laguna que se uniu a Giuseppe Garibaldi durante a Revolução Farroupilha. Lutou a cavalo, comandou canhões, foi capturada e fugiu grávida. Depois da Farroupilha, seguiu Garibaldi pela América do Sul e Europa, lutando pelo Rio Grande do Sul, Uruguai, Itália. Morreu às 28 anos durante a retirada de Roma, grávida do 5º filho.",
+      "importancia": "Anita destruiu o estereótipo da mulher do século XIX como espectadora da história. Sua participação direta em combate — numa era em que isso era inconcebível — tornou-a herói do Risorgimento italiano tanto quanto do Sul brasileiro. A primeira mulher cujo retrato apareceu numa nota de cruzeiro brasileiro foi Anita.",
+      "eventos": [],
+      "tags": [
+        "farroupilha",
+        "revolução",
+        "mulheres na história",
+        "risorgimento",
+        "garibaldi"
+      ],
+      "type": "person",
+      "inicio": 1821,
+      "fim": 1849,
+      "region": "Americas"
+    },
+    {
+      "id": "pbr-008",
+      "nome": "Machado de Assis",
+      "nome_en": "Machado de Assis",
+      "nome_es": "Machado de Assis",
+      "nascimento": 1839,
+      "morte": 1908,
+      "regiao": "Americas",
+      "area": [
+        "literatura"
+      ],
+      "cargo": "Escritor",
+      "epoca": "Séc. XIX",
+      "descricao": "Filho de um pintor mestiço e uma açoriana pobre, epiléptico, gago, que se tornou o maior escritor da língua portuguesa. Fundador e primeiro presidente da Academia Brasileira de Letras. Memórias Póstumas de Brás Cubas (1881) — narrado por um defunto — inventou o realismo brasileiro com ironia que antecipa Kafka e Borges.",
+      "importancia": "Machado escreveu sobre a elite escravocrata brasileira de dentro — como funcionário do Ministério, frequentador de saraus — mas com um olhar que a destruía por dentro. Nunca mencionou a palavra 'escravo' diretamente em seus romances principais, mas a escravidão está em cada relação de poder que descreve. A subtileza é a arma.",
+      "eventos": [],
+      "tags": [
+        "literatura brasileira",
+        "realismo",
+        "segundo reinado",
+        "identidade brasileira"
+      ],
+      "type": "person",
+      "inicio": 1839,
+      "fim": 1908,
+      "region": "Americas"
+    },
+    {
+      "id": "pbr-009",
+      "nome": "Chico Mendes",
+      "nome_en": "Chico Mendes",
+      "nome_es": "Chico Mendes",
+      "nascimento": 1944,
+      "morte": 1988,
+      "regiao": "Americas",
+      "area": [
+        "ativismo"
+      ],
+      "cargo": "Seringueiro e Ambientalista",
+      "epoca": "Séc. XX",
+      "descricao": "Seringueiro analfabeto até adulto, aprendeu a ler com um militante comunista foragido. Organizou os 'empates' — bloqueios humanos não-violentos contra o desmatamento na Amazônia acreana. Fundou o Conselho Nacional dos Seringueiros. Assassinado em 22 de dezembro de 1988 por fazendeiros. Seu crime: criar reservas extrativistas que preservavam a floresta.",
+      "importancia": "Chico Mendes transformou a luta ambiental numa questão de direitos humanos e justiça social — não era apenas sobre árvores, mas sobre os povos que viviam delas. Seu assassinato teve repercussão internacional e levou à criação de 21 reservas extrativistas. É o mártir mais conhecido da questão amazônica — e seu legado permanece ameaçado.",
+      "eventos": [],
+      "tags": [
+        "amazônia",
+        "ambientalismo",
+        "seringueiros",
+        "desmatamento",
+        "direitos humanos"
+      ],
+      "type": "person",
+      "inicio": 1944,
+      "fim": 1988,
+      "region": "Americas"
+    },
+    {
+      "id": "pbr-010",
+      "nome": "Carolina Maria de Jesus",
+      "nome_en": "Carolina Maria de Jesus",
+      "nome_es": "Carolina Maria de Jesus",
+      "nascimento": 1914,
+      "morte": 1977,
+      "regiao": "Americas",
+      "area": [
+        "literatura",
+        "ativismo"
+      ],
+      "cargo": "Escritora e Catadora",
+      "epoca": "Séc. XX",
+      "descricao": "Catadora de papel negra, mãe solteira de 3 filhos, moradora da favela do Canindé em São Paulo. Escrevia em cadernos encontrados no lixo. O jornalista Audálio Dantas publicou seu diário: Quarto de Despejo (1960) vendeu 30.000 cópias em uma semana, foi traduzido para 13 idiomas. Ela era a favela descrevendo-se a si mesma.",
+      "importancia": "Carolina inverteu a relação entre sujeito e objeto da literatura brasileira: não era a elite descrevendo a pobreza, era a pobreza descrevendo a elite e o estado que a produzia. 'A favela é o quarto de despejo de uma cidade' — essa frase mudou como o Brasil via suas periferias. Sua obra foi redescoberta nos anos 1990 como fundacional para os estudos da literatura marginal.",
+      "eventos": [],
+      "tags": [
+        "literatura marginal",
+        "favela",
+        "negritude",
+        "mulheres na história",
+        "São Paulo"
+      ],
+      "type": "person",
+      "inicio": 1914,
+      "fim": 1977,
+      "region": "Americas"
+    },
+    {
+      "id": "pbr-011",
+      "nome": "Luiz Inácio Lula da Silva",
+      "nome_en": "Luiz Inácio Lula da Silva",
+      "nome_es": "Luiz Inácio Lula da Silva",
+      "nascimento": 1945,
+      "morte": null,
+      "regiao": "Americas",
+      "area": [
+        "política",
+        "sindicalismo"
+      ],
+      "cargo": "Presidente do Brasil",
+      "epoca": "Contemporâneo",
+      "descricao": "Filho de migrantes nordestinos, metalúrgico, perdeu o dedo mindinho numa prensa, fundou o PT (1980) e o sindicalismo moderno brasileiro. Preso pela ditadura, derrotado 3 vezes na presidência, eleito em 2002 e 2006 — tirou 30 milhões da pobreza, criou o Bolsa Família, expandiu o FIES e ProUni. Preso em 2018 por sentença polêmica, anulada em 2021. Reeleito em 2022.",
+      "importancia": "Lula é o símbolo da mobilidade social brasileira — e de seus limites. Sua trajetória de operário migrante a presidente mais popular do mundo (2010) representou uma ruptura real. O PT governou 14 dos 22 anos de 1994 a 2016, reduzindo desigualdade mas não combatendo a corrupção estrutural que acabou derrubando Dilma e gerando Bolsonaro.",
+      "eventos": [],
+      "tags": [
+        "PT",
+        "sindicatos",
+        "Bolsa Família",
+        "redemocratização",
+        "polarização"
+      ],
+      "type": "person",
+      "inicio": 1945,
+      "region": "Americas"
+    },
+    {
+      "id": "pbr-012",
+      "nome": "Dandara dos Palmares",
+      "nome_en": "Dandara dos Palmares",
+      "nome_es": "Dandara de los Palmares",
+      "nascimento": 1640,
+      "morte": 1694,
+      "regiao": "Americas",
+      "area": [
+        "militar",
+        "política"
+      ],
+      "cargo": "Guerreira Quilombola",
+      "epoca": "Era Moderna",
+      "descricao": "Companheira de Zumbi, guerreira e líder política de Palmares. As fontes são escassas — a história foi escrita pelos colonizadores — mas documentos portugueses registram sua participação em combates. Quando Palmares caiu, recusou-se a ser capturada e se jogou de um penhasco. Símbolo da resistência negra feminina.",
+      "importancia": "Dandara representa as incontáveis mulheres negras que lutaram ativamente contra a escravidão mas foram apagadas da história oficial. Sua redescoberta nos movimentos negros do século XX como figura igual a Zumbi é um ato de resistência historiográfica — recuperar a agência das mulheres negras que a história colonial deliberadamente silenciou.",
+      "eventos": [],
+      "tags": [
+        "quilombo",
+        "palmares",
+        "escravidão",
+        "mulheres negras",
+        "resistência"
+      ],
+      "type": "person",
+      "inicio": 1640,
+      "fim": 1694,
+      "region": "Americas"
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "titulo": "Mulheres que Fizeram a História",
+  "periodo": "Antiquidade–Séc.XXI",
+  "descricao": "Figuras femininas de impacto histórico excepcional em todas as culturas e épocas.",
+  "personagens": [
+    {
+      "id": "pmh-001",
+      "nome": "Cleópatra VII",
+      "nome_en": "Cleopatra VII",
+      "nome_es": "Cleopatra VII",
+      "nascimento": -69,
+      "morte": -30,
+      "inicio": -69,
+      "fim": -30,
+      "regiao": "Middle East",
+      "region": "Middle East",
+      "area": [
+        "política",
+        "intelectual"
+      ],
+      "cargo": "Faraó do Egito",
+      "epoca": "Antiguidade",
+      "type": "person",
+      "descricao": "Última faraó do Egito helenístico, única da dinastia ptolemaica a aprender egípcio (falava 9 línguas). Hábil estadista que usou alianças com César e Marco Antônio para manter a independência egípcia. Sua imagem foi distorcida pela propaganda romana: era acusada de usar sedução onde usava diplomacia.",
+      "importancia": "Cleópatra foi vítima de uma das maiores campanhas de difamação da história antiga: Roma precisava deslegitimá-la para justificar a anexação do Egito. Seu suicídio em 30 a.C. marcou o fim do Egito como potência independente — e o início de dois milênios de narrativas que reduzem uma estadista a uma sedutora.",
+      "eventos": [],
+      "tags": [
+        "egito",
+        "roma",
+        "césar",
+        "antônio",
+        "helenismo",
+        "diplomacia"
+      ]
+    },
+    {
+      "id": "pmh-002",
+      "nome": "Hildegarda de Bingen",
+      "nome_en": "Hildegard of Bingen",
+      "nome_es": "Hildegarda de Bingen",
+      "nascimento": 1098,
+      "morte": 1179,
+      "inicio": 1098,
+      "fim": 1179,
+      "regiao": "Europe",
+      "region": "Europe",
+      "area": [
+        "religião",
+        "ciência",
+        "música"
+      ],
+      "cargo": "Abadessa e Visionária",
+      "epoca": "Idade Média",
+      "type": "person",
+      "descricao": "Abadessa beneditina alemã que foi médica, compositora, cientista e mística — tudo em um século que considerava as mulheres incapazes de tudo isso. Escreveu tratados sobre medicina, botânica e minerais. Compôs música litúrgica de complexidade extraordinária. Suas visões foram reconhecidas pelo papa como divinas.",
+      "importancia": "Hildegarda de Bingen demonstra que as limitações impostas às mulheres medievais eram culturais, não de capacidade. Em um mundo que as excluía da teologia, medicina e música, ela dominava os três campos e era consultada por papas e imperadores. Só foi canonizada em 2012 — 833 anos após sua morte.",
+      "eventos": [],
+      "tags": [
+        "medicina",
+        "música",
+        "misticismo",
+        "alemanha",
+        "beneditinos",
+        "ciência-medieval"
+      ]
+    },
+    {
+      "id": "pmh-003",
+      "nome": "Wu Zetian",
+      "nome_en": "Empress Wu Zetian",
+      "nome_es": "Wu Zetian",
+      "nascimento": 624,
+      "morte": 705,
+      "inicio": 624,
+      "fim": 705,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "política"
+      ],
+      "cargo": "Imperatriz da China",
+      "epoca": "Antiguidade Asiática",
+      "type": "person",
+      "descricao": "Única mulher a governar a China como imperatriz por direito próprio (690–705 d.C.), fundando a Dinastia Zhou durante a era Tang. Chegou ao poder como concubina, subiu pela hierarquia palaciana por décadas, e aos 67 anos assumiu o trono. Expandiu o serviço civil baseado em mérito, promoveu o budismo e derrotou rivais com dureza brutal.",
+      "importancia": "Wu Zetian é um caso único na história chinesa — e por isso mesmo foi demonizada por séculos por historiadores confucianos que consideravam seu reinado uma aberração. No entanto, seu governo foi administrativamente competente e a China prosperou. Seu legado levanta a questão: quão diferentes seriam as histórias das mulheres no poder se escritas por elas mesmas?",
+      "eventos": [],
+      "tags": [
+        "china",
+        "tang",
+        "império",
+        "budismo",
+        "política",
+        "poder"
+      ]
+    },
+    {
+      "id": "pmh-004",
+      "nome": "Rosa Parks",
+      "nome_en": "Rosa Parks",
+      "nome_es": "Rosa Parks",
+      "nascimento": 1913,
+      "morte": 2005,
+      "inicio": 1913,
+      "fim": 2005,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política",
+        "social"
+      ],
+      "cargo": "Ativista dos Direitos Civis",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Costureira negra de Montgomery, Alabama, que em dezembro de 1955 recusou-se a ceder seu assento no ônibus a um homem branco — desencadeando o boicote de 381 dias que transformou o Movimento pelos Direitos Civis. Sua ação não foi espontânea: Parks era secretária da NAACP e já havia sido presa uma vez por resistência.",
+      "importancia": "Rosa Parks demonstra que os 'momentos espontâneos' da história raramente são espontâneos. Ela foi escolhida conscientemente pela liderança do movimento por ser uma figura de reputação impecável — ao contrário de Claudette Colvin, jovem grávida que havia feito o mesmo gesto meses antes. O ativismo tem estratégia, e Parks sabia disso.",
+      "eventos": [],
+      "tags": [
+        "eua",
+        "direitos-civis",
+        "racismo",
+        "montgomery",
+        "mlk",
+        "boicote"
+      ]
+    },
+    {
+      "id": "pmh-005",
+      "nome": "Enheduanna",
+      "nome_en": "Enheduanna",
+      "nome_es": "Enheduanna",
+      "nascimento": -2285,
+      "morte": -2250,
+      "inicio": -2285,
+      "fim": -2250,
+      "regiao": "Middle East",
+      "region": "Middle East",
+      "area": [
+        "religião",
+        "literatura"
+      ],
+      "cargo": "Sumo-Sacerdotisa e Poetisa",
+      "epoca": "Antiguidade",
+      "type": "person",
+      "descricao": "Filha do rei acádio Sargão de Akkad, Enheduanna é a primeira pessoa na história da humanidade a ter um nome atribuído a uma obra literária. Seus hinos à deusa Inanna são os textos religiosos assinados mais antigos do mundo — escritos 1.300 anos antes de Homero.",
+      "importancia": "Enheduanna quebra um estereótipo profundo: a ideia de que a autoria feminina na história começa na Modernidade. Ela assinou suas obras há 4.300 anos. Que outras obras escritas por mulheres foram perdidas, destruídas ou atribuídas a homens? Seu caso sugere que a invisibilidade histórica das mulheres é resultado de curadoria, não de ausência.",
+      "eventos": [],
+      "tags": [
+        "suméria",
+        "akkad",
+        "literatura",
+        "religião",
+        "inanna",
+        "escrita"
+      ]
+    },
+    {
+      "id": "pmh-006",
+      "nome": "Ada Lovelace",
+      "nome_en": "Ada Lovelace",
+      "nome_es": "Ada Lovelace",
+      "nascimento": 1815,
+      "morte": 1852,
+      "inicio": 1815,
+      "fim": 1852,
+      "regiao": "Europe",
+      "region": "Europe",
+      "area": [
+        "ciência",
+        "matemática"
+      ],
+      "cargo": "Matemática",
+      "epoca": "Século XIX",
+      "type": "person",
+      "descricao": "Filha de Lord Byron, Ada Lovelace colaborou com Charles Babbage na Máquina Analítica — o proto-computador mecânico do século XIX. Suas 'Notas' de 1843 descrevem como a máquina poderia compor música e resolver problemas matemáticos além de calcular. São consideradas o primeiro algoritmo da história.",
+      "importancia": "Ada Lovelace viu o que Babbage não viu: que sua máquina não era apenas uma calculadora, mas um manipulador de símbolos de propósito geral. Essa intuição — que computação é sobre símbolos, não números — é a base de toda a computação moderna. Ela articulou esse conceito 100 anos antes de Turing. A linguagem de programação Ada foi batizada em sua homenagem.",
+      "eventos": [],
+      "tags": [
+        "computação",
+        "matemática",
+        "babbage",
+        "algoritmo",
+        "programação",
+        "victoriana"
+      ]
+    },
+    {
+      "id": "pmh-007",
+      "nome": "Nzinga de Angola",
+      "nome_en": "Queen Nzinga",
+      "nome_es": "Nzinga de Angola",
+      "nascimento": 1583,
+      "morte": 1663,
+      "inicio": 1583,
+      "fim": 1663,
+      "regiao": "Africa",
+      "region": "Africa",
+      "area": [
+        "política",
+        "guerra",
+        "diplomacia"
+      ],
+      "cargo": "Rainha de Ndongo e Matamba",
+      "epoca": "Era Colonial",
+      "type": "person",
+      "descricao": "Rainha de Ndongo (atual Angola) que negociou pessoalmente com Portugal, liderou guerrilhas contra os colonizadores e aliou-se aos holandeses para resistir ao tráfico de escravizados. Em uma famosa negociação, recusou-se a sentar no chão enquanto o governador português sentava em cadeira — mandou um servo ajoelhar-se e usou suas costas como trono.",
+      "importancia": "Nzinga resistiu por 40 anos ao tráfico de escravizados e à colonização portuguesa, usando diplomacia, guerra e política com sofisticação admirável. Seu gesto do 'trono humano' tornou-se símbolo da recusa de humilhação colonial. Hoje é heroína nacional angolana — mas raramente aparece nos livros didáticos fora da África.",
+      "eventos": [],
+      "tags": [
+        "angola",
+        "portugal",
+        "resistência",
+        "colonial",
+        "escravidão",
+        "diplomacia"
+      ]
+    },
+    {
+      "id": "pmh-008",
+      "nome": "Marie Curie",
+      "nome_en": "Marie Curie",
+      "nome_es": "Marie Curie",
+      "nascimento": 1867,
+      "morte": 1934,
+      "inicio": 1867,
+      "fim": 1934,
+      "regiao": "Europe",
+      "region": "Europe",
+      "area": [
+        "ciência",
+        "física",
+        "química"
+      ],
+      "cargo": "Cientista",
+      "epoca": "Século XIX–XX",
+      "type": "person",
+      "descricao": "Física e química polonesa-francesa, primeiro pessoa a ganhar dois Prêmios Nobel em áreas diferentes (Física 1903, Química 1911). Descobriu o polônio e o rádio. Era tão discriminada que a Academia de Ciências francesa nunca a admitiu. Morreu de anemia aplástica — causada pela radioatividade que ela própria havia descoberto.",
+      "importancia": "Marie Curie demonstrou que o preconceito de gênero na ciência é uma questão de estrutura, não de capacidade. Ela venceu dois Nobels em uma época em que mulheres não podiam votar na França. Seus cadernos de laboratório ainda são radioativos — precisam ser consultados com proteção especial — 90 anos após sua morte.",
+      "eventos": [],
+      "tags": [
+        "física",
+        "química",
+        "radioatividade",
+        "nobel",
+        "ciência",
+        "polônia",
+        "paris"
+      ]
+    },
+    {
+      "id": "pmh-009",
+      "nome": "Indira Gandhi",
+      "nome_en": "Indira Gandhi",
+      "nome_es": "Indira Gandhi",
+      "nascimento": 1917,
+      "morte": 1984,
+      "inicio": 1917,
+      "fim": 1984,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "política"
+      ],
+      "cargo": "Primeira-Ministra da Índia",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Primeira ministra da Índia por três mandatos (1966–1977; 1980–1984), primeira mulher a liderar um país democrático populoso. Liderou a Índia na guerra de independência de Bangladesh (1971) e no programa nuclear indiano. Declarou estado de emergência em 1975, suspendendo direitos civis. Foi assassinada por seus próprios seguranças Sikh em represália à Operação Estrela Azul.",
+      "importancia": "Indira Gandhi incorpora as contradições do poder no século XX: líder democraticamente eleita que suspendeu a democracia; símbolo de modernização que usou identidade religiosa como ferramenta política; mulher que governou usando autoridade paternalista. Seu assassinato desencadeou massacres anti-Sikh que ainda reverberam na política indiana.",
+      "eventos": [],
+      "tags": [
+        "índia",
+        "política",
+        "democracia",
+        "bangladesh",
+        "nuclear",
+        "sikhs",
+        "gandhi"
+      ]
+    },
+    {
+      "id": "pmh-010",
+      "nome": "Mary Wollstonecraft",
+      "nome_en": "Mary Wollstonecraft",
+      "nome_es": "Mary Wollstonecraft",
+      "nascimento": 1759,
+      "morte": 1797,
+      "inicio": 1759,
+      "fim": 1797,
+      "regiao": "Europe",
+      "region": "Europe",
+      "area": [
+        "filosofia",
+        "política"
+      ],
+      "cargo": "Filósofa e Escritora",
+      "epoca": "Iluminismo",
+      "type": "person",
+      "descricao": "Escritora e filósofa britânica, autora de 'Reivindicação dos Direitos da Mulher' (1792) — o texto fundador do feminismo ocidental. Escreveu em resposta direta a Edmund Burke e a Declaração dos Direitos do Homem: se os direitos são universais, por que excluem as mulheres? Viveu de forma escandalosa para a época, tendo um filho fora do casamento.",
+      "importancia": "Wollstonecraft aplicou à situação das mulheres a mesma lógica iluminista que os homens aplicavam a reis e nobres: nenhuma autoridade é legítima sem razão, e razão não tem sexo. Esse argumento simples e devastador levaria 130 anos para produzir o sufrágio feminino no Reino Unido. Morreu aos 38 anos de complicações do parto de sua filha — Mary Shelley, autora de Frankenstein.",
+      "eventos": [],
+      "tags": [
+        "feminismo",
+        "iluminismo",
+        "filosofia",
+        "direitos",
+        "revolução-francesa",
+        "grã-bretanha"
+      ]
+    },
+    {
+      "id": "pmh-011",
+      "nome": "Boudicca",
+      "nome_en": "Boudicca",
+      "nome_es": "Boudicca",
+      "nascimento": 30,
+      "morte": 61,
+      "inicio": 30,
+      "fim": 61,
+      "regiao": "Europe",
+      "region": "Europe",
+      "area": [
+        "guerra",
+        "política"
+      ],
+      "cargo": "Rainha dos Icenos",
+      "epoca": "Antiguidade",
+      "type": "person",
+      "descricao": "Rainha da tribo celta dos Icenos (atual Norfolk, Inglaterra) que liderou uma revolta contra a ocupação romana em 60-61 d.C., destruindo Londinium (Londres), Camulodunum e Verulamium. Seu exército de 100.000 guerreiros derrotou legiões romanas antes de ser finalmente vencida. Morreu por veneno ou em batalha.",
+      "importancia": "Boudicca destruiu três cidades romanas e matou estimados 70.000-80.000 pessoas antes de ser derrotada — a maior crise do Império Romano na Bretanha. Sua revolta foi motivada pela violação de suas filhas e pela escravização de seu povo após a morte de seu marido — o Império Romano havia quebrado um tratado. Tornou-se símbolo britânico de resistência nacional.",
+      "eventos": [],
+      "tags": [
+        "roma",
+        "bretanha",
+        "celta",
+        "guerra",
+        "resistência",
+        "mulher-guerreira"
+      ]
+    },
+    {
+      "id": "pmh-012",
+      "nome": "Yaa Asantewaa",
+      "nome_en": "Yaa Asantewaa",
+      "nome_es": "Yaa Asantewaa",
+      "nascimento": 1840,
+      "morte": 1921,
+      "inicio": 1840,
+      "fim": 1921,
+      "regiao": "Africa",
+      "region": "Africa",
+      "area": [
+        "guerra",
+        "política"
+      ],
+      "cargo": "Rainha-Mãe Ashanti",
+      "epoca": "Era Colonial",
+      "type": "person",
+      "descricao": "Rainha-Mãe do povo Ashanti (atual Gana) que liderou a Guerra do Trono de Ouro (1900) contra o colonialismo britânico — a última grande guerra anti-colonial liderada por uma mulher africana. Tinha 60 anos quando disse aos chefes hesitantes: 'Se vocês, homens, não lutarem, nós, mulheres, lutaremos'.",
+      "importancia": "Yaa Asantewaa demonstrou que resistência ao colonialismo não foi exclusividade masculina — e que a narrativa colonial apagou sistematicamente as líderes mulheres. Sua guerra durou meses e exigiu 1.400 soldados britânicos para ser suprimida. Foi exilada às Seychelles, onde morreu em 1921 — nunca vendo a independência de Gana (1957).",
+      "eventos": [],
+      "tags": [
+        "ghana",
+        "ashanti",
+        "colonialismo",
+        "grã-bretanha",
+        "resistência",
+        "áfrica"
+      ]
+    },
+    {
+      "id": "pmh-013",
+      "nome": "Hatshepsut",
+      "nome_en": "Hatshepsut",
+      "nome_es": "Hatshepsut",
+      "nascimento": -1507,
+      "morte": -1458,
+      "inicio": -1507,
+      "fim": -1458,
+      "regiao": "Middle East",
+      "region": "Middle East",
+      "area": [
+        "política",
+        "construção"
+      ],
+      "cargo": "Faraó do Egito",
+      "epoca": "Antiguidade",
+      "type": "person",
+      "descricao": "Um dos mais bem-sucedidos faraós do Egito, mulher que governou por 20 anos com toda a iconografia masculina: coroa dupla, barba falsa, títulos masculinos. Estabeleceu rotas comerciais com a terra de Punt, mandou construir o templo de Deir el-Bahari e expandiu o império. Após sua morte, seu sucessor apagou sistematicamente seu nome e imagens.",
+      "importancia": "Hatshepsut foi literalmente apagada da história: seu nome foi retirado de listas de faraós, estátuas destruídas, imagens cinzeladas. Só foi redescoberta no século XIX. Sua história levanta questão fundamental: quantas outras mulheres foram sistematicamente removidas dos registros históricos? Sua reabilitação arqueológica é também um exercício de história feminista.",
+      "eventos": [],
+      "tags": [
+        "egito",
+        "faraó",
+        "deir-el-bahari",
+        "punt",
+        "construção",
+        "antiguidade"
+      ]
+    },
+    {
+      "id": "pmh-014",
+      "nome": "Sojourner Truth",
+      "nome_en": "Sojourner Truth",
+      "nome_es": "Sojourner Truth",
+      "nascimento": 1797,
+      "morte": 1883,
+      "inicio": 1797,
+      "fim": 1883,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política",
+        "religião"
+      ],
+      "cargo": "Abolicionista e Sufragista",
+      "epoca": "Século XIX",
+      "type": "person",
+      "descricao": "Nascida escrava com o nome Isabella Baumfree, fugiu em 1826 e tornou-se pregadora itinerante e ativista abolicionista. Seu discurso 'Ain't I a Woman?' (1851) é um dos textos mais poderosos da história americana: questionou a exclusão das mulheres negras do movimento feminista branco que excluía quem mais precisava de direitos.",
+      "importancia": "Sojourner Truth articulou o que hoje chamamos de interseccionalidade 150 anos antes do termo existir: a ideia de que raça e gênero criam opressões sobrepostas que não podem ser separadas. Seu desafio ao feminismo branco de sua época — 'e eu, não sou mulher?' — ecoa nos debates do feminismo contemporâneo sobre inclusão e representatividade.",
+      "eventos": [],
+      "tags": [
+        "abolicionismo",
+        "eua",
+        "sufrágio",
+        "feminismo",
+        "escravidão",
+        "negritude"
+      ]
+    },
+    {
+      "id": "pmh-015",
+      "nome": "Aung San Suu Kyi",
+      "nome_en": "Aung San Suu Kyi",
+      "nome_es": "Aung San Suu Kyi",
+      "nascimento": 1945,
+      "morte": null,
+      "inicio": 1945,
+      "fim": null,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "política"
+      ],
+      "cargo": "Líder Democrática / Prêmio Nobel",
+      "epoca": "Século XX–XXI",
+      "type": "person",
+      "descricao": "Líder do movimento democrático de Myanmar (Birmânia), Prêmio Nobel da Paz em 1991. Ficou 15 anos em prisão domiciliar enquanto sua Liga Nacional para a Democracia vencia eleições que a junta militar ignorava. Governou de 2016 a 2021, quando um novo golpe militar a depôs novamente.",
+      "importancia": "A trajetória de Aung San Suu Kyi é também uma história de decepção moral: a ícone dos direitos humanos que, quando chegou ao poder, silenciou diante do genocídio Rohingya em Myanmar. Isso levanta questão incômoda: os ideais resistem ao poder? E o que acontece quando alguém que venerava os direitos humanos precisa exercer escolhas políticas reais?",
+      "eventos": [],
+      "tags": [
+        "myanmar",
+        "democracia",
+        "nobel",
+        "junta-militar",
+        "prisão",
+        "direitos-humanos"
+      ]
+    },
+    {
+      "id": "pmh-016",
+      "nome": "Hypatia de Alexandria",
+      "nome_en": "Hypatia of Alexandria",
+      "nome_es": "Hipatia de Alejandría",
+      "nascimento": 360,
+      "morte": 415,
+      "inicio": 360,
+      "fim": 415,
+      "regiao": "Middle East",
+      "region": "Middle East",
+      "area": [
+        "filosofia",
+        "matemática",
+        "astronomia"
+      ],
+      "cargo": "Filósofa e Matemática",
+      "epoca": "Antiguidade Tardia",
+      "type": "person",
+      "descricao": "Filósofa, matemática e astrônoma de Alexandria, última grande intelectual do mundo clássico. Ensinava filosofia neoplatônica, astronomia e matemática — sendo mulher em um mundo que excluía mulheres da academia. Lynchada por uma multidão cristã fanática em 415 d.C., seu assassinato é visto como símbolo do fim do mundo antigo.",
+      "importancia": "Hypatia tornou-se símbolo do conflito entre razão e fé religiosa. Mas sua história real é mais complexa: tinha patronos cristãos, e sua morte foi mais política que teológica. O que é incontestável é que o assassinato de Hypatia marca o fim de Alexandria como centro intelectual — e que uma mulher foi assassinada precisamente por ser uma intelectual respeitada.",
+      "eventos": [],
+      "tags": [
+        "alexandria",
+        "egito",
+        "filosofia",
+        "matemática",
+        "neoplatonismo",
+        "antiguidade-tardia"
+      ]
+    },
+    {
+      "id": "pmh-017",
+      "nome": "Lakshmibai",
+      "nome_en": "Rani of Jhansi",
+      "nome_es": "Rani de Jhansi",
+      "nascimento": 1828,
+      "morte": 1858,
+      "inicio": 1828,
+      "fim": 1858,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "guerra",
+        "política"
+      ],
+      "cargo": "Rainha de Jhansi",
+      "epoca": "Século XIX",
+      "type": "person",
+      "descricao": "Rainha do principado indiano de Jhansi que liderou a Revolta dos Cipaios (1857–1858) — a maior revolta contra o domínio britânico na Índia antes de Gandhi. Lutou pessoalmente em batalha, carregando seu filho adotivo nas costas. Morreu na batalha de Gwalior com 29 anos, tornando-se herói nacional.",
+      "importancia": "Lakshmibai é o protótipo da heroína nacional: jovem, bela, guerreira, morta jovem. Mas por trás do mito está uma resistência real à política britânica de 'Doutrina do Lapso' — que confiscava principados sem herdeiros masculinos. Sua revolta antecipou em 90 anos a independência indiana e inspirou Gandhi e Nehru.",
+      "eventos": [],
+      "tags": [
+        "índia",
+        "britânica",
+        "revolta",
+        "guerra",
+        "cipaios",
+        "independência",
+        "guerreira"
+      ]
+    },
+    {
+      "id": "pmh-018",
+      "nome": "Harriet Tubman",
+      "nome_en": "Harriet Tubman",
+      "nome_es": "Harriet Tubman",
+      "nascimento": 1822,
+      "morte": 1913,
+      "inicio": 1822,
+      "fim": 1913,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política",
+        "guerra"
+      ],
+      "cargo": "Abolicionista e Espiã",
+      "epoca": "Século XIX",
+      "type": "person",
+      "descricao": "Nascida escrava, fugiu em 1849 e voltou ao Sul dos EUA 13 vezes como 'condutora' da Underground Railroad — a rede clandestina que libertou centenas de escravizados. Na Guerra Civil, tornou-se espiã e exploradora para o Exército da União, liderando a Expedição de Combahee que libertou 700 pessoas em uma noite.",
+      "importancia": "Harriet Tubman é o caso mais extremo de alguém que transformou experiência pessoal de sofrimento em ação sistemática de libertação. Nunca perdeu um 'passageiro' em suas viagens. Sua frase mais famosa — 'Libertei mil escravos. Poderia ter libertado mais se soubessem que eram escravos' — resume uma tensão que toda política de libertação enfrenta.",
+      "eventos": [],
+      "tags": [
+        "abolicionismo",
+        "eua",
+        "underground-railroad",
+        "guerra-civil",
+        "espiã",
+        "escravidão"
+      ]
+    },
+    {
+      "id": "pmh-019",
+      "nome": "Valentina Tereshkova",
+      "nome_en": "Valentina Tereshkova",
+      "nome_es": "Valentina Tereshkova",
+      "nascimento": 1937,
+      "morte": null,
+      "inicio": 1937,
+      "fim": null,
+      "regiao": "Europe",
+      "region": "Europe",
+      "area": [
+        "ciência",
+        "exploração"
+      ],
+      "cargo": "Cosmonauta",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Operária têxtil soviética sem formação militar que se tornou a primeira mulher no espaço em junho de 1963, 26 anos antes de qualquer americana. Orbitou a Terra 48 vezes em 3 dias. Depois do voo, nenhuma outra mulher soviética voaria ao espaço por 19 anos — a URSS havia feito sua propaganda.",
+      "importancia": "O voo de Tereshkova demonstra a diferença entre representação simbólica e mudança estrutural: ela foi enviada ao espaço por razões de propaganda, não de igualdade. A URSS queria vencer a corrida de primeiro por tudo — e usou uma mulher como peça nesse jogo. Quando serviu ao objetivo, o programa de mulheres cosmonautas foi encerrado.",
+      "eventos": [],
+      "tags": [
+        "urss",
+        "espaço",
+        "corrida-espacial",
+        "astronauta",
+        "guerra-fria",
+        "mulher"
+      ]
+    },
+    {
+      "id": "pmh-020",
+      "nome": "Eleanor Roosevelt",
+      "nome_en": "Eleanor Roosevelt",
+      "nome_es": "Eleanor Roosevelt",
+      "nascimento": 1884,
+      "morte": 1962,
+      "inicio": 1884,
+      "fim": 1962,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política",
+        "diplomacia",
+        "direitos-humanos"
+      ],
+      "cargo": "Diplomata e Ativista",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Primeira-dama dos EUA (1933–1945) que transformou o papel em plataforma de ativismo. Presidiu a comissão da ONU que redigiu a Declaração Universal dos Direitos Humanos (1948) — o documento de direitos mais influente da história moderna. Defendeu os direitos civis dos negros americanos em um tempo em que era politicamente arriscado.",
+      "importancia": "Eleanor Roosevelt inventou o que o papel de primeira-dama poderia ser — e continua sendo o modelo pelo qual todas as outras são julgadas. Mais importante: foi a força motriz por trás da Declaração Universal de 1948, insistindo que direitos humanos não eram assunto apenas dos Estados, mas de cada indivíduo. Esse documento molda o direito internacional até hoje.",
+      "eventos": [],
+      "tags": [
+        "eua",
+        "onu",
+        "direitos-humanos",
+        "declaração-universal",
+        "política",
+        "democracia"
+      ]
+    }
+  ]
+}

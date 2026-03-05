@@ -11,11 +11,16 @@ const DATASETS_PERSONAGENS = [
   'data/dados-personagens-iluminismo-revolucoes.json',
   'data/dados-personagens-seculo-xix.json',
   'data/dados-personagens-seculo-xx-guerras.json',
+  'data/dados-personagens-seculo-xx.json',
   'data/dados-personagens-asia.json',
   'data/dados-personagens-americas.json',
   'data/dados-personagens-africa-oriente.json',
   'data/dados-personagens-ciencia-pensamento.json',
   'data/dados-personagens-biblicas.json',
+  'data/dados-personagens-brasil.json',
+  'data/dados-personagens-europa-moderna.json',
+  'data/dados-personagens-mulheres.json',
+  'data/dados-personagens-filosofia-oriental.json',
 ];
 
 // Área → cor de acento

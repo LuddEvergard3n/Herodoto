@@ -37,7 +37,7 @@
       "tipo": "evento",
       "region": "Americas",
       "period": "Early Modern",
-      "type": "military",
+      "type": "war",
       "tags": [
         "Holanda",
         "WIC",
@@ -92,7 +92,7 @@
       "tipo": "evento",
       "region": "Americas",
       "period": "Early Modern",
-      "type": "military",
+      "type": "war",
       "tags": [
         "insurreição",
         "expulsão",
@@ -119,7 +119,7 @@
       "tipo": "evento",
       "region": "Americas",
       "period": "Early Modern",
-      "type": "military",
+      "type": "war",
       "tags": [
         "França",
         "Maranhão",

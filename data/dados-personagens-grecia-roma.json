@@ -25,7 +25,11 @@
         "dialética",
         "maiêutica",
         "ética"
-      ]
+      ],
+      "type": "person",
+      "inicio": -470,
+      "fim": -399,
+      "region": "Europe"
     },
     {
       "id": "pg-002",
@@ -53,7 +57,11 @@
         "formas",
         "república",
         "idealismo"
-      ]
+      ],
+      "type": "person",
+      "inicio": -428,
+      "fim": -348,
+      "region": "Europe"
     },
     {
       "id": "pg-003",
@@ -82,7 +90,11 @@
         "biologia",
         "liceu",
         "empirismo"
-      ]
+      ],
+      "type": "person",
+      "inicio": -384,
+      "fim": -322,
+      "region": "Europe"
     },
     {
       "id": "pg-004",
@@ -110,7 +122,11 @@
         "partenon",
         "oratória",
         "política"
-      ]
+      ],
+      "type": "person",
+      "inicio": -495,
+      "fim": -429,
+      "region": "Europe"
     },
     {
       "id": "pg-005",
@@ -138,7 +154,11 @@
         "helenismo",
         "império",
         "gênio-militar"
-      ]
+      ],
+      "type": "person",
+      "inicio": -356,
+      "fim": -323,
+      "region": "Europe"
     },
     {
       "id": "pg-006",
@@ -164,7 +184,11 @@
         "etnografia",
         "narrativa",
         "viagem"
-      ]
+      ],
+      "type": "person",
+      "inicio": -484,
+      "fim": -425,
+      "region": "Europe"
     },
     {
       "id": "pg-007",
@@ -190,7 +214,11 @@
         "gália",
         "rubicão",
         "assassinato"
-      ]
+      ],
+      "type": "person",
+      "inicio": -100,
+      "fim": -44,
+      "region": "Europe"
     },
     {
       "id": "pg-008",
@@ -214,7 +242,11 @@
         "pax-romana",
         "principado",
         "augusto"
-      ]
+      ],
+      "type": "person",
+      "inicio": -63,
+      "fim": 14,
+      "region": "Europe"
     },
     {
       "id": "pg-009",
@@ -239,7 +271,11 @@
         "filosofia",
         "imperador",
         "roma"
-      ]
+      ],
+      "type": "person",
+      "inicio": 121,
+      "fim": 180,
+      "region": "Europe"
     },
     {
       "id": "pg-010",
@@ -263,7 +299,11 @@
         "políticafeminina",
         "cesar",
         "marco-antonio"
-      ]
+      ],
+      "type": "person",
+      "inicio": -69,
+      "fim": -30,
+      "region": "Africa"
     },
     {
       "id": "pg-011",
@@ -288,7 +328,11 @@
         "siracusa",
         "inventor",
         "cálculo"
-      ]
+      ],
+      "type": "person",
+      "inicio": -287,
+      "fim": -212,
+      "region": "Europe"
     },
     {
       "id": "pg-012",
@@ -315,7 +359,11 @@
         "oratória",
         "filosofia",
         "assassinato"
-      ]
+      ],
+      "type": "person",
+      "inicio": -106,
+      "fim": -43,
+      "region": "Europe"
     },
     {
       "id": "pg-013",
@@ -341,7 +389,11 @@
         "atenas",
         "método",
         "diplomacia"
-      ]
+      ],
+      "type": "person",
+      "inicio": -460,
+      "fim": -400,
+      "region": "Europe"
     },
     {
       "id": "pg-014",
@@ -365,7 +417,11 @@
         "ética-médica",
         "juramento",
         "ciência"
-      ]
+      ],
+      "type": "person",
+      "inicio": -460,
+      "fim": -370,
+      "region": "Europe"
     },
     {
       "id": "pg-015",
@@ -389,7 +445,11 @@
         "moral",
         "grécia",
         "animais"
-      ]
+      ],
+      "type": "person",
+      "inicio": -620,
+      "fim": -560,
+      "region": "Europe"
     },
     {
       "id": "pg-016",
@@ -414,7 +474,11 @@
         "mitologia",
         "exílio",
         "augusto"
-      ]
+      ],
+      "type": "person",
+      "inicio": -43,
+      "fim": 17,
+      "region": "Europe"
     },
     {
       "id": "pg-017",
@@ -439,7 +503,11 @@
         "augusto",
         "literatura",
         "fundação"
-      ]
+      ],
+      "type": "person",
+      "inicio": -70,
+      "fim": -19,
+      "region": "Europe"
     },
     {
       "id": "pg-018",
@@ -465,7 +533,11 @@
         "resistência",
         "gladiador",
         "liberdade"
-      ]
+      ],
+      "type": "person",
+      "inicio": -111,
+      "fim": -71,
+      "region": "Europe"
     }
   ]
 }

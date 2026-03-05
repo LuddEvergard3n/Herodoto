@@ -23,7 +23,11 @@
         "europa",
         "papa",
         "renascimento-carolíngio"
-      ]
+      ],
+      "type": "person",
+      "inicio": 742,
+      "fim": 814,
+      "region": "Europe"
     },
     {
       "id": "pm-002",
@@ -49,7 +53,11 @@
         "fé",
         "razão",
         "catolicismo"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1225,
+      "fim": 1274,
+      "region": "Europe"
     },
     {
       "id": "pm-003",
@@ -74,7 +82,11 @@
         "florença",
         "exílio",
         "inferno"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1265,
+      "fim": 1321,
+      "region": "Europe"
     },
     {
       "id": "pm-004",
@@ -103,7 +115,11 @@
         "exploração",
         "rihla",
         "mali"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1304,
+      "fim": 1368,
+      "region": "Africa"
     },
     {
       "id": "pm-005",
@@ -129,7 +145,11 @@
         "islã",
         "assabiyya",
         "filosofia-da-história"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1332,
+      "fim": 1406,
+      "region": "Africa"
     },
     {
       "id": "pm-006",
@@ -155,7 +175,11 @@
         "cânon",
         "ciência",
         "filosofia"
-      ]
+      ],
+      "type": "person",
+      "inicio": 980,
+      "fim": 1037,
+      "region": "MiddleEast"
     },
     {
       "id": "pm-007",
@@ -181,7 +205,11 @@
         "cavalaria",
         "aiúbida",
         "saladino"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1137,
+      "fim": 1193,
+      "region": "MiddleEast"
     },
     {
       "id": "pm-008",
@@ -206,7 +234,11 @@
         "mongóis",
         "kublai-khan",
         "exploração"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1254,
+      "fim": 1324,
+      "region": "Europe"
     },
     {
       "id": "pm-009",
@@ -232,7 +264,11 @@
         "militar",
         "mártir",
         "gênio"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1412,
+      "fim": 1431,
+      "region": "Europe"
     },
     {
       "id": "pm-010",
@@ -257,7 +293,11 @@
         "reforma",
         "tecnologia",
         "gutenberg"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1400,
+      "fim": 1468,
+      "region": "Europe"
     },
     {
       "id": "pm-011",
@@ -282,7 +322,11 @@
         "ecologia",
         "religião",
         "assis"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1181,
+      "fim": 1226,
+      "region": "Europe"
     },
     {
       "id": "pm-012",
@@ -307,7 +351,11 @@
         "empirismo",
         "franciscanos",
         "lógica"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1287,
+      "fim": 1347,
+      "region": "Europe"
     },
     {
       "id": "pm-013",
@@ -336,7 +384,11 @@
         "ciência",
         "mulher",
         "medieval"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1098,
+      "fim": 1179,
+      "region": "Europe"
     },
     {
       "id": "pm-014",
@@ -362,7 +414,11 @@
         "franciscanos",
         "método-científico",
         "medieval"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1214,
+      "fim": 1294,
+      "region": "Europe"
     },
     {
       "id": "pm-015",
@@ -388,7 +444,11 @@
         "córdoba",
         "averroísmo",
         "medieval"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1126,
+      "fim": 1198,
+      "region": "MiddleEast"
     },
     {
       "id": "pm-017",
@@ -414,7 +474,11 @@
         "assassinato",
         "cantuária",
         "medieval"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1118,
+      "fim": 1170,
+      "region": "Europe"
     },
     {
       "id": "pm-018",
@@ -440,7 +504,11 @@
         "lorena",
         "conquista",
         "cristão"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1060,
+      "fim": 1100,
+      "region": "Europe"
     }
   ]
 }

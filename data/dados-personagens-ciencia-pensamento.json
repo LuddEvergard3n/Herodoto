@@ -26,7 +26,11 @@
         "ciência",
         "mártir",
         "neoplatonismo"
-      ]
+      ],
+      "type": "person",
+      "inicio": 360,
+      "fim": 415,
+      "region": "Africa"
     },
     {
       "id": "pcp-002",
@@ -53,7 +57,11 @@
         "tolerância",
         "renascimento",
         "ignorância"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1401,
+      "fim": 1464,
+      "region": "Europe"
     },
     {
       "id": "pcp-003",
@@ -79,7 +87,11 @@
         "mônadas",
         "lógica",
         "newton"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1646,
+      "fim": 1716,
+      "region": "Europe"
     },
     {
       "id": "pcp-004",
@@ -105,7 +117,11 @@
         "campo",
         "ciência",
         "faraday"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1791,
+      "fim": 1867,
+      "region": "Europe"
     },
     {
       "id": "pcp-005",
@@ -132,7 +148,11 @@
         "mulher",
         "algoritmo",
         "século-xix"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1815,
+      "fim": 1852,
+      "region": "Europe"
     },
     {
       "id": "pcp-006",
@@ -160,7 +180,11 @@
         "discriminação",
         "franklin",
         "raios-x"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1920,
+      "fim": 1958,
+      "region": "Europe"
     },
     {
       "id": "pcp-007",
@@ -186,7 +210,11 @@
         "natureza",
         "deus",
         "spinoza"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1632,
+      "fim": 1677,
+      "region": "Europe"
     },
     {
       "id": "pcp-008",
@@ -214,7 +242,11 @@
         "assabiyya",
         "civilização",
         "khaldun"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1332,
+      "fim": 1406,
+      "region": "Africa"
     },
     {
       "id": "pcp-009",
@@ -242,7 +274,11 @@
         "fé",
         "pascal",
         "aposta"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1623,
+      "fim": 1662,
+      "region": "Europe"
     },
     {
       "id": "pcp-010",
@@ -271,7 +307,11 @@
         "nobel",
         "mulher",
         "curie"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1867,
+      "fim": 1934,
+      "region": "Europe"
     },
     {
       "id": "pcp-011",
@@ -299,7 +339,11 @@
         "edison",
         "ciência",
         "tecnologia"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1856,
+      "fim": 1943,
+      "region": "Europe"
     },
     {
       "id": "pcp-012",
@@ -327,7 +371,11 @@
         "cairo",
         "saladino",
         "medieval"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1138,
+      "fim": 1204,
+      "region": "MiddleEast"
     },
     {
       "id": "pcp-013",
@@ -354,7 +402,11 @@
         "coordenadas",
         "almagesto",
         "alexandria"
-      ]
+      ],
+      "type": "person",
+      "inicio": 100,
+      "fim": 170,
+      "region": "Africa"
     },
     {
       "id": "pcp-014",
@@ -382,7 +434,11 @@
         "america-latina",
         "cosmologia",
         "humboldt"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1769,
+      "fim": 1859,
+      "region": "Europe"
     },
     {
       "id": "pcp-015",
@@ -410,7 +466,11 @@
         "geografia",
         "islã",
         "al-biruni"
-      ]
+      ],
+      "type": "person",
+      "inicio": 973,
+      "fim": 1048,
+      "region": "MiddleEast"
     },
     {
       "id": "pcp-016",
@@ -435,7 +495,11 @@
         "reforma",
         "tecnologia",
         "gutenberg"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1400,
+      "fim": 1468,
+      "region": "Europe"
     },
     {
       "id": "pcp-017",
@@ -461,7 +525,11 @@
         "presidente",
         "constituição",
         "washington"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1732,
+      "fim": 1799,
+      "region": "Americas"
     },
     {
       "id": "pcp-018",
@@ -490,7 +558,11 @@
         "watt",
         "energia",
         "escócia"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1736,
+      "fim": 1819,
+      "region": "Europe"
     },
     {
       "id": "pcp-020",
@@ -516,7 +588,11 @@
         "hegel",
         "razão",
         "espírito"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1770,
+      "fim": 1831,
+      "region": "Europe"
     },
     {
       "id": "pcp-021",
@@ -544,7 +620,11 @@
         "educação",
         "revolução",
         "deportação"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1830,
+      "fim": 1905,
+      "region": "Europe"
     }
   ]
 }

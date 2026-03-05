@@ -25,7 +25,11 @@
         "ética",
         "hierarquia",
         "educação"
-      ]
+      ],
+      "type": "person",
+      "inicio": -551,
+      "fim": -479,
+      "region": "EastAsia"
     },
     {
       "id": "po-002",
@@ -50,7 +54,11 @@
         "meditação",
         "sofrimento",
         "índia"
-      ]
+      ],
+      "type": "person",
+      "inicio": -563,
+      "fim": -483,
+      "region": "SouthAsia"
     },
     {
       "id": "po-003",
@@ -75,7 +83,11 @@
         "tolerância",
         "judeus",
         "cilindro-de-ciro"
-      ]
+      ],
+      "type": "person",
+      "inicio": -600,
+      "fim": -530,
+      "region": "MiddleEast"
     },
     {
       "id": "po-004",
@@ -100,7 +112,11 @@
         "tolerância",
         "dharma",
         "pacifismo"
-      ]
+      ],
+      "type": "person",
+      "inicio": -304,
+      "fim": -232,
+      "region": "SouthAsia"
     },
     {
       "id": "po-005",
@@ -125,7 +141,11 @@
         "china",
         "arte-da-guerra",
         "liderança"
-      ]
+      ],
+      "type": "person",
+      "inicio": -544,
+      "fim": -496,
+      "region": "EastAsia"
     },
     {
       "id": "po-006",
@@ -151,7 +171,11 @@
         "abu-simbel",
         "êxodo",
         "propaganda"
-      ]
+      ],
+      "type": "person",
+      "inicio": -1303,
+      "fim": -1213,
+      "region": "Africa"
     },
     {
       "id": "po-007",
@@ -177,7 +201,11 @@
         "mesopotâmia",
         "justiça",
         "lei"
-      ]
+      ],
+      "type": "person",
+      "inicio": -1810,
+      "fim": -1750,
+      "region": "MiddleEast"
     },
     {
       "id": "po-008",
@@ -203,7 +231,11 @@
         "dualismo",
         "bem-mal",
         "religião"
-      ]
+      ],
+      "type": "person",
+      "inicio": -628,
+      "fim": -551,
+      "region": "MiddleEast"
     },
     {
       "id": "po-009",
@@ -229,7 +261,11 @@
         "meca",
         "hégira",
         "religião"
-      ]
+      ],
+      "type": "person",
+      "inicio": 570,
+      "fim": 632,
+      "region": "MiddleEast"
     },
     {
       "id": "po-010",
@@ -255,7 +291,11 @@
         "bagdá",
         "islã",
         "ciência"
-      ]
+      ],
+      "type": "person",
+      "inicio": 780,
+      "fim": 850,
+      "region": "MiddleEast"
     },
     {
       "id": "po-012",
@@ -281,7 +321,11 @@
         "estepe",
         "pax-mongolica",
         "guerra"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1162,
+      "fim": 1227,
+      "region": "EastAsia"
     },
     {
       "id": "po-013",
@@ -307,7 +351,11 @@
         "tao",
         "filosofia",
         "natureza"
-      ]
+      ],
+      "type": "person",
+      "inicio": -601,
+      "fim": -531,
+      "region": "EastAsia"
     },
     {
       "id": "po-014",
@@ -333,7 +381,11 @@
         "amarna",
         "revolução-religiosa",
         "faraó"
-      ]
+      ],
+      "type": "person",
+      "inicio": -1380,
+      "fim": -1336,
+      "region": "Africa"
     },
     {
       "id": "po-015",
@@ -358,7 +410,11 @@
         "poder",
         "apagamento",
         "comércio"
-      ]
+      ],
+      "type": "person",
+      "inicio": -1507,
+      "fim": -1458,
+      "region": "Africa"
     },
     {
       "id": "po-016",
@@ -386,7 +442,11 @@
         "satrapias",
         "maratona",
         "império"
-      ]
+      ],
+      "type": "person",
+      "inicio": -550,
+      "fim": -486,
+      "region": "MiddleEast"
     },
     {
       "id": "po-017",
@@ -412,7 +472,11 @@
         "ptolemaica",
         "conhecimento",
         "ciência"
-      ]
+      ],
+      "type": "person",
+      "inicio": -367,
+      "fim": -283,
+      "region": "Africa"
     },
     {
       "id": "po-018",
@@ -438,7 +502,11 @@
         "torá",
         "identidade",
         "religião"
-      ]
+      ],
+      "type": "person",
+      "inicio": -480,
+      "fim": -440,
+      "region": "MiddleEast"
     }
   ]
 }

@@ -1,0 +1,621 @@
+{
+  "titulo": "Líderes e Ativistas do Século XX",
+  "periodo": "1900–2000",
+  "descricao": "Figuras que moldaram o século XX através da política, ativismo e transformação social.",
+  "personagens": [
+    {
+      "id": "pxx-001",
+      "nome": "Nelson Mandela",
+      "nome_en": "Nelson Mandela",
+      "nome_es": "Nelson Mandela",
+      "nascimento": 1918,
+      "morte": 2013,
+      "inicio": 1918,
+      "fim": 2013,
+      "regiao": "Africa",
+      "region": "Africa",
+      "area": [
+        "política"
+      ],
+      "cargo": "Presidente da África do Sul",
+      "epoca": "Século XX–XXI",
+      "type": "person",
+      "descricao": "Líder do ANC (Congresso Nacional Africano), preso por 27 anos (1964–1990) na ilha de Robben por oposição ao apartheid. Ao sair, em vez de pregar vingança, liderou uma transição negociada para a democracia, tornando-se o primeiro presidente negro da África do Sul (1994–1999). Ganhou o Nobel da Paz com F.W. de Klerk em 1993.",
+      "importancia": "Mandela representou a possibilidade de uma transição da opressão para a democracia sem guerra civil — o que era considerado impossível. A Comissão da Verdade e Reconciliação que criou tornou-se modelo mundial. Sua escolha pela reconciliação em vez da vingança, após 27 anos de prisão, é um dos gestos políticos mais extraordinários do século XX.",
+      "eventos": [],
+      "tags": [
+        "africa-do-sul",
+        "apartheid",
+        "anc",
+        "democracia",
+        "reconciliação",
+        "nobel",
+        "prisão"
+      ]
+    },
+    {
+      "id": "pxx-002",
+      "nome": "Martin Luther King Jr.",
+      "nome_en": "Martin Luther King Jr.",
+      "nome_es": "Martin Luther King Jr.",
+      "nascimento": 1929,
+      "morte": 1968,
+      "inicio": 1929,
+      "fim": 1968,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política",
+        "religião"
+      ],
+      "cargo": "Pastor e Ativista",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Pastor batista negro americano que liderou o Movimento pelos Direitos Civis usando desobediência civil não-violenta inspirada em Gandhi. Seu discurso 'I Have a Dream' (1963) é um dos mais famosos da história. Recebeu o Nobel da Paz em 1964. Assassinado em Memphis em 1968, com 39 anos.",
+      "importancia": "MLK demonstrou que a não-violência não é passividade: é uma estratégia política sofisticada que força o oponente a se revelar. Cada vez que a polícia espancava manifestantes pacíficos na TV, ganhava votos para a legislação de direitos civis. Seus métodos — boycott, marcha, jail-in — são estudados em escolas de estratégia política em todo o mundo.",
+      "eventos": [],
+      "tags": [
+        "eua",
+        "direitos-civis",
+        "racismo",
+        "não-violência",
+        "gandhi",
+        "nobel",
+        "assassinato"
+      ]
+    },
+    {
+      "id": "pxx-003",
+      "nome": "Mahatma Gandhi",
+      "nome_en": "Mahatma Gandhi",
+      "nome_es": "Mahatma Gandhi",
+      "nascimento": 1869,
+      "morte": 1948,
+      "inicio": 1869,
+      "fim": 1948,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "política",
+        "filosofia"
+      ],
+      "cargo": "Líder da Independência Indiana",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Advogado indiano que desenvolveu a Satyagraha ('força da verdade') — uma forma de resistência não-violenta baseada na desobediência civil em massa. Liderou a independência da Índia do domínio britânico após 30 anos de campanhas. Foi assassinado em 1948 por um hindu radical que o via como demasiado conciliador com os muçulmanos.",
+      "importancia": "Gandhi provou que um povo desarmado pode vencer um império militar através de não-cooperação sistemática. Sua estratégia — tornar o custo da ocupação maior que o benefício — foi copiada por movimentos de libertação em todo o século XX. Paradoxo: o pacifista que obteve independência para o maior país do mundo criou o modelo que MLK, Mandela e outros seguiriam.",
+      "eventos": [],
+      "tags": [
+        "índia",
+        "independência",
+        "britânica",
+        "não-violência",
+        "satyagraha",
+        "partição",
+        "assassinato"
+      ]
+    },
+    {
+      "id": "pxx-004",
+      "nome": "Che Guevara",
+      "nome_en": "Che Guevara",
+      "nome_es": "Che Guevara",
+      "nascimento": 1928,
+      "morte": 1967,
+      "inicio": 1928,
+      "fim": 1967,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política",
+        "guerra"
+      ],
+      "cargo": "Revolucionário",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Médico argentino que se tornou líder guerrilheiro da Revolução Cubana ao lado de Fidel Castro (1956–1959). Depois deixou Cuba para levar a revolução a outros países — Congo (1965) e Bolívia (1966–67), onde foi capturado e executado pelo exército boliviano com apoio da CIA.",
+      "importancia": "Che tornou-se o ícone mais reproduzido do século XX — seu rosto está em mais camisetas que qualquer outro. Esse paradoxo — o revolucionário anti-capitalista como produto de consumo capitalista — resume as contradições de seu legado. Na prática: um homem que acreditava genuinamente na revolução e morreu por ela, mas cujos métodos incluíam execuções sumárias.",
+      "eventos": [],
+      "tags": [
+        "cuba",
+        "revolução",
+        "guerrilha",
+        "bolivia",
+        "castro",
+        "marxismo",
+        "cia"
+      ]
+    },
+    {
+      "id": "pxx-005",
+      "nome": "Mao Tsé-Tung",
+      "nome_en": "Mao Zedong",
+      "nome_es": "Mao Zedong",
+      "nascimento": 1893,
+      "morte": 1976,
+      "inicio": 1893,
+      "fim": 1976,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "política"
+      ],
+      "cargo": "Fundador da República Popular da China",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Líder do Partido Comunista Chinês que fundou a República Popular da China em 1949, após derrotar o governo nacionalista. Lançou o Grande Salto Adiante (1958–62) — que causou a maior fome da história, com 15–55 milhões de mortos — e a Revolução Cultural (1966–76), que destruiu intelectuais e patrimônio cultural.",
+      "importancia": "Mao é o governante que causou mais mortes na história, principalmente por políticas, não por guerra. Ao mesmo tempo, unificou a China, eliminou o feudalismo e construiu um Estado moderno. Seu legado é o grande debate da China contemporânea: o Partido Comunista avalia que foi '70% bom, 30% mau'. Historiadores independentes discordam profundamente dessa proporção.",
+      "eventos": [],
+      "tags": [
+        "china",
+        "comunismo",
+        "revolução",
+        "grande-salto",
+        "revolução-cultural",
+        "fome"
+      ]
+    },
+    {
+      "id": "pxx-006",
+      "nome": "Ho Chi Minh",
+      "nome_en": "Ho Chi Minh",
+      "nome_es": "Ho Chi Minh",
+      "nascimento": 1890,
+      "morte": 1969,
+      "inicio": 1890,
+      "fim": 1969,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "política"
+      ],
+      "cargo": "Fundador do Vietnã",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Líder revolucionário vietnamita que dirigiu o movimento de independência contra França e EUA. Fundou o Vietnã do Norte e liderou o Viet Cong na Guerra do Vietnã. Morreu em 1969, seis anos antes da reunificação do país. Leu a Declaração de Independência dos EUA para a multidão em Hanói em 1945.",
+      "importancia": "Ho Chi Minh venceu dois dos maiores poderes militares do século XX — França e EUA — usando guerra de guerrilha e determinação nacional. A Guerra do Vietnã demonstrou os limites do poder militar americano e mudou a geopolítica mundial. Seu uso da Declaração de Independência americana em 1945 foi um golpe de gênio político: tornou os EUA hipócritas em seus próprios termos.",
+      "eventos": [],
+      "tags": [
+        "vietnã",
+        "independência",
+        "guerra-do-vietnã",
+        "eua",
+        "comunismo",
+        "guerrilha",
+        "france"
+      ]
+    },
+    {
+      "id": "pxx-007",
+      "nome": "Fidel Castro",
+      "nome_en": "Fidel Castro",
+      "nome_es": "Fidel Castro",
+      "nascimento": 1926,
+      "morte": 2016,
+      "inicio": 1926,
+      "fim": 2016,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política"
+      ],
+      "cargo": "Presidente de Cuba",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Advogado cubano que liderou a Revolução Cubana (1959), derrubando Batista e estabelecendo o primeiro Estado socialista do hemisfério ocidental. Governou Cuba por 49 anos, resistindo a 638 tentativas de assassinato (segundo serviços cubanos) e ao embargo americano. A Crise dos Mísseis de 1962 quase provocou uma guerra nuclear.",
+      "importancia": "Castro demonstrou que pequenos países podem resistir à hegemonia americana — o custo foi 60 anos de embargo e estagnação econômica. Sua longevidade política (governou até 2008) foi tanto façanha quanto tragédia: preso num sistema que ele mesmo criou, incapaz de renovação. Cuba tem hoje uma das maiores taxas de médicos per capita do mundo e um dos PIBs mais baixos das Américas.",
+      "eventos": [],
+      "tags": [
+        "cuba",
+        "revolução",
+        "socialismo",
+        "eua",
+        "embargo",
+        "mísseis",
+        "castro"
+      ]
+    },
+    {
+      "id": "pxx-008",
+      "nome": "Mother Teresa",
+      "nome_en": "Mother Teresa",
+      "nome_es": "Madre Teresa",
+      "nascimento": 1910,
+      "morte": 1997,
+      "inicio": 1910,
+      "fim": 1997,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "religião",
+        "social"
+      ],
+      "cargo": "Missionária e Nobel",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Freira albanesa-indiana que fundou as Missionárias da Caridade em Calcutá (1950), cuidando de doentes e moribundos nas ruas. Recebeu o Nobel da Paz em 1979. Canonizada em 2016. Suas cartas privadas revelaram décadas de 'noite escura da alma' — ela confessou não sentir a presença de Deus por 50 anos enquanto servia os pobres.",
+      "importancia": "Mother Teresa é a figura mais polarizante do século XX: venerada como santa por uns, criticada por outros por aceitar doações de ditadores, por não usar anestesia nos doentes (o sofrimento aproximava de Cristo) e por converter moribundos. Sua 'noite escura' — servir sem fé, por puro dever — é paradoxalmente mais admirável que a sainthood convencional.",
+      "eventos": [],
+      "tags": [
+        "calcutá",
+        "índia",
+        "catolicismo",
+        "caridade",
+        "nobel",
+        "pobreza",
+        "missionária"
+      ]
+    },
+    {
+      "id": "pxx-009",
+      "nome": "Malala Yousafzai",
+      "nome_en": "Malala Yousafzai",
+      "nome_es": "Malala Yousafzai",
+      "nascimento": 1997,
+      "morte": null,
+      "inicio": 1997,
+      "fim": null,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "educação",
+        "política",
+        "social"
+      ],
+      "cargo": "Ativista",
+      "epoca": "Século XXI",
+      "type": "person",
+      "descricao": "Ativista paquistanesa pelos direitos à educação das meninas, baleada na cabeça pelo Talibã em 2012 aos 15 anos por escrever um blog sobre a vida sob a ocupação. Sobreviveu e tornou-se a mais jovem ganhadora do Nobel da Paz (2014), aos 17 anos. Fundou o Fundo Malala para apoiar a educação de meninas em todo o mundo.",
+      "importancia": "Malala representa a versão mais pura da luta pelos direitos fundamentais: uma menina que queria apenas ir à escola e quase morreu por isso. Sua frase — 'Um filho, um professor, um livro e uma caneta podem mudar o mundo' — resume uma crença que a história confirma: educação é o investimento de maior retorno em qualquer sociedade.",
+      "eventos": [],
+      "tags": [
+        "paquistão",
+        "educação",
+        "talibã",
+        "direitos-humanos",
+        "meninas",
+        "nobel",
+        "islã"
+      ]
+    },
+    {
+      "id": "pxx-010",
+      "nome": "Mikhail Gorbachev",
+      "nome_en": "Mikhail Gorbachev",
+      "nome_es": "Mikhail Gorbachev",
+      "nascimento": 1931,
+      "morte": 2022,
+      "inicio": 1931,
+      "fim": 2022,
+      "regiao": "Europe",
+      "region": "Europe",
+      "area": [
+        "política"
+      ],
+      "cargo": "Presidente da URSS",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Último líder da União Soviética, que lançou glasnost (abertura) e perestroika (reestruturação) tentando reformar o comunismo em vez de destruí-lo. Suas reformas desencadearam forças que não conseguiu controlar — a URSS se dissolveu em 1991. Recebeu o Nobel da Paz em 1990. É herói no Ocidente e vilão na Rússia.",
+      "importancia": "Gorbachev é o homem que tentou reformar um sistema irreformável — e ao tentar salvá-lo, o destruiu. Esse paradoxo levanta questão política fundamental: sistemas autoritários podem se liberalizar sem colapsar? A experiência soviética sugere que não. No Ocidente é celebrado pela democracia que inadvertidamente criou; na Rússia é responsabilizado pelo trauma do colapso.",
+      "eventos": [],
+      "tags": [
+        "urss",
+        "glasnost",
+        "perestroika",
+        "guerra-fria",
+        "democracia",
+        "nobel",
+        "rússia"
+      ]
+    },
+    {
+      "id": "pxx-011",
+      "nome": "Dag Hammarskjöld",
+      "nome_en": "Dag Hammarskjöld",
+      "nome_es": "Dag Hammarskjöld",
+      "nascimento": 1905,
+      "morte": 1961,
+      "inicio": 1905,
+      "fim": 1961,
+      "regiao": "Europe",
+      "region": "Europe",
+      "area": [
+        "diplomacia",
+        "política"
+      ],
+      "cargo": "Secretário-Geral da ONU",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Secretário-Geral da ONU de 1953 a 1961, considerado o mais eficaz da história. Criou as operações de paz da ONU, interviu na Crise do Suez e tentou resolver a crise congolesa — morrendo em um acidente de avião misterioso sobre a Rodésia do Norte. Recebeu o Nobel da Paz postumamente.",
+      "importancia": "Hammarskjöld transformou a ONU de fórum de debate em instrumento de ação — inventando o conceito de força de paz internacional. Seu diário espiritual 'Merkur' revelou um homem de profundidade interior surpreendente para um tecnocrata. Sua morte continua cercada de mistério: investigações sugerem que o avião foi abatido.",
+      "eventos": [],
+      "tags": [
+        "onu",
+        "diplomacia",
+        "paz",
+        "congo",
+        "crise-do-suez",
+        "nobel",
+        "guerra-fria"
+      ]
+    },
+    {
+      "id": "pxx-012",
+      "nome": "Wangari Maathai",
+      "nome_en": "Wangari Maathai",
+      "nome_es": "Wangari Maathai",
+      "nascimento": 1940,
+      "morte": 2011,
+      "inicio": 1940,
+      "fim": 2011,
+      "regiao": "Africa",
+      "region": "Africa",
+      "area": [
+        "meio-ambiente",
+        "política",
+        "social"
+      ],
+      "cargo": "Ativista e Nobel",
+      "epoca": "Século XX–XXI",
+      "type": "person",
+      "descricao": "Bióloga queniana que fundou o Movimento Cinturão Verde em 1977, mobilizando mulheres rurais a plantar 51 milhões de árvores em toda a África. Primeira mulher africana a ganhar o Nobel da Paz (2004). Foi presa, espancada e perseguida pelo regime de Daniel arap Moi por sua ativismo ambiental e democrático.",
+      "importancia": "Wangari Maathai conectou o que raramente se conecta: degradação ambiental, pobreza e autoritarismo são o mesmo problema visto de ângulos diferentes. Plantar árvores era ao mesmo tempo restaurar o solo, dar renda a mulheres pobres e desafiar um governo que dizia às mulheres para ficarem quietas. É o modelo de ativismo sistêmico.",
+      "eventos": [],
+      "tags": [
+        "quênia",
+        "meio-ambiente",
+        "reflorestamento",
+        "mulheres",
+        "africa",
+        "nobel",
+        "democracia"
+      ]
+    },
+    {
+      "id": "pxx-013",
+      "nome": "Deng Xiaoping",
+      "nome_en": "Deng Xiaoping",
+      "nome_es": "Deng Xiaoping",
+      "nascimento": 1904,
+      "morte": 1997,
+      "inicio": 1904,
+      "fim": 1997,
+      "regiao": "Asia",
+      "region": "Asia",
+      "area": [
+        "política",
+        "economia"
+      ],
+      "cargo": "Líder da China",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Líder do Partido Comunista Chinês que após a morte de Mao (1976) lançou as reformas que transformaram a China de economia planificada em potência capitalista de Estado. Criou as Zonas Econômicas Especiais, abriu a China ao investimento estrangeiro e lançou o crescimento que tirou 800 milhões de pessoas da pobreza. Também ordenou o massacre da Praça Tiananmen (1989).",
+      "importancia": "Deng Xiaoping realizou a maior redução de pobreza da história humana — mas à custa da democracia. Sua fórmula 'gato preto ou branco, desde que pegue ratos' — pragmatismo absoluto — transformou a China mas preservou o monopólio do Partido. Tiananmen mostrou o limite: prosperidade sim, liberdade política não. Essa barganha ainda define a China atual.",
+      "eventos": [],
+      "tags": [
+        "china",
+        "reforma-econômica",
+        "capitalismo",
+        "tiananmen",
+        "comunismo",
+        "modernização"
+      ]
+    },
+    {
+      "id": "pxx-014",
+      "nome": "Lech Wałęsa",
+      "nome_en": "Lech Wałęsa",
+      "nome_es": "Lech Wałęsa",
+      "nascimento": 1943,
+      "morte": null,
+      "inicio": 1943,
+      "fim": null,
+      "regiao": "Europe",
+      "region": "Europe",
+      "area": [
+        "política",
+        "trabalho"
+      ],
+      "cargo": "Líder Sindical e Presidente",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Eletricista do estaleiro de Gdańsk que co-fundou o Solidarność — o primeiro sindicato independente do bloco soviético (1980). Preso durante a lei marcial (1981), ganhou o Nobel da Paz em 1983 e se tornou presidente da Polônia (1990–1995) após a queda do comunismo. Símbolo da resistência pacífica à União Soviética.",
+      "importancia": "Wałęsa e o Solidarność demonstraram que a URSS era vulnerável onde menos se esperava: entre os trabalhadores industriais que o comunismo dizia representar. A greve nos estaleiros de Gdańsk em 1980 desencadeou uma crise que levaria 9 anos depois ao colapso do bloco soviético. Um eletricista mudou a geopolítica mundial.",
+      "eventos": [],
+      "tags": [
+        "polônia",
+        "solidarność",
+        "sindicalismo",
+        "urss",
+        "comunismo",
+        "nobel",
+        "democracia"
+      ]
+    },
+    {
+      "id": "pxx-015",
+      "nome": "Simone de Beauvoir",
+      "nome_en": "Simone de Beauvoir",
+      "nome_es": "Simone de Beauvoir",
+      "nascimento": 1908,
+      "morte": 1986,
+      "inicio": 1908,
+      "fim": 1986,
+      "regiao": "Europe",
+      "region": "Europe",
+      "area": [
+        "filosofia",
+        "literatura",
+        "política"
+      ],
+      "cargo": "Filósofa e Escritora",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Filósofa existencialista francesa, autora de 'O Segundo Sexo' (1949) — o texto fundador do feminismo moderno. Sua frase 'Não se nasce mulher, torna-se mulher' é a síntese mais poderosa da ideia de que gênero é construção social, não destino biológico. Companheira de Sartre por 51 anos, recusou o casamento por princípio.",
+      "importancia": "'O Segundo Sexo' é o livro que inventou o feminismo de segunda onda. A análise de Beauvoir — que a 'feminilidade' é um papel imposto, não uma natureza — abriu caminho para Betty Friedan, Gloria Steinem e todas as feministas dos anos 60–70. Seu existencialismo aplicado ao gênero foi simples e devastador: se a existência precede a essência, ninguém nasce para nada.",
+      "eventos": [],
+      "tags": [
+        "filosofia",
+        "feminismo",
+        "existencialismo",
+        "sartre",
+        "paris",
+        "escrita",
+        "gênero"
+      ]
+    },
+    {
+      "id": "pxx-016",
+      "nome": "Salvador Allende",
+      "nome_en": "Salvador Allende",
+      "nome_es": "Salvador Allende",
+      "nascimento": 1908,
+      "morte": 1973,
+      "inicio": 1908,
+      "fim": 1973,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política"
+      ],
+      "cargo": "Presidente do Chile",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Primeiro presidente marxista eleito democraticamente no mundo, assumiu o Chile em 1970 e tentou construir o socialismo pela via eleitoral. Deposto pelo golpe militar de Pinochet (apoiado pela CIA) em 11 de setembro de 1973. Morreu durante o bombardeio do Palácio de La Moneda — suicídio ou assassinato permanece debatido.",
+      "importancia": "Allende colocou em teste a questão central do século XX: é possível chegar ao socialismo por meios democráticos? A resposta de Washington foi o golpe: nenhum experimento socialista seria tolerado no 'quintal' americano, independente de ser democrático. Seu caso moldou décadas de política latino-americana — e a paranoia americana sobre qualquer governo de esquerda.",
+      "eventos": [],
+      "tags": [
+        "chile",
+        "socialismo",
+        "democracia",
+        "pinochet",
+        "cia",
+        "golpe",
+        "america-latina"
+      ]
+    },
+    {
+      "id": "pxx-017",
+      "nome": "Patrice Lumumba",
+      "nome_en": "Patrice Lumumba",
+      "nome_es": "Patrice Lumumba",
+      "nascimento": 1925,
+      "morte": 1961,
+      "inicio": 1925,
+      "fim": 1961,
+      "regiao": "Africa",
+      "region": "Africa",
+      "area": [
+        "política"
+      ],
+      "cargo": "Primeiro Ministro do Congo",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Primeiro-ministro eleito do Congo Belga independente (1960), Lumumba tentou construir um Estado soberano e não-alinhado. Foi deposto em três meses por um golpe apoiado por Bélgica e CIA, preso e executado com 35 anos. Sua morte foi encomendada pelas potências ocidentais que temiam sua aproximação à URSS.",
+      "importancia": "Lumumba é o símbolo da descolonização traída: um país que conquistou independência formal mas não soberania real. Sua execução — planejada em reuniões documentadas da CIA e do governo belga — mostra que a Guerra Fria foi travada no sangue dos africanos. A instabilidade do Congo durante 60 anos tem raízes diretamente no golpe de 1960.",
+      "eventos": [],
+      "tags": [
+        "congo",
+        "independência",
+        "colonialismo",
+        "bélgica",
+        "cia",
+        "africa",
+        "assassinato"
+      ]
+    },
+    {
+      "id": "pxx-018",
+      "nome": "Angela Davis",
+      "nome_en": "Angela Davis",
+      "nome_es": "Angela Davis",
+      "nascimento": 1944,
+      "morte": null,
+      "inicio": 1944,
+      "fim": null,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política",
+        "filosofia",
+        "social"
+      ],
+      "cargo": "Ativista e Filósofa",
+      "epoca": "Século XX–XXI",
+      "type": "person",
+      "descricao": "Filósofa e ativista americana dos Panteras Negras, colocada na lista dos mais procurados do FBI em 1970 após armas registradas em seu nome serem usadas num sequestro. Absolvida em 1972. Professora universitária que desenvolveu teorias sobre o complexo prisional industrial e interseccionalidade de raça, gênero e classe.",
+      "importancia": "Angela Davis articulou que a prisão nos EUA é continuação da escravidão por outros meios — a escravidão foi abolida exceto como punição por crime, e os EUA encarcerou desproporcionalmente negros. Sua análise do 'complexo prisional-industrial' moldou o movimento contemporâneo por abolição do cárcere. Continua ativa e relevante aos 80 anos.",
+      "eventos": [],
+      "tags": [
+        "eua",
+        "direitos-civis",
+        "panteras-negras",
+        "prisão",
+        "interseccionalidade",
+        "marxismo",
+        "fbi"
+      ]
+    },
+    {
+      "id": "pxx-019",
+      "nome": "Yasser Arafat",
+      "nome_en": "Yasser Arafat",
+      "nome_es": "Yasser Arafat",
+      "nascimento": 1929,
+      "morte": 2004,
+      "inicio": 1929,
+      "fim": 2004,
+      "regiao": "Middle East",
+      "region": "Middle East",
+      "area": [
+        "política",
+        "guerra"
+      ],
+      "cargo": "Líder Palestino",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Co-fundador da Fatah e chairman da OLP (Organização para a Libertação da Palestina) por décadas. Passou da guerrilha ao reconhecimento internacional, assinando os Acordos de Oslo (1993) com Rabin e ganhando o Nobel da Paz. Morreu em 2004 em circunstâncias suspeitas — análises posteriores encontraram polônio em suas roupas.",
+      "importancia": "Arafat representa a impossibilidade de uma liderança perfeita em uma situação impossível: o Palestino é sempre muito radical para os israelenses e muito moderado para seus radicais. Os Acordos de Oslo eram o máximo que conseguia arrancar de Israel — e não foram suficientes. Morreu sem Estado e sem paz, e a questão palestina permanece o maior problema irresolvido do Oriente Médio.",
+      "eventos": [],
+      "tags": [
+        "palestina",
+        "israel",
+        "oslo",
+        "onu",
+        "guerrilha",
+        "nobel",
+        "oriente-médio"
+      ]
+    },
+    {
+      "id": "pxx-020",
+      "nome": "Steve Biko",
+      "nome_en": "Steve Biko",
+      "nome_es": "Steve Biko",
+      "nascimento": 1946,
+      "morte": 1977,
+      "inicio": 1946,
+      "fim": 1977,
+      "regiao": "Africa",
+      "region": "Africa",
+      "area": [
+        "política",
+        "filosofia"
+      ],
+      "cargo": "Ativista Anti-Apartheid",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Fundador do movimento de Consciência Negra na África do Sul, que rejeitou a dependência da liderança branca liberal no combate ao apartheid. Argumentava que a libertação começa na mente: enquanto negros internalizarem a inferioridade, serão cúmplices de sua própria opressão. Foi assassinado pela polícia do apartheid com 30 anos.",
+      "importancia": "Biko introduziu na luta sul-africana a ideia de que a opressão não é apenas material mas psicológica — e que a libertação começa quando o oprimido para de pedir permissão ao opressor. Sua morte despertou indignação internacional contra o apartheid. A frase que melhor resume seu pensamento: 'A ferramenta mais poderosa nas mãos do opressor é a mente do oprimido'.",
+      "eventos": [],
+      "tags": [
+        "africa-do-sul",
+        "apartheid",
+        "consciência-negra",
+        "filosofia",
+        "assassinato",
+        "libertação"
+      ]
+    }
+  ]
+}

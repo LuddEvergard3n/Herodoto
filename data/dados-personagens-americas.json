@@ -24,7 +24,11 @@
         "libertador",
         "grande-colombia",
         "tragédia"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1783,
+      "fim": 1830,
+      "region": "Americas"
     },
     {
       "id": "pam-002",
@@ -52,7 +56,11 @@
         "pachamama",
         "tawantinsuyu",
         "mito-fundador"
-      ]
+      ],
+      "type": "person",
+      "region": "Americas",
+      "inicio": -3000,
+      "fim": null
     },
     {
       "id": "pam-003",
@@ -79,7 +87,11 @@
         "cortés",
         "méxico",
         "quetzalcóatl"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1466,
+      "fim": 1520,
+      "region": "Americas"
     },
     {
       "id": "pam-004",
@@ -105,7 +117,11 @@
         "colonial",
         "inca",
         "rebelião"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1738,
+      "fim": 1781,
+      "region": "Americas"
     },
     {
       "id": "pam-005",
@@ -131,7 +147,11 @@
         "resistência",
         "palmares",
         "consciência-negra"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1655,
+      "fim": 1695,
+      "region": "Americas"
     },
     {
       "id": "pam-006",
@@ -157,7 +177,11 @@
         "ciência",
         "pedro-II",
         "monarquia"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1825,
+      "fim": 1891,
+      "region": "Americas"
     },
     {
       "id": "pam-007",
@@ -183,7 +207,11 @@
         "auto-retrato",
         "indigenismo",
         "marxismo"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1907,
+      "fim": 1954,
+      "region": "Americas"
     },
     {
       "id": "pam-008",
@@ -209,7 +237,11 @@
         "argentina",
         "foquismo",
         "ícone"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1928,
+      "fim": 1967,
+      "region": "Americas"
     },
     {
       "id": "pam-009",
@@ -237,7 +269,11 @@
         "espanha",
         "abolição",
         "americas"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1484,
+      "fim": 1566,
+      "region": "Americas"
     },
     {
       "id": "pam-011",
@@ -264,7 +300,11 @@
         "napoleão",
         "independência",
         "negro"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1743,
+      "fim": 1803,
+      "region": "Americas"
     },
     {
       "id": "pam-012",
@@ -291,10 +331,14 @@
         "independência",
         "juárez",
         "liberdade"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1806,
+      "fim": 1872,
+      "region": "Americas"
     },
     {
-      "id": "pam-013",
+      "id": "pa780",
       "nome": "Harriet Tubman",
       "nome_en": "Harriet Tubman",
       "nome_es": "Harriet Tubman",
@@ -319,6 +363,304 @@
         "mulher",
         "negro",
         "tubman"
+      ],
+      "type": "person",
+      "inicio": 1822,
+      "fim": 1913,
+      "region": "Americas"
+    },
+    {
+      "id": "pa989",
+      "nome": "Moctezuma II",
+      "nome_en": "Moctezuma II",
+      "nome_es": "Moctezuma II",
+      "nascimento": 1466,
+      "morte": 1520,
+      "inicio": 1466,
+      "fim": 1520,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política",
+        "guerra"
+      ],
+      "cargo": "Imperador Asteca",
+      "epoca": "Expansão e Contato",
+      "type": "person",
+      "descricao": "Nono tlatoani (governante) do Império Asteca no momento da chegada de Hernán Cortés. Recebeu os espanhóis com presentes e cerimônias — possivelmente confundindo Cortés com o deus Quetzalcóatl —, mas foi feito refém e morreu em circunstâncias obscuras (espanhóis dizem lapidação pelos próprios astecas; fontes astecas dizem assassinato pelos espanhóis).",
+      "importancia": "A queda de Moctezuma II em 1520 marca um dos pontos de inflexão mais dramáticos da história: o fim de um império de 5 milhões de pessoas em menos de dois anos. Seu dilema — resistir ou cooperar — definiu o colapso asteca e continua a debater-se: foi fraqueza, estratégia, ou simplesmente o peso esmagador das circunstâncias?",
+      "eventos": [],
+      "tags": [
+        "astecas",
+        "tenochtitlan",
+        "cortés",
+        "conquista",
+        "mesoamérica"
+      ]
+    },
+    {
+      "id": "pam-014",
+      "nome": "Simón Bolívar",
+      "nome_en": "Simón Bolívar",
+      "nome_es": "Simón Bolívar",
+      "nascimento": 1783,
+      "morte": 1830,
+      "inicio": 1783,
+      "fim": 1830,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política",
+        "guerra"
+      ],
+      "cargo": "Libertador",
+      "epoca": "Independências Latino-Americanas",
+      "type": "person",
+      "descricao": "Militar e político venezuelano que liderou a independência de seis países sul-americanos: Venezuela, Colômbia, Equador, Peru, Bolívia e Panamá. Chamado 'O Libertador', sonhava com uma grande federação sul-americana — a Gran Colombia — que se fragmentou ainda em vida.",
+      "importancia": "Bolívar encarnou a contradição fundamental do liberalismo latino-americano: lutou pela liberdade mas governou como ditador. Seu fracasso em unir a América do Sul moldou a fragmentação política do continente até hoje — cada república ex-bolivariana ainda carrega as cicatrizes de suas guerras civis pós-independência.",
+      "eventos": [],
+      "tags": [
+        "independência",
+        "venezuela",
+        "gran-colombia",
+        "libertador",
+        "napoleão"
+      ]
+    },
+    {
+      "id": "pam-015",
+      "nome": "Frederick Douglass",
+      "nome_en": "Frederick Douglass",
+      "nome_es": "Frederick Douglass",
+      "nascimento": 1818,
+      "morte": 1895,
+      "inicio": 1818,
+      "fim": 1895,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política",
+        "literatura"
+      ],
+      "cargo": "Abolicionista e Escritor",
+      "epoca": "Século XIX",
+      "type": "person",
+      "descricao": "Nascido escravo no Maryland, aprendeu a ler às escondidas — o que seu dono considerava subversivo — e fugiu aos 20 anos. Tornou-se o orador abolicionista mais eloquente dos EUA, escrevendo três autobiografias que desmontavam o mito da escravidão benigna. Conselheiro de Abraham Lincoln.",
+      "importancia": "O discurso de Douglass de 4 de julho de 1852 — 'O que é o 4 de julho para o escravo?' — permanece um dos textos mais poderosos da literatura americana. Ele demonstrou que a escravidão era incompatível com os ideais fundadores da república, forçando os americanos a escolher entre seus valores declarados e sua economia real.",
+      "eventos": [],
+      "tags": [
+        "abolicionismo",
+        "escravidão",
+        "eua",
+        "lincoln",
+        "autobiografia"
+      ]
+    },
+    {
+      "id": "pam-016",
+      "nome": "Sor Juana Inés de la Cruz",
+      "nome_en": "Sor Juana Inés de la Cruz",
+      "nome_es": "Sor Juana Inés de la Cruz",
+      "nascimento": 1651,
+      "morte": 1695,
+      "inicio": 1651,
+      "fim": 1695,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "literatura",
+        "filosofia"
+      ],
+      "cargo": "Poetisa e Filósofa",
+      "epoca": "Era Colonial",
+      "type": "person",
+      "descricao": "Freira mexicana do século XVII considerada a primeira escritora importante das Américas e pioneira do feminismo. Autodidata que aprendeu latim, matemática e ciência numa época em que isso era vedado às mulheres. Foi pressionada pela Igreja a abandonar seus escritos e estudos.",
+      "importancia": "Sor Juana antecipou em 200 anos debates sobre o direito das mulheres à educação e ao conhecimento. Sua 'Respuesta a Sor Filotea' (1691) é um dos primeiros manifestos feministas da história: defendia que as mulheres tinham não apenas o direito mas o dever de aprender. Sofreu por isso — foi forçada a silenciar-se nos últimos anos de vida.",
+      "eventos": [],
+      "tags": [
+        "méxico",
+        "feminismo",
+        "colonial",
+        "poesia",
+        "barroco",
+        "religião"
+      ]
+    },
+    {
+      "id": "pam-017",
+      "nome": "Tupac Amaru II",
+      "nome_en": "Túpac Amaru II",
+      "nome_es": "Túpac Amaru II",
+      "nascimento": 1738,
+      "morte": 1781,
+      "inicio": 1738,
+      "fim": 1781,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política",
+        "guerra"
+      ],
+      "cargo": "Líder Indígena",
+      "epoca": "Era Colonial",
+      "type": "person",
+      "descricao": "José Gabriel Condorcanqui, descendente do último Inca, liderou a maior revolta indígena do Peru colonial (1780–1781), mobilizando 60.000 pessoas contra o domínio espanhol. Capturado, foi executado de forma brutal: os espanhóis tentaram esquartejá-lo com quatro cavalos — seu corpo recusou-se a ceder.",
+      "importancia": "A rebelião de Túpac Amaru II assustou tanto Madrid que precipitou reformas do Império Espanhol e inspirou movimentos de independência. Seu nome continua símbolo de resistência indígena: foi adotado pelo movimento guerrilheiro peruano MRTA no século XX e pelo rapper Tupac Shakur, que o recebeu da mãe ativista.",
+      "eventos": [],
+      "tags": [
+        "peru",
+        "inca",
+        "revolta",
+        "colonial",
+        "espanha",
+        "indígenas"
+      ]
+    },
+    {
+      "id": "pam-018",
+      "nome": "Geronimo",
+      "nome_en": "Geronimo",
+      "nome_es": "Gerónimo",
+      "nascimento": 1829,
+      "morte": 1909,
+      "inicio": 1829,
+      "fim": 1909,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "guerra",
+        "política"
+      ],
+      "cargo": "Líder Guerreiro Apache",
+      "epoca": "Século XIX",
+      "type": "person",
+      "descricao": "Guerreiro e xamã Apache Chiricahua que resistiu por décadas à expansão americana e mexicana no sudoeste dos EUA. Após ver sua família massacrada por soldados mexicanos em 1858, tornou-se o símbolo da resistência nativa americana. Rendeu-se em 1886 — o último líder indígena a fazê-lo — mas nunca voltou às suas terras.",
+      "importancia": "A história de Geronimo concentra a tragédia das guerras indígenas: um homem transformado em guerreiro implacável pela violência sofrida, que lutou por décadas contra dois exércitos nacionais com algumas dezenas de guerreiros. Terminou seus dias em cativeiro, exibido como curiosidade em feiras, escrevendo suas memórias para a posteridade.",
+      "eventos": [],
+      "tags": [
+        "apache",
+        "eua",
+        "resistência",
+        "guerreiro",
+        "nativo-americano"
+      ]
+    },
+    {
+      "id": "pam-019",
+      "nome": "Hatuey",
+      "nome_en": "Hatuey",
+      "nome_es": "Hatuey",
+      "nascimento": 1470,
+      "morte": 1512,
+      "inicio": 1470,
+      "fim": 1512,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "guerra",
+        "política"
+      ],
+      "cargo": "Cacique Taíno",
+      "epoca": "Era Colonial",
+      "type": "person",
+      "descricao": "Cacique taíno de Hispaniola que fugiu para Cuba alertando os nativos sobre os espanhóis: 'Este é o deus que adoram' — apontando para uma cesta de ouro. Liderou a primeira resistência armada às colonizações nas Américas. Capturado, foi queimado vivo. Ao ser oferecido o batismo para 'ir ao paraíso', perguntou se haveria espanhóis lá — e recusou.",
+      "importancia": "Hatuey é o primeiro resistente anti-colonial nomeado das Américas. Sua pergunta final — 'se os espanhóis vão para o paraíso, prefiro o inferno' — condensa com ironia brutal a experiência da conquista. Cuba o adotou como herói nacional, e sua história é contada como a primeira guerrilha das Américas.",
+      "eventos": [],
+      "tags": [
+        "taíno",
+        "cuba",
+        "caribe",
+        "conquista",
+        "resistência",
+        "colonial"
+      ]
+    },
+    {
+      "id": "pam-020",
+      "nome": "Harriet Beecher Stowe",
+      "nome_en": "Harriet Beecher Stowe",
+      "nome_es": "Harriet Beecher Stowe",
+      "nascimento": 1811,
+      "morte": 1896,
+      "inicio": 1811,
+      "fim": 1896,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "literatura",
+        "política"
+      ],
+      "cargo": "Escritora e Abolicionista",
+      "epoca": "Século XIX",
+      "type": "person",
+      "descricao": "Escritora americana cujo romance 'A Cabana do Pai Tomás' (1852) vendeu 300.000 cópias no primeiro ano — o segundo livro mais vendido do século XIX, depois da Bíblia. Quando Lincoln a conheceu em 1862, teria dito: 'Então é a senhora a mulherzinha que escreveu o livro que causou esta grande guerra'.",
+      "importancia": "'A Cabana do Pai Tomás' transformou a escravidão de questão política em tragédia humana para milhões de leitores que nunca tinham visto um escravo. Demonstra o poder da ficção como ferramenta política: um romance pode mudar mais opiniões que mil panfletos. A crítica posterior ao 'paternalismo' do livro também revela como o abolicionismo branco tinha seus próprios limites.",
+      "eventos": [],
+      "tags": [
+        "abolicionismo",
+        "eua",
+        "literatura",
+        "guerra-civil",
+        "escravidão"
+      ]
+    },
+    {
+      "id": "pam-021",
+      "nome": "Emiliano Zapata",
+      "nome_en": "Emiliano Zapata",
+      "nome_es": "Emiliano Zapata",
+      "nascimento": 1879,
+      "morte": 1919,
+      "inicio": 1879,
+      "fim": 1919,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política",
+        "guerra"
+      ],
+      "cargo": "Líder Revolucionário",
+      "epoca": "Século XX",
+      "type": "person",
+      "descricao": "Líder camponês do estado de Morelos que se tornou o símbolo da Revolução Mexicana (1910–1920). Seu lema 'Tierra y Libertad' (Terra e Liberdade) expressava a demanda central dos camponeses sem terra. Foi traído e assassinado em 1919 — mas sua imagem sobreviveu como símbolo de resistência agrária.",
+      "importancia": "Zapata representa o momento em que camponeses anônimos entram na história como sujeitos, não objetos. Seu 'Plan de Ayala' (1911) antecipou reformas agrárias que só chegariam décadas depois. O zapatismo ressurgiu em 1994, quando o EZLN escolheu seu nome para o levante indígena de Chiapas — prova de que as demandas de 1910 ainda estavam por resolver.",
+      "eventos": [],
+      "tags": [
+        "méxico",
+        "revolução",
+        "reforma-agrária",
+        "camponeses",
+        "terra"
+      ]
+    },
+    {
+      "id": "pam-022",
+      "nome": "Inca Pachacutec",
+      "nome_en": "Pachacutec",
+      "nome_es": "Pachacútec",
+      "nascimento": 1418,
+      "morte": 1471,
+      "inicio": 1418,
+      "fim": 1471,
+      "regiao": "Americas",
+      "region": "Americas",
+      "area": [
+        "política",
+        "construção"
+      ],
+      "cargo": "Imperador Inca",
+      "epoca": "Antiguidade Americana",
+      "type": "person",
+      "descricao": "Nono Sapa Inca, considerado o verdadeiro fundador do Império Inca (Tawantinsuyu). Transformou um pequeno reino regional em um dos maiores impérios do mundo pré-colombiano, conquistando territórios do Equador ao Chile. Mandou construir Machu Picchu e Sacsayhuamán. Seu nome significa 'aquele que transforma o mundo'.",
+      "importancia": "Pachacutec construiu em 35 anos um império de 12 milhões de pessoas sem escrita, sem roda e sem cavalos — apenas engenharia, organização e um sistema de estradas de 40.000 km. Machu Picchu, sua propriedade pessoal, é hoje o símbolo de uma civilização que os espanhóis destruíram em menos de uma geração. O que mais essa civilização teria alcançado?",
+      "eventos": [],
+      "tags": [
+        "inca",
+        "peru",
+        "machu-picchu",
+        "tawantinsuyu",
+        "arquitetura",
+        "andino"
       ]
     }
   ]

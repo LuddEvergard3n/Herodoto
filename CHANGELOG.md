@@ -1,30 +1,83 @@
 # CHANGELOG — Heródoto
 *anteriormente Órion · Grafo de Conhecimento Histórico e Linha do Tempo Interativa*
 
+
+
 ---
 
-## v7.22 — Auditoria Completa: Bugs e Duplicatas
+## v7.25 — Auditoria de Tipos, +65 Personagens, +13 Perguntas Geradoras
 
-**Bug crítico — Timeline parada**
-- `openTimeline()` usava `await loadAllData()` mas não era declarada como `async` → erro silencioso, timeline não carregava nenhum dado
-- Corrigido: `function openTimeline()` → `async function openTimeline()`
+**Correção de tipos**
+- 18 entidades com `type: 'military'` (tipo inválido) corrigidas para `type: 'war'`
+- 221 personagens sem campo `type` agora têm `type: 'person'` — passam a aparecer na timeline
+- Adicionados campos `inicio`, `fim` e `region` a todos os personagens (necessários para renderização na timeline)
+- Resultado: 0 entidades sem tipo em 1751 entidades totais
 
-**43 datasets ausentes do ALL_DATASETS em timeline.js**
-- Todos os 16 períodos do Brasil (`dados-brasil-01` a `dados-brasil-16`) não estavam listados
-- Todos os 12 arquivos de personalidades não estavam listados
-- 15 outros datasets válidos (Al-Andalus, Caral, EUA completo, Japão arcaico, etc.) também ausentes
-- Todos adicionados com agrupamento comentado por categoria
+**Novos personagens (+65, total: 286)**
+- `dados-personagens-mulheres.json` (novo, 20): Cleópatra VII, Hildegarda de Bingen, Wu Zetian, Rosa Parks, Enheduanna, Ada Lovelace, Nzinga de Angola, Marie Curie, Indira Gandhi, Mary Wollstonecraft, Boudicca, Yaa Asantewaa, Hatshepsut, Sojourner Truth, Aung San Suu Kyi, Hypatia, Lakshmibai, Harriet Tubman, Valentina Tereshkova, Eleanor Roosevelt
+- `dados-personagens-filosofia-oriental.json` (novo, 15): Confúcio, Buda, Laozi, Nagarjuna, Averróis, Zhuangzi, Al-Ghazali, Mencius, Shankara, Rumi, Mozi, Nalanda, Kanishka I, Fazang, Xuanzang
+- `dados-personagens-seculo-xx.json` (novo, 20): Mandela, MLK, Gandhi, Che Guevara, Mao, Ho Chi Minh, Castro, Mother Teresa, Malala, Gorbachev, Hammarskjöld, Wangari Maathai, Deng Xiaoping, Wałęsa, Simone de Beauvoir, Allende, Lumumba, Angela Davis, Arafat, Steve Biko
+- `dados-personagens-americas.json` (+10): Moctezuma II, Bolívar, Frederick Douglass, Sor Juana, Túpac Amaru II, Geronimo, Hatuey, H. Beecher Stowe, Zapata, Pachacutec
 
-**76 IDs duplicados em 12 arquivos de dados**
-- `and-*` — `dados-al-andalus.json` e `dados-andes.json` → al-andalus reprefix para `aland-`
-- `bim-*` — `dados-brasil-imperio.json` e `dados-brasil-inconfidencia.json` → inconfidência para `binc-`
-- `ca-*` — caral-andino, caral-culturas e coreia-antiga → `caa-`, `cac-`, `cora-`
-- `cm-*` — china-ming e coreia-moderna → coreia-moderna para `corm-`
-- `gf-*` — eua-guerra-fria, grecia-filosofia e guerra-fria → `euagf-`, `grf-`
-- `mc-*` — maya-ciencia e mesopotamia-classica → `mayc-`, `mesoc-`
-- `pam-*` — personagens-americas e pre-historia-americas → pre-historia para `pham-`
-- `sac-*` — sudeste-colonial e sudeste-continental → `sacol-`, `sudcon-`
-- Resultado final: **0 IDs duplicados** em 251 arquivos, 1635 entidades
+**Novas perguntas geradoras (+13, total: 106)**
+- Grupo: Mulheres na História (3 perguntas)
+- Grupo: Filosofia Oriental e Sabedoria Asiática (3 perguntas)
+- Grupo: Século XX — Poder e Resistência (4 perguntas)
+- Grupo: América Latina — Conquista, Resistência e Revolução (3 perguntas)
+
+**IDs duplicados**
+- 22 IDs duplicados detectados e corrigidos — resultado final: 0 duplicatas
+
+---
+---
+
+## v7.24 — Timeline: Navegação e Visualização Melhoradas
+
+**Zoom**
+- Scroll Ctrl+roda: fator 1.22 → 1.07 por tick (suave, não salta)
+- Botões +/−: fator 1.65 → 1.40 por clique
+- Limites: min 0.35× / max 25× (antes 0.08–40×)
+
+**Canvas e enquadramento inicial**
+- `computeBaseCW` reescrito: `sc=1` agora mostra a era completa confortavelmente (88% do viewport cobre o intervalo da era); antes mostrava só 28% da era no estado inicial
+- `clampTx` com 80px de padding à direita — último evento nunca mais cortado
+
+**Lanes**
+- `MAX_LANES = 14`: limite de linhas por região; eventos excedentes sobrepõem em vez de multiplicar lanes infinitamente
+
+**Indicadores de overflow**
+- Fade suave na borda esquerda: indica que eventos começam antes da era visível
+- Fade suave na borda direita: indica que há conteúdo além da tela
+
+---
+---
+
+## v7.23 — Scroll da Timeline Corrigido
+
+**Navegação por scroll**
+- Scroll vertical (sem modificador) → rola as linhas/regiões da timeline para cima e para baixo
+- Ctrl+Scroll (ou Cmd+Scroll no Mac) → zoom in/out no eixo temporal
+- Shift+Scroll → pan horizontal (alternativa ao arrasto)
+- Scroll horizontal (trackpad swipe) → pan horizontal nativo
+- Evento attached ao painel inteiro (`tl-panel`), não só ao SVG — funciona em qualquer área da timeline
+
+**Hint de instrução atualizado** (PT/EN/ES) para refletir os novos controles
+
+---
+
+## v7.22 — Auditoria Completa: Bugs, Duplicatas e Cache
+
+**Bug crítico — Timeline parada (sintaxe)**
+- `ALL_DATASETS` reconstruído do zero com sintaxe limpa: vírgulas corretas entre todas as 255 entradas, agrupadas por região com comentários
+- `async async function openTimeline()` corrigido para `async function openTimeline()` (duplo async quebrava todo o módulo ES6)
+- Service worker `sw.js`: versão do cache bumped de `herodoto-v7-1` → `herodoto-v7-22` para forçar invalidação em clientes com versão quebrada cacheada
+
+**43 datasets ausentes do ALL_DATASETS**
+- Todos os 16 períodos do Brasil, 12 arquivos de personalidades e 15 outros datasets adicionados à timeline
+
+**76 IDs duplicados em 12 arquivos corrigidos**
+- Prefixos únicos aplicados: `aland-`, `binc-`, `caa-`, `cac-`, `cora-`, `corm-`, `euagf-`, `grf-`, `mayc-`, `mesoc-`, `pham-`, `sacol-`, `sudcon-`
+- Resultado: **0 IDs duplicados** em 251 arquivos, 1635 entidades
 
 ---
 

@@ -24,7 +24,11 @@
         "beagle",
         "ciência",
         "galápagos"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1809,
+      "fim": 1882,
+      "region": "Europe"
     },
     {
       "id": "pxix-002",
@@ -51,7 +55,11 @@
         "mais-valia",
         "comunismo",
         "filosofia"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1818,
+      "fim": 1883,
+      "region": "Europe"
     },
     {
       "id": "pxix-003",
@@ -76,7 +84,11 @@
         "deus-está-morto",
         "além-do-homem",
         "existencialismo"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1844,
+      "fim": 1900,
+      "region": "Europe"
     },
     {
       "id": "pxix-004",
@@ -102,7 +114,11 @@
         "Viena",
         "psicologia",
         "Édipo"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1856,
+      "fim": 1939,
+      "region": "Europe"
     },
     {
       "id": "pxix-005",
@@ -127,7 +143,11 @@
         "emancipação",
         "democracia",
         "assassinato"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1809,
+      "fim": 1865,
+      "region": "Americas"
     },
     {
       "id": "pxix-006",
@@ -153,7 +173,11 @@
         "social",
         "exílio",
         "miseráveis"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1802,
+      "fim": 1885,
+      "region": "Europe"
     },
     {
       "id": "pxix-007",
@@ -178,7 +202,11 @@
         "bem-estar-social",
         "Prússia",
         "diplomacia"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1815,
+      "fim": 1898,
+      "region": "Europe"
     },
     {
       "id": "pxix-008",
@@ -204,7 +232,11 @@
         "saúde-pública",
         "crimeia",
         "dados"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1820,
+      "fim": 1910,
+      "region": "Europe"
     },
     {
       "id": "pxix-010",
@@ -232,7 +264,11 @@
         "energia",
         "Escócia",
         "invenção"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1736,
+      "fim": 1819,
+      "region": "Europe"
     },
     {
       "id": "pxix-015",
@@ -258,7 +294,11 @@
         "anarquismo",
         "gandhi",
         "tolstói"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1828,
+      "fim": 1910,
+      "region": "Europe"
     },
     {
       "id": "pxix-016",
@@ -286,7 +326,212 @@
         "ativismo",
         "oratória",
         "negro"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1818,
+      "fim": 1895,
+      "region": "Americas"
+    },
+    {
+      "id": "psx-012",
+      "nome": "Frederick Douglass",
+      "nome_en": "Frederick Douglass",
+      "nome_es": "Frederick Douglass",
+      "nascimento": 1818,
+      "morte": 1895,
+      "regiao": "Americas",
+      "area": [
+        "ativismo",
+        "literatura"
+      ],
+      "cargo": "Abolicionista e Escritor",
+      "epoca": "Séc. XIX",
+      "descricao": "Nasceu escravo em Maryland, aprendeu a ler em segredo, fugiu aos 20 anos. Tornou-se o abolicionista mais eloquente dos EUA, viajou pela Europa, comprou sua própria liberdade. Sua autobiografia Narrative of the Life (1845) vendeu 11.000 cópias em 3 anos e provou que um homem escravizado podia ser intelectualmente superior a seus 'donos'.",
+      "importancia": "Douglass destruiu o argumento paternalista da escravidão — que africanos eram incapazes de se governar — ao simplesmente existir, escrever e falar com erudição devastadora. Sua celebrada pergunta 'O que é o 4 de Julho para o escravo americano?' (1852) permanece um dos textos mais poderosos da história americana.",
+      "eventos": [],
+      "tags": [
+        "abolicionismo",
+        "escravidão",
+        "EUA",
+        "literatura",
+        "direitos civis"
+      ],
+      "type": "person",
+      "inicio": 1818,
+      "fim": 1895,
+      "region": "Americas"
+    },
+    {
+      "id": "psx-013",
+      "nome": "Giuseppe Garibaldi",
+      "nome_en": "Giuseppe Garibaldi",
+      "nome_es": "Giuseppe Garibaldi",
+      "nascimento": 1807,
+      "morte": 1882,
+      "regiao": "Europe",
+      "area": [
+        "militar",
+        "política"
+      ],
+      "cargo": "General e Revolucionário",
+      "epoca": "Séc. XIX",
+      "descricao": "O guerrilheiro do Risorgimento: com seus 'Mil Camisas Vermelhas' conquistou o Reino das Duas Sicílias e entregou-o ao Piemonte, unificando a Itália. Lutou em 4 continentes por causas liberais. Herói popular que recusou honrarias — vivia como camponês na ilha de Caprera.",
+      "importancia": "Garibaldi inventou o modelo do guerrilheiro revolucionário carismático — precedendo Che Guevara por um século. Sua unificação italiana demonstrou que nações podiam ser criadas por força de vontade popular armada, não apenas por tratados diplomáticos. Inspirou nacionalistas em toda a Europa e América Latina.",
+      "eventos": [],
+      "tags": [
+        "risorgimento",
+        "itália",
+        "unificação",
+        "nacionalismo",
+        "guerrilha"
+      ],
+      "type": "person",
+      "inicio": 1807,
+      "fim": 1882,
+      "region": "Europe"
+    },
+    {
+      "id": "psx-014",
+      "nome": "Otto von Bismarck",
+      "nome_en": "Otto von Bismarck",
+      "nome_es": "Otto von Bismarck",
+      "nascimento": 1815,
+      "morte": 1898,
+      "regiao": "Europe",
+      "area": [
+        "política",
+        "diplomacia"
+      ],
+      "cargo": "Chanceler",
+      "epoca": "Séc. XIX",
+      "descricao": "O 'Chanceler de Ferro': unificou a Alemanha através de 3 guerras calculadas (contra Dinamarca, Áustria e França). Introduziu o primeiro sistema de previdência social do mundo (1883) — para esvaziar os socialistas. Manipulou a política europeia por 30 anos através de uma teia de alianças.",
+      "importancia": "Bismarck demonstrou que 'sangue e ferro' — não discursos e votos — constroem nações. Mas seu sistema de alianças, ao tentar manter o equilíbrio europeu, criou a rigidez que transformou o assassinato de Sarajevo em guerra mundial. Sua herança é dupla: o estado de bem-estar social E o mecanismo que levou à WWI.",
+      "eventos": [],
+      "tags": [
+        "alemanha",
+        "unificação",
+        "realpolitik",
+        "guerra franco-prussiana",
+        "bismarckismo"
+      ],
+      "type": "person",
+      "inicio": 1815,
+      "fim": 1898,
+      "region": "Europe"
+    },
+    {
+      "id": "psx-015",
+      "nome": "Harriet Tubman",
+      "nome_en": "Harriet Tubman",
+      "nome_es": "Harriet Tubman",
+      "nascimento": 1822,
+      "morte": 1913,
+      "regiao": "Americas",
+      "area": [
+        "ativismo",
+        "militar"
+      ],
+      "cargo": "Abolicionista e Espiã",
+      "epoca": "Séc. XIX",
+      "descricao": "Nasceu escravizada no Maryland, fugiu em 1849 e voltou 13 vezes para libertar outros 70 escravizados pela Ferrovia Subterrânea — nunca perdeu nenhum. Na Guerra Civil, serviu como espiã da União e comandou um raid que libertou 700 pessoas de uma vez. Viveu 91 anos.",
+      "importancia": "Tubman é o símbolo de que a resistência à opressão é possível — não como abstração mas como ação concreta e repetida. Sua vida desfaz o mito de que os escravizados aceitavam sua condição. A recusa em se conformar, mesmo com preço na cabeça, tornou-a ícone não apenas do abolicionismo mas de qualquer movimento de resistência.",
+      "eventos": [],
+      "tags": [
+        "abolicionismo",
+        "ferrovia subterrânea",
+        "guerra civil americana",
+        "resistência"
+      ],
+      "type": "person",
+      "inicio": 1822,
+      "fim": 1913,
+      "region": "Americas"
+    },
+    {
+      "id": "psx-016",
+      "nome": "Victor Hugo",
+      "nome_en": "Victor Hugo",
+      "nome_es": "Victor Hugo",
+      "nascimento": 1802,
+      "morte": 1885,
+      "regiao": "Europe",
+      "area": [
+        "literatura",
+        "política"
+      ],
+      "cargo": "Escritor e Político",
+      "epoca": "Séc. XIX",
+      "descricao": "O maior escritor francês do século XIX e o mais lido em todo o mundo. Os Miseráveis (1862) vendeu 100.000 cópias no primeiro dia. Exilado por Napoleão III por 19 anos, retornou a Paris em 1870 como herói nacional. Parlamentar, senador, defensor de Dreyfus.",
+      "importancia": "Hugo transformou a literatura em instrumento de reforma social: Os Miseráveis é um manifesto contra a pobreza estrutural disfarçado de romance. Ao dar rosto humano às classes pobres — Jean Valjean, Fantine, Cosette — criou empatia onde havia apenas estatística. Os Miseráveis ajudou a construir o consenso político em torno do estado de bem-estar social.",
+      "eventos": [],
+      "tags": [
+        "romantismo",
+        "literatura francesa",
+        "reforma social",
+        "exílio",
+        "república"
+      ],
+      "type": "person",
+      "inicio": 1802,
+      "fim": 1885,
+      "region": "Europe"
+    },
+    {
+      "id": "psx-017",
+      "nome": "Ada Lovelace",
+      "nome_en": "Ada Lovelace",
+      "nome_es": "Ada Lovelace",
+      "nascimento": 1815,
+      "morte": 1852,
+      "regiao": "Europe",
+      "area": [
+        "ciência",
+        "matemática"
+      ],
+      "cargo": "Matemática",
+      "epoca": "Séc. XIX",
+      "descricao": "Filha de Lord Byron, estudou matemática com tutores extraordinários. Ao traduzir um artigo sobre o Motor Analítico de Babbage, acrescentou notas 3 vezes maiores que o texto original. Nessas notas, descreveu o primeiro algoritmo computacional da história e imaginou que a máquina poderia compor música e manipular símbolos além de números.",
+      "importancia": "Lovelace antecipou o computador de propósito geral em um século. Sua intuição de que uma máquina poderia manipular qualquer símbolo com regras — não apenas números — é o fundamento teórico da computação moderna. A linguagem de programação Ada (1980) foi nomeada em sua homenagem. Morreu aos 36 anos.",
+      "eventos": [],
+      "tags": [
+        "computação",
+        "matemática",
+        "babbage",
+        "algoritmo",
+        "mulheres na ciência"
+      ],
+      "type": "person",
+      "inicio": 1815,
+      "fim": 1852,
+      "region": "Europe"
+    },
+    {
+      "id": "psx-018",
+      "nome": "Emiliano Zapata",
+      "nome_en": "Emiliano Zapata",
+      "nome_es": "Emiliano Zapata",
+      "nascimento": 1879,
+      "morte": 1919,
+      "regiao": "Americas",
+      "area": [
+        "militar",
+        "ativismo"
+      ],
+      "cargo": "Revolucionário",
+      "epoca": "Séc. XIX–XX",
+      "descricao": "Camponês mestiço do Morelos que liderou o Exército Libertador do Sul na Revolução Mexicana com o slogan Tierra y Libertad. Recusou cargos no governo — queria apenas a reforma agrária. Traído e assassinado em 1919. Seu plano Ayala (1911) é o manifesto agrário mais influente da América Latina.",
+      "importancia": "Zapata representa a revolução que não se corrompeu com o poder. Ao recusar cargos e insistir na reforma agrária concreta, tornou-se o padrão contra o qual todos os revolucionários subsequentes são medidos. O Zapatismo (EZLN, 1994) invocou seu nome 75 anos depois — prova de que símbolos de integridade resistem à história.",
+      "eventos": [],
+      "tags": [
+        "revolução mexicana",
+        "reforma agrária",
+        "camponeses",
+        "zapatismo"
+      ],
+      "type": "person",
+      "inicio": 1879,
+      "fim": 1919,
+      "region": "Americas"
     }
   ]
 }

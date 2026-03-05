@@ -6,90 +6,130 @@
  */
 
 const ALL_DATASETS = [
-  "data/dados-evolucao-humana.json","data/dados-pre-historia.json","data/dados-pre-historia-europa.json",
-  "data/dados-civilizacoes-mediterraneo.json","data/dados-hitititas-bronze.json","data/dados-fenicios-cartago.json",
-  "data/dados-bronze-egeu.json","data/dados-mesopotamia-bronze.json","data/dados-grecia-antiga.json",
-  "data/dados-grecia-esparta.json","data/dados-grecia-atenas.json","data/dados-grecia-guerras.json",
-  "data/dados-grecia-filosofia.json","data/dados-grecia-cultura.json","data/dados-grecia-alexandre.json",
-  "data/dados-helenismo-ciencia.json","data/dados-roma-republica.json","data/dados-roma-exercito.json",
-  "data/dados-roma-sociedade.json","data/dados-roma-imperial.json","data/dados-roma-cultura.json",
-  "data/dados-roma-antiga.json","data/dados-queda-roma.json","data/dados-medieval-feudalismo.json",
-  "data/dados-castelos-cavalaria.json","data/dados-cruzadas-expandido.json","data/dados-cruzadas.json",
-  "data/dados-medieval-cidades-universidades.json","data/dados-bizantino-medieval.json",
-  "data/dados-idade-media-europeia.json","data/dados-europa-medieval-aprofundada.json",
-  "data/dados-filosofia-medieval.json","data/dados-igreja-medieval-cultura.json",
-  "data/dados-filosofia-antiga.json","data/dados-filosofia-racionalismo.json",
-  "data/dados-existencialismo.json","data/dados-movimentos-arte.json","data/dados-renascimento-cultural.json",
-  "data/dados-renascimento-italiano.json","data/dados-reformas-religiosas.json","data/dados-reforma-protestante.json",
-  "data/dados-renascimento-norte.json","data/dados-lutero-reforma.json","data/dados-igreja-ciencia.json",
-  "data/dados-igreja-fundacao.json","data/dados-concilios-ecumenicos.json","data/dados-inquisicao.json",
-  "data/dados-igreja-escravidao.json","data/dados-absolutismo.json","data/dados-navegacoes.json",
-  "data/dados-era-moderna.json","data/dados-revolucao-cientifica.json","data/dados-ciencia-tecnologia.json",
-  "data/dados-iluminismo.json","data/dados-revolucoes-liberais.json","data/dados-revolucao-francesa.json",
-  "data/dados-guerras-napoleonicas.json","data/dados-revolucao-industrial.json","data/dados-seculo-xix.json",
-  "data/dados-nacionalismo-europeu.json","data/dados-imperialismo-colonial.json","data/dados-capitalismo.json",
-  "data/dados-russia-pedro-catarina.json","data/dados-russia-czarismo.json","data/dados-revolucao-russa.json",
-  "data/dados-socialismo-trabalho.json","data/dados-movimentos-sociais.json","data/dados-primeira-guerra.json",
-  "data/dados-entreguerras.json","data/dados-segunda-guerra.json","data/dados-holocausto.json",
-  "data/dados-guerra-fria.json","data/dados-eua-seculo-xx.json","data/dados-pos-guerra-fria.json",
-  "data/dados-china-neolitico.json","data/dados-china-shang-zhou.json","data/dados-china-filosofia.json",
-  "data/dados-china-qin-han.json","data/dados-china-tres-reinos.json","data/dados-china-tang.json",
-  "data/dados-china-song-yuan.json","data/dados-china-song-ciencia.json","data/dados-china-ming.json",
-  "data/dados-china-ming-exploracoes.json","data/dados-china-qing.json","data/dados-china-qing-sociedade.json",
-  "data/dados-china-republica.json","data/dados-china-prc.json","data/dados-china-mao-revolucao.json",
-  "data/dados-china-antiga.json","data/dados-china-imperial.json","data/dados-india-vedica-maurya.json",
-  "data/dados-india-antiga.json","data/dados-india-medieval.json","data/dados-india-medieval-moderna.json",
-  "data/dados-india-mogol.json","data/dados-india-britanica.json","data/dados-mongois-gengis.json",
-  "data/dados-mongois-conquistas.json","data/dados-mongois-asia-central.json","data/dados-asia-central.json",
-  "data/dados-japao-antigo.json","data/dados-japao-sengoku.json","data/dados-japao-meiji.json",
-  "data/dados-japao-moderno.json","data/dados-coreia-antiga.json","data/dados-coreia-joseon.json",
-  "data/dados-coreia-moderna.json","data/dados-sudeste-asiatico-continental.json",
-  "data/dados-sudeste-asiatico-maritimo.json","data/dados-sudeste-asiatico-colonial.json",
-  "data/dados-egito-reinos-antigo-medio.json","data/dados-egito-novo-reino.json","data/dados-egito-antigo.json",
-  "data/dados-africa-norte.json","data/dados-africa-oriental.json","data/dados-africa-ocidental.json",
-  "data/dados-africa-centro-sul.json","data/dados-africa-pre-colonial.json","data/dados-reinos-africanos.json",
-  "data/dados-descolonizacao.json","data/dados-descolonizacao-guerras.json","data/dados-sumeria-cidades.json",
-  "data/dados-sumeria.json","data/dados-sumeria-expandida.json","data/dados-sumeria-religiao-legado.json",
-  "data/dados-mesopotamia.json","data/dados-mesopotamia-classica.json","data/dados-mesopotamia-hebreus-fenicios.json",
-  "data/dados-persia.json","data/dados-persia-expandida.json","data/dados-persia-zoroastrismo-cultura.json",
-  "data/dados-arabia-pre-islamica.json","data/dados-isla-origens.json","data/dados-isla-fragmentacao.json",
-  "data/dados-expansao-isla.json","data/dados-califados-islamicos.json","data/dados-oriente-medio-moderno.json",
-  "data/dados-religioes-mundo.json","data/dados-imperio-otomano.json","data/dados-turquia-moderna.json",
-  "data/dados-iran-moderno.json","data/dados-arabia-saudita.json","data/dados-israel-palestina.json",
-  "data/dados-povos-nativos-norte.json","data/dados-caribe-colonial.json","data/dados-revolucoes-sec18.json",
-  "data/dados-eua-fundacao.json","data/dados-eua-guerra-civil.json","data/dados-eua-gilded-age.json",
-  "data/dados-eua-new-deal-guerra-fria.json","data/dados-eua-contemporaneo.json","data/dados-eua-historia.json",
-  "data/dados-olmecas.json","data/dados-mesoamerica.json","data/dados-zapotecas-mixtecas.json",
-  "data/dados-teotihuacan.json","data/dados-toltecas.json","data/dados-maya-classico.json",
-  "data/dados-maya-expandido.json","data/dados-maya-ciencia.json","data/dados-aztecas.json",
-  "data/dados-astecas-expandido.json","data/dados-america-latina-sec20.json","data/dados-caral-culturas-antigas.json",
-  "data/dados-andes.json","data/dados-incas.json","data/dados-chimu-conquista-peru.json",
-  "data/dados-tupis-guaranis-amazonia.json","data/dados-mapuches-povos-sul.json",
-  "data/dados-americas-coloniais.json","data/dados-independencias-america-latina.json",
-  "data/dados-brasil-01-povos-originarios.json",
-  "data/dados-brasil-02-pre-colonial.json",
-  "data/dados-brasil-03-capitanias.json",
-  "data/dados-brasil-04-governo-geral.json",
-  "data/dados-brasil-05-uniao-iberica.json",
-  "data/dados-brasil-06-bandeirismo.json",
-  "data/dados-brasil-07-ciclo-ouro.json",
-  "data/dados-brasil-08-joanino.json",
-  "data/dados-brasil-09-independencia.json",
-  "data/dados-brasil-10-regencial.json",
-  "data/dados-brasil-11-segundo-reinado.json",
-  "data/dados-brasil-12-republica-velha.json",
-  "data/dados-brasil-13-era-vargas.json",
-  "data/dados-brasil-14-populismo.json",
-  "data/dados-brasil-15-ditadura.json",
+  // ── Pré-História ──
+  "data/dados-china-neolitico.json","data/dados-evolucao-humana.json","data/dados-pre-historia-americas.json",
+  "data/dados-pre-historia-europa.json","data/dados-pre-historia-neolitico.json","data/dados-pre-historia-paleolitico.json",
+  "data/dados-pre-historia.json",
+  // ── Antiguidade Próximo Oriente ──
+  "data/dados-arabia-pre-islamica.json","data/dados-bronze-egeu.json","data/dados-civilizacoes-mediterraneo.json",
+  "data/dados-fenicios-cartago.json","data/dados-hitititas-bronze.json","data/dados-mesopotamia-bronze.json",
+  "data/dados-mesopotamia-classica.json","data/dados-mesopotamia-hebreus-fenicios.json","data/dados-mesopotamia.json",
+  "data/dados-sumeria-cidades.json","data/dados-sumeria-expandida.json","data/dados-sumeria-religiao-legado.json",
+  "data/dados-sumeria.json",
+  // ── Egito ──
+  "data/dados-egito-antigo.json","data/dados-egito-novo-reino.json","data/dados-egito-reinos-antigo-medio.json",
+  "data/dados-egito-tardio.json",
+  // ── Pérsia e Oriente Antigo ──
+  "data/dados-india-antiga.json","data/dados-india-vedica-maurya.json","data/dados-persia-antiga.json",
+  "data/dados-persia-expandida.json","data/dados-persia-zoroastrismo-cultura.json","data/dados-persia.json",
+  // ── Grécia ──
+  "data/dados-grecia-alexandre.json","data/dados-grecia-antiga.json","data/dados-grecia-atenas.json",
+  "data/dados-grecia-cultura.json","data/dados-grecia-esparta.json","data/dados-grecia-filosofia.json",
+  "data/dados-grecia-guerras.json","data/dados-helenismo-ciencia.json","data/dados-personagens-grecia-roma.json",
+  // ── Roma ──
+  "data/dados-personagens-grecia-roma.json","data/dados-queda-roma.json","data/dados-roma-antiga.json",
+  "data/dados-roma-cultura.json","data/dados-roma-exercito.json","data/dados-roma-imperial.json",
+  "data/dados-roma-republica.json","data/dados-roma-sociedade.json",
+  // ── Filosofia e Pensamento ──
+  "data/dados-china-filosofia.json","data/dados-existencialismo.json","data/dados-filosofia-antiga.json",
+  "data/dados-filosofia-medieval.json","data/dados-filosofia-racionalismo.json","data/dados-grecia-filosofia.json",
+  "data/dados-iluminismo.json","data/dados-personagens-iluminismo-revolucoes.json",
+  // ── Idade Média Europa ──
+  "data/dados-bizantino-medieval.json","data/dados-castelos-cavalaria.json","data/dados-cruzadas-expandido.json",
+  "data/dados-cruzadas.json","data/dados-europa-medieval-aprofundada.json","data/dados-filosofia-medieval.json",
+  "data/dados-idade-media-europeia.json","data/dados-igreja-medieval-cultura.json","data/dados-india-medieval-moderna.json",
+  "data/dados-india-medieval.json","data/dados-medieval-cidades-universidades.json","data/dados-medieval-feudalismo.json",
+  "data/dados-personagens-medieval.json",
+  // ── Igreja ──
+  "data/dados-concilios-ecumenicos.json","data/dados-igreja-ciencia.json","data/dados-igreja-escravidao.json",
+  "data/dados-igreja-fundacao.json","data/dados-igreja-medieval-cultura.json","data/dados-inquisicao.json",
+  "data/dados-lutero-reforma.json","data/dados-reforma-protestante.json","data/dados-reformas-religiosas.json",
+  // ── Era Moderna Europa ──
+  "data/dados-absolutismo.json","data/dados-ciencia-tecnologia.json","data/dados-era-moderna.json",
+  "data/dados-movimentos-arte.json","data/dados-navegacoes.json","data/dados-personagens-renascimento-reforma.json",
+  "data/dados-renascimento-cultural.json","data/dados-renascimento-italiano.json","data/dados-renascimento-norte.json",
+  "data/dados-revolucao-cientifica.json",
+  // ── Revoluções e Séc. XIX ──
+  "data/dados-capitalismo.json","data/dados-guerras-napoleonicas.json","data/dados-imperialismo-colonial.json",
+  "data/dados-movimentos-sociais.json","data/dados-nacionalismo-europeu.json","data/dados-personagens-seculo-xix.json",
+  "data/dados-revolucao-francesa.json","data/dados-revolucao-industrial.json","data/dados-revolucoes-liberais.json",
+  "data/dados-seculo-xix.json","data/dados-socialismo-trabalho.json",
+  // ── Rússia ──
+  "data/dados-revolucao-russa.json","data/dados-russia-czarismo.json","data/dados-russia-pedro-catarina.json",
+  // ── Guerras Mundiais e Guerra Fria ──
+  "data/dados-entreguerras.json","data/dados-eua-guerra-fria.json","data/dados-eua-new-deal-guerra-fria.json",
+  "data/dados-guerra-fria.json","data/dados-holocausto.json","data/dados-pos-guerra-fria.json",
+  "data/dados-primeira-guerra.json","data/dados-segunda-guerra.json",
+  // ── China ──
+  "data/dados-china-antiga.json","data/dados-china-filosofia.json","data/dados-china-imperial.json",
+  "data/dados-china-mao-revolucao.json","data/dados-china-ming-exploracoes.json","data/dados-china-ming.json",
+  "data/dados-china-neolitico.json","data/dados-china-prc.json","data/dados-china-qin-han.json",
+  "data/dados-china-qing-sociedade.json","data/dados-china-qing.json","data/dados-china-republica.json",
+  "data/dados-china-shang-zhou.json","data/dados-china-song-ciencia.json","data/dados-china-song-yuan.json",
+  "data/dados-china-tang.json","data/dados-china-tres-reinos.json",
+  // ── Japão ──
+  "data/dados-japao-antigo.json","data/dados-japao-arcaico.json","data/dados-japao-feudal.json",
+  "data/dados-japao-meiji.json","data/dados-japao-moderno.json","data/dados-japao-sengoku.json",
+  // ── Coreia ──
+  "data/dados-coreia-antiga.json","data/dados-coreia-joseon.json","data/dados-coreia-moderna.json",
+  // ── Índia ──
+  "data/dados-india-antiga.json","data/dados-india-britanica.json","data/dados-india-medieval-moderna.json",
+  "data/dados-india-medieval.json","data/dados-india-mogol.json","data/dados-india-vedica-maurya.json",
+  // ── Islã e Oriente Médio ──
+  "data/dados-al-andalus.json","data/dados-arabia-pre-islamica.json","data/dados-arabia-saudita.json",
+  "data/dados-asia-central.json","data/dados-califados-islamicos.json","data/dados-expansao-isla.json",
+  "data/dados-imperio-otomano.json","data/dados-iran-moderno.json","data/dados-isla-fragmentacao.json",
+  "data/dados-isla-origens.json","data/dados-islao-fundacao.json","data/dados-israel-palestina.json",
+  "data/dados-mongois-asia-central.json","data/dados-oriente-medio-moderno.json","data/dados-turquia-moderna.json",
+  // ── Sudeste Asiático ──
+  "data/dados-sudeste-asiatico-colonial.json","data/dados-sudeste-asiatico-continental.json","data/dados-sudeste-asiatico-maritimo.json",
+  // ── África ──
+  "data/dados-africa-centro-sul.json","data/dados-africa-norte.json","data/dados-africa-ocidental.json",
+  "data/dados-africa-oriental.json","data/dados-africa-pre-colonial.json","data/dados-descolonizacao-guerras.json",
+  "data/dados-descolonizacao.json","data/dados-personagens-africa-oriente.json","data/dados-reinos-africanos.json",
+  // ── Pré-Colombianos ──
+  "data/dados-andes.json","data/dados-astecas-expandido.json","data/dados-astecas-imperio.json",
+  "data/dados-aztecas.json","data/dados-caral-andino-antigo.json","data/dados-caral-culturas-antigas.json",
+  "data/dados-chimu-conquista-peru.json","data/dados-chimu-wari.json","data/dados-incas.json",
+  "data/dados-mapuches-povos-sul.json","data/dados-maya-ciencia.json","data/dados-maya-classico.json",
+  "data/dados-maya-expandido.json","data/dados-mesoamerica.json","data/dados-olmecas.json",
+  "data/dados-teotihuacan.json","data/dados-toltecas.json","data/dados-tupis-guaranis-amazonia.json",
+  "data/dados-zapotecas-mixtecas.json",
+  // ── EUA e Caribe ──
+  "data/dados-americas-coloniais.json","data/dados-caribe-colonial.json","data/dados-eua-colonias.json",
+  "data/dados-eua-contemporaneo.json","data/dados-eua-expansao-civil.json","data/dados-eua-fundacao.json",
+  "data/dados-eua-gilded-age.json","data/dados-eua-guerra-civil.json","data/dados-eua-guerra-fria.json",
+  "data/dados-eua-guerras-mundiais.json","data/dados-eua-historia.json","data/dados-eua-industrializacao.json",
+  "data/dados-eua-new-deal-guerra-fria.json","data/dados-eua-seculo-xx.json","data/dados-independencias-america-latina.json",
+  "data/dados-povos-nativos-norte.json",
+  // ── Brasil — 16 Períodos ──
+  "data/dados-brasil-01-povos-originarios.json","data/dados-brasil-02-pre-colonial.json","data/dados-brasil-03-capitanias.json",
+  "data/dados-brasil-04-governo-geral.json","data/dados-brasil-05-uniao-iberica.json","data/dados-brasil-06-bandeirismo.json",
+  "data/dados-brasil-07-ciclo-ouro.json","data/dados-brasil-08-joanino.json","data/dados-brasil-09-independencia.json",
+  "data/dados-brasil-10-regencial.json","data/dados-brasil-11-segundo-reinado.json","data/dados-brasil-12-republica-velha.json",
+  "data/dados-brasil-13-era-vargas.json","data/dados-brasil-14-populismo.json","data/dados-brasil-15-ditadura.json",
   "data/dados-brasil-16-nova-republica.json",
-,"data/dados-brasil-quilombos.json",
-  "data/dados-brasil-indigenas.json","data/dados-antartica-descoberta.json","data/dados-antartica-moderna.json"
-
+  // ── Brasil — Temáticos ──
+  "data/dados-brasil-colonial-escravidao.json","data/dados-brasil-contemporaneo.json","data/dados-brasil-cultura-arte.json",
+  "data/dados-brasil-economia-social.json","data/dados-brasil-guerra-paraguai.json","data/dados-brasil-imperio-ciencia.json",
+  "data/dados-brasil-imperio-figuras.json","data/dados-brasil-imperio-infraestrutura.json","data/dados-brasil-inconfidencia.json",
+  "data/dados-brasil-independencia.json","data/dados-brasil-indigenas.json","data/dados-brasil-missoes-jesuiticas.json",
+  "data/dados-brasil-precolonial.json","data/dados-brasil-quilombos.json","data/dados-brasil-redemocratizacao.json",
+  "data/dados-brasil-republica-velha.json",
+  // ── Antártida ──
+  "data/dados-antartica-descoberta.json","data/dados-antartica-moderna.json",
+  // ── Mongóis ──
+  "data/dados-mongois-asia-central.json","data/dados-mongois-conquistas.json","data/dados-mongois-gengis.json",
   // ── Personalidades ──
-  "data/dados-personagens-africa-oriente.json","data/dados-personagens-americas.json","data/dados-personagens-asia.json","data/dados-personagens-biblicas.json","data/dados-personagens-ciencia-pensamento.json","data/dados-personagens-grecia-roma.json","data/dados-personagens-iluminismo-revolucoes.json","data/dados-personagens-medieval.json","data/dados-personagens-oriente-antigo.json","data/dados-personagens-renascimento-reforma.json","data/dados-personagens-seculo-xix.json","data/dados-personagens-seculo-xx-guerras.json",
+  "data/dados-personagens-africa-oriente.json","data/dados-personagens-americas.json","data/dados-personagens-asia.json",
+  "data/dados-personagens-biblicas.json","data/dados-personagens-ciencia-pensamento.json","data/dados-personagens-grecia-roma.json",
+  "data/dados-personagens-iluminismo-revolucoes.json","data/dados-personagens-medieval.json","data/dados-personagens-oriente-antigo.json",
+  "data/dados-personagens-renascimento-reforma.json","data/dados-personagens-seculo-xix.json","data/dados-personagens-seculo-xx-guerras.json",
+  "data/dados-personagens-mulheres.json","data/dados-personagens-filosofia-oriental.json","data/dados-personagens-seculo-xx.json",
   // ── Outros ──
-  "data/dados-al-andalus.json","data/dados-astecas-imperio.json","data/dados-brasil-colonial-escravidao.json","data/dados-brasil-contemporaneo.json","data/dados-brasil-cultura-arte.json","data/dados-brasil-economia-social.json","data/dados-brasil-guerra-paraguai.json","data/dados-brasil-imperio-ciencia.json","data/dados-brasil-imperio-figuras.json","data/dados-brasil-imperio-infraestrutura.json","data/dados-brasil-inconfidencia.json","data/dados-brasil-independencia.json","data/dados-brasil-missoes-jesuiticas.json","data/dados-brasil-precolonial.json","data/dados-brasil-redemocratizacao.json","data/dados-brasil-republica-velha.json","data/dados-caral-andino-antigo.json","data/dados-chimu-wari.json","data/dados-egito-tardio.json","data/dados-eua-colonias.json","data/dados-eua-expansao-civil.json","data/dados-eua-guerra-fria.json","data/dados-eua-guerras-mundiais.json","data/dados-eua-industrializacao.json","data/dados-islao-fundacao.json","data/dados-japao-arcaico.json","data/dados-japao-feudal.json","data/dados-persia-antiga.json","data/dados-pre-historia-americas.json","data/dados-pre-historia-neolitico.json","data/dados-pre-historia-paleolitico.json",
+  "data/dados-america-latina-sec20.json","data/dados-religioes-mundo.json","data/dados-revolucoes-sec18.json",
 ];
+
 
 const TYPE_COLORS = {
   political:'#2b4b7e', war:'#8b2e1a', economic:'#a0622a',
@@ -164,13 +204,13 @@ const TYPE_NAMES = {
 };
 const I18N = {
   pt:{title:'Linha do Tempo', count:'evento', counts:'eventos', loading:'Carregando todos os eventos…',
-      search:'Pesquisar evento…', hint:'Arrastar · Scroll para zoom · Clique num evento para ver detalhes',
+      search:'Pesquisar evento…', hint:'Arrastar para mover · Ctrl+Scroll para zoom · Scroll para navegar linhas · Shift+Scroll para mover horizontal',
       cluster:'eventos', desc:'Descrição', imp:'Importância', tags:'Tags', bc:'a.C.'},
   en:{title:'Timeline', count:'event', counts:'events', loading:'Loading all events…',
-      search:'Search events…', hint:'Drag · Scroll to zoom · Click an event to see details',
+      search:'Search events…', hint:'Drag to move · Ctrl+Scroll to zoom · Scroll to navigate · Shift+Scroll horizontal',
       cluster:'events', desc:'Description', imp:'Importance', tags:'Tags', bc:'BC'},
   es:{title:'Línea de Tiempo', count:'evento', counts:'eventos', loading:'Cargando todos los eventos…',
-      search:'Buscar evento…', hint:'Arrastrar · Scroll para zoom · Clic para ver detalles',
+      search:'Buscar evento…', hint:'Arrastrar para mover · Ctrl+Scroll para zoom · Scroll para navegar · Shift+Scroll horizontal',
       cluster:'eventos', desc:'Descripción', imp:'Importancia', tags:'Etiquetas', bc:'a.C.'},
 };
 
@@ -190,6 +230,7 @@ const FONT_SZ      = 10;
 const CHAR_W       = FONT_SZ * 0.50;
 const MIN_LBL      = 5;
 const L_PAD        = 16;  // px de margem esquerda no espaço de conteúdo
+const MAX_LANES    = 14;  // máximo de lanes por região antes de colapsar labels
 
 let panelEl  = null;
 let cleanup  = [];
@@ -247,11 +288,19 @@ function yx(year) {
 }
 function computeBaseCW(W) {
   const visW=(W||S.W||window.innerWidth)-S.ML;
-  if(isDeep()) { const m=Math.max(visW*2.5,3200); return Math.max(m/(1-DEEP_FRAC),visW*3.5); }
-  return Math.max(visW*3.5,(S.eraB-S.eraA)*0.85,2800);
+  if(isDeep()) {
+    // Pré-história: escala logarítmica, canvas largo para detail zoom
+    const m=Math.max(visW*2.5,3200);
+    return Math.max(m/(1-DEEP_FRAC),visW*3.5);
+  }
+  // Era histórica: sc=1 mostra a era completa confortavelmente no viewport
+  const span=S.eraB-S.eraA||1;
+  const fitCW=span*(visW*0.88/span); // 88% do viewport cobre a era inteira
+  return Math.max(fitCW, visW*1.1, 900); // mínimo 1.1x visW para poder dar pan
 }
 function clampTx(val) {
-  const max=-(S.cW+L_PAD-(S.W-S.ML));
+  const R_PAD=80; // right breathing room so last events aren't clipped
+  const max=-(S.cW+L_PAD+R_PAD-(S.W-S.ML));
   return Math.min(0,Math.max(isFinite(max)?max:-1e9,val));
 }
 function applyT(el) {
@@ -263,7 +312,7 @@ function applyT(el) {
 let _zoomRaf=null, _zoomPivot=null;
 function doZoom(f,pivotX,ents) {
   if(!_zoomPivot) _zoomPivot={x:pivotX,frac:(pivotX-S.tx)/Math.max(S.cW,1)};
-  S.sc=Math.min(40,Math.max(0.08,S.sc*f));
+  S.sc=Math.min(25,Math.max(0.35,S.sc*f));
   if(_zoomRaf) cancelAnimationFrame(_zoomRaf);
   _zoomRaf=requestAnimationFrame(()=>{
     const{x:px,frac}=_zoomPivot; _zoomPivot=null; _zoomRaf=null;
@@ -321,7 +370,7 @@ function assignLanes(events) {
     ev._lane=lane;
     ev._beforeEra=beforeEra; // flag for drawSingleEvent
   }
-  return laneEnds.length||1;
+  return Math.min(laneEnds.length,MAX_LANES)||1;
 }
 
 // Group events within CLUSTER_PX into clusters
@@ -374,6 +423,12 @@ function render(ents) {
   const defs=document.createElementNS(NS,'defs');
   const clip=document.createElementNS(NS,'clipPath'); clip.id='tl-clip';
   mk('rect',{x:S.ML,y:0,width:W-S.ML,height:S.H},clip);
+  // Left-edge fade gradient to signal events extend before this era
+  const fadeGrad=document.createElementNS(NS,'linearGradient');
+  fadeGrad.id='tl-left-fade'; fadeGrad.setAttribute('x1','0'); fadeGrad.setAttribute('x2','1');
+  const fs1=document.createElementNS(NS,'stop'); fs1.setAttribute('offset','0%'); fs1.setAttribute('stop-color','#f6f1e4'); fs1.setAttribute('stop-opacity','0.92');
+  const fs2=document.createElementNS(NS,'stop'); fs2.setAttribute('offset','100%'); fs2.setAttribute('stop-color','#f6f1e4'); fs2.setAttribute('stop-opacity','0');
+  fadeGrad.appendChild(fs1); fadeGrad.appendChild(fs2); defs.appendChild(fadeGrad);
   defs.appendChild(clip); svg.appendChild(defs);
 
   mk('rect',{width:W,height:S.H,fill:'#f6f1e4'},svg);
@@ -485,6 +540,15 @@ function render(ents) {
 
   cont.innerHTML=''; cont.appendChild(svg);
   setupInteraction(svg,ents);
+  // Left-edge fade overlay (signals events continue before visible range)
+  mk('rect',{x:S.ML,y:S.MT,width:36,height:S.H-S.MT,fill:'url(#tl-left-fade)','pointer-events':'none'},svg);
+  // Right-edge fade overlay
+  const rfG=document.createElementNS(NS,'linearGradient'); rfG.id='tl-right-fade';
+  rfG.setAttribute('x1','0'); rfG.setAttribute('x2','1');
+  const rs1=document.createElementNS(NS,'stop'); rs1.setAttribute('offset','0%'); rs1.setAttribute('stop-color','#f6f1e4'); rs1.setAttribute('stop-opacity','0');
+  const rs2=document.createElementNS(NS,'stop'); rs2.setAttribute('offset','100%'); rs2.setAttribute('stop-color','#f6f1e4'); rs2.setAttribute('stop-opacity','0.85');
+  rfG.appendChild(rs1); rfG.appendChild(rs2); svg.querySelector('defs').appendChild(rfG);
+  mk('rect',{x:W-48,y:S.MT,width:48,height:S.H-S.MT,fill:'url(#tl-right-fade)','pointer-events':'none'},svg);
   const badge=document.getElementById('tl-count');
   if(badge){const n=vis.length;badge.textContent=n+' '+(n===1?TR('count'):TR('counts'));}
 }
@@ -580,21 +644,47 @@ function setupInteraction(svg,ents){
   const dn=e=>{if(e.button!==0)return;drag=true;sx=e.clientX;stx=S.tx;svg.style.cursor='grabbing';};
   const mm=e=>{if(!drag)return;S.tx=clampTx(stx+e.clientX-sx);applyT();};
   const mu=()=>{drag=false;svg.style.cursor='grab';};
+
   const wh=e=>{
-    e.preventDefault();
-    const f=e.deltaY<0?1.22:1/1.22;
-    const rect=svg.getBoundingClientRect();
-    doZoom(f,e.clientX-rect.left-S.ML,ents);
+    const body=document.getElementById('tl-body');
+
+    // Ctrl+scroll → zoom
+    if(e.ctrlKey||e.metaKey){
+      e.preventDefault();
+      const f=e.deltaY<0?1.07:1/1.07;
+      const rect=svg.getBoundingClientRect();
+      doZoom(f,e.clientX-rect.left-S.ML,ents);
+      return;
+    }
+
+    // Horizontal scroll (trackpad swipe or Shift+scroll) → pan
+    if(Math.abs(e.deltaX)>Math.abs(e.deltaY)||e.shiftKey){
+      e.preventDefault();
+      S.tx=clampTx(S.tx-(e.shiftKey?e.deltaY:e.deltaX));
+      applyT();
+      return;
+    }
+
+    // Vertical scroll → scroll rows container naturally
+    if(body){
+      const atTop=body.scrollTop===0&&e.deltaY<0;
+      const atBot=body.scrollTop+body.clientHeight>=body.scrollHeight-1&&e.deltaY>0;
+      if(!atTop&&!atBot) e.preventDefault();
+      body.scrollTop+=e.deltaY;
+    }
   };
+
   svg.addEventListener('mousedown',dn);
   window.addEventListener('mousemove',mm);
   window.addEventListener('mouseup',mu);
-  svg.addEventListener('wheel',wh,{passive:false});
+  // Attach to whole panel so scroll works anywhere inside timeline
+  const panel=document.getElementById('tl-panel');
+  if(panel) panel.addEventListener('wheel',wh,{passive:false});
   cleanup.push(()=>{
     svg.removeEventListener('mousedown',dn);
     window.removeEventListener('mousemove',mm);
     window.removeEventListener('mouseup',mu);
-    svg.removeEventListener('wheel',wh);
+    if(panel) panel.removeEventListener('wheel',wh);
   });
 }
 
@@ -672,7 +762,7 @@ function openSidePanel(entity){
   sp.appendChild(inner);
 }
 
-async async function openTimeline(){
+async function openTimeline(){
   if(!panelEl)return;
   cleanup.forEach(f=>f());cleanup=[];
   S.tx=0;S.sc=1;S.types=new Set(Object.keys(TYPE_COLORS));S.q='';
@@ -695,8 +785,8 @@ async async function openTimeline(){
     const ns=srchEl.cloneNode(true);srchEl.parentNode.replaceChild(ns,srchEl);
     ns.addEventListener('input',e=>{clearTimeout(st);st=setTimeout(()=>{S.q=e.target.value.trim();render(ents);},220);});
   }
-  document.getElementById('tl-zi').onclick=()=>zoomBy(1.65,ents);
-  document.getElementById('tl-zo').onclick=()=>zoomBy(1/1.65,ents);
+  document.getElementById('tl-zi').onclick=()=>zoomBy(1.4,ents);
+  document.getElementById('tl-zo').onclick=()=>zoomBy(1/1.4,ents);
   document.getElementById('tl-zr').onclick=()=>{S.sc=1;S.tx=0;S.collapsed=new Set();render(ents);};
 }
 
@@ -729,10 +819,10 @@ function buildPanel(){
       <span id="tl-count" class="tl-count"></span>
     </div>
     <div class="tl-main-area" id="tl-main-area">
-      <div class="tl-body">
+      <div class="tl-body" id="tl-body">
         <p class="tl-loading hidden" id="tl-loading">Carregando…</p>
         <div id="tl-svg-container" class="tl-svg-cont"></div>
-        <p id="tl-hint" class="tl-hint">Arrastar · Scroll para zoom · Clique num evento para ver detalhes</p>
+        <p id="tl-hint" class="tl-hint">Arrastar para mover · Ctrl+Scroll para zoom · Scroll para navegar linhas · Shift+Scroll para mover horizontal</p>
       </div>
     </div>`;
   document.body.appendChild(panelEl);

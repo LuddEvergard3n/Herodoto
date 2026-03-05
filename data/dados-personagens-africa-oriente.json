@@ -27,7 +27,11 @@
         "timbuktu",
         "ouro",
         "peregrinação"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1280,
+      "fim": 1337,
+      "region": "Africa"
     },
     {
       "id": "pao-003",
@@ -53,7 +57,11 @@
         "resistência",
         "mulher",
         "banco-de-ouro"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1840,
+      "fim": 1921,
+      "region": "Africa"
     },
     {
       "id": "pao-004",
@@ -79,7 +87,11 @@
         "islã",
         "córdoba",
         "escolástica"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1126,
+      "fim": 1198,
+      "region": "MiddleEast"
     },
     {
       "id": "pao-005",
@@ -105,7 +117,11 @@
         "modernização",
         "islam",
         "kemalism"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1881,
+      "fim": 1938,
+      "region": "MiddleEast"
     },
     {
       "id": "pao-006",
@@ -130,7 +146,10 @@
         "rohingya",
         "prisão-domiciliar",
         "queda-da-graça"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1945,
+      "region": "SoutheastAsia"
     },
     {
       "id": "pao-007",
@@ -156,7 +175,11 @@
         "poder",
         "mulher",
         "política"
-      ]
+      ],
+      "type": "person",
+      "inicio": -1370,
+      "fim": -1330,
+      "region": "Africa"
     },
     {
       "id": "pao-008",
@@ -183,7 +206,11 @@
         "militar",
         "poder-feminino",
         "oriente"
-      ]
+      ],
+      "type": "person",
+      "inicio": 240,
+      "fim": 274,
+      "region": "MiddleEast"
     },
     {
       "id": "pao-009",
@@ -209,7 +236,11 @@
         "sabedoria",
         "jerusalém",
         "bíblia"
-      ]
+      ],
+      "type": "person",
+      "inicio": -990,
+      "fim": -931,
+      "region": "MiddleEast"
     },
     {
       "id": "pao-011",
@@ -236,7 +267,11 @@
         "cultura",
         "resistência",
         "cabral"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1924,
+      "fim": 1973,
+      "region": "Africa"
     },
     {
       "id": "pao-012",
@@ -264,10 +299,14 @@
         "rainha",
         "diplomacia",
         "nzinga"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1583,
+      "fim": 1663,
+      "region": "Africa"
     },
     {
-      "id": "pao-013",
+      "id": "pa416",
       "nome": "Avraham ibn Ezra",
       "nome_en": "Abraham ibn Ezra",
       "nome_es": "Abraham ibn Ezra",
@@ -292,10 +331,14 @@
         "espanha",
         "medieval",
         "islã"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1089,
+      "fim": 1167,
+      "region": "MiddleEast"
     },
     {
-      "id": "pao-014",
+      "id": "pa402",
       "nome": "Idrisi",
       "nome_en": "Al-Idrisi",
       "nome_es": "Al-Idrisi",
@@ -320,7 +363,182 @@
         "mapa",
         "geografia",
         "medieval"
-      ]
+      ],
+      "type": "person",
+      "inicio": 1100,
+      "fim": 1165,
+      "region": "Africa"
+    },
+    {
+      "id": "pa655",
+      "nome": "Shaka Zulu",
+      "nome_en": "Shaka Zulu",
+      "nome_es": "Shaka Zulu",
+      "nascimento": 1787,
+      "morte": 1828,
+      "regiao": "Africa",
+      "area": [
+        "militar",
+        "política"
+      ],
+      "cargo": "Rei Zulu",
+      "epoca": "Séc. XIX",
+      "descricao": "Filho ilegítimo que criou o reino Zulu a partir de uma pequena tribo e revolucionou a guerra africana. Inventou a formação 'chifres do búfalo': ala esquerda e direita envolvem o inimigo enquanto o centro ataca frontalmente. Substituiu a zagaia longa pelo assegai curto — luta corpo a corpo. Criou um exército permanente de 50.000 guerreiros.",
+      "importancia": "Shaka transformou o Natal sul-africano em poucos anos, deslocando dezenas de povos no processo conhecido como Mfecane. Sua inovação militar permitiu que os Zulus resistissem aos britânicos décadas depois de sua morte — a batalha de Isandlwana (1879) foi a maior derrota britânica na África, com 1.300 soldados mortos por guerreiros armados principalmente com lanças.",
+      "eventos": [],
+      "tags": [
+        "zulu",
+        "áfrica do sul",
+        "guerra",
+        "formação militar",
+        "Mfecane"
+      ],
+      "type": "person",
+      "inicio": 1787,
+      "fim": 1828,
+      "region": "Africa"
+    },
+    {
+      "id": "pa244",
+      "nome": "Kwame Nkrumah",
+      "nome_en": "Kwame Nkrumah",
+      "nome_es": "Kwame Nkrumah",
+      "nascimento": 1909,
+      "morte": 1972,
+      "regiao": "Africa",
+      "area": [
+        "política"
+      ],
+      "cargo": "Presidente de Gana",
+      "epoca": "Séc. XX",
+      "descricao": "Líder da independência de Gana (1957) — primeiro país da África Subsaariana a se independentizar. Estudou nos EUA e Reino Unido, foi influenciado por Du Bois e pelo pan-africanismo. Propôs os Estados Unidos da África. Derrubado por golpe em 1966 enquanto visitava Hanói. Morreu no exílio.",
+      "importancia": "Nkrumah estabeleceu o modelo de descolonização africana: agitação não-violenta, pressão política, negociação. Gana independente tornou-se símbolo que acelerou a descolonização em todo o continente — 17 países africanos tornaram-se independentes em 1960. Seu pan-africanismo ainda inspira a União Africana.",
+      "eventos": [],
+      "tags": [
+        "gana",
+        "descolonização",
+        "pan-africanismo",
+        "independência africana"
+      ],
+      "type": "person",
+      "inicio": 1909,
+      "fim": 1972,
+      "region": "Africa"
+    },
+    {
+      "id": "pao-015",
+      "nome": "Ibn Khaldun",
+      "nome_en": "Ibn Khaldun",
+      "nome_es": "Ibn Jaldún",
+      "nascimento": 1332,
+      "morte": 1406,
+      "regiao": "MiddleEast",
+      "area": [
+        "filosofia",
+        "história"
+      ],
+      "cargo": "Historiador e Filósofo",
+      "epoca": "Idade Média",
+      "descricao": "Nasceu em Túnis, serviu em várias cortes do Magrebe e Andaluzia, encontrou Tamerlão pessoalmente em 1401. Sua Muqaddima (Prolegômenos, 1377) inventou a sociologia e a filosofia da história 400 anos antes de Montesquieu e Hegel: explicou o ciclo de ascensão e queda das civilizações através da asabiyya (solidariedade grupal).",
+      "importancia": "Ibn Khaldun formulou que as civilizações têm ciclos biológicos: nômades com forte coesão conquistam impérios sedentários corrompidos pelo luxo; os conquistadores tornam-se sedentários, amolecem, e são conquistados por novos nômades. Esta teoria — formulada no século XIV — é mais sofisticada que muitas teorias sociológicas do século XX.",
+      "eventos": [],
+      "tags": [
+        "sociologia",
+        "filosofia da história",
+        "islã",
+        "magrebe",
+        "asabiyya"
+      ],
+      "type": "person",
+      "inicio": 1332,
+      "fim": 1406,
+      "region": "MiddleEast"
+    },
+    {
+      "id": "pao-016",
+      "nome": "Nefertiti",
+      "nome_en": "Nefertiti",
+      "nome_es": "Nefertiti",
+      "nascimento": -1370,
+      "morte": -1330,
+      "regiao": "Africa",
+      "area": [
+        "política",
+        "religião"
+      ],
+      "cargo": "Rainha do Egito",
+      "epoca": "Antiguidade",
+      "descricao": "Grande Esposa Real de Akhenaton, o faraó herético que tentou substituir todos os deuses egípcios por Aton (o disco solar). Nefertiti aparece nos relevos como co-celebrante dos rituais — poder incomum para uma rainha. Após o 12º ano do reinado, desaparece dos registros. Hipóteses: morte, queda em desgraça, ou tornou-se co-faraó com o nome Neferneferuaten.",
+      "importancia": "Nefertiti é o símbolo da revolução amarniana: a tentativa de Akhenaton de impor o monoteísmo no Egito por decreto. O experimento falhou — Tutancâmon restaurou os deuses tradicionais — mas antecipou as tensões entre fé estabelecida e reforma religiosa que marcariam toda a história monoteísta subsequente.",
+      "eventos": [],
+      "tags": [
+        "egito antigo",
+        "amarna",
+        "nefertiti",
+        "akhenaton",
+        "monoteísmo egípcio"
+      ],
+      "type": "person",
+      "inicio": -1370,
+      "fim": -1330,
+      "region": "Africa"
+    },
+    {
+      "id": "pao-017",
+      "nome": "Patrice Lumumba",
+      "nome_en": "Patrice Lumumba",
+      "nome_es": "Patrice Lumumba",
+      "nascimento": 1925,
+      "morte": 1961,
+      "regiao": "Africa",
+      "area": [
+        "política"
+      ],
+      "cargo": "Primeiro-Ministro do Congo",
+      "epoca": "Séc. XX",
+      "descricao": "Primeiro premiê eleito do Congo independente (1960). 67 dias no cargo. Deposto com apoio da CIA e da Bélgica, assassinado em 1961 — seu corpo foi dissolvido em ácido para apagar qualquer culto póstumo. Seu crime: pedir ajuda soviética quando a ONU e os EUA recusaram ajudá-lo a controlar a secessão de Katanga apoiada por mineradoras belgas.",
+      "importancia": "Lumumba é o símbolo da descolonização traída. Sua morte revelou que a independência formal não significava soberania real quando os recursos naturais do país interessavam às potências ocidentais. O Congo mergulhou em décadas de guerra — o custo humano é estimado em milhões de mortos. A questão de Lumumba ainda é a questão do Congo.",
+      "eventos": [],
+      "tags": [
+        "congo",
+        "descolonização",
+        "guerra fria",
+        "CIA",
+        "neocrocolonialismo"
+      ],
+      "type": "person",
+      "inicio": 1925,
+      "fim": 1961,
+      "region": "Africa"
+    },
+    {
+      "id": "pao-018",
+      "nome": "Saladino",
+      "nome_en": "Saladin",
+      "nome_es": "Saladino",
+      "nascimento": 1137,
+      "morte": 1193,
+      "regiao": "MiddleEast",
+      "area": [
+        "militar",
+        "política"
+      ],
+      "cargo": "Sultão de Egito e Síria",
+      "epoca": "Idade Média",
+      "descricao": "Curdo que unificou o Egito e a Síria e reconquistou Jerusalém dos cruzados em 1187 — 88 anos após a Primeira Cruzada. Ao contrário dos cruzados que massacraram 70.000 pessoas na conquista de 1099, Saladino proibiu represálias e permitiu que a população cristã saísse em segurança. Ricardo Coração de Leão combateu contra ele e o admirava.",
+      "importancia": "Saladino tornou-se o herói do mundo islâmico e, paradoxalmente, o cavaleiro mais admirado pelos próprios cruzados. Sua magnanimidade em Jerusalém criou um padrão de guerra 'justa' que seus admiradores europeus raramente seguiram. É o contraponto histórico que questiona a narrativa de que o Islã medieval era intrinsecamente intolerante.",
+      "eventos": [],
+      "tags": [
+        "cruzadas",
+        "jerusalém",
+        "islã",
+        "cavalaria",
+        "reconquista islâmica"
+      ],
+      "type": "person",
+      "inicio": 1137,
+      "fim": 1193,
+      "region": "MiddleEast"
     }
   ]
 }
