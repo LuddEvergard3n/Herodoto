@@ -3,6 +3,37 @@
 
 ---
 
+## v7.41 — Correção de Bug: Service Worker
+
+**Bug corrigido**
+- `sw.js`: versão do cache atualizada de `v7-38` para `v7-40` — o SW servia o `index.html` antigo (com apenas o botão "Fontes") ao retornar das páginas auxiliares, fazendo os botões "Guia do Professor", "Sobre" e "Ajuda" desaparecerem
+- `sw.js`: `guia-professor.html`, `sobre.html` e `ajuda.html` adicionados ao array `STATIC_ASSETS` — as novas páginas agora são pré-cacheadas na instalação e funcionam offline
+
+**Auditoria realizada**
+- 306 arquivos JSON: todos válidos, sem erros de parse
+- 289 checkboxes: todos com label correspondente em `dataset-labels.js`
+- ALL_DATASETS (306 entradas): todos os arquivos referenciados existem no disco
+- As 17 entradas em ALL_DATASETS sem checkbox são todas coleções de personagens, carregadas pelo módulo próprio — comportamento esperado
+
+---
+
+## v7.40 — Expansão: Alemanha Nazista (3 novos datasets)
+
+**Novos datasets (33 entidades no total)**
+
+- `dados-alemanha-ascensao-hitler.json` (11 entidades) — Da fragilidade de Weimar à tomada do poder: constituição e suas fragilidades, Putsch de Munique (1923), Mein Kampf, Grande Depressão, decretos de emergência, eleições de 1932, incêndio do Reichstag, Lei de Plenos Poderes, Gleichschaltung, Noite dos Longos Facas, aparato de propaganda de Goebbels
+
+- `dados-alemanha-economia-nazista.json` (11 entidades) — O modelo econômico do III Reich: trauma da hiperinflação (1923), o 'milagre econômico' e suas manipulações, títulos Mefo e rearmamento secreto, Plano Reinhardt e obras públicas, destruição dos sindicatos e DAF, Blut und Boden, arianização das empresas judaicas, Plano de Quatro Anos e autarquia, controle de salários e preços, trabalho forçado, economia de guerra de Albert Speer
+
+- `dados-alemanha-leis-nazistas.json` (11 entidades) — O arsenal jurídico do regime: Leis de Nuremberg, proibição da usura e capital 'predatório', proteção animal (Reichstierschutzgesetz 1933), legislação ambiental e florestal, esterilização compulsória, Aktion T4 (eutanásia), campanha anti-tabaco, Parágrafo 175 (homossexuais), política de gênero e maternidade, higiene racial e Holocausto, controle da imprensa e Câmara de Cultura do Reich
+
+**Integrações**
+- 3 entradas adicionadas a `dataset-labels.js`
+- 3 checkboxes adicionados à seção Guerras do `index.html`
+- 3 entradas adicionadas a `ALL_DATASETS` em `timeline.js`
+
+---
+
 ## v7.39 — Páginas de Apoio Pedagógico
 
 **Novos arquivos HTML**
