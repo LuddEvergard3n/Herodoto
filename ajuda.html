@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Heródoto — Ajuda</title>
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#2a1e0f">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+  <style>
+    :root {
+      --perg-claro:        #f6f1e4;
+      --perg-medio:        #e8dfc8;
+      --perg-escuro:       #c8b898;
+      --tinta-pena:        #2a1e0f;
+      --tinta-desbotada:   #5a4030;
+      --borda-pergaminho:  #b09870;
+      --vermelho-ocre:     #8b3a2a;
+      --azul-lapislazuli:  #2b4b7e;
+      --dourado-velho:     #7a6228;
+      --fonte-titulo:      'IM Fell English', 'Palatino Linotype', Palatino, Georgia, serif;
+      --fonte-texto:       'Crimson Text', 'Palatino Linotype', Palatino, Georgia, serif;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: var(--fonte-texto);
+      color: var(--tinta-pena);
+      background-color: #a89070;
+      background-image: url('assets/pergaminho.jpg');
+      background-size: cover;
+      background-attachment: fixed;
+      min-height: 100vh;
+    }
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background: radial-gradient(ellipse at center, transparent 30%, rgba(15,8,2,0.42) 100%), rgba(15,8,2,0.16);
+      pointer-events: none;
+      z-index: 0;
+    }
+    header {
+      position: relative;
+      z-index: 10;
+      background: linear-gradient(180deg, #2a1e0f 0%, #3d2e1a 100%);
+      color: var(--perg-medio);
+      padding: 1rem 2rem;
+      border-bottom: 3px solid var(--dourado-velho);
+      box-shadow: 0 3px 18px rgba(0,0,0,0.55);
+    }
+    header::after {
+      content: '';
+      position: absolute;
+      bottom: -6px; left: 0; right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, transparent, var(--borda-pergaminho), transparent);
+    }
+    .header-inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1100px;
+      margin: 0 auto;
+      gap: 1rem;
+    }
+    .titulo h1 { font-family: var(--fonte-titulo); font-size: 1.7rem; font-weight: 400; font-variant: small-caps; letter-spacing: 0.08em; color: var(--perg-claro); text-shadow: 0 1px 6px rgba(0,0,0,0.6); margin-bottom: 0.1rem; }
+    .titulo p { font-style: italic; font-size: 0.9rem; color: var(--perg-escuro); }
+    .header-nav { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
+    .nav-btn { font-family: var(--fonte-texto); font-size: 0.85rem; font-variant: small-caps; letter-spacing: 0.05em; color: var(--perg-medio); text-decoration: none; padding: 0.35rem 0.8rem; border: 1px solid var(--borda-pergaminho); border-radius: 3px; background: rgba(255,255,255,0.06); transition: background 0.2s, color 0.2s; white-space: nowrap; }
+    .nav-btn:hover { background: rgba(255,255,255,0.15); color: var(--perg-claro); }
+    .nav-btn.active { background: rgba(176,152,112,0.3); color: var(--perg-claro); border-color: var(--perg-escuro); }
+
+    .page-wrapper {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 3rem;
+      gap: 1.5rem;
+    }
+
+    /* Sidebar de navegação interna */
+    .ajuda-sidebar {
+      width: 210px;
+      flex-shrink: 0;
+    }
+    .sidebar-panel {
+      background: rgba(246,241,228,0.88);
+      border: 1px solid var(--borda-pergaminho);
+      border-radius: 4px;
+      box-shadow: 2px 4px 14px rgba(0,0,0,0.25);
+      padding: 0.8rem 0;
+      position: sticky;
+      top: 1.5rem;
+    }
+    .sidebar-panel a {
+      display: block;
+      padding: 0.45rem 1rem;
+      font-size: 0.9rem;
+      color: var(--tinta-desbotada);
+      text-decoration: none;
+      border-left: 3px solid transparent;
+      transition: all 0.15s;
+    }
+    .sidebar-panel a:hover {
+      background: rgba(176,152,112,0.2);
+      color: var(--tinta-pena);
+      border-left-color: var(--borda-pergaminho);
+    }
+    .sidebar-title {
+      font-family: var(--fonte-titulo);
+      font-size: 0.85rem;
+      font-variant: small-caps;
+      letter-spacing: 0.07em;
+      color: var(--tinta-desbotada);
+      padding: 0 1rem 0.6rem;
+      border-bottom: 1px solid var(--borda-pergaminho);
+      margin-bottom: 0.4rem;
+    }
+
+    /* Conteúdo */
+    .ajuda-content { flex: 1; min-width: 0; }
+    .content-card {
+      background: rgba(246,241,228,0.92);
+      border: 1px solid var(--borda-pergaminho);
+      border-radius: 4px;
+      box-shadow: 2px 4px 18px rgba(0,0,0,0.25);
+      padding: 2rem 2.5rem;
+    }
+    .content-card > h1 {
+      font-family: var(--fonte-titulo);
+      font-size: 1.7rem;
+      font-weight: 400;
+      font-variant: small-caps;
+      letter-spacing: 0.07em;
+      color: var(--tinta-pena);
+      margin-bottom: 0.3rem;
+    }
+    .content-card > .intro {
+      font-style: italic;
+      color: var(--tinta-desbotada);
+      margin-bottom: 2rem;
+      padding-bottom: 1.2rem;
+      border-bottom: 1px solid var(--borda-pergaminho);
+    }
+    h2 {
+      font-family: var(--fonte-titulo);
+      font-size: 1.15rem;
+      font-weight: 400;
+      font-variant: small-caps;
+      letter-spacing: 0.06em;
+      color: var(--vermelho-ocre);
+      margin: 2rem 0 0.8rem;
+      padding-bottom: 0.3rem;
+      border-bottom: 1px solid var(--perg-escuro);
+      scroll-margin-top: 1.5rem;
+    }
+    p { font-size: 1rem; line-height: 1.72; color: var(--tinta-pena); margin-bottom: 0.9rem; }
+    ul, ol { padding-left: 1.4rem; margin-bottom: 0.9rem; }
+    li { font-size: 1rem; line-height: 1.7; margin-bottom: 0.3rem; }
+
+    /* Atalhos */
+    .atalhos { display: flex; flex-direction: column; gap: 0.5rem; margin: 0.8rem 0 1.2rem; }
+    .atalho { display: flex; align-items: baseline; gap: 1rem; }
+    kbd {
+      font-family: monospace;
+      font-size: 0.82rem;
+      background: var(--tinta-pena);
+      color: var(--perg-claro);
+      padding: 0.15rem 0.5rem;
+      border-radius: 3px;
+      white-space: nowrap;
+      flex-shrink: 0;
+      min-width: 120px;
+      text-align: center;
+    }
+    .atalho-desc { font-size: 0.95rem; color: var(--tinta-desbotada); }
+
+    /* FAQ */
+    .faq-item { margin-bottom: 1.2rem; border-bottom: 1px dotted var(--perg-escuro); padding-bottom: 1.2rem; }
+    .faq-item:last-child { border-bottom: none; }
+    .faq-q { font-weight: 600; font-size: 1rem; color: var(--tinta-pena); margin-bottom: 0.4rem; }
+    .faq-a { font-size: 0.97rem; color: var(--tinta-desbotada); line-height: 1.65; }
+
+    footer { position: relative; z-index: 1; text-align: center; padding: 1.2rem; font-style: italic; font-size: 0.82rem; color: var(--perg-escuro); text-shadow: 0 1px 3px rgba(0,0,0,0.5); }
+    @media (max-width: 750px) {
+      .page-wrapper { flex-direction: column; }
+      .ajuda-sidebar { width: 100%; }
+      .sidebar-panel { position: static; }
+      .content-card { padding: 1.5rem 1.2rem; }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <div class="titulo">
+      <h1>Heródoto — Ajuda</h1>
+      <p>Como usar a ferramenta</p>
+    </div>
+    <nav class="header-nav">
+      <a href="index.html"          class="nav-btn">← Mapa</a>
+      <a href="fontes.html"         class="nav-btn">Fontes</a>
+      <a href="guia-professor.html" class="nav-btn">Guia do Professor</a>
+      <a href="sobre.html"          class="nav-btn">Sobre</a>
+      <a href="ajuda.html"          class="nav-btn active">Ajuda</a>
+    </nav>
+  </div>
+</header>
+
+<div class="page-wrapper">
+  <aside class="ajuda-sidebar">
+    <div class="sidebar-panel">
+      <div class="sidebar-title">Nesta página</div>
+      <a href="#grafo">O grafo</a>
+      <a href="#timeline">A linha do tempo</a>
+      <a href="#filtros">Filtros e busca</a>
+      <a href="#modos">Modos especiais</a>
+      <a href="#atalhos">Atalhos</a>
+      <a href="#offline">Uso offline</a>
+      <a href="#faq">Perguntas frequentes</a>
+    </div>
+  </aside>
+
+  <main class="ajuda-content">
+    <div class="content-card">
+      <h1>Ajuda</h1>
+      <p class="intro">Guia rápido de navegação e uso do Heródoto.</p>
+
+      <!-- GRAFO -->
+      <h2 id="grafo">O grafo de conhecimento</h2>
+      <p>O grafo é a visualização principal. Cada círculo é uma entidade histórica (evento, período, personalidade ou fenômeno cultural). As linhas que os conectam representam relações causais, temáticas ou cronológicas.</p>
+      <ul>
+        <li><strong>Clique num nó</strong> para abrir o painel de detalhes — descrição, importância historiográfica, datas e tags.</li>
+        <li><strong>Arraste um nó</strong> para reorganizar o grafo.</li>
+        <li><strong>Scroll</strong> sobre o grafo para fazer zoom.</li>
+        <li><strong>Arraste o fundo</strong> para mover todo o grafo (pan).</li>
+        <li>As cores dos nós correspondem ao tipo histórico (político, cultural, guerra, etc.) — veja a legenda no canto inferior.</li>
+        <li>Clique em um tipo na legenda para filtrar e destacar apenas aquele tipo.</li>
+      </ul>
+
+      <!-- TIMELINE -->
+      <h2 id="timeline">A linha do tempo</h2>
+      <p>A linha do tempo exibe as entidades num eixo cronológico, organizadas por região geográfica em linhas separadas.</p>
+      <ul>
+        <li><strong>Ctrl + scroll</strong> — zoom horizontal no eixo temporal.</li>
+        <li><strong>Scroll horizontal</strong> (trackpad) ou <strong>arrastar</strong> — mover o eixo para a esquerda/direita.</li>
+        <li><strong>Scroll vertical</strong> — navegar entre as linhas de região.</li>
+        <li>Clique nos botões <strong>⊟ / ⊞</strong> para colapsar ou expandir todas as regiões.</li>
+        <li>Clique no nome de uma região para colapsar/expandir apenas ela.</li>
+        <li>Clique numa entidade na timeline para abrir o mesmo painel de detalhes do grafo.</li>
+      </ul>
+
+      <!-- FILTROS -->
+      <h2 id="filtros">Filtros e busca</h2>
+      <p>A barra lateral esquerda contém todos os filtros disponíveis:</p>
+      <ul>
+        <li><strong>Busca global</strong> — pesquisa por nome, descrição, tags e importância em todas as entidades carregadas. Resultados aparecem em tempo real.</li>
+        <li><strong>Checkboxes de datasets</strong> — cada checkbox carrega um conjunto temático de entidades. Vários podem ser ativados simultaneamente.</li>
+        <li><strong>Filtro por período</strong> — restringe a visualização a Pré-História, Antiguidade, Idade Média, Modernidade ou Contemporâneo.</li>
+        <li><strong>Filtro por tipo</strong> — seleciona apenas eventos de um determinado tipo (político, guerra, cultural, religioso, social, tecnológico, econômico).</li>
+        <li><strong>Filtro por região</strong> — limita à região geográfica selecionada.</li>
+        <li>O botão <strong>✕ limpar</strong> remove todos os filtros ativos de uma vez.</li>
+      </ul>
+
+      <!-- MODOS -->
+      <h2 id="modos">Modos especiais</h2>
+      <p>Acessíveis pela barra de modos no topo da área principal:</p>
+      <ul>
+        <li><strong>Personalidades</strong> — galeria de figuras históricas com filtro por época, região e área. Clique numa personalidade para ver detalhes e ligações a eventos.</li>
+        <li><strong>Comparar</strong> — selecione dois eventos para comparar lado a lado: datas, região, tipo, descrição e importância.</li>
+        <li><strong>Perguntas</strong> — 248 questões históricas organizadas em 58 grupos temáticos. Ao clicar numa pergunta, os datasets correspondentes são carregados automaticamente.</li>
+        <li><strong>Modo Guiado</strong> — narrativa estruturada centrada num nó; abre painéis em sequência e destaca as relações mais relevantes.</li>
+        <li><strong>Cadeia causal</strong> — a partir de um nó selecionado, mostra o que o causou e o que ele causou (até 2 níveis).</li>
+        <li><strong>Cadeia de consequências</strong> — percorre prospectivamente as consequências de um evento.</li>
+      </ul>
+
+      <!-- ATALHOS -->
+      <h2 id="atalhos">Atalhos de teclado</h2>
+      <div class="atalhos">
+        <div class="atalho"><kbd>Ctrl + scroll</kbd> <span class="atalho-desc">Zoom na linha do tempo</span></div>
+        <div class="atalho"><kbd>Scroll horizontal</kbd> <span class="atalho-desc">Pan na linha do tempo</span></div>
+        <div class="atalho"><kbd>Esc</kbd> <span class="atalho-desc">Fechar painel lateral / cancelar seleção</span></div>
+        <div class="atalho"><kbd>Clique no fundo</kbd> <span class="atalho-desc">Desselecionar nó ativo</span></div>
+        <div class="atalho"><kbd>Double-click no grafo</kbd> <span class="atalho-desc">Resetar zoom do grafo</span></div>
+      </div>
+
+      <!-- OFFLINE -->
+      <h2 id="offline">Uso offline (PWA)</h2>
+      <p>O Heródoto funciona sem internet após a primeira visita. Para instalar como aplicativo:</p>
+      <ul>
+        <li><strong>Android (Chrome)</strong> — toque nos três pontos → "Adicionar à tela inicial".</li>
+        <li><strong>iOS (Safari)</strong> — toque no ícone de compartilhar → "Adicionar à Tela Inicial".</li>
+        <li><strong>Desktop (Chrome/Edge)</strong> — clique no ícone de instalação na barra de endereço.</li>
+      </ul>
+      <p>Após a instalação, todos os datasets e a interface funcionam sem conexão. Novos dados só são carregados quando há internet disponível.</p>
+
+      <!-- FAQ -->
+      <h2 id="faq">Perguntas frequentes</h2>
+
+      <div class="faq-item">
+        <p class="faq-q">Por que alguns nomes aparecem em português mesmo ao trocar para inglês?</p>
+        <p class="faq-a">As entidades adicionadas nas expansões recentes ainda não foram traduzidas para inglês e espanhol. As descrições em EN e ES são cópias temporárias do português. A tradução será feita em versões futuras.</p>
+      </div>
+
+      <div class="faq-item">
+        <p class="faq-q">O grafo ficou lento ou confuso com muitos datasets. O que fazer?</p>
+        <p class="faq-a">Desmarque alguns checkboxes para reduzir o número de entidades visíveis. O grafo é mais legível com 1 a 3 datasets ativos simultaneamente. Use os filtros de tipo ou período para reduzir o número de nós exibidos.</p>
+      </div>
+
+      <div class="faq-item">
+        <p class="faq-q">Como reportar um erro histórico?</p>
+        <p class="faq-a">O código-fonte está em github.com/LuddEvergard3n/Herodoto. Abra um <em>issue</em> descrevendo a entidade, o erro e a correção sugerida com fonte.</p>
+      </div>
+
+      <div class="faq-item">
+        <p class="faq-q">Os dados atualizaram mas ainda vejo informações antigas.</p>
+        <p class="faq-a">É o cache do Service Worker. No Chrome: F12 → Application → Service Workers → "Update" ou "Unregister". No mobile: desinstale e reinstale o aplicativo, ou limpe os dados do site nas configurações do navegador.</p>
+      </div>
+
+      <div class="faq-item">
+        <p class="faq-q">Posso usar o Heródoto sem internet em sala de aula?</p>
+        <p class="faq-a">Sim — é para isso que o modo PWA existe. Basta acessar uma vez com internet (para o cache ser construído) e depois o aplicativo funciona completamente offline. Recomenda-se fazer isso antes de levar para a sala.</p>
+      </div>
+
+    </div>
+  </main>
+</div>
+
+<footer>Heródoto v7.38 &mdash; Ferramenta pedagógica de código aberto para o ensino de história.</footer>
+</body>
+</html>

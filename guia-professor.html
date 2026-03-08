@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Heródoto — Guia do Professor</title>
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#2a1e0f">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+  <style>
+    :root {
+      --perg-claro:       #f6f1e4;
+      --perg-medio:       #e8dfc8;
+      --perg-escuro:      #c8b898;
+      --tinta-pena:       #2a1e0f;
+      --tinta-desbotada:  #5a4030;
+      --borda-pergaminho: #b09870;
+      --vermelho-ocre:    #8b3a2a;
+      --azul-lapislazuli: #2b4b7e;
+      --dourado-velho:    #7a6228;
+      --verde-historico:  #2e5c3a;
+      --fonte-titulo:     'IM Fell English', Palatino, Georgia, serif;
+      --fonte-texto:      'Crimson Text', Palatino, Georgia, serif;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: var(--fonte-texto);
+      color: var(--tinta-pena);
+      background-color: #a89070;
+      background-image: url('assets/pergaminho.jpg');
+      background-size: cover;
+      background-attachment: fixed;
+      min-height: 100vh;
+    }
+    body::before {
+      content: '';
+      position: fixed; inset: 0;
+      background: radial-gradient(ellipse at center, transparent 30%, rgba(15,8,2,0.42) 100%), rgba(15,8,2,0.16);
+      pointer-events: none; z-index: 0;
+    }
+
+    /* ── HEADER ── */
+    header {
+      position: relative; z-index: 10;
+      background: linear-gradient(180deg, #2a1e0f 0%, #3d2e1a 100%);
+      color: var(--perg-medio);
+      padding: 1rem 2rem;
+      border-bottom: 3px solid var(--dourado-velho);
+      box-shadow: 0 3px 18px rgba(0,0,0,0.55);
+    }
+    header::after {
+      content: ''; position: absolute;
+      bottom: -6px; left: 0; right: 0; height: 3px;
+      background: linear-gradient(90deg, transparent, var(--borda-pergaminho), transparent);
+    }
+    .header-inner {
+      display: flex; justify-content: space-between; align-items: center;
+      max-width: 1200px; margin: 0 auto; gap: 1rem;
+    }
+    .titulo h1 {
+      font-family: var(--fonte-titulo); font-size: 1.7rem; font-weight: 400;
+      font-variant: small-caps; letter-spacing: 0.08em;
+      color: var(--perg-claro); text-shadow: 0 1px 6px rgba(0,0,0,0.6); margin-bottom: 0.1rem;
+    }
+    .titulo p { font-style: italic; font-size: 0.9rem; color: var(--perg-escuro); }
+    .header-nav { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
+    .nav-btn {
+      font-family: var(--fonte-texto); font-size: 0.85rem; font-variant: small-caps;
+      letter-spacing: 0.05em; color: var(--perg-medio); text-decoration: none;
+      padding: 0.35rem 0.8rem; border: 1px solid var(--borda-pergaminho); border-radius: 3px;
+      background: rgba(255,255,255,0.06); transition: background 0.2s, color 0.2s; white-space: nowrap;
+    }
+    .nav-btn:hover { background: rgba(255,255,255,0.15); color: var(--perg-claro); }
+    .nav-btn.active { background: rgba(176,152,112,0.3); color: var(--perg-claro); border-color: var(--perg-escuro); }
+
+    /* ── LAYOUT ── */
+    .page-wrapper {
+      position: relative; z-index: 1;
+      display: flex; max-width: 1200px; margin: 0 auto;
+      padding: 2rem 1.5rem 3rem; gap: 1.5rem;
+    }
+
+    /* ── SIDEBAR ── */
+    .guia-sidebar { width: 220px; flex-shrink: 0; }
+    .sidebar-panel {
+      background: rgba(246,241,228,0.9);
+      border: 1px solid var(--borda-pergaminho); border-radius: 4px;
+      box-shadow: 2px 4px 14px rgba(0,0,0,0.25);
+      padding: 0.8rem 0; position: sticky; top: 1.5rem;
+    }
+    .sidebar-title {
+      font-family: var(--fonte-titulo); font-size: 0.85rem; font-variant: small-caps;
+      letter-spacing: 0.07em; color: var(--tinta-desbotada);
+      padding: 0 1rem 0.6rem; border-bottom: 1px solid var(--borda-pergaminho); margin-bottom: 0.4rem;
+    }
+    .sidebar-panel a {
+      display: block; padding: 0.45rem 1rem; font-size: 0.9rem;
+      color: var(--tinta-desbotada); text-decoration: none;
+      border-left: 3px solid transparent; transition: all 0.15s;
+    }
+    .sidebar-panel a:hover { background: rgba(176,152,112,0.2); color: var(--tinta-pena); border-left-color: var(--borda-pergaminho); }
+    .sidebar-panel .sec-group { padding: 0.3rem 1rem 0.1rem; font-size: 0.75rem; font-variant: small-caps; letter-spacing: 0.08em; color: var(--borda-pergaminho); margin-top: 0.3rem; }
+
+    /* ── CONTEÚDO ── */
+    .guia-content { flex: 1; min-width: 0; }
+    .content-card {
+      background: rgba(246,241,228,0.92);
+      border: 1px solid var(--borda-pergaminho); border-radius: 4px;
+      box-shadow: 2px 4px 18px rgba(0,0,0,0.25); padding: 2rem 2.5rem;
+    }
+    .page-title {
+      font-family: var(--fonte-titulo); font-size: 1.9rem; font-weight: 400;
+      font-variant: small-caps; letter-spacing: 0.07em; color: var(--tinta-pena);
+      margin-bottom: 0.3rem;
+    }
+    .page-intro {
+      font-style: italic; color: var(--tinta-desbotada); font-size: 1.02rem;
+      margin-bottom: 2rem; padding-bottom: 1.2rem; border-bottom: 1px solid var(--borda-pergaminho);
+      line-height: 1.6;
+    }
+
+    h2 {
+      font-family: var(--fonte-titulo); font-size: 1.2rem; font-weight: 400;
+      font-variant: small-caps; letter-spacing: 0.06em; color: var(--vermelho-ocre);
+      margin: 2.2rem 0 0.8rem; padding-bottom: 0.35rem;
+      border-bottom: 1px solid var(--perg-escuro); scroll-margin-top: 1.5rem;
+    }
+    h3 {
+      font-family: var(--fonte-titulo); font-size: 1rem; font-weight: 400;
+      font-variant: small-caps; letter-spacing: 0.05em; color: var(--azul-lapislazuli);
+      margin: 1.4rem 0 0.5rem;
+    }
+    p { font-size: 1rem; line-height: 1.75; color: var(--tinta-pena); margin-bottom: 0.9rem; }
+    ul, ol { padding-left: 1.5rem; margin-bottom: 0.9rem; }
+    li { font-size: 1rem; line-height: 1.7; margin-bottom: 0.35rem; }
+    strong { color: var(--tinta-pena); }
+
+    /* ── CARDS DE ATIVIDADE ── */
+    .atividade {
+      border: 1px solid var(--borda-pergaminho); border-radius: 4px;
+      margin: 1.2rem 0; overflow: hidden;
+    }
+    .atividade-header {
+      background: linear-gradient(90deg, #2a1e0f, #3d2e1a);
+      color: var(--perg-claro); padding: 0.7rem 1.2rem;
+      display: flex; align-items: baseline; gap: 0.8rem;
+    }
+    .atividade-num {
+      font-family: var(--fonte-titulo); font-size: 0.82rem; font-variant: small-caps;
+      letter-spacing: 0.08em; color: var(--perg-escuro); flex-shrink: 0;
+    }
+    .atividade-titulo {
+      font-family: var(--fonte-titulo); font-size: 1rem; font-weight: 400; font-variant: small-caps;
+    }
+    .atividade-body { padding: 1rem 1.2rem; }
+    .atividade-meta {
+      display: flex; gap: 1.2rem; flex-wrap: wrap; margin-bottom: 0.7rem;
+    }
+    .meta-tag {
+      font-size: 0.8rem; color: var(--tinta-desbotada); font-style: italic;
+    }
+    .meta-tag strong { font-style: normal; color: var(--tinta-pena); }
+
+    /* ── TABELA DE NÍVEIS ── */
+    .nivel-table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.92rem; }
+    .nivel-table th {
+      background: rgba(42,30,15,0.08); text-align: left; padding: 0.5rem 0.8rem;
+      font-family: var(--fonte-titulo); font-variant: small-caps; font-weight: 400;
+      letter-spacing: 0.05em; border-bottom: 2px solid var(--borda-pergaminho);
+    }
+    .nivel-table td { padding: 0.5rem 0.8rem; border-bottom: 1px dotted var(--perg-escuro); line-height: 1.5; }
+    .nivel-table tr:last-child td { border-bottom: none; }
+
+    /* ── AVISO / NOTA ── */
+    .nota {
+      background: rgba(43,75,126,0.07); border-left: 4px solid var(--azul-lapislazuli);
+      padding: 0.8rem 1.1rem; border-radius: 0 3px 3px 0; margin: 1rem 0;
+      font-size: 0.95rem; color: var(--tinta-desbotada); line-height: 1.6;
+    }
+    .aviso {
+      background: rgba(139,58,42,0.07); border-left: 4px solid var(--vermelho-ocre);
+      padding: 0.8rem 1.1rem; border-radius: 0 3px 3px 0; margin: 1rem 0;
+      font-size: 0.95rem; color: var(--tinta-desbotada); line-height: 1.6;
+    }
+
+    footer { position: relative; z-index: 1; text-align: center; padding: 1.2rem; font-style: italic; font-size: 0.82rem; color: var(--perg-escuro); text-shadow: 0 1px 3px rgba(0,0,0,0.5); }
+
+    @media (max-width: 800px) {
+      .page-wrapper { flex-direction: column; }
+      .guia-sidebar { width: 100%; }
+      .sidebar-panel { position: static; }
+      .content-card { padding: 1.5rem 1.2rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="titulo">
+      <h1>Heródoto — Guia do Professor</h1>
+      <p>Como usar a ferramenta em sala de aula</p>
+    </div>
+    <nav class="header-nav">
+      <a href="index.html"            class="nav-btn">← Mapa</a>
+      <a href="fontes.html"           class="nav-btn">Fontes</a>
+      <a href="guia-professor.html"   class="nav-btn active">Guia do Professor</a>
+      <a href="sobre.html"            class="nav-btn">Sobre</a>
+      <a href="ajuda.html"            class="nav-btn">Ajuda</a>
+    </nav>
+  </div>
+</header>
+
+<div class="page-wrapper">
+
+  <aside class="guia-sidebar">
+    <div class="sidebar-panel">
+      <div class="sidebar-title">Nesta página</div>
+      <div class="sec-group">Introdução</div>
+      <a href="#filosofia">Filosofia pedagógica</a>
+      <a href="#niveis">Níveis de ensino</a>
+      <a href="#preparo">Antes da aula</a>
+      <div class="sec-group">Atividades</div>
+      <a href="#ativ-exploracao">Exploração livre</a>
+      <a href="#ativ-perguntas">Perguntas geradoras</a>
+      <a href="#ativ-simultaneidade">Simultaneidade</a>
+      <a href="#ativ-causal">Cadeia causal</a>
+      <a href="#ativ-comparacao">Comparação</a>
+      <a href="#ativ-fontes">Usando as fontes</a>
+      <div class="sec-group">Referência</div>
+      <a href="#tipos">Tipos históricos</a>
+      <a href="#limitacoes">Limitações</a>
+    </div>
+  </aside>
+
+  <main class="guia-content">
+    <div class="content-card">
+
+      <h1 class="page-title">Guia do Professor</h1>
+      <p class="page-intro">
+        O Heródoto foi concebido como ferramenta de mediação — não substitui a explicação do professor, mas cria um espaço visual onde perguntas históricas ganham forma concreta. Este guia apresenta a filosofia da ferramenta, sugestões de atividades organizadas por nível de ensino e orientações práticas para o uso em sala.
+      </p>
+
+      <!-- ── FILOSOFIA ── -->
+      <h2 id="filosofia">Filosofia pedagógica</h2>
+      <p>
+        A história ensinada apenas como sequência de datas e eventos isolados cria uma ilusão de linearidade que o passado nunca teve. O Heródoto parte de uma premissa diferente: <strong>o passado é uma teia</strong>, e compreender um evento exige perguntar o que o causou, o que causou, e o que estava acontecendo simultaneamente em outras partes do mundo.
+      </p>
+      <p>
+        A ferramenta favorece três movimentos cognitivos centrais ao pensamento histórico:
+      </p>
+      <ul>
+        <li><strong>Causalidade</strong> — por que algo aconteceu? O que o tornou possível?</li>
+        <li><strong>Simultaneidade</strong> — o que mais estava acontecendo no mundo naquele momento?</li>
+        <li><strong>Comparação</strong> — como esse evento se assemelha ou difere de outros em outros contextos?</li>
+      </ul>
+      <p>
+        O grafo não tem uma resposta certa a oferecer — tem relações a explorar. O professor continua sendo o mediador indispensável entre a ferramenta e o aluno.
+      </p>
+
+      <!-- ── NÍVEIS ── -->
+      <h2 id="niveis">Adequação por nível de ensino</h2>
+      <table class="nivel-table">
+        <thead>
+          <tr>
+            <th>Nível</th>
+            <th>Uso recomendado</th>
+            <th>Modos mais úteis</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Ensino Fundamental II</strong><br><small>(6º–9º ano)</small></td>
+            <td>Exploração visual guiada pelo professor; foco em um dataset por vez; uso das Perguntas Geradoras como ponto de partida</td>
+            <td>Grafo, Perguntas, Modo Guiado</td>
+          </tr>
+          <tr>
+            <td><strong>Ensino Médio</strong></td>
+            <td>Atividades de causalidade e comparação; cruzamento de múltiplos datasets; leitura das descrições como fonte secundária</td>
+            <td>Cadeia Causal, Comparar, Linha do Tempo, Filtros</td>
+          </tr>
+          <tr>
+            <td><strong>Ensino Superior / Formação de professores</strong></td>
+            <td>Análise crítica das classificações históricas; discussão sobre historiografia; uso das Fontes para aprofundamento bibliográfico</td>
+            <td>Todos os modos + página Fontes</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <!-- ── PREPARO ── -->
+      <h2 id="preparo">Antes da aula</h2>
+      <ol>
+        <li><strong>Acesse o app com internet</strong> antes de levar ao ambiente escolar, para que o Service Worker construa o cache offline. Isso garante funcionamento mesmo sem Wi-Fi na escola.</li>
+        <li><strong>Escolha os datasets relevantes</strong> para o conteúdo da aula. Ative apenas os checkboxes pertinentes — grafo com muitos datasets simultaneamente pode ser visualmente denso para iniciantes.</li>
+        <li><strong>Teste a atividade você mesmo</strong> antes de propor aos alunos. Explore as cadeias causais e verifique se as relações exibidas são coerentes com o que será discutido.</li>
+        <li><strong>Prepare uma pergunta de partida</strong>. A ferramenta responde melhor a questões do que a navegação livre sem objetivo — "O que causou o fim do Império Romano?" produz melhor exploração do que "vejam o grafo".</li>
+      </ol>
+
+      <div class="nota">
+        <strong>Dica:</strong> A página <a href="fontes.html">Fontes</a> pode ser projetada ao lado do grafo para mostrar aos alunos de onde vêm as informações exibidas — desenvolvendo também o senso crítico sobre fontes históricas.
+      </div>
+
+      <!-- ── ATIVIDADES ── -->
+      <h2 id="ativ-exploracao">Atividade 1 — Exploração orientada</h2>
+
+      <div class="atividade">
+        <div class="atividade-header">
+          <span class="atividade-num">Ativ. 1</span>
+          <span class="atividade-titulo">O que estava acontecendo quando...?</span>
+        </div>
+        <div class="atividade-body">
+          <div class="atividade-meta">
+            <span class="meta-tag"><strong>Nível:</strong> Fundamental II / Médio</span>
+            <span class="meta-tag"><strong>Duração:</strong> 30–40 min</span>
+            <span class="meta-tag"><strong>Modo:</strong> Grafo + Linha do Tempo</span>
+          </div>
+          <p><strong>Objetivo:</strong> Desenvolver a consciência de simultaneidade histórica.</p>
+          <p><strong>Como fazer:</strong> Escolha um evento central do conteúdo estudado (ex: Queda de Roma, Revolução Francesa, Independência do Brasil). Ative datasets de diferentes regiões do mesmo período. Peça aos alunos que identifiquem três eventos que aconteciam simultaneamente em outras partes do mundo e escrevam um parágrafo conectando-os.</p>
+          <p><strong>Pergunta disparadora:</strong> <em>"Enquanto isso acontecia aqui, o que estava acontecendo no restante do mundo?"</em></p>
+        </div>
+      </div>
+
+      <h2 id="ativ-perguntas">Atividade 2 — Perguntas Geradoras</h2>
+
+      <div class="atividade">
+        <div class="atividade-header">
+          <span class="atividade-num">Ativ. 2</span>
+          <span class="atividade-titulo">A pergunta que organiza o mapa</span>
+        </div>
+        <div class="atividade-body">
+          <div class="atividade-meta">
+            <span class="meta-tag"><strong>Nível:</strong> Todos</span>
+            <span class="meta-tag"><strong>Duração:</strong> 20–30 min</span>
+            <span class="meta-tag"><strong>Modo:</strong> Perguntas</span>
+          </div>
+          <p><strong>Objetivo:</strong> Mostrar como uma questão histórica organiza e seleciona fontes e eventos relevantes.</p>
+          <p><strong>Como fazer:</strong> Acesse o modo <em>Perguntas</em>. Escolha uma pergunta do grupo temático estudado (ex: "Por que o Império Romano caiu?"). O sistema carrega automaticamente os datasets pertinentes. Discuta com os alunos: <em>por que esses eventos aparecem como resposta a essa pergunta? Quais estão faltando? O que mais poderia ser incluído?</em></p>
+          <p><strong>Variante:</strong> Peça aos alunos que formulem uma nova pergunta histórica e identifiquem quais datasets ela ativaria — trabalha a competência de elaboração de hipóteses.</p>
+        </div>
+      </div>
+
+      <h2 id="ativ-simultaneidade">Atividade 3 — Simultaneidade histórica</h2>
+
+      <div class="atividade">
+        <div class="atividade-header">
+          <span class="atividade-num">Ativ. 3</span>
+          <span class="atividade-titulo">O mundo em um século</span>
+        </div>
+        <div class="atividade-body">
+          <div class="atividade-meta">
+            <span class="meta-tag"><strong>Nível:</strong> Médio / Superior</span>
+            <span class="meta-tag"><strong>Duração:</strong> 45–60 min</span>
+            <span class="meta-tag"><strong>Modo:</strong> Linha do Tempo + Filtros</span>
+          </div>
+          <p><strong>Objetivo:</strong> Compreender que diferentes civilizações estavam em fases distintas de desenvolvimento ao mesmo tempo.</p>
+          <p><strong>Como fazer:</strong> Use o filtro de período para selecionar um século específico (ex: século XV). Ative datasets de diferentes continentes. Na linha do tempo, observe os eventos que ocorrem na mesma faixa horizontal. Peça aos alunos que comparem o "nível de complexidade" de diferentes sociedades naquele momento.</p>
+          <p><strong>Pergunta disparadora:</strong> <em>"O que significa dizer que uma civilização era 'mais avançada' que outra? Esse conceito faz sentido olhando para este mapa?"</em></p>
+        </div>
+      </div>
+
+      <h2 id="ativ-causal">Atividade 4 — Cadeia causal</h2>
+
+      <div class="atividade">
+        <div class="atividade-header">
+          <span class="atividade-num">Ativ. 4</span>
+          <span class="atividade-titulo">Remontando a cadeia</span>
+        </div>
+        <div class="atividade-body">
+          <div class="atividade-meta">
+            <span class="meta-tag"><strong>Nível:</strong> Médio / Superior</span>
+            <span class="meta-tag"><strong>Duração:</strong> 40–50 min</span>
+            <span class="meta-tag"><strong>Modo:</strong> Cadeia Causal</span>
+          </div>
+          <p><strong>Objetivo:</strong> Desenvolver o raciocínio de causalidade histórica de longa duração.</p>
+          <p><strong>Como fazer:</strong> Selecione um evento de grande impacto (ex: Revolução Francesa, Segunda Guerra Mundial, Independência do Brasil). Use o modo <em>Cadeia Causal</em> para percorrer as causas em dois níveis. Peça aos alunos que representem a cadeia num esquema próprio e discutam: <em>qual das causas foi mais determinante? Havia causas estruturais e causas conjunturais?</em></p>
+          <p><strong>Variante avançada:</strong> Use a <em>Cadeia de Consequências</em> no mesmo evento e peça aos alunos que conectem as duas cadeias numa linha do tempo própria, incluindo causas e consequências.</p>
+        </div>
+      </div>
+
+      <h2 id="ativ-comparacao">Atividade 5 — Comparação histórica</h2>
+
+      <div class="atividade">
+        <div class="atividade-header">
+          <span class="atividade-num">Ativ. 5</span>
+          <span class="atividade-titulo">Dois eventos, um espelho</span>
+        </div>
+        <div class="atividade-body">
+          <div class="atividade-meta">
+            <span class="meta-tag"><strong>Nível:</strong> Médio / Superior</span>
+            <span class="meta-tag"><strong>Duração:</strong> 30–40 min</span>
+            <span class="meta-tag"><strong>Modo:</strong> Comparar</span>
+          </div>
+          <p><strong>Objetivo:</strong> Treinar a habilidade de comparação histórica — identificar semelhanças estruturais e diferenças contextuais.</p>
+          <p><strong>Como fazer:</strong> Escolha dois eventos de contextos distintos mas estruturalmente semelhantes (ex: Revolução Francesa e Revolução Russa; Queda de Roma e Colapso do Império Han; Inquisição e Macartismo). Use o modo <em>Comparar</em> para exibi-los lado a lado. Peça aos alunos que listem três semelhanças e três diferenças, justificando com as informações do painel.</p>
+        </div>
+      </div>
+
+      <h2 id="ativ-fontes">Atividade 6 — Trabalhando com fontes</h2>
+
+      <div class="atividade">
+        <div class="atividade-header">
+          <span class="atividade-num">Ativ. 6</span>
+          <span class="atividade-titulo">De onde vem o que sabemos?</span>
+        </div>
+        <div class="atividade-body">
+          <div class="atividade-meta">
+            <span class="meta-tag"><strong>Nível:</strong> Médio / Superior</span>
+            <span class="meta-tag"><strong>Duração:</strong> 40–60 min</span>
+            <span class="meta-tag"><strong>Modo:</strong> Página Fontes</span>
+          </div>
+          <p><strong>Objetivo:</strong> Desenvolver consciência sobre a hierarquia das fontes históricas e a distinção entre fontes primárias, secundárias e terciárias.</p>
+          <p><strong>Como fazer:</strong> Abra a página <a href="fontes.html">Fontes</a> e selecione um tema estudado em aula. Explique a diferença entre os três tipos de fonte. Peça aos alunos que escolham uma fonte primária e uma secundária do mesmo tema e respondam: <em>que tipo de informação cada uma fornece? Por que precisamos das duas?</em></p>
+          <p><strong>Extensão:</strong> Proponha que os alunos busquem uma das fontes listadas (físicamente na biblioteca ou digitalmente) e tragam um trecho para a próxima aula — exercitando o trabalho com fontes reais.</p>
+        </div>
+      </div>
+
+      <!-- ── TIPOS ── -->
+      <h2 id="tipos">Tipos históricos — critérios de classificação</h2>
+      <p>Cada entidade no Heródoto é classificada em um dos sete tipos abaixo. As classificações foram feitas manualmente, priorizando a <strong>natureza do fenômeno</strong>, não sua forma superficial. Algumas escolhas podem surpreender — e essa surpresa pode ser pedagógica.</p>
+      <table class="nivel-table">
+        <thead><tr><th>Tipo</th><th>Critério</th><th>Exemplo contraintuitivo</th></tr></thead>
+        <tbody>
+          <tr><td><strong>Político</strong></td><td>Organização do poder, Estados, governos, diplomacia</td><td>Criação da ONU → político, não social</td></tr>
+          <tr><td><strong>Guerra</strong></td><td>Conflito armado organizado como evento central</td><td>Cruzadas → religioso, não guerra</td></tr>
+          <tr><td><strong>Cultural</strong></td><td>Arte, literatura, música, identidade, língua</td><td>Renascimento → cultural, não político</td></tr>
+          <tr><td><strong>Religioso</strong></td><td>Fenômenos onde a dimensão religiosa é estruturante</td><td>Inquisição → religioso, não guerra</td></tr>
+          <tr><td><strong>Social</strong></td><td>Estruturas sociais, movimentos, classes, ideologias de massa</td><td>Nazismo → social, não guerra</td></tr>
+          <tr><td><strong>Tecnológico</strong></td><td>Inovações técnicas e seus impactos históricos</td><td>Bombas atômicas → tecnológico, não guerra</td></tr>
+          <tr><td><strong>Econômico</strong></td><td>Sistemas econômicos, comércio, crises, modos de produção</td><td>Tráfico atlântico → econômico (e social)</td></tr>
+        </tbody>
+      </table>
+      <div class="nota">
+        A discussão sobre <em>por que o nazismo é classificado como "social"</em> pode ser uma atividade em si — trabalhando a distinção entre causa, fenômeno e consequência.
+      </div>
+
+      <!-- ── LIMITAÇÕES ── -->
+      <h2 id="limitacoes">Limitações a comunicar aos alunos</h2>
+      <div class="aviso">
+        <strong>Importante:</strong> Toda ferramenta pedagógica tem limites. Recomenda-se comunicá-los explicitamente aos alunos — isso em si é uma lição sobre pensamento crítico.
+      </div>
+      <ul>
+        <li><strong>As descrições são resumos</strong>, não análises historiográficas completas. Funcionam como ponto de partida, não de chegada.</li>
+        <li><strong>As relações entre entidades</strong> (arestas do grafo) são representações simplificadas de processos complexos.</li>
+        <li><strong>A cobertura não é uniforme</strong> — Europa e Brasil têm mais entidades do que África subsaariana ou Oceania, refletindo tanto a historiografia disponível quanto os limites do projeto.</li>
+        <li><strong>Os textos em inglês e espanhol</strong> de entidades adicionadas recentemente ainda são cópias do português — a tradução será feita em versões futuras.</li>
+        <li><strong>A ferramenta não debate</strong> — não apresenta versões conflitantes de um evento. Para isso, use as fontes primárias e secundárias listadas na página Fontes.</li>
+      </ul>
+
+    </div>
+  </main>
+</div>
+
+<footer>Heródoto v7.38 &mdash; Ferramenta pedagógica de código aberto para o ensino de história.</footer>
+</body>
+</html>

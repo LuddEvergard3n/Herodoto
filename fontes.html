@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Heródoto — Fontes e Bibliografia</title>
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#2a1e0f">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+  <style>
+    :root {
+      --perg-claro:        #f6f1e4;
+      --perg-medio:        #e8dfc8;
+      --perg-escuro:       #c8b898;
+      --tinta-pena:        #2a1e0f;
+      --tinta-desbotada:   #5a4030;
+      --borda-pergaminho:  #b09870;
+      --vermelho-ocre:     #8b3a2a;
+      --azul-lapislazuli:  #2b4b7e;
+      --dourado-velho:     #7a6228;
+      --fonte-titulo:      'IM Fell English', 'Palatino Linotype', Palatino, Georgia, serif;
+      --fonte-texto:       'Crimson Text', 'Palatino Linotype', Palatino, Georgia, serif;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: var(--fonte-texto);
+      color: var(--tinta-pena);
+      background-color: #a89070;
+      background-image: url('assets/pergaminho.jpg');
+      background-size: cover;
+      background-attachment: fixed;
+      background-position: center;
+      min-height: 100vh;
+    }
+
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background:
+        radial-gradient(ellipse at center, transparent 30%, rgba(15,8,2,0.42) 100%),
+        rgba(15,8,2,0.16);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* ─── HEADER ─── */
+    header {
+      position: relative;
+      z-index: 10;
+      background: linear-gradient(180deg, #2a1e0f 0%, #3d2e1a 100%);
+      color: var(--perg-medio);
+      padding: 1rem 2rem;
+      border-bottom: 3px solid var(--dourado-velho);
+      box-shadow: 0 3px 18px rgba(0,0,0,0.55);
+    }
+    header::after {
+      content: '';
+      position: absolute;
+      bottom: -6px; left: 0; right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, transparent, var(--borda-pergaminho), transparent);
+    }
+    .header-inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    .titulo h1 {
+      font-family: var(--fonte-titulo);
+      font-size: 1.7rem;
+      font-weight: 400;
+      font-variant: small-caps;
+      letter-spacing: 0.08em;
+      color: var(--perg-claro);
+      text-shadow: 0 1px 6px rgba(0,0,0,0.6);
+      margin-bottom: 0.1rem;
+    }
+    .titulo p {
+      font-family: var(--fonte-texto);
+      font-style: italic;
+      font-size: 0.9rem;
+      color: var(--perg-escuro);
+      letter-spacing: 0.02em;
+    }
+    .header-nav {
+      display: flex;
+      align-items: center;
+      gap: 1.2rem;
+    }
+    .btn-back {
+      font-family: var(--fonte-texto);
+      font-size: 0.95rem;
+      color: var(--perg-medio);
+      text-decoration: none;
+      padding: 0.35rem 0.9rem;
+      border: 1px solid var(--borda-pergaminho);
+      border-radius: 3px;
+      background: rgba(255,255,255,0.06);
+      transition: background 0.2s, color 0.2s;
+      letter-spacing: 0.03em;
+    }
+    .btn-back:hover {
+      background: rgba(255,255,255,0.14);
+      color: var(--perg-claro);
+    }
+    .btn-back.active {
+      background: rgba(176,152,112,0.3);
+      color: var(--perg-claro);
+      border-color: var(--perg-escuro);
+    }
+
+    /* ─── LAYOUT PRINCIPAL ─── */
+    .page-wrapper {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 1.5rem;
+      gap: 1.5rem;
+      min-height: calc(100vh - 80px);
+    }
+
+    /* ─── SIDEBAR DE TEMAS ─── */
+    .fontes-sidebar {
+      width: 270px;
+      flex-shrink: 0;
+    }
+    .sidebar-panel {
+      background: rgba(246, 241, 228, 0.88);
+      border: 1px solid var(--borda-pergaminho);
+      border-radius: 4px;
+      box-shadow: 2px 4px 14px rgba(0,0,0,0.3);
+      padding: 1rem 0;
+      position: sticky;
+      top: 1.5rem;
+      max-height: calc(100vh - 100px);
+      overflow-y: auto;
+    }
+    .sidebar-title {
+      font-family: var(--fonte-titulo);
+      font-size: 1rem;
+      font-variant: small-caps;
+      letter-spacing: 0.07em;
+      color: var(--tinta-desbotada);
+      padding: 0 1rem 0.7rem;
+      border-bottom: 1px solid var(--borda-pergaminho);
+      margin-bottom: 0.5rem;
+    }
+
+    /* Filtro de tipo */
+    .tipo-filtro {
+      display: flex;
+      gap: 0.4rem;
+      padding: 0.5rem 1rem 0.7rem;
+      flex-wrap: wrap;
+      border-bottom: 1px solid var(--perg-escuro);
+      margin-bottom: 0.4rem;
+    }
+    .tipo-btn {
+      font-family: var(--fonte-texto);
+      font-size: 0.78rem;
+      padding: 0.2rem 0.6rem;
+      border: 1px solid var(--borda-pergaminho);
+      border-radius: 3px;
+      background: transparent;
+      color: var(--tinta-desbotada);
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }
+    .tipo-btn.active {
+      background: var(--tinta-pena);
+      color: var(--perg-claro);
+      border-color: var(--tinta-pena);
+    }
+    .tipo-btn:hover:not(.active) {
+      background: var(--perg-escuro);
+    }
+
+    /* Lista de temas */
+    .tema-item {
+      display: block;
+      width: 100%;
+      text-align: left;
+      padding: 0.5rem 1rem;
+      background: none;
+      border: none;
+      font-family: var(--fonte-texto);
+      font-size: 0.92rem;
+      color: var(--tinta-desbotada);
+      cursor: pointer;
+      border-left: 3px solid transparent;
+      transition: background 0.15s, border-color 0.15s, color 0.15s;
+      line-height: 1.3;
+    }
+    .tema-item:hover {
+      background: rgba(176,152,112,0.2);
+      color: var(--tinta-pena);
+    }
+    .tema-item.active {
+      background: rgba(43,75,126,0.1);
+      border-left-color: var(--azul-lapislazuli);
+      color: var(--azul-lapislazuli);
+      font-weight: 600;
+    }
+    .tema-count {
+      font-size: 0.75rem;
+      color: var(--borda-pergaminho);
+      float: right;
+      margin-top: 2px;
+    }
+
+    /* ─── CONTEÚDO PRINCIPAL ─── */
+    .fontes-content {
+      flex: 1;
+      min-width: 0;
+    }
+
+    /* Busca */
+    .busca-wrapper {
+      background: rgba(246,241,228,0.88);
+      border: 1px solid var(--borda-pergaminho);
+      border-radius: 4px;
+      padding: 0.7rem 1rem;
+      margin-bottom: 1rem;
+      box-shadow: 1px 2px 8px rgba(0,0,0,0.2);
+      display: flex;
+      gap: 0.7rem;
+      align-items: center;
+    }
+    .busca-input {
+      flex: 1;
+      font-family: var(--fonte-texto);
+      font-size: 1rem;
+      color: var(--tinta-pena);
+      background: rgba(246,241,228,0.5);
+      border: 1px solid var(--borda-pergaminho);
+      border-radius: 3px;
+      padding: 0.4rem 0.7rem;
+      outline: none;
+    }
+    .busca-input:focus {
+      border-color: var(--azul-lapislazuli);
+      background: var(--perg-claro);
+    }
+    .busca-info {
+      font-family: var(--fonte-texto);
+      font-style: italic;
+      font-size: 0.88rem;
+      color: var(--tinta-desbotada);
+      white-space: nowrap;
+    }
+
+    /* Painel vazio (loading) */
+    .empty-state {
+      background: rgba(246,241,228,0.88);
+      border: 1px solid var(--borda-pergaminho);
+      border-radius: 4px;
+      padding: 3rem 2rem;
+      text-align: center;
+      color: var(--tinta-desbotada);
+      font-style: italic;
+      font-size: 1rem;
+      box-shadow: 1px 2px 8px rgba(0,0,0,0.2);
+    }
+
+    /* ─── CARD DE TEMA ─── */
+    .tema-card {
+      background: rgba(246,241,228,0.9);
+      border: 1px solid var(--borda-pergaminho);
+      border-radius: 4px;
+      box-shadow: 2px 4px 14px rgba(0,0,0,0.25);
+      margin-bottom: 1.5rem;
+      overflow: hidden;
+    }
+    .tema-card-header {
+      background: linear-gradient(180deg, #2a1e0f 0%, #3d2e1a 100%);
+      color: var(--perg-claro);
+      padding: 0.9rem 1.2rem;
+      border-bottom: 2px solid var(--dourado-velho);
+    }
+    .tema-card-header h2 {
+      font-family: var(--fonte-titulo);
+      font-size: 1.25rem;
+      font-weight: 400;
+      font-variant: small-caps;
+      letter-spacing: 0.06em;
+      margin-bottom: 0.25rem;
+    }
+    .tema-descricao {
+      font-style: italic;
+      font-size: 0.88rem;
+      color: var(--perg-escuro);
+      line-height: 1.4;
+    }
+    .tema-card-body {
+      padding: 1rem 1.2rem;
+    }
+
+    /* Seção por tipo */
+    .tipo-section {
+      margin-bottom: 1.2rem;
+    }
+    .tipo-section:last-child { margin-bottom: 0; }
+    .tipo-label {
+      font-family: var(--fonte-titulo);
+      font-size: 0.82rem;
+      font-variant: small-caps;
+      letter-spacing: 0.1em;
+      color: var(--vermelho-ocre);
+      border-bottom: 1px solid var(--perg-escuro);
+      padding-bottom: 0.3rem;
+      margin-bottom: 0.6rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .tipo-label::before {
+      content: '';
+      display: inline-block;
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--vermelho-ocre);
+      flex-shrink: 0;
+    }
+    .tipo-label.secundaria::before  { background: var(--azul-lapislazuli); }
+    .tipo-label.secundaria          { color: var(--azul-lapislazuli); }
+    .tipo-label.terciaria::before   { background: var(--dourado-velho); }
+    .tipo-label.terciaria           { color: var(--dourado-velho); }
+
+    /* Item de fonte */
+    .fonte-item {
+      padding: 0.45rem 0.6rem;
+      border-bottom: 1px dotted var(--perg-escuro);
+      font-size: 0.93rem;
+      line-height: 1.5;
+      display: flex;
+      flex-direction: column;
+      gap: 0.1rem;
+    }
+    .fonte-item:last-child { border-bottom: none; }
+    .fonte-item.highlight {
+      background: rgba(43,75,126,0.07);
+      border-radius: 3px;
+    }
+    .fonte-autor {
+      font-weight: 600;
+      color: var(--tinta-pena);
+    }
+    .fonte-obra {
+      font-style: italic;
+      color: var(--tinta-desbotada);
+    }
+    .fonte-meta {
+      font-size: 0.8rem;
+      color: var(--borda-pergaminho);
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+    .fonte-ano {
+      color: var(--vermelho-ocre);
+      font-weight: 600;
+    }
+    .fonte-nota {
+      font-style: italic;
+      color: var(--tinta-desbotada);
+      font-size: 0.8rem;
+    }
+
+    /* ─── RODAPÉ ─── */
+    footer {
+      position: relative;
+      z-index: 1;
+      text-align: center;
+      padding: 1.2rem;
+      font-style: italic;
+      font-size: 0.82rem;
+      color: var(--perg-escuro);
+      text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    }
+
+    /* Scrollbar estilizada */
+    .sidebar-panel::-webkit-scrollbar { width: 5px; }
+    .sidebar-panel::-webkit-scrollbar-track { background: var(--perg-medio); }
+    .sidebar-panel::-webkit-scrollbar-thumb { background: var(--borda-pergaminho); border-radius: 3px; }
+
+    /* Responsivo */
+    @media (max-width: 768px) {
+      .page-wrapper { flex-direction: column; padding: 0.8rem; }
+      .fontes-sidebar { width: 100%; }
+      .sidebar-panel { position: static; max-height: none; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="titulo">
+      <h1>Heródoto — Fontes</h1>
+      <p>Bibliografia histórica primária, secundária e terciária</p>
+    </div>
+    <nav class="header-nav">
+      <a href="index.html"            class="btn-back">← Mapa</a>
+      <a href="fontes.html"           class="btn-back active">Fontes</a>
+      <a href="guia-professor.html"   class="btn-back">Guia do Professor</a>
+      <a href="sobre.html"            class="btn-back">Sobre</a>
+      <a href="ajuda.html"            class="btn-back">Ajuda</a>
+    </nav>
+  </div>
+</header>
+
+<div class="page-wrapper">
+
+  <!-- SIDEBAR -->
+  <aside class="fontes-sidebar">
+    <div class="sidebar-panel">
+      <div class="sidebar-title">Temas</div>
+
+      <div class="tipo-filtro">
+        <button class="tipo-btn active" data-tipo="todos">Todos</button>
+        <button class="tipo-btn" data-tipo="primarias">Primárias</button>
+        <button class="tipo-btn" data-tipo="secundarias">Secundárias</button>
+        <button class="tipo-btn" data-tipo="terciarias">Terciárias</button>
+      </div>
+
+      <div id="tema-lista">
+        <!-- preenchido pelo JS -->
+      </div>
+    </div>
+  </aside>
+
+  <!-- CONTEÚDO -->
+  <main class="fontes-content">
+
+    <div class="busca-wrapper">
+      <input
+        type="text"
+        id="busca-input"
+        class="busca-input"
+        placeholder="Buscar autor, obra ou tema..."
+        autocomplete="off"
+        spellcheck="false"
+      >
+      <span class="busca-info" id="busca-info"></span>
+    </div>
+
+    <div id="fontes-container">
+      <div class="empty-state">Carregando fontes…</div>
+    </div>
+
+  </main>
+</div>
+
+<footer>
+  Heródoto — Visualização Histórica &mdash; As fontes aqui listadas orientaram a construção dos datasets.
+  Autores e obras citados para fins acadêmicos e educativos.
+</footer>
+
+<script>
+// ─── CONFIGURAÇÃO DOS ARQUIVOS DE FONTES ───
+const FONTES_FILES = [
+  { file: 'fontes/fontes-pre-historia.json',                       ordem: 1  },
+  { file: 'fontes/fontes-civilizacoes-bronze-mediterraneo.json',   ordem: 2  },
+  { file: 'fontes/fontes-mesopotamia-oriente-antigo.json',         ordem: 3  },
+  { file: 'fontes/fontes-egito-antigo.json',                       ordem: 4  },
+  { file: 'fontes/fontes-grecia-antiga.json',                      ordem: 5  },
+  { file: 'fontes/fontes-roma-antiga.json',                        ordem: 6  },
+  { file: 'fontes/fontes-europa-medieval.json',                    ordem: 7  },
+  { file: 'fontes/fontes-europa-medieval-aprofundada.json',        ordem: 8  },
+  { file: 'fontes/fontes-mongois-vikings-nomades.json',            ordem: 9  },
+  { file: 'fontes/fontes-renascimento-reforma.json',               ordem: 10 },
+  { file: 'fontes/fontes-europa-moderna.json',                     ordem: 11 },
+  { file: 'fontes/fontes-iluminismo-revolucoes.json',              ordem: 12 },
+  { file: 'fontes/fontes-seculo-xix-europa.json',                  ordem: 13 },
+  { file: 'fontes/fontes-primeira-guerra-entreguerras.json',       ordem: 14 },
+  { file: 'fontes/fontes-guerras-mundiais.json',                   ordem: 15 },
+  { file: 'fontes/fontes-guerra-fria.json',                        ordem: 16 },
+  { file: 'fontes/fontes-europa-pos-guerra-contemporanea.json',    ordem: 17 },
+  { file: 'fontes/fontes-mundo-contemporaneo.json',                ordem: 18 },
+  { file: 'fontes/fontes-revolucao-industrial-capitalismo.json',   ordem: 19 },
+  { file: 'fontes/fontes-russia-urss.json',                        ordem: 20 },
+  { file: 'fontes/fontes-islao-mundo-islamico.json',               ordem: 21 },
+  { file: 'fontes/fontes-oriente-medio-moderno.json',              ordem: 22 },
+  { file: 'fontes/fontes-africa.json',                             ordem: 23 },
+  { file: 'fontes/fontes-americas-pre-colombianas.json',           ordem: 24 },
+  { file: 'fontes/fontes-america-latina.json',                     ordem: 25 },
+  { file: 'fontes/fontes-brasil.json',                             ordem: 26 },
+  { file: 'fontes/fontes-eua.json',                                ordem: 27 },
+  { file: 'fontes/fontes-india.json',                              ordem: 28 },
+  { file: 'fontes/fontes-china.json',                              ordem: 29 },
+  { file: 'fontes/fontes-japao-coreia.json',                       ordem: 30 },
+  { file: 'fontes/fontes-sudeste-asiatico.json',                   ordem: 31 },
+  { file: 'fontes/fontes-antartida-exploracoes.json',              ordem: 32 },
+  { file: 'fontes/fontes-movimentos-sociais-arte-cultura.json',    ordem: 33 },
+  { file: 'fontes/fontes-imperialismo-colonialismo.json',          ordem: 34 },
+  { file: 'fontes/fontes-religiao.json',                           ordem: 35 },
+  { file: 'fontes/fontes-filosofia-pensamento.json',               ordem: 36 },
+  { file: 'fontes/fontes-ciencia-tecnologia.json',                 ordem: 37 },
+  { file: 'fontes/fontes-historiografia.json',                     ordem: 38 },
+];
+
+// ─── ESTADO ───
+let allData = [];
+let tipoAtivo = 'todos';
+let temaAtivo = null;
+let buscaTxt = '';
+
+// ─── CARGA ───
+async function loadAll() {
+  const results = await Promise.allSettled(
+    FONTES_FILES.map(f => fetch(f.file).then(r => r.json()).then(d => ({ ...d, _file: f.file, _ordem: f.ordem })))
+  );
+  allData = results
+    .filter(r => r.status === 'fulfilled')
+    .map(r => r.value)
+    .sort((a, b) => a._ordem - b._ordem);
+
+  buildSidebar();
+  render();
+}
+
+// ─── SIDEBAR ───
+function buildSidebar() {
+  const lista = document.getElementById('tema-lista');
+  lista.innerHTML = '';
+
+  // Opção "Todos"
+  const btnAll = document.createElement('button');
+  btnAll.className = 'tema-item active';
+  btnAll.dataset.tema = '';
+  btnAll.innerHTML = `Todos os temas <span class="tema-count">${allData.length}</span>`;
+  btnAll.addEventListener('click', () => selectTema(''));
+  lista.appendChild(btnAll);
+
+  allData.forEach(d => {
+    const btn = document.createElement('button');
+    btn.className = 'tema-item';
+    btn.dataset.tema = d.tema;
+    const total = countFontes(d);
+    btn.innerHTML = `${d.tema} <span class="tema-count">${total}</span>`;
+    btn.addEventListener('click', () => selectTema(d.tema));
+    lista.appendChild(btn);
+  });
+}
+
+function countFontes(d) {
+  const sec = d.fontes || {};
+  return (sec.primarias || []).length + (sec.secundarias || []).length + (sec.terciarias || []).length;
+}
+
+function selectTema(tema) {
+  temaAtivo = tema;
+  document.querySelectorAll('.tema-item').forEach(b => {
+    b.classList.toggle('active', b.dataset.tema === tema);
+  });
+  render();
+}
+
+// ─── FILTRO TIPO ───
+document.querySelectorAll('.tipo-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    tipoAtivo = btn.dataset.tipo;
+    document.querySelectorAll('.tipo-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    render();
+  });
+});
+
+// ─── BUSCA ───
+document.getElementById('busca-input').addEventListener('input', e => {
+  buscaTxt = e.target.value.trim().toLowerCase();
+  render();
+});
+
+// ─── RENDER ───
+function render() {
+  const container = document.getElementById('fontes-container');
+  const infoEl    = document.getElementById('busca-info');
+
+  let dados = allData;
+  if (temaAtivo) dados = dados.filter(d => d.tema === temaAtivo);
+
+  let totalVisiveis = 0;
+  const cards = [];
+
+  dados.forEach(d => {
+    const card = renderCard(d);
+    if (card) { cards.push(card); totalVisiveis++; }
+  });
+
+  if (cards.length === 0) {
+    container.innerHTML = `<div class="empty-state">Nenhuma fonte encontrada${buscaTxt ? ` para "${buscaTxt}"` : ''}.</div>`;
+    infoEl.textContent = '';
+    return;
+  }
+
+  container.innerHTML = '';
+  cards.forEach(c => container.appendChild(c));
+
+  if (buscaTxt) {
+    const total = container.querySelectorAll('.fonte-item.highlight').length;
+    infoEl.textContent = `${total} resultado${total !== 1 ? 's' : ''}`;
+  } else {
+    infoEl.textContent = `${totalVisiveis} tema${totalVisiveis !== 1 ? 's' : ''}`;
+  }
+}
+
+function renderCard(d) {
+  const sec = d.fontes || {};
+  const tipos = ['primarias', 'secundarias', 'terciarias'];
+  const nomesTipos = { primarias: 'Fontes Primárias', secundarias: 'Fontes Secundárias', terciarias: 'Fontes Terciárias' };
+
+  // Aplicar filtro de tipo
+  const tiposFiltrados = tipoAtivo === 'todos' ? tipos : tipos.filter(t => t === tipoAtivo);
+
+  // Verificar se há algo após busca
+  let temConteudo = false;
+  const secoes = [];
+
+  tiposFiltrados.forEach(tipo => {
+    const lista = (sec[tipo] || []).filter(f => matchBusca(f));
+    if (lista.length > 0) {
+      temConteudo = true;
+      secoes.push({ tipo, lista, nomesTipos });
+    }
+  });
+
+  if (!temConteudo) return null;
+
+  const card = document.createElement('div');
+  card.className = 'tema-card';
+
+  card.innerHTML = `
+    <div class="tema-card-header">
+      <h2>${d.tema}</h2>
+      ${d.descricao ? `<div class="tema-descricao">${d.descricao}</div>` : ''}
+    </div>
+    <div class="tema-card-body"></div>
+  `;
+
+  const body = card.querySelector('.tema-card-body');
+
+  secoes.forEach(({ tipo, lista }) => {
+    const sec = document.createElement('div');
+    sec.className = 'tipo-section';
+    const labelClass = tipo === 'secundarias' ? 'tipo-label secundaria' : tipo === 'terciarias' ? 'tipo-label terciaria' : 'tipo-label';
+    sec.innerHTML = `<div class="${labelClass}">${nomesTipos[tipo]}</div>`;
+
+    lista.forEach(f => {
+      const item = document.createElement('div');
+      item.className = 'fonte-item' + (buscaTxt && matchBusca(f) ? ' highlight' : '');
+      item.innerHTML = `
+        <div><span class="fonte-autor">${esc(f.autor)}</span></div>
+        <div><span class="fonte-obra">${esc(f.obra)}</span></div>
+        <div class="fonte-meta">
+          <span class="fonte-ano">${esc(f.ano)}</span>
+          ${f.editora ? `<span>· ${esc(f.editora)}</span>` : ''}
+          ${f.nota ? `<span class="fonte-nota">— ${esc(f.nota)}</span>` : ''}
+        </div>
+      `;
+      sec.appendChild(item);
+    });
+
+    body.appendChild(sec);
+  });
+
+  return card;
+}
+
+function matchBusca(f) {
+  if (!buscaTxt) return true;
+  return (f.autor + f.obra + (f.editora || '') + (f.nota || '')).toLowerCase().includes(buscaTxt);
+}
+
+function esc(str) {
+  return (str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ─── INICIAR ───
+loadAll();
+</script>
+</body>
+</html>
