@@ -1,0 +1,137 @@
+{
+  "tema": "Mesopotâmia e Oriente Próximo Antigo",
+  "descricao": "Suméria, Acadônia, Babilônia, Assíria, Hititas, Fenícios, Persas, Hebreus",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Anônimo",
+        "obra": "Epopeia de Gilgamesh",
+        "ano": "c. 2100–1200 a.C.",
+        "nota": "Ed. recomendada: Andrew George, Penguin Classics, 2003"
+      },
+      {
+        "autor": "Rei da Babilônia Hammurabi",
+        "obra": "Código de Hammurabi",
+        "ano": "c. 1754 a.C.",
+        "nota": "Trad. recomendada: Martha T. Roth, Scholars Press"
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Tábuas de Argila de Nippur e Ur (Cuneiforme)",
+        "ano": "c. 3000–500 a.C.",
+        "nota": "The Electronic Text Corpus of Sumerian Literature, Oxford"
+      },
+      {
+        "autor": "Rei de Ur Ur-Nammu",
+        "obra": "Código de Ur-Nammu",
+        "ano": "c. 2100 a.C.",
+        "nota": "Primeiro código legal da história"
+      },
+      {
+        "autor": "Ciro II (Ciro, o Grande)",
+        "obra": "Cilindro de Ciro",
+        "ano": "539 a.C.",
+        "nota": "British Museum, Londres"
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Arquivos de Amarna (cartas diplomáticas)",
+        "ano": "c. 1360–1332 a.C."
+      },
+      {
+        "autor": "Rei da Assíria Senaqueribe",
+        "obra": "Prisma de Senaqueribe (Prisma Taylor)",
+        "ano": "c. 691 a.C.",
+        "nota": "British Museum"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Samuel Noah Kramer",
+        "obra": "History Begins at Sumer",
+        "ano": "1956",
+        "editora": "University of Pennsylvania Press"
+      },
+      {
+        "autor": "A. Leo Oppenheim",
+        "obra": "Ancient Mesopotamia: Portrait of a Dead Civilization",
+        "ano": "1964",
+        "editora": "University of Chicago Press"
+      },
+      {
+        "autor": "Van De Mieroop, Marc",
+        "obra": "A History of the Ancient Near East, ca. 3000–323 BC",
+        "ano": "2016",
+        "editora": "Wiley-Blackwell"
+      },
+      {
+        "autor": "Gwendolyn Leick",
+        "obra": "Mesopotamia: The Invention of the City",
+        "ano": "2001",
+        "editora": "Allen Lane"
+      },
+      {
+        "autor": "J. N. Postgate",
+        "obra": "Early Mesopotamia: Society and Economy at the Dawn of History",
+        "ano": "1992",
+        "editora": "Routledge"
+      },
+      {
+        "autor": "Trevor Bryce",
+        "obra": "The Kingdom of the Hittites",
+        "ano": "1998",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Amélie Kuhrt",
+        "obra": "The Ancient Near East c. 3000–330 BC (2 vols.)",
+        "ano": "1995",
+        "editora": "Routledge"
+      },
+      {
+        "autor": "John Boardman (ed.)",
+        "obra": "The Cambridge Ancient History, Vol. II–III",
+        "ano": "1991",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "John Bright",
+        "obra": "A History of Israel",
+        "ano": "1959",
+        "editora": "Westminster Press"
+      },
+      {
+        "autor": "Muhammad Dandamaev",
+        "obra": "A Political History of the Achaemenid Empire",
+        "ano": "1989",
+        "editora": "Brill"
+      },
+      {
+        "autor": "Dominique Collon",
+        "obra": "Ancient Near Eastern Art",
+        "ano": "1995",
+        "editora": "British Museum Press"
+      },
+      {
+        "autor": "Jean Bottéro",
+        "obra": "Mesopotamia: Writing, Reasoning, and the Gods",
+        "ano": "1992",
+        "editora": "University of Chicago Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Georges Roux",
+        "obra": "Ancient Iraq",
+        "ano": "1964",
+        "editora": "Penguin"
+      },
+      {
+        "autor": "Thomas Cahill",
+        "obra": "The Gifts of the Jews",
+        "ano": "1998",
+        "editora": "Nan A. Talese"
+      }
+    ]
+  }
+}

@@ -169,6 +169,62 @@
         "modernização"
       ],
       "dataset": "data/dados-japao-sengoku.json"
+    },
+    {
+      "id": "js1",
+      "nome": "Oda Nobunaga: O Unificador",
+      "nome_en": "Oda Nobunaga: O Unificador",
+      "nome_es": "Oda Nobunaga: O Unificador",
+      "tipo": "pessoa",
+      "inicio": 1534,
+      "fim": 1582,
+      "region": "Asia",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "war",
+      "descricao": "Oda Nobunaga (1534-1582) iniciou a unificação do Japão: adotou armas de fogo européias (arcabuzes) em formação de fogo em massa na batalha de Nagashino (1575) - destruindo os cavaleiros tradicionais. Assassinado por Akechi Mitsuhide em 1582.",
+      "descricao_en": "Oda Nobunaga (1534-1582) iniciou a unificação do Japão: adotou armas de fogo européias (arcabuzes) em formação de fogo em massa na batalha de Nagashino (1575) - destruindo os cavaleiros tradicionais. Assassinado por Akechi Mitsuhide em 1582.",
+      "descricao_es": "Oda Nobunaga (1534-1582) iniciou a unificação do Japão: adotou armas de fogo européias (arcabuzes) em formação de fogo em massa na batalha de Nagashino (1575) - destruindo os cavaleiros tradicionais. Assassinado por Akechi Mitsuhide em 1582.",
+      "importancia": "Nobunaga demonstra que a inovação tecnológica (armas de fogo) pode tornar obsoletas formas de guerra tradicionais em uma batalha. O samurai que resistiu ao arcabuz foi tão irrelevante quanto o cavaleiro medieval que resistiu à pólvora.",
+      "importancia_en": "Nobunaga demonstra que a inovação tecnológica (armas de fogo) pode tornar obsoletas formas de guerra tradicionais em uma batalha. O samurai que resistiu ao arcabuz foi tão irrelevante quanto o cavaleiro medieval que resistiu à pólvora.",
+      "importancia_es": "Nobunaga demonstra que a inovação tecnológica (armas de fogo) pode tornar obsoletas formas de guerra tradicionais em uma batalha. O samurai que resistiu ao arcabuz foi tão irrelevante quanto o cavaleiro medieval que resistiu à pólvora.",
+      "tags": [
+        "Nobunaga",
+        "Nagashino",
+        "1575",
+        "arcabuz",
+        "unificação",
+        "Mitsuhide"
+      ],
+      "dataset": "data/dados-japao-sengoku.json"
+    },
+    {
+      "id": "js2",
+      "nome": "Toyotomi Hideyoshi: Do Camponês ao Senhor do Japão",
+      "nome_en": "Toyotomi Hideyoshi: Do Camponês ao Senhor do Japão",
+      "nome_es": "Toyotomi Hideyoshi: Do Camponês ao Senhor do Japão",
+      "tipo": "pessoa",
+      "inicio": 1537,
+      "fim": 1598,
+      "region": "Asia",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "Hideyoshi (1537-1598) foi o filho de um camponês que governou o Japão inteiro - a maior ascensão social da história japonesa. Completou a unificação, invadiu a Coreia (1592, 1597, fracasso), e proibiu a Companhia de Jesus (1587). Criou o primeiro censo e cadastro de terras do Japão.",
+      "descricao_en": "Hideyoshi (1537-1598) foi o filho de um camponês que governou o Japão inteiro - a maior ascensão social da história japonesa. Completou a unificação, invadiu a Coreia (1592, 1597, fracasso), e proibiu a Companhia de Jesus (1587). Criou o primeiro censo e cadastro de terras do Japão.",
+      "descricao_es": "Hideyoshi (1537-1598) foi o filho de um camponês que governou o Japão inteiro - a maior ascensão social da história japonesa. Completou a unificação, invadiu a Coreia (1592, 1597, fracasso), e proibiu a Companhia de Jesus (1587). Criou o primeiro censo e cadastro de terras do Japão.",
+      "importancia": "Hideyoshi é o maior exemplo de meritocracia da história japonesa: de filho de camponês a senhor do Japão. O insucesso coreano demonstrou que um general brilhante pode subestimar a logística de uma campanha ultramarina.",
+      "importancia_en": "Hideyoshi é o maior exemplo de meritocracia da história japonesa: de filho de camponês a senhor do Japão. O insucesso coreano demonstrou que um general brilhante pode subestimar a logística de uma campanha ultramarina.",
+      "importancia_es": "Hideyoshi é o maior exemplo de meritocracia da história japonesa: de filho de camponês a senhor do Japão. O insucesso coreano demonstrou que um general brilhante pode subestimar a logística de uma campanha ultramarina.",
+      "tags": [
+        "Hideyoshi",
+        "camponês",
+        "1592",
+        "Coreia",
+        "unificação",
+        "jesuítas"
+      ],
+      "dataset": "data/dados-japao-sengoku.json"
     }
   ],
   "relacoes": [

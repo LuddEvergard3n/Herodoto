@@ -164,6 +164,62 @@
       "importancia_es": "O suicídio de Vargas foi o ato político mais eficaz de sua carreira: transformou sua derrota iminente em martírio, bloqueou o golpe que se preparava e preservou o trabalhismo como força política por décadas. A Carta-Testamento ('os grupos internacionais se aliaram aos grupos nacionais contrários aos interesses do povo') ainda ressoa na política brasileira.",
       "century_start": 19,
       "century_end": 20
+    },
+    {
+      "id": "bev1",
+      "nome": "A CLT e os Direitos Trabalhistas",
+      "nome_en": "A CLT e os Direitos Trabalhistas",
+      "nome_es": "A CLT e os Direitos Trabalhistas",
+      "tipo": "cultural",
+      "inicio": 1943,
+      "fim": 1945,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "social",
+      "descricao": "A CLT (1943) foi o maior legado jurídico de Vargas: férias, 8 horas de trabalho, salário mínimo, previdência. Copiada da Carta del Lavoro italiana fascista - mas funcionou melhor que o original.",
+      "descricao_en": "A CLT (1943) foi o maior legado jurídico de Vargas: férias, 8 horas de trabalho, salário mínimo, previdência. Copiada da Carta del Lavoro italiana fascista - mas funcionou melhor que o original.",
+      "descricao_es": "A CLT (1943) foi o maior legado jurídico de Vargas: férias, 8 horas de trabalho, salário mínimo, previdência. Copiada da Carta del Lavoro italiana fascista - mas funcionou melhor que o original.",
+      "importancia": "A CLT é o documento mais importante para os trabalhadores brasileiros. Que venha da Itália fascista e funcione até hoje demonstra que instrumentos transcendem suas origens políticas.",
+      "importancia_en": "A CLT é o documento mais importante para os trabalhadores brasileiros. Que venha da Itália fascista e funcione até hoje demonstra que instrumentos transcendem suas origens políticas.",
+      "importancia_es": "A CLT é o documento mais importante para os trabalhadores brasileiros. Que venha da Itália fascista e funcione até hoje demonstra que instrumentos transcendem suas origens políticas.",
+      "tags": [
+        "CLT",
+        "1943",
+        "trabalhismo",
+        "salário mínimo",
+        "fascismo italiano",
+        "sindicatos"
+      ],
+      "dataset": "data/dados-brasil-13-era-vargas.json"
+    },
+    {
+      "id": "bev2",
+      "nome": "O Suicídio de Vargas (1954)",
+      "nome_en": "O Suicídio de Vargas (1954)",
+      "nome_es": "O Suicídio de Vargas (1954)",
+      "tipo": "evento",
+      "inicio": 1954,
+      "fim": 1954,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "O suicídio de Vargas (24 agosto 1954). A Carta Testamento: Saio da vida para entrar na história. Vargas transformou sua morte numa arma política que freou por anos o projeto que o cercava.",
+      "descricao_en": "O suicídio de Vargas (24 agosto 1954). A Carta Testamento: Saio da vida para entrar na história. Vargas transformou sua morte numa arma política que freou por anos o projeto que o cercava.",
+      "descricao_es": "O suicídio de Vargas (24 agosto 1954). A Carta Testamento: Saio da vida para entrar na história. Vargas transformou sua morte numa arma política que freou por anos o projeto que o cercava.",
+      "importancia": "O suicídio de Vargas foi o ato político mais calculado da história brasileira. A Carta Testamento criou o varguismo póstumo que durou 30 anos.",
+      "importancia_en": "O suicídio de Vargas foi o ato político mais calculado da história brasileira. A Carta Testamento criou o varguismo póstumo que durou 30 anos.",
+      "importancia_es": "O suicídio de Vargas foi o ato político mais calculado da história brasileira. A Carta Testamento criou o varguismo póstumo que durou 30 anos.",
+      "tags": [
+        "suicídio",
+        "1954",
+        "Carta Testamento",
+        "Lacerda",
+        "agosto",
+        "política"
+      ],
+      "dataset": "data/dados-brasil-13-era-vargas.json"
     }
   ]
 }

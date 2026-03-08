@@ -174,6 +174,62 @@
         "Amoritas"
       ],
       "dataset": "data/dados-sumeria-expandida.json"
+    },
+    {
+      "id": "sux1",
+      "nome": "A Roda e a Escrita: As Duas Invenções da Suméria",
+      "nome_en": "A Roda e a Escrita: As Duas Invenções da Suméria",
+      "nome_es": "A Roda e a Escrita: As Duas Invenções da Suméria",
+      "tipo": "cultural",
+      "inicio": -3500,
+      "fim": -3000,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 36,
+      "type": "technological",
+      "descricao": "A Suméria inventou a roda (c. 3500 a.C., primeiro como torno cerâmico, depois como roda de transporte) e a escrita cuneiforme (c. 3200 a.C., primeiro para contabilidade comercial). As duas invenções mais transformadoras da história surgiram no mesmo lugar em 300 anos.",
+      "descricao_en": "A Suméria inventou a roda (c. 3500 a.C., primeiro como torno cerâmico, depois como roda de transporte) e a escrita cuneiforme (c. 3200 a.C., primeiro para contabilidade comercial). As duas invenções mais transformadoras da história surgiram no mesmo lugar em 300 anos.",
+      "descricao_es": "A Suméria inventou a roda (c. 3500 a.C., primeiro como torno cerâmico, depois como roda de transporte) e a escrita cuneiforme (c. 3200 a.C., primeiro para contabilidade comercial). As duas invenções mais transformadoras da história surgiram no mesmo lugar em 300 anos.",
+      "importancia": "A Suméria inventou as duas tecnologias que mais transformaram a humanidade: a roda e a escrita. Que ambas tenham surgido como respostas a necessidades práticas (transporte e contabilidade) demonstra que as grandes inovações vêm da necessidade.",
+      "importancia_en": "A Suméria inventou as duas tecnologias que mais transformaram a humanidade: a roda e a escrita. Que ambas tenham surgido como respostas a necessidades práticas (transporte e contabilidade) demonstra que as grandes inovações vêm da necessidade.",
+      "importancia_es": "A Suméria inventou as duas tecnologias que mais transformaram a humanidade: a roda e a escrita. Que ambas tenham surgido como respostas a necessidades práticas (transporte e contabilidade) demonstra que as grandes inovações vêm da necessidade.",
+      "tags": [
+        "roda",
+        "3500 a.C.",
+        "cuneiforme",
+        "escrita",
+        "3200 a.C.",
+        "contabilidade"
+      ],
+      "dataset": "data/dados-sumeria-expandida.json"
+    },
+    {
+      "id": "sux2",
+      "nome": "Ur: A Cidade dos Zigurates",
+      "nome_en": "Ur: A Cidade dos Zigurates",
+      "nome_es": "Ur: A Cidade dos Zigurates",
+      "tipo": "cultural",
+      "inicio": -2600,
+      "fim": -2000,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 27,
+      "type": "cultural",
+      "descricao": "Ur (atual Iraque) foi a maior cidade suméria: c. 65.000 habitantes em 2000 a.C. O Zigurate de Ur (c. 2100 a.C., Ur-Nammu) ainda existe parcialmente. As Tumbas Reais de Ur (descobertas por Woolley, 1922-1934): 74 servos sacrificados para acompanhar o rei na morte.",
+      "descricao_en": "Ur (atual Iraque) foi a maior cidade suméria: c. 65.000 habitantes em 2000 a.C. O Zigurate de Ur (c. 2100 a.C., Ur-Nammu) ainda existe parcialmente. As Tumbas Reais de Ur (descobertas por Woolley, 1922-1934): 74 servos sacrificados para acompanhar o rei na morte.",
+      "descricao_es": "Ur (atual Iraque) foi a maior cidade suméria: c. 65.000 habitantes em 2000 a.C. O Zigurate de Ur (c. 2100 a.C., Ur-Nammu) ainda existe parcialmente. As Tumbas Reais de Ur (descobertas por Woolley, 1922-1934): 74 servos sacrificados para acompanhar o rei na morte.",
+      "importancia": "Ur é o símbolo mais perfeito da civilização suméria: uma cidade de 65.000 pessoas com zigurate como montanha artificial, administração tributária e arte sofisticada - 4.000 anos antes de qualquer outra cidade europeia de tamanho similar.",
+      "importancia_en": "Ur é o símbolo mais perfeito da civilização suméria: uma cidade de 65.000 pessoas com zigurate como montanha artificial, administração tributária e arte sofisticada - 4.000 anos antes de qualquer outra cidade europeia de tamanho similar.",
+      "importancia_es": "Ur é o símbolo mais perfeito da civilização suméria: uma cidade de 65.000 pessoas com zigurate como montanha artificial, administração tributária e arte sofisticada - 4.000 anos antes de qualquer outra cidade europeia de tamanho similar.",
+      "tags": [
+        "Ur",
+        "65.000",
+        "Zigurate",
+        "Ur-Nammu",
+        "Woolley",
+        "sacrifício"
+      ],
+      "dataset": "data/dados-sumeria-expandida.json"
     }
   ],
   "relacoes": [

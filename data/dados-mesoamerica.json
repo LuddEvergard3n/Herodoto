@@ -155,6 +155,62 @@
       "period": "Medieval",
       "importancia_en": "Smallpox killed 40% population including emperor Cuitláhuac.",
       "importancia_es": "Conquistados por Cortés (1519-1521): 300 españoles + miles de aliados indígenas enemigos aztecas. Viruela mató 40% población incluyendo emperador Cuitláhuac."
+    },
+    {
+      "id": "meso1",
+      "nome": "Os Olmecas: A Civilização Mãe",
+      "nome_en": "Os Olmecas: A Civilização Mãe",
+      "nome_es": "Os Olmecas: A Civilização Mãe",
+      "tipo": "periodo",
+      "inicio": -1500,
+      "fim": -400,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 16,
+      "type": "cultural",
+      "descricao": "Os olmecas (1500-400 a.C.) foram a primeira grande civilização da Mesoamérica: cabeças colossais de basalto (até 3 toneladas), escritura proto-maia, sistema calendárico, e jogo de bola ritual. Influenciaram maias, astecas e zapotecas.",
+      "descricao_en": "Os olmecas (1500-400 a.C.) foram a primeira grande civilização da Mesoamérica: cabeças colossais de basalto (até 3 toneladas), escritura proto-maia, sistema calendárico, e jogo de bola ritual. Influenciaram maias, astecas e zapotecas.",
+      "descricao_es": "Os olmecas (1500-400 a.C.) foram a primeira grande civilização da Mesoamérica: cabeças colossais de basalto (até 3 toneladas), escritura proto-maia, sistema calendárico, e jogo de bola ritual. Influenciaram maias, astecas e zapotecas.",
+      "importancia": "Os olmecas são a civilização mãe da Mesoamérica: todas as grandes civilizações subsequentes - maias, astecas, zapotecas - herdaram elementos olmecas. Que a primeira civilização mesoamericana seja tão pouco conhecida é o maior paradoxo da arqueologia americana.",
+      "importancia_en": "Os olmecas são a civilização mãe da Mesoamérica: todas as grandes civilizações subsequentes - maias, astecas, zapotecas - herdaram elementos olmecas. Que a primeira civilização mesoamericana seja tão pouco conhecida é o maior paradoxo da arqueologia americana.",
+      "importancia_es": "Os olmecas são a civilização mãe da Mesoamérica: todas as grandes civilizações subsequentes - maias, astecas, zapotecas - herdaram elementos olmecas. Que a primeira civilização mesoamericana seja tão pouco conhecida é o maior paradoxo da arqueologia americana.",
+      "tags": [
+        "Olmecas",
+        "1500 a.C.",
+        "cabeças colossais",
+        "calendário",
+        "jogo de bola",
+        "mãe"
+      ],
+      "dataset": "data/dados-mesoamerica.json"
+    },
+    {
+      "id": "meso2",
+      "nome": "Tenochtitlan: A Veneza do Novo Mundo",
+      "nome_en": "Tenochtitlan: A Veneza do Novo Mundo",
+      "nome_es": "Tenochtitlan: A Veneza do Novo Mundo",
+      "tipo": "cultural",
+      "inicio": 1325,
+      "fim": 1521,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 14,
+      "type": "cultural",
+      "descricao": "Tenochtitlan (fundada 1325 em ilha no Lago Texcoco) tinha 200.000-300.000 habitantes em 1519 - maior que qualquer cidade europeia. Aquedutos, mercados, templos, jardins suspensos. Cortés ficou boquiaberto: como na encantação dos livros de Amadis.",
+      "descricao_en": "Tenochtitlan (fundada 1325 em ilha no Lago Texcoco) tinha 200.000-300.000 habitantes em 1519 - maior que qualquer cidade europeia. Aquedutos, mercados, templos, jardins suspensos. Cortés ficou boquiaberto: como na encantação dos livros de Amadis.",
+      "descricao_es": "Tenochtitlan (fundada 1325 em ilha no Lago Texcoco) tinha 200.000-300.000 habitantes em 1519 - maior que qualquer cidade europeia. Aquedutos, mercados, templos, jardins suspensos. Cortés ficou boquiaberto: como na encantação dos livros de Amadis.",
+      "importancia": "Tenochtitlan foi a maior cidade das Américas - maior que qualquer cidade europeia contemporânea. Que os espanhóis a destruíram completamente (a Cidade do México foi construída sobre suas ruínas) é a maior perda arqueológica das Américas.",
+      "importancia_en": "Tenochtitlan foi a maior cidade das Américas - maior que qualquer cidade europeia contemporânea. Que os espanhóis a destruíram completamente (a Cidade do México foi construída sobre suas ruínas) é a maior perda arqueológica das Américas.",
+      "importancia_es": "Tenochtitlan foi a maior cidade das Américas - maior que qualquer cidade europeia contemporânea. Que os espanhóis a destruíram completamente (a Cidade do México foi construída sobre suas ruínas) é a maior perda arqueológica das Américas.",
+      "tags": [
+        "Tenochtitlan",
+        "1325",
+        "Texcoco",
+        "200.000",
+        "Cortés",
+        "jardins"
+      ],
+      "dataset": "data/dados-mesoamerica.json"
     }
   ],
   "relacoes": [

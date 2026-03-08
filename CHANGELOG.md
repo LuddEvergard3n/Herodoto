@@ -1,8 +1,257 @@
 # CHANGELOG — Heródoto
 *anteriormente Órion · Grafo de Conhecimento Histórico e Linha do Tempo Interativa*
 
+---
 
+## v7.39 — Páginas de Apoio Pedagógico
 
+**Novos arquivos HTML**
+- `guia-professor.html` — filosofia pedagógica, adequação por nível de ensino (Fundamental II / Médio / Superior), 6 atividades com objetivos, duração e modo recomendado, tabela de tipos históricos com critérios de classificação e limitações da ferramenta
+- `sobre.html` — apresentação do projeto, métricas atuais, tecnologias e repositório
+- `ajuda.html` — guia completo de navegação (grafo, linha do tempo, filtros, modos especiais), atalhos de teclado, instruções de uso offline e FAQ
+
+**Navegação global**
+- Todos os cabeçalhos agora exibem os quatro links: Fontes / Guia do Professor / Sobre / Ajuda
+- `index.html`: quatro botões `.fontes-btn` adicionados ao `.controls-top`
+- Página ativa destacada com `.active` em cada arquivo
+
+---
+
+## v7.38 — Página de Fontes Bibliográficas
+
+**Novo: `fontes.html` + pasta `fontes/`**
+- Página dedicada de bibliografia histórica acessível pelo botão "Fontes" no cabeçalho (ao lado do seletor de Idioma)
+- 38 arquivos JSON temáticos cobrindo todos os grandes temas dos datasets
+- ≈ 500 fontes distribuídas em primárias, secundárias e terciárias
+- Interface com sidebar de navegação por tema, filtro por tipo de fonte e busca por autor/obra
+- Estética idêntica ao `index.html` (pergaminho, Crimson Text, paleta escura/dourada)
+- Nomes de autores em ordem natural (João Calvino, não Calvino, João)
+- Botão `.fontes-btn` adicionado ao `base.css`
+
+**Correções**
+- `sw.js`: versão do cache atualizada (`v7-38`); pasta `/fontes/` adicionada à estratégia Network-First para evitar que o Service Worker sirva JSONs em cache desatualizado
+
+---
+
+## v7.36 — Expansão Total dos Datasets
+
+**Datasets expandidos: todos com ≥ 8 entidades**
+- 303 arquivos JSON auditados e expandidos
+- Total de entidades: **2.611**
+- Todos os arquivos com menos de 8 entidades receberam novas entidades historicamente precisas
+- Classificações de tipo revisadas manualmente (sem automação por palavras-chave)
+
+---
+
+## v7.33 — Auditoria Completa do index.html
+
+**Problemas corrigidos**
+- `dataset-labels.js`: trailing comma + 2 chaves duplicadas (`brasil-indigenas`, `brasil-quilombos`) que quebravam todos os botões → corrigido em v7.32
+- `index.html`: 111 datasets registados em `ALL_DATASETS` sem checkbox na sidebar → todos adicionados
+- `index.html`: 2 checkboxes duplicados (`dados-filosofia-medieval.json`, `dados-igreja-medieval-cultura.json`) → removidos
+- Total de checkboxes: 192 → **286** (únicos, sem órfãos, sem duplicados)
+
+**Novos checkboxes adicionados por secção**
+- Europa — Pré-história: paleolítico, neolítico, pré-história das Américas
+- Europa — Grécia: helenismo expandido
+- Europa — Roma: imperadores, crise III século, queda ocidente, direito romano
+- Europa — Medieval: vikings, carlomagno, carolíngios, peste negra, guerra cem anos, humanismo
+- Europa — Reforma: calvino/zuínglio, contrarreforma, guerras de religião
+- Europa — Era Moderna: habsburgos, ancien régime, revolução inglesa, holanda séc. ouro, guerra 30 anos, áustria-prússia
+- Europa — Iluminismo: francês, britânico, alemão
+- Europa — Séc. XIX: napoleão, congresso viena, 1848, unificação itália/alemanha, belle époque, impérios britânico/francês, industrialização
+- Europa — Guerras: frente ocidental, versalhes, weimar, nazismo, fascismo italiano, guerra civil espanhola, frente oriental, holocausto
+- Europa — Pós-Guerra: plano marshall, UE, guerra fria europa, URSS 1989, bálcãs, europa contemporânea, 1968
+- Rússia: império russo
+- Oriente Médio: pérsia antiga, al-ândalus, islão fundação
+- Japão: visão geral, arcaico, feudal
+- Coreia: visão geral
+- Sudeste Asiático: visão geral, continental extra
+- EUA: visão geral séc. XX, colônias, expansão/guerra civil, industrialização, guerras mundiais, guerra fria
+- Mesoamérica: astecas-império extra
+- Andes: caral-andino-antigo, chimú-wari
+- Brasil temáticos: 22 ficheiros (pré-colonial, colonial, inconfidência, independência, império e sub-temas, república velha, era vargas, ditadura, redemocratização, ciclos económicos, economia social, cultura-arte)
+- Egito: reinos intermediários, período tardio
+
+**Suite de testes expandida: 108 → 112 testes**
+- `test-dataset-registry.js`: novo suite `Registry — index.html checkboxes` com 4 testes
+  - sem duplicados em index.html
+  - todos os valores de checkbox existem no disco
+  - todos os datasets (não-personagens) de ALL_DATASETS têm checkbox
+  - ≥ 250 checkboxes no total
+
+---
+
+## v7.32 — Hotfix: dataset-labels.js
+
+- Trailing comma no final do objeto `DATASET_LABELS` → quebrava todos os botões no browser
+- 2 chaves duplicadas (`brasil-indigenas`, `brasil-quilombos`) introduzidas na sessão v7.31 → removidas
+
+---
+
+## v7.31 — Sistema de Testes Automatizados
+
+**Sistema de testes (tests/)**
+- `runner.js` — runner com CLI, filtro por nome, listagem de arquivos, exit code 0/1/2
+- `assert.js` — biblioteca de asserções zero-dependência com output colorido (ok, equal, deepEqual, arrayUnique, hasFields, inSet, etc.)
+- `test-data-integrity.js` — 15 testes: JSON válido, campos obrigatórios, lógica de datas, unicidade de IDs, tipo/região, descricao/importancia
+- `test-dataset-registry.js` — 9 testes: ALL_DATASETS completo, sem órfãos no disco, sem duplicados, cobertura de labels PT/EN/ES, expansão europeia v7.30
+- `test-historical-consistency.js` — 10 testes: série 16 Brasil, âncoras de data, auditoria de bias, cobertura regional mínima, conteúdo dos novos datasets europeus
+- `test-personagens.js` — 13 testes: inventário de coleções, campos obrigatórios, datas, unicidade ID/nome, 16 coleções esperadas
+- `test-questions.js` — 14 testes: PERGUNTAS definido, ≥200 questões, sem IDs duplicados, padrão de ID, datasets existem, multilíngue, ≥30 grupos
+
+**Bugs encontrados e corrigidos pelos testes**
+- `dados-coreia-antiga.json` cora-002: datas trocadas (inicio=57, fim=-668) → corrigidas
+- IDs duplicados cross-file: car-*, hel-*, hol-*, ibr-*, nap-*, ue-* resolvidos com prefixos únicos (clm-, ghl-, hlc-, imb-, npe-, ueu-)
+- 19 entradas duplicadas em ALL_DATASETS → removidas
+- 18 arquivos no disco sem entrada em ALL_DATASETS → registrados
+- 20 datasets sem label em dataset-labels.js → labels adicionados (total: 306)
+- 17 referências a datasets inexistentes em questions.js → redirecionadas para equivalentes existentes
+- Akbar, o Grande duplicado em dados-personagens-asia.json → removido
+- q-zoroastrismo e q-feminismo com IDs duplicados → sufixo -b adicionado ao segundo
+- q-china-invenções com acento no ID → normalizado para q-china-invencoes
+
+**Uso**
+```
+node tests/runner.js              # todos os testes
+node tests/runner.js data         # só test-data-integrity
+node tests/runner.js --list       # listar arquivos
+```
+
+---
+
+## v7.30 — Expansão Massiva do Dataset Europeu
+
+**Escala**
+- Arquivos novos: +47 (de 256 → 303)
+- Entidades novas: +194 (de 1.751 → 1.895 aprox.)
+- Labels novos: +47 (dataset-labels.js: 194 → 241)
+
+**Cobertura adicionada — cronologicamente**
+
+*Grécia*: Período Helenístico (reinos sucessores, Alexandria, ciência, estoicismo)
+
+*Roma*: Imperadores (Augusto aos Antoninos), Crise do Terceiro Século, Queda do Ocidente (376-476), Direito Romano (XII Tábuas ao Corpus Juris)
+
+*Medieval*: Vikings, Carlomagno e Carolíngios, Peste Negra, Guerra dos Cem Anos, Humanismo (Erasmo, More, Pico)
+
+*Reforma*: Calvino/Zuínglio, Contrarreforma (Trento, Jesuítas), Guerras de Religião (1524-1648)
+
+*Era Moderna*: Habsburgos, França Ancien Régime (Luís XIV), Revolução Inglesa (Cromwell, Bill of Rights), Holanda Século de Ouro (VOC, Spinoza, Rembrandt), Guerra dos Trinta Anos/Vestfália, Rivalidade Áustria-Prússia
+
+*Iluminismo*: Francês (Voltaire, Rousseau, Enciclopédie, Montesquieu), Britânico (Locke, Hume, Smith), Alemão (Kant, Lessing, Goethe, Schiller)
+
+*Século XIX*: Napoleão, Congresso de Viena, Revoluções de 1848, Unificação Italiana (Garibaldi/Cavour), Unificação Alemã (Bismarck), Belle Époque, Império Britânico, Imperialismo Francês (Argélia, Indochina), Industrialização Europeia
+
+*Século XX — Guerras*: Frente Ocidental 1914-18, Tratado de Versalhes, República de Weimar, Nazismo (ideologia, Estado, Holocausto), Fascismo Italiano, Guerra Civil Espanhola, Frente Oriental 1941-45 (Barbarossa/Stalingrado), Holocausto (genocídio industrial)
+
+*Pós-Guerra e Contemporâneo*: Europa pós-1945 (Plano Marshall, Nuremberg, Wirtschaftswunder), União Europeia (CECA ao Next Gen), Guerra Fria na Europa (Berlim, 1956, 1968), Desintegração da URSS (Gorbachev, 1989), Guerras dos Bálcãs (Iugoslávia, Srebrenica, Kosovo), Europa Contemporânea (euro, Brexit, populismo), 1968 (Paris, Praga, legado cultural)
+
+*Rússia*: Império Russo (Pedro o Grande a Nicolau II)
+
+---
+---
+
+## v7.29 — Deduplicação de Personagens
+
+**Varredura completa de nomes duplicados em personagens**
+- 43 nomes apareciam em 2 ou mais arquivos → 50 entradas removidas
+- Estratégia: manter na coleção temática mais específica (mulheres, filosofia-oriental, renascimento-reforma, seculo-xx, medieval, brasil, americas)
+- Remover das coleções genéricas ou redundantes (seculo-xx-guerras, europa-moderna, ciencia-pensamento, africa-oriente, asia, iluminismo-revolucoes)
+
+**Casos notáveis**
+- Ho Chi Minh, Gandhi, MLK, Mao, Mandela, Gorbachev, Simone de Beauvoir: 2–3 cópias em seculo-xx-guerras → consolidadas em seculo-xx
+- Ada Lovelace, Marie Curie, Harriet Tubman: duplicadas entre mulheres e outras coleções → mantidas em mulheres
+- Galileu, Copérnico, Lutero, Maquiavel, Thomas More: duplicados europa-moderna/renascimento → mantidos em renascimento-reforma
+- Confúcio, Ibn Rushd, Xuanzang: duplicados filosofia-oriental/outros → mantidos em filosofia-oriental
+- John Locke, Simón Bolívar: duplicatas dentro do mesmo arquivo → removida a entrada extra
+
+**Resultado**
+- Antes: 286 personagens com duplicatas
+- Depois: 236 personagens únicos (−50)
+
+---
+---
+
+## v7.28 — Auditoria de Duplicatas e Viés Ideológico
+
+**Duplicatas de ID**
+- Varredura completa: 1.751 entidades × 256 arquivos → 0 duplicatas encontradas
+
+**Viés ideológico — correções cirúrgicas (5 entradas)**
+- `soc-006` Revolução Russa: "O fracasso final da URSS não refutou o marxismo" → reformulado como debate historiográfico aberto
+- `pxx-016` Allende: "paranoia americana" e "quintal americano" → substituídos por linguagem factual com referência a documentos desclassificados
+- `pxx-017` Lumumba (séc. XX): "a Guerra Fria foi travada no sangue dos africanos" → substituído por descrição analítica
+- `pao-017` Lumumba (africa-oriente): versão similar corrigida
+- `pa-008` Ho Chi Minh: adicionado contrapeso sobre regime repressivo do Norte (campos de reeducação, partido único)
+
+**Falsos positivos preservados (não alterados)**
+- "burguesia", "mártir", "oprimidos" como terminologia histórica legítima em contextos medievais, revolucionários e de escravidão
+- Entradas sobre Mao, Stalin, Lenin — já tinham tratamento crítico equilibrado com números de mortos
+- "genialidade" em contextos de Renascimento e arte asteca — superlativo editorial menor
+- "imperialismo americano" como nome de entidade histórica ou perspectiva islâmica sobre Cruzadas — factual com contextualização
+
+---
+---
+
+## v7.27 — Expansão Massiva de Perguntas Geradoras
+
+**Escala**
+- Perguntas: 106 → 248 (+142)
+- Grupos temáticos: 23 → 58 (+35)
+- Cobertura de datasets: 0 datasets sem pergunta (antes: 66)
+
+**Novos grupos — Cobertura por região/período**
+- Brasil: Período a Período (16 perguntas, 1 por período histórico)
+- China: Da Antiguidade ao Presente (5)
+- Estados Unidos: Da Colônia à Superpotência (5)
+- Pérsia e Irã: 2.500 Anos de Civilização (3)
+- Igreja Católica e Cristianismo (5)
+- Oriente Médio Contemporâneo (2)
+- Mongóis e Ásia Central (3)
+- Arte, Cultura e Ideias (2)
+- Rússia e URSS (2)
+- Coreia: Da Antiguidade ao Presente (1)
+- Mesoamérica: Além dos Astecas (4)
+- Antártida e Exploração Polar (2)
+- Grécia Antiga: Além da Filosofia (2)
+- Índia: Da Antiguidade ao Mogol (2)
+- Japão: Samurais, Shoguns e Modernidade (2)
+- Sudeste Asiático: O Cruzamento do Mundo (2)
+- Impérios Astecas e Mesoamérica Clássica (1)
+- Igreja Medieval: Poder, Arte e Saber (2)
+- EUA: História Interna (2)
+- Personagens: Rostos da História (10, um por época)
+
+**Novos grupos — Temático/transversal**
+- História por Baixo: Os Invisíveis (escravos, camponeses, mulheres comuns, crianças, trabalhadores, indígenas)
+- Economia e Dinheiro ao Longo da História (moeda, capitalismo, crises, socialismo, comércio, ouro/prata)
+- Guerra: Tecnologia, Estratégia e Consequências (armas, guerrilha, paz, nuclear)
+- Ciência: Descobertas que Mudaram o Mundo (Darwin, física moderna, medicina, computadores, espaço)
+- Linguagem, Escrita e Comunicação (sistemas de escrita, imprensa, línguas extintas)
+- Cidades: Do Nascimento à Megalópole (primeiras cidades, cidades antigas, urbanização industrial)
+- Filosofia Política: As Ideias que Governam o Mundo (contrato social, nacionalismo, fascismo, anarquismo, direitos humanos)
+- Oceanos: As Estradas do Mundo (polinésios, Mediterrâneo, piratas, Oceano Índico)
+- Identidade, Raça e Alteridade na História (raça, antissemitismo, diáspora, colonialismo)
+- Meio Ambiente e Colapso de Civilizações (colapso ambiental, clima pré-moderno, crise atual)
+- Mitos, Símbolos e Memória Histórica (mitos fundadores, história vs memória, monumentos)
+- Brasil Temático: Questões Fundamentais (identidade, desigualdade, cultura, Amazônia)
+- Perguntas Difíceis da História (por que o Ocidente dominou, genocídios, indivíduo vs história, contrafactuais, revoluções que traem, religião e violência, democracia)
+- Conexões Inesperadas (doenças, especiarias, acaso, mapas e poder)
+
+---
+---
+
+## v7.26 — Modo Exploração Guiada: Nó Centralizado + Contexto Automático
+
+**Nó centralizado acima do painel**
+- `focusNode()` em `graph.js` recebe novo parâmetro `yBias` (px) que desloca o ponto de foco vertical
+- `focusNodeAboveBox()` em `guided-mode.js` mede a altura real do `guided-box` em runtime e passa o bias dinamicamente — o nó sempre aparece no espaço livre acima da caixa de texto, independente do tamanho do conteúdo
+
+**Painel de contexto abre automaticamente**
+- `highlightCurrent()` agora chama `showContextPanel(current, all)` a cada navegação — o painel "Contexto do Evento" (No mesmo período / mesma região) abre junto com o painel de descrição direito
+
+---
 ---
 
 ## v7.25 — Auditoria de Tipos, +65 Personagens, +13 Perguntas Geradoras

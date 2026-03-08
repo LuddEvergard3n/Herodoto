@@ -163,6 +163,62 @@
       "importancia_es": "O tráfico negreiro transatlântico foi o maior movimento forçado de pessoas da história: 4,9 milhões de africanos foram trazidos ao Brasil entre 1500 e 1888 — 40% de todo o tráfico atlântico. A escala e a duração do tráfico brasileiro não têm paralelo nas Américas.",
       "century_start": 15,
       "century_end": 17
+    },
+    {
+      "id": "bui1",
+      "nome": "A União Ibérica e o Brasil Holandês",
+      "nome_en": "A União Ibérica e o Brasil Holandês",
+      "nome_es": "A União Ibérica e o Brasil Holandês",
+      "tipo": "periodo",
+      "inicio": 1580,
+      "fim": 1640,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "A União Ibérica (1580-1640, Felipe II de Espanha herdou Portugal) permitiu que os holandeses, em guerra com a Espanha, atacassem as colônias portuguesas. A WIC (West Indische Compagnie) conquistou o Nordeste brasileiro (1630-1654): João Maurício de Nassau governou Recife com tolerância religiosa e cultura (o primeiro zoológico das Américas). A restauração portuguesa (1640) e a resistência nordestina expulsaram os holandeses.",
+      "descricao_en": "A União Ibérica (1580-1640, Felipe II de Espanha herdou Portugal) permitiu que os holandeses, em guerra com a Espanha, atacassem as colônias portuguesas. A WIC (West Indische Compagnie) conquistou o Nordeste brasileiro (1630-1654): João Maurício de Nassau governou Recife com tolerância religiosa e cultura (o primeiro zoológico das Américas). A restauração portuguesa (1640) e a resistência nordestina expulsaram os holandeses.",
+      "descricao_es": "A União Ibérica (1580-1640, Felipe II de Espanha herdou Portugal) permitiu que os holandeses, em guerra com a Espanha, atacassem as colônias portuguesas. A WIC (West Indische Compagnie) conquistou o Nordeste brasileiro (1630-1654): João Maurício de Nassau governou Recife com tolerância religiosa e cultura (o primeiro zoológico das Américas). A restauração portuguesa (1640) e a resistência nordestina expulsaram os holandeses.",
+      "importancia": "O Brasil Holandês foi o primeiro experimento de pluralismo religioso nas Américas: Nassau permitia judeus, católicos e protestantes. A derrota holandesa demonstrou que a resistência local pode vencer potências coloniais maiores.",
+      "importancia_en": "O Brasil Holandês foi o primeiro experimento de pluralismo religioso nas Américas: Nassau permitia judeus, católicos e protestantes. A derrota holandesa demonstrou que a resistência local pode vencer potências coloniais maiores.",
+      "importancia_es": "O Brasil Holandês foi o primeiro experimento de pluralismo religioso nas Américas: Nassau permitia judeus, católicos e protestantes. A derrota holandesa demonstrou que a resistência local pode vencer potências coloniais maiores.",
+      "tags": [
+        "União Ibérica",
+        "Holanda",
+        "Nassau",
+        "Recife",
+        "1654",
+        "zoológico"
+      ],
+      "dataset": "data/dados-brasil-05-uniao-iberica.json"
+    },
+    {
+      "id": "bui2",
+      "nome": "O Tratado de Methuen e a Dependência Portuguesa",
+      "nome_en": "O Tratado de Methuen e a Dependência Portuguesa",
+      "nome_es": "O Tratado de Methuen e a Dependência Portuguesa",
+      "tipo": "evento",
+      "inicio": 1703,
+      "fim": 1703,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 18,
+      "type": "economic",
+      "descricao": "O Tratado de Methuen (1703) criou a aliança Anglo-Portuguesa que durou 300 anos: Portugal exportava vinhos para a Inglaterra, que exportava tecidos para Portugal. Resultado: Portugal desindustrializou-se; o ouro do Brasil ia direto para a Inglaterra via Portugal. Adam Smith o citou como exemplo de dependência econômica.",
+      "descricao_en": "O Tratado de Methuen (1703) criou a aliança Anglo-Portuguesa que durou 300 anos: Portugal exportava vinhos para a Inglaterra, que exportava tecidos para Portugal. Resultado: Portugal desindustrializou-se; o ouro do Brasil ia direto para a Inglaterra via Portugal. Adam Smith o citou como exemplo de dependência econômica.",
+      "descricao_es": "O Tratado de Methuen (1703) criou a aliança Anglo-Portuguesa que durou 300 anos: Portugal exportava vinhos para a Inglaterra, que exportava tecidos para Portugal. Resultado: Portugal desindustrializou-se; o ouro do Brasil ia direto para a Inglaterra via Portugal. Adam Smith o citou como exemplo de dependência econômica.",
+      "importancia": "O Tratado de Methuen é o modelo histórico de como tratados de livre comércio entre economias desiguais beneficiam a mais desenvolvida. O ouro brasileiro financiou a Revolução Industrial britânica.",
+      "importancia_en": "O Tratado de Methuen é o modelo histórico de como tratados de livre comércio entre economias desiguais beneficiam a mais desenvolvida. O ouro brasileiro financiou a Revolução Industrial britânica.",
+      "importancia_es": "O Tratado de Methuen é o modelo histórico de como tratados de livre comércio entre economias desiguais beneficiam a mais desenvolvida. O ouro brasileiro financiou a Revolução Industrial britânica.",
+      "tags": [
+        "Methuen",
+        "1703",
+        "vinho",
+        "tecidos",
+        "ouro",
+        "desindustrialização"
+      ],
+      "dataset": "data/dados-brasil-05-uniao-iberica.json"
     }
   ]
 }

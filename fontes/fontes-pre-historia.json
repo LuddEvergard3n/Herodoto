@@ -1,0 +1,120 @@
+{
+  "tema": "Pré-História e Evolução Humana",
+  "descricao": "Paleolítico, Neolítico, evolução do Homo sapiens, primeiras migrações e civilizações",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Pinturas rupestres de Altamira, Lascaux e Chauvet",
+        "ano": "c. 36.000–15.000 a.C.",
+        "nota": "Fontes arqueológicas diretas"
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Sítio arqueológico de Göbekli Tepe (Turquia)",
+        "ano": "c. 9.600 a.C.",
+        "nota": "Fonte arqueológica"
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Sítio arqueológico de Çatalhöyük (Turquia)",
+        "ano": "c. 7.500 a.C.",
+        "nota": "Fonte arqueológica"
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Registros de DNA antigo — banco de dados NCBI GenBank",
+        "ano": "contínuo",
+        "nota": "Fonte genômica primária"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Yuval Noah Harari",
+        "obra": "Sapiens: Uma Breve História da Humanidade",
+        "ano": "2011",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Chris Stringer",
+        "obra": "Lone Survivors: How We Came to Be the Only Humans on Earth",
+        "ano": "2012",
+        "editora": "Henry Holt"
+      },
+      {
+        "autor": "Richard G. Klein",
+        "obra": "The Human Career: Human Biological and Cultural Origins",
+        "ano": "2009",
+        "editora": "University of Chicago Press"
+      },
+      {
+        "autor": "Ian Tattersall",
+        "obra": "Masters of the Planet: The Search for Our Human Origins",
+        "ano": "2012",
+        "editora": "Palgrave Macmillan"
+      },
+      {
+        "autor": "Richard Wrangham",
+        "obra": "Catching Fire: How Cooking Made Us Human",
+        "ano": "2009",
+        "editora": "Basic Books"
+      },
+      {
+        "autor": "Richard Leakey",
+        "obra": "The Origin of Humankind",
+        "ano": "1994",
+        "editora": "Basic Books"
+      },
+      {
+        "autor": "Jared Diamond",
+        "obra": "Guns, Germs, and Steel: The Fates of Human Societies",
+        "ano": "1997",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "Svante Pääbo",
+        "obra": "Neanderthal Man: In Search of Lost Genomes",
+        "ano": "2014",
+        "editora": "Basic Books"
+      },
+      {
+        "autor": "Steven Mithen",
+        "obra": "The Prehistory of the Mind",
+        "ano": "1996",
+        "editora": "Thames and Hudson"
+      },
+      {
+        "autor": "Peter Bellwood",
+        "obra": "First Farmers: The Origins of Agricultural Societies",
+        "ano": "2005",
+        "editora": "Blackwell"
+      },
+      {
+        "autor": "Colin Renfrew",
+        "obra": "Prehistory: The Making of the Human Mind",
+        "ano": "2007",
+        "editora": "Modern Library"
+      },
+      {
+        "autor": "Clive Gamble",
+        "obra": "Origins and Revolutions: Human Identity in Earliest Prehistory",
+        "ano": "2007",
+        "editora": "Cambridge University Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Brian Fagan",
+        "obra": "The Long Summer: How Climate Changed Civilization",
+        "ano": "2004",
+        "editora": "Basic Books"
+      },
+      {
+        "autor": "Stephen Oppenheimer",
+        "obra": "The Real Eve: Modern Man's Journey Out of Africa",
+        "ano": "2003",
+        "editora": "Carroll & Graf"
+      }
+    ]
+  }
+}

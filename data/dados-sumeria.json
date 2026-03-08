@@ -198,6 +198,34 @@
         "imortalidade"
       ],
       "dataset": "data/dados-sumeria.json"
+    },
+    {
+      "id": "sum1",
+      "nome": "Ur-Nammu e o Primeiro Codigo Legal",
+      "nome_en": "Ur-Nammu e o Primeiro Codigo Legal",
+      "nome_es": "Ur-Nammu e o Primeiro Codigo Legal",
+      "tipo": "pessoa",
+      "inicio": -2112,
+      "fim": -2095,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 22,
+      "type": "political",
+      "descricao": "Ur-Nammu (r. 2112-2095 a.C.) criou o primeiro codigo legal da historia: anterior ao Codigo de Hamurabi em 300 anos. Estabeleceu pesos e medidas padronizados, prescreveu compensacoes monetarias (nao apenas punicio corporal) para crimes. Tambem construiu o Zigurate de Ur.",
+      "descricao_en": "Ur-Nammu (r. 2112-2095 a.C.) criou o primeiro codigo legal da historia: anterior ao Codigo de Hamurabi em 300 anos. Estabeleceu pesos e medidas padronizados, prescreveu compensacoes monetarias (nao apenas punicio corporal) para crimes. Tambem construiu o Zigurate de Ur.",
+      "descricao_es": "Ur-Nammu (r. 2112-2095 a.C.) criou o primeiro codigo legal da historia: anterior ao Codigo de Hamurabi em 300 anos. Estabeleceu pesos e medidas padronizados, prescreveu compensacoes monetarias (nao apenas punicio corporal) para crimes. Tambem construiu o Zigurate de Ur.",
+      "importancia": "O Codigo de Ur-Nammu e o mais antigo codigo legal do mundo: demonstra que o conceito de lei escrita como limite ao poder arbitrario tem mais de 4.000 anos. Que priorize compensacao sobre punicao e mais avancado que muitos codigos posteriores.",
+      "importancia_en": "O Codigo de Ur-Nammu e o mais antigo codigo legal do mundo: demonstra que o conceito de lei escrita como limite ao poder arbitrario tem mais de 4.000 anos. Que priorize compensacao sobre punicao e mais avancado que muitos codigos posteriores.",
+      "importancia_es": "O Codigo de Ur-Nammu e o mais antigo codigo legal do mundo: demonstra que o conceito de lei escrita como limite ao poder arbitrario tem mais de 4.000 anos. Que priorize compensacao sobre punicao e mais avancado que muitos codigos posteriores.",
+      "tags": [
+        "Ur-Nammu",
+        "2112 a.C.",
+        "codigo legal",
+        "compensacao",
+        "Zigurate",
+        "Hamurabi"
+      ],
+      "dataset": "data/dados-sumeria.json"
     }
   ],
   "relacoes": [

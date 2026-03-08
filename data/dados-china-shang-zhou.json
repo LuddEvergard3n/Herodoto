@@ -179,6 +179,62 @@
         "símbolo"
       ],
       "dataset": "data/dados-china-shang-zhou.json"
+    },
+    {
+      "id": "csz1",
+      "nome": "A Escrita Oracle Bone e a Origem da Escrita Chinesa",
+      "nome_en": "A Escrita Oracle Bone e a Origem da Escrita Chinesa",
+      "nome_es": "A Escrita Oracle Bone e a Origem da Escrita Chinesa",
+      "tipo": "cultural",
+      "inicio": -1250,
+      "fim": -1050,
+      "region": "Asia",
+      "period": "Ancient",
+      "century_start": 13,
+      "type": "cultural",
+      "descricao": "A escrita Oracle Bone (c. 1250 a.C.) foi a primeira escrita chinesa: inscrições para adivinhação em ossos de boi. A escrita chinesa moderna preserva a estrutura dos caracteres de 3.250 anos atrás.",
+      "descricao_en": "A escrita Oracle Bone (c. 1250 a.C.) foi a primeira escrita chinesa: inscrições para adivinhação em ossos de boi. A escrita chinesa moderna preserva a estrutura dos caracteres de 3.250 anos atrás.",
+      "descricao_es": "A escrita Oracle Bone (c. 1250 a.C.) foi a primeira escrita chinesa: inscrições para adivinhação em ossos de boi. A escrita chinesa moderna preserva a estrutura dos caracteres de 3.250 anos atrás.",
+      "importancia": "A escrita chinesa é a mais antiga em uso contínuo do mundo. Um chinês moderno pode ler inscrições Shang de 1250 a.C. - nenhuma outra escrita tem essa continuidade.",
+      "importancia_en": "A escrita chinesa é a mais antiga em uso contínuo do mundo. Um chinês moderno pode ler inscrições Shang de 1250 a.C. - nenhuma outra escrita tem essa continuidade.",
+      "importancia_es": "A escrita chinesa é a mais antiga em uso contínuo do mundo. Um chinês moderno pode ler inscrições Shang de 1250 a.C. - nenhuma outra escrita tem essa continuidade.",
+      "tags": [
+        "Oracle Bone",
+        "1250 a.C.",
+        "caracteres",
+        "adivinhação",
+        "tartaruga",
+        "escrita"
+      ],
+      "dataset": "data/dados-china-shang-zhou.json"
+    },
+    {
+      "id": "csz2",
+      "nome": "Confúcio: O Filósofo que Moldou a Ásia",
+      "nome_en": "Confúcio: O Filósofo que Moldou a Ásia",
+      "nome_es": "Confúcio: O Filósofo que Moldou a Ásia",
+      "tipo": "pessoa",
+      "inicio": -551,
+      "fim": -479,
+      "region": "Asia",
+      "period": "Ancient",
+      "century_start": 6,
+      "type": "cultural",
+      "descricao": "Confúcio (551-479 a.C.) criou o sistema ético que moldou China, Japão, Coreia e Vietnam: hierarquia familiar, educação como virtude, mérito em vez de nascimento. O sistema de exames imperiais (605-1905) foi seu legado mais duradouro.",
+      "descricao_en": "Confúcio (551-479 a.C.) criou o sistema ético que moldou China, Japão, Coreia e Vietnam: hierarquia familiar, educação como virtude, mérito em vez de nascimento. O sistema de exames imperiais (605-1905) foi seu legado mais duradouro.",
+      "descricao_es": "Confúcio (551-479 a.C.) criou o sistema ético que moldou China, Japão, Coreia e Vietnam: hierarquia familiar, educação como virtude, mérito em vez de nascimento. O sistema de exames imperiais (605-1905) foi seu legado mais duradouro.",
+      "importancia": "Confúcio é o filósofo mais influente da história: seu sistema ainda molda 2 bilhões de pessoas. O sistema de exames durou 1.300 anos e foi o primeiro sistema de meritocracia baseado em exames do mundo.",
+      "importancia_en": "Confúcio é o filósofo mais influente da história: seu sistema ainda molda 2 bilhões de pessoas. O sistema de exames durou 1.300 anos e foi o primeiro sistema de meritocracia baseado em exames do mundo.",
+      "importancia_es": "Confúcio é o filósofo mais influente da história: seu sistema ainda molda 2 bilhões de pessoas. O sistema de exames durou 1.300 anos e foi o primeiro sistema de meritocracia baseado em exames do mundo.",
+      "tags": [
+        "Confúcio",
+        "Analectos",
+        "551 a.C.",
+        "meritocracia",
+        "exames",
+        "hierarquia"
+      ],
+      "dataset": "data/dados-china-shang-zhou.json"
     }
   ],
   "relacoes": [

@@ -1,0 +1,151 @@
+{
+  "tema": "Revolução Industrial, Capitalismo e Socialismo",
+  "descricao": "Industrialização europeia e americana, capitalismo liberal, movimento operário, marxismo, anarquismo, socialdemocracia",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Adam Smith",
+        "obra": "A Riqueza das Nações",
+        "ano": "1776",
+        "editora": "Martins Fontes"
+      },
+      {
+        "autor": "Karl Marx e Friedrich Engels",
+        "obra": "Manifesto do Partido Comunista",
+        "ano": "1848",
+        "editora": "Boitempo"
+      },
+      {
+        "autor": "Karl Marx",
+        "obra": "O Capital (3 vols.)",
+        "ano": "1867–1894",
+        "editora": "Boitempo"
+      },
+      {
+        "autor": "Friedrich Engels",
+        "obra": "A Situação da Classe Trabalhadora na Inglaterra",
+        "ano": "1845"
+      },
+      {
+        "autor": "Robert Owen",
+        "obra": "A New View of Society",
+        "ano": "1813"
+      },
+      {
+        "autor": "Pierre-Joseph Proudhon",
+        "obra": "O Que é a Propriedade?",
+        "ano": "1840"
+      },
+      {
+        "autor": "Mikhail Bakunin",
+        "obra": "Deus e o Estado",
+        "ano": "1882"
+      },
+      {
+        "autor": "Max Weber",
+        "obra": "A Ética Protestante e o Espírito do Capitalismo",
+        "ano": "1905",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "John Maynard Keynes",
+        "obra": "A Teoria Geral do Emprego, do Juro e da Moeda",
+        "ano": "1936"
+      },
+      {
+        "autor": "Friedrich Hayek",
+        "obra": "O Caminho da Servidão",
+        "ano": "1944",
+        "editora": "Instituto Ludwig von Mises"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Eric Hobsbawm",
+        "obra": "A Era das Revoluções 1789–1848",
+        "ano": "1962",
+        "editora": "Paz e Terra"
+      },
+      {
+        "autor": "Eric Hobsbawm",
+        "obra": "A Era do Capital 1848–1875",
+        "ano": "1975",
+        "editora": "Paz e Terra"
+      },
+      {
+        "autor": "E. P. Thompson",
+        "obra": "The Making of the English Working Class",
+        "ano": "1963",
+        "editora": "Gollancz"
+      },
+      {
+        "autor": "David S. Landes",
+        "obra": "The Wealth and Poverty of Nations",
+        "ano": "1998",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "Joel Mokyr",
+        "obra": "The Lever of Riches: Technological Creativity and Economic Progress",
+        "ano": "1990",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Karl Polanyi",
+        "obra": "A Grande Transformação",
+        "ano": "1944",
+        "editora": "Campus"
+      },
+      {
+        "autor": "Fernand Braudel",
+        "obra": "Civilização Material, Economia e Capitalismo (3 vols.)",
+        "ano": "1979",
+        "editora": "Martins Fontes"
+      },
+      {
+        "autor": "Maurice Dobb",
+        "obra": "Studies in the Development of Capitalism",
+        "ano": "1946",
+        "editora": "Routledge"
+      },
+      {
+        "autor": "T. S. Ashton",
+        "obra": "The Industrial Revolution 1760–1830",
+        "ano": "1948",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Paul Mantoux",
+        "obra": "The Industrial Revolution in the Eighteenth Century",
+        "ano": "1928",
+        "editora": "Jonathan Cape"
+      },
+      {
+        "autor": "Ivan T. Berend",
+        "obra": "An Economic History of Nineteenth-Century Europe",
+        "ano": "2013",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "G. D. H. Cole",
+        "obra": "A History of Socialist Thought (5 vols.)",
+        "ano": "1953–1960",
+        "editora": "Macmillan"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Robert Heilbroner",
+        "obra": "The Worldly Philosophers",
+        "ano": "1953",
+        "editora": "Simon & Schuster"
+      },
+      {
+        "autor": "Thomas Piketty",
+        "obra": "O Capital no Século XXI",
+        "ano": "2013",
+        "editora": "Intrínseca"
+      }
+    ]
+  }
+}

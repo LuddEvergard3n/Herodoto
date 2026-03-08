@@ -163,6 +163,62 @@
       "importancia_es": "A antecipação da maioridade em 1840 salvou provavelmente a unidade territorial do Brasil. A solução monárquica centralizada evitou a fragmentação que afligiu a América espanhola em dezenas de repúblicas. D. Pedro II, educado como estadista desde a infância, tornou-se o governante mais capaz que o Brasil colonial e imperial produziu.",
       "century_start": 18,
       "century_end": 19
+    },
+    {
+      "id": "br1",
+      "nome": "A Cabanagem: O Maior Massacre Brasileiro",
+      "nome_en": "A Cabanagem: O Maior Massacre Brasileiro",
+      "nome_es": "A Cabanagem: O Maior Massacre Brasileiro",
+      "tipo": "evento",
+      "inicio": 1835,
+      "fim": 1840,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "social",
+      "descricao": "A Cabanagem (1835-1840, Pará) foi a maior revolta popular brasileira: 30.000-40.000 mortos (30-40% da população provincial). Cabanos (pobres, indígenas, mestiços) tomaram Belém e governaram por meses. Esmagados com brutalidade pelo Exército.",
+      "descricao_en": "A Cabanagem (1835-1840, Pará) foi a maior revolta popular brasileira: 30.000-40.000 mortos (30-40% da população provincial). Cabanos (pobres, indígenas, mestiços) tomaram Belém e governaram por meses. Esmagados com brutalidade pelo Exército.",
+      "descricao_es": "A Cabanagem (1835-1840, Pará) foi a maior revolta popular brasileira: 30.000-40.000 mortos (30-40% da população provincial). Cabanos (pobres, indígenas, mestiços) tomaram Belém e governaram por meses. Esmagados com brutalidade pelo Exército.",
+      "importancia": "A Cabanagem é o evento mais sangrento da história brasileira e o menos conhecido. Que 40% de uma população provincial tenha sido morta é o maior silêncio historiográfico do Brasil.",
+      "importancia_en": "A Cabanagem é o evento mais sangrento da história brasileira e o menos conhecido. Que 40% de uma população provincial tenha sido morta é o maior silêncio historiográfico do Brasil.",
+      "importancia_es": "A Cabanagem é o evento mais sangrento da história brasileira e o menos conhecido. Que 40% de uma população provincial tenha sido morta é o maior silêncio historiográfico do Brasil.",
+      "tags": [
+        "Cabanagem",
+        "1835",
+        "Pará",
+        "Belém",
+        "30.000",
+        "genocídio"
+      ],
+      "dataset": "data/dados-brasil-10-regencial.json"
+    },
+    {
+      "id": "br2",
+      "nome": "A Balaiada e as Revoltas Regenciais",
+      "nome_en": "A Balaiada e as Revoltas Regenciais",
+      "nome_es": "A Balaiada e as Revoltas Regenciais",
+      "tipo": "evento",
+      "inicio": 1838,
+      "fim": 1841,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "social",
+      "descricao": "A Balaiada (1838-1841, Maranhão): 11.000 rebeldes, maioria escravizados fugidos, liderados pelo escravo Cosme. Caxias esmagou com 8.000 soldados. Demonstra a instabilidade do Brasil regencial - e que a escravidão gerava resistência armada permanente.",
+      "descricao_en": "A Balaiada (1838-1841, Maranhão): 11.000 rebeldes, maioria escravizados fugidos, liderados pelo escravo Cosme. Caxias esmagou com 8.000 soldados. Demonstra a instabilidade do Brasil regencial - e que a escravidão gerava resistência armada permanente.",
+      "descricao_es": "A Balaiada (1838-1841, Maranhão): 11.000 rebeldes, maioria escravizados fugidos, liderados pelo escravo Cosme. Caxias esmagou com 8.000 soldados. Demonstra a instabilidade do Brasil regencial - e que a escravidão gerava resistência armada permanente.",
+      "importancia": "A Balaiada é o mais importante dos movimentos de escravizados brasileiros. Um exército de 11.000 escravizados resistiu por 3 anos - demonstrando que a escravidão não era aceita passivamente.",
+      "importancia_en": "A Balaiada é o mais importante dos movimentos de escravizados brasileiros. Um exército de 11.000 escravizados resistiu por 3 anos - demonstrando que a escravidão não era aceita passivamente.",
+      "importancia_es": "A Balaiada é o mais importante dos movimentos de escravizados brasileiros. Um exército de 11.000 escravizados resistiu por 3 anos - demonstrando que a escravidão não era aceita passivamente.",
+      "tags": [
+        "Balaiada",
+        "1838",
+        "Maranhão",
+        "Cosme",
+        "Caxias",
+        "escravizados"
+      ],
+      "dataset": "data/dados-brasil-10-regencial.json"
     }
   ]
 }

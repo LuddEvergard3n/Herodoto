@@ -165,7 +165,6 @@
         "Tet",
         "Saigon",
         "protesto",
-        
         "Vietnam"
       ],
       "dataset": "data/dados-eua-new-deal-guerra-fria.json"
@@ -195,6 +194,34 @@
         "Sputnik",
         "Kennedy",
         "NASA"
+      ],
+      "dataset": "data/dados-eua-new-deal-guerra-fria.json"
+    },
+    {
+      "id": "eudd1",
+      "nome": "Truman, a Bomba e o Inicio da Guerra Fria",
+      "nome_en": "Truman, a Bomba e o Inicio da Guerra Fria",
+      "nome_es": "Truman, a Bomba e o Inicio da Guerra Fria",
+      "tipo": "pessoa",
+      "inicio": 1884,
+      "fim": 1972,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "Harry Truman (1884-1972) tomou as decisoes mais consequentes do pos-guerra: uso das bombas atomicas (agosto 1945), Plano Marshall ($13 bilhoes para reconstruir a Europa, 1948), Doutrina Truman (apoio a qualquer pais ameacado pelo comunismo), e a criacao da OTAN (1949).",
+      "descricao_en": "Harry Truman (1884-1972) tomou as decisoes mais consequentes do pos-guerra: uso das bombas atomicas (agosto 1945), Plano Marshall ($13 bilhoes para reconstruir a Europa, 1948), Doutrina Truman (apoio a qualquer pais ameacado pelo comunismo), e a criacao da OTAN (1949).",
+      "descricao_es": "Harry Truman (1884-1972) tomou as decisoes mais consequentes do pos-guerra: uso das bombas atomicas (agosto 1945), Plano Marshall ($13 bilhoes para reconstruir a Europa, 1948), Doutrina Truman (apoio a qualquer pais ameacado pelo comunismo), e a criacao da OTAN (1949).",
+      "importancia": "Truman tomou mais decisoes que moldaram o mundo moderno em menos tempo do que qualquer outro presidente americano. O Plano Marshall e a OTAN criaram a ordem internacional que sobrevive ate hoje.",
+      "importancia_en": "Truman tomou mais decisoes que moldaram o mundo moderno em menos tempo do que qualquer outro presidente americano. O Plano Marshall e a OTAN criaram a ordem internacional que sobrevive ate hoje.",
+      "importancia_es": "Truman tomou mais decisoes que moldaram o mundo moderno em menos tempo do que qualquer outro presidente americano. O Plano Marshall e a OTAN criaram a ordem internacional que sobrevive ate hoje.",
+      "tags": [
+        "Truman",
+        "Plano Marshall",
+        "OTAN",
+        "1948",
+        "Doutrina Truman",
+        "Guerra Fria"
       ],
       "dataset": "data/dados-eua-new-deal-guerra-fria.json"
     }

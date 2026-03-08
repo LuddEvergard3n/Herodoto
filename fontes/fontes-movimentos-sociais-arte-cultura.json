@@ -1,0 +1,151 @@
+{
+  "tema": "Movimentos Sociais, Arte e Cultura",
+  "descricao": "Direitos civis, feminismo, movimentos de arte, existencialismo, cultura de massas, 1968, movimentos estudantis e contracultura",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Mary Wollstonecraft",
+        "obra": "Vindicação dos Direitos da Mulher",
+        "ano": "1792"
+      },
+      {
+        "autor": "Simone De Beauvoir",
+        "obra": "O Segundo Sexo",
+        "ano": "1949",
+        "editora": "Nova Fronteira"
+      },
+      {
+        "autor": "Martin Luther King Jr.",
+        "obra": "Letter from Birmingham Jail; I Have a Dream",
+        "ano": "1963"
+      },
+      {
+        "autor": "Frantz Fanon",
+        "obra": "Os Condenados da Terra",
+        "ano": "1961",
+        "editora": "Civilização Brasileira"
+      },
+      {
+        "autor": "Jean-Paul Sartre",
+        "obra": "O Existencialismo é um Humanismo",
+        "ano": "1946"
+      },
+      {
+        "autor": "Albert Camus",
+        "obra": "O Mito de Sísifo; O Estrangeiro",
+        "ano": "1942",
+        "editora": "Record"
+      },
+      {
+        "autor": "Guy Debord",
+        "obra": "A Sociedade do Espetáculo",
+        "ano": "1967",
+        "editora": "Contraponto"
+      },
+      {
+        "autor": "Betty Friedan",
+        "obra": "A Mística Feminina",
+        "ano": "1963"
+      },
+      {
+        "autor": "Movimento dos Direitos Civis (EUA)",
+        "obra": "Declaration of Independence from the Vietnam War (MLK)",
+        "ano": "1967"
+      },
+      {
+        "autor": "Jürgen Habermas",
+        "obra": "A Mudança Estrutural da Esfera Pública",
+        "ano": "1962",
+        "editora": "Editora Unesp"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Eric Hobsbawm",
+        "obra": "Era dos Extremos: O Breve Século XX (1914–1991)",
+        "ano": "1994",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Tony Judt",
+        "obra": "Postwar: A History of Europe since 1945",
+        "ano": "2005",
+        "editora": "Penguin Press"
+      },
+      {
+        "autor": "Ronald Fraser",
+        "obra": "1968: A Student Generation in Revolt",
+        "ano": "1988",
+        "editora": "Pantheon"
+      },
+      {
+        "autor": "Todd Gitlin",
+        "obra": "The Sixties: Years of Hope, Days of Rage",
+        "ano": "1987",
+        "editora": "Bantam"
+      },
+      {
+        "autor": "Lillian B. Rubin",
+        "obra": "Worlds of Pain: Life in the Working-Class Family",
+        "ano": "1976",
+        "editora": "Basic Books"
+      },
+      {
+        "autor": "Clement Greenberg",
+        "obra": "Art and Culture",
+        "ano": "1961",
+        "editora": "Beacon Press"
+      },
+      {
+        "autor": "Walter Benjamin",
+        "obra": "A Obra de Arte na Era de Sua Reprodutibilidade Técnica",
+        "ano": "1935",
+        "editora": "Brasiliense"
+      },
+      {
+        "autor": "Robert Hughes",
+        "obra": "The Shock of the New: Art and the Century of Change",
+        "ano": "1980",
+        "editora": "BBC Books"
+      },
+      {
+        "autor": "Pierre Bourdieu",
+        "obra": "A Distinção: Crítica Social do Julgamento",
+        "ano": "1979",
+        "editora": "Zouk"
+      },
+      {
+        "autor": "Immanuel Wallerstein",
+        "obra": "The Modern World-System (4 vols.)",
+        "ano": "1974–2011",
+        "editora": "Academic Press"
+      },
+      {
+        "autor": "Mike Davis",
+        "obra": "City of Quartz: Excavating the Future in Los Angeles",
+        "ano": "1990",
+        "editora": "Verso"
+      },
+      {
+        "autor": "hooks, bell",
+        "obra": "Ain't I a Woman: Black Women and Feminism",
+        "ano": "1981",
+        "editora": "South End Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Theodore Roszak",
+        "obra": "The Making of a Counter Culture",
+        "ano": "1969",
+        "editora": "Doubleday"
+      },
+      {
+        "autor": "David Harvey",
+        "obra": "A Condição Pós-Moderna",
+        "ano": "1989",
+        "editora": "Loyola"
+      }
+    ]
+  }
+}

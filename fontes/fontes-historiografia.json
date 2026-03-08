@@ -1,0 +1,134 @@
+{
+  "tema": "Historiografia e Metodologia Histórica",
+  "descricao": "Teoria da história, filosofia da história, grandes sínteses, escolas historiográficas (Annales, marxista, cultural, micro-história)",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Heródoto",
+        "obra": "Histórias (Proêmio — a definição de história)",
+        "ano": "c. 440 a.C."
+      },
+      {
+        "autor": "Tucídides",
+        "obra": "História da Guerra do Peloponeso (Livro I — método)",
+        "ano": "c. 411 a.C."
+      },
+      {
+        "autor": "Ibn Khaldun",
+        "obra": "Muqaddimah",
+        "ano": "1377",
+        "nota": "Princeton University Press"
+      },
+      {
+        "autor": "Voltaire",
+        "obra": "Ensaio sobre os Costumes e o Espírito das Nações",
+        "ano": "1756"
+      },
+      {
+        "autor": "Georg Wilhelm Friedrich Hegel",
+        "obra": "Filosofia da História",
+        "ano": "1837"
+      },
+      {
+        "autor": "Karl Marx",
+        "obra": "Prefácio à Contribuição para a Crítica da Economia Política",
+        "ano": "1859"
+      },
+      {
+        "autor": "Leopold von Ranke",
+        "obra": "História dos Povos Romano e Germânico",
+        "ano": "1824",
+        "nota": "'Wie es eigentlich gewesen' — como realmente aconteceu"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Marc Bloch",
+        "obra": "Apologia da História, ou, O Ofício do Historiador",
+        "ano": "1949",
+        "editora": "Zahar"
+      },
+      {
+        "autor": "Fernand Braudel",
+        "obra": "O Mediterrâneo e o Mundo Mediterrânico na Época de Filipe II (2 vols.)",
+        "ano": "1949",
+        "editora": "Martins Fontes"
+      },
+      {
+        "autor": "Edward Hallett Carr",
+        "obra": "O Que é História?",
+        "ano": "1961",
+        "editora": "Paz e Terra"
+      },
+      {
+        "autor": "Jacques Le Goff e Pierre Nora (orgs.)",
+        "obra": "Faire de l'Histoire (3 vols.)",
+        "ano": "1974",
+        "editora": "Gallimard"
+      },
+      {
+        "autor": "Hayden White",
+        "obra": "Metahistory: The Historical Imagination in Nineteenth-Century Europe",
+        "ano": "1973",
+        "editora": "Johns Hopkins"
+      },
+      {
+        "autor": "Eric Hobsbawm",
+        "obra": "A Era das Revoluções; A Era do Capital; A Era dos Impérios; A Era dos Extremos",
+        "ano": "1962–1994",
+        "editora": "Paz e Terra"
+      },
+      {
+        "autor": "Carlo Ginzburg",
+        "obra": "O Queijo e os Vermes",
+        "ano": "1976",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "E. P. Thompson",
+        "obra": "The Making of the English Working Class",
+        "ano": "1963",
+        "editora": "Victor Gollancz"
+      },
+      {
+        "autor": "Michel Foucault",
+        "obra": "Arqueologia do Saber; Vigiar e Punir",
+        "ano": "1969–1975",
+        "editora": "Vozes"
+      },
+      {
+        "autor": "Peter Burke",
+        "obra": "A Escola dos Annales (1929–1989)",
+        "ano": "1990",
+        "editora": "Unesp"
+      },
+      {
+        "autor": "Reinhart Koselleck",
+        "obra": "Futuro Passado: Contribuição à Semântica dos Tempos Históricos",
+        "ano": "1979",
+        "editora": "Contraponto"
+      },
+      {
+        "autor": "Michel de Certeau",
+        "obra": "A Escrita da História",
+        "ano": "1975",
+        "editora": "Forense Universitária"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Yuval Noah Harari",
+        "obra": "Sapiens; Homo Deus; 21 Lições para o Século 21",
+        "ano": "2011–2018",
+        "editora": "Companhia das Letras",
+        "nota": "Síntese popular de alta qualidade"
+      },
+      {
+        "autor": "Jared Diamond",
+        "obra": "Colapso: Como as Sociedades Escolhem o Fracasso ou o Sucesso",
+        "ano": "2005",
+        "editora": "Record"
+      }
+    ]
+  }
+}

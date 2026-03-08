@@ -1,0 +1,151 @@
+{
+  "tema": "Religiões e Espiritualidade",
+  "descricao": "Judaísmo, Cristianismo, Islamismo, Hinduísmo, Budismo, Zoroastrismo, religiões africanas e americanas; Inquisição, missões, Igreja e Estado",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Anônimo",
+        "obra": "Torá (Pentateuco); Profetas; Escritos — Tanakh",
+        "ano": "c. 1500–400 a.C."
+      },
+      {
+        "autor": "Anônimo",
+        "obra": "Novo Testamento (27 livros)",
+        "ano": "c. 50–100 d.C.",
+        "nota": "Trad. João Ferreira de Almeida; trad. acadêmica: CNBB"
+      },
+      {
+        "autor": "Maomé (compilado)",
+        "obra": "Alcorão",
+        "ano": "632 d.C."
+      },
+      {
+        "autor": "Anônimo (compilado)",
+        "obra": "Dhammapada (Ensinamentos do Buda)",
+        "ano": "c. 300 a.C.",
+        "nota": "Trad. Nina Hostager"
+      },
+      {
+        "autor": "Anônimo",
+        "obra": "Upanishads",
+        "ano": "c. 800–200 a.C.",
+        "nota": "Trad. recomendada: Patrick Olivelle, Oxford"
+      },
+      {
+        "autor": "Zoroastro (compilado)",
+        "obra": "Avesta — Gathas (Hinos)",
+        "ano": "c. 1500–600 a.C."
+      },
+      {
+        "autor": "Agostinho de Hipona",
+        "obra": "Confissões; A Cidade de Deus",
+        "ano": "397–426 d.C.",
+        "nota": "Paulus"
+      },
+      {
+        "autor": "Tomás de Aquino",
+        "obra": "Suma Teológica (Summa Theologiae)",
+        "ano": "1265–1274"
+      },
+      {
+        "autor": "Martinho Lutero",
+        "obra": "95 Teses; Prefácio à Carta aos Romanos",
+        "ano": "1517"
+      },
+      {
+        "autor": "Teresa de Ávila",
+        "obra": "Livro da Vida; O Castelo Interior",
+        "ano": "1565–1577"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Karen Armstrong",
+        "obra": "Uma História de Deus",
+        "ano": "1993",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Mircea Eliade",
+        "obra": "O Sagrado e o Profano",
+        "ano": "1957",
+        "editora": "Martins Fontes"
+      },
+      {
+        "autor": "Max Weber",
+        "obra": "A Ética Protestante e o Espírito do Capitalismo",
+        "ano": "1905",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Elaine Pagels",
+        "obra": "Os Evangelhos Gnósticos",
+        "ano": "1979",
+        "editora": "Cultrix"
+      },
+      {
+        "autor": "Diarmaid MacCulloch",
+        "obra": "Christianity: The First Three Thousand Years",
+        "ano": "2009",
+        "editora": "Viking"
+      },
+      {
+        "autor": "Peter Brown",
+        "obra": "The Rise of Western Christendom",
+        "ano": "1996",
+        "editora": "Blackwell"
+      },
+      {
+        "autor": "Norman Cohn",
+        "obra": "The Pursuit of the Millennium: Revolutionary Millenarians",
+        "ano": "1957",
+        "editora": "Secker & Warburg"
+      },
+      {
+        "autor": "Edward Peters",
+        "obra": "Inquisition",
+        "ano": "1988",
+        "editora": "Free Press"
+      },
+      {
+        "autor": "Donald S. Lopez",
+        "obra": "Buddhism in Practice",
+        "ano": "1995",
+        "editora": "Princeton University Press"
+      },
+      {
+        "autor": "Wendy Doniger",
+        "obra": "The Hindus: An Alternative History",
+        "ano": "2009",
+        "editora": "Penguin Press"
+      },
+      {
+        "autor": "Jacob Neusner",
+        "obra": "Judaism: The Evidence of the Mishnah",
+        "ano": "1981",
+        "editora": "University of Chicago Press"
+      },
+      {
+        "autor": "Justo L. González",
+        "obra": "A History of Christian Thought (3 vols.)",
+        "ano": "1970–1975",
+        "editora": "Abingdon Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Richard Dawkins",
+        "obra": "Deus, um Delírio",
+        "ano": "2006",
+        "editora": "Companhia das Letras",
+        "nota": "Perspectiva crítica contemporânea"
+      },
+      {
+        "autor": "Huston Smith",
+        "obra": "The World's Religions",
+        "ano": "1958",
+        "editora": "HarperOne"
+      }
+    ]
+  }
+}

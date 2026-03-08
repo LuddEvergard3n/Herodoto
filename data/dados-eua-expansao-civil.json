@@ -196,6 +196,34 @@
         "sharecropping"
       ],
       "dataset": "data/dados-eua-expansao-civil.json"
+    },
+    {
+      "id": "eevc1",
+      "nome": "Manifest Destiny e a Expulsao dos Indigenas",
+      "nome_en": "Manifest Destiny e a Expulsao dos Indigenas",
+      "nome_es": "Manifest Destiny e a Expulsao dos Indigenas",
+      "tipo": "cultural",
+      "inicio": 1830,
+      "fim": 1890,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "social",
+      "descricao": "O Manifest Destiny (direito divino dos EUA de expandir do Atlantico ao Pacifico) levou ao Indian Removal Act (1830, Jackson): 125.000 indigenas expulsos. A Trilha das Lagrimas (1838, Cherokee): 4.000 de 15.000 morreram na marcha forcada. As guerras indigenas terminaram em Wounded Knee (1890, 300 Sioux massacrados).",
+      "descricao_en": "O Manifest Destiny (direito divino dos EUA de expandir do Atlantico ao Pacifico) levou ao Indian Removal Act (1830, Jackson): 125.000 indigenas expulsos. A Trilha das Lagrimas (1838, Cherokee): 4.000 de 15.000 morreram na marcha forcada. As guerras indigenas terminaram em Wounded Knee (1890, 300 Sioux massacrados).",
+      "descricao_es": "O Manifest Destiny (direito divino dos EUA de expandir do Atlantico ao Pacifico) levou ao Indian Removal Act (1830, Jackson): 125.000 indigenas expulsos. A Trilha das Lagrimas (1838, Cherokee): 4.000 de 15.000 morreram na marcha forcada. As guerras indigenas terminaram em Wounded Knee (1890, 300 Sioux massacrados).",
+      "importancia": "O Manifest Destiny e o eufemismo mais perfeito da historia americana para genocidio sistematico. Que o presidente que assinou o Indian Removal Act (Jackson) esteja no bilhete de 20 dolares e uma das ironias mais dolorosas da historia.",
+      "importancia_en": "O Manifest Destiny e o eufemismo mais perfeito da historia americana para genocidio sistematico. Que o presidente que assinou o Indian Removal Act (Jackson) esteja no bilhete de 20 dolares e uma das ironias mais dolorosas da historia.",
+      "importancia_es": "O Manifest Destiny e o eufemismo mais perfeito da historia americana para genocidio sistematico. Que o presidente que assinou o Indian Removal Act (Jackson) esteja no bilhete de 20 dolares e uma das ironias mais dolorosas da historia.",
+      "tags": [
+        "Manifest Destiny",
+        "Indian Removal",
+        "Trilha das Lagrimas",
+        "1838",
+        "Wounded Knee",
+        "Jackson"
+      ],
+      "dataset": "data/dados-eua-expansao-civil.json"
     }
   ],
   "relacoes": [

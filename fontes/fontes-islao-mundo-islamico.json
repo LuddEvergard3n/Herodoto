@@ -1,0 +1,140 @@
+{
+  "tema": "Islã e Mundo Islâmico",
+  "descricao": "Origens do Islã, Califados, Al-Andalus, Cruzadas islâmicas, Otomanos, Pérsia islâmica, mundo árabe moderno",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Maomé (compilado)",
+        "obra": "Alcorão (Al-Quran)",
+        "ano": "632 d.C.",
+        "nota": "Trad. Samir El Hayek, Marsam"
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Hadith (Coleções de Buhkari e Muslim)",
+        "ano": "séc. IX",
+        "nota": "Fontes normativas do Islã sunita"
+      },
+      {
+        "autor": "Ibn Ishaq (via Ibn Hisham)",
+        "obra": "Sirat Rasul Allah (Vida do Profeta)",
+        "ano": "c. 830"
+      },
+      {
+        "autor": "Al-Tabari",
+        "obra": "Tarikh al-Rusul wa-l-Muluk (História dos Profetas e Reis)",
+        "ano": "c. 915"
+      },
+      {
+        "autor": "Ibn Khaldun",
+        "obra": "Muqaddimah (Introdução à História Universal)",
+        "ano": "1377",
+        "nota": "Trad. Franz Rosenthal, Princeton"
+      },
+      {
+        "autor": "Ibn Battuta",
+        "obra": "Rihla (Viagens)",
+        "ano": "c. 1355",
+        "nota": "Penguin Classics"
+      },
+      {
+        "autor": "Al-Biruni",
+        "obra": "Kitab al-Hind (Índia)",
+        "ano": "1030"
+      },
+      {
+        "autor": "Averróis (Ibn Rushd)",
+        "obra": "Comentários a Aristóteles; Tahafut al-Tahafut",
+        "ano": "séc. XII"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Marshall G. S. Hodgson",
+        "obra": "The Venture of Islam (3 vols.)",
+        "ano": "1974",
+        "editora": "University of Chicago Press"
+      },
+      {
+        "autor": "Hugh Kennedy",
+        "obra": "The Prophet and the Age of the Caliphates",
+        "ano": "1986",
+        "editora": "Longman"
+      },
+      {
+        "autor": "Bernard Lewis",
+        "obra": "The Arabs in History",
+        "ano": "1950",
+        "editora": "Hutchinson"
+      },
+      {
+        "autor": "Ira M. Lapidus",
+        "obra": "A History of Islamic Societies",
+        "ano": "1988",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "María Rosa Menocal",
+        "obra": "The Ornament of the World: How Muslims, Jews, and Christians Created a Culture of Tolerance in Medieval Spain",
+        "ano": "2002",
+        "editora": "Little, Brown"
+      },
+      {
+        "autor": "Albert Hourani",
+        "obra": "A History of the Arab Peoples",
+        "ano": "1991",
+        "editora": "Harvard University Press"
+      },
+      {
+        "autor": "Michael Cook",
+        "obra": "The Koran: A Very Short Introduction",
+        "ano": "2000",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Paul M. Cobb",
+        "obra": "The Race for Paradise: An Islamic History of the Crusades",
+        "ano": "2014",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Halil Inalcik",
+        "obra": "The Ottoman Empire: The Classical Age 1300–1600",
+        "ano": "1973",
+        "editora": "Weidenfeld & Nicolson"
+      },
+      {
+        "autor": "Wilferd Madelung",
+        "obra": "The Succession to Muhammad",
+        "ano": "1997",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "W. Montgomery Watt",
+        "obra": "Muhammad: Prophet and Statesman",
+        "ano": "1961",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Robert Irwin",
+        "obra": "The Arabian Nights: A Companion",
+        "ano": "1994",
+        "editora": "Allen Lane"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Karen Armstrong",
+        "obra": "Maomé: Uma Biografia do Profeta",
+        "ano": "1991",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Malise Ruthven",
+        "obra": "Islam: A Very Short Introduction",
+        "ano": "1997",
+        "editora": "Oxford University Press"
+      }
+    ]
+  }
+}

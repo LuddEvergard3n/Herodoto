@@ -1,0 +1,156 @@
+{
+  "tema": "Roma Antiga",
+  "descricao": "República, Império, crise do terceiro século, queda do Ocidente, legado jurídico e cultural",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Tito Lívio",
+        "obra": "Ab Urbe Condita (História de Roma)",
+        "ano": "c. 27–9 a.C.",
+        "nota": "Penguin Classics"
+      },
+      {
+        "autor": "Políbio",
+        "obra": "Histórias",
+        "ano": "c. 150 a.C.",
+        "nota": "Oxford University Press"
+      },
+      {
+        "autor": "Júlio César",
+        "obra": "De Bello Gallico (A Guerra da Gália)",
+        "ano": "c. 50 a.C.",
+        "nota": "Trad. Antônio da Silveira Mendonça, Unicamp"
+      },
+      {
+        "autor": "Cícero",
+        "obra": "De Re Publica; Catilinárias; Filípicas",
+        "ano": "c. 54–43 a.C.",
+        "nota": "Penguin Classics"
+      },
+      {
+        "autor": "Virgílio",
+        "obra": "Eneida",
+        "ano": "c. 29–19 a.C.",
+        "nota": "Trad. Carlos Alberto Nunes, Ediouro"
+      },
+      {
+        "autor": "Suetônio",
+        "obra": "As Vidas dos Doze Césares",
+        "ano": "c. 121 d.C.",
+        "nota": "Penguin Classics"
+      },
+      {
+        "autor": "Tácito",
+        "obra": "Anais; Germania",
+        "ano": "c. 116 d.C.",
+        "nota": "Penguin Classics"
+      },
+      {
+        "autor": "Marco Aurélio",
+        "obra": "Meditações",
+        "ano": "c. 170–180 d.C.",
+        "nota": "Trad. Jaime Bruna, Cultrix"
+      },
+      {
+        "autor": "Santo Agostinho",
+        "obra": "A Cidade de Deus",
+        "ano": "413–426 d.C.",
+        "nota": "Vozes"
+      },
+      {
+        "autor": "Corpus Juris Civilis (Justiniano)",
+        "obra": "Digesto e Institutos",
+        "ano": "533 d.C.",
+        "nota": "Base do direito romano compilada por Justiniano"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Edward Gibbon",
+        "obra": "The History of the Decline and Fall of the Roman Empire (6 vols.)",
+        "ano": "1776–1789",
+        "editora": "Penguin Classics (abr.)"
+      },
+      {
+        "autor": "Theodor Mommsen",
+        "obra": "Römische Geschichte (História de Roma)",
+        "ano": "1854–1856",
+        "editora": "Nobel de Literatura 1902"
+      },
+      {
+        "autor": "H. H. Scullard",
+        "obra": "A History of the Roman World, 753–146 BC",
+        "ano": "1935",
+        "editora": "Routledge"
+      },
+      {
+        "autor": "Ronald Syme",
+        "obra": "The Roman Revolution",
+        "ano": "1939",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Peter Heather",
+        "obra": "The Fall of the Roman Empire",
+        "ano": "2006",
+        "editora": "Macmillan"
+      },
+      {
+        "autor": "Bryan Ward-Perkins",
+        "obra": "The Fall of Rome and the End of Civilization",
+        "ano": "2005",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Mary Beard",
+        "obra": "SPQR: A History of Ancient Rome",
+        "ano": "2015",
+        "editora": "Profile Books"
+      },
+      {
+        "autor": "Tom Holland",
+        "obra": "Rubicon: The Last Years of the Roman Republic",
+        "ano": "2003",
+        "editora": "Doubleday"
+      },
+      {
+        "autor": "Adrian Goldsworthy",
+        "obra": "Caesar: Life of a Colossus",
+        "ano": "2006",
+        "editora": "Yale University Press"
+      },
+      {
+        "autor": "David Mattingly",
+        "obra": "An Imperial Possession: Britain in the Roman Empire",
+        "ano": "2006",
+        "editora": "Penguin"
+      },
+      {
+        "autor": "Christopher Kelly",
+        "obra": "The Roman Empire: A Very Short Introduction",
+        "ano": "2006",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Keith Hopkins e Mary Beard",
+        "obra": "The Colosseum",
+        "ano": "2005",
+        "editora": "Profile Books"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Will Durant",
+        "obra": "Caesar and Christ (Story of Civilization, Vol. III)",
+        "ano": "1944",
+        "editora": "Simon & Schuster"
+      },
+      {
+        "autor": "Tom Holland",
+        "obra": "Dynasty: The Rise and Fall of the House of Caesar",
+        "ano": "2015",
+        "editora": "Doubleday"
+      }
+    ]
+  }
+}

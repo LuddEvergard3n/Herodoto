@@ -163,6 +163,62 @@
       "importancia_es": "Os Sete Povos são o exemplo mais bem documentado do que as populações indígenas podiam construir quando protegidas do trabalho escravo. O filme 'A Missão' (1986) imortalizou sua destruição. As ruínas de São Miguel das Missões são Patrimônio da Humanidade.",
       "century_start": 16,
       "century_end": 18
+    },
+    {
+      "id": "bbn1",
+      "nome": "As Entradas e a Expansão do Território",
+      "nome_en": "As Entradas e a Expansão do Território",
+      "nome_es": "As Entradas e a Expansão do Território",
+      "tipo": "periodo",
+      "inicio": 1600,
+      "fim": 1750,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 17,
+      "type": "political",
+      "descricao": "As entradas (expedições oficiais) e bandeiras (expedições privadas) expandiram o Brasil muito além do Tratado de Tordesilhas. Os bandeirantes paulistas caçavam índios para escravidão e buscavam ouro e esmeraldas. Fernão Dias Pais Leme percorreu 10.000 km em 7 anos. A expansão bandeirante dobrou o território brasileiro.",
+      "descricao_en": "As entradas (expedições oficiais) e bandeiras (expedições privadas) expandiram o Brasil muito além do Tratado de Tordesilhas. Os bandeirantes paulistas caçavam índios para escravidão e buscavam ouro e esmeraldas. Fernão Dias Pais Leme percorreu 10.000 km em 7 anos. A expansão bandeirante dobrou o território brasileiro.",
+      "descricao_es": "As entradas (expedições oficiais) e bandeiras (expedições privadas) expandiram o Brasil muito além do Tratado de Tordesilhas. Os bandeirantes paulistas caçavam índios para escravidão e buscavam ouro e esmeraldas. Fernão Dias Pais Leme percorreu 10.000 km em 7 anos. A expansão bandeirante dobrou o território brasileiro.",
+      "importancia": "As bandeiras foram o instrumento de expansão territorial mais eficaz da história colonial americana: sem elas, o Brasil moderno seria a metade do seu tamanho. Mas o custo humano foi genocídio - centenas de aldeias destruídas.",
+      "importancia_en": "As bandeiras foram o instrumento de expansão territorial mais eficaz da história colonial americana: sem elas, o Brasil moderno seria a metade do seu tamanho. Mas o custo humano foi genocídio - centenas de aldeias destruídas.",
+      "importancia_es": "As bandeiras foram o instrumento de expansão territorial mais eficaz da história colonial americana: sem elas, o Brasil moderno seria a metade do seu tamanho. Mas o custo humano foi genocídio - centenas de aldeias destruídas.",
+      "tags": [
+        "entradas",
+        "Fernão Dias",
+        "10.000 km",
+        "Tordesilhas",
+        "expansão",
+        "genocídio"
+      ],
+      "dataset": "data/dados-brasil-06-bandeirismo.json"
+    },
+    {
+      "id": "bbn2",
+      "nome": "Raposo Tavares: O Maior Bandeirante",
+      "nome_en": "Raposo Tavares: O Maior Bandeirante",
+      "nome_es": "Raposo Tavares: O Maior Bandeirante",
+      "tipo": "pessoa",
+      "inicio": 1598,
+      "fim": 1658,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 17,
+      "type": "political",
+      "descricao": "Antônio Raposo Tavares (1598-1658) fez a maior expedição da história americana: 1648-1651, percorreu 10.000 km de São Paulo ao Amazonas (descendo o rio) e ao Pará - atravessando o continente, destruindo missões jesuíticas e capturando milhares de indígenas. Saiu com 200 homens e chegou com 60, demacrado e doente.",
+      "descricao_en": "Antônio Raposo Tavares (1598-1658) fez a maior expedição da história americana: 1648-1651, percorreu 10.000 km de São Paulo ao Amazonas (descendo o rio) e ao Pará - atravessando o continente, destruindo missões jesuíticas e capturando milhares de indígenas. Saiu com 200 homens e chegou com 60, demacrado e doente.",
+      "descricao_es": "Antônio Raposo Tavares (1598-1658) fez a maior expedição da história americana: 1648-1651, percorreu 10.000 km de São Paulo ao Amazonas (descendo o rio) e ao Pará - atravessando o continente, destruindo missões jesuíticas e capturando milhares de indígenas. Saiu com 200 homens e chegou com 60, demacrado e doente.",
+      "importancia": "Raposo Tavares fez a maior viagem terrestre das Américas - 150 anos antes de Lewis e Clark nos EUA. A explo",
+      "importancia_en": "Raposo Tavares fez a maior viagem terrestre das Américas - 150 anos antes de Lewis e Clark nos EUA. A explo",
+      "importancia_es": "Raposo Tavares fez a maior viagem terrestre das Américas - 150 anos antes de Lewis e Clark nos EUA. A explo",
+      "tags": [
+        "Raposo Tavares",
+        "1648",
+        "10.000 km",
+        "Amazonas",
+        "jesuítas",
+        "São Paulo"
+      ],
+      "dataset": "data/dados-brasil-06-bandeirismo.json"
     }
   ]
 }

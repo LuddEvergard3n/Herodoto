@@ -173,6 +173,62 @@
         "línguas"
       ],
       "dataset": "data/dados-zapotecas-mixtecas.json"
+    },
+    {
+      "id": "zm1",
+      "nome": "Monte Albán: A Primeira Capital das Américas",
+      "nome_en": "Monte Albán: A Primeira Capital das Américas",
+      "nome_es": "Monte Albán: A Primeira Capital das Américas",
+      "tipo": "periodo",
+      "inicio": -500,
+      "fim": 700,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 6,
+      "type": "political",
+      "descricao": "Monte Albán (500 a.C.-700 d.C.) foi a primeira grande cidade planejada das Américas: capital zapoteca no cume de uma montanha artificialmente aplanada no centro do Vale de Oaxaca. 25.000 habitantes. Os Danzantes (relevos de figuras humanas com inscrições) são as primeiras inscrições das Américas.",
+      "descricao_en": "Monte Albán (500 a.C.-700 d.C.) foi a primeira grande cidade planejada das Américas: capital zapoteca no cume de uma montanha artificialmente aplanada no centro do Vale de Oaxaca. 25.000 habitantes. Os Danzantes (relevos de figuras humanas com inscrições) são as primeiras inscrições das Américas.",
+      "descricao_es": "Monte Albán (500 a.C.-700 d.C.) foi a primeira grande cidade planejada das Américas: capital zapoteca no cume de uma montanha artificialmente aplanada no centro do Vale de Oaxaca. 25.000 habitantes. Os Danzantes (relevos de figuras humanas com inscrições) são as primeiras inscrições das Américas.",
+      "importancia": "Monte Albán demonstra que a urbanização planejada nas Américas é tão antiga quanto na Europa. Os Danzantes são a primeira escrita das Américas - anteriores à escrita maia mais conhecida.",
+      "importancia_en": "Monte Albán demonstra que a urbanização planejada nas Américas é tão antiga quanto na Europa. Os Danzantes são a primeira escrita das Américas - anteriores à escrita maia mais conhecida.",
+      "importancia_es": "Monte Albán demonstra que a urbanização planejada nas Américas é tão antiga quanto na Europa. Os Danzantes são a primeira escrita das Américas - anteriores à escrita maia mais conhecida.",
+      "tags": [
+        "Monte Albán",
+        "500 a.C.",
+        "Zapotecas",
+        "Danzantes",
+        "Oaxaca",
+        "planejado"
+      ],
+      "dataset": "data/dados-zapotecas-mixtecas.json"
+    },
+    {
+      "id": "zm2",
+      "nome": "Os Mixtecas e os Códices Sobreviventes",
+      "nome_en": "Os Mixtecas e os Códices Sobreviventes",
+      "nome_es": "Os Mixtecas e os Códices Sobreviventes",
+      "tipo": "cultural",
+      "inicio": 900,
+      "fim": 1521,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 10,
+      "type": "cultural",
+      "descricao": "Os mixtecas (900-1521) criaram os únicos códices pré-colombianos sobreviventes de Mesoamérica (exceto os maias): Codex Borgia, Codex Vindobonensis. Arte em turquesa, ouro e obsidiana. Os mixtecas conquistaram Monte Albán c. 900 e misturaram-se com os zapotecas.",
+      "descricao_en": "Os mixtecas (900-1521) criaram os únicos códices pré-colombianos sobreviventes de Mesoamérica (exceto os maias): Codex Borgia, Codex Vindobonensis. Arte em turquesa, ouro e obsidiana. Os mixtecas conquistaram Monte Albán c. 900 e misturaram-se com os zapotecas.",
+      "descricao_es": "Os mixtecas (900-1521) criaram os únicos códices pré-colombianos sobreviventes de Mesoamérica (exceto os maias): Codex Borgia, Codex Vindobonensis. Arte em turquesa, ouro e obsidiana. Os mixtecas conquistaram Monte Albán c. 900 e misturaram-se com os zapotecas.",
+      "importancia": "Os códices mixtecas são os únicos documentos pictóricos sobreviventes da Mesoamérica central - o Diego de Landa mixteco não existiu, então os livros sobreviveram. São a janela mais clara para a cosmovisão mesoamericana.",
+      "importancia_en": "Os códices mixtecas são os únicos documentos pictóricos sobreviventes da Mesoamérica central - o Diego de Landa mixteco não existiu, então os livros sobreviveram. São a janela mais clara para a cosmovisão mesoamericana.",
+      "importancia_es": "Os códices mixtecas são os únicos documentos pictóricos sobreviventes da Mesoamérica central - o Diego de Landa mixteco não existiu, então os livros sobreviveram. São a janela mais clara para a cosmovisão mesoamericana.",
+      "tags": [
+        "Mixtecas",
+        "Codex Borgia",
+        "turquesa",
+        "ouro",
+        "obsidiana",
+        "Monte Albán"
+      ],
+      "dataset": "data/dados-zapotecas-mixtecas.json"
     }
   ],
   "relacoes": [

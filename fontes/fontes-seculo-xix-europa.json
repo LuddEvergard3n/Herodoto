@@ -1,0 +1,147 @@
+{
+  "tema": "Século XIX Europeu",
+  "descricao": "Napoleão, Congresso de Viena, Romantismo, Liberalismo, Revoluções de 1848, Unificações alemã e italiana, Belle Époque, Nacionalismo",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Napoleão Bonaparte",
+        "obra": "Memoriais de Santa Helena (Las Cases)",
+        "ano": "1823"
+      },
+      {
+        "autor": "Giuseppe Mazzini",
+        "obra": "Deveres do Homem",
+        "ano": "1860"
+      },
+      {
+        "autor": "Giuseppe Garibaldi",
+        "obra": "Memórias",
+        "ano": "1872"
+      },
+      {
+        "autor": "Otto von Bismarck",
+        "obra": "Pensamentos e Memórias (Gedanken und Erinnerungen)",
+        "ano": "1898"
+      },
+      {
+        "autor": "Alexis de Tocqueville",
+        "obra": "A Democracia na América; Lembranças",
+        "ano": "1835–1850"
+      },
+      {
+        "autor": "John Stuart Mill",
+        "obra": "Sobre a Liberdade; O Subjugamento das Mulheres",
+        "ano": "1859–1869"
+      },
+      {
+        "autor": "Charles Darwin",
+        "obra": "A Origem das Espécies",
+        "ano": "1859"
+      },
+      {
+        "autor": "Friedrich Nietzsche",
+        "obra": "Assim Falou Zaratustra; Para Além do Bem e do Mal",
+        "ano": "1883–1886"
+      },
+      {
+        "autor": "Gustave Flaubert",
+        "obra": "Educação Sentimental",
+        "ano": "1869",
+        "nota": "Literatura como fonte sobre 1848"
+      },
+      {
+        "autor": "Émile Zola",
+        "obra": "Germinal; Eu Acuso (J'Accuse)",
+        "ano": "1885–1898"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Paul W. Schroeder",
+        "obra": "The Transformation of European Politics 1763–1848",
+        "ano": "1994",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Eric Hobsbawm",
+        "obra": "A Era das Revoluções 1789–1848; A Era do Capital 1848–1875; A Era dos Impérios 1875–1914",
+        "ano": "1962–1987",
+        "editora": "Paz e Terra"
+      },
+      {
+        "autor": "Timothy Blanning (ed.)",
+        "obra": "The Nineteenth Century: Europe 1789–1914",
+        "ano": "2000",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Denis Mack Smith",
+        "obra": "Cavour and Garibaldi 1860",
+        "ano": "1954",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Gordon A. Craig",
+        "obra": "Germany 1866–1945",
+        "ano": "1978",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Peter N. Stearns",
+        "obra": "European Society in Upheaval: Social History since 1750",
+        "ano": "1967",
+        "editora": "Macmillan"
+      },
+      {
+        "autor": "Jonathan Sperber",
+        "obra": "The European Revolutions 1848–1851",
+        "ano": "1994",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Charles Breunig",
+        "obra": "The Age of Revolution and Reaction 1789–1850",
+        "ano": "1970",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "Otto Pflanze",
+        "obra": "Bismarck and the Development of Germany (3 vols.)",
+        "ano": "1990",
+        "editora": "Princeton University Press"
+      },
+      {
+        "autor": "Roger L. Williams",
+        "obra": "The World of Napoleon III 1851–1870",
+        "ano": "1957",
+        "editora": "Free Press"
+      },
+      {
+        "autor": "Eugen Weber",
+        "obra": "Peasants into Frenchmen: The Modernization of Rural France 1870–1914",
+        "ano": "1976",
+        "editora": "Stanford University Press"
+      },
+      {
+        "autor": "James Joll",
+        "obra": "Europe since 1870",
+        "ano": "1973",
+        "editora": "Weidenfeld & Nicolson"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Roger Price",
+        "obra": "A Concise History of France",
+        "ano": "1993",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Martyn Lyons",
+        "obra": "Readers and Society in Nineteenth-Century France",
+        "ano": "2001",
+        "editora": "Palgrave"
+      }
+    ]
+  }
+}

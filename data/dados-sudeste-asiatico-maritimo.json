@@ -171,6 +171,62 @@
         "islão"
       ],
       "dataset": "data/dados-sudeste-asiatico-maritimo.json"
+    },
+    {
+      "id": "sam1",
+      "nome": "O Sultanato de Brunei e o Islamismo Marítimo",
+      "nome_en": "O Sultanato de Brunei e o Islamismo Marítimo",
+      "nome_es": "O Sultanato de Brunei e o Islamismo Marítimo",
+      "tipo": "periodo",
+      "inicio": 1363,
+      "fim": 1888,
+      "region": "Asia",
+      "period": "Medieval",
+      "century_start": 14,
+      "type": "religious",
+      "descricao": "O Sultanato de Brunei (c. 1363) foi o maior Estado islâmico do Sudeste Marítimo antes dos portugueses: controlava Borneo, Filipinas e partes da Malásia. O Islamismo chegou ao Sudeste Marítimo via mercadores (não por conquista): pacífico, sincrético, misturando-se com o Hinduísmo e o Budismo preexistentes.",
+      "descricao_en": "O Sultanato de Brunei (c. 1363) foi o maior Estado islâmico do Sudeste Marítimo antes dos portugueses: controlava Borneo, Filipinas e partes da Malásia. O Islamismo chegou ao Sudeste Marítimo via mercadores (não por conquista): pacífico, sincrético, misturando-se com o Hinduísmo e o Budismo preexistentes.",
+      "descricao_es": "O Sultanato de Brunei (c. 1363) foi o maior Estado islâmico do Sudeste Marítimo antes dos portugueses: controlava Borneo, Filipinas e partes da Malásia. O Islamismo chegou ao Sudeste Marítimo via mercadores (não por conquista): pacífico, sincrético, misturando-se com o Hinduísmo e o Budismo preexistentes.",
+      "importancia": "O Islamismo do Sudeste Asiático é o exemplo mais importante de conversão pacífica da história: não veio com exércitos mas com mercadores. O Islã mais tolerante do mundo é o do Sudeste Asiático - produto da forma como chegou.",
+      "importancia_en": "O Islamismo do Sudeste Asiático é o exemplo mais importante de conversão pacífica da história: não veio com exércitos mas com mercadores. O Islã mais tolerante do mundo é o do Sudeste Asiático - produto da forma como chegou.",
+      "importancia_es": "O Islamismo do Sudeste Asiático é o exemplo mais importante de conversão pacífica da história: não veio com exércitos mas com mercadores. O Islã mais tolerante do mundo é o do Sudeste Asiático - produto da forma como chegou.",
+      "tags": [
+        "Brunei",
+        "1363",
+        "Islamismo",
+        "mercadores",
+        "conversão pacífica",
+        "Borneo"
+      ],
+      "dataset": "data/dados-sudeste-asiatico-maritimo.json"
+    },
+    {
+      "id": "sam2",
+      "nome": "Java e a Cultura Hindu-Budista",
+      "nome_en": "Java e a Cultura Hindu-Budista",
+      "nome_es": "Java e a Cultura Hindu-Budista",
+      "tipo": "periodo",
+      "inicio": 400,
+      "fim": 1500,
+      "region": "Asia",
+      "period": "Medieval",
+      "century_start": 5,
+      "type": "cultural",
+      "descricao": "Java foi o centro da civilização Hindu-Budista do Sudeste Marítimo: Borobudur (c. 800, maior templo budista do mundo: 504 estátuas de Buda, 72 stupas), Prambanan (c. 850, templo hindu). Os impérios de Srivijaya (650-1250) e Majapahit (1293-1527) controlaram o comércio de especiarias. A chegada do Islamismo (século XV) substituiu a cultura hindu-budista.",
+      "descricao_en": "Java foi o centro da civilização Hindu-Budista do Sudeste Marítimo: Borobudur (c. 800, maior templo budista do mundo: 504 estátuas de Buda, 72 stupas), Prambanan (c. 850, templo hindu). Os impérios de Srivijaya (650-1250) e Majapahit (1293-1527) controlaram o comércio de especiarias. A chegada do Islamismo (século XV) substituiu a cultura hindu-budista.",
+      "descricao_es": "Java foi o centro da civilização Hindu-Budista do Sudeste Marítimo: Borobudur (c. 800, maior templo budista do mundo: 504 estátuas de Buda, 72 stupas), Prambanan (c. 850, templo hindu). Os impérios de Srivijaya (650-1250) e Majapahit (1293-1527) controlaram o comércio de especiarias. A chegada do Islamismo (século XV) substituiu a cultura hindu-budista.",
+      "importancia": "Borobudur é o maior templo budista do mundo e a obra mais impressionante do Sudeste Asiático. Que tenha sido abandonado e coberto pela floresta por 800 anos antes de ser redescoberto pelos holandeses em 1814 demonstra como as civilizações se perdem.",
+      "importancia_en": "Borobudur é o maior templo budista do mundo e a obra mais impressionante do Sudeste Asiático. Que tenha sido abandonado e coberto pela floresta por 800 anos antes de ser redescoberto pelos holandeses em 1814 demonstra como as civilizações se perdem.",
+      "importancia_es": "Borobudur é o maior templo budista do mundo e a obra mais impressionante do Sudeste Asiático. Que tenha sido abandonado e coberto pela floresta por 800 anos antes de ser redescoberto pelos holandeses em 1814 demonstra como as civilizações se perdem.",
+      "tags": [
+        "Java",
+        "Borobudur",
+        "800",
+        "Srivijaya",
+        "Majapahit",
+        "especiarias"
+      ],
+      "dataset": "data/dados-sudeste-asiatico-maritimo.json"
     }
   ],
   "relacoes": [

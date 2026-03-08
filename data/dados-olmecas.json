@@ -172,6 +172,62 @@
         "calendário"
       ],
       "dataset": "data/dados-olmecas.json"
+    },
+    {
+      "id": "olm1",
+      "nome": "As Cabeças Colossais e o Mistério Olmeca",
+      "nome_en": "As Cabeças Colossais e o Mistério Olmeca",
+      "nome_es": "As Cabeças Colossais e o Mistério Olmeca",
+      "tipo": "cultural",
+      "inicio": -1500,
+      "fim": -400,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 16,
+      "type": "cultural",
+      "descricao": "As cabeças colossais olmecas (17 encontradas, 1,5-3,4 metros de altura, até 47 toneladas) foram esculpidas em basalto transportado 150 km. Retratam líderes individuais (traços faciais únicos). O mais impressionante: sem roda, sem metal, sem besta de carga.",
+      "descricao_en": "As cabeças colossais olmecas (17 encontradas, 1,5-3,4 metros de altura, até 47 toneladas) foram esculpidas em basalto transportado 150 km. Retratam líderes individuais (traços faciais únicos). O mais impressionante: sem roda, sem metal, sem besta de carga.",
+      "descricao_es": "As cabeças colossais olmecas (17 encontradas, 1,5-3,4 metros de altura, até 47 toneladas) foram esculpidas em basalto transportado 150 km. Retratam líderes individuais (traços faciais únicos). O mais impressionante: sem roda, sem metal, sem besta de carga.",
+      "importancia": "As cabeças colossais olmecas são a maior façanha logística das Américas pré-colombianas: transportar pedras de 47 toneladas sem roda ou animais de carga. Demonstram que a engenharia humana sem tecnologia mecânica é mais poderosa do que imaginamos.",
+      "importancia_en": "As cabeças colossais olmecas são a maior façanha logística das Américas pré-colombianas: transportar pedras de 47 toneladas sem roda ou animais de carga. Demonstram que a engenharia humana sem tecnologia mecânica é mais poderosa do que imaginamos.",
+      "importancia_es": "As cabeças colossais olmecas são a maior façanha logística das Américas pré-colombianas: transportar pedras de 47 toneladas sem roda ou animais de carga. Demonstram que a engenharia humana sem tecnologia mecânica é mais poderosa do que imaginamos.",
+      "tags": [
+        "cabeças colossais",
+        "basalto",
+        "47 toneladas",
+        "líderes",
+        "logística",
+        "escultura"
+      ],
+      "dataset": "data/dados-olmecas.json"
+    },
+    {
+      "id": "olm2",
+      "nome": "San Lorenzo e La Venta: As Capitais Olmecas",
+      "nome_en": "San Lorenzo e La Venta: As Capitais Olmecas",
+      "nome_es": "San Lorenzo e La Venta: As Capitais Olmecas",
+      "tipo": "periodo",
+      "inicio": -1500,
+      "fim": -400,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "San Lorenzo (c. 1500-900 a.C.) foi o primeiro grande centro urbano das Américas. La Venta (c. 900-400 a.C.) criou o primeiro complexo cerimonial com pirâmide das Américas. Os olmecas inventaram o jogo de bola mesoamericano - ritual com conotações cosmológicas que se espalhou por toda a Mesoamérica.",
+      "descricao_en": "San Lorenzo (c. 1500-900 a.C.) foi o primeiro grande centro urbano das Américas. La Venta (c. 900-400 a.C.) criou o primeiro complexo cerimonial com pirâmide das Américas. Os olmecas inventaram o jogo de bola mesoamericano - ritual com conotações cosmológicas que se espalhou por toda a Mesoamérica.",
+      "descricao_es": "San Lorenzo (c. 1500-900 a.C.) foi o primeiro grande centro urbano das Américas. La Venta (c. 900-400 a.C.) criou o primeiro complexo cerimonial com pirâmide das Américas. Os olmecas inventaram o jogo de bola mesoamericano - ritual com conotações cosmológicas que se espalhou por toda a Mesoamérica.",
+      "importancia": "San Lorenzo foi a primeira cidade das Américas 500 anos antes de qualquer outra. O jogo de bola olmeca criou o primeiro esporte ritual do mundo - jogado por 3.000 anos em toda a Mesoamérica.",
+      "importancia_en": "San Lorenzo foi a primeira cidade das Américas 500 anos antes de qualquer outra. O jogo de bola olmeca criou o primeiro esporte ritual do mundo - jogado por 3.000 anos em toda a Mesoamérica.",
+      "importancia_es": "San Lorenzo foi a primeira cidade das Américas 500 anos antes de qualquer outra. O jogo de bola olmeca criou o primeiro esporte ritual do mundo - jogado por 3.000 anos em toda a Mesoamérica.",
+      "tags": [
+        "San Lorenzo",
+        "La Venta",
+        "1500 a.C.",
+        "pirâmide",
+        "jogo de bola",
+        "ritual"
+      ],
+      "dataset": "data/dados-olmecas.json"
     }
   ],
   "relacoes": [

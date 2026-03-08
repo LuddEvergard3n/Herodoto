@@ -201,6 +201,34 @@
         "contracultura"
       ],
       "dataset": "data/dados-eua-guerra-fria.json"
+    },
+    {
+      "id": "eugf1",
+      "nome": "Kennedy, Cuba e a Crise dos Misseis",
+      "nome_en": "Kennedy, Cuba e a Crise dos Misseis",
+      "nome_es": "Kennedy, Cuba e a Crise dos Misseis",
+      "tipo": "evento",
+      "inicio": 1962,
+      "fim": 1962,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "war",
+      "descricao": "A Crise dos Misseis Cubanos (outubro 1962): 13 dias em que o mundo esteve mais proximo de uma guerra nuclear. Kennedy exigiu a retirada dos misseis soviéticos. Khrushchev recuou em troca da retirada secreta dos misseis americanos da Turquia. McNamara depois: se qualquer lado tivesse errado um pouco, a guerra nuclear teria acontecido.",
+      "descricao_en": "A Crise dos Misseis Cubanos (outubro 1962): 13 dias em que o mundo esteve mais proximo de uma guerra nuclear. Kennedy exigiu a retirada dos misseis soviéticos. Khrushchev recuou em troca da retirada secreta dos misseis americanos da Turquia. McNamara depois: se qualquer lado tivesse errado um pouco, a guerra nuclear teria acontecido.",
+      "descricao_es": "A Crise dos Misseis Cubanos (outubro 1962): 13 dias em que o mundo esteve mais proximo de uma guerra nuclear. Kennedy exigiu a retirada dos misseis soviéticos. Khrushchev recuou em troca da retirada secreta dos misseis americanos da Turquia. McNamara depois: se qualquer lado tivesse errado um pouco, a guerra nuclear teria acontecido.",
+      "importancia": "A Crise de Cuba e o momento de maior perigo nuclear da historia. Que a resolucao tenha dependido de cartas secretas entre Kennedy e Khrushchev (bypassing os militares de ambos os lados) demonstra que a diplomacia pessoal pode salvar o mundo.",
+      "importancia_en": "A Crise de Cuba e o momento de maior perigo nuclear da historia. Que a resolucao tenha dependido de cartas secretas entre Kennedy e Khrushchev (bypassing os militares de ambos os lados) demonstra que a diplomacia pessoal pode salvar o mundo.",
+      "importancia_es": "A Crise de Cuba e o momento de maior perigo nuclear da historia. Que a resolucao tenha dependido de cartas secretas entre Kennedy e Khrushchev (bypassing os militares de ambos os lados) demonstra que a diplomacia pessoal pode salvar o mundo.",
+      "tags": [
+        "Cuba",
+        "1962",
+        "misseis",
+        "Kennedy",
+        "Khrushchev",
+        "nuclear"
+      ],
+      "dataset": "data/dados-eua-guerra-fria.json"
     }
   ],
   "relacoes": [

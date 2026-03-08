@@ -195,6 +195,34 @@
       "importancia_es": "A Constituição de 1988 é o documento mais progressista da história brasileira — e o mais contestado pelas elites econômicas que a chamam de 'constituição de país rico em país pobre'. O SUS, criado por ela, é o maior sistema público de saúde do mundo, atendendo 200 milhões de pessoas. Sua existência durante a pandemia de COVID-19 salvou centenas de milhares de vidas.",
       "century_start": 19,
       "century_end": 20
+    },
+    {
+      "id": "bdt1",
+      "nome": "O AI-5 e o Periodo Mais Duro da Ditadura",
+      "nome_en": "O AI-5 e o Periodo Mais Duro da Ditadura",
+      "nome_es": "O AI-5 e o Periodo Mais Duro da Ditadura",
+      "tipo": "evento",
+      "inicio": 1968,
+      "fim": 1974,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "O AI-5 (13 dezembro 1968) foi o ato mais autoritario da ditadura brasileira: suspendeu o habeas corpus, fechou o Congresso e permitiu prisao sem acusacao. O periodo Medici (1969-1973) foi o mais violento: 474 mortos reconhecidos, 30.000 estimados.",
+      "descricao_en": "O AI-5 (13 dezembro 1968) foi o ato mais autoritario da ditadura brasileira: suspendeu o habeas corpus, fechou o Congresso e permitiu prisao sem acusacao. O periodo Medici (1969-1973) foi o mais violento: 474 mortos reconhecidos, 30.000 estimados.",
+      "descricao_es": "O AI-5 (13 dezembro 1968) foi o ato mais autoritario da ditadura brasileira: suspendeu o habeas corpus, fechou o Congresso e permitiu prisao sem acusacao. O periodo Medici (1969-1973) foi o mais violento: 474 mortos reconhecidos, 30.000 estimados.",
+      "importancia": "O AI-5 e o documento mais autoritario da historia brasileira. O milagre economico (10% de crescimento) concomitante ao periodo mais violento mostra que crescimento e repressao podem coexistir.",
+      "importancia_en": "O AI-5 e o documento mais autoritario da historia brasileira. O milagre economico (10% de crescimento) concomitante ao periodo mais violento mostra que crescimento e repressao podem coexistir.",
+      "importancia_es": "O AI-5 e o documento mais autoritario da historia brasileira. O milagre economico (10% de crescimento) concomitante ao periodo mais violento mostra que crescimento e repressao podem coexistir.",
+      "tags": [
+        "AI-5",
+        "1968",
+        "Medici",
+        "474",
+        "habeas corpus",
+        "repressao"
+      ],
+      "dataset": "data/dados-brasil-15-ditadura.json"
     }
   ]
 }

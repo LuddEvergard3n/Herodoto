@@ -161,6 +161,62 @@
       "period": "Contemporary",
       "importancia_en": "Dissolution of USSR on Dec 25, 1991: 15 independent republics. End of 74 years of communist experiment.",
       "importancia_es": "Gorbachov (1985-91): perestroika + glasnost. Disolución de la URSS el 25 dic 1991: 15 repúblicas."
+    },
+    {
+      "id": "rrx1",
+      "nome": "Lênin e a Teoria da Vanguarda",
+      "nome_en": "Lênin e a Teoria da Vanguarda",
+      "nome_es": "Lênin e a Teoria da Vanguarda",
+      "tipo": "pessoa",
+      "inicio": 1870,
+      "fim": 1924,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "Lênin (1870-1924) criou o partido de vanguarda profissional (O Que Fazer?, 1902): uma minoria organizada pode liderar a revolução em nome da maioria. Retornou da Suíça num trem selado (financiado pelos alemães) em abril 1917. O Decreto da Paz e o Decreto da Terra (outubro 1917) legitimaram o poder bolchevique.",
+      "descricao_en": "Lênin (1870-1924) criou o partido de vanguarda profissional (O Que Fazer?, 1902): uma minoria organizada pode liderar a revolução em nome da maioria. Retornou da Suíça num trem selado (financiado pelos alemães) em abril 1917. O Decreto da Paz e o Decreto da Terra (outubro 1917) legitimaram o poder bolchevique.",
+      "descricao_es": "Lênin (1870-1924) criou o partido de vanguarda profissional (O Que Fazer?, 1902): uma minoria organizada pode liderar a revolução em nome da maioria. Retornou da Suíça num trem selado (financiado pelos alemães) em abril 1917. O Decreto da Paz e o Decreto da Terra (outubro 1917) legitimaram o poder bolchevique.",
+      "importancia": "Lênin criou o modelo de revolução de vanguarda que foi copiado em 30 países no século XX. A ideia de que uma elite organizada pode agir em nome de um proletariado não-organizado é a mais influente e a mais perigosa da história política moderna.",
+      "importancia_en": "Lênin criou o modelo de revolução de vanguarda que foi copiado em 30 países no século XX. A ideia de que uma elite organizada pode agir em nome de um proletariado não-organizado é a mais influente e a mais perigosa da história política moderna.",
+      "importancia_es": "Lênin criou o modelo de revolução de vanguarda que foi copiado em 30 países no século XX. A ideia de que uma elite organizada pode agir em nome de um proletariado não-organizado é a mais influente e a mais perigosa da história política moderna.",
+      "tags": [
+        "Lênin",
+        "vanguarda",
+        "1917",
+        "bolcheviques",
+        "trem",
+        "O Que Fazer"
+      ],
+      "dataset": "data/dados-revolucao-russa.json"
+    },
+    {
+      "id": "rrx2",
+      "nome": "Stalin e o Terror Soviético",
+      "nome_en": "Stalin e o Terror Soviético",
+      "nome_es": "Stalin e o Terror Soviético",
+      "tipo": "pessoa",
+      "inicio": 1878,
+      "fim": 1953,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "Stalin (1878-1953) construiu o maior sistema de terror da história: o Gulag (18 milhões passaram; 1,5-1,8 milhões morreram), as Grandes Purgas (1936-1938, 750.000 fuzilados), a coletivização forçada (Holodomor ucraniano, 3,5-7 milhões mortos). Industrializou a URSS em 10 anos - ao custo de milhões de vidas.",
+      "descricao_en": "Stalin (1878-1953) construiu o maior sistema de terror da história: o Gulag (18 milhões passaram; 1,5-1,8 milhões morreram), as Grandes Purgas (1936-1938, 750.000 fuzilados), a coletivização forçada (Holodomor ucraniano, 3,5-7 milhões mortos). Industrializou a URSS em 10 anos - ao custo de milhões de vidas.",
+      "descricao_es": "Stalin (1878-1953) construiu o maior sistema de terror da história: o Gulag (18 milhões passaram; 1,5-1,8 milhões morreram), as Grandes Purgas (1936-1938, 750.000 fuzilados), a coletivização forçada (Holodomor ucraniano, 3,5-7 milhões mortos). Industrializou a URSS em 10 anos - ao custo de milhões de vidas.",
+      "importancia": "Stalin é o maior paradoxo do século XX: industrializou a URSS derrotando Hitler mas ao custo de mais mortes russas que a guerra. Que um genocida seja herói para parte da população russa ainda hoje demonstra o poder do nacionalismo sobre a memória.",
+      "importancia_en": "Stalin é o maior paradoxo do século XX: industrializou a URSS derrotando Hitler mas ao custo de mais mortes russas que a guerra. Que um genocida seja herói para parte da população russa ainda hoje demonstra o poder do nacionalismo sobre a memória.",
+      "importancia_es": "Stalin é o maior paradoxo do século XX: industrializou a URSS derrotando Hitler mas ao custo de mais mortes russas que a guerra. Que um genocida seja herói para parte da população russa ainda hoje demonstra o poder do nacionalismo sobre a memória.",
+      "tags": [
+        "Stalin",
+        "Gulag",
+        "Purgas",
+        "Holodomor",
+        "industrialização",
+        "terror"
+      ],
+      "dataset": "data/dados-revolucao-russa.json"
     }
   ],
   "relacoes": [

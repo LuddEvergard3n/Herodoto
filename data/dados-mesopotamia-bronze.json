@@ -169,6 +169,62 @@
         "direitos humanos"
       ],
       "dataset": "data/dados-mesopotamia-bronze.json"
+    },
+    {
+      "id": "mb1",
+      "nome": "Assíria: O Terror Como Política de Estado",
+      "nome_en": "Assíria: O Terror Como Política de Estado",
+      "nome_es": "Assíria: O Terror Como Política de Estado",
+      "tipo": "periodo",
+      "inicio": -900,
+      "fim": -609,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 10,
+      "type": "political",
+      "descricao": "O Império Neo-Assírio (900-609 a.C.) usou o terror sistematicamente como instrumento político: deportações em massa (mais de 1 milhão de pessoas), execuções públicas registradas em relevo, cidades destruídas. Nínive (capital) tinha 300.000 habitantes. Assurbanipal criou a primeira grande biblioteca (30.000 tábuas).",
+      "descricao_en": "O Império Neo-Assírio (900-609 a.C.) usou o terror sistematicamente como instrumento político: deportações em massa (mais de 1 milhão de pessoas), execuções públicas registradas em relevo, cidades destruídas. Nínive (capital) tinha 300.000 habitantes. Assurbanipal criou a primeira grande biblioteca (30.000 tábuas).",
+      "descricao_es": "O Império Neo-Assírio (900-609 a.C.) usou o terror sistematicamente como instrumento político: deportações em massa (mais de 1 milhão de pessoas), execuções públicas registradas em relevo, cidades destruídas. Nínive (capital) tinha 300.000 habitantes. Assurbanipal criou a primeira grande biblioteca (30.000 tábuas).",
+      "importancia": "A Assíria criou o terror de Estado como instrumento político sistemático - 2.700 anos antes de Stalin. A biblioteca de Assurbanipal preservou o Gilgamesh - o paradoxo: o mais brutal dos impérios criou o maior arquivo cultural.",
+      "importancia_en": "A Assíria criou o terror de Estado como instrumento político sistemático - 2.700 anos antes de Stalin. A biblioteca de Assurbanipal preservou o Gilgamesh - o paradoxo: o mais brutal dos impérios criou o maior arquivo cultural.",
+      "importancia_es": "A Assíria criou o terror de Estado como instrumento político sistemático - 2.700 anos antes de Stalin. A biblioteca de Assurbanipal preservou o Gilgamesh - o paradoxo: o mais brutal dos impérios criou o maior arquivo cultural.",
+      "tags": [
+        "Assíria",
+        "900 a.C.",
+        "terror",
+        "deportações",
+        "Nínive",
+        "biblioteca"
+      ],
+      "dataset": "data/dados-mesopotamia-bronze.json"
+    },
+    {
+      "id": "mb2",
+      "nome": "Babilônia: Lei, Astronomia e Matemática",
+      "nome_en": "Babilônia: Lei, Astronomia e Matemática",
+      "nome_es": "Babilônia: Lei, Astronomia e Matemática",
+      "tipo": "periodo",
+      "inicio": -1894,
+      "fim": -539,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 19,
+      "type": "cultural",
+      "descricao": "A Babilônia foi o maior centro intelectual da Mesopotâmia: o Código de Hamurabi (1754 a.C.), a astronomia babilônica previu eclipses com precisão (os zodíacos que usamos são babilônicos), e a matemática sexagesimal (base 60) ainda usamos: 60 segundos, 60 minutos, 360 graus.",
+      "descricao_en": "A Babilônia foi o maior centro intelectual da Mesopotâmia: o Código de Hamurabi (1754 a.C.), a astronomia babilônica previu eclipses com precisão (os zodíacos que usamos são babilônicos), e a matemática sexagesimal (base 60) ainda usamos: 60 segundos, 60 minutos, 360 graus.",
+      "descricao_es": "A Babilônia foi o maior centro intelectual da Mesopotâmia: o Código de Hamurabi (1754 a.C.), a astronomia babilônica previu eclipses com precisão (os zodíacos que usamos são babilônicos), e a matemática sexagesimal (base 60) ainda usamos: 60 segundos, 60 minutos, 360 graus.",
+      "importancia": "A Babilônia criou as três ferramentas matemáticas que ainda usamos: o sistema sexagesimal (60), o zodíaco astronômico, e o conceito de eclipse previsível. A matemática de 2.600 a.C. ainda governa nossos relógios e bússolas.",
+      "importancia_en": "A Babilônia criou as três ferramentas matemáticas que ainda usamos: o sistema sexagesimal (60), o zodíaco astronômico, e o conceito de eclipse previsível. A matemática de 2.600 a.C. ainda governa nossos relógios e bússolas.",
+      "importancia_es": "A Babilônia criou as três ferramentas matemáticas que ainda usamos: o sistema sexagesimal (60), o zodíaco astronômico, e o conceito de eclipse previsível. A matemática de 2.600 a.C. ainda governa nossos relógios e bússolas.",
+      "tags": [
+        "Babilônia",
+        "Hamurabi",
+        "base 60",
+        "zodíaco",
+        "eclipse",
+        "360 graus"
+      ],
+      "dataset": "data/dados-mesopotamia-bronze.json"
     }
   ],
   "relacoes": [

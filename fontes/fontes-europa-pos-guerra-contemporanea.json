@@ -1,0 +1,138 @@
+{
+  "tema": "Europa Pós-1945 e Contemporânea",
+  "descricao": "Reconstrução europeia, Plano Marshall, descolonização, Comunidade Europeia, queda do Muro, Guerras dos Bálcãs, União Europeia",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Winston Churchill",
+        "obra": "Discurso de Zurique (A United States of Europe)",
+        "ano": "1946"
+      },
+      {
+        "autor": "Robert Schuman",
+        "obra": "Declaração de Schuman (Proposta de criação da CECA)",
+        "ano": "1950"
+      },
+      {
+        "autor": "Konrad Adenauer",
+        "obra": "Memórias",
+        "ano": "1965"
+      },
+      {
+        "autor": "Charles De Gaulle",
+        "obra": "Memórias de Guerra (3 vols.)",
+        "ano": "1954–1959"
+      },
+      {
+        "autor": "Mikhail Gorbachev",
+        "obra": "Perestroika",
+        "ano": "1987"
+      },
+      {
+        "autor": "Václav Havel",
+        "obra": "O Poder dos Sem Poder",
+        "ano": "1978",
+        "editora": "Beta & Alfa"
+      },
+      {
+        "autor": "Tratado de Roma",
+        "obra": "Tratado de Roma (criação da CEE)",
+        "ano": "1957"
+      },
+      {
+        "autor": "Lech Wałęsa",
+        "obra": "Um Caminho da Esperança",
+        "ano": "1987"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Tony Judt",
+        "obra": "Postwar: A History of Europe since 1945",
+        "ano": "2005",
+        "editora": "Penguin Press",
+        "nota": "A mais completa história da Europa pós-guerra"
+      },
+      {
+        "autor": "Alan S. Milward",
+        "obra": "The European Rescue of the Nation-State",
+        "ano": "1992",
+        "editora": "Routledge"
+      },
+      {
+        "autor": "Mark Mazower",
+        "obra": "Dark Continent: Europe's Twentieth Century",
+        "ano": "1998",
+        "editora": "Allen Lane"
+      },
+      {
+        "autor": "Mary Fulbrook",
+        "obra": "The Divided Nation: Germany 1918–1990",
+        "ano": "1991",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Timothy Garton Ash",
+        "obra": "The Magic Lantern: The Revolution of '89",
+        "ano": "1990",
+        "editora": "Random House"
+      },
+      {
+        "autor": "Stephen Kotkin",
+        "obra": "Uncivil Society: 1989 and the Implosion of the Communist Establishment",
+        "ano": "2009",
+        "editora": "Modern Library"
+      },
+      {
+        "autor": "Laura Silber e Allan Little",
+        "obra": "Yugoslavia: Death of a Nation",
+        "ano": "1995",
+        "editora": "TV Books"
+      },
+      {
+        "autor": "Misha Glenny",
+        "obra": "The Fall of Yugoslavia",
+        "ano": "1992",
+        "editora": "Penguin"
+      },
+      {
+        "autor": "Desmond Dinan",
+        "obra": "Europe Recast: A History of European Union",
+        "ano": "2004",
+        "editora": "Lynne Rienner"
+      },
+      {
+        "autor": "Walter Laqueur",
+        "obra": "Europe in Our Time: A History 1945–1992",
+        "ano": "1992",
+        "editora": "Viking"
+      },
+      {
+        "autor": "Ian Buruma",
+        "obra": "Year Zero: A History of 1945",
+        "ano": "2013",
+        "editora": "Penguin Press"
+      },
+      {
+        "autor": "Timothy Snyder",
+        "obra": "The Reconstruction of Nations: Poland, Ukraine, Lithuania, Belarus 1569–1999",
+        "ano": "2003",
+        "editora": "Yale University Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "T. R. Reid",
+        "obra": "The United States of Europe",
+        "ano": "2004",
+        "editora": "Penguin Press"
+      },
+      {
+        "autor": "Martin Jacques",
+        "obra": "When China Rules the World",
+        "ano": "2009",
+        "editora": "Allen Lane"
+      }
+    ]
+  }
+}

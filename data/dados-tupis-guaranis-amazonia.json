@@ -173,6 +173,62 @@
         "língua"
       ],
       "dataset": "data/dados-tupis-guaranis-amazonia.json"
+    },
+    {
+      "id": "tga1",
+      "nome": "A Língua Geral e o Tupi como Comunicação Colonial",
+      "nome_en": "A Língua Geral e o Tupi como Comunicação Colonial",
+      "nome_es": "A Língua Geral e o Tupi como Comunicação Colonial",
+      "tipo": "cultural",
+      "inicio": 1500,
+      "fim": 1757,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 15,
+      "type": "cultural",
+      "descricao": "O Tupi tornou-se a Língua Geral do Brasil colonial: falada por colonos, jesuítas, mamelucos e índios de todas as tribos. O padre José de Anchieta criou a gramática tupi (1595). Em 1757, Pombal proibiu a Língua Geral por decreto e impôs o português - mas o nheengatu sobrevive no Alto Amazonas.",
+      "descricao_en": "O Tupi tornou-se a Língua Geral do Brasil colonial: falada por colonos, jesuítas, mamelucos e índios de todas as tribos. O padre José de Anchieta criou a gramática tupi (1595). Em 1757, Pombal proibiu a Língua Geral por decreto e impôs o português - mas o nheengatu sobrevive no Alto Amazonas.",
+      "descricao_es": "O Tupi tornou-se a Língua Geral do Brasil colonial: falada por colonos, jesuítas, mamelucos e índios de todas as tribos. O padre José de Anchieta criou a gramática tupi (1595). Em 1757, Pombal proibiu a Língua Geral por decreto e impôs o português - mas o nheengatu sobrevive no Alto Amazonas.",
+      "importancia": "O Tupi como Língua Geral é o maior exemplo de língua indígena como instrumento colonial: foi adotada pelos colonizadores por pragmatismo e depois destruída por política. O português brasileiro tem 10.000 palavras tupi como herança.",
+      "importancia_en": "O Tupi como Língua Geral é o maior exemplo de língua indígena como instrumento colonial: foi adotada pelos colonizadores por pragmatismo e depois destruída por política. O português brasileiro tem 10.000 palavras tupi como herança.",
+      "importancia_es": "O Tupi como Língua Geral é o maior exemplo de língua indígena como instrumento colonial: foi adotada pelos colonizadores por pragmatismo e depois destruída por política. O português brasileiro tem 10.000 palavras tupi como herança.",
+      "tags": [
+        "Língua Geral",
+        "Anchieta",
+        "1595",
+        "Pombal",
+        "nheengatu",
+        "10.000 palavras"
+      ],
+      "dataset": "data/dados-tupis-guaranis-amazonia.json"
+    },
+    {
+      "id": "tga2",
+      "nome": "Os Guaranis e a Resistência Contemporânea",
+      "nome_en": "Os Guaranis e a Resistência Contemporânea",
+      "nome_es": "Os Guaranis e a Resistência Contemporânea",
+      "tipo": "cultural",
+      "inicio": 1500,
+      "fim": 2024,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 15,
+      "type": "social",
+      "descricao": "Os guaranis são o maior povo indígena do Brasil/Paraguai: 85.000 no Brasil. A tradição profética (a busca da Terra Sem Males) levou a migrações de centenas de quilômetros. A taxa de suicídio entre os guaranis-kaiowá no Mato Grosso do Sul é a mais alta do mundo - resultado da perda de território e cultura.",
+      "descricao_en": "Os guaranis são o maior povo indígena do Brasil/Paraguai: 85.000 no Brasil. A tradição profética (a busca da Terra Sem Males) levou a migrações de centenas de quilômetros. A taxa de suicídio entre os guaranis-kaiowá no Mato Grosso do Sul é a mais alta do mundo - resultado da perda de território e cultura.",
+      "descricao_es": "Os guaranis são o maior povo indígena do Brasil/Paraguai: 85.000 no Brasil. A tradição profética (a busca da Terra Sem Males) levou a migrações de centenas de quilômetros. A taxa de suicídio entre os guaranis-kaiowá no Mato Grosso do Sul é a mais alta do mundo - resultado da perda de território e cultura.",
+      "importancia": "A crise dos guaranis-kaiowá no Mato Grosso do Sul é a crise indígena mais documentada do Brasil: uma taxa de suicídio de 30x a média nacional demonstra que a destruição cultural produz destruição física.",
+      "importancia_en": "A crise dos guaranis-kaiowá no Mato Grosso do Sul é a crise indígena mais documentada do Brasil: uma taxa de suicídio de 30x a média nacional demonstra que a destruição cultural produz destruição física.",
+      "importancia_es": "A crise dos guaranis-kaiowá no Mato Grosso do Sul é a crise indígena mais documentada do Brasil: uma taxa de suicídio de 30x a média nacional demonstra que a destruição cultural produz destruição física.",
+      "tags": [
+        "Guaranis",
+        "Terra Sem Males",
+        "Kaiowá",
+        "suicídio",
+        "território",
+        "2024"
+      ],
+      "dataset": "data/dados-tupis-guaranis-amazonia.json"
     }
   ],
   "relacoes": [

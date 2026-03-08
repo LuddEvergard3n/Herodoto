@@ -1,0 +1,133 @@
+{
+  "tema": "Civilizações do Bronze e Mediterrâneo Antigo",
+  "descricao": "Idade do Bronze Egeu, Hititas, Fenícios, Cartago, Minóicos, Micênicos, Chipre, colapso do Bronze Final",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Anônimo",
+        "obra": "Tabletes de Linear B (Micenas, Cnossos)",
+        "ano": "c. 1450–1200 a.C.",
+        "nota": "Decifrados por Michael Ventris em 1952"
+      },
+      {
+        "autor": "Anônimo",
+        "obra": "Tratado de Qadesh (Ramsés II e os Hititas)",
+        "ano": "c. 1259 a.C.",
+        "nota": "Primeiro tratado de paz documentado da história"
+      },
+      {
+        "autor": "Anônimo",
+        "obra": "Cartas de Amarna (correspondência diplomática do Bronze Final)",
+        "ano": "c. 1360–1332 a.C."
+      },
+      {
+        "autor": "Anônimo",
+        "obra": "Inscrições em Fenício de Biblos e Sidom",
+        "ano": "c. 1000–300 a.C."
+      },
+      {
+        "autor": "Políbio",
+        "obra": "Histórias (Guerras Púnicas)",
+        "ano": "c. 150 a.C."
+      },
+      {
+        "autor": "Tito Lívio",
+        "obra": "Ab Urbe Condita — Livros XXI-XXX (Segunda Guerra Púnica)",
+        "ano": "c. 27–9 a.C."
+      },
+      {
+        "autor": "Anônimo",
+        "obra": "Textos Hititas de Bogazköy (Anatólia)",
+        "ano": "c. 1600–1200 a.C."
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "John Chadwick",
+        "obra": "The Decipherment of Linear B",
+        "ano": "1958",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Trevor Bryce",
+        "obra": "The Kingdom of the Hittites",
+        "ano": "1998",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Robert Drews",
+        "obra": "The End of the Bronze Age: Changes in Warfare and the Catastrophe ca. 1200 B.C.",
+        "ano": "1993",
+        "editora": "Princeton University Press"
+      },
+      {
+        "autor": "Eric H. Cline",
+        "obra": "1177 B.C.: The Year Civilization Collapsed",
+        "ano": "2014",
+        "editora": "Princeton University Press"
+      },
+      {
+        "autor": "Donald Harden",
+        "obra": "The Phoenicians",
+        "ano": "1962",
+        "editora": "Thames and Hudson"
+      },
+      {
+        "autor": "Serge Lancel",
+        "obra": "Carthage: A History",
+        "ano": "1992",
+        "editora": "Blackwell"
+      },
+      {
+        "autor": "B. H. Warmington",
+        "obra": "Carthage",
+        "ano": "1960",
+        "editora": "Hale"
+      },
+      {
+        "autor": "Sinclair Hood",
+        "obra": "The Minoans: Crete in the Bronze Age",
+        "ano": "1971",
+        "editora": "Thames and Hudson"
+      },
+      {
+        "autor": "Rodney Castleden",
+        "obra": "The Knossos Labyrinth: A New View of the 'Palace of Minos' at Knossos",
+        "ano": "1990",
+        "editora": "Routledge"
+      },
+      {
+        "autor": "O. R. Gurney",
+        "obra": "The Hittites",
+        "ano": "1952",
+        "editora": "Penguin"
+      },
+      {
+        "autor": "Sabatino Moscati (ed.)",
+        "obra": "The Phoenicians",
+        "ano": "1988",
+        "editora": "Bompiani"
+      },
+      {
+        "autor": "Oliver Dickinson",
+        "obra": "The Aegean Bronze Age",
+        "ano": "1994",
+        "editora": "Cambridge University Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Michael Wood",
+        "obra": "In Search of the Trojan War",
+        "ano": "1985",
+        "editora": "BBC Books"
+      },
+      {
+        "autor": "Barry Strauss",
+        "obra": "The Trojan War: A New History",
+        "ano": "2006",
+        "editora": "Simon & Schuster"
+      }
+    ]
+  }
+}

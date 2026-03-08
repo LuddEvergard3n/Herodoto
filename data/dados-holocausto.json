@@ -1,7 +1,7 @@
 {
   "entidades": [
     {
-      "id": "hol-001",
+      "id": "hct-001",
       "nome": "Antissemitismo Europeu e o Caminho para o Genocídio",
       "nome_en": "European Antisemitism and the Path to Genocide",
       "nome_es": "Antisemitismo Europeo y el Camino al Genocidio",
@@ -28,7 +28,7 @@
       "importancia_es": "Leyes de Nuremberg (1935): codificaron la discriminación — ciudadanía, matrimonio, propiedad."
     },
     {
-      "id": "hol-002",
+      "id": "hct-002",
       "nome": "A Solução Final: Campos e Extermínio (1941–1945)",
       "nome_en": "The Final Solution: Camps and Extermination (1941–1945)",
       "nome_es": "La Solución Final: Campos y Exterminio (1941–1945)",
@@ -55,7 +55,7 @@
       "importancia_es": "Juicios de Núremberg (1945–46): crearon el concepto de 'crimen contra la humanidad'."
     },
     {
-      "id": "hol-003",
+      "id": "hct-003",
       "nome": "Memória, Negacionismo e o Direito Internacional Pós-Holocausto",
       "nome_en": "Memory, Denialism and Post-Holocaust International Law",
       "nome_es": "Memoria, Negacionismo y el Derecho Internacional Post-Holocausto",
@@ -81,6 +81,146 @@
       "period": "Contemporary",
       "importancia_en": "Denialism: banned by law in 17 countries. Jan 27: International Holocaust Remembrance Day (UN, 2005).",
       "importancia_es": "27 ene: Día Internacional en Memoria de las Víctimas del Holocausto (ONU, 2005)."
+    },
+    {
+      "id": "hol1",
+      "nome": "O Antissemitismo Europeu e suas Raizes",
+      "nome_en": "O Antissemitismo Europeu e suas Raizes",
+      "nome_es": "O Antissemitismo Europeu e suas Raizes",
+      "tipo": "cultural",
+      "inicio": 1000,
+      "fim": 1933,
+      "region": "social",
+      "period": "Europe",
+      "century_start": 11,
+      "type": "Modern",
+      "descricao": "O antissemitismo europeu tinha raizes medievais: judeus eram expulsos (Inglaterra 1290, Espanha 1492), confinados em ghettos (Veneza 1516, o primeiro ghetto), acusados de envenenar pocos e rituais de sangue. O antissemitismo moderno (sec XIX) adicionou elemento \"racial\" - pseudo-cientifico. O Caso Dreyfus na Franca (1894) galvanizou Herzl a criar o Sionismo. Os Protocolos dos Sabios de Siao (1905, russo, fabricado pela Okhrana) circularam pelo mundo.",
+      "descricao_en": "O antissemitismo europeu tinha raizes medievais: judeus eram expulsos (Inglaterra 1290, Espanha 1492), confinados em ghettos (Veneza 1516, o primeiro ghetto), acusados de envenenar pocos e rituais de sangue. O antissemitismo moderno (sec XIX) adicionou elemento \"racial\" - pseudo-cientifico. O Caso Dreyfus na Franca (1894) galvanizou Herzl a criar o Sionismo. Os Protocolos dos Sabios de Siao (1905, russo, fabricado pela Okhrana) circularam pelo mundo.",
+      "descricao_es": "O antissemitismo europeu tinha raizes medievais: judeus eram expulsos (Inglaterra 1290, Espanha 1492), confinados em ghettos (Veneza 1516, o primeiro ghetto), acusados de envenenar pocos e rituais de sangue. O antissemitismo moderno (sec XIX) adicionou elemento \"racial\" - pseudo-cientifico. O Caso Dreyfus na Franca (1894) galvanizou Herzl a criar o Sionismo. Os Protocolos dos Sabios de Siao (1905, russo, fabricado pela Okhrana) circularam pelo mundo.",
+      "importancia": "O antissemitismo que culminou no Holocausto nao surgiu do nazismo - o nazismo sistematizou e industrializou uma tradicao europeia milenaria de perseguicao aos judeus.",
+      "importancia_en": "O antissemitismo que culminou no Holocausto nao surgiu do nazismo - o nazismo sistematizou e industrializou uma tradicao europeia milenaria de perseguicao aos judeus.",
+      "importancia_es": "O antissemitismo que culminou no Holocausto nao surgiu do nazismo - o nazismo sistematizou e industrializou uma tradicao europeia milenaria de perseguicao aos judeus.",
+      "tags": [
+        "antissemitismo",
+        "ghetto",
+        "Dreyfus",
+        "Protocolos",
+        "Espanha",
+        "expulsao"
+      ],
+      "dataset": "data/dados-holocausto.json"
+    },
+    {
+      "id": "hol2",
+      "nome": "A Ascensao Nazi e as Leis de Nuremberg",
+      "nome_en": "A Ascensao Nazi e as Leis de Nuremberg",
+      "nome_es": "A Ascensao Nazi e as Leis de Nuremberg",
+      "tipo": "periodo",
+      "inicio": 1933,
+      "fim": 1939,
+      "region": "political",
+      "period": "Europe",
+      "century_start": 20,
+      "type": "Modern",
+      "descricao": "Hitler tornou-se chanceler em 30 janeiro 1933. As Leis de Nuremberg (setembro 1935) definiram \"judeu\" por genealogia, retiraram cidadania, e proibiram casamentos mistos. A Noite dos Cristais (9-10 novembro 1938): 267 sinagogas queimadas, 30.000 judeus presos, 100 mortos. 500.000 judeus alemaos: a emigracao era encorajada ate 1941 - mas poucos paises os aceitaram (Conferencia de Evian, 1938: 32 paises, nenhum aceitou refugees em massa).",
+      "descricao_en": "Hitler tornou-se chanceler em 30 janeiro 1933. As Leis de Nuremberg (setembro 1935) definiram \"judeu\" por genealogia, retiraram cidadania, e proibiram casamentos mistos. A Noite dos Cristais (9-10 novembro 1938): 267 sinagogas queimadas, 30.000 judeus presos, 100 mortos. 500.000 judeus alemaos: a emigracao era encorajada ate 1941 - mas poucos paises os aceitaram (Conferencia de Evian, 1938: 32 paises, nenhum aceitou refugees em massa).",
+      "descricao_es": "Hitler tornou-se chanceler em 30 janeiro 1933. As Leis de Nuremberg (setembro 1935) definiram \"judeu\" por genealogia, retiraram cidadania, e proibiram casamentos mistos. A Noite dos Cristais (9-10 novembro 1938): 267 sinagogas queimadas, 30.000 judeus presos, 100 mortos. 500.000 judeus alemaos: a emigracao era encorajada ate 1941 - mas poucos paises os aceitaram (Conferencia de Evian, 1938: 32 paises, nenhum aceitou refugees em massa).",
+      "importancia": "As Leis de Nuremberg demonstram como o genocidio e preparado: primeiro a exclusao legal, depois a desumanizacao, depois o exterminio. O Holocausto nao foi repentino - foi o resultado de 8 anos de escalonamento.",
+      "importancia_en": "As Leis de Nuremberg demonstram como o genocidio e preparado: primeiro a exclusao legal, depois a desumanizacao, depois o exterminio. O Holocausto nao foi repentino - foi o resultado de 8 anos de escalonamento.",
+      "importancia_es": "As Leis de Nuremberg demonstram como o genocidio e preparado: primeiro a exclusao legal, depois a desumanizacao, depois o exterminio. O Holocausto nao foi repentino - foi o resultado de 8 anos de escalonamento.",
+      "tags": [
+        "Nuremberg",
+        "1935",
+        "judeu",
+        "Noite dos Cristais",
+        "Hitler",
+        "emigracao"
+      ],
+      "dataset": "data/dados-holocausto.json"
+    },
+    {
+      "id": "hol3",
+      "nome": "A Solucao Final: Os Campos de Exterminio",
+      "nome_en": "A Solucao Final: Os Campos de Exterminio",
+      "nome_es": "A Solucao Final: Os Campos de Exterminio",
+      "tipo": "evento",
+      "inicio": 1941,
+      "fim": 1945,
+      "region": "political",
+      "period": "Europe",
+      "century_start": 20,
+      "type": "Modern",
+      "descricao": "A Conferencia de Wannsee (20 janeiro 1942) coordenou a \"Solucao Final da Questao Judia\": exterminio sistematico. Os seis campos de exterminio (Auschwitz-Birkenau, Treblinka, Sobibor, Belzec, Chelmno, Majdanek) ficavam na Polonia. Auschwitz-Birkenau teve 1,1 milhao de mortos (90% judeus). A industria da morte usava Zyklon B, crematorios, e trabalho forcado ate a morte. 6 milhoes de judeus mortos em 3 anos.",
+      "descricao_en": "A Conferencia de Wannsee (20 janeiro 1942) coordenou a \"Solucao Final da Questao Judia\": exterminio sistematico. Os seis campos de exterminio (Auschwitz-Birkenau, Treblinka, Sobibor, Belzec, Chelmno, Majdanek) ficavam na Polonia. Auschwitz-Birkenau teve 1,1 milhao de mortos (90% judeus). A industria da morte usava Zyklon B, crematorios, e trabalho forcado ate a morte. 6 milhoes de judeus mortos em 3 anos.",
+      "descricao_es": "A Conferencia de Wannsee (20 janeiro 1942) coordenou a \"Solucao Final da Questao Judia\": exterminio sistematico. Os seis campos de exterminio (Auschwitz-Birkenau, Treblinka, Sobibor, Belzec, Chelmno, Majdanek) ficavam na Polonia. Auschwitz-Birkenau teve 1,1 milhao de mortos (90% judeus). A industria da morte usava Zyklon B, crematorios, e trabalho forcado ate a morte. 6 milhoes de judeus mortos em 3 anos.",
+      "importancia": "O Holocausto foi o primeiro genocidio totalmente industrializado da historia - produzido com eficiencia burocratica alema. Hannah Arendt chamou os perpetradores de \"banalidade do mal\": burocraticas normais executando ordens.",
+      "importancia_en": "O Holocausto foi o primeiro genocidio totalmente industrializado da historia - produzido com eficiencia burocratica alema. Hannah Arendt chamou os perpetradores de \"banalidade do mal\": burocraticas normais executando ordens.",
+      "importancia_es": "O Holocausto foi o primeiro genocidio totalmente industrializado da historia - produzido com eficiencia burocratica alema. Hannah Arendt chamou os perpetradores de \"banalidade do mal\": burocraticas normais executando ordens.",
+      "tags": [
+        "Wannsee",
+        "1942",
+        "Auschwitz",
+        "Zyklon B",
+        "exterminio",
+        "6 milhoes"
+      ],
+      "dataset": "data/dados-holocausto.json"
+    },
+    {
+      "id": "hol4",
+      "nome": "A Resistencia Judaica: Varsovia e os Justos",
+      "nome_en": "A Resistencia Judaica: Varsovia e os Justos",
+      "nome_es": "A Resistencia Judaica: Varsovia e os Justos",
+      "tipo": "evento",
+      "inicio": 1943,
+      "fim": 1943,
+      "region": "political",
+      "period": "Europe",
+      "century_start": 20,
+      "type": "Modern",
+      "descricao": "O Levante do Gueto de Varsovia (19 abril - 16 maio 1943): 750 combatentes do ZOB (Organizacao de Combate Judaica) resistiram 27 dias contra a SS com pistolas e botelhas de molotov. Todos morreram ou foram capturados. Os \"Justos entre as Nacoes\" (reconhecidos pelo Yad Vashem): 28.000 nao-judeus que arriscaram as vidas para salvar judeus. Raoul Wallenberg (diplomataSueco) salvou 100.000 judeus hungaros com passaportes falsificados.",
+      "descricao_en": "O Levante do Gueto de Varsovia (19 abril - 16 maio 1943): 750 combatentes do ZOB (Organizacao de Combate Judaica) resistiram 27 dias contra a SS com pistolas e botelhas de molotov. Todos morreram ou foram capturados. Os \"Justos entre as Nacoes\" (reconhecidos pelo Yad Vashem): 28.000 nao-judeus que arriscaram as vidas para salvar judeus. Raoul Wallenberg (diplomataSueco) salvou 100.000 judeus hungaros com passaportes falsificados.",
+      "descricao_es": "O Levante do Gueto de Varsovia (19 abril - 16 maio 1943): 750 combatentes do ZOB (Organizacao de Combate Judaica) resistiram 27 dias contra a SS com pistolas e botelhas de molotov. Todos morreram ou foram capturados. Os \"Justos entre as Nacoes\" (reconhecidos pelo Yad Vashem): 28.000 nao-judeus que arriscaram as vidas para salvar judeus. Raoul Wallenberg (diplomataSueco) salvou 100.000 judeus hungaros com passaportes falsificados.",
+      "importancia": "O Levante de Varsovia foi o maior ato de resistencia armada de judeus na historia. Os Justos demonstram que a escolha moral existia mesmo nos piores contextos historicos.",
+      "importancia_en": "O Levante de Varsovia foi o maior ato de resistencia armada de judeus na historia. Os Justos demonstram que a escolha moral existia mesmo nos piores contextos historicos.",
+      "importancia_es": "O Levante de Varsovia foi o maior ato de resistencia armada de judeus na historia. Os Justos demonstram que a escolha moral existia mesmo nos piores contextos historicos.",
+      "tags": [
+        "Varsovia",
+        "1943",
+        "ZOB",
+        "resistencia",
+        "Justos",
+        "Wallenberg"
+      ],
+      "dataset": "data/dados-holocausto.json"
+    },
+    {
+      "id": "hol5",
+      "nome": "A Libertacao e o Julgamento de Nuremberg",
+      "nome_en": "A Libertacao e o Julgamento de Nuremberg",
+      "nome_es": "A Libertacao e o Julgamento de Nuremberg",
+      "tipo": "evento",
+      "inicio": 1945,
+      "fim": 1946,
+      "region": "political",
+      "period": "Europe",
+      "century_start": 20,
+      "type": "Modern",
+      "descricao": "Os Aliados libertaram os campos em 1945 (Auschwitz: jan; Bergen-Belsen: abril; Dachau: abril). Os Julgamentos de Nuremberg (nov 1945-out 1946) julgaram 24 lideres nazistas por crimes contra a paz, crimes de guerra e crimes contra a humanidade. 12 condenados a morte, 7 a prisao, 3 absolvidos. Nuremberg criou o direito internacional penal e o conceito de \"crime contra a humanidade\".",
+      "descricao_en": "Os Aliados libertaram os campos em 1945 (Auschwitz: jan; Bergen-Belsen: abril; Dachau: abril). Os Julgamentos de Nuremberg (nov 1945-out 1946) julgaram 24 lideres nazistas por crimes contra a paz, crimes de guerra e crimes contra a humanidade. 12 condenados a morte, 7 a prisao, 3 absolvidos. Nuremberg criou o direito internacional penal e o conceito de \"crime contra a humanidade\".",
+      "descricao_es": "Os Aliados libertaram os campos em 1945 (Auschwitz: jan; Bergen-Belsen: abril; Dachau: abril). Os Julgamentos de Nuremberg (nov 1945-out 1946) julgaram 24 lideres nazistas por crimes contra a paz, crimes de guerra e crimes contra a humanidade. 12 condenados a morte, 7 a prisao, 3 absolvidos. Nuremberg criou o direito internacional penal e o conceito de \"crime contra a humanidade\".",
+      "importancia": "Os Julgamentos de Nuremberg foram o maior legado juridico do Holocausto: criaram os principios do direito internacional humanitario que ainda regem o TPI. \"Seguir ordens\" deixou de ser defesa juridica.",
+      "importancia_en": "Os Julgamentos de Nuremberg foram o maior legado juridico do Holocausto: criaram os principios do direito internacional humanitario que ainda regem o TPI. \"Seguir ordens\" deixou de ser defesa juridica.",
+      "importancia_es": "Os Julgamentos de Nuremberg foram o maior legado juridico do Holocausto: criaram os principios do direito internacional humanitario que ainda regem o TPI. \"Seguir ordens\" deixou de ser defesa juridica.",
+      "tags": [
+        "Nuremberg",
+        "1946",
+        "crimes contra a humanidade",
+        "TPI",
+        "libertacao",
+        "1945"
+      ],
+      "dataset": "data/dados-holocausto.json"
     }
   ],
   "relacoes": [

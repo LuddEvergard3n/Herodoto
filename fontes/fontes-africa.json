@@ -1,0 +1,142 @@
+{
+  "tema": "África",
+  "descricao": "África pré-colonial, reinos africanos, tráfico escravista, colonialismo, descolonização e África contemporânea",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Al-Masudi",
+        "obra": "Muruj al-Dhahab (Prados de Ouro)",
+        "ano": "c. 947",
+        "nota": "Relato árabe medieval sobre a África Oriental"
+      },
+      {
+        "autor": "Ibn Battuta",
+        "obra": "Rihla (Viagens — seções sobre o Mali e África Oriental)",
+        "ano": "c. 1355"
+      },
+      {
+        "autor": "Leo Africanus",
+        "obra": "Descrição da África",
+        "ano": "1526",
+        "nota": "Escrito por geógrafo granadino a serviço do Papa"
+      },
+      {
+        "autor": "Olaudah Equiano",
+        "obra": "The Interesting Narrative of the Life of Olaudah Equiano",
+        "ano": "1789",
+        "nota": "Autobiografia de um ex-escravizado; Penguin Classics"
+      },
+      {
+        "autor": "Kwame Nkrumah",
+        "obra": "I Speak of Freedom: A Statement of African Ideology",
+        "ano": "1961"
+      },
+      {
+        "autor": "Patrice Lumumba",
+        "obra": "Discurso de Independência do Congo",
+        "ano": "1960"
+      },
+      {
+        "autor": "Nelson Mandela",
+        "obra": "Long Walk to Freedom",
+        "ano": "1994",
+        "editora": "Little, Brown"
+      },
+      {
+        "autor": "Chinua Achebe",
+        "obra": "Things Fall Apart",
+        "ano": "1958",
+        "editora": "Heinemann",
+        "nota": "Literatura como fonte histórica"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "J. D. Fage e Roland Oliver (eds.)",
+        "obra": "The Cambridge History of Africa (8 vols.)",
+        "ano": "1975–1986",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Basil Davidson",
+        "obra": "Africa in History",
+        "ano": "1966",
+        "editora": "Macmillan"
+      },
+      {
+        "autor": "John Iliffe",
+        "obra": "Africans: The History of a Continent",
+        "ano": "1995",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "John Reader",
+        "obra": "Africa: A Biography of the Continent",
+        "ano": "1997",
+        "editora": "Hamish Hamilton"
+      },
+      {
+        "autor": "Adam Hochschild",
+        "obra": "King Leopold's Ghost",
+        "ano": "1998",
+        "editora": "Houghton Mifflin"
+      },
+      {
+        "autor": "Paul E. Lovejoy",
+        "obra": "Transformations in Slavery: A History of Slavery in Africa",
+        "ano": "1983",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Walter Rodney",
+        "obra": "How Europe Underdeveloped Africa",
+        "ano": "1972",
+        "editora": "Bogle-L'Ouverture"
+      },
+      {
+        "autor": "Roland Oliver e Anthony Atmore",
+        "obra": "Africa since 1800",
+        "ano": "1967",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Frederick Cooper",
+        "obra": "Africa since 1940: The Past of the Present",
+        "ano": "2002",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "David W. Phillipson",
+        "obra": "African Archaeology",
+        "ano": "1985",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Bill Freund",
+        "obra": "The Making of Contemporary Africa",
+        "ano": "1984",
+        "editora": "Indiana University Press"
+      },
+      {
+        "autor": "Thomas Pakenham",
+        "obra": "The Scramble for Africa",
+        "ano": "1991",
+        "editora": "Random House"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "David Lamb",
+        "obra": "The Africans",
+        "ano": "1982",
+        "editora": "Random House"
+      },
+      {
+        "autor": "Martin Meredith",
+        "obra": "The State of Africa: A History of the Continent since Independence",
+        "ano": "2005",
+        "editora": "Free Press"
+      }
+    ]
+  }
+}

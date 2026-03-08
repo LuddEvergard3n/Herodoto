@@ -167,6 +167,62 @@
         "Novo Império"
       ],
       "dataset": "data/dados-egito-reinos-antigo-medio.json"
+    },
+    {
+      "id": "eram1",
+      "nome": "Imhotep: O Primeiro Arquiteto da História",
+      "nome_en": "Imhotep: O Primeiro Arquiteto da História",
+      "nome_es": "Imhotep: O Primeiro Arquiteto da História",
+      "tipo": "pessoa",
+      "inicio": -2650,
+      "fim": -2600,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 27,
+      "type": "technological",
+      "descricao": "Imhotep (c. 2650 a.C.) foi o arquiteto da Pirâmide Degraus de Djoser - a primeira estrutura de pedra da história. Médico, matemático, astrônomo. Foi deificado - o único não-real egípcio a receber esse tratamento.",
+      "descricao_en": "Imhotep (c. 2650 a.C.) foi o arquiteto da Pirâmide Degraus de Djoser - a primeira estrutura de pedra da história. Médico, matemático, astrônomo. Foi deificado - o único não-real egípcio a receber esse tratamento.",
+      "descricao_es": "Imhotep (c. 2650 a.C.) foi o arquiteto da Pirâmide Degraus de Djoser - a primeira estrutura de pedra da história. Médico, matemático, astrônomo. Foi deificado - o único não-real egípcio a receber esse tratamento.",
+      "importancia": "Imhotep é o primeiro arquiteto, engenheiro e médico documentado da história. Que um egípcio de 2650 a.C. seja ainda lembrado por nome é o símbolo da imortalidade pelo saber.",
+      "importancia_en": "Imhotep é o primeiro arquiteto, engenheiro e médico documentado da história. Que um egípcio de 2650 a.C. seja ainda lembrado por nome é o símbolo da imortalidade pelo saber.",
+      "importancia_es": "Imhotep é o primeiro arquiteto, engenheiro e médico documentado da história. Que um egípcio de 2650 a.C. seja ainda lembrado por nome é o símbolo da imortalidade pelo saber.",
+      "tags": [
+        "Imhotep",
+        "2650 a.C.",
+        "pirâmide degraus",
+        "medicina",
+        "Djoser",
+        "arquiteto"
+      ],
+      "dataset": "data/dados-egito-reinos-antigo-medio.json"
+    },
+    {
+      "id": "eram2",
+      "nome": "O Livro dos Mortos e a Religião Egípcia",
+      "nome_en": "O Livro dos Mortos e a Religião Egípcia",
+      "nome_es": "O Livro dos Mortos e a Religião Egípcia",
+      "tipo": "cultural",
+      "inicio": -1550,
+      "fim": -50,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 16,
+      "type": "religious",
+      "descricao": "O Livro dos Mortos guiava para a vida após a morte: a pesagem do coração contra a pena de Maât. Coração mais leve = vida eterna. A crença de que as ações em vida determinam o destino após a morte influenciou o Judaísmo, o Cristianismo e o Islamismo.",
+      "descricao_en": "O Livro dos Mortos guiava para a vida após a morte: a pesagem do coração contra a pena de Maât. Coração mais leve = vida eterna. A crença de que as ações em vida determinam o destino após a morte influenciou o Judaísmo, o Cristianismo e o Islamismo.",
+      "descricao_es": "O Livro dos Mortos guiava para a vida após a morte: a pesagem do coração contra a pena de Maât. Coração mais leve = vida eterna. A crença de que as ações em vida determinam o destino após a morte influenciou o Judaísmo, o Cristianismo e o Islamismo.",
+      "importancia": "O Livro dos Mortos é o primeiro sistema ético universal da história. A ideia de julgamento das ações estrutura as três religiões abraâmicas - todas influenciadas pela religião egípcia.",
+      "importancia_en": "O Livro dos Mortos é o primeiro sistema ético universal da história. A ideia de julgamento das ações estrutura as três religiões abraâmicas - todas influenciadas pela religião egípcia.",
+      "importancia_es": "O Livro dos Mortos é o primeiro sistema ético universal da história. A ideia de julgamento das ações estrutura as três religiões abraâmicas - todas influenciadas pela religião egípcia.",
+      "tags": [
+        "Livro dos Mortos",
+        "Osiris",
+        "Maât",
+        "pesagem",
+        "imortalidade",
+        "feitiços"
+      ],
+      "dataset": "data/dados-egito-reinos-antigo-medio.json"
     }
   ],
   "relacoes": [

@@ -1,0 +1,139 @@
+{
+  "tema": "América Latina",
+  "descricao": "Conquista, período colonial, independências, séc. XIX, populismo, ditaduras militares, Revolução Cubana, América Latina contemporânea",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Simón Bolívar",
+        "obra": "Carta de Jamaica; Discurso de Angostura",
+        "ano": "1815–1819"
+      },
+      {
+        "autor": "José Martí",
+        "obra": "Nuestra América",
+        "ano": "1891"
+      },
+      {
+        "autor": "Ernesto 'Che' Guevara",
+        "obra": "Guerrilha — Manual de Guerrilha",
+        "ano": "1961"
+      },
+      {
+        "autor": "Fidel Castro",
+        "obra": "A História Me Absolverá (discurso-manifesto)",
+        "ano": "1953"
+      },
+      {
+        "autor": "Gabriel García Márquez",
+        "obra": "Cem Anos de Solidão",
+        "ano": "1967",
+        "nota": "Literatura como fonte histórica sobre a América Latina"
+      },
+      {
+        "autor": "Mario Vargas Llosa",
+        "obra": "A Festa do Bode",
+        "ano": "2000",
+        "nota": "Literatura sobre ditadura Trujillo, República Dominicana"
+      },
+      {
+        "autor": "Pablo Neruda",
+        "obra": "Canto General",
+        "ano": "1950",
+        "nota": "Poesia épica da história latino-americana"
+      },
+      {
+        "autor": "Guaman Poma de Ayala, Felipe",
+        "obra": "Nueva Corónica y Buen Gobierno",
+        "ano": "1615"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Leslie Bethell (ed.)",
+        "obra": "The Cambridge History of Latin America (12 vols.)",
+        "ano": "1984–2008",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Eduardo Galeano",
+        "obra": "As Veias Abertas da América Latina",
+        "ano": "1971",
+        "editora": "L&PM"
+      },
+      {
+        "autor": "Thomas E. Skidmore e Peter H. Smith",
+        "obra": "Modern Latin America",
+        "ano": "1984",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Victor Bulmer-Thomas",
+        "obra": "The Economic History of Latin America since Independence",
+        "ano": "1994",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Fernando Henrique Cardoso e Enzo Faletto",
+        "obra": "Dependência e Desenvolvimento na América Latina",
+        "ano": "1969",
+        "editora": "Zahar"
+      },
+      {
+        "autor": "Edwin Williamson",
+        "obra": "The Penguin History of Latin America",
+        "ano": "1992",
+        "editora": "Penguin"
+      },
+      {
+        "autor": "Benjamin Keen e Keith Haynes",
+        "obra": "A History of Latin America",
+        "ano": "1955",
+        "editora": "Houghton Mifflin"
+      },
+      {
+        "autor": "Jon Lee Anderson",
+        "obra": "Che Guevara: A Revolutionary Life",
+        "ano": "1997",
+        "editora": "Grove Press"
+      },
+      {
+        "autor": "Robert E. Quirk",
+        "obra": "Fidel Castro",
+        "ano": "1993",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "Peter Winn",
+        "obra": "Americas: The Changing Face of Latin America and the Caribbean",
+        "ano": "1992",
+        "editora": "Pantheon"
+      },
+      {
+        "autor": "Stephen G. Rabe",
+        "obra": "The Killing Zone: The United States Wages Cold War in Latin America",
+        "ano": "2011",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Greg Grandin",
+        "obra": "The End of the Myth: From the Frontier to the Border Wall in the Mind of America",
+        "ano": "2019",
+        "editora": "Metropolitan Books"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Michael Reid",
+        "obra": "Forgotten Continent: The Battle for Latin America's Soul",
+        "ano": "2007",
+        "editora": "Yale University Press"
+      },
+      {
+        "autor": "Jorge G. Castañeda",
+        "obra": "Utopia Unarmed: The Latin American Left after the Cold War",
+        "ano": "1993",
+        "editora": "Knopf"
+      }
+    ]
+  }
+}

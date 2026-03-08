@@ -1,0 +1,143 @@
+{
+  "tema": "China",
+  "descricao": "Shang e Zhou, Qin e Han, Tang, Song, Yuan, Ming, Qing, República e RPC; filosofia, exploração marítima e modernização",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Confúcio (compilado por discípulos)",
+        "obra": "Analectos (Lunyu)",
+        "ano": "c. 475 a.C.",
+        "nota": "Trad. recomendada: D. C. Lau, Penguin"
+      },
+      {
+        "autor": "Laozi (atribuído)",
+        "obra": "Tao Te Ching (O Livro do Caminho e da Virtude)",
+        "ano": "c. 400 a.C.",
+        "nota": "Trad. Ursula K. Le Guin"
+      },
+      {
+        "autor": "Sunzi",
+        "obra": "A Arte da Guerra",
+        "ano": "c. 500 a.C.",
+        "nota": "Trad. recomendada: Editora Jardim dos Livros"
+      },
+      {
+        "autor": "Sima Qian",
+        "obra": "Shiji (Registros do Historiador)",
+        "ano": "c. 90 a.C.",
+        "nota": "Columbia University Press"
+      },
+      {
+        "autor": "Marco Polo",
+        "obra": "Il Milione (Descrição do Mundo)",
+        "ano": "c. 1300",
+        "nota": "Penguin Classics; fonte europeia primária sobre a China Yuan"
+      },
+      {
+        "autor": "Zheng He (via Ma Huan)",
+        "obra": "Yingya Shenglan (Visão Geral das Costas Oceânicas)",
+        "ano": "1433"
+      },
+      {
+        "autor": "Mao Zedong",
+        "obra": "Livro Vermelho (Citações do Presidente Mao)",
+        "ano": "1964",
+        "nota": "Pequim, Foreign Languages Press"
+      },
+      {
+        "autor": "Deng Xiaoping",
+        "obra": "Discursos Selecionados",
+        "ano": "1984",
+        "nota": "People's Publishing House"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "John K. Fairbank e Merle Goldman",
+        "obra": "China: A New History",
+        "ano": "1992",
+        "editora": "Harvard University Press"
+      },
+      {
+        "autor": "Jonathan D. Spence",
+        "obra": "The Search for Modern China",
+        "ano": "1990",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "David Keightley (ed.)",
+        "obra": "The Origins of Chinese Civilization",
+        "ano": "1983",
+        "editora": "University of California Press"
+      },
+      {
+        "autor": "Patricia Buckley Ebrey",
+        "obra": "The Cambridge Illustrated History of China",
+        "ano": "1996",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "F. W. Mote",
+        "obra": "Imperial China 900–1800",
+        "ano": "1999",
+        "editora": "Harvard University Press"
+      },
+      {
+        "autor": "Timothy Brook",
+        "obra": "The Troubled Empire: China in the Yuan and Ming Dynasties",
+        "ano": "2010",
+        "editora": "Harvard University Press"
+      },
+      {
+        "autor": "Jung Chang e Jon Halliday",
+        "obra": "Mao: The Unknown Story",
+        "ano": "2005",
+        "editora": "Jonathan Cape"
+      },
+      {
+        "autor": "Frank Dikötter",
+        "obra": "Mao's Great Famine",
+        "ano": "2010",
+        "editora": "Walker & Company"
+      },
+      {
+        "autor": "Joseph R. Levenson",
+        "obra": "Confucian China and Its Modern Fate (3 vols.)",
+        "ano": "1958–1965",
+        "editora": "University of California Press"
+      },
+      {
+        "autor": "Joanna Waley-Cohen",
+        "obra": "The Sextants of Beijing: Global Currents in Chinese History",
+        "ano": "1999",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "Peter C. Perdue",
+        "obra": "China Marches West: The Qing Conquest of Central Eurasia",
+        "ano": "2005",
+        "editora": "Harvard University Press"
+      },
+      {
+        "autor": "Jay Taylor",
+        "obra": "The Generalissimo: Chiang Kai-shek and the Struggle for Modern China",
+        "ano": "2009",
+        "editora": "Harvard University Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Henry Kissinger",
+        "obra": "On China",
+        "ano": "2011",
+        "editora": "Penguin Press"
+      },
+      {
+        "autor": "Martin Jacques",
+        "obra": "When China Rules the World",
+        "ano": "2009",
+        "editora": "Allen Lane"
+      }
+    ]
+  }
+}

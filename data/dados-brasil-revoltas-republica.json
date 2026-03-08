@@ -192,6 +192,34 @@
       "importancia_es": "La Huelga de 1917 reveló una contradicción de la modernización brasileña: São Paulo se industrializaba con trabajo inmigrante en condiciones peores que en Europa, mientras la política nacional la dominaban los hacendados del café.",
       "century_start": 20,
       "century_end": 20
+    },
+    {
+      "id": "brr1",
+      "nome": "A Revolucao de 1930 e o Fim da Republica Velha",
+      "nome_en": "A Revolucao de 1930 e o Fim da Republica Velha",
+      "nome_es": "A Revolucao de 1930 e o Fim da Republica Velha",
+      "tipo": "evento",
+      "inicio": 1930,
+      "fim": 1930,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "A Revolucao de 1930 derrubou a Republica Velha: Getulio Vargas tomou o poder com apoio militar. Vargas governou o Brasil por 19 anos em 2 periodos. Inaugurou a era do populismo brasileiro.",
+      "descricao_en": "A Revolucao de 1930 derrubou a Republica Velha: Getulio Vargas tomou o poder com apoio militar. Vargas governou o Brasil por 19 anos em 2 periodos. Inaugurou a era do populismo brasileiro.",
+      "descricao_es": "A Revolucao de 1930 derrubou a Republica Velha: Getulio Vargas tomou o poder com apoio militar. Vargas governou o Brasil por 19 anos em 2 periodos. Inaugurou a era do populismo brasileiro.",
+      "importancia": "A Revolucao de 1930 e o maior divisor da historia brasileira: antes, oligarquia cafeeira; depois, Estado interventor e trabalhismo.",
+      "importancia_en": "A Revolucao de 1930 e o maior divisor da historia brasileira: antes, oligarquia cafeeira; depois, Estado interventor e trabalhismo.",
+      "importancia_es": "A Revolucao de 1930 e o maior divisor da historia brasileira: antes, oligarquia cafeeira; depois, Estado interventor e trabalhismo.",
+      "tags": [
+        "Revolucao 1930",
+        "Vargas",
+        "19 anos",
+        "oligarquia",
+        "trabalhismo",
+        "industrial"
+      ],
+      "dataset": "data/dados-brasil-revoltas-republica.json"
     }
   ],
   "relacoes": [

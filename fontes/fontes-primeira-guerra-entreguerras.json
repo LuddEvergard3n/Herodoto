@@ -1,0 +1,151 @@
+{
+  "tema": "Primeira Guerra Mundial, Entreguerras e Fascismo",
+  "descricao": "Causas e frentes da WWI, Versalhes, República de Weimar, fascismo italiano, guerra civil espanhola, ascensão do nazismo, Belle Époque",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Erich Maria Remarque",
+        "obra": "Nada de Novo no Front",
+        "ano": "1929",
+        "editora": "L&PM"
+      },
+      {
+        "autor": "Siegfried Sassoon",
+        "obra": "Memoirs of an Infantry Officer",
+        "ano": "1930"
+      },
+      {
+        "autor": "Wilfred Owen",
+        "obra": "Poems (Dulce et Decorum Est)",
+        "ano": "1920"
+      },
+      {
+        "autor": "Benito Mussolini",
+        "obra": "A Doutrina do Fascismo",
+        "ano": "1932"
+      },
+      {
+        "autor": "George Orwell",
+        "obra": "Homenagem à Catalunha",
+        "ano": "1938",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Ernest Hemingway",
+        "obra": "Por Quem os Sinos Dobram",
+        "ano": "1940",
+        "nota": "Literatura da guerra civil espanhola"
+      },
+      {
+        "autor": "John Maynard Keynes",
+        "obra": "As Consequências Econômicas da Paz",
+        "ano": "1919"
+      },
+      {
+        "autor": "Woodrow Wilson",
+        "obra": "Os 14 Pontos (discurso ao Congresso)",
+        "ano": "1918"
+      },
+      {
+        "autor": "Adolf Hitler",
+        "obra": "Mein Kampf",
+        "ano": "1925",
+        "nota": "Fonte ideológica; leitura crítica necessária"
+      },
+      {
+        "autor": "Stefan Zweig",
+        "obra": "O Mundo de Ontem: Memórias de um Europeu",
+        "ano": "1942",
+        "editora": "L&PM"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Christopher Clark",
+        "obra": "The Sleepwalkers: How Europe Went to War in 1914",
+        "ano": "2012",
+        "editora": "Allen Lane"
+      },
+      {
+        "autor": "Margaret MacMillan",
+        "obra": "The War That Ended Peace",
+        "ano": "2013",
+        "editora": "Random House"
+      },
+      {
+        "autor": "John Keegan",
+        "obra": "The First World War",
+        "ano": "1998",
+        "editora": "Hutchinson"
+      },
+      {
+        "autor": "Barbara W. Tuchman",
+        "obra": "The Guns of August",
+        "ano": "1962",
+        "editora": "Macmillan"
+      },
+      {
+        "autor": "Niall Ferguson",
+        "obra": "The Pity of War",
+        "ano": "1998",
+        "editora": "Allen Lane"
+      },
+      {
+        "autor": "Margaret MacMillan",
+        "obra": "Paris 1919",
+        "ano": "2001",
+        "editora": "Random House"
+      },
+      {
+        "autor": "Eric D. Weitz",
+        "obra": "Weimar Germany: Promise and Tragedy",
+        "ano": "2007",
+        "editora": "Princeton University Press"
+      },
+      {
+        "autor": "Ian Kershaw",
+        "obra": "Hitler: 1889–1936 Hubris",
+        "ano": "1998",
+        "editora": "Allen Lane"
+      },
+      {
+        "autor": "Stanley G. Payne",
+        "obra": "A History of Fascism 1914–1945",
+        "ano": "1995",
+        "editora": "University of Wisconsin Press"
+      },
+      {
+        "autor": "Hugh Thomas",
+        "obra": "The Spanish Civil War",
+        "ano": "1961",
+        "editora": "Harper & Brothers"
+      },
+      {
+        "autor": "Gabriel Jackson",
+        "obra": "The Spanish Republic and the Civil War 1931–1939",
+        "ano": "1965",
+        "editora": "Princeton University Press"
+      },
+      {
+        "autor": "Arno J. Mayer",
+        "obra": "Politics and Diplomacy of Peacemaking: Containment and Counterrevolution at Versailles",
+        "ano": "1967",
+        "editora": "Knopf"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Paul Fussell",
+        "obra": "The Great War and Modern Memory",
+        "ano": "1975",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Mark Mazower",
+        "obra": "Dark Continent: Europe's Twentieth Century",
+        "ano": "1998",
+        "editora": "Allen Lane"
+      }
+    ]
+  }
+}

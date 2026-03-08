@@ -173,6 +173,62 @@
         "conquista árabe"
       ],
       "dataset": "data/dados-persia-expandida.json"
+    },
+    {
+      "id": "pe1",
+      "nome": "Xerxes e a Segunda Invasão da Grécia",
+      "nome_en": "Xerxes e a Segunda Invasão da Grécia",
+      "nome_es": "Xerxes e a Segunda Invasão da Grécia",
+      "tipo": "pessoa",
+      "inicio": -519,
+      "fim": -465,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 6,
+      "type": "war",
+      "descricao": "Xerxes (519-465 a.C.) liderou a maior invasão da Grécia: 150.000-300.000 soldados, ponte de barcos no Helesponto. Termópilas, Salamina (derrota naval, setembro 480), e Platéia (479, derrota terrestre final). Assassinado por conjura no palácio.",
+      "descricao_en": "Xerxes (519-465 a.C.) liderou a maior invasão da Grécia: 150.000-300.000 soldados, ponte de barcos no Helesponto. Termópilas, Salamina (derrota naval, setembro 480), e Platéia (479, derrota terrestre final). Assassinado por conjura no palácio.",
+      "descricao_es": "Xerxes (519-465 a.C.) liderou a maior invasão da Grécia: 150.000-300.000 soldados, ponte de barcos no Helesponto. Termópilas, Salamina (derrota naval, setembro 480), e Platéia (479, derrota terrestre final). Assassinado por conjura no palácio.",
+      "importancia": "Xerxes demonstra que o maior exército não garante a vitória: superado pela geografia (Termópilas, Salamina) e pela motivação (gregos defendiam suas cidades). A derrota persa criou o mundo que permitiu a democracia ateniense.",
+      "importancia_en": "Xerxes demonstra que o maior exército não garante a vitória: superado pela geografia (Termópilas, Salamina) e pela motivação (gregos defendiam suas cidades). A derrota persa criou o mundo que permitiu a democracia ateniense.",
+      "importancia_es": "Xerxes demonstra que o maior exército não garante a vitória: superado pela geografia (Termópilas, Salamina) e pela motivação (gregos defendiam suas cidades). A derrota persa criou o mundo que permitiu a democracia ateniense.",
+      "tags": [
+        "Xerxes",
+        "480 a.C.",
+        "Helesponto",
+        "Salamina",
+        "Platéia",
+        "derrota"
+      ],
+      "dataset": "data/dados-persia-expandida.json"
+    },
+    {
+      "id": "pe2",
+      "nome": "O Zoroastrismo e a Influência nas Religiões Abraâmicas",
+      "nome_en": "O Zoroastrismo e a Influência nas Religiões Abraâmicas",
+      "nome_es": "O Zoroastrismo e a Influência nas Religiões Abraâmicas",
+      "tipo": "cultural",
+      "inicio": -1500,
+      "fim": 2024,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 16,
+      "type": "religious",
+      "descricao": "Zoroastro (c. 1500-1000 a.C., data debatida) criou a primeira religião monoteísta ética: Ahura Mazda (bem) vs. Angra Mainyu (mal), julgamento após a morte, ressurreição, apocalipse final. Os hebreus no Exílio Babilônico (586-538 a.C.) absorveram conceitos zoroastristas: anjos, demônios, Satanás, ressurreição, julgamento final.",
+      "descricao_en": "Zoroastro (c. 1500-1000 a.C., data debatida) criou a primeira religião monoteísta ética: Ahura Mazda (bem) vs. Angra Mainyu (mal), julgamento após a morte, ressurreição, apocalipse final. Os hebreus no Exílio Babilônico (586-538 a.C.) absorveram conceitos zoroastristas: anjos, demônios, Satanás, ressurreição, julgamento final.",
+      "descricao_es": "Zoroastro (c. 1500-1000 a.C., data debatida) criou a primeira religião monoteísta ética: Ahura Mazda (bem) vs. Angra Mainyu (mal), julgamento após a morte, ressurreição, apocalipse final. Os hebreus no Exílio Babilônico (586-538 a.C.) absorveram conceitos zoroastristas: anjos, demônios, Satanás, ressurreição, julgamento final.",
+      "importancia": "O Zoroastrismo é a religião mais influente e menos conhecida da história: criou os conceitos - anjos, demônios, ressurreição, apocalipse - que o Judaísmo, o Cristianismo e o Islamismo herdaram.",
+      "importancia_en": "O Zoroastrismo é a religião mais influente e menos conhecida da história: criou os conceitos - anjos, demônios, ressurreição, apocalipse - que o Judaísmo, o Cristianismo e o Islamismo herdaram.",
+      "importancia_es": "O Zoroastrismo é a religião mais influente e menos conhecida da história: criou os conceitos - anjos, demônios, ressurreição, apocalipse - que o Judaísmo, o Cristianismo e o Islamismo herdaram.",
+      "tags": [
+        "Zoroastro",
+        "Ahura Mazda",
+        "anjos",
+        "ressurreição",
+        "apocalipse",
+        "Judaísmo"
+      ],
+      "dataset": "data/dados-persia-expandida.json"
     }
   ],
   "relacoes": [

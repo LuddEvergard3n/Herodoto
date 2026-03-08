@@ -1,0 +1,138 @@
+{
+  "tema": "Mundo Contemporâneo e Pós-Guerra Fria",
+  "descricao": "Globalização, terrorismo, guerras do Oriente Médio, ascensão da China, crise climática, pandemias, tecnologia e democracia",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "ONU",
+        "obra": "Declaração Universal dos Direitos Humanos",
+        "ano": "1948"
+      },
+      {
+        "autor": "Relatório Brundtland (WCED)",
+        "obra": "Our Common Future (Nosso Futuro Comum)",
+        "ano": "1987"
+      },
+      {
+        "autor": "Mikhail Gorbachev",
+        "obra": "Perestroika",
+        "ano": "1987"
+      },
+      {
+        "autor": "Nelson Mandela",
+        "obra": "Long Walk to Freedom",
+        "ano": "1994",
+        "editora": "Little, Brown"
+      },
+      {
+        "autor": "IPCC",
+        "obra": "Relatórios de Avaliação do Painel Intergovernamental sobre Mudanças Climáticas",
+        "ano": "1990–2023"
+      },
+      {
+        "autor": "OMS",
+        "obra": "Regulamentos Sanitários Internacionais; Relatórios sobre COVID-19",
+        "ano": "2020–2023"
+      },
+      {
+        "autor": "Osama Bin Laden",
+        "obra": "Declaração de Guerra contra os Americanos",
+        "ano": "1996",
+        "nota": "Fonte primária crítica"
+      },
+      {
+        "autor": "Barack Obama",
+        "obra": "The Audacity of Hope; Dreams from My Father",
+        "ano": "1995–2006"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Francis Fukuyama",
+        "obra": "O Fim da História e o Último Homem",
+        "ano": "1992",
+        "editora": "Gradiva"
+      },
+      {
+        "autor": "Samuel P. Huntington",
+        "obra": "O Choque das Civilizações",
+        "ano": "1996",
+        "editora": "Objetiva"
+      },
+      {
+        "autor": "Joseph Stiglitz",
+        "obra": "Globalização: Como Dar Certo",
+        "ano": "2006",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Fareed Zakaria",
+        "obra": "O Mundo Pós-Americano",
+        "ano": "2008",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Jared Diamond",
+        "obra": "Colapso: Como as Sociedades Escolhem o Fracasso ou o Sucesso",
+        "ano": "2005",
+        "editora": "Record"
+      },
+      {
+        "autor": "Yuval Noah Harari",
+        "obra": "Homo Deus: Uma Breve História do Amanhã",
+        "ano": "2015",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Thomas Piketty",
+        "obra": "O Capital no Século XXI",
+        "ano": "2013",
+        "editora": "Intrínseca"
+      },
+      {
+        "autor": "Daron Acemoglu e James A. Robinson",
+        "obra": "Por Que as Nações Fracassam",
+        "ano": "2012",
+        "editora": "Elsevier"
+      },
+      {
+        "autor": "Lawrence Wright",
+        "obra": "The Looming Tower: Al-Qaeda and the Road to 9/11",
+        "ano": "2006",
+        "editora": "Knopf"
+      },
+      {
+        "autor": "Moisés Naím",
+        "obra": "O Fim do Poder",
+        "ano": "2013",
+        "editora": "LeYa"
+      },
+      {
+        "autor": "Yascha Mounk",
+        "obra": "O Povo Contra a Democracia",
+        "ano": "2018",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Steven Levitsky e Daniel Ziblatt",
+        "obra": "Como as Democracias Morrem",
+        "ano": "2018",
+        "editora": "Zahar"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Thomas L. Friedman",
+        "obra": "O Mundo é Plano",
+        "ano": "2005",
+        "editora": "Objetiva"
+      },
+      {
+        "autor": "Henry Kissinger",
+        "obra": "World Order",
+        "ano": "2014",
+        "editora": "Penguin Press"
+      }
+    ]
+  }
+}

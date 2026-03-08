@@ -1,37 +1,6 @@
 {
   "personagens": [
     {
-      "id": "po-001",
-      "nome": "Confúcio",
-      "nome_en": "Confucius",
-      "nome_es": "Confucio",
-      "nascimento": -551,
-      "morte": -479,
-      "regiao": "EastAsia",
-      "area": [
-        "filosofia",
-        "ética"
-      ],
-      "cargo": "Filósofo",
-      "epoca": "Antiguidade",
-      "descricao": "Kong Qiu (nome real) viveu no período dos Reinos Combatentes, época de fragmentação política e violência endêmica. Ensinava ética governamental: os governantes devem governar pelo exemplo moral, não pela força. Seus ensinamentos foram compilados como Analetos por discípulos. Viajou décadas buscando um príncipe disposto a aplicar seus princípios — nunca encontrou.",
-      "importancia": "O confucionismo estruturou a civilização chinesa, coreana, japonesa e vietnamita por 2.500 anos: a hierarquia de relações (pai-filho, governante-súdito, marido-mulher), a ênfase na educação como caminho para o mérito, e o sistema de exames imperiais (que durou até 1905) são legado direto de Confúcio. Mais de 1 bilhão de pessoas vivem em culturas moldadas por ele.",
-      "eventos": [
-        "chin-011"
-      ],
-      "tags": [
-        "confucionismo",
-        "china",
-        "ética",
-        "hierarquia",
-        "educação"
-      ],
-      "type": "person",
-      "inicio": -551,
-      "fim": -479,
-      "region": "EastAsia"
-    },
-    {
       "id": "po-002",
       "nome": "Buda (Sidarta Gautama)",
       "nome_en": "Buddha (Siddhartha Gautama)",
@@ -385,35 +354,6 @@
       "type": "person",
       "inicio": -1380,
       "fim": -1336,
-      "region": "Africa"
-    },
-    {
-      "id": "po-015",
-      "nome": "Hatshepsut",
-      "nome_en": "Hatshepsut",
-      "nome_es": "Hatshepsut",
-      "nascimento": -1507,
-      "morte": -1458,
-      "regiao": "Africa",
-      "area": [
-        "política"
-      ],
-      "cargo": "Faraó",
-      "epoca": "Antiguidade",
-      "descricao": "Uma das pouquíssimas mulheres a governar como Faraó (não como rainha consorte). Governou o Egito por ~20 anos (1479-1458 a.C.) como co-regente e depois governante plena. Usava barba postiça ritual. Expandiu o comércio com Punt, construiu o magnífico templo de Deir el-Bahari. Seu enteado Tutmósis III apagou sua memória após sua morte.",
-      "importancia": "Hatshepsut é o caso mais documentado de liderança feminina na Antiguidade — e de apagamento sistemático dessa liderança. Sua damnatio memoriae (destruição de imagens e nome) por Tutmósis III foi por muito tempo atribuída a vingança pessoal, mas pesquisas recentes sugerem motivação dinástica. Só foi redescoberta no século XIX. É símbolo do apagamento histórico de mulheres.",
-      "eventos": [],
-      "tags": [
-        "egito",
-        "faraó",
-        "mulher",
-        "poder",
-        "apagamento",
-        "comércio"
-      ],
-      "type": "person",
-      "inicio": -1507,
-      "fim": -1458,
       "region": "Africa"
     },
     {

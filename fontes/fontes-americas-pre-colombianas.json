@@ -1,0 +1,140 @@
+{
+  "tema": "Américas Pré-Colombianas",
+  "descricao": "Olmecas, Maias, Astecas, Incas, Andes, Caral, Norte-americanos nativos, pré-história das Américas",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Anônimo (Maya Quiché)",
+        "obra": "Popol Vuh (Livro do Conselho)",
+        "ano": "compilado c. 1554–1558",
+        "nota": "Trad. Dennis Tedlock, Simon & Schuster"
+      },
+      {
+        "autor": "Anônimo (Maya)",
+        "obra": "Chilam Balam de Chumayel",
+        "ano": "c. 1775",
+        "nota": "Texto maia colonial"
+      },
+      {
+        "autor": "Bernal Díaz del Castillo",
+        "obra": "Historia Verdadera de la Conquista de la Nueva España",
+        "ano": "1568",
+        "nota": "Testemunho de soldado da conquista"
+      },
+      {
+        "autor": "Hernán Cortés",
+        "obra": "Cartas de Relación",
+        "ano": "1519–1526"
+      },
+      {
+        "autor": "Pedro Cieza de León",
+        "obra": "Crónica del Perú",
+        "ano": "1553"
+      },
+      {
+        "autor": "Guaman Poma de Ayala, Felipe",
+        "obra": "Nueva Corónica y Buen Gobierno",
+        "ano": "1615",
+        "nota": "Crónica em quéchua e espanhol com 400 ilustrações"
+      },
+      {
+        "autor": "Inca Garcilaso de la Vega",
+        "obra": "Comentarios Reales de los Incas",
+        "ano": "1609"
+      },
+      {
+        "autor": "Frei Bernardino de Sahagún",
+        "obra": "Historia General de las Cosas de Nueva España (Códice Florentino)",
+        "ano": "c. 1577"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Michael D. Coe",
+        "obra": "The Maya",
+        "ano": "1966",
+        "editora": "Thames and Hudson"
+      },
+      {
+        "autor": "Richard F. Townsend",
+        "obra": "The Aztecs",
+        "ano": "1992",
+        "editora": "Thames and Hudson"
+      },
+      {
+        "autor": "Terence N. D'Altroy",
+        "obra": "The Incas",
+        "ano": "2002",
+        "editora": "Blackwell"
+      },
+      {
+        "autor": "Linda Schele e David Freidel",
+        "obra": "A Forest of Kings: The Untold Story of the Ancient Maya",
+        "ano": "1990",
+        "editora": "William Morrow"
+      },
+      {
+        "autor": "Michael E. Smith",
+        "obra": "The Aztecs",
+        "ano": "1996",
+        "editora": "Blackwell"
+      },
+      {
+        "autor": "Michael E. Moseley",
+        "obra": "The Incas and Their Ancestors",
+        "ano": "1992",
+        "editora": "Thames and Hudson"
+      },
+      {
+        "autor": "Charles C. Mann",
+        "obra": "1491: New Revelations of the Americas before Columbus",
+        "ano": "2005",
+        "editora": "Knopf"
+      },
+      {
+        "autor": "Timothy R. Pauketat",
+        "obra": "Cahokia: Ancient America's Great City on the Mississippi",
+        "ano": "2009",
+        "editora": "Viking"
+      },
+      {
+        "autor": "Arthur Demarest",
+        "obra": "Ancient Maya: The Rise and Fall of a Rainforest Civilization",
+        "ano": "2004",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Johanna Broda e Félix Báez-Jorge (eds.)",
+        "obra": "Cosmovisión, ritual e identidad de los pueblos indígenas de México",
+        "ano": "2001",
+        "editora": "FCE"
+      },
+      {
+        "autor": "Richard L. Burger",
+        "obra": "Chavin and the Origins of Andean Civilization",
+        "ano": "1992",
+        "editora": "Thames and Hudson"
+      },
+      {
+        "autor": "Stephen Houston et al.",
+        "obra": "The Memory of Bones: Body, Being, and Experience among the Classic Maya",
+        "ano": "2006",
+        "editora": "University of Texas Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Gene S. Stuart e George E. Stuart",
+        "obra": "Lost Kingdoms of the Maya",
+        "ano": "1993",
+        "editora": "National Geographic Society"
+      },
+      {
+        "autor": "Adriana Von Hagen e Craig Morris",
+        "obra": "The Cities of the Ancient Andes",
+        "ano": "1998",
+        "editora": "Thames and Hudson"
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "tema": "Grécia Antiga",
+  "descricao": "Período Arcaico, Clássico e Helenístico; filosofia, guerras, democracia, Alexandre Magno",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Homero",
+        "obra": "Ilíada",
+        "ano": "c. séc. VIII a.C.",
+        "nota": "Trad. recomendada: Haroldo de Campos, Arx"
+      },
+      {
+        "autor": "Homero",
+        "obra": "Odisseia",
+        "ano": "c. séc. VIII a.C.",
+        "nota": "Trad. recomendada: Donaldo Schüler, L&PM"
+      },
+      {
+        "autor": "Heródoto",
+        "obra": "Histórias (9 livros)",
+        "ano": "c. 440 a.C.",
+        "nota": "Trad. Mário da Gama Kury, EdUnB"
+      },
+      {
+        "autor": "Tucídides",
+        "obra": "História da Guerra do Peloponeso",
+        "ano": "c. 411 a.C.",
+        "nota": "Trad. Mário da Gama Kury, EdUnB"
+      },
+      {
+        "autor": "Platão",
+        "obra": "A República; Fedro; Apologia de Sócrates",
+        "ano": "c. 380–360 a.C.",
+        "nota": "Ed. recomendada: Coleção Os Pensadores, Abril Cultural"
+      },
+      {
+        "autor": "Aristóteles",
+        "obra": "Política; Ética a Nicômaco; Metafísica",
+        "ano": "c. 350–322 a.C.",
+        "nota": "Ed. recomendada: L&PM"
+      },
+      {
+        "autor": "Plutarco",
+        "obra": "Vidas Paralelas",
+        "ano": "c. 100 d.C.",
+        "nota": "Trad. recomendada: Penguin Classics"
+      },
+      {
+        "autor": "Arriano",
+        "obra": "Anabasis Alexandri (Expedições de Alexandre)",
+        "ano": "c. 150 d.C.",
+        "nota": "Penguin Classics"
+      },
+      {
+        "autor": "Xenofonte",
+        "obra": "Anábase; Helênicas",
+        "ano": "c. 370 a.C."
+      },
+      {
+        "autor": "Ésquilo; Sófocles; Eurípides",
+        "obra": "Tragédias Gregas",
+        "ano": "c. 460–406 a.C.",
+        "nota": "Ed. recomendada: Perspectiva"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Donald Kagan",
+        "obra": "The Peloponnesian War",
+        "ano": "2003",
+        "editora": "Viking"
+      },
+      {
+        "autor": "John Boardman et al.",
+        "obra": "The Oxford History of Greece and the Hellenistic World",
+        "ano": "1986",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "M. I. Finley",
+        "obra": "The Ancient Greeks",
+        "ano": "1963",
+        "editora": "Chatto & Windus"
+      },
+      {
+        "autor": "Paul Cartledge",
+        "obra": "The Spartans: The World of the Warrior-Heroes of Ancient Greece",
+        "ano": "2002",
+        "editora": "Overlook Press"
+      },
+      {
+        "autor": "Peter Green",
+        "obra": "Alexander to Actium: The Historical Evolution of the Hellenistic Age",
+        "ano": "1990",
+        "editora": "University of California Press"
+      },
+      {
+        "autor": "Robin Lane Fox",
+        "obra": "Alexander the Great",
+        "ano": "1973",
+        "editora": "Allen Lane"
+      },
+      {
+        "autor": "Sarah B. Pomeroy et al.",
+        "obra": "Ancient Greece: A Political, Social, and Cultural History",
+        "ano": "1999",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Jean-Pierre Vernant",
+        "obra": "The Origins of Greek Thought",
+        "ano": "1962",
+        "editora": "Cornell University Press"
+      },
+      {
+        "autor": "Pierre Hadot",
+        "obra": "Philosophy as a Way of Life",
+        "ano": "1995",
+        "editora": "Blackwell"
+      },
+      {
+        "autor": "Robin Waterfield",
+        "obra": "Athens: A History",
+        "ano": "2004",
+        "editora": "Macmillan"
+      },
+      {
+        "autor": "A. R. Burn",
+        "obra": "Persia and the Greeks: The Defence of the West",
+        "ano": "1962",
+        "editora": "Stanford University Press"
+      },
+      {
+        "autor": "Josho Brouwers",
+        "obra": "Henchmen of Ares: Warriors and Warfare in Early Greece",
+        "ano": "2013",
+        "editora": "Karwansaray"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "C. M. Bowra",
+        "obra": "The Greek Experience",
+        "ano": "1957",
+        "editora": "Weidenfeld & Nicolson"
+      },
+      {
+        "autor": "Will Durant",
+        "obra": "The Life of Greece (The Story of Civilization, Vol. II)",
+        "ano": "1939",
+        "editora": "Simon & Schuster"
+      }
+    ]
+  }
+}

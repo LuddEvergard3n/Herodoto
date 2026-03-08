@@ -201,6 +201,34 @@
         "México"
       ],
       "dataset": "data/dados-astecas-imperio.json"
+    },
+    {
+      "id": "ai1",
+      "nome": "Moctezuma II e a Chegada dos Espanhois",
+      "nome_en": "Moctezuma II e a Chegada dos Espanhois",
+      "nome_es": "Moctezuma II e a Chegada dos Espanhois",
+      "tipo": "pessoa",
+      "inicio": 1466,
+      "fim": 1520,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "war",
+      "descricao": "Moctezuma II recebeu Cortes em Tenochtitlan (1519) com hospitalidade. Foi feito prisioneiro e morreu durante a Noche Triste (1520).",
+      "descricao_en": "Moctezuma II recebeu Cortes em Tenochtitlan (1519) com hospitalidade. Foi feito prisioneiro e morreu durante a Noche Triste (1520).",
+      "descricao_es": "Moctezuma II recebeu Cortes em Tenochtitlan (1519) com hospitalidade. Foi feito prisioneiro e morreu durante a Noche Triste (1520).",
+      "importancia": "A recepcao de Moctezuma a Cortes e o maior enigma da conquista: hospitality ou paralisia? A morte ambigua simboliza que a historia dos vencidos e reescrita pelos vencedores.",
+      "importancia_en": "A recepcao de Moctezuma a Cortes e o maior enigma da conquista: hospitality ou paralisia? A morte ambigua simboliza que a historia dos vencidos e reescrita pelos vencedores.",
+      "importancia_es": "A recepcao de Moctezuma a Cortes e o maior enigma da conquista: hospitality ou paralisia? A morte ambigua simboliza que a historia dos vencidos e reescrita pelos vencedores.",
+      "tags": [
+        "Moctezuma",
+        "Cortes",
+        "1519",
+        "Noche Triste",
+        "prisioneiro",
+        "hospitalidade"
+      ],
+      "dataset": "data/dados-astecas-imperio.json"
     }
   ],
   "relacoes": [

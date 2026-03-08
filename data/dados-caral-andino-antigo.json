@@ -173,6 +173,62 @@
         "Titicaca"
       ],
       "dataset": "data/dados-caral-andino-antigo.json"
+    },
+    {
+      "id": "caa1",
+      "nome": "Caral: A Cidade Mais Antiga das Américas",
+      "nome_en": "Caral: A Cidade Mais Antiga das Américas",
+      "nome_es": "Caral: A Cidade Mais Antiga das Américas",
+      "tipo": "cultural",
+      "inicio": -2600,
+      "fim": -1800,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 27,
+      "type": "cultural",
+      "descricao": "Caral (2600-1800 a.C., Peru) é a civilização mais antiga das Américas: contemporânea das pirâmides egípcias. 6 pirâmides, praças afundadas, sem cerâmica e sem escrita.",
+      "descricao_en": "Caral (2600-1800 a.C., Peru) é a civilização mais antiga das Américas: contemporânea das pirâmides egípcias. 6 pirâmides, praças afundadas, sem cerâmica e sem escrita.",
+      "descricao_es": "Caral (2600-1800 a.C., Peru) é a civilização mais antiga das Américas: contemporânea das pirâmides egípcias. 6 pirâmides, praças afundadas, sem cerâmica e sem escrita.",
+      "importancia": "Caral demonstra que a civilização andina é tão antiga quanto a mesopotâmica e a egípcia. Que exista sem cerâmica e sem escrita desafia as definições convencionais de civilização.",
+      "importancia_en": "Caral demonstra que a civilização andina é tão antiga quanto a mesopotâmica e a egípcia. Que exista sem cerâmica e sem escrita desafia as definições convencionais de civilização.",
+      "importancia_es": "Caral demonstra que a civilização andina é tão antiga quanto a mesopotâmica e a egípcia. Que exista sem cerâmica e sem escrita desafia as definições convencionais de civilização.",
+      "tags": [
+        "Caral",
+        "2600 a.C.",
+        "Peru",
+        "pirâmides",
+        "quipus",
+        "Andes"
+      ],
+      "dataset": "data/dados-caral-andino-antigo.json"
+    },
+    {
+      "id": "caa2",
+      "nome": "Chavín de Huántar: Centro Religioso Andino",
+      "nome_en": "Chavín de Huántar: Centro Religioso Andino",
+      "nome_es": "Chavín de Huántar: Centro Religioso Andino",
+      "tipo": "periodo",
+      "inicio": -900,
+      "fim": -200,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 10,
+      "type": "religious",
+      "descricao": "Chavín de Huántar (900-200 a.C.) foi o maior centro cerimonial andino: templos com galerias subterrâneas, oráculo acústico, iconografia do deus Jaguar que se espalhou pelos Andes.",
+      "descricao_en": "Chavín de Huántar (900-200 a.C.) foi o maior centro cerimonial andino: templos com galerias subterrâneas, oráculo acústico, iconografia do deus Jaguar que se espalhou pelos Andes.",
+      "descricao_es": "Chavín de Huántar (900-200 a.C.) foi o maior centro cerimonial andino: templos com galerias subterrâneas, oráculo acústico, iconografia do deus Jaguar que se espalhou pelos Andes.",
+      "importancia": "Chavín demonstra que centros religiosos podem funcionar como instrumentos de integração econômica - sem exército, apenas com o poder do sagrado.",
+      "importancia_en": "Chavín demonstra que centros religiosos podem funcionar como instrumentos de integração econômica - sem exército, apenas com o poder do sagrado.",
+      "importancia_es": "Chavín demonstra que centros religiosos podem funcionar como instrumentos de integração econômica - sem exército, apenas com o poder do sagrado.",
+      "tags": [
+        "Chavín",
+        "900 a.C.",
+        "jaguar",
+        "galerias",
+        "oráculo",
+        "Andes"
+      ],
+      "dataset": "data/dados-caral-andino-antigo.json"
     }
   ],
   "relacoes": [

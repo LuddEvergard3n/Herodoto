@@ -1,0 +1,149 @@
+{
+  "tema": "Europa Medieval Aprofundada",
+  "descricao": "Cruzadas, Inquisição, Peste Negra, cavalaria, castelos, Al-Andalus, concílios, ordens religiosas, sécs. XI–XV",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Bernardo de Claraval",
+        "obra": "De Laude Novae Militiae (Elogio da Nova Cavalaria)",
+        "ano": "c. 1130",
+        "nota": "Regra dos Cavaleiros Templários"
+      },
+      {
+        "autor": "Francisco de Assis",
+        "obra": "Cântico das Criaturas; Regra da Ordem Franciscana",
+        "ano": "c. 1220"
+      },
+      {
+        "autor": "Tomás de Kempis",
+        "obra": "Imitação de Cristo",
+        "ano": "c. 1418",
+        "editora": "Vozes"
+      },
+      {
+        "autor": "Ibn Rushd (Averróis)",
+        "obra": "Comentários a Aristóteles",
+        "ano": "séc. XII",
+        "nota": "Essencial para a Escolástica europeia"
+      },
+      {
+        "autor": "Maimônides",
+        "obra": "Guia dos Perplexos",
+        "ano": "1190"
+      },
+      {
+        "autor": "Ramon Llull",
+        "obra": "Ars Magna; Livro da Ordem de Cavalaria",
+        "ano": "séc. XIII"
+      },
+      {
+        "autor": "Geoffroi de Villehardouin",
+        "obra": "A Conquista de Constantinopla (4a Cruzada)",
+        "ano": "c. 1207"
+      },
+      {
+        "autor": "Giovanni Boccaccio",
+        "obra": "Decameron (Florença, Peste de 1348)",
+        "ano": "1353"
+      },
+      {
+        "autor": "Ibn al-Athir",
+        "obra": "Al-Kamil fi al-Tarikh (Crônica das Cruzadas — perspectiva islâmica)",
+        "ano": "1231"
+      },
+      {
+        "autor": "Chrétien de Troyes",
+        "obra": "Perceval ou o Conto do Graal; Lancelot",
+        "ano": "c. 1180"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Steven Runciman",
+        "obra": "A History of the Crusades (3 vols.)",
+        "ano": "1951–1954",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Jonathan Riley-Smith",
+        "obra": "The Crusades: A History",
+        "ano": "1987",
+        "editora": "Yale University Press"
+      },
+      {
+        "autor": "Thomas F. Madden",
+        "obra": "The New Concise History of the Crusades",
+        "ano": "2005",
+        "editora": "Rowman & Littlefield"
+      },
+      {
+        "autor": "David Herlihy",
+        "obra": "The Black Death and the Transformation of the West",
+        "ano": "1997",
+        "editora": "Harvard University Press"
+      },
+      {
+        "autor": "John Kelly",
+        "obra": "The Great Mortality: An Intimate History of the Black Death",
+        "ano": "2005",
+        "editora": "HarperCollins"
+      },
+      {
+        "autor": "María Rosa Menocal",
+        "obra": "The Ornament of the World",
+        "ano": "2002",
+        "editora": "Little, Brown"
+      },
+      {
+        "autor": "Edward Peters",
+        "obra": "Inquisition",
+        "ano": "1988",
+        "editora": "Free Press"
+      },
+      {
+        "autor": "James B. Given",
+        "obra": "Inquisition and Medieval Society",
+        "ano": "1997",
+        "editora": "Cornell University Press"
+      },
+      {
+        "autor": "Maurice Keen",
+        "obra": "Chivalry",
+        "ano": "1984",
+        "editora": "Yale University Press"
+      },
+      {
+        "autor": "Charles Coulson",
+        "obra": "Castles in Medieval Society",
+        "ano": "2003",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "R. I. Moore",
+        "obra": "The War on Heresy: Faith and Power in Medieval Europe",
+        "ano": "2012",
+        "editora": "Belknap Press"
+      },
+      {
+        "autor": "R. W. Southern",
+        "obra": "Western Society and the Church in the Middle Ages",
+        "ano": "1970",
+        "editora": "Penguin"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Joseph Gies e Frances Gies",
+        "obra": "Life in a Medieval Castle",
+        "ano": "1974",
+        "editora": "Harper & Row"
+      },
+      {
+        "autor": "Umberto Eco",
+        "obra": "O Nome da Rosa",
+        "ano": "1980",
+        "nota": "Literatura como fonte sobre o medievalismo"
+      }
+    ]
+  }
+}

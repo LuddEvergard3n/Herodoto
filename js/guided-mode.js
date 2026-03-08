@@ -8,6 +8,7 @@
  */
 
 import { focusNode, setGuidedHighlight } from './graph.js';
+import { showContextPanel } from './context-panel.js';
 import { TRANSLATIONS } from './i18n.js';
 
 let sequence    = [];
@@ -84,7 +85,19 @@ function applyHighlight(current) {
     });
 
   setGuidedHighlight(currentId);
-  focusNode(current);
+  focusNodeAboveBox(current);
+}
+
+/**
+ * Pan + zoom para centralizar o nó acima do guided-box.
+ * Usa yBias = altura do box para deslocar o ponto de foco para cima.
+ */
+function focusNodeAboveBox(entity) {
+  const box  = document.getElementById('guided-box');
+  const bias = (box && !box.classList.contains('hidden'))
+    ? box.offsetHeight + 50   // 50px breathing room between node and box top
+    : 0;
+  focusNode(entity, bias);
 }
 
 /**
@@ -134,7 +147,12 @@ function highlightCurrent() {
 
   box.classList.remove('hidden');
 
+  // Open info panel (right side — description)
   if (window.mostrarInfo) window.mostrarInfo(current);
+
+  // Open context panel (left side — "No mesmo período")
+  const all = window.grafoAtual ? window.grafoAtual.entidades : [];
+  showContextPanel(current, all);
 }
 
 function activate() {

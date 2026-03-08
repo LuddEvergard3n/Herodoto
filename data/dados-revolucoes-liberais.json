@@ -169,6 +169,62 @@
         "socialismo"
       ],
       "dataset": "data/dados-revolucoes-liberais.json"
+    },
+    {
+      "id": "rl1",
+      "nome": "1848: A Primavera dos Povos",
+      "nome_en": "1848: A Primavera dos Povos",
+      "nome_es": "1848: A Primavera dos Povos",
+      "tipo": "evento",
+      "inicio": 1848,
+      "fim": 1849,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "As revoluções de 1848 explodiram em 50 países simultaneamente: Paris, Berlim, Viena, Milão, Praga, Budapeste. Causas: desemprego industrial, má colheita, e ideias liberais e nacionalistas. Resultado: todas fracassaram em 1 ano. Marx escreveu o Manifesto Comunista (fevereiro 1848) e ninguém notou.",
+      "descricao_en": "As revoluções de 1848 explodiram em 50 países simultaneamente: Paris, Berlim, Viena, Milão, Praga, Budapeste. Causas: desemprego industrial, má colheita, e ideias liberais e nacionalistas. Resultado: todas fracassaram em 1 ano. Marx escreveu o Manifesto Comunista (fevereiro 1848) e ninguém notou.",
+      "descricao_es": "As revoluções de 1848 explodiram em 50 países simultaneamente: Paris, Berlim, Viena, Milão, Praga, Budapeste. Causas: desemprego industrial, má colheita, e ideias liberais e nacionalistas. Resultado: todas fracassaram em 1 ano. Marx escreveu o Manifesto Comunista (fevereiro 1848) e ninguém notou.",
+      "importancia": "1848 é o maior fracasso revolucionário da história - e o mais fecundo em consequências: o nacionalismo que as revoluções não realizaram foi realizado pelos Estados em 1870-1871 (unificação alemã e italiana).",
+      "importancia_en": "1848 é o maior fracasso revolucionário da história - e o mais fecundo em consequências: o nacionalismo que as revoluções não realizaram foi realizado pelos Estados em 1870-1871 (unificação alemã e italiana).",
+      "importancia_es": "1848 é o maior fracasso revolucionário da história - e o mais fecundo em consequências: o nacionalismo que as revoluções não realizaram foi realizado pelos Estados em 1870-1871 (unificação alemã e italiana).",
+      "tags": [
+        "1848",
+        "Primavera dos Povos",
+        "Marx",
+        "Manifesto",
+        "fracasso",
+        "50 países"
+      ],
+      "dataset": "data/dados-revolucoes-liberais.json"
+    },
+    {
+      "id": "rl2",
+      "nome": "A Revolução Americana e o Constitucionalismo",
+      "nome_en": "A Revolução Americana e o Constitucionalismo",
+      "nome_es": "A Revolução Americana e o Constitucionalismo",
+      "tipo": "evento",
+      "inicio": 1776,
+      "fim": 1789,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 18,
+      "type": "political",
+      "descricao": "A Revolução Americana (1776-1789) foi a mais conservadora das revoluções: não destruiu a ordem social (escravidão permaneceu), mas criou o melhor texto constitucional da história. A Constituição de 1787 (com Federalist Papers) é o maior documento político moderno - ainda em vigor com 27 emendas.",
+      "descricao_en": "A Revolução Americana (1776-1789) foi a mais conservadora das revoluções: não destruiu a ordem social (escravidão permaneceu), mas criou o melhor texto constitucional da história. A Constituição de 1787 (com Federalist Papers) é o maior documento político moderno - ainda em vigor com 27 emendas.",
+      "descricao_es": "A Revolução Americana (1776-1789) foi a mais conservadora das revoluções: não destruiu a ordem social (escravidão permaneceu), mas criou o melhor texto constitucional da história. A Constituição de 1787 (com Federalist Papers) é o maior documento político moderno - ainda em vigor com 27 emendas.",
+      "importancia": "A Constituição americana é o documento político mais eficaz da história: 235 anos com apenas 27 emendas. Que um texto de 1787 ainda governe a maior potência do mundo é o maior triunfo do constitucionalismo.",
+      "importancia_en": "A Constituição americana é o documento político mais eficaz da história: 235 anos com apenas 27 emendas. Que um texto de 1787 ainda governe a maior potência do mundo é o maior triunfo do constitucionalismo.",
+      "importancia_es": "A Constituição americana é o documento político mais eficaz da história: 235 anos com apenas 27 emendas. Que um texto de 1787 ainda governe a maior potência do mundo é o maior triunfo do constitucionalismo.",
+      "tags": [
+        "1776",
+        "Constituição",
+        "Federalist Papers",
+        "1787",
+        "27 emendas",
+        "escravidão"
+      ],
+      "dataset": "data/dados-revolucoes-liberais.json"
     }
   ],
   "relacoes": [

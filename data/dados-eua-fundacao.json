@@ -195,6 +195,34 @@
         "populismo"
       ],
       "dataset": "data/dados-eua-fundacao.json"
+    },
+    {
+      "id": "euf1",
+      "nome": "A Constituicao de Filadélfia e os Pais Fundadores",
+      "nome_en": "A Constituicao de Filadélfia e os Pais Fundadores",
+      "nome_es": "A Constituicao de Filadélfia e os Pais Fundadores",
+      "tipo": "evento",
+      "inicio": 1787,
+      "fim": 1789,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 18,
+      "type": "political",
+      "descricao": "A Convencao Constitucional (Filadélfia, 1787): 55 delegados durante 4 meses criaram a Constituicao mais duradoura da historia. Hamilton, Madison e Jay escreveram os Federalist Papers (85 artigos) para explicar e defender o texto. A Bill of Rights (1791, 10 emendas) foi adicionada para garantir aprovacao.",
+      "descricao_en": "A Convencao Constitucional (Filadélfia, 1787): 55 delegados durante 4 meses criaram a Constituicao mais duradoura da historia. Hamilton, Madison e Jay escreveram os Federalist Papers (85 artigos) para explicar e defender o texto. A Bill of Rights (1791, 10 emendas) foi adicionada para garantir aprovacao.",
+      "descricao_es": "A Convencao Constitucional (Filadélfia, 1787): 55 delegados durante 4 meses criaram a Constituicao mais duradoura da historia. Hamilton, Madison e Jay escreveram os Federalist Papers (85 artigos) para explicar e defender o texto. A Bill of Rights (1791, 10 emendas) foi adicionada para garantir aprovacao.",
+      "importancia": "A Constituicao de 1787 e o texto politico mais eficaz da historia: 235 anos com apenas 27 emendas. O paradoxo: criado por homens que possuiam escravos, prometia liberdade para todos.",
+      "importancia_en": "A Constituicao de 1787 e o texto politico mais eficaz da historia: 235 anos com apenas 27 emendas. O paradoxo: criado por homens que possuiam escravos, prometia liberdade para todos.",
+      "importancia_es": "A Constituicao de 1787 e o texto politico mais eficaz da historia: 235 anos com apenas 27 emendas. O paradoxo: criado por homens que possuiam escravos, prometia liberdade para todos.",
+      "tags": [
+        "Constituicao",
+        "Filadélfia",
+        "1787",
+        "Federalist Papers",
+        "Hamilton",
+        "Madison"
+      ],
+      "dataset": "data/dados-eua-fundacao.json"
     }
   ],
   "relacoes": [

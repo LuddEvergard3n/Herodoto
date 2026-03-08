@@ -4,7 +4,7 @@
  * Permite uso offline completo após primeira visita.
  */
 
-const CACHE_VERSION = 'herodoto-v7-25';
+const CACHE_VERSION = 'herodoto-v7-38';
 const CACHE_STATIC  = `${CACHE_VERSION}-static`;
 const CACHE_DATA    = `${CACHE_VERSION}-data`;
 
@@ -46,8 +46,8 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
   const url = new URL(event.request.url);
 
-  // 1) Dados JSON (datasets): Network-First → Cache fallback
-  if (url.pathname.includes('/data/') && url.pathname.endsWith('.json')) {
+  // 1) Dados JSON (datasets e fontes): Network-First → Cache fallback
+  if ((url.pathname.includes('/data/') || url.pathname.includes('/fontes/')) && url.pathname.endsWith('.json')) {
     event.respondWith(networkFirstJson(event.request));
     return;
   }

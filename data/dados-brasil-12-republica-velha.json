@@ -189,6 +189,34 @@
       "importancia_es": "A Semana de 22 colocou a pergunta central do modernismo brasileiro: o que é ser moderno E brasileiro ao mesmo tempo? A resposta antropofágica — hibridismo criativo, não cópia nem rejeição do exterior — continua sendo a ideia cultural mais fértil do Brasil.",
       "century_start": 19,
       "century_end": 20
+    },
+    {
+      "id": "brv1",
+      "nome": "O Coronelismo e a Democracia de Fachada",
+      "nome_en": "O Coronelismo e a Democracia de Fachada",
+      "nome_es": "O Coronelismo e a Democracia de Fachada",
+      "tipo": "cultural",
+      "inicio": 1889,
+      "fim": 1930,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "O coronelismo foi o sistema politico da Republica Velha: os coroneis controlavam os votos dos dependentes e entregavam resultados eleitorais conforme acordado com governadores. A politica cafe-com-leite alternava presidentes de SP e MG.",
+      "descricao_en": "O coronelismo foi o sistema politico da Republica Velha: os coroneis controlavam os votos dos dependentes e entregavam resultados eleitorais conforme acordado com governadores. A politica cafe-com-leite alternava presidentes de SP e MG.",
+      "descricao_es": "O coronelismo foi o sistema politico da Republica Velha: os coroneis controlavam os votos dos dependentes e entregavam resultados eleitorais conforme acordado com governadores. A politica cafe-com-leite alternava presidentes de SP e MG.",
+      "importancia": "O coronelismo e a base da cultura politica brasileira: a relacao pessoal de dependencia substituindo a cidadania. Explica por que a democracia brasileira ainda e fragil.",
+      "importancia_en": "O coronelismo e a base da cultura politica brasileira: a relacao pessoal de dependencia substituindo a cidadania. Explica por que a democracia brasileira ainda e fragil.",
+      "importancia_es": "O coronelismo e a base da cultura politica brasileira: a relacao pessoal de dependencia substituindo a cidadania. Explica por que a democracia brasileira ainda e fragil.",
+      "tags": [
+        "coronelismo",
+        "cafe-com-leite",
+        "votos",
+        "dependencia",
+        "proprietarios",
+        "Republica Velha"
+      ],
+      "dataset": "data/dados-brasil-12-republica-velha.json"
     }
   ]
 }

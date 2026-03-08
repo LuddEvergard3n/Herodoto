@@ -1,92 +1,6 @@
 {
   "personagens": [
     {
-      "id": "pem-001",
-      "nome": "Nicolau Copérnico",
-      "nome_en": "Nicolaus Copernicus",
-      "nome_es": "Nicolás Copérnico",
-      "nascimento": 1473,
-      "morte": 1543,
-      "regiao": "Europe",
-      "area": [
-        "ciência",
-        "astronomia"
-      ],
-      "cargo": "Astrônomo",
-      "epoca": "Era Moderna",
-      "descricao": "Cônego polonês que propôs o heliocentrismo em De Revolutionibus (1543) — publicado no ano de sua morte, segundo a lenda por medo da Inquisição. Na verdade, esperou décadas por cálculos mais precisos. Seu modelo ainda era circular (não elíptico como Kepler corrigi depois) mas deslocou a Terra do centro do universo.",
-      "importancia": "A revolução copernicana não foi apenas astronômica: ao remover a Terra do centro do universo, removeu também o ser humano do centro da criação. O choque existencial desta descoberta — que somos habitantes de um planeta menor orbitando uma estrela comum — moldou toda a filosofia e teologia dos 5 séculos seguintes.",
-      "eventos": [],
-      "tags": [
-        "heliocentrismo",
-        "revolução científica",
-        "astronomia",
-        "renascimento"
-      ],
-      "type": "person",
-      "inicio": 1473,
-      "fim": 1543,
-      "region": "Europe"
-    },
-    {
-      "id": "pem-002",
-      "nome": "Galileu Galilei",
-      "nome_en": "Galileo Galilei",
-      "nome_es": "Galileo Galilei",
-      "nascimento": 1564,
-      "morte": 1642,
-      "regiao": "Europe",
-      "area": [
-        "ciência",
-        "física"
-      ],
-      "cargo": "Astrônomo e Físico",
-      "epoca": "Era Moderna",
-      "descricao": "Inventou o método experimental: medir, quantificar, experimentar — não deduzir da autoridade de Aristóteles. Confirmou o heliocentrismo com o telescópio, descobriu as luas de Júpiter, estudou o movimento dos projéteis. Condenado pela Inquisição em 1633 a abjurar 'a Terra se move' — fez a abjuração e ficou em prisão domiciliar até morrer.",
-      "importancia": "O caso Galileu é o arquétipo do conflito entre conhecimento empírico e autoridade dogmática. Mas a história é mais complexa: Galileu foi imprudente diplomaticamente e o Papa era seu amigo antes do processo. O conflito era menos Ciência vs. Religião do que sobre quem controlava o que era verdadeiro — questão que nunca foi resolvida.",
-      "eventos": [],
-      "tags": [
-        "revolução científica",
-        "inquisição",
-        "telescópio",
-        "método experimental",
-        "heliocentrismo"
-      ],
-      "type": "person",
-      "inicio": 1564,
-      "fim": 1642,
-      "region": "Europe"
-    },
-    {
-      "id": "pem-003",
-      "nome": "Martinho Lutero",
-      "nome_en": "Martin Luther",
-      "nome_es": "Martín Lutero",
-      "nascimento": 1483,
-      "morte": 1546,
-      "regiao": "Europe",
-      "area": [
-        "religião",
-        "política"
-      ],
-      "cargo": "Teólogo e Reformador",
-      "epoca": "Era Moderna",
-      "descricao": "Monge agostiniano que pregou 95 Teses na porta da igreja de Wittenberg em 1517 — ou as enviou por carta ao bispo, a dramaturgia da porta é provavelmente lenda. Traduzir a Bíblia para o alemão foi mais revolucionário: democratizou o acesso ao texto sagrado e padronizou a língua alemã moderna. Excomungado e proscritos, sobreviveu protegido pelo Eleitor da Saxônia.",
-      "importancia": "Lutero não pretendia fragmentar o Cristianismo — queria reformá-lo de dentro. Ao invocar a consciência individual como árbitro supremo da interpretação bíblica, criou o princípio que tornaria impossível qualquer autoridade religiosa única. O protestantismo gerou 40.000 denominações e, indiretamente, o individualismo secular moderno.",
-      "eventos": [],
-      "tags": [
-        "reforma protestante",
-        "luteranismo",
-        "bíblia",
-        "indulgências",
-        "religião"
-      ],
-      "type": "person",
-      "inicio": 1483,
-      "fim": 1546,
-      "region": "Europe"
-    },
-    {
       "id": "pem-004",
       "nome": "Isabel I de Inglaterra",
       "nome_en": "Elizabeth I of England",
@@ -116,34 +30,6 @@
       "region": "Europe"
     },
     {
-      "id": "pem-005",
-      "nome": "Francisco de Assis",
-      "nome_en": "Francis of Assisi",
-      "nome_es": "Francisco de Asís",
-      "nascimento": 1181,
-      "morte": 1226,
-      "regiao": "Europe",
-      "area": [
-        "religião"
-      ],
-      "cargo": "Frade e Fundador",
-      "epoca": "Idade Média",
-      "descricao": "Filho de comerciante rico de Assis que abandonou tudo, vestiu-se de mendigo e pregou para os pássaros. Fundou a ordem franciscana (1209) baseada na pobreza absoluta e irmandade com toda a criação. Recebeu os estigmas em 1224. Foi a La Verna evangelizar o Sultão do Egito durante a 5ª Cruzada — e voltou vivo.",
-      "importancia": "Francisco antecipou 800 anos de ecologia ao tratar a natureza como irmã, não como recurso. Sua pobreza voluntária foi um protesto silencioso contra a Igreja que acumulava riquezas — e gerou o movimento dos Espirituais Franciscanos que a Igreja perseguiu por heresia. João Paulo II o declarou patrono da ecologia em 1979.",
-      "eventos": [],
-      "tags": [
-        "franciscanos",
-        "pobreza",
-        "natureza",
-        "cruzadas",
-        "estigmas"
-      ],
-      "type": "person",
-      "inicio": 1181,
-      "fim": 1226,
-      "region": "Europe"
-    },
-    {
       "id": "pem-006",
       "nome": "Carlos V",
       "nome_en": "Charles V",
@@ -170,35 +56,6 @@
       "type": "person",
       "inicio": 1500,
       "fim": 1558,
-      "region": "Europe"
-    },
-    {
-      "id": "pem-007",
-      "nome": "Thomas More",
-      "nome_en": "Thomas More",
-      "nome_es": "Tomás Moro",
-      "nascimento": 1478,
-      "morte": 1535,
-      "regiao": "Europe",
-      "area": [
-        "filosofia",
-        "política"
-      ],
-      "cargo": "Chanceler da Inglaterra",
-      "epoca": "Era Moderna",
-      "descricao": "Lord Chancellor de Henrique VIII, humanista amigo de Erasmo, autor de Utopia (1516) — que descreveu uma sociedade ideal sem propriedade privada, dando nome ao gênero inteiro. Recusou jurar fidelidade ao Ato de Supremacia que fazia Henrique cabeça da Igreja inglesa. Decapitado por traição. Canonizado em 1935.",
-      "importancia": "More é o mártir da consciência individual contra o poder do estado — o mesmo princípio que Lutero invocou para justificar sua heresia. A ironia é que Lutero e More são inimigos ideológicos que morrem pelo mesmo princípio em lados opostos. Utopia cunhou uma palavra e moldou 500 anos de pensamento político sobre sociedades alternativas.",
-      "eventos": [],
-      "tags": [
-        "utopia",
-        "humanismo",
-        "henrique VIII",
-        "reforma inglesa",
-        "mártir"
-      ],
-      "type": "person",
-      "inicio": 1478,
-      "fim": 1535,
       "region": "Europe"
     },
     {
@@ -260,35 +117,6 @@
       "region": "Europe"
     },
     {
-      "id": "pem-010",
-      "nome": "Nicolau Maquiavel",
-      "nome_en": "Niccolò Machiavelli",
-      "nome_es": "Nicolás Maquiavelo",
-      "nascimento": 1469,
-      "morte": 1527,
-      "regiao": "Europe",
-      "area": [
-        "filosofia",
-        "política"
-      ],
-      "cargo": "Diplomata e Filósofo",
-      "epoca": "Era Moderna",
-      "descricao": "Servidor público florentino por 14 anos, torturado e exilado pelos Médici em 1512. Escreveu O Príncipe (1513) no exílio — um manual de poder real, não idealizado. 'É melhor ser temido do que amado, se não puder ser os dois.' Observou Cesare Bórgia operar como modelo de eficácia sem escrúpulos.",
-      "importancia": "Maquiavel separou política e ética pela primeira vez na história do pensamento ocidental. Antes dele, teoria política era sempre normativa (como o governante DEVE agir). Ele descreveu como governantes REALMENTE agem — e isso foi tão perturbador que 'maquiavélico' se tornou sinônimo de maldade. Toda ciência política moderna começa com essa separação.",
-      "eventos": [],
-      "tags": [
-        "renascimento",
-        "filosofia política",
-        "O Príncipe",
-        "florença",
-        "realpolitik"
-      ],
-      "type": "person",
-      "inicio": 1469,
-      "fim": 1527,
-      "region": "Europe"
-    },
-    {
       "id": "pem-011",
       "nome": "Baruch Spinoza",
       "nome_en": "Baruch Spinoza",
@@ -344,6 +172,62 @@
       "inicio": 1515,
       "fim": 1582,
       "region": "Europe"
+    },
+    {
+      "id": "pem1",
+      "nome": "Isabel I da Inglaterra: A Rainha Virgem",
+      "nome_en": "Isabel I da Inglaterra: A Rainha Virgem",
+      "nome_es": "Isabel I da Inglaterra: A Rainha Virgem",
+      "tipo": "pessoa",
+      "inicio": 1533,
+      "fim": 1603,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "Isabel I (1533-1603) governou a Inglaterra por 45 anos sem se casar. Derrotou a Armada Invencível Espanhola (1588) e inaugurou a Era de Ouro inglesa: Shakespeare, Marlowe, Francis Drake. Balançou entre o protestantismo e o catolicismo com pragmatismo político que salvou a Inglaterra das guerras religiosas que destruíam a Europa.",
+      "descricao_en": "Isabel I (1533-1603) governou a Inglaterra por 45 anos sem se casar. Derrotou a Armada Invencível Espanhola (1588) e inaugurou a Era de Ouro inglesa: Shakespeare, Marlowe, Francis Drake. Balançou entre o protestantismo e o catolicismo com pragmatismo político que salvou a Inglaterra das guerras religiosas que destruíam a Europa.",
+      "descricao_es": "Isabel I (1533-1603) governou a Inglaterra por 45 anos sem se casar. Derrotou a Armada Invencível Espanhola (1588) e inaugurou a Era de Ouro inglesa: Shakespeare, Marlowe, Francis Drake. Balançou entre o protestantismo e o catolicismo com pragmatismo político que salvou a Inglaterra das guerras religiosas que destruíam a Europa.",
+      "importancia": "Isabel I é o maior exemplo de liderança feminina na história europeia: governou 45 anos em sistema que a considerava legalmente incapaz. Seu celibato foi a ferramenta política mais eficaz - nenhum marido controlava o poder real.",
+      "importancia_en": "Isabel I é o maior exemplo de liderança feminina na história europeia: governou 45 anos em sistema que a considerava legalmente incapaz. Seu celibato foi a ferramenta política mais eficaz - nenhum marido controlava o poder real.",
+      "importancia_es": "Isabel I é o maior exemplo de liderança feminina na história europeia: governou 45 anos em sistema que a considerava legalmente incapaz. Seu celibato foi a ferramenta política mais eficaz - nenhum marido controlava o poder real.",
+      "tags": [
+        "Isabel I",
+        "Armada",
+        "1588",
+        "Shakespeare",
+        "virgem",
+        "política"
+      ],
+      "dataset": "data/dados-personagens-europa-moderna.json"
+    },
+    {
+      "id": "pem2",
+      "nome": "Maquiavel e a Ciência do Poder",
+      "nome_en": "Maquiavel e a Ciência do Poder",
+      "nome_es": "Maquiavel e a Ciência do Poder",
+      "tipo": "pessoa",
+      "inicio": 1469,
+      "fim": 1527,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "cultural",
+      "descricao": "Maquiavel (1469-1527) escreveu O Príncipe (1513) como manual realista de poder: o fim justifica os meios, o governante deve ser leão e raposa simultaneamente. Foi secretário da república florentina, torturado pelos Médici, e escreveu O Príncipe esperando recuperar favor. O resultado: o texto político mais influente e mais mal-interpretado da história.",
+      "descricao_en": "Maquiavel (1469-1527) escreveu O Príncipe (1513) como manual realista de poder: o fim justifica os meios, o governante deve ser leão e raposa simultaneamente. Foi secretário da república florentina, torturado pelos Médici, e escreveu O Príncipe esperando recuperar favor. O resultado: o texto político mais influente e mais mal-interpretado da história.",
+      "descricao_es": "Maquiavel (1469-1527) escreveu O Príncipe (1513) como manual realista de poder: o fim justifica os meios, o governante deve ser leão e raposa simultaneamente. Foi secretário da república florentina, torturado pelos Médici, e escreveu O Príncipe esperando recuperar favor. O resultado: o texto político mais influente e mais mal-interpretado da história.",
+      "importancia": "Maquiavel criou a ciência política como análise empírica do poder real - não do poder ideal. Que seu nome se tornou adjetivo (maquiavélico = traiçoeiro) demonstra que a mensagem foi odiada pelo mesmo motivo que a tornava verdadeira.",
+      "importancia_en": "Maquiavel criou a ciência política como análise empírica do poder real - não do poder ideal. Que seu nome se tornou adjetivo (maquiavélico = traiçoeiro) demonstra que a mensagem foi odiada pelo mesmo motivo que a tornava verdadeira.",
+      "importancia_es": "Maquiavel criou a ciência política como análise empírica do poder real - não do poder ideal. Que seu nome se tornou adjetivo (maquiavélico = traiçoeiro) demonstra que a mensagem foi odiada pelo mesmo motivo que a tornava verdadeira.",
+      "tags": [
+        "Maquiavel",
+        "O Príncipe",
+        "1513",
+        "poder",
+        "leão e raposa",
+        "Florença"
+      ],
+      "dataset": "data/dados-personagens-europa-moderna.json"
     }
   ]
 }

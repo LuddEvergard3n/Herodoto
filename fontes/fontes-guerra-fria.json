@@ -1,0 +1,140 @@
+{
+  "tema": "Guerra Fria",
+  "descricao": "EUA vs. URSS, corrida armamentista, guerra da Coreia, Cuba, Vietnam, descolonização no contexto bipolar, queda do Muro",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "George F. Kennan",
+        "obra": "The Long Telegram; The Sources of Soviet Conduct (Mr. X)",
+        "ano": "1946–1947",
+        "nota": "Documentos fundadores da política de contenção americana"
+      },
+      {
+        "autor": "Harry S. Truman",
+        "obra": "Doutrina Truman (Discurso ao Congresso)",
+        "ano": "1947"
+      },
+      {
+        "autor": "Nikita Khrushchev",
+        "obra": "Discurso Secreto (XX Congresso do Partido Comunista)",
+        "ano": "1956",
+        "nota": "Denúncia de Stalin"
+      },
+      {
+        "autor": "John F. Kennedy",
+        "obra": "Discurso sobre a Crise dos Mísseis Cubanos",
+        "ano": "1962"
+      },
+      {
+        "autor": "Mikhail Gorbachev",
+        "obra": "Perestroika: New Thinking for Our Country and the World",
+        "ano": "1987"
+      },
+      {
+        "autor": "Ronald Reagan",
+        "obra": "Evil Empire Speech; Discurso no Muro de Berlim",
+        "ano": "1983–1987"
+      },
+      {
+        "autor": "George Orwell",
+        "obra": "1984; A Revolução dos Bichos",
+        "ano": "1945–1949",
+        "nota": "Literatura como fonte sobre o totalitarismo"
+      },
+      {
+        "autor": "Alexander Soljenitsin",
+        "obra": "Arquipélago Gulag",
+        "ano": "1973",
+        "editora": "Círculo do Livro"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "John Lewis Gaddis",
+        "obra": "The Cold War: A New History",
+        "ano": "2005",
+        "editora": "Penguin Press"
+      },
+      {
+        "autor": "Melvyn P. Leffler e Odd Arne Westad (eds.)",
+        "obra": "The Cambridge History of the Cold War (3 vols.)",
+        "ano": "2010",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Odd Arne Westad",
+        "obra": "The Global Cold War",
+        "ano": "2005",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Paul Kennedy",
+        "obra": "The Rise and Fall of the Great Powers",
+        "ano": "1987",
+        "editora": "Random House"
+      },
+      {
+        "autor": "Aleksandr Fursenko e Timothy Naftali",
+        "obra": "One Hell of a Gamble: Khrushchev, Castro, Kennedy and the Cuban Missile Crisis",
+        "ano": "1997",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "Michael R. Beschloss",
+        "obra": "The Crisis Years: Kennedy and Khrushchev, 1960–1963",
+        "ano": "1991",
+        "editora": "HarperCollins"
+      },
+      {
+        "autor": "Robert Service",
+        "obra": "Comrades: A History of World Communism",
+        "ano": "2007",
+        "editora": "Macmillan"
+      },
+      {
+        "autor": "Tony Judt",
+        "obra": "Postwar: A History of Europe since 1945",
+        "ano": "2005",
+        "editora": "Penguin Press"
+      },
+      {
+        "autor": "Stephen Kotkin",
+        "obra": "Armageddon Averted: The Soviet Collapse 1970–2000",
+        "ano": "2001",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Fred Halliday",
+        "obra": "The Making of the Second Cold War",
+        "ano": "1983",
+        "editora": "Verso"
+      },
+      {
+        "autor": "Zbigniew Brzezinski",
+        "obra": "The Grand Failure: The Birth and Death of Communism in the Twentieth Century",
+        "ano": "1989",
+        "editora": "Scribner"
+      },
+      {
+        "autor": "David Halberstam",
+        "obra": "The Coldest Winter: America and the Korean War",
+        "ano": "2007",
+        "editora": "Hyperion"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Niall Ferguson",
+        "obra": "Colossus: The Price of America's Empire",
+        "ano": "2004",
+        "editora": "Penguin Press"
+      },
+      {
+        "autor": "Francis Fukuyama",
+        "obra": "O Fim da História e o Último Homem",
+        "ano": "1992",
+        "editora": "Gradiva"
+      }
+    ]
+  }
+}

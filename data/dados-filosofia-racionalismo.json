@@ -170,6 +170,62 @@
         "síntese"
       ],
       "dataset": "data/dados-filosofia-racionalismo.json"
+    },
+    {
+      "id": "fr1",
+      "nome": "Leibniz e o Cálculo Diferencial",
+      "nome_en": "Leibniz e o Cálculo Diferencial",
+      "nome_es": "Leibniz e o Cálculo Diferencial",
+      "tipo": "pessoa",
+      "inicio": 1646,
+      "fim": 1716,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 17,
+      "type": "cultural",
+      "descricao": "Leibniz (1646-1716) e Newton inventaram o cálculo diferencial e integral independentemente (c. 1665-1675). A disputa de prioridade (Newton vs. Leibniz) foi a maior controvérsia científica da história. A notação de Leibniz (dx/dy, integral) é a que usamos hoje.",
+      "descricao_en": "Leibniz (1646-1716) e Newton inventaram o cálculo diferencial e integral independentemente (c. 1665-1675). A disputa de prioridade (Newton vs. Leibniz) foi a maior controvérsia científica da história. A notação de Leibniz (dx/dy, integral) é a que usamos hoje.",
+      "descricao_es": "Leibniz (1646-1716) e Newton inventaram o cálculo diferencial e integral independentemente (c. 1665-1675). A disputa de prioridade (Newton vs. Leibniz) foi a maior controvérsia científica da história. A notação de Leibniz (dx/dy, integral) é a que usamos hoje.",
+      "importancia": "Leibniz demonstra que grandes descobertas são feitas simultaneamente quando as condições estão maduras. A disputa com Newton foi o primeiro escândalo de plágio científico da história moderna.",
+      "importancia_en": "Leibniz demonstra que grandes descobertas são feitas simultaneamente quando as condições estão maduras. A disputa com Newton foi o primeiro escândalo de plágio científico da história moderna.",
+      "importancia_es": "Leibniz demonstra que grandes descobertas são feitas simultaneamente quando as condições estão maduras. A disputa com Newton foi o primeiro escândalo de plágio científico da história moderna.",
+      "tags": [
+        "Leibniz",
+        "cálculo",
+        "1675",
+        "Newton",
+        "notação",
+        "plágio"
+      ],
+      "dataset": "data/dados-filosofia-racionalismo.json"
+    },
+    {
+      "id": "fr2",
+      "nome": "Hume e a Origem do Ceticismo Científico",
+      "nome_en": "Hume e a Origem do Ceticismo Científico",
+      "nome_es": "Hume e a Origem do Ceticismo Científico",
+      "tipo": "pessoa",
+      "inicio": 1711,
+      "fim": 1776,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 18,
+      "type": "cultural",
+      "descricao": "Hume demonstrou que a causalidade é inferência da mente, não realidade observável. Destruiu as provas filosóficas da existência de Deus. Kant disse que Hume o acordou do sono dogmático.",
+      "descricao_en": "Hume demonstrou que a causalidade é inferência da mente, não realidade observável. Destruiu as provas filosóficas da existência de Deus. Kant disse que Hume o acordou do sono dogmático.",
+      "descricao_es": "Hume demonstrou que a causalidade é inferência da mente, não realidade observável. Destruiu as provas filosóficas da existência de Deus. Kant disse que Hume o acordou do sono dogmático.",
+      "importancia": "Hume criou a base epistemológica da ciência: só podemos conhecer o que pode ser empiricamente testado. Sua crítica à causalidade ainda não foi completamente respondida.",
+      "importancia_en": "Hume criou a base epistemológica da ciência: só podemos conhecer o que pode ser empiricamente testado. Sua crítica à causalidade ainda não foi completamente respondida.",
+      "importancia_es": "Hume criou a base epistemológica da ciência: só podemos conhecer o que pode ser empiricamente testado. Sua crítica à causalidade ainda não foi completamente respondida.",
+      "tags": [
+        "Hume",
+        "ceticismo",
+        "causalidade",
+        "Kant",
+        "empirismo",
+        "Deus"
+      ],
+      "dataset": "data/dados-filosofia-racionalismo.json"
     }
   ],
   "relacoes": [

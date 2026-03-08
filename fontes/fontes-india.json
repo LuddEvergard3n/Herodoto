@@ -1,0 +1,143 @@
+{
+  "tema": "Índia",
+  "descricao": "Civilização do Indo, período Védico, Império Maurya, Gupta, Sultanatos, Mogol, período britânico e independência",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Anônimo (compilado)",
+        "obra": "Rigveda",
+        "ano": "c. 1500–1000 a.C.",
+        "nota": "Veda mais antigo; trad. recomendada: Wendy Doniger, Penguin"
+      },
+      {
+        "autor": "Anônimo",
+        "obra": "Mahabharata (incluindo Bhagavad Gita)",
+        "ano": "c. 400 a.C.–400 d.C.",
+        "nota": "Trad. do Gita: Barbara Stoler Miller, Bantam"
+      },
+      {
+        "autor": "Anônimo",
+        "obra": "Ramayana",
+        "ano": "c. 500 a.C.–100 d.C.",
+        "nota": "Trad. William Buck"
+      },
+      {
+        "autor": "Kautilya (Chanakya)",
+        "obra": "Arthashastra",
+        "ano": "c. 300 a.C.",
+        "nota": "Tratado de ciência política do Império Maurya"
+      },
+      {
+        "autor": "Imperador Ashoka",
+        "obra": "Éditos de Ashoka (inscrições em pedra)",
+        "ano": "c. 268–232 a.C."
+      },
+      {
+        "autor": "Al-Biruni",
+        "obra": "Kitab al-Hind",
+        "ano": "1030",
+        "nota": "Descrição da Índia por viajante islâmico"
+      },
+      {
+        "autor": "Imperador Babur",
+        "obra": "Baburnama (Memórias de Babur)",
+        "ano": "c. 1530"
+      },
+      {
+        "autor": "Mohandas K. Gandhi",
+        "obra": "Hind Swaraj (Autonomia Indiana)",
+        "ano": "1909",
+        "nota": "Manifesto do movimento de independência"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "A. L. Basham",
+        "obra": "The Wonder That Was India",
+        "ano": "1954",
+        "editora": "Sidgwick & Jackson"
+      },
+      {
+        "autor": "Romila Thapar",
+        "obra": "A History of India, Vol. 1",
+        "ano": "1966",
+        "editora": "Penguin"
+      },
+      {
+        "autor": "Percival Spear",
+        "obra": "A History of India, Vol. 2",
+        "ano": "1965",
+        "editora": "Penguin"
+      },
+      {
+        "autor": "John F. Richards",
+        "obra": "The Mughal Empire",
+        "ano": "1993",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Stanley Wolpert",
+        "obra": "A New History of India",
+        "ano": "1977",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Judith M. Brown",
+        "obra": "Gandhi: Prisoner of Hope",
+        "ano": "1989",
+        "editora": "Yale University Press"
+      },
+      {
+        "autor": "William Dalrymple",
+        "obra": "The Last Mughal: The Fall of a Dynasty, Delhi, 1857",
+        "ano": "2006",
+        "editora": "Bloomsbury"
+      },
+      {
+        "autor": "John Keay",
+        "obra": "India: A History",
+        "ano": "2000",
+        "editora": "HarperCollins"
+      },
+      {
+        "autor": "Barbara Metcalf e Thomas Metcalf",
+        "obra": "A Concise History of Modern India",
+        "ano": "2002",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Ainslie T. Embree (ed.)",
+        "obra": "Sources of Indian Tradition",
+        "ano": "1958",
+        "editora": "Columbia University Press"
+      },
+      {
+        "autor": "Jawaharlal Nehru",
+        "obra": "The Discovery of India",
+        "ano": "1946",
+        "editora": "Oxford University Press",
+        "nota": "Fonte primária-secundária"
+      },
+      {
+        "autor": "Hermann Kulke e Dietmar Rothermund",
+        "obra": "A History of India",
+        "ano": "1986",
+        "editora": "Routledge"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Dharma Kumar (ed.)",
+        "obra": "The Cambridge Economic History of India",
+        "ano": "1982",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Jonathan Mark Kenoyer",
+        "obra": "Ancient Cities of the Indus Valley Civilization",
+        "ano": "1998",
+        "editora": "Oxford University Press"
+      }
+    ]
+  }
+}

@@ -168,6 +168,62 @@
         "aristócratas"
       ],
       "dataset": "data/dados-russia-pedro-catarina.json"
+    },
+    {
+      "id": "rpc1",
+      "nome": "Pedro I e a Ocidentalização Forçada",
+      "nome_en": "Pedro I e a Ocidentalização Forçada",
+      "nome_es": "Pedro I e a Ocidentalização Forçada",
+      "tipo": "pessoa",
+      "inicio": 1672,
+      "fim": 1725,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 17,
+      "type": "political",
+      "descricao": "Pedro I, o Grande (1672-1725) modernizou a Rússia à força: cortou as barbas dos nobres pessoalmente, obrigou o uso de roupas europeias, criou a Marinha, fundou São Petersburgo (em pântano, com 40.000 trabalhadores mortos). O lema: a Rússia deve ser europeia ou não existir.",
+      "descricao_en": "Pedro I, o Grande (1672-1725) modernizou a Rússia à força: cortou as barbas dos nobres pessoalmente, obrigou o uso de roupas europeias, criou a Marinha, fundou São Petersburgo (em pântano, com 40.000 trabalhadores mortos). O lema: a Rússia deve ser europeia ou não existir.",
+      "descricao_es": "Pedro I, o Grande (1672-1725) modernizou a Rússia à força: cortou as barbas dos nobres pessoalmente, obrigou o uso de roupas europeias, criou a Marinha, fundou São Petersburgo (em pântano, com 40.000 trabalhadores mortos). O lema: a Rússia deve ser europeia ou não existir.",
+      "importancia": "Pedro é o modelo de modernização autoritária: transformou a Rússia de feudalismo medieval para potência europeia em 36 anos. O custo - milhares de mortos na construção de São Petersburgo - demonstra que sua modernização era para o Estado, não para as pessoas.",
+      "importancia_en": "Pedro é o modelo de modernização autoritária: transformou a Rússia de feudalismo medieval para potência europeia em 36 anos. O custo - milhares de mortos na construção de São Petersburgo - demonstra que sua modernização era para o Estado, não para as pessoas.",
+      "importancia_es": "Pedro é o modelo de modernização autoritária: transformou a Rússia de feudalismo medieval para potência europeia em 36 anos. O custo - milhares de mortos na construção de São Petersburgo - demonstra que sua modernização era para o Estado, não para as pessoas.",
+      "tags": [
+        "Pedro I",
+        "Petersburgo",
+        "barbas",
+        "Marinha",
+        "ocidentalização",
+        "40.000"
+      ],
+      "dataset": "data/dados-russia-pedro-catarina.json"
+    },
+    {
+      "id": "rpc2",
+      "nome": "Catarina II e o Despotismo Esclarecido",
+      "nome_en": "Catarina II e o Despotismo Esclarecido",
+      "nome_es": "Catarina II e o Despotismo Esclarecido",
+      "tipo": "pessoa",
+      "inicio": 1729,
+      "fim": 1796,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 18,
+      "type": "political",
+      "descricao": "Catarina II, a Grande (1729-1796) foi a maior governante da Rússia após Pedro I: expandiu o território (Ucrânia, Polônia, Crimeia), correspondeu-se com Voltaire e Diderot, fundou a Hermitage. A revolta de Pugachev (1773-1775) assustou-a o suficiente para fortalecer o poder da nobreza - esquecendo as reformas liberais.",
+      "descricao_en": "Catarina II, a Grande (1729-1796) foi a maior governante da Rússia após Pedro I: expandiu o território (Ucrânia, Polônia, Crimeia), correspondeu-se com Voltaire e Diderot, fundou a Hermitage. A revolta de Pugachev (1773-1775) assustou-a o suficiente para fortalecer o poder da nobreza - esquecendo as reformas liberais.",
+      "descricao_es": "Catarina II, a Grande (1729-1796) foi a maior governante da Rússia após Pedro I: expandiu o território (Ucrânia, Polônia, Crimeia), correspondeu-se com Voltaire e Diderot, fundou a Hermitage. A revolta de Pugachev (1773-1775) assustou-a o suficiente para fortalecer o poder da nobreza - esquecendo as reformas liberais.",
+      "importancia": "Catarina demonstra a contradição do despotismo esclarecido: uma governante que admirava as ideias de liberdade de Voltaire enquanto reforçava a servidão de 34 milhões de camponeses russos.",
+      "importancia_en": "Catarina demonstra a contradição do despotismo esclarecido: uma governante que admirava as ideias de liberdade de Voltaire enquanto reforçava a servidão de 34 milhões de camponeses russos.",
+      "importancia_es": "Catarina demonstra a contradição do despotismo esclarecido: uma governante que admirava as ideias de liberdade de Voltaire enquanto reforçava a servidão de 34 milhões de camponeses russos.",
+      "tags": [
+        "Catarina II",
+        "Voltaire",
+        "Hermitage",
+        "Pugachev",
+        "servidão",
+        "Crimeia"
+      ],
+      "dataset": "data/dados-russia-pedro-catarina.json"
     }
   ],
   "relacoes": [

@@ -188,6 +188,34 @@
       "importancia_es": "A visão do indígena como 'bom selvagem' pacífico (Rousseau) ou 'bárbaro violento' (colonizadores) são igualmente distorcidas. As sociedades indígenas tinham política, diplomacia, guerra e paz — sistemas complexos que os europeus foram incapazes ou não quiseram compreender.",
       "century_start": -2,
       "century_end": 15
+    },
+    {
+      "id": "bpo1",
+      "nome": "A Diversidade Linguistica Indigena do Brasil",
+      "nome_en": "A Diversidade Linguistica Indigena do Brasil",
+      "nome_es": "A Diversidade Linguistica Indigena do Brasil",
+      "tipo": "cultural",
+      "inicio": -10000,
+      "fim": 1500,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 101,
+      "type": "cultural",
+      "descricao": "O Brasil tinha 1.200 linguas indigenas em 1500. Restam 274. As principais familias: Tupi-Guarani (costa), Je (cerrado), Carib e Arawak (Amazonia). O nheengatu e lingua oficial de Sao Gabriel da Cachoeira.",
+      "descricao_en": "O Brasil tinha 1.200 linguas indigenas em 1500. Restam 274. As principais familias: Tupi-Guarani (costa), Je (cerrado), Carib e Arawak (Amazonia). O nheengatu e lingua oficial de Sao Gabriel da Cachoeira.",
+      "descricao_es": "O Brasil tinha 1.200 linguas indigenas em 1500. Restam 274. As principais familias: Tupi-Guarani (costa), Je (cerrado), Carib e Arawak (Amazonia). O nheengatu e lingua oficial de Sao Gabriel da Cachoeira.",
+      "importancia": "A destruicao de 1.000+ linguas brasileiras em 500 anos e o maior genocidio cultural das Americas. Cada lingua perdida e uma forma unica de ver o mundo.",
+      "importancia_en": "A destruicao de 1.000+ linguas brasileiras em 500 anos e o maior genocidio cultural das Americas. Cada lingua perdida e uma forma unica de ver o mundo.",
+      "importancia_es": "A destruicao de 1.000+ linguas brasileiras em 500 anos e o maior genocidio cultural das Americas. Cada lingua perdida e uma forma unica de ver o mundo.",
+      "tags": [
+        "1.200 linguas",
+        "274",
+        "Tupi-Guarani",
+        "Je",
+        "nheengatu",
+        "diversidade"
+      ],
+      "dataset": "data/dados-brasil-01-povos-originarios.json"
     }
   ]
 }

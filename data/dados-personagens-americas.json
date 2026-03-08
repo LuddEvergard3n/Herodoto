@@ -124,66 +124,6 @@
       "region": "Americas"
     },
     {
-      "id": "pam-005",
-      "nome": "Zumbi dos Palmares",
-      "nome_en": "Zumbi of Palmares",
-      "nome_es": "Zumbi de los Palmares",
-      "nascimento": 1655,
-      "morte": 1695,
-      "regiao": "Americas",
-      "area": [
-        "resistência",
-        "política"
-      ],
-      "cargo": "Líder do Quilombo dos Palmares",
-      "epoca": "Pré-Moderna",
-      "descricao": "Nascido livre em Palmares, capturado criança, educado por frei português, fugiu de volta a Palmares aos 15 anos. Tornou-se líder militar e depois político de Palmares — quilombo com ~20.000 pessoas no que é hoje Alagoas. Resistiu por décadas às expedições coloniais portuguesas. Morreu em combate ou executado em novembro de 1695 — sua cabeça exposta em Recife para provar que não era imortal.",
-      "importancia": "Zumbi e Palmares representam a maior e mais duradoura resistência à escravidão nas Américas: quase 100 anos de Estado africano autônomo dentro do Brasil colonial. A Lei Áurea (1888) aboliu a escravidão, mas Palmares mostrou que os escravizados nunca aceitaram sua condição passivamente. O 20 de novembro (morte de Zumbi) é o Dia da Consciência Negra no Brasil.",
-      "eventos": [],
-      "tags": [
-        "brasil",
-        "quilombo",
-        "escravidão",
-        "resistência",
-        "palmares",
-        "consciência-negra"
-      ],
-      "type": "person",
-      "inicio": 1655,
-      "fim": 1695,
-      "region": "Americas"
-    },
-    {
-      "id": "pam-006",
-      "nome": "D. Pedro II",
-      "nome_en": "Emperor Pedro II",
-      "nome_es": "Pedro II de Brasil",
-      "nascimento": 1825,
-      "morte": 1891,
-      "regiao": "Americas",
-      "area": [
-        "política",
-        "ciência"
-      ],
-      "cargo": "Imperador do Brasil",
-      "epoca": "Séc. XIX",
-      "descricao": "Coroado aos 14 anos, governou o Brasil por 58 anos (1831-1889) — o mais longo de qualquer governante das Américas. Falava 14 idiomas, era cientista amador, correspondente de Darwin, Pasteur e Longfellow. Abolicionista convicto (mas lento), assinou a Lei Áurea em 1888 por mão da filha Isabel. Deposto pelo golpe republicano de 1889, morreu exilado em Paris.",
-      "importancia": "D. Pedro II é o único governante da história que foi deposto em parte por ter abolido a escravidão — os fazendeiros que perderam sua 'propriedade' apoiaram o golpe republicano. É também o caso mais claro de modernidade contraditória: um monarca esclarecido que pessoalmente liberou escravos mas dependia de um sistema escravocrata para financiar seu governo. A República que o substituiu não foi mais democrática.",
-      "eventos": [],
-      "tags": [
-        "brasil",
-        "império",
-        "abolição",
-        "ciência",
-        "pedro-II",
-        "monarquia"
-      ],
-      "type": "person",
-      "inicio": 1825,
-      "fim": 1891,
-      "region": "Americas"
-    },
-    {
       "id": "pam-007",
       "nome": "Frida Kahlo",
       "nome_en": "Frida Kahlo",
@@ -338,96 +278,6 @@
       "region": "Americas"
     },
     {
-      "id": "pa780",
-      "nome": "Harriet Tubman",
-      "nome_en": "Harriet Tubman",
-      "nome_es": "Harriet Tubman",
-      "nascimento": 1822,
-      "morte": 1913,
-      "regiao": "Americas",
-      "area": [
-        "ativismo",
-        "resistência",
-        "militar"
-      ],
-      "cargo": "Abolicionista e Espiã",
-      "epoca": "Séc. XIX",
-      "descricao": "Nascida escrava em Maryland, fugiu para o Norte em 1849. Voltou ao Sul 13 vezes para libertar mais de 70 escravizados pela Estrada de Ferro Subterrânea. Durante a Guerra Civil, espionou para a União e liderou o Raid Combahee (1863) — libertando 700 escravizados numa operação militar. Viveu até os 91 anos, lutando depois pelo sufrágio feminino.",
-      "importancia": "Harriet Tubman é o símbolo do abolicionismo ativo — não apenas discurso, mas ação de risco pessoal enorme. Sua coragem em retornar ao Sul depois de livre, arriscando recaptura, contrasta com o abolicionismo confortável dos salões. Buscada por recompensa de 40.000 dólares, nunca foi capturada. Será a figura no bilhete de 20 dólares americano — uma das honras mais significativas da história dos EUA.",
-      "eventos": [],
-      "tags": [
-        "escravidão",
-        "abolição",
-        "eua",
-        "resistência",
-        "mulher",
-        "negro",
-        "tubman"
-      ],
-      "type": "person",
-      "inicio": 1822,
-      "fim": 1913,
-      "region": "Americas"
-    },
-    {
-      "id": "pa989",
-      "nome": "Moctezuma II",
-      "nome_en": "Moctezuma II",
-      "nome_es": "Moctezuma II",
-      "nascimento": 1466,
-      "morte": 1520,
-      "inicio": 1466,
-      "fim": 1520,
-      "regiao": "Americas",
-      "region": "Americas",
-      "area": [
-        "política",
-        "guerra"
-      ],
-      "cargo": "Imperador Asteca",
-      "epoca": "Expansão e Contato",
-      "type": "person",
-      "descricao": "Nono tlatoani (governante) do Império Asteca no momento da chegada de Hernán Cortés. Recebeu os espanhóis com presentes e cerimônias — possivelmente confundindo Cortés com o deus Quetzalcóatl —, mas foi feito refém e morreu em circunstâncias obscuras (espanhóis dizem lapidação pelos próprios astecas; fontes astecas dizem assassinato pelos espanhóis).",
-      "importancia": "A queda de Moctezuma II em 1520 marca um dos pontos de inflexão mais dramáticos da história: o fim de um império de 5 milhões de pessoas em menos de dois anos. Seu dilema — resistir ou cooperar — definiu o colapso asteca e continua a debater-se: foi fraqueza, estratégia, ou simplesmente o peso esmagador das circunstâncias?",
-      "eventos": [],
-      "tags": [
-        "astecas",
-        "tenochtitlan",
-        "cortés",
-        "conquista",
-        "mesoamérica"
-      ]
-    },
-    {
-      "id": "pam-014",
-      "nome": "Simón Bolívar",
-      "nome_en": "Simón Bolívar",
-      "nome_es": "Simón Bolívar",
-      "nascimento": 1783,
-      "morte": 1830,
-      "inicio": 1783,
-      "fim": 1830,
-      "regiao": "Americas",
-      "region": "Americas",
-      "area": [
-        "política",
-        "guerra"
-      ],
-      "cargo": "Libertador",
-      "epoca": "Independências Latino-Americanas",
-      "type": "person",
-      "descricao": "Militar e político venezuelano que liderou a independência de seis países sul-americanos: Venezuela, Colômbia, Equador, Peru, Bolívia e Panamá. Chamado 'O Libertador', sonhava com uma grande federação sul-americana — a Gran Colombia — que se fragmentou ainda em vida.",
-      "importancia": "Bolívar encarnou a contradição fundamental do liberalismo latino-americano: lutou pela liberdade mas governou como ditador. Seu fracasso em unir a América do Sul moldou a fragmentação política do continente até hoje — cada república ex-bolivariana ainda carrega as cicatrizes de suas guerras civis pós-independência.",
-      "eventos": [],
-      "tags": [
-        "independência",
-        "venezuela",
-        "gran-colombia",
-        "libertador",
-        "napoleão"
-      ]
-    },
-    {
       "id": "pam-015",
       "nome": "Frederick Douglass",
       "nome_en": "Frederick Douglass",
@@ -484,36 +334,6 @@
         "poesia",
         "barroco",
         "religião"
-      ]
-    },
-    {
-      "id": "pam-017",
-      "nome": "Tupac Amaru II",
-      "nome_en": "Túpac Amaru II",
-      "nome_es": "Túpac Amaru II",
-      "nascimento": 1738,
-      "morte": 1781,
-      "inicio": 1738,
-      "fim": 1781,
-      "regiao": "Americas",
-      "region": "Americas",
-      "area": [
-        "política",
-        "guerra"
-      ],
-      "cargo": "Líder Indígena",
-      "epoca": "Era Colonial",
-      "type": "person",
-      "descricao": "José Gabriel Condorcanqui, descendente do último Inca, liderou a maior revolta indígena do Peru colonial (1780–1781), mobilizando 60.000 pessoas contra o domínio espanhol. Capturado, foi executado de forma brutal: os espanhóis tentaram esquartejá-lo com quatro cavalos — seu corpo recusou-se a ceder.",
-      "importancia": "A rebelião de Túpac Amaru II assustou tanto Madrid que precipitou reformas do Império Espanhol e inspirou movimentos de independência. Seu nome continua símbolo de resistência indígena: foi adotado pelo movimento guerrilheiro peruano MRTA no século XX e pelo rapper Tupac Shakur, que o recebeu da mãe ativista.",
-      "eventos": [],
-      "tags": [
-        "peru",
-        "inca",
-        "revolta",
-        "colonial",
-        "espanha",
-        "indígenas"
       ]
     },
     {

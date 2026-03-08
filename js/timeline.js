@@ -16,6 +16,8 @@ const ALL_DATASETS = [
   "data/dados-mesopotamia-classica.json","data/dados-mesopotamia-hebreus-fenicios.json","data/dados-mesopotamia.json",
   "data/dados-sumeria-cidades.json","data/dados-sumeria-expandida.json","data/dados-sumeria-religiao-legado.json",
   "data/dados-sumeria.json",
+    "data/dados-sudeste-asiatico.json",
+    "data/dados-sudeste-continental.json",
   // ── Egito ──
   "data/dados-egito-antigo.json","data/dados-egito-novo-reino.json","data/dados-egito-reinos-antigo-medio.json",
   "data/dados-egito-tardio.json",
@@ -23,66 +25,83 @@ const ALL_DATASETS = [
   "data/dados-india-antiga.json","data/dados-india-vedica-maurya.json","data/dados-persia-antiga.json",
   "data/dados-persia-expandida.json","data/dados-persia-zoroastrismo-cultura.json","data/dados-persia.json",
   // ── Grécia ──
+  "data/dados-grecia-helenismo.json",
   "data/dados-grecia-alexandre.json","data/dados-grecia-antiga.json","data/dados-grecia-atenas.json",
   "data/dados-grecia-cultura.json","data/dados-grecia-esparta.json","data/dados-grecia-filosofia.json",
   "data/dados-grecia-guerras.json","data/dados-helenismo-ciencia.json","data/dados-personagens-grecia-roma.json",
   // ── Roma ──
-  "data/dados-personagens-grecia-roma.json","data/dados-queda-roma.json","data/dados-roma-antiga.json",
+  "data/dados-roma-emperadores.json","data/dados-roma-crise-terceiro-seculo.json","data/dados-roma-queda-ocidente.json","data/dados-roma-teologia-direito.json",
+  "data/dados-queda-roma.json","data/dados-roma-antiga.json",
   "data/dados-roma-cultura.json","data/dados-roma-exercito.json","data/dados-roma-imperial.json",
   "data/dados-roma-republica.json","data/dados-roma-sociedade.json",
   // ── Filosofia e Pensamento ──
   "data/dados-china-filosofia.json","data/dados-existencialismo.json","data/dados-filosofia-antiga.json",
-  "data/dados-filosofia-medieval.json","data/dados-filosofia-racionalismo.json","data/dados-grecia-filosofia.json",
+  "data/dados-filosofia-medieval.json","data/dados-filosofia-racionalismo.json",
   "data/dados-iluminismo.json","data/dados-personagens-iluminismo-revolucoes.json",
   // ── Idade Média Europa ──
+  "data/dados-vikings.json","data/dados-carlomagno.json","data/dados-peste-negra.json","data/dados-guerra-cem-anos.json","data/dados-humanismo-erasmo.json",
   "data/dados-bizantino-medieval.json","data/dados-castelos-cavalaria.json","data/dados-cruzadas-expandido.json",
-  "data/dados-cruzadas.json","data/dados-europa-medieval-aprofundada.json","data/dados-filosofia-medieval.json",
+  "data/dados-cruzadas.json","data/dados-europa-medieval-aprofundada.json",
   "data/dados-idade-media-europeia.json","data/dados-igreja-medieval-cultura.json","data/dados-india-medieval-moderna.json",
   "data/dados-india-medieval.json","data/dados-medieval-cidades-universidades.json","data/dados-medieval-feudalismo.json",
   "data/dados-personagens-medieval.json",
   // ── Igreja ──
+  "data/dados-reforma-calvino.json","data/dados-contrarreforma.json","data/dados-guerras-religiao.json",
   "data/dados-concilios-ecumenicos.json","data/dados-igreja-ciencia.json","data/dados-igreja-escravidao.json",
-  "data/dados-igreja-fundacao.json","data/dados-igreja-medieval-cultura.json","data/dados-inquisicao.json",
+  "data/dados-igreja-fundacao.json","data/dados-inquisicao.json",
   "data/dados-lutero-reforma.json","data/dados-reforma-protestante.json","data/dados-reformas-religiosas.json",
   // ── Era Moderna Europa ──
+  "data/dados-habsburgos.json","data/dados-franca-ancien-regime.json","data/dados-ingles-revolucao.json","data/dados-holanda-seculo-de-ouro.json","data/dados-guerra-trinta-anos.json","data/dados-austria-prussia.json",
   "data/dados-absolutismo.json","data/dados-ciencia-tecnologia.json","data/dados-era-moderna.json",
   "data/dados-movimentos-arte.json","data/dados-navegacoes.json","data/dados-personagens-renascimento-reforma.json",
   "data/dados-renascimento-cultural.json","data/dados-renascimento-italiano.json","data/dados-renascimento-norte.json",
   "data/dados-revolucao-cientifica.json",
+  // ── Iluminismo ──
+  "data/dados-iluminismo-frances.json","data/dados-iluminismo-britanico.json","data/dados-iluminismo-alemao.json",
   // ── Revoluções e Séc. XIX ──
+  "data/dados-napoleao-europa.json","data/dados-congresso-viena.json","data/dados-revolucoes-1848.json","data/dados-unificacao-italia.json","data/dados-unificacao-alemanha.json","data/dados-belle-epoque.json","data/dados-imperialismo-britanico.json","data/dados-industrializacao-europa.json","data/dados-imperialismo-frances.json",
   "data/dados-capitalismo.json","data/dados-guerras-napoleonicas.json","data/dados-imperialismo-colonial.json",
   "data/dados-movimentos-sociais.json","data/dados-nacionalismo-europeu.json","data/dados-personagens-seculo-xix.json",
   "data/dados-revolucao-francesa.json","data/dados-revolucao-industrial.json","data/dados-revolucoes-liberais.json",
   "data/dados-seculo-xix.json","data/dados-socialismo-trabalho.json",
   // ── Rússia ──
+  "data/dados-russia-imperio.json",
   "data/dados-revolucao-russa.json","data/dados-russia-czarismo.json","data/dados-russia-pedro-catarina.json",
   // ── Guerras Mundiais e Guerra Fria ──
+  "data/dados-frente-ocidental-1914.json","data/dados-tratado-versalhes.json","data/dados-republica-weimar.json","data/dados-nazismo.json","data/dados-fascismo-italiano.json","data/dados-guerra-civil-espanhola.json","data/dados-frente-oriental.json","data/dados-holocaust.json",
   "data/dados-entreguerras.json","data/dados-eua-guerra-fria.json","data/dados-eua-new-deal-guerra-fria.json",
   "data/dados-guerra-fria.json","data/dados-holocausto.json","data/dados-pos-guerra-fria.json",
   "data/dados-primeira-guerra.json","data/dados-segunda-guerra.json",
+  // ── Europa Pós-Guerra ──
+  "data/dados-europa-pos-guerra.json","data/dados-uniao-europeia.json","data/dados-guerra-fria-europa.json","data/dados-desintegracao-urss.json","data/dados-balcas-guerras.json","data/dados-europa-contemporanea.json","data/dados-1968-europa.json",
   // ── China ──
-  "data/dados-china-antiga.json","data/dados-china-filosofia.json","data/dados-china-imperial.json",
+  "data/dados-china-antiga.json","data/dados-china-imperial.json",
   "data/dados-china-mao-revolucao.json","data/dados-china-ming-exploracoes.json","data/dados-china-ming.json",
-  "data/dados-china-neolitico.json","data/dados-china-prc.json","data/dados-china-qin-han.json",
+  "data/dados-china-prc.json","data/dados-china-qin-han.json",
   "data/dados-china-qing-sociedade.json","data/dados-china-qing.json","data/dados-china-republica.json",
   "data/dados-china-shang-zhou.json","data/dados-china-song-ciencia.json","data/dados-china-song-yuan.json",
   "data/dados-china-tang.json","data/dados-china-tres-reinos.json",
+  // ── Coreia (extra) ──
+  "data/dados-coreia.json",
   // ── Japão ──
   "data/dados-japao-antigo.json","data/dados-japao-arcaico.json","data/dados-japao-feudal.json",
   "data/dados-japao-meiji.json","data/dados-japao-moderno.json","data/dados-japao-sengoku.json",
+    "data/dados-japao.json",
   // ── Coreia ──
   "data/dados-coreia-antiga.json","data/dados-coreia-joseon.json","data/dados-coreia-moderna.json",
   // ── Índia ──
-  "data/dados-india-antiga.json","data/dados-india-britanica.json","data/dados-india-medieval-moderna.json",
-  "data/dados-india-medieval.json","data/dados-india-mogol.json","data/dados-india-vedica-maurya.json",
+  "data/dados-india-britanica.json",
+  "data/dados-india-mogol.json",
   // ── Islã e Oriente Médio ──
-  "data/dados-al-andalus.json","data/dados-arabia-pre-islamica.json","data/dados-arabia-saudita.json",
+  "data/dados-al-andalus.json","data/dados-arabia-saudita.json",
   "data/dados-asia-central.json","data/dados-califados-islamicos.json","data/dados-expansao-isla.json",
   "data/dados-imperio-otomano.json","data/dados-iran-moderno.json","data/dados-isla-fragmentacao.json",
   "data/dados-isla-origens.json","data/dados-islao-fundacao.json","data/dados-israel-palestina.json",
   "data/dados-mongois-asia-central.json","data/dados-oriente-medio-moderno.json","data/dados-turquia-moderna.json",
   // ── Sudeste Asiático ──
   "data/dados-sudeste-asiatico-colonial.json","data/dados-sudeste-asiatico-continental.json","data/dados-sudeste-asiatico-maritimo.json",
+  // ── Egito (extra) ──
+  "data/dados-egito-reinos.json",
   // ── África ──
   "data/dados-africa-centro-sul.json","data/dados-africa-norte.json","data/dados-africa-ocidental.json",
   "data/dados-africa-oriental.json","data/dados-africa-pre-colonial.json","data/dados-descolonizacao-guerras.json",
@@ -98,10 +117,11 @@ const ALL_DATASETS = [
   // ── EUA e Caribe ──
   "data/dados-americas-coloniais.json","data/dados-caribe-colonial.json","data/dados-eua-colonias.json",
   "data/dados-eua-contemporaneo.json","data/dados-eua-expansao-civil.json","data/dados-eua-fundacao.json",
-  "data/dados-eua-gilded-age.json","data/dados-eua-guerra-civil.json","data/dados-eua-guerra-fria.json",
+  "data/dados-eua-gilded-age.json","data/dados-eua-guerra-civil.json",
   "data/dados-eua-guerras-mundiais.json","data/dados-eua-historia.json","data/dados-eua-industrializacao.json",
-  "data/dados-eua-new-deal-guerra-fria.json","data/dados-eua-seculo-xx.json","data/dados-independencias-america-latina.json",
+  "data/dados-eua-seculo-xx.json","data/dados-independencias-america-latina.json",
   "data/dados-povos-nativos-norte.json",
+    "data/dados-eua-seculo20.json",
   // ── Brasil — 16 Períodos ──
   "data/dados-brasil-01-povos-originarios.json","data/dados-brasil-02-pre-colonial.json","data/dados-brasil-03-capitanias.json",
   "data/dados-brasil-04-governo-geral.json","data/dados-brasil-05-uniao-iberica.json","data/dados-brasil-06-bandeirismo.json",
@@ -110,6 +130,15 @@ const ALL_DATASETS = [
   "data/dados-brasil-13-era-vargas.json","data/dados-brasil-14-populismo.json","data/dados-brasil-15-ditadura.json",
   "data/dados-brasil-16-nova-republica.json",
   // ── Brasil — Temáticos ──
+  "data/dados-personagens-brasil.json",
+  "data/dados-brasil-revoltas-republica.json",
+  "data/dados-brasil-republica.json",
+  "data/dados-brasil-imperio.json",
+  "data/dados-brasil-era-vargas.json",
+  "data/dados-brasil-ditadura.json",
+  "data/dados-brasil-colonial-tardio.json",
+  "data/dados-brasil-colonial-inicial.json",
+  "data/dados-brasil-ciclos-economicos.json",
   "data/dados-brasil-colonial-escravidao.json","data/dados-brasil-contemporaneo.json","data/dados-brasil-cultura-arte.json",
   "data/dados-brasil-economia-social.json","data/dados-brasil-guerra-paraguai.json","data/dados-brasil-imperio-ciencia.json",
   "data/dados-brasil-imperio-figuras.json","data/dados-brasil-imperio-infraestrutura.json","data/dados-brasil-inconfidencia.json",
@@ -119,13 +148,16 @@ const ALL_DATASETS = [
   // ── Antártida ──
   "data/dados-antartica-descoberta.json","data/dados-antartica-moderna.json",
   // ── Mongóis ──
-  "data/dados-mongois-asia-central.json","data/dados-mongois-conquistas.json","data/dados-mongois-gengis.json",
+  "data/dados-mongois-conquistas.json","data/dados-mongois-gengis.json",
   // ── Personalidades ──
-  "data/dados-personagens-africa-oriente.json","data/dados-personagens-americas.json","data/dados-personagens-asia.json",
-  "data/dados-personagens-biblicas.json","data/dados-personagens-ciencia-pensamento.json","data/dados-personagens-grecia-roma.json",
-  "data/dados-personagens-iluminismo-revolucoes.json","data/dados-personagens-medieval.json","data/dados-personagens-oriente-antigo.json",
-  "data/dados-personagens-renascimento-reforma.json","data/dados-personagens-seculo-xix.json","data/dados-personagens-seculo-xx-guerras.json",
+  "data/dados-personagens-americas.json","data/dados-personagens-asia.json",
+  "data/dados-personagens-biblicas.json","data/dados-personagens-ciencia-pensamento.json",
+  "data/dados-personagens-oriente-antigo.json",
+  "data/dados-personagens-seculo-xx-guerras.json",
   "data/dados-personagens-mulheres.json","data/dados-personagens-filosofia-oriental.json","data/dados-personagens-seculo-xx.json",
+    "data/dados-personagens-europa-moderna.json",
+    "data/dados-carolingios.json",
+    "data/dados-filosofia-moderna.json",
   // ── Outros ──
   "data/dados-america-latina-sec20.json","data/dados-religioes-mundo.json","data/dados-revolucoes-sec18.json",
 ];

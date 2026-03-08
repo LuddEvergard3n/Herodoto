@@ -171,6 +171,62 @@
         "hiragana"
       ],
       "dataset": "data/dados-japao-arcaico.json"
+    },
+    {
+      "id": "jar1",
+      "nome": "O Período Nara e o Budismo Imperial",
+      "nome_en": "O Período Nara e o Budismo Imperial",
+      "nome_es": "O Período Nara e o Budismo Imperial",
+      "tipo": "periodo",
+      "inicio": 710,
+      "fim": 794,
+      "region": "Asia",
+      "period": "Medieval",
+      "century_start": 8,
+      "type": "religious",
+      "descricao": "O período Nara (710-794) foi o auge da influência chinesa no Japão: capital modeled em Chang-an, budismo como religião de Estado, sistema de escrita kana derivado do chinês, código jurídico Tang adaptado. O Templo Todai-ji (749) abriga o maior Buda de bronze do mundo.",
+      "descricao_en": "O período Nara (710-794) foi o auge da influência chinesa no Japão: capital modeled em Chang-an, budismo como religião de Estado, sistema de escrita kana derivado do chinês, código jurídico Tang adaptado. O Templo Todai-ji (749) abriga o maior Buda de bronze do mundo.",
+      "descricao_es": "O período Nara (710-794) foi o auge da influência chinesa no Japão: capital modeled em Chang-an, budismo como religião de Estado, sistema de escrita kana derivado do chinês, código jurídico Tang adaptado. O Templo Todai-ji (749) abriga o maior Buda de bronze do mundo.",
+      "importancia": "Nara demonstra que o Japão foi durante séculos um estudante dedicado da civilização chinesa - antes de desenvolver sua própria identidade única. A capacidade japonesa de aprender e adaptar é sua maior característica histórica.",
+      "importancia_en": "Nara demonstra que o Japão foi durante séculos um estudante dedicado da civilização chinesa - antes de desenvolver sua própria identidade única. A capacidade japonesa de aprender e adaptar é sua maior característica histórica.",
+      "importancia_es": "Nara demonstra que o Japão foi durante séculos um estudante dedicado da civilização chinesa - antes de desenvolver sua própria identidade única. A capacidade japonesa de aprender e adaptar é sua maior característica histórica.",
+      "tags": [
+        "Nara",
+        "710",
+        "Chang-an",
+        "budismo",
+        "Todai-ji",
+        "kana"
+      ],
+      "dataset": "data/dados-japao-arcaico.json"
+    },
+    {
+      "id": "jar2",
+      "nome": "O Período Heian e a Literatura das Mulheres",
+      "nome_en": "O Período Heian e a Literatura das Mulheres",
+      "nome_es": "O Período Heian e a Literatura das Mulheres",
+      "tipo": "cultural",
+      "inicio": 794,
+      "fim": 1185,
+      "region": "Asia",
+      "period": "Medieval",
+      "century_start": 9,
+      "type": "cultural",
+      "descricao": "O período Heian (794-1185) foi o auge da cultura aristocrática japonesa: Kyoto como capital, hiragana criado pelas mulheres aristocratas, Genji Monogatari de Murasaki Shikibu (c. 1000) - o primeiro romance psicológico da história. As mulheres aristocratas produziram a maior literatura heiana enquanto os homens escreviam em chinês.",
+      "descricao_en": "O período Heian (794-1185) foi o auge da cultura aristocrática japonesa: Kyoto como capital, hiragana criado pelas mulheres aristocratas, Genji Monogatari de Murasaki Shikibu (c. 1000) - o primeiro romance psicológico da história. As mulheres aristocratas produziram a maior literatura heiana enquanto os homens escreviam em chinês.",
+      "descricao_es": "O período Heian (794-1185) foi o auge da cultura aristocrática japonesa: Kyoto como capital, hiragana criado pelas mulheres aristocratas, Genji Monogatari de Murasaki Shikibu (c. 1000) - o primeiro romance psicológico da história. As mulheres aristocratas produziram a maior literatura heiana enquanto os homens escreviam em chinês.",
+      "importancia": "Genji Monogatari é o primeiro romance psicológico da história - 700 anos antes de Richardson. Que tenha sido escrito por uma mulher numa língua desprezada pelos homens é a maior ironia da história literária.",
+      "importancia_en": "Genji Monogatari é o primeiro romance psicológico da história - 700 anos antes de Richardson. Que tenha sido escrito por uma mulher numa língua desprezada pelos homens é a maior ironia da história literária.",
+      "importancia_es": "Genji Monogatari é o primeiro romance psicológico da história - 700 anos antes de Richardson. Que tenha sido escrito por uma mulher numa língua desprezada pelos homens é a maior ironia da história literária.",
+      "tags": [
+        "Heian",
+        "794",
+        "Kyoto",
+        "Genji",
+        "Murasaki",
+        "hiragana"
+      ],
+      "dataset": "data/dados-japao-arcaico.json"
     }
   ],
   "relacoes": [

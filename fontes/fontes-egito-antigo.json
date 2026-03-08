@@ -1,0 +1,136 @@
+{
+  "tema": "Egito Antigo",
+  "descricao": "Antigo, Médio e Novo Reinos; Período Tardio; faraós e cultura egípcia",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Livro dos Mortos",
+        "ano": "c. 1550–50 a.C.",
+        "nota": "Ed. recomendada: E. A. Wallis Budge, British Museum Press"
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Textos das Pirâmides",
+        "ano": "c. 2400–2300 a.C.",
+        "nota": "Ed. recomendada: R. O. Faulkner, Oxford"
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Papiro de Ipuwer (Lamentações de Ipuwer)",
+        "ano": "c. 1850 a.C."
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Pedra de Roseta",
+        "ano": "196 a.C.",
+        "nota": "British Museum; chave para a decifração dos hieróglifos"
+      },
+      {
+        "autor": "Heródoto",
+        "obra": "Histórias (Livro II — sobre o Egito)",
+        "ano": "c. 440 a.C.",
+        "nota": "Penguin Classics"
+      },
+      {
+        "autor": "Manetão (via Júlio Africano)",
+        "obra": "Aegyptiaca (Listas Reais)",
+        "ano": "c. 270 a.C.",
+        "nota": "Fonte para a cronologia das dinastias"
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Inscrições de Deir el-Bahari (Hatshepsut)",
+        "ano": "c. 1470 a.C."
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Barry J. Kemp",
+        "obra": "Ancient Egypt: Anatomy of a Civilization",
+        "ano": "1989",
+        "editora": "Routledge"
+      },
+      {
+        "autor": "Ian Shaw (ed.)",
+        "obra": "The Oxford History of Ancient Egypt",
+        "ano": "2000",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Bruce G. Trigger et al.",
+        "obra": "Ancient Egypt: A Social History",
+        "ano": "1983",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Cyril Aldred",
+        "obra": "Akhenaten: King of Egypt",
+        "ano": "1988",
+        "editora": "Thames and Hudson"
+      },
+      {
+        "autor": "Joyce Tyldesley",
+        "obra": "Hatchepsut: The Female Pharaoh",
+        "ano": "1996",
+        "editora": "Viking"
+      },
+      {
+        "autor": "T. G. H. James",
+        "obra": "Pharaoh's People: Scenes from Life in Imperial Egypt",
+        "ano": "1984",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Nicolas Grimal",
+        "obra": "A History of Ancient Egypt",
+        "ano": "1992",
+        "editora": "Blackwell"
+      },
+      {
+        "autor": "Aidan Dodson",
+        "obra": "Amarna Sunrise: Egypt from Golden Age to Age of Heresy",
+        "ano": "2014",
+        "editora": "The American University in Cairo Press"
+      },
+      {
+        "autor": "Gay Robins",
+        "obra": "The Art of Ancient Egypt",
+        "ano": "1997",
+        "editora": "British Museum Press"
+      },
+      {
+        "autor": "John Baines e Jaromír Málek",
+        "obra": "Atlas of Ancient Egypt",
+        "ano": "1980",
+        "editora": "Facts on File"
+      },
+      {
+        "autor": "Zahi Hawass",
+        "obra": "Silent Images: Women in Pharaonic Egypt",
+        "ano": "2000",
+        "editora": "Abrams"
+      },
+      {
+        "autor": "Toby Wilkinson",
+        "obra": "The Rise and Fall of Ancient Egypt",
+        "ano": "2010",
+        "editora": "Bloomsbury"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Jan Assmann",
+        "obra": "The Mind of Egypt",
+        "ano": "2002",
+        "editora": "Metropolitan Books"
+      },
+      {
+        "autor": "Joann Fletcher",
+        "obra": "The Story of Egypt",
+        "ano": "2015",
+        "editora": "Hodder & Stoughton"
+      }
+    ]
+  }
+}

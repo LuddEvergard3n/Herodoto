@@ -1,0 +1,143 @@
+{
+  "tema": "Guerras Mundiais, Nazismo e Holocausto",
+  "descricao": "Primeira Guerra, Segunda Guerra, fascismo, nazismo, Holocausto, Japão imperial, Hiroshima",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Adolf Hitler",
+        "obra": "Mein Kampf (Minha Luta)",
+        "ano": "1925–1926",
+        "nota": "Fonte ideológica primária; leitura crítica necessária"
+      },
+      {
+        "autor": "Benito Mussolini",
+        "obra": "A Doutrina do Fascismo",
+        "ano": "1932"
+      },
+      {
+        "autor": "Elie Wiesel",
+        "obra": "A Noite",
+        "ano": "1958",
+        "editora": "Edições 70",
+        "nota": "Testemunho do Holocausto; Nobel da Paz 1986"
+      },
+      {
+        "autor": "Primo Levi",
+        "obra": "É Isto um Homem?; A Trégua",
+        "ano": "1947–1963",
+        "editora": "Rocco"
+      },
+      {
+        "autor": "Anne Frank",
+        "obra": "O Diário de Anne Frank",
+        "ano": "1947",
+        "editora": "Record"
+      },
+      {
+        "autor": "Winston Churchill",
+        "obra": "Memórias da Segunda Guerra Mundial (6 vols.)",
+        "ano": "1948–1954",
+        "nota": "Nobel de Literatura 1953"
+      },
+      {
+        "autor": "Erich Maria Remarque",
+        "obra": "Nada de Novo no Front",
+        "ano": "1929",
+        "editora": "L&PM"
+      },
+      {
+        "autor": "Tribunal de Nuremberg",
+        "obra": "Trial of the Major War Criminals before the International Military Tribunal (42 vols.)",
+        "ano": "1947–1949"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "John Keegan",
+        "obra": "The First World War",
+        "ano": "1998",
+        "editora": "Hutchinson"
+      },
+      {
+        "autor": "John Keegan",
+        "obra": "The Second World War",
+        "ano": "1989",
+        "editora": "Hutchinson"
+      },
+      {
+        "autor": "Ian Kershaw",
+        "obra": "Hitler: 1889–1936 Hubris; 1936–1945 Nemesis",
+        "ano": "1998–2000",
+        "editora": "Allen Lane"
+      },
+      {
+        "autor": "Richard J. Evans",
+        "obra": "The Third Reich Trilogy (3 vols.)",
+        "ano": "2003–2008",
+        "editora": "Allen Lane"
+      },
+      {
+        "autor": "Christopher R. Browning",
+        "obra": "Ordinary Men: Reserve Police Battalion 101",
+        "ano": "1992",
+        "editora": "HarperCollins"
+      },
+      {
+        "autor": "Raul Hilberg",
+        "obra": "The Destruction of the European Jews (3 vols.)",
+        "ano": "1961",
+        "editora": "Quadrangle Books"
+      },
+      {
+        "autor": "Mark Mazower",
+        "obra": "Hitler's Empire: How the Nazis Ruled Europe",
+        "ano": "2008",
+        "editora": "Penguin Press"
+      },
+      {
+        "autor": "Margaret MacMillan",
+        "obra": "Paris 1919",
+        "ano": "2001",
+        "editora": "Random House"
+      },
+      {
+        "autor": "Richard Overy",
+        "obra": "Why the Allies Won",
+        "ano": "1995",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "Antony Beevor",
+        "obra": "Stalingrad; Berlin: The Downfall 1945",
+        "ano": "1998–2002",
+        "editora": "Viking"
+      },
+      {
+        "autor": "Michael Burleigh",
+        "obra": "The Third Reich: A New History",
+        "ano": "2000",
+        "editora": "Macmillan"
+      },
+      {
+        "autor": "Michael R. Marrus",
+        "obra": "The Holocaust in History",
+        "ano": "1987",
+        "editora": "University Press of New England"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Hannah Arendt",
+        "obra": "Origens do Totalitarismo",
+        "ano": "1951",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Daniel J. Goldhagen",
+        "obra": "Hitler's Willing Executioners",
+        "ano": "1996",
+        "editora": "Knopf"
+      }
+    ]
+  }
+}

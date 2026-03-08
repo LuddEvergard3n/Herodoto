@@ -173,6 +173,62 @@
         "Jordânia"
       ],
       "dataset": "data/dados-mesopotamia-hebreus-fenicios.json"
+    },
+    {
+      "id": "mhf1",
+      "nome": "Moisés e o Êxodo: História ou Mito?",
+      "nome_en": "Moisés e o Êxodo: História ou Mito?",
+      "nome_es": "Moisés e o Êxodo: História ou Mito?",
+      "tipo": "cultural",
+      "inicio": -1300,
+      "fim": -1200,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 14,
+      "type": "religious",
+      "descricao": "O Êxodo (c. 1300-1200 a.C.?) não tem confirmação arqueológica direta: nenhum papiro egípcio menciona os hebreus no Egito, nenhum rastro de 40 anos no deserto do Sinai. Mas as estruturas narrativas são plausíveis. O Pentateuco foi provavelmente escrito durante o Exílio Babilônico (586-538 a.C.) - 700 anos depois.",
+      "descricao_en": "O Êxodo (c. 1300-1200 a.C.?) não tem confirmação arqueológica direta: nenhum papiro egípcio menciona os hebreus no Egito, nenhum rastro de 40 anos no deserto do Sinai. Mas as estruturas narrativas são plausíveis. O Pentateuco foi provavelmente escrito durante o Exílio Babilônico (586-538 a.C.) - 700 anos depois.",
+      "descricao_es": "O Êxodo (c. 1300-1200 a.C.?) não tem confirmação arqueológica direta: nenhum papiro egípcio menciona os hebreus no Egito, nenhum rastro de 40 anos no deserto do Sinai. Mas as estruturas narrativas são plausíveis. O Pentateuco foi provavelmente escrito durante o Exílio Babilônico (586-538 a.C.) - 700 anos depois.",
+      "importancia": "A questão arqueológica do Êxodo demonstra que a verdade religiosa e a verdade histórica são diferentes mas igualmente válidas: o Êxodo pode não ter acontecido como narrado e ainda ser o texto formador mais influente da civilização ocidental.",
+      "importancia_en": "A questão arqueológica do Êxodo demonstra que a verdade religiosa e a verdade histórica são diferentes mas igualmente válidas: o Êxodo pode não ter acontecido como narrado e ainda ser o texto formador mais influente da civilização ocidental.",
+      "importancia_es": "A questão arqueológica do Êxodo demonstra que a verdade religiosa e a verdade histórica são diferentes mas igualmente válidas: o Êxodo pode não ter acontecido como narrado e ainda ser o texto formador mais influente da civilização ocidental.",
+      "tags": [
+        "Moisés",
+        "Êxodo",
+        "1300 a.C.",
+        "arqueologia",
+        "Pentateuco",
+        "Babilônia"
+      ],
+      "dataset": "data/dados-mesopotamia-hebreus-fenicios.json"
+    },
+    {
+      "id": "mhf2",
+      "nome": "O Monoteísmo Hebraico e a Teologia do Sofrimento",
+      "nome_en": "O Monoteísmo Hebraico e a Teologia do Sofrimento",
+      "nome_es": "O Monoteísmo Hebraico e a Teologia do Sofrimento",
+      "tipo": "cultural",
+      "inicio": -586,
+      "fim": -538,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 6,
+      "type": "religious",
+      "descricao": "O Exílio Babilônico (586-538 a.C.) foi o maior trauma e a maior conquista intelectual dos hebreus: a destruição do Templo de Salomão forçou a questão - por que Deus permitiu? A resposta: somos o povo escolhido, sofremos porque pecamos, mas Deus não nos abandonou. O monoteísmo ético surgiu do exílio.",
+      "descricao_en": "O Exílio Babilônico (586-538 a.C.) foi o maior trauma e a maior conquista intelectual dos hebreus: a destruição do Templo de Salomão forçou a questão - por que Deus permitiu? A resposta: somos o povo escolhido, sofremos porque pecamos, mas Deus não nos abandonou. O monoteísmo ético surgiu do exílio.",
+      "descricao_es": "O Exílio Babilônico (586-538 a.C.) foi o maior trauma e a maior conquista intelectual dos hebreus: a destruição do Templo de Salomão forçou a questão - por que Deus permitiu? A resposta: somos o povo escolhido, sofremos porque pecamos, mas Deus não nos abandonou. O monoteísmo ético surgiu do exílio.",
+      "importancia": "O Exílio Babilônico criou o monoteísmo ético que fundamenta Judaísmo, Cristianismo e Islamismo: a ideia de que o sofrimento tem sentido teológico - e que Deus está presente mesmo na derrota.",
+      "importancia_en": "O Exílio Babilônico criou o monoteísmo ético que fundamenta Judaísmo, Cristianismo e Islamismo: a ideia de que o sofrimento tem sentido teológico - e que Deus está presente mesmo na derrota.",
+      "importancia_es": "O Exílio Babilônico criou o monoteísmo ético que fundamenta Judaísmo, Cristianismo e Islamismo: a ideia de que o sofrimento tem sentido teológico - e que Deus está presente mesmo na derrota.",
+      "tags": [
+        "Exílio Babilônico",
+        "586 a.C.",
+        "Templo",
+        "monoteísmo",
+        "sofrimento",
+        "escolhido"
+      ],
+      "dataset": "data/dados-mesopotamia-hebreus-fenicios.json"
     }
   ],
   "relacoes": [

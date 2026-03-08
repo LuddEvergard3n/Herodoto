@@ -171,6 +171,62 @@
         "Timúrida"
       ],
       "dataset": "data/dados-mongois-conquistas.json"
+    },
+    {
+      "id": "moc1",
+      "nome": "Gengis Khan: Da Estepe ao Mundo",
+      "nome_en": "Gengis Khan: Da Estepe ao Mundo",
+      "nome_es": "Gengis Khan: Da Estepe ao Mundo",
+      "tipo": "pessoa",
+      "inicio": 1162,
+      "fim": 1227,
+      "region": "Asia",
+      "period": "Medieval",
+      "century_start": 13,
+      "type": "war",
+      "descricao": "Gengis Khan (1162-1227) criou o maior Império contíguo da história a partir do zero: de um orfão fugitivo da estepe a senhor da Ásia em 50 anos. O sistema meritocrático mongol era radical: qualquer homem podia ser general se fosse capaz.",
+      "descricao_en": "Gengis Khan (1162-1227) criou o maior Império contíguo da história a partir do zero: de um orfão fugitivo da estepe a senhor da Ásia em 50 anos. O sistema meritocrático mongol era radical: qualquer homem podia ser general se fosse capaz.",
+      "descricao_es": "Gengis Khan (1162-1227) criou o maior Império contíguo da história a partir do zero: de um orfão fugitivo da estepe a senhor da Ásia em 50 anos. O sistema meritocrático mongol era radical: qualquer homem podia ser general se fosse capaz.",
+      "importancia": "Gengis Khan é o líder militar mais bem-sucedido da história em proporção aos recursos iniciais: partiu do zero e criou o maior império contíguo. Seu sistema meritocrático foi mais moderno que qualquer sistema europeu contemporâneo.",
+      "importancia_en": "Gengis Khan é o líder militar mais bem-sucedido da história em proporção aos recursos iniciais: partiu do zero e criou o maior império contíguo. Seu sistema meritocrático foi mais moderno que qualquer sistema europeu contemporâneo.",
+      "importancia_es": "Gengis Khan é o líder militar mais bem-sucedido da história em proporção aos recursos iniciais: partiu do zero e criou o maior império contíguo. Seu sistema meritocrático foi mais moderno que qualquer sistema europeu contemporâneo.",
+      "tags": [
+        "Gengis Khan",
+        "1162",
+        "meritocracia",
+        "estepe",
+        "Mongólia",
+        "conquistas"
+      ],
+      "dataset": "data/dados-mongois-conquistas.json"
+    },
+    {
+      "id": "moc2",
+      "nome": "A Paz Mongol: Pax Mongolica",
+      "nome_en": "A Paz Mongol: Pax Mongolica",
+      "nome_es": "A Paz Mongol: Pax Mongolica",
+      "tipo": "periodo",
+      "inicio": 1260,
+      "fim": 1368,
+      "region": "Asia",
+      "period": "Medieval",
+      "century_start": 13,
+      "type": "economic",
+      "descricao": "A Pax Mongolica (1260-1368) conectou a Eurásia: Marco Polo viajou de Veneza a Pequim sem passaporte. A Rota da Seda funcionou com segurança de correio. Mas a Peste Negra viajou pelo mesmo caminho. O Império Mongol foi o maior incubador de globalização antes da Europa.",
+      "descricao_en": "A Pax Mongolica (1260-1368) conectou a Eurásia: Marco Polo viajou de Veneza a Pequim sem passaporte. A Rota da Seda funcionou com segurança de correio. Mas a Peste Negra viajou pelo mesmo caminho. O Império Mongol foi o maior incubador de globalização antes da Europa.",
+      "descricao_es": "A Pax Mongolica (1260-1368) conectou a Eurásia: Marco Polo viajou de Veneza a Pequim sem passaporte. A Rota da Seda funcionou com segurança de correio. Mas a Peste Negra viajou pelo mesmo caminho. O Império Mongol foi o maior incubador de globalização antes da Europa.",
+      "importancia": "A Pax Mongolica criou a primeira globalização eurasiana: de Veneza a Pequim sob uma administração. Que a mesma rota que transmitiu comércio e ideias também transmitiu a Peste Negra demonstra que a globalização tem sempre dois lados.",
+      "importancia_en": "A Pax Mongolica criou a primeira globalização eurasiana: de Veneza a Pequim sob uma administração. Que a mesma rota que transmitiu comércio e ideias também transmitiu a Peste Negra demonstra que a globalização tem sempre dois lados.",
+      "importancia_es": "A Pax Mongolica criou a primeira globalização eurasiana: de Veneza a Pequim sob uma administração. Que a mesma rota que transmitiu comércio e ideias também transmitiu a Peste Negra demonstra que a globalização tem sempre dois lados.",
+      "tags": [
+        "Pax Mongolica",
+        "Marco Polo",
+        "1260",
+        "Rota da Seda",
+        "globalização",
+        "Peste"
+      ],
+      "dataset": "data/dados-mongois-conquistas.json"
     }
   ],
   "relacoes": [

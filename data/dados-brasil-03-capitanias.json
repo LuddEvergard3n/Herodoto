@@ -161,6 +161,62 @@
       "importancia_es": "O engenho de açúcar colonial era mais do que uma unidade econômica — era uma instituição social total: casa-grande e senzala, senhor e escravo, catolicismo e candomblé, violência e resistência. Gilberto Freyre analisou essa estrutura em 'Casa-Grande e Senzala' (1933), com conclusões controversas mas influentes.",
       "century_start": 15,
       "century_end": 16
+    },
+    {
+      "id": "bc1",
+      "nome": "Os Donatários e o Sistema de Capitanias",
+      "nome_en": "Os Donatários e o Sistema de Capitanias",
+      "nome_es": "Os Donatários e o Sistema de Capitanias",
+      "tipo": "periodo",
+      "inicio": 1534,
+      "fim": 1549,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "As 15 capitanias hereditárias (1534) foram o primeiro modelo colonial português: doação de terras a donatários que colonizavam por conta própria. Fracassaram quase todas (exceto Pernambuco e São Vicente) - o Brasil era muito grande, os indígenas resistiam, e o custo era proibitivo. Em 1549 Portugal enviou o primeiro Governador-Geral (Tomé de Sousa).",
+      "descricao_en": "As 15 capitanias hereditárias (1534) foram o primeiro modelo colonial português: doação de terras a donatários que colonizavam por conta própria. Fracassaram quase todas (exceto Pernambuco e São Vicente) - o Brasil era muito grande, os indígenas resistiam, e o custo era proibitivo. Em 1549 Portugal enviou o primeiro Governador-Geral (Tomé de Sousa).",
+      "descricao_es": "As 15 capitanias hereditárias (1534) foram o primeiro modelo colonial português: doação de terras a donatários que colonizavam por conta própria. Fracassaram quase todas (exceto Pernambuco e São Vicente) - o Brasil era muito grande, os indígenas resistiam, e o custo era proibitivo. Em 1549 Portugal enviou o primeiro Governador-Geral (Tomé de Sousa).",
+      "importancia": "As capitanias hereditárias demonstram que o modelo de privatização colonial fracassa quando a terra é grande e a resistência é forte. Portugal só colonizou de verdade quando o Estado assumiu o controle diretamente.",
+      "importancia_en": "As capitanias hereditárias demonstram que o modelo de privatização colonial fracassa quando a terra é grande e a resistência é forte. Portugal só colonizou de verdade quando o Estado assumiu o controle diretamente.",
+      "importancia_es": "As capitanias hereditárias demonstram que o modelo de privatização colonial fracassa quando a terra é grande e a resistência é forte. Portugal só colonizou de verdade quando o Estado assumiu o controle diretamente.",
+      "tags": [
+        "capitanias",
+        "donatários",
+        "1534",
+        "Pernambuco",
+        "fracasso",
+        "Tomé de Sousa"
+      ],
+      "dataset": "data/dados-brasil-03-capitanias.json"
+    },
+    {
+      "id": "bc2",
+      "nome": "Os Jesuítas e as Reduções Indígenas",
+      "nome_en": "Os Jesuítas e as Reduções Indígenas",
+      "nome_es": "Os Jesuítas e as Reduções Indígenas",
+      "tipo": "periodo",
+      "inicio": 1549,
+      "fim": 1759,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "religious",
+      "descricao": "Os jesuítas chegaram com Tomé de Sousa (1549): criaram aldeamentos (reduções) para catequizar e proteger os indígenas da escravidão colonial. As missões do Sul (Sete Povos, atual RS/Argentina/Paraguai) foram o maior experimento jesuítico. A expulsão dos jesuítas (1759, Marquês de Pombal) destruiu o sistema e expôs os indígenas à escravidão.",
+      "descricao_en": "Os jesuítas chegaram com Tomé de Sousa (1549): criaram aldeamentos (reduções) para catequizar e proteger os indígenas da escravidão colonial. As missões do Sul (Sete Povos, atual RS/Argentina/Paraguai) foram o maior experimento jesuítico. A expulsão dos jesuítas (1759, Marquês de Pombal) destruiu o sistema e expôs os indígenas à escravidão.",
+      "descricao_es": "Os jesuítas chegaram com Tomé de Sousa (1549): criaram aldeamentos (reduções) para catequizar e proteger os indígenas da escravidão colonial. As missões do Sul (Sete Povos, atual RS/Argentina/Paraguai) foram o maior experimento jesuítico. A expulsão dos jesuítas (1759, Marquês de Pombal) destruiu o sistema e expôs os indígenas à escravidão.",
+      "importancia": "As reduções jesuíticas foram o mais ambicioso experimento de proteção indígena da história colonial - e o Marquês de Pombal as destruiu porque ameaçavam o controle colonial português.",
+      "importancia_en": "As reduções jesuíticas foram o mais ambicioso experimento de proteção indígena da história colonial - e o Marquês de Pombal as destruiu porque ameaçavam o controle colonial português.",
+      "importancia_es": "As reduções jesuíticas foram o mais ambicioso experimento de proteção indígena da história colonial - e o Marquês de Pombal as destruiu porque ameaçavam o controle colonial português.",
+      "tags": [
+        "jesuítas",
+        "reduções",
+        "Sete Povos",
+        "Pombal",
+        "1759",
+        "catequese"
+      ],
+      "dataset": "data/dados-brasil-03-capitanias.json"
     }
   ]
 }

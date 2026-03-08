@@ -1,0 +1,138 @@
+{
+  "tema": "Europa Moderna (sécs. XVI–XIX)",
+  "descricao": "Habsburgos, Guerra dos 30 Anos, Guerra dos 100 Anos, Holanda Século de Ouro, Absolutismo francês, Revolução Inglesa, Carolíngios, unificações alemã e italiana",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Nicolau Maquiavel",
+        "obra": "Discursos sobre a Primeira Década de Tito Lívio; Histórias Florentinas",
+        "ano": "1513–1525"
+      },
+      {
+        "autor": "Jacques-Bénigne Bossuet",
+        "obra": "Política Extraída das Sagradas Escrituras",
+        "ano": "1709",
+        "nota": "Fundamento teológico do absolutismo"
+      },
+      {
+        "autor": "Cardeal Richelieu",
+        "obra": "Testamento Político",
+        "ano": "1688",
+        "nota": "Razão de Estado francesa"
+      },
+      {
+        "autor": "Oliver Cromwell",
+        "obra": "Discursos e Cartas",
+        "ano": "1644–1658"
+      },
+      {
+        "autor": "John Locke",
+        "obra": "Dois Tratados sobre o Governo",
+        "ano": "1689"
+      },
+      {
+        "autor": "Otto von Bis marck",
+        "obra": "Discurso do Sangue e Ferro (Reden)",
+        "ano": "1862"
+      },
+      {
+        "autor": "Giuseppe Mazzini",
+        "obra": "Deveres do Homem",
+        "ano": "1860"
+      },
+      {
+        "autor": "Klemens von Metternich",
+        "obra": "Memórias e Documentos Políticos",
+        "ano": "1880"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Geoffrey Parker",
+        "obra": "The Thirty Years' War",
+        "ano": "1984",
+        "editora": "Routledge"
+      },
+      {
+        "autor": "C. V. Wedgwood",
+        "obra": "The Thirty Years War",
+        "ano": "1938",
+        "editora": "Jonathan Cape"
+      },
+      {
+        "autor": "Jonathan Israel",
+        "obra": "The Dutch Republic: Its Rise, Greatness and Fall 1477–1806",
+        "ano": "1995",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Simon Schama",
+        "obra": "The Embarrassment of Riches: An Interpretation of Dutch Culture in the Golden Age",
+        "ano": "1987",
+        "editora": "Knopf"
+      },
+      {
+        "autor": "Nicholas Henshall",
+        "obra": "The Myth of Absolutism",
+        "ano": "1992",
+        "editora": "Longman"
+      },
+      {
+        "autor": "Geoffrey Treasure",
+        "obra": "Richelieu and Mazarin",
+        "ano": "1998",
+        "editora": "Routledge"
+      },
+      {
+        "autor": "Christopher Hill",
+        "obra": "The Century of Revolution 1603–1714",
+        "ano": "1961",
+        "editora": "Nelson"
+      },
+      {
+        "autor": "Lawrence Stone",
+        "obra": "The Causes of the English Revolution 1529–1642",
+        "ano": "1972",
+        "editora": "Routledge"
+      },
+      {
+        "autor": "Christopher Clark",
+        "obra": "Iron Kingdom: The Rise and Downfall of Prussia 1600–1947",
+        "ano": "2006",
+        "editora": "Allen Lane"
+      },
+      {
+        "autor": "Jonathan Sperber",
+        "obra": "The European Revolutions 1848–1851",
+        "ano": "1994",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Timothy Blanning",
+        "obra": "The Pursuit of Glory: Europe 1648–1815",
+        "ano": "2007",
+        "editora": "Allen Lane"
+      },
+      {
+        "autor": "Denis Mack Smith",
+        "obra": "The Making of Italy 1796–1870",
+        "ano": "1968",
+        "editora": "Macmillan"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Garrett Mattingly",
+        "obra": "The Armada",
+        "ano": "1959",
+        "editora": "Houghton Mifflin"
+      },
+      {
+        "autor": "Mark Kishlansky",
+        "obra": "A Monarchy Transformed: Britain 1603–1714",
+        "ano": "1996",
+        "editora": "Penguin"
+      }
+    ]
+  }
+}

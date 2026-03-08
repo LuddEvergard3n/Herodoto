@@ -155,6 +155,62 @@
       "period": "Medieval",
       "importancia_en": "Influenced: Luther (via negative theology), Bacon (empiricism), Descartes (methodological skepticism). Anticipated scientific empiricism by 200 years.",
       "importancia_es": "Influyó en Lutero, Bacon, Descartes. Anticipó el empirismo científico 200 años."
+    },
+    {
+      "id": "fmx1",
+      "nome": "Anselmo e a Prova Ontológica",
+      "nome_en": "Anselmo e a Prova Ontológica",
+      "nome_es": "Anselmo e a Prova Ontológica",
+      "tipo": "pessoa",
+      "inicio": 1033,
+      "fim": 1109,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 11,
+      "type": "cultural",
+      "descricao": "Anselmo de Cantuária criou a prova ontológica: Deus é aquele acima de quem nada maior pode ser concebido; se existe só no pensamento não é o maior concebível; portanto existe na realidade. Kant depois a refutou.",
+      "descricao_en": "Anselmo de Cantuária criou a prova ontológica: Deus é aquele acima de quem nada maior pode ser concebido; se existe só no pensamento não é o maior concebível; portanto existe na realidade. Kant depois a refutou.",
+      "descricao_es": "Anselmo de Cantuária criou a prova ontológica: Deus é aquele acima de quem nada maior pode ser concebido; se existe só no pensamento não é o maior concebível; portanto existe na realidade. Kant depois a refutou.",
+      "importancia": "A prova ontológica é o argumento filosófico mais debatido da história: refutado por Kant, reabilitado por Plantinga. Que um argumento de 1078 ainda seja debatido demonstra sua profundidade.",
+      "importancia_en": "A prova ontológica é o argumento filosófico mais debatido da história: refutado por Kant, reabilitado por Plantinga. Que um argumento de 1078 ainda seja debatido demonstra sua profundidade.",
+      "importancia_es": "A prova ontológica é o argumento filosófico mais debatido da história: refutado por Kant, reabilitado por Plantinga. Que um argumento de 1078 ainda seja debatido demonstra sua profundidade.",
+      "tags": [
+        "Anselmo",
+        "prova ontológica",
+        "1078",
+        "Deus",
+        "Kant",
+        "Canterbury"
+      ],
+      "dataset": "data/dados-filosofia-medieval.json"
+    },
+    {
+      "id": "fmx2",
+      "nome": "Averróis e a Transmissão de Aristóteles",
+      "nome_en": "Averróis e a Transmissão de Aristóteles",
+      "nome_es": "Averróis e a Transmissão de Aristóteles",
+      "tipo": "pessoa",
+      "inicio": 1126,
+      "fim": 1198,
+      "region": "Middle East",
+      "period": "Medieval",
+      "century_start": 12,
+      "type": "cultural",
+      "descricao": "Averróis (Córdoba, 1126-1198) escreveu comentários tão exaustivos de Aristóteles que ficou conhecido como O Comentador. A Europa medieval conheceu Aristóteles via Averróis. Dante o colocou no limbo.",
+      "descricao_en": "Averróis (Córdoba, 1126-1198) escreveu comentários tão exaustivos de Aristóteles que ficou conhecido como O Comentador. A Europa medieval conheceu Aristóteles via Averróis. Dante o colocou no limbo.",
+      "descricao_es": "Averróis (Córdoba, 1126-1198) escreveu comentários tão exaustivos de Aristóteles que ficou conhecido como O Comentador. A Europa medieval conheceu Aristóteles via Averróis. Dante o colocou no limbo.",
+      "importancia": "Averróis transmitiu Aristóteles para a Europa medieval: sem ele, Tomás de Aquino não teria a filosofia grega para reconciliar com a teologia cristã.",
+      "importancia_en": "Averróis transmitiu Aristóteles para a Europa medieval: sem ele, Tomás de Aquino não teria a filosofia grega para reconciliar com a teologia cristã.",
+      "importancia_es": "Averróis transmitiu Aristóteles para a Europa medieval: sem ele, Tomás de Aquino não teria a filosofia grega para reconciliar com a teologia cristã.",
+      "tags": [
+        "Averróis",
+        "Aristóteles",
+        "comentador",
+        "Córdoba",
+        "1198",
+        "Dante"
+      ],
+      "dataset": "data/dados-filosofia-medieval.json"
     }
   ],
   "relacoes": [

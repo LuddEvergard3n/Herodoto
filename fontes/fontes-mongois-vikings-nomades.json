@@ -1,0 +1,140 @@
+{
+  "tema": "Mongóis, Vikings e Povos Nômades",
+  "descricao": "Gengis Khan e o Império Mongol, Tamerlão, rotas da seda, Vikings e expansão nórdica, Hunos, povos das estepes",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Anônimo",
+        "obra": "História Secreta dos Mongóis (Mongghol-un niuca tobca'an)",
+        "ano": "c. 1228",
+        "nota": "Trad. Igor de Rachewiltz, Brill"
+      },
+      {
+        "autor": "Juvaini, 'Ata-Malik",
+        "obra": "Tarikh-i Jahangushay (História do Conquistador do Mundo)",
+        "ano": "1260"
+      },
+      {
+        "autor": "Marco Polo",
+        "obra": "Il Milione (Descrição do Mundo)",
+        "ano": "c. 1300",
+        "editora": "Penguin Classics"
+      },
+      {
+        "autor": "Ibn Battuta",
+        "obra": "Rihla — Seções sobre a Mongólia e a Rota da Seda",
+        "ano": "c. 1355"
+      },
+      {
+        "autor": "Snorri Sturluson",
+        "obra": "Edda em Prosa; Heimskringla",
+        "ano": "c. 1220",
+        "editora": "Penguin Classics"
+      },
+      {
+        "autor": "Anônimo",
+        "obra": "Saga dos Groenlandeses; Saga de Eirik, o Vermelho",
+        "ano": "c. 1200–1250"
+      },
+      {
+        "autor": "Adão de Bremen",
+        "obra": "Gesta Hammaburgensis Ecclesiae Pontificum (Sobre os Nórdicos)",
+        "ano": "c. 1075"
+      },
+      {
+        "autor": "Anônimo",
+        "obra": "Beowulf",
+        "ano": "c. 700–1000",
+        "nota": "Épico anglo-saxão; Penguin Classics"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "David Morgan",
+        "obra": "The Mongols",
+        "ano": "1986",
+        "editora": "Blackwell"
+      },
+      {
+        "autor": "Jack Weatherford",
+        "obra": "Genghis Khan and the Making of the Modern World",
+        "ano": "2004",
+        "editora": "Crown"
+      },
+      {
+        "autor": "John Man",
+        "obra": "Genghis Khan: Life, Death, and Resurrection",
+        "ano": "2004",
+        "editora": "Bantam"
+      },
+      {
+        "autor": "Paul Ratchnevsky",
+        "obra": "Genghis Khan: His Life and Legacy",
+        "ano": "1991",
+        "editora": "Blackwell"
+      },
+      {
+        "autor": "Christopher P. Atwood",
+        "obra": "Encyclopedia of Mongolia and the Mongol Empire",
+        "ano": "2004",
+        "editora": "Facts on File"
+      },
+      {
+        "autor": "Justin Marozzi",
+        "obra": "Tamerlane: Sword of Islam, Conqueror of the World",
+        "ano": "2004",
+        "editora": "HarperCollins"
+      },
+      {
+        "autor": "John Haywood",
+        "obra": "The Penguin Historical Atlas of the Vikings",
+        "ano": "1995",
+        "editora": "Penguin"
+      },
+      {
+        "autor": "Gwyn Jones",
+        "obra": "A History of the Vikings",
+        "ano": "1968",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Else Roesdahl",
+        "obra": "The Vikings",
+        "ano": "1991",
+        "editora": "Penguin"
+      },
+      {
+        "autor": "F. Donald Logan",
+        "obra": "The Vikings in History",
+        "ano": "1983",
+        "editora": "Hutchinson"
+      },
+      {
+        "autor": "Denis Sinor (ed.)",
+        "obra": "The Cambridge History of Early Inner Asia",
+        "ano": "1990",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Nicola Di Cosmo",
+        "obra": "Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History",
+        "ano": "2002",
+        "editora": "Cambridge University Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Tim Severin",
+        "obra": "The Brendan Voyage",
+        "ano": "1978",
+        "editora": "McGraw-Hill"
+      },
+      {
+        "autor": "Stewart Gordon",
+        "obra": "When Asia Was the World",
+        "ano": "2008",
+        "editora": "Da Capo Press"
+      }
+    ]
+  }
+}

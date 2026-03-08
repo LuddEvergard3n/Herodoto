@@ -202,6 +202,34 @@
         "Tutancâmon"
       ],
       "dataset": "data/dados-egito-reinos.json"
+    },
+    {
+      "id": "er1",
+      "nome": "Cleópatra VII: A Ultima Farao",
+      "nome_en": "Cleópatra VII: A Ultima Farao",
+      "nome_es": "Cleópatra VII: A Ultima Farao",
+      "tipo": "pessoa",
+      "inicio": -69,
+      "fim": -30,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 1,
+      "type": "political",
+      "descricao": "Cleópatra VII (69-30 a.C.) foi a ultima farao do Egito e a primeira em 300 anos a aprender egipcio (falava 9 linguas). Aliou-se a Julio Cesar (teve um filho, Cesariao) e depois a Marco Antonio. Derrotada por Octaviano em Acio (31 a.C.), suicidou-se com uma cobra (ou veneno). A mais famosa de todos os faraos.",
+      "descricao_en": "Cleópatra VII (69-30 a.C.) foi a ultima farao do Egito e a primeira em 300 anos a aprender egipcio (falava 9 linguas). Aliou-se a Julio Cesar (teve um filho, Cesariao) e depois a Marco Antonio. Derrotada por Octaviano em Acio (31 a.C.), suicidou-se com uma cobra (ou veneno). A mais famosa de todos os faraos.",
+      "descricao_es": "Cleópatra VII (69-30 a.C.) foi a ultima farao do Egito e a primeira em 300 anos a aprender egipcio (falava 9 linguas). Aliou-se a Julio Cesar (teve um filho, Cesariao) e depois a Marco Antonio. Derrotada por Octaviano em Acio (31 a.C.), suicidou-se com uma cobra (ou veneno). A mais famosa de todos os faraos.",
+      "importancia": "Cleópatra e o maior exemplo de poder feminino na historia antiga. Que a ultima farao do Egito tenha governado em grego (a lingua da corte ptolemaica) e falado egipcio como ato politico deliberado demonstra sua inteligencia diplomatica.",
+      "importancia_en": "Cleópatra e o maior exemplo de poder feminino na historia antiga. Que a ultima farao do Egito tenha governado em grego (a lingua da corte ptolemaica) e falado egipcio como ato politico deliberado demonstra sua inteligencia diplomatica.",
+      "importancia_es": "Cleópatra e o maior exemplo de poder feminino na historia antiga. Que a ultima farao do Egito tenha governado em grego (a lingua da corte ptolemaica) e falado egipcio como ato politico deliberado demonstra sua inteligencia diplomatica.",
+      "tags": [
+        "Cleópatra",
+        "69 a.C.",
+        "Cesar",
+        "Marco Antonio",
+        "cobra",
+        "9 linguas"
+      ],
+      "dataset": "data/dados-egito-reinos.json"
     }
   ],
   "relacoes": [

@@ -174,6 +174,62 @@
         "mitologia"
       ],
       "dataset": "data/dados-maya-ciencia.json"
+    },
+    {
+      "id": "mcs1",
+      "nome": "O Calendário Maya e a Astronomia",
+      "nome_en": "O Calendário Maya e a Astronomia",
+      "nome_es": "O Calendário Maya e a Astronomia",
+      "tipo": "cultural",
+      "inicio": -600,
+      "fim": 900,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 7,
+      "type": "technological",
+      "descricao": "O calendário Maya (baseado em observação astronômica precisa) tinha dois sistemas simultâneos: o Haab (365 dias solares) e o Tzolkin (260 dias rituais) que se combinavam em ciclos de 52 anos. A astronomia maya calculou o ciclo de Vênus (584 dias) com erro de apenas 2 horas em 500 anos.",
+      "descricao_en": "O calendário Maya (baseado em observação astronômica precisa) tinha dois sistemas simultâneos: o Haab (365 dias solares) e o Tzolkin (260 dias rituais) que se combinavam em ciclos de 52 anos. A astronomia maya calculou o ciclo de Vênus (584 dias) com erro de apenas 2 horas em 500 anos.",
+      "descricao_es": "O calendário Maya (baseado em observação astronômica precisa) tinha dois sistemas simultâneos: o Haab (365 dias solares) e o Tzolkin (260 dias rituais) que se combinavam em ciclos de 52 anos. A astronomia maya calculou o ciclo de Vênus (584 dias) com erro de apenas 2 horas em 500 anos.",
+      "importancia": "A astronomia maya é a mais precisa das Américas pré-colombianas - e a única que calculou o ciclo de Vênus sem telescópio com erro mínimo. Que uma civilização sem roda calculasse com tal precisão demonstra que a tecnologia não é pré-requisito para a astronomia.",
+      "importancia_en": "A astronomia maya é a mais precisa das Américas pré-colombianas - e a única que calculou o ciclo de Vênus sem telescópio com erro mínimo. Que uma civilização sem roda calculasse com tal precisão demonstra que a tecnologia não é pré-requisito para a astronomia.",
+      "importancia_es": "A astronomia maya é a mais precisa das Américas pré-colombianas - e a única que calculou o ciclo de Vênus sem telescópio com erro mínimo. Que uma civilização sem roda calculasse com tal precisão demonstra que a tecnologia não é pré-requisito para a astronomia.",
+      "tags": [
+        "calendário maya",
+        "Haab",
+        "Tzolkin",
+        "Vênus",
+        "584 dias",
+        "astronomia"
+      ],
+      "dataset": "data/dados-maya-ciencia.json"
+    },
+    {
+      "id": "mcs2",
+      "nome": "A Escrita Maya e a Decifração",
+      "nome_en": "A Escrita Maya e a Decifração",
+      "nome_es": "A Escrita Maya e a Decifração",
+      "tipo": "cultural",
+      "inicio": -300,
+      "fim": 900,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 4,
+      "type": "cultural",
+      "descricao": "A escrita maya (c. 300 a.C.-900 d.C.) foi o único sistema de escrita completamente desenvolvido das Américas: 800+ glifos, mistura de logogramas e sílabas. Foi decifrada por Yuri Knorozov em 1952 - um russo que nunca foi à América. O bispo Diego de Landa queimou os códices mayas em 1562 (conhecemos apenas 4).",
+      "descricao_en": "A escrita maya (c. 300 a.C.-900 d.C.) foi o único sistema de escrita completamente desenvolvido das Américas: 800+ glifos, mistura de logogramas e sílabas. Foi decifrada por Yuri Knorozov em 1952 - um russo que nunca foi à América. O bispo Diego de Landa queimou os códices mayas em 1562 (conhecemos apenas 4).",
+      "descricao_es": "A escrita maya (c. 300 a.C.-900 d.C.) foi o único sistema de escrita completamente desenvolvido das Américas: 800+ glifos, mistura de logogramas e sílabas. Foi decifrada por Yuri Knorozov em 1952 - um russo que nunca foi à América. O bispo Diego de Landa queimou os códices mayas em 1562 (conhecemos apenas 4).",
+      "importancia": "A decifração da escrita maya por Knorozov demonstra que os maiores avanços científicos podem vir de pessoas que jamais viram o objeto de seu estudo. E que a destruição deliberada de 1562 foi irreparável.",
+      "importancia_en": "A decifração da escrita maya por Knorozov demonstra que os maiores avanços científicos podem vir de pessoas que jamais viram o objeto de seu estudo. E que a destruição deliberada de 1562 foi irreparável.",
+      "importancia_es": "A decifração da escrita maya por Knorozov demonstra que os maiores avanços científicos podem vir de pessoas que jamais viram o objeto de seu estudo. E que a destruição deliberada de 1562 foi irreparável.",
+      "tags": [
+        "escrita maya",
+        "glifos",
+        "Knorozov",
+        "1952",
+        "Diego de Landa",
+        "decifração"
+      ],
+      "dataset": "data/dados-maya-ciencia.json"
     }
   ],
   "relacoes": [

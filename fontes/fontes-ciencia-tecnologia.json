@@ -1,0 +1,140 @@
+{
+  "tema": "Ciência e Tecnologia",
+  "descricao": "Revolução científica, física, biologia, medicina, tecnologia, informatização e ciência contemporânea",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Nicolau Copérnico",
+        "obra": "De Revolutionibus Orbium Coelestium",
+        "ano": "1543"
+      },
+      {
+        "autor": "Galileu Galilei",
+        "obra": "Diálogo sobre os Dois Principais Sistemas do Mundo; Sidereus Nuncius",
+        "ano": "1610–1632"
+      },
+      {
+        "autor": "Isaac Newton",
+        "obra": "Principia Mathematica (Philosophiae Naturalis Principia Mathematica)",
+        "ano": "1687"
+      },
+      {
+        "autor": "Charles Darwin",
+        "obra": "A Origem das Espécies; A Descendência do Homem",
+        "ano": "1859–1871",
+        "nota": "L&PM"
+      },
+      {
+        "autor": "Albert Einstein",
+        "obra": "Sobre a Eletrodinâmica dos Corpos em Movimento (Artigo da Relatividade Especial)",
+        "ano": "1905"
+      },
+      {
+        "autor": "James Watson e Francis Crick",
+        "obra": "Molecular Structure of Nucleic Acids (DNA)",
+        "ano": "1953",
+        "nota": "Nature, Vol. 171"
+      },
+      {
+        "autor": "Alan Turing",
+        "obra": "Computing Machinery and Intelligence",
+        "ano": "1950",
+        "nota": "Mind, Vol. 59"
+      },
+      {
+        "autor": "Thomas S. Kuhn",
+        "obra": "A Estrutura das Revoluções Científicas",
+        "ano": "1962",
+        "nota": "Perspectiva"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Steven Shapin",
+        "obra": "The Scientific Revolution",
+        "ano": "1996",
+        "editora": "University of Chicago Press"
+      },
+      {
+        "autor": "James Gleick",
+        "obra": "Isaac Newton",
+        "ano": "2003",
+        "editora": "Pantheon"
+      },
+      {
+        "autor": "Adrian Desmond e James Moore",
+        "obra": "Darwin: The Life of a Tormented Evolutionist",
+        "ano": "1991",
+        "editora": "Warner Books"
+      },
+      {
+        "autor": "Walter Isaacson",
+        "obra": "Einstein: His Life and Universe",
+        "ano": "2007",
+        "editora": "Simon & Schuster"
+      },
+      {
+        "autor": "James Gleick",
+        "obra": "Chaos: Making a New Science",
+        "ano": "1987",
+        "editora": "Viking"
+      },
+      {
+        "autor": "George Dyson",
+        "obra": "Turing's Cathedral: The Origins of the Digital Universe",
+        "ano": "2012",
+        "editora": "Pantheon"
+      },
+      {
+        "autor": "Siddhartha Mukherjee",
+        "obra": "The Gene: An Intimate History",
+        "ano": "2016",
+        "editora": "Scribner"
+      },
+      {
+        "autor": "Bill Bryson",
+        "obra": "Uma História Breve de Quase Tudo",
+        "ano": "2003",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "I. Bernard Cohen",
+        "obra": "The Birth of a New Physics",
+        "ano": "1960",
+        "editora": "Anchor Books"
+      },
+      {
+        "autor": "Lisa Jardine",
+        "obra": "Ingenious Pursuits: Building the Scientific Revolution",
+        "ano": "1999",
+        "editora": "Little, Brown"
+      },
+      {
+        "autor": "Peter Dear",
+        "obra": "Revolutionizing the Sciences: European Knowledge and Its Ambitions, 1500–1700",
+        "ano": "2001",
+        "editora": "Princeton University Press"
+      },
+      {
+        "autor": "Peter M. Harman",
+        "obra": "Energy, Force and Matter: The Conceptual Development of Nineteenth-Century Physics",
+        "ano": "1982",
+        "editora": "Cambridge University Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Carl Sagan",
+        "obra": "O Mundo Assombrado pelos Demônios",
+        "ano": "1995",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Stephen Hawking",
+        "obra": "Uma Breve História do Tempo",
+        "ano": "1988",
+        "editora": "Rocco"
+      }
+    ]
+  }
+}

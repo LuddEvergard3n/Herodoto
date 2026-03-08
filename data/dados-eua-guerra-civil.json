@@ -195,6 +195,34 @@
         "voto negro"
       ],
       "dataset": "data/dados-eua-guerra-civil.json"
+    },
+    {
+      "id": "eugc1",
+      "nome": "Ulysses Grant e a Reconstrucao Abandonada",
+      "nome_en": "Ulysses Grant e a Reconstrucao Abandonada",
+      "nome_es": "Ulysses Grant e a Reconstrucao Abandonada",
+      "tipo": "pessoa",
+      "inicio": 1822,
+      "fim": 1885,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "Ulysses Grant (presidente 1869-1877) tentou implementar a Reconstrucao: tropas federais no Sul para proteger os negros. O Compromisso de 1877 encerrou a Reconstrucao: Grant trocou a presidencia por Hayes pelo fim das tropas no Sul. Os blacks codes e o Jim Crow voltaram imediatamente.",
+      "descricao_en": "Ulysses Grant (presidente 1869-1877) tentou implementar a Reconstrucao: tropas federais no Sul para proteger os negros. O Compromisso de 1877 encerrou a Reconstrucao: Grant trocou a presidencia por Hayes pelo fim das tropas no Sul. Os blacks codes e o Jim Crow voltaram imediatamente.",
+      "descricao_es": "Ulysses Grant (presidente 1869-1877) tentou implementar a Reconstrucao: tropas federais no Sul para proteger os negros. O Compromisso de 1877 encerrou a Reconstrucao: Grant trocou a presidencia por Hayes pelo fim das tropas no Sul. Os blacks codes e o Jim Crow voltaram imediatamente.",
+      "importancia": "O Compromisso de 1877 e o maior abandono moral da historia americana: o partido republicano negociou os direitos dos negros recém-libertos por uma eleicao presidencial. O resultado - Jim Crow por 90 anos - foi o maior fracasso da democracia americana.",
+      "importancia_en": "O Compromisso de 1877 e o maior abandono moral da historia americana: o partido republicano negociou os direitos dos negros recém-libertos por uma eleicao presidencial. O resultado - Jim Crow por 90 anos - foi o maior fracasso da democracia americana.",
+      "importancia_es": "O Compromisso de 1877 e o maior abandono moral da historia americana: o partido republicano negociou os direitos dos negros recém-libertos por uma eleicao presidencial. O resultado - Jim Crow por 90 anos - foi o maior fracasso da democracia americana.",
+      "tags": [
+        "Grant",
+        "1877",
+        "Reconstrucao",
+        "Jim Crow",
+        "black codes",
+        "Hayes"
+      ],
+      "dataset": "data/dados-eua-guerra-civil.json"
     }
   ],
   "relacoes": [

@@ -155,6 +155,62 @@
       "period": "EarlyModern",
       "importancia_en": "Founded modern political science by separating power from Christian virtue.",
       "importancia_es": "Fundó la ciencia política moderna al separar el poder de la virtud cristiana."
+    },
+    {
+      "id": "ri1x",
+      "nome": "Leonardo da Vinci: O Gênio Universal",
+      "nome_en": "Leonardo da Vinci: O Gênio Universal",
+      "nome_es": "Leonardo da Vinci: O Gênio Universal",
+      "tipo": "pessoa",
+      "inicio": 1452,
+      "fim": 1519,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 15,
+      "type": "cultural",
+      "descricao": "Leonardo da Vinci (1452-1519) pintou a Mona Lisa e A Última Ceia, projetou helicópteros e submarinos no século XV. Deixou 7.000+ páginas de cadernos com invenções funcionalmente corretas mas sem os materiais disponíveis para construí-las.",
+      "descricao_en": "Leonardo da Vinci (1452-1519) pintou a Mona Lisa e A Última Ceia, projetou helicópteros e submarinos no século XV. Deixou 7.000+ páginas de cadernos com invenções funcionalmente corretas mas sem os materiais disponíveis para construí-las.",
+      "descricao_es": "Leonardo da Vinci (1452-1519) pintou a Mona Lisa e A Última Ceia, projetou helicópteros e submarinos no século XV. Deixou 7.000+ páginas de cadernos com invenções funcionalmente corretas mas sem os materiais disponíveis para construí-las.",
+      "importancia": "Leonardo é o símbolo do Renascimento: a ideia de que o ser humano pode dominar todas as áreas do conhecimento. Morreu sem terminar a maioria de seus projetos - o maior paradoxo do gênio.",
+      "importancia_en": "Leonardo é o símbolo do Renascimento: a ideia de que o ser humano pode dominar todas as áreas do conhecimento. Morreu sem terminar a maioria de seus projetos - o maior paradoxo do gênio.",
+      "importancia_es": "Leonardo é o símbolo do Renascimento: a ideia de que o ser humano pode dominar todas as áreas do conhecimento. Morreu sem terminar a maioria de seus projetos - o maior paradoxo do gênio.",
+      "tags": [
+        "Leonardo",
+        "Mona Lisa",
+        "7.000 páginas",
+        "helicóptero",
+        "Renascimento",
+        "universal"
+      ],
+      "dataset": "data/dados-renascimento-italiano.json"
+    },
+    {
+      "id": "ri2x",
+      "nome": "Michelangelo e a Sistina",
+      "nome_en": "Michelangelo e a Sistina",
+      "nome_es": "Michelangelo e a Sistina",
+      "tipo": "pessoa",
+      "inicio": 1475,
+      "fim": 1564,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 15,
+      "type": "cultural",
+      "descricao": "Michelangelo (1475-1564) pintou o teto da Sistina (1508-1512, sozinho, 500 m²) e esculpiu o Davi (5,17 metros). O Papa Júlio II o obrigou a pintar a Sistina quando ele queria apenas esculpir.",
+      "descricao_en": "Michelangelo (1475-1564) pintou o teto da Sistina (1508-1512, sozinho, 500 m²) e esculpiu o Davi (5,17 metros). O Papa Júlio II o obrigou a pintar a Sistina quando ele queria apenas esculpir.",
+      "descricao_es": "Michelangelo (1475-1564) pintou o teto da Sistina (1508-1512, sozinho, 500 m²) e esculpiu o Davi (5,17 metros). O Papa Júlio II o obrigou a pintar a Sistina quando ele queria apenas esculpir.",
+      "importancia": "A Sistina é a maior obra de arte individual da história: um escultor que odiava pintar criou a maior pintura de todos os tempos.",
+      "importancia_en": "A Sistina é a maior obra de arte individual da história: um escultor que odiava pintar criou a maior pintura de todos os tempos.",
+      "importancia_es": "A Sistina é a maior obra de arte individual da história: um escultor que odiava pintar criou a maior pintura de todos os tempos.",
+      "tags": [
+        "Michelangelo",
+        "Sistina",
+        "Davi",
+        "1512",
+        "Júlio II",
+        "escultor"
+      ],
+      "dataset": "data/dados-renascimento-italiano.json"
     }
   ],
   "relacoes": [

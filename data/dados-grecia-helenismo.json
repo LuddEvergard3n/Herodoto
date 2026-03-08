@@ -1,0 +1,110 @@
+{
+  "titulo": "Período Helenístico",
+  "entidades": [
+    {
+      "id": "ghl-001",
+      "nome": "Divisão do Império após Alexandre (323 a.C.)",
+      "inicio": -323,
+      "fim": -30,
+      "tipo": "political",
+      "regiao": "Europe",
+      "peso": 0.9,
+      "descricao": "Morte de Alexandre (323 a.C.) sem herdeiro capaz desencadeou as Guerras dos Diádocos (sucessores). Três grandes reinos surgiram: Ptolemaico (Egito), Selêucida (Oriente) e Macedônio (Antígonidas). Cada um mesclou cultura grega com tradições locais — helenismo como fenômeno de fusão.",
+      "importancia": "O período helenístico não foi o ocaso da Grécia, mas sua expansão máxima: a língua grega (koiné) tornou-se o latim da Antiguidade, falada do Mediterrâneo à Índia. O Novo Testamento seria escrito em grego helenístico 300 anos depois."
+    },
+    {
+      "id": "ghl-002",
+      "nome": "Alexandria: Capital do Mundo Helenístico",
+      "inicio": -331,
+      "fim": -30,
+      "tipo": "cultural",
+      "regiao": "Europe",
+      "peso": 0.9,
+      "descricao": "Fundada por Alexandre em 331 a.C. no delta do Nilo, Alexandria tornou-se a maior cidade do mundo mediterrâneo com 500.000 habitantes. A Biblioteca de Alexandria reuniu até 700.000 rolos — o maior acervo do mundo antigo. O Farol (uma das Sete Maravilhas) orientava navios a 50 km.",
+      "importancia": "Alexandria simboliza a síntese helenística: gregos, egípcios, judeus, persas e orientais convivendo, traduzindo, debatendo. A Septuaginta (Bíblia em grego) foi produzida aqui para os judeus da diáspora que já não liam hebraico."
+    },
+    {
+      "id": "ghl-003",
+      "nome": "Ciência Helenística: Euclides, Arquimedes, Eratóstenes",
+      "inicio": -300,
+      "fim": -150,
+      "tipo": "scientific",
+      "regiao": "Europe",
+      "peso": 0.85,
+      "descricao": "Euclides sistematizou a geometria nos Elementos (c.300 a.C.) — o livro mais reeditado da história após a Bíblia. Arquimedes calculou pi, inventou a bomba de parafuso e projetou máquinas de guerra. Eratóstenes mediu a circunferência da Terra com erro de 1%.",
+      "importancia": "A ciência helenística foi a primeira tradição científica sistemática — não apenas observação, mas demonstração lógica e quantificação. Hipárco catalogou 850 estrelas e calculou a precessão dos equinócios 2.000 anos antes de Newton."
+    },
+    {
+      "id": "ghl-004",
+      "nome": "Reino Selêucida: Da Síria à Índia",
+      "inicio": -312,
+      "fim": -63,
+      "tipo": "political",
+      "regiao": "MiddleEast",
+      "peso": 0.75,
+      "descricao": "Seleuco I fundou o maior dos reinos helenísticos: da Anatólia ao Punjab. Mantinha cidades gregas como Selêucia no Tigre (rivalizando Babilônia). Perdeu gradualmente os territórios orientais — Pártia e Bactria tornaram-se independentes; o leste foi cedido a Chandragupta Maurya em troca de elefantes de guerra.",
+      "importancia": "O Império Selêucida foi a ponte entre o mundo grego e o persa-oriental. A Bactria (atual Afeganistão) produziu o reino greco-bactriano — cidades gregas com iconografia budista, exemplo extremo da fusão helenística."
+    },
+    {
+      "id": "ghl-005",
+      "nome": "Ptolomeus e o Egito Helenístico",
+      "inicio": -305,
+      "fim": -30,
+      "tipo": "political",
+      "regiao": "Africa",
+      "peso": 0.8,
+      "descricao": "Os Ptolomeus (descendentes de Ptolomeu I, general de Alexandre) governaram o Egito por 275 anos. Mantiveram os faraós como fachada religiosa enquanto governavam como reis gregos. Cleópatra VII foi a única de toda a dinastia a aprender egípcio. A batalha de Actium (31 a.C.) entregou o Egito a Roma.",
+      "importancia": "O Egito Ptolomaico foi o mais rico dos reinos helenísticos — controlava o comércio do Mediterrâneo oriental e o trigo que alimentava Roma. A fusão dos cultos (Serápis: Osíris + Zeus) exemplifica o sincretismo religioso que caracterizou o helenismo."
+    },
+    {
+      "id": "ghl-006",
+      "nome": "Filosofia Helenística: Estoicismo, Epicurismo, Ceticismo",
+      "inicio": -300,
+      "fim": 200,
+      "tipo": "intellectual",
+      "regiao": "Europe",
+      "peso": 0.85,
+      "descricao": "Com a polis em crise, a filosofia voltou-se para a ética individual. Zenão de Cítio fundou o Estoicismo (c.300 a.C.): viver segundo a razão, aceitar o destino, dever cívico universal. Epicuro: a felicidade é ausência de dor e medo — retire-se da política. Pirro de Élis: nada pode ser conhecido com certeza — suspenda o julgamento.",
+      "importancia": "O Estoicismo tornou-se a filosofia dominante do mundo romano (Marco Aurélio, Sêneca, Epicteto) e influenciou o pensamento cristão. A ideia estoica de logos universal e cosmopolitismo — 'sou cidadão do mundo' — foi radicalmente nova na Antiguidade."
+    },
+    {
+      "id": "ghl-007",
+      "nome": "O Colapso Helenístico e a Expansão de Roma",
+      "inicio": -215,
+      "fim": -30,
+      "tipo": "war",
+      "regiao": "Europe",
+      "peso": 0.8,
+      "descricao": "Roma avançou progressivamente sobre o mundo helenístico: Macedônia derrotada em 168 a.C. (Pidna), Grécia tornada província em 146 a.C. (destruição de Corinto no mesmo ano que Cartago), reino selêucida enfraquecido. Apenas o Egito ptolomaico sobreviveu como Estado independente — até Actium (31 a.C.).",
+      "importancia": "A conquista romana do mundo helenístico completou a circulação: Roma absorveu a cultura grega enquanto a espalhava ainda mais amplamente. Horácio: 'Graecia capta ferum victorem cepit' — a Grécia capturada capturou seu feroz vencedor."
+    },
+    {
+      "id": "gh1",
+      "nome": "Ptolemeu e a Biblioteca de Alexandria",
+      "nome_en": "Ptolemeu e a Biblioteca de Alexandria",
+      "nome_es": "Ptolemeu e a Biblioteca de Alexandria",
+      "tipo": "pessoa",
+      "inicio": -367,
+      "fim": -282,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 4,
+      "type": "cultural",
+      "descricao": "Ptolemeu I (367-282 a.C.) fundou a Biblioteca de Alexandria (c. 295 a.C.) com o objetivo de colecionar todas as obras escritas do mundo. No apice: 400.000-700.000 rolos. Arquimedes, Euclides, Eratostenes (calculou a circunferencia da Terra com 1% de erro) e Hiparco trabalharam em Alexandria. Queimada progressivamente - nao em um unico incendio.",
+      "descricao_en": "Ptolemeu I (367-282 a.C.) fundou a Biblioteca de Alexandria (c. 295 a.C.) com o objetivo de colecionar todas as obras escritas do mundo. No apice: 400.000-700.000 rolos. Arquimedes, Euclides, Eratostenes (calculou a circunferencia da Terra com 1% de erro) e Hiparco trabalharam em Alexandria. Queimada progressivamente - nao em um unico incendio.",
+      "descricao_es": "Ptolemeu I (367-282 a.C.) fundou a Biblioteca de Alexandria (c. 295 a.C.) com o objetivo de colecionar todas as obras escritas do mundo. No apice: 400.000-700.000 rolos. Arquimedes, Euclides, Eratostenes (calculou a circunferencia da Terra com 1% de erro) e Hiparco trabalharam em Alexandria. Queimada progressivamente - nao em um unico incendio.",
+      "importancia": "A Biblioteca de Alexandria e o maior projeto intelectual da Antiguidade e o maior simbolo da perda cultural da historia. O paradoxo: nao foi destruida de uma vez - foi negligenciada e diminuida ao longo de seculos de decadencia.",
+      "importancia_en": "A Biblioteca de Alexandria e o maior projeto intelectual da Antiguidade e o maior simbolo da perda cultural da historia. O paradoxo: nao foi destruida de uma vez - foi negligenciada e diminuida ao longo de seculos de decadencia.",
+      "importancia_es": "A Biblioteca de Alexandria e o maior projeto intelectual da Antiguidade e o maior simbolo da perda cultural da historia. O paradoxo: nao foi destruida de uma vez - foi negligenciada e diminuida ao longo de seculos de decadencia.",
+      "tags": [
+        "Alexandria",
+        "Ptolomeu",
+        "400.000",
+        "Eratostenes",
+        "Euclides",
+        "Biblioteca"
+      ],
+      "dataset": "data/dados-grecia-helenismo.json"
+    }
+  ]
+}

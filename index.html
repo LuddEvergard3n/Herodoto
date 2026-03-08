@@ -27,6 +27,10 @@
         <p data-i18n="header_subtitle">O Pai da História — explore tempo, espaço e contexto</p>
       </div>
       <div class="controls-top">
+        <a href="fontes.html"           class="fontes-btn">Fontes</a>
+        <a href="guia-professor.html"   class="fontes-btn">Guia do Professor</a>
+        <a href="sobre.html"            class="fontes-btn">Sobre</a>
+        <a href="ajuda.html"            class="fontes-btn">Ajuda</a>
         <label class="lang-label" for="langSelect" data-i18n="lang_label">Idioma</label>
         <select id="langSelect" aria-label="Idioma">
           <option value="pt">Português</option>
@@ -73,6 +77,9 @@
             <input type="checkbox" class="dataset" value="data/dados-pre-historia.json">
             <span>Idades dos Metais e Transição</span>
           </label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-pre-historia-paleolitico.json"><span>Paleolítico: Origens, Arte e Cognição</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-pre-historia-neolitico.json"><span>Revolução Neolítica: Agricultura e Primeiras Aldeias</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-pre-historia-americas.json"><span>Pré-História das Américas</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-pre-historia-europa.json"><span>Pré-História Europeia: Megalitismo e Metais</span></label>
 
                     <!-- EUROPA -->
@@ -94,6 +101,7 @@
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-grecia-cultura.json"><span>Arte, Teatro, Medicina e Ciência Grega</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-grecia-alexandre.json"><span>Alexandre Magno: Conquistas, Helenismo e Legado</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-helenismo-ciencia.json"><span>Helenismo e Ciência Grega</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-grecia-helenismo.json"><span>Helenismo: Reinos Sucessores, Alexandria e Estoicismo</span></label>
 
           <p class="dataset-subgroup-label" data-i18n="sg_antiquity_rome">Roma</p>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-roma-republica.json"><span>República Romana: Instituições e Crise</span></label>
@@ -103,6 +111,10 @@
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-roma-cultura.json"><span>Arte, Engenharia e Literatura Romana</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-roma-antiga.json"><span>Roma Antiga — visão geral</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-queda-roma.json"><span>Crise e Queda de Roma Ocidental</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-roma-emperadores.json"><span>Imperadores: Augusto, Nero, Trajano e os Antoninos</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-roma-crise-terceiro-seculo.json"><span>Crise do III Século: Anarquia Militar e Diocleciano</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-roma-queda-ocidente.json"><span>Queda do Ocidente: Migrações e 476 d.C.</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-roma-teologia-direito.json"><span>Direito Romano e Teologia Cristã Primitiva</span></label>
 
           <p class="dataset-subgroup-label" data-i18n="sg_medieval">Idade Média</p>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-medieval-feudalismo.json"><span>Feudalismo: Origens, Servos e Vikings</span></label>
@@ -113,15 +125,19 @@
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-bizantino-medieval.json"><span>Bizâncio: Justiniano a Queda de Constantinopla</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-idade-media-europeia.json"><span>Idade Média Europeia — visão geral</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-europa-medieval-aprofundada.json"><span>Alta Idade Média Aprofundada</span></label>
-          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-filosofia-medieval.json"><span>Filosofia Medieval: Agostinho a Ockham</span></label>
-          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-igreja-medieval-cultura.json"><span>Igreja Medieval: Arte, Ciência e Cultura</span></label>
-
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-vikings.json"><span>Vikings: Expansão, Rotas e Mundo Nórdico (793–1100)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-carlomagno.json"><span>Carlomagno: Renovatio Imperii e Renascimento Carolíngio</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-carolingios.json"><span>Carolíngios: De Carlos Martel a Luís, o Piedoso</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-peste-negra.json"><span>Peste Negra: Yersinia pestis e Transformação da Europa</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-guerra-cem-anos.json"><span>Guerra dos Cem Anos: Inglaterra, França e Joana d'Arc</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-humanismo-erasmo.json"><span>Humanismo: Erasmo, Thomas More e Pico della Mirandola</span></label>
           <p class="dataset-subgroup-label" data-i18n="sg_thought">Filosofia e Pensamento</p>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-filosofia-antiga.json"><span>Filosofia Antiga</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-filosofia-medieval.json"><span>Filosofia Medieval</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-filosofia-racionalismo.json"><span>Racionalismo, Empirismo e Iluminismo</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-existencialismo.json"><span>Existencialismo</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-movimentos-arte.json"><span>Movimentos Artísticos</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-filosofia-moderna.json"><span>Filosofia Moderna: Descartes, Kant e Hegel</span></label>
 
           <p class="dataset-subgroup-label" data-i18n="sg_renaissance_reform">Renascimento e Reforma</p>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-renascimento-cultural.json"><span>Renascimento Cultural</span></label>
@@ -131,6 +147,9 @@
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-renascimento-norte.json"><span>Renascimento do Norte: Erasmo, Gutenberg, Shakespeare</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-lutero-reforma.json"><span>Lutero: Reforma e Doutrinas Agostinianas</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-igreja-ciencia.json"><span>Igreja, Ciência: Copérnico, Bruno e Galileu</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-reforma-calvino.json"><span>Calvino, Zuínglio e o Protestantismo Reformado</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-contrarreforma.json"><span>Contrarreforma: Trento, Jesuítas e Arte Barroca</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-guerras-religiao.json"><span>Guerras de Religião: Huguenotes, Armada e 30 Anos</span></label>
 
           <p class="dataset-subgroup-label" data-i18n="sg_catholic_church">Igreja Católica Apostólica Romana</p>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-igreja-fundacao.json"><span>Fundação da Igreja e Primeiros Cristãos</span></label>
@@ -146,6 +165,15 @@
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-revolucao-cientifica.json"><span>Revolução Científica</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-ciencia-tecnologia.json"><span>Ciência e Tecnologia</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-iluminismo.json"><span>Iluminismo</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-habsburgos.json"><span>Habsburgos: Dinastia, Império e Guerras Europeias</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-franca-ancien-regime.json"><span>Luís XIV e o Ancien Régime Francês</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-ingles-revolucao.json"><span>Revolução Inglesa: Cromwell, Bill of Rights e Parlamento</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-holanda-seculo-de-ouro.json"><span>Holanda: Século de Ouro, VOC e Spinoza</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-guerra-trinta-anos.json"><span>Guerra dos Trinta Anos e a Paz de Vestfália (1618–1648)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-austria-prussia.json"><span>Áustria vs. Prússia: Frederico II e Maria Teresa</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-iluminismo-frances.json"><span>Iluminismo Francês: Voltaire, Rousseau, Enciclopédie</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-iluminismo-britanico.json"><span>Iluminismo Britânico: Locke, Hume e Adam Smith</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-iluminismo-alemao.json"><span>Iluminismo Alemão: Kant, Goethe e Schiller</span></label>
 
           <p class="dataset-subgroup-label" data-i18n="sg_revolutions_19c">Revoluções e Século XIX</p>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-revolucoes-liberais.json"><span>Revoluções Liberais: 1820, 1848, Unificações</span></label>
@@ -156,6 +184,15 @@
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-nacionalismo-europeu.json"><span>Nacionalismo Europeu e 1848</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-imperialismo-colonial.json"><span>Imperialismo Colonial</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-capitalismo.json"><span>História do Capitalismo</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-napoleao-europa.json"><span>Napoleão: Ascensão, Império e Legado</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-congresso-viena.json"><span>Congresso de Viena e Sistema de Restauração (1814–1848)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-revolucoes-1848.json"><span>Primavera dos Povos: Revoluções de 1848</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-unificacao-italia.json"><span>Unificação Italiana: Garibaldi, Cavour e o Risorgimento</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-unificacao-alemanha.json"><span>Unificação Alemã: Bismarck e o II Reich</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-belle-epoque.json"><span>Belle Époque: Progresso, Tensões e Imperialismo (1871–1914)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-imperialismo-britanico.json"><span>Império Britânico: Construção, Apogeu e Declínio</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-imperialismo-frances.json"><span>Imperialismo Francês: Argélia, Indochina e Descolonização</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-industrializacao-europa.json"><span>Industrialização Europeia: Aço, Química e Movimentos Operários</span></label>
 
           <p class="dataset-subgroup-label" data-i18n="sg_russia">Rússia e Movimento Operário</p>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-russia-pedro-catarina.json"><span>Pedro o Grande e Catarina a Grande</span></label>
@@ -163,6 +200,7 @@
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-revolucao-russa.json"><span>Revolução Russa</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-socialismo-trabalho.json"><span>Socialismo e Trabalho</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-movimentos-sociais.json"><span>Movimentos Sociais</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-russia-imperio.json"><span>Império Russo: Pedro o Grande a Nicolau II</span></label>
 
           <p class="dataset-subgroup-label" data-i18n="sg_20c_wars">Século XX e Conflitos Globais</p>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-primeira-guerra.json"><span>Primeira Guerra Mundial</span></label>
@@ -172,6 +210,21 @@
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-guerra-fria.json"><span>Guerra Fria</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-eua-seculo-xx.json"><span>EUA no Século XX: New Deal, Direitos Civis e Hegemonia</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-pos-guerra-fria.json"><span>Pós-Guerra Fria</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-frente-ocidental-1914.json"><span>Frente Ocidental: Schlieffen, Trincheiras e 1918</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-tratado-versalhes.json"><span>Tratado de Versalhes e o Novo Mapa Europeu (1919)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-republica-weimar.json"><span>República de Weimar: Democracia, Crise e Colapso</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-nazismo.json"><span>Nazismo: Ideologia, Estado de Terror e Expansão</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-fascismo-italiano.json"><span>Fascismo Italiano: Mussolini, Marcha sobre Roma e Queda</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-guerra-civil-espanhola.json"><span>Guerra Civil Espanhola: República, Franco e Guernica</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-frente-oriental.json"><span>Frente Oriental: Barbarossa, Stalingrado e 27 Milhões</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-holocaust.json"><span>Holocausto: Antissemitismo, Campos de Extermínio e Memória</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-europa-pos-guerra.json"><span>Europa Pós-1945: Plano Marshall, Wirtschaftswunder e Nuremberg</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-uniao-europeia.json"><span>União Europeia: CECA, Roma, Euro e Crises</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-guerra-fria-europa.json"><span>Guerra Fria na Europa: Berlim, 1956, 1968 e Solidarność</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-desintegracao-urss.json"><span>Desintegração da URSS: Gorbachev, 1989 e Fim da URSS</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-balcas-guerras.json"><span>Guerras dos Bálcãs: Iugoslávia, Srebrenica e Kosovo</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-europa-contemporanea.json"><span>Europa Contemporânea: Crise do Euro, Brexit e Populismo</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-1968-europa.json"><span>1968: Maio em Paris, Praga e Legado Cultural</span></label>
 
 <!-- ÁSIA -->
           <p class="dataset-group-label" data-i18n="continent_asia">Ásia</p>
@@ -247,6 +300,9 @@
 
           <!-- Japão -->
           <p class="dataset-subgroup-label" data-i18n="sg_japao">Japão</p>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-japao.json"><span>Japão — visão geral</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-japao-arcaico.json"><span>Japão Arcaico: Jomon, Yayoi e Yamato</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-japao-feudal.json"><span>Japão Feudal: Samurais, Xogunatos e Sengoku</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-japao-antigo.json"><span>Japão Antigo: Jomon, Yayoi, Nara e Heian</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-japao-sengoku.json"><span>Sengoku, Tokugawa e Abertura Meiji</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-japao-meiji.json"><span>Restauração Meiji e Industrialização</span></label>
@@ -254,12 +310,15 @@
 
           <!-- Coreia -->
           <p class="dataset-subgroup-label" data-i18n="sg_coreia">Coreia</p>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-coreia.json"><span>Coreia — visão geral</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-coreia-antiga.json"><span>Coreia Antiga: Três Reinos e Goryeo</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-coreia-joseon.json"><span>Joseon: Sejong, Hangul e Invasões</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-coreia-moderna.json"><span>Coreia Moderna: Guerra, Divisão e Hallyu</span></label>
 
           <!-- Sudeste Asiático -->
           <p class="dataset-subgroup-label" data-i18n="sg_sudeste_asiatico">Sudeste Asiático</p>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-sudeste-asiatico.json"><span>Sudeste Asiático — visão geral</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-sudeste-continental.json"><span>Sudeste Asiático Continental — visão geral</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-sudeste-asiatico-continental.json"><span>Sudeste Asiático Continental: Angkor, Pagan, Ayutthaya</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-sudeste-asiatico-maritimo.json"><span>Sudeste Asiático Marítimo: Srivijaya, Majapahit, Malaca</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-sudeste-asiatico-colonial.json"><span>Colonização, Guerras e Independências</span></label>
@@ -272,6 +331,8 @@
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-egito-reinos-antigo-medio.json"><span>Egito: Reino Antigo, Pirâmides e Medicina</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-egito-novo-reino.json"><span>Egito: Novo Reino, Hatchepsut e Cleópatra</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-egito-antigo.json"><span>Egito Antigo — visão geral</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-egito-reinos.json"><span>Egito: Reinos e Períodos Intermediários</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-egito-tardio.json"><span>Egito Tardio e Período Greco-Romano</span></label>
 
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-africa-norte.json"><span>Norte de África: Cartago, Magreb Islâmico e Independências</span></label>
 
@@ -308,6 +369,7 @@
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-persia-expandida.json"><span>Pérsia Expandida: Aquemênidas, Partas, Sassânidas</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-persia-zoroastrismo-cultura.json"><span>Pérsia: Zoroastrismo, Persépolis e Guerras Médicas</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-arabia-pre-islamica.json"><span>Arábia Pré-Islâmica e os Nabateus</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-persia-antiga.json"><span>Pérsia Antiga — visão geral</span></label>
 
           <!-- Islã Clássico -->
           <p class="dataset-subgroup-label" data-i18n="sg_me_classical_islam">Islã Clássico</p>
@@ -335,6 +397,8 @@
             <input type="checkbox" class="dataset" value="data/dados-religioes-mundo.json">
             <span>Religiões do Mundo</span>
           </label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-al-andalus.json"><span>Al-Ândalus: Islão na Península Ibérica (711–1492)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-islao-fundacao.json"><span>Islão: Fundação e os Primeiros Califas</span></label>
 
           <!-- Impérios Tardios -->
           <p class="dataset-subgroup-label" data-i18n="sg_me_modern">Impérios Tardios e Modernidade</p>
@@ -376,6 +440,12 @@
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-eua-new-deal-guerra-fria.json"><span>EUA: New Deal, Segunda Guerra e Guerra Fria</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-eua-contemporaneo.json"><span>EUA: Reagan, 11/9, Obama e Polarização</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-eua-historia.json"><span>EUA — visão geral</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-eua-seculo20.json"><span>EUA no Século XX — visão geral</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-eua-colonias.json"><span>EUA: Treze Colônias e Vida Colonial</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-eua-expansao-civil.json"><span>EUA: Expansão para o Oeste e Guerra Civil</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-eua-industrializacao.json"><span>EUA: Industrialização e Gilded Age</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-eua-guerras-mundiais.json"><span>EUA nas Guerras Mundiais</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-eua-guerra-fria.json"><span>EUA na Guerra Fria</span></label>
 
           <!-- AMÉRICA CENTRAL -->
           <p class="dataset-group-label" data-i18n="continent_centralamerica">América Central</p>
@@ -401,6 +471,7 @@
           <p class="dataset-subgroup-label" data-i18n="sg_astecas">Astecas</p>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-aztecas.json"><span>Astecas — visão geral</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-astecas-expandido.json"><span>Astecas: Império, Tributo e Conquista</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-astecas-imperio.json"><span>Astecas: Império, Tlatelolco e Conquista</span></label>
 
           <p class="dataset-subgroup-label" data-i18n="sg_latin_america_20c">América Latina no Século XX</p>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-america-latina-sec20.json"><span>Ditaduras, Revoluções e Democracia na América Latina</span></label>
@@ -415,6 +486,8 @@
           <p class="dataset-subgroup-label" data-i18n="sg_chimu_incas">Chimú e Incas</p>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-incas.json"><span>Incas — visão geral</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-chimu-conquista-peru.json"><span>Chimú, Incas e a Conquista do Peru</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-caral-andino-antigo.json"><span>Caral e o Mundo Andino Antigo</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-chimu-wari.json"><span>Chimú, Wari e os Impérios Pré-Incas</span></label>
 
           <p class="dataset-subgroup-label" data-i18n="sg_tupis_amazonia">Tupis, Guaranis e Amazônia</p>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-tupis-guaranis-amazonia.json"><span>Tupis, Guaranis, Amazônia e Caribe</span></label>
@@ -448,6 +521,30 @@
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-16-nova-republica.json"><span>16 · Nova República (1985–presente)</span></label>
 
           <!-- ── BRASIL: TEMÁTICOS TRANSVERSAIS ── -->
+          <p class="dataset-subgroup-label" data-i18n="sg_br_thematic">Brasil — Temáticos Transversais</p>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-precolonial.json"><span>Brasil Pré-Colonial: Culturas e Diversidade</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-colonial-inicial.json"><span>Brasil Colonial Inicial (1500–1580)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-colonial-tardio.json"><span>Brasil Colonial Tardio (1700–1808)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-colonial-escravidao.json"><span>Brasil Colonial: Escravidão e Resistência</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-missoes-jesuiticas.json"><span>Missões Jesuíticas e Evangelização</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-inconfidencia.json"><span>Inconfidência Mineira e Resistência Colonial</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-independencia.json"><span>Independência do Brasil (1822)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-imperio.json"><span>Império do Brasil — visão geral</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-imperio-ciencia.json"><span>Brasil Imperial: Ciência e Natureza</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-imperio-figuras.json"><span>Brasil Imperial: Figuras e Personagens</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-imperio-infraestrutura.json"><span>Brasil Imperial: Infraestrutura e Modernização</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-guerra-paraguai.json"><span>Guerra do Paraguai (1864–1870)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-republica-velha.json"><span>República Velha: Café com Leite (1889–1930)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-revoltas-republica.json"><span>Revoltas na Primeira República</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-era-vargas.json"><span>Era Vargas: Revolução de 30 e Estado Novo</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-ditadura.json"><span>Ditadura Militar (1964–1985)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-redemocratizacao.json"><span>Redemocratização e Nova República (1985–)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-republica.json"><span>República do Brasil — visão geral</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-contemporaneo.json"><span>Brasil Contemporâneo (1985–hoje)</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-ciclos-economicos.json"><span>Ciclos Econômicos: Pau-Brasil ao Café</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-economia-social.json"><span>Brasil: Economia e Questão Social</span></label>
+          <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-cultura-arte.json"><span>Brasil: Cultura, Arte e Identidade</span></label>
+
           <p class="dataset-subgroup-label" data-i18n="sg_br_society">Sociedade e Identidade Brasileira</p>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-quilombos.json"><span>Quilombos e Resistência Negra</span></label>
           <label class="checkbox-label"><input type="checkbox" class="dataset" value="data/dados-brasil-indigenas.json"><span>Povos Indígenas do Brasil</span></label>

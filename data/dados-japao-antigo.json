@@ -168,6 +168,62 @@
         "bushi"
       ],
       "dataset": "data/dados-japao-antigo.json"
+    },
+    {
+      "id": "ja1",
+      "nome": "O Xintoísmo e a Identidade Japonesa",
+      "nome_en": "O Xintoísmo e a Identidade Japonesa",
+      "nome_es": "O Xintoísmo e a Identidade Japonesa",
+      "tipo": "cultural",
+      "inicio": -660,
+      "fim": 2024,
+      "region": "Asia",
+      "period": "Ancient",
+      "century_start": 7,
+      "type": "religious",
+      "descricao": "O Xintoísmo (sem fundador, sem texto sagrado, sem data de fundação) é a religião indígena japonesa: culto a kami (espíritos/divindades em tudo que existe). O imperador é descendente da deusa do sol Amaterasu. A Segunda Guerra criou o ultranacionalismo xintoísta que levou ao militarismo. Em 1946, Hirohito renunciou à divindade.",
+      "descricao_en": "O Xintoísmo (sem fundador, sem texto sagrado, sem data de fundação) é a religião indígena japonesa: culto a kami (espíritos/divindades em tudo que existe). O imperador é descendente da deusa do sol Amaterasu. A Segunda Guerra criou o ultranacionalismo xintoísta que levou ao militarismo. Em 1946, Hirohito renunciou à divindade.",
+      "descricao_es": "O Xintoísmo (sem fundador, sem texto sagrado, sem data de fundação) é a religião indígena japonesa: culto a kami (espíritos/divindades em tudo que existe). O imperador é descendente da deusa do sol Amaterasu. A Segunda Guerra criou o ultranacionalismo xintoísta que levou ao militarismo. Em 1946, Hirohito renunciou à divindade.",
+      "importancia": "O Xintoísmo é a única grande religião sem fundador, sem texto sagrado e sem missão universalista. Que o imperador tenha renunciado à divindade em 1946 é o ato mais honesto da história religiosa do século XX.",
+      "importancia_en": "O Xintoísmo é a única grande religião sem fundador, sem texto sagrado e sem missão universalista. Que o imperador tenha renunciado à divindade em 1946 é o ato mais honesto da história religiosa do século XX.",
+      "importancia_es": "O Xintoísmo é a única grande religião sem fundador, sem texto sagrado e sem missão universalista. Que o imperador tenha renunciado à divindade em 1946 é o ato mais honesto da história religiosa do século XX.",
+      "tags": [
+        "Xintoísmo",
+        "kami",
+        "Amaterasu",
+        "imperador",
+        "militarismo",
+        "1946"
+      ],
+      "dataset": "data/dados-japao-antigo.json"
+    },
+    {
+      "id": "ja2",
+      "nome": "Os Mitos Fundadores do Japão",
+      "nome_en": "Os Mitos Fundadores do Japão",
+      "nome_es": "Os Mitos Fundadores do Japão",
+      "tipo": "cultural",
+      "inicio": -660,
+      "fim": -660,
+      "region": "Asia",
+      "period": "Ancient",
+      "century_start": 7,
+      "type": "cultural",
+      "descricao": "O Nihon Shoki e o Kojiki (720 e 712 d.C.) são os textos fundadores do Japão: a criação das ilhas por Izanagi e Izanami, a deusa do sol Amaterasu, e o primeiro imperador Jimmu (660 a.C., data lendária). A continuidade imperial japonesa (125 imperadores da mesma linha) é a mais longa da história humana.",
+      "descricao_en": "O Nihon Shoki e o Kojiki (720 e 712 d.C.) são os textos fundadores do Japão: a criação das ilhas por Izanagi e Izanami, a deusa do sol Amaterasu, e o primeiro imperador Jimmu (660 a.C., data lendária). A continuidade imperial japonesa (125 imperadores da mesma linha) é a mais longa da história humana.",
+      "descricao_es": "O Nihon Shoki e o Kojiki (720 e 712 d.C.) são os textos fundadores do Japão: a criação das ilhas por Izanagi e Izanami, a deusa do sol Amaterasu, e o primeiro imperador Jimmu (660 a.C., data lendária). A continuidade imperial japonesa (125 imperadores da mesma linha) é a mais longa da história humana.",
+      "importancia": "A continuidade imperial japonesa é a mais longa da história: a mesma família (teoricamente) reina há 2.600 anos. Que seja em grande parte mítica não diminui seu poder como símbolo de identidade nacional.",
+      "importancia_en": "A continuidade imperial japonesa é a mais longa da história: a mesma família (teoricamente) reina há 2.600 anos. Que seja em grande parte mítica não diminui seu poder como símbolo de identidade nacional.",
+      "importancia_es": "A continuidade imperial japonesa é a mais longa da história: a mesma família (teoricamente) reina há 2.600 anos. Que seja em grande parte mítica não diminui seu poder como símbolo de identidade nacional.",
+      "tags": [
+        "Kojiki",
+        "Nihon Shoki",
+        "Jimmu",
+        "660 a.C.",
+        "Amaterasu",
+        "imperador"
+      ],
+      "dataset": "data/dados-japao-antigo.json"
     }
   ],
   "relacoes": [

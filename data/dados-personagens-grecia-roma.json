@@ -278,34 +278,6 @@
       "region": "Europe"
     },
     {
-      "id": "pg-010",
-      "nome": "Cleópatra VII",
-      "nome_en": "Cleopatra VII",
-      "nome_es": "Cleopatra VII",
-      "nascimento": -69,
-      "morte": -30,
-      "regiao": "Africa",
-      "area": [
-        "política"
-      ],
-      "cargo": "Rainha",
-      "epoca": "Antiguidade",
-      "descricao": "Última soberana da dinastia ptolemaica do Egito. Falava 9 idiomas (incluindo egípcio — única Ptolomaica a fazê-lo), era política e estrategista. Aliou-se a César e depois a Marco Antônio em tentativa de preservar a independência egípcia. Derrotada por Augusto na Batalha de Ácio (31 a.C.), suicidou-se — segundo a tradição, com picada de áspide.",
-      "importancia": "Cleópatra é o caso mais claro de distorção histórica por gênero: foi apagada como estadista e reduzida a 'sedutora' na tradição ocidental. Na realidade, administrou um dos impérios mais ricos do mundo, entendeu que alianças com Roma eram a única forma de preservar o Egito, e sua derrota marcou o fim da última monarquia helenística independente. O Egito se tornou província romana.",
-      "eventos": [],
-      "tags": [
-        "egito",
-        "ptolemaica",
-        "políticafeminina",
-        "cesar",
-        "marco-antonio"
-      ],
-      "type": "person",
-      "inicio": -69,
-      "fim": -30,
-      "region": "Africa"
-    },
-    {
       "id": "pg-011",
       "nome": "Arquimedes",
       "nome_en": "Archimedes",

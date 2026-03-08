@@ -155,6 +155,62 @@
       "period": "EarlyModern",
       "importancia_en": "'Waterloo' became a universal synonym for definitive defeat.",
       "importancia_es": "'Waterloo' se convirtió en sinónimo universal de derrota definitiva."
+    },
+    {
+      "id": "gn1",
+      "nome": "Trafalgar: O Domínio dos Mares",
+      "nome_en": "Trafalgar: O Domínio dos Mares",
+      "nome_es": "Trafalgar: O Domínio dos Mares",
+      "tipo": "evento",
+      "inicio": 1805,
+      "fim": 1805,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "war",
+      "descricao": "A Batalha de Trafalgar (21 outubro 1805): Almirante Nelson destruiu a frota franco-espanhola com 27 navios britânicos vs. 33 aliados. Nelson morreu no combate. A vitória garantiu a supremacia naval britânica por 100 anos - e impediu a invasão da Inglaterra por Napoleão.",
+      "descricao_en": "A Batalha de Trafalgar (21 outubro 1805): Almirante Nelson destruiu a frota franco-espanhola com 27 navios britânicos vs. 33 aliados. Nelson morreu no combate. A vitória garantiu a supremacia naval britânica por 100 anos - e impediu a invasão da Inglaterra por Napoleão.",
+      "descricao_es": "A Batalha de Trafalgar (21 outubro 1805): Almirante Nelson destruiu a frota franco-espanhola com 27 navios britânicos vs. 33 aliados. Nelson morreu no combate. A vitória garantiu a supremacia naval britânica por 100 anos - e impediu a invasão da Inglaterra por Napoleão.",
+      "importancia": "Trafalgar é o motivo pelo qual a Grã-Bretanha dominou o século XIX: a supremacia naval permitiu o Império, o comércio livre e a industrialização sem ameaça de invasão.",
+      "importancia_en": "Trafalgar é o motivo pelo qual a Grã-Bretanha dominou o século XIX: a supremacia naval permitiu o Império, o comércio livre e a industrialização sem ameaça de invasão.",
+      "importancia_es": "Trafalgar é o motivo pelo qual a Grã-Bretanha dominou o século XIX: a supremacia naval permitiu o Império, o comércio livre e a industrialização sem ameaça de invasão.",
+      "tags": [
+        "Trafalgar",
+        "Nelson",
+        "1805",
+        "frota",
+        "marinha britânica",
+        "morte"
+      ],
+      "dataset": "data/dados-guerras-napoleonicas.json"
+    },
+    {
+      "id": "gn2",
+      "nome": "A Retirada da Rússia: O Desastre de 1812",
+      "nome_en": "A Retirada da Rússia: O Desastre de 1812",
+      "nome_es": "A Retirada da Rússia: O Desastre de 1812",
+      "tipo": "evento",
+      "inicio": 1812,
+      "fim": 1812,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "war",
+      "descricao": "A campanha da Rússia (1812): 600.000 soldados entraram, 100.000 saíram. A terra arrasada russa e o inverno destruíram o Grande Exército. Moscou foi queimada pelos próprios russos. O mus de Tolstói Guerra e Paz é a maior narrativa do desastre.",
+      "descricao_en": "A campanha da Rússia (1812): 600.000 soldados entraram, 100.000 saíram. A terra arrasada russa e o inverno destruíram o Grande Exército. Moscou foi queimada pelos próprios russos. O mus de Tolstói Guerra e Paz é a maior narrativa do desastre.",
+      "descricao_es": "A campanha da Rússia (1812): 600.000 soldados entraram, 100.000 saíram. A terra arrasada russa e o inverno destruíram o Grande Exército. Moscou foi queimada pelos próprios russos. O mus de Tolstói Guerra e Paz é a maior narrativa do desastre.",
+      "importancia": "A retirada da Rússia foi o maior desastre militar da história moderna e o modelo de todas as campanhas militares que terminaram em catástrofe por supereXtensão de linhas de suprimento.",
+      "importancia_en": "A retirada da Rússia foi o maior desastre militar da história moderna e o modelo de todas as campanhas militares que terminaram em catástrofe por supereXtensão de linhas de suprimento.",
+      "importancia_es": "A retirada da Rússia foi o maior desastre militar da história moderna e o modelo de todas as campanhas militares que terminaram em catástrofe por supereXtensão de linhas de suprimento.",
+      "tags": [
+        "Rússia",
+        "1812",
+        "inverno",
+        "Moscou",
+        "600.000",
+        "retirada"
+      ],
+      "dataset": "data/dados-guerras-napoleonicas.json"
     }
   ],
   "relacoes": [

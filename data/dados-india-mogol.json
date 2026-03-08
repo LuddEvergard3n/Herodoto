@@ -181,6 +181,34 @@
       "period": "Contemporary",
       "importancia_en": "Independence on August 15, 1947. Gandhi assassinated by Hindu extremist on January 30, 1948.",
       "importancia_es": "Independencia el 15 de agosto de 1947. Gandhi asesinado el 30 de enero de 1948."
+    },
+    {
+      "id": "img1",
+      "nome": "Akbar e a Tolerancia Religiosa no Imperio Mogol",
+      "nome_en": "Akbar e a Tolerancia Religiosa no Imperio Mogol",
+      "nome_es": "Akbar e a Tolerancia Religiosa no Imperio Mogol",
+      "tipo": "pessoa",
+      "inicio": 1542,
+      "fim": 1605,
+      "region": "Asia",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "religious",
+      "descricao": "Akbar (r. 1556-1605) foi o maior imperador Mogol: tolerancia religiosa radical (Din-i-Ilahi, nova religiao sincrética), aboliu o jizya (imposto sobre nao-muçulmanos), casou-se com princesas hinduistas, empregou hindus em cargos governamentais. Seu imperia controlava 1/4 da riqueza mundial.",
+      "descricao_en": "Akbar (r. 1556-1605) foi o maior imperador Mogol: tolerancia religiosa radical (Din-i-Ilahi, nova religiao sincrética), aboliu o jizya (imposto sobre nao-muçulmanos), casou-se com princesas hinduistas, empregou hindus em cargos governamentais. Seu imperia controlava 1/4 da riqueza mundial.",
+      "descricao_es": "Akbar (r. 1556-1605) foi o maior imperador Mogol: tolerancia religiosa radical (Din-i-Ilahi, nova religiao sincrética), aboliu o jizya (imposto sobre nao-muçulmanos), casou-se com princesas hinduistas, empregou hindus em cargos governamentais. Seu imperia controlava 1/4 da riqueza mundial.",
+      "importancia": "Akbar foi o governante mais tolerante da historia do Islamismo: criou uma India multi-religiosa administrada de forma meritocratica. Que seu proprio filho Jahangir e neto Aurangzeb reverteram a tolerancia demonstra quao dificil e institucionalizar virtudes pessoais.",
+      "importancia_en": "Akbar foi o governante mais tolerante da historia do Islamismo: criou uma India multi-religiosa administrada de forma meritocratica. Que seu proprio filho Jahangir e neto Aurangzeb reverteram a tolerancia demonstra quao dificil e institucionalizar virtudes pessoais.",
+      "importancia_es": "Akbar foi o governante mais tolerante da historia do Islamismo: criou uma India multi-religiosa administrada de forma meritocratica. Que seu proprio filho Jahangir e neto Aurangzeb reverteram a tolerancia demonstra quao dificil e institucionalizar virtudes pessoais.",
+      "tags": [
+        "Akbar",
+        "Din-i-Ilahi",
+        "jizya",
+        "tolerancia",
+        "1/4 do PIB",
+        "sincrética"
+      ],
+      "dataset": "data/dados-india-mogol.json"
     }
   ],
   "relacoes": [

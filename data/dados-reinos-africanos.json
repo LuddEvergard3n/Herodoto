@@ -155,6 +155,62 @@
       "period": "Modern",
       "importancia_en": "But Ulundi (4 Jul 1879) ended the independent kingdom. Symbolic resistance for pan-Africanism.",
       "importancia_es": "Cetshwayo derrotó al Ejército Británico en Isandlwana (1879) — peor derrota británica del siglo XIX. Ulundi (1879) acabó con el reino independiente."
+    },
+    {
+      "id": "ra1",
+      "nome": "Mansa Musa: O Homem Mais Rico da História",
+      "nome_en": "Mansa Musa: O Homem Mais Rico da História",
+      "nome_es": "Mansa Musa: O Homem Mais Rico da História",
+      "tipo": "pessoa",
+      "inicio": 1280,
+      "fim": 1337,
+      "region": "Africa",
+      "period": "Medieval",
+      "century_start": 14,
+      "type": "economic",
+      "descricao": "Mansa Musa I (r. 1312-1337), imperador do Mali, fez a hajj para Meca (1324-1325) com 60.000 pessoas e 11 toneladas de ouro. A quantidade de ouro distribuída em Cairo causou inflação por 12 anos. Seu patrimônio estimado: $400 bilhões - mais rico que qualquer pessoa na história moderna.",
+      "descricao_en": "Mansa Musa I (r. 1312-1337), imperador do Mali, fez a hajj para Meca (1324-1325) com 60.000 pessoas e 11 toneladas de ouro. A quantidade de ouro distribuída em Cairo causou inflação por 12 anos. Seu patrimônio estimado: $400 bilhões - mais rico que qualquer pessoa na história moderna.",
+      "descricao_es": "Mansa Musa I (r. 1312-1337), imperador do Mali, fez a hajj para Meca (1324-1325) com 60.000 pessoas e 11 toneladas de ouro. A quantidade de ouro distribuída em Cairo causou inflação por 12 anos. Seu patrimônio estimado: $400 bilhões - mais rico que qualquer pessoa na história moderna.",
+      "importancia": "Mansa Musa é o homem mais rico que já existiu - e o mais pouco conhecido nos livros didáticos ocidentais. Que um africano medieval tenha causado inflação numa potência econômica como o Cairo com seu ouro demonstra o poder do Império do Mali.",
+      "importancia_en": "Mansa Musa é o homem mais rico que já existiu - e o mais pouco conhecido nos livros didáticos ocidentais. Que um africano medieval tenha causado inflação numa potência econômica como o Cairo com seu ouro demonstra o poder do Império do Mali.",
+      "importancia_es": "Mansa Musa é o homem mais rico que já existiu - e o mais pouco conhecido nos livros didáticos ocidentais. Que um africano medieval tenha causado inflação numa potência econômica como o Cairo com seu ouro demonstra o poder do Império do Mali.",
+      "tags": [
+        "Mansa Musa",
+        "Mali",
+        "1324",
+        "ouro",
+        "Meca",
+        "$400 bilhões"
+      ],
+      "dataset": "data/dados-reinos-africanos.json"
+    },
+    {
+      "id": "ra2",
+      "nome": "Axum: O Terceiro Maior Império da Antiguidade",
+      "nome_en": "Axum: O Terceiro Maior Império da Antiguidade",
+      "nome_es": "Axum: O Terceiro Maior Império da Antiguidade",
+      "tipo": "periodo",
+      "inicio": 100,
+      "fim": 940,
+      "region": "Africa",
+      "period": "Ancient",
+      "century_start": 2,
+      "type": "political",
+      "descricao": "O Império de Axum (atual Etiópia/Eritreia, 100-940 d.C.) foi o terceiro maior poder do mundo após Roma e Pérsia: controlava o comércio entre o Mediterrâneo e a Índia via Mar Vermelho. O Rei Ezana converteu-se ao Cristianismo em 330 d.C. - antes de qualquer rei europeu. As estelas de Axum (obeliscos) são as maiores estruturas de pedra da África Sub-Saariana.",
+      "descricao_en": "O Império de Axum (atual Etiópia/Eritreia, 100-940 d.C.) foi o terceiro maior poder do mundo após Roma e Pérsia: controlava o comércio entre o Mediterrâneo e a Índia via Mar Vermelho. O Rei Ezana converteu-se ao Cristianismo em 330 d.C. - antes de qualquer rei europeu. As estelas de Axum (obeliscos) são as maiores estruturas de pedra da África Sub-Saariana.",
+      "descricao_es": "O Império de Axum (atual Etiópia/Eritreia, 100-940 d.C.) foi o terceiro maior poder do mundo após Roma e Pérsia: controlava o comércio entre o Mediterrâneo e a Índia via Mar Vermelho. O Rei Ezana converteu-se ao Cristianismo em 330 d.C. - antes de qualquer rei europeu. As estelas de Axum (obeliscos) são as maiores estruturas de pedra da África Sub-Saariana.",
+      "importancia": "Axum é a civilização africana mais subestimada: contemporânea de Roma, tão poderosa quanto a Pérsia, primeira nação a adotar o Cristianismo como religião de Estado - e quase desconhecida fora da Etiópia.",
+      "importancia_en": "Axum é a civilização africana mais subestimada: contemporânea de Roma, tão poderosa quanto a Pérsia, primeira nação a adotar o Cristianismo como religião de Estado - e quase desconhecida fora da Etiópia.",
+      "importancia_es": "Axum é a civilização africana mais subestimada: contemporânea de Roma, tão poderosa quanto a Pérsia, primeira nação a adotar o Cristianismo como religião de Estado - e quase desconhecida fora da Etiópia.",
+      "tags": [
+        "Axum",
+        "Etiópia",
+        "330 d.C.",
+        "Ezana",
+        "Cristianismo",
+        "estelas"
+      ],
+      "dataset": "data/dados-reinos-africanos.json"
     }
   ],
   "relacoes": [

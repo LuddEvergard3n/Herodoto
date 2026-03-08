@@ -164,6 +164,62 @@
       "importancia_es": "As Ligas Camponesas revelaram que a questão fundiária era explosiva: o Brasil tinha 50% da terra nas mãos de 1% dos proprietários. A repressão imediata das Ligas após 1964 — e o extermínio de lideranças rurais — mostrou que o golpe foi também uma contrarrevolução agrária.",
       "century_start": 19,
       "century_end": 20
+    },
+    {
+      "id": "bpp1",
+      "nome": "Jânio Quadros e a Renúncia de 1961",
+      "nome_en": "Jânio Quadros e a Renúncia de 1961",
+      "nome_es": "Jânio Quadros e a Renúncia de 1961",
+      "tipo": "evento",
+      "inicio": 1961,
+      "fim": 1961,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "Jânio Quadros renunciou em agosto 1961 após 7 meses. A crise levou ao parlamentarismo temporário para permitir a posse de João Goulart. Jânio nunca explicou satisfatoriamente a renúncia.",
+      "descricao_en": "Jânio Quadros renunciou em agosto 1961 após 7 meses. A crise levou ao parlamentarismo temporário para permitir a posse de João Goulart. Jânio nunca explicou satisfatoriamente a renúncia.",
+      "descricao_es": "Jânio Quadros renunciou em agosto 1961 após 7 meses. A crise levou ao parlamentarismo temporário para permitir a posse de João Goulart. Jânio nunca explicou satisfatoriamente a renúncia.",
+      "importancia": "A renúncia de Jânio é o maior enigma da política brasileira. A crise que criou foi um ensaio do golpe de 1964.",
+      "importancia_en": "A renúncia de Jânio é o maior enigma da política brasileira. A crise que criou foi um ensaio do golpe de 1964.",
+      "importancia_es": "A renúncia de Jânio é o maior enigma da política brasileira. A crise que criou foi um ensaio do golpe de 1964.",
+      "tags": [
+        "Jânio",
+        "1961",
+        "renúncia",
+        "Jango",
+        "parlamentarismo",
+        "golpe"
+      ],
+      "dataset": "data/dados-brasil-14-populismo.json"
+    },
+    {
+      "id": "bpp2",
+      "nome": "João Goulart e as Reformas de Base",
+      "nome_en": "João Goulart e as Reformas de Base",
+      "nome_es": "João Goulart e as Reformas de Base",
+      "tipo": "evento",
+      "inicio": 1963,
+      "fim": 1964,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "Goulart propôs Reformas de Base (reforma agrária, estatização, extensão do voto a analfabetos). O comício da Central do Brasil (13 março 1964): 200.000 pessoas. Os militares responderam com o golpe de 1964 que durou 21 anos.",
+      "descricao_en": "Goulart propôs Reformas de Base (reforma agrária, estatização, extensão do voto a analfabetos). O comício da Central do Brasil (13 março 1964): 200.000 pessoas. Os militares responderam com o golpe de 1964 que durou 21 anos.",
+      "descricao_es": "Goulart propôs Reformas de Base (reforma agrária, estatização, extensão do voto a analfabetos). O comício da Central do Brasil (13 março 1964): 200.000 pessoas. Os militares responderam com o golpe de 1964 que durou 21 anos.",
+      "importancia": "As Reformas de Base foram o programa mais transformador da história brasileira. O golpe demonstrou que reformas que atingem propriedade são tratadas como subversão.",
+      "importancia_en": "As Reformas de Base foram o programa mais transformador da história brasileira. O golpe demonstrou que reformas que atingem propriedade são tratadas como subversão.",
+      "importancia_es": "As Reformas de Base foram o programa mais transformador da história brasileira. O golpe demonstrou que reformas que atingem propriedade são tratadas como subversão.",
+      "tags": [
+        "Goulart",
+        "Reformas de Base",
+        "1964",
+        "comício",
+        "golpe",
+        "21 anos"
+      ],
+      "dataset": "data/dados-brasil-14-populismo.json"
     }
   ]
 }

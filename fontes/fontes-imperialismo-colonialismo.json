@@ -1,0 +1,142 @@
+{
+  "tema": "Imperialismo, Colonialismo e Descolonização",
+  "descricao": "Navegações portuguesas e espanholas, imperialismo britânico e francês, escravidão atlântica, descolonização afro-asiática",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Luís Vaz de Camões",
+        "obra": "Os Lusíadas",
+        "ano": "1572",
+        "nota": "Épico das navegações portuguesas"
+      },
+      {
+        "autor": "Frei Bartolomeu de Las Casas",
+        "obra": "Brevíssima Relação da Destruição das Índias",
+        "ano": "1542",
+        "nota": "Trad. Heraldo Barbuy, Edições Loyola"
+      },
+      {
+        "autor": "Joseph Conrad",
+        "obra": "Coração das Trevas",
+        "ano": "1899",
+        "nota": "Literatura como fonte sobre o Congo de Leopoldo II"
+      },
+      {
+        "autor": "Rudyard Kipling",
+        "obra": "The White Man's Burden",
+        "ano": "1899",
+        "nota": "Poema que expressa a ideologia do imperialismo britânico"
+      },
+      {
+        "autor": "Frantz Fanon",
+        "obra": "Os Condenados da Terra",
+        "ano": "1961",
+        "nota": "Trad. José Laurênio de Melo, Civilização Brasileira"
+      },
+      {
+        "autor": "Mohandas K. Gandhi",
+        "obra": "Hind Swaraj",
+        "ano": "1909"
+      },
+      {
+        "autor": "Aimé Césaire",
+        "obra": "Discurso sobre o Colonialismo",
+        "ano": "1950",
+        "nota": "Trad. Claudio Willer, Veneta"
+      },
+      {
+        "autor": "Ho Chi Minh",
+        "obra": "Declaração de Independência do Vietnam",
+        "ano": "1945"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "J. A. Hobson",
+        "obra": "Imperialism: A Study",
+        "ano": "1902",
+        "editora": "Allen & Unwin"
+      },
+      {
+        "autor": "Vladimir I. Lenin",
+        "obra": "Imperialism, the Highest Stage of Capitalism",
+        "ano": "1917",
+        "nota": "Fonte histórico-política"
+      },
+      {
+        "autor": "Eric Hobsbawm",
+        "obra": "The Age of Empire, 1875–1914",
+        "ano": "1987",
+        "editora": "Weidenfeld & Nicolson"
+      },
+      {
+        "autor": "Edward W. Said",
+        "obra": "Orientalismo",
+        "ano": "1978",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "John Darwin",
+        "obra": "The Empire Project: The Rise and Fall of the British World-System, 1830–1970",
+        "ano": "2009",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Marc Ferro",
+        "obra": "Le Livre Noir du Colonialisme",
+        "ano": "2003",
+        "editora": "Robert Laffont"
+      },
+      {
+        "autor": "Philip D. Curtin",
+        "obra": "The Atlantic Slave Trade: A Census",
+        "ano": "1969",
+        "editora": "University of Wisconsin Press"
+      },
+      {
+        "autor": "Robin Blackburn",
+        "obra": "The Making of New World Slavery, 1492–1800",
+        "ano": "1997",
+        "editora": "Verso"
+      },
+      {
+        "autor": "John Thornton",
+        "obra": "Africa and Africans in the Making of the Atlantic World, 1400–1800",
+        "ano": "1992",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Robert J. C. Young",
+        "obra": "Postcolonialism: A Very Short Introduction",
+        "ano": "2003",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Nicholas Draper",
+        "obra": "The Price of Emancipation",
+        "ano": "2010",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Thomas Pakenham",
+        "obra": "The Scramble for Africa",
+        "ano": "1991",
+        "editora": "Random House"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Marc Ferro",
+        "obra": "História das Colonizações",
+        "ano": "1994",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "James King",
+        "obra": "The Malay Archipelago (Alfred Russel Wallace)",
+        "ano": "1869",
+        "nota": "Relato científico-colonial"
+      }
+    ]
+  }
+}

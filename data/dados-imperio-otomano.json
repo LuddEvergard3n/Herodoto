@@ -181,6 +181,34 @@
       "period": "Contemporary",
       "importancia_en": "Atatürk's reforms: Latin alphabet, secularism, Westernization.",
       "importancia_es": "Abolición del Sultanato (1922) y Califato (1924). Reformas de Atatürk: laicismo, occidentalización."
+    },
+    {
+      "id": "iot1",
+      "nome": "Solimao, o Magnifico: O Apogeu Otomano",
+      "nome_en": "Solimao, o Magnifico: O Apogeu Otomano",
+      "nome_es": "Solimao, o Magnifico: O Apogeu Otomano",
+      "tipo": "pessoa",
+      "inicio": 1494,
+      "fim": 1566,
+      "region": "Middle East",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "Solimao I (r. 1520-1566) foi o maior sultao otomano: codificou as leis (al-Kanuni, o Legislador), expandiu ate Viena (1529, primeiro cerco fracassado), construiu a Mesquita de Solimao (arquiteto Sinan). Casou-se com Hurrem (Roxolana), a escrava ucraniana que tornou-se a mulher mais poderosa do Imperio. Morreu em campanha com 71 anos.",
+      "descricao_en": "Solimao I (r. 1520-1566) foi o maior sultao otomano: codificou as leis (al-Kanuni, o Legislador), expandiu ate Viena (1529, primeiro cerco fracassado), construiu a Mesquita de Solimao (arquiteto Sinan). Casou-se com Hurrem (Roxolana), a escrava ucraniana que tornou-se a mulher mais poderosa do Imperio. Morreu em campanha com 71 anos.",
+      "descricao_es": "Solimao I (r. 1520-1566) foi o maior sultao otomano: codificou as leis (al-Kanuni, o Legislador), expandiu ate Viena (1529, primeiro cerco fracassado), construiu a Mesquita de Solimao (arquiteto Sinan). Casou-se com Hurrem (Roxolana), a escrava ucraniana que tornou-se a mulher mais poderosa do Imperio. Morreu em campanha com 71 anos.",
+      "importancia": "Solimao personifica o apogeu otomano: 46 anos de reinado, legislacao sistematica, patrono das artes. Que a mulher mais poderosa do Imperio fosse uma escrava ucraniana demonstra a mobilidade social unica do sistema otomano.",
+      "importancia_en": "Solimao personifica o apogeu otomano: 46 anos de reinado, legislacao sistematica, patrono das artes. Que a mulher mais poderosa do Imperio fosse uma escrava ucraniana demonstra a mobilidade social unica do sistema otomano.",
+      "importancia_es": "Solimao personifica o apogeu otomano: 46 anos de reinado, legislacao sistematica, patrono das artes. Que a mulher mais poderosa do Imperio fosse uma escrava ucraniana demonstra a mobilidade social unica do sistema otomano.",
+      "tags": [
+        "Solimao",
+        "Kanuni",
+        "1529",
+        "Viena",
+        "Hurrem",
+        "Sinan"
+      ],
+      "dataset": "data/dados-imperio-otomano.json"
     }
   ],
   "relacoes": [

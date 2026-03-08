@@ -191,6 +191,34 @@
       "importancia_es": "O projeto cultural do Segundo Reinado é revelador: o Brasil oficial escolheu o índio — já destituído de ameaça — como símbolo nacional, enquanto invisibilizava o negro e o mestiço. Machado de Assis, homem negro de origem humilíssima que criou a prosa mais sofisticada das Américas, foi aceito pelo establishment porque sua obra era formalmente europeia.",
       "century_start": 18,
       "century_end": 19
+    },
+    {
+      "id": "bsr1",
+      "nome": "Joaquim Nabuco e o Abolicionismo Brasileiro",
+      "nome_en": "Joaquim Nabuco e o Abolicionismo Brasileiro",
+      "nome_es": "Joaquim Nabuco e o Abolicionismo Brasileiro",
+      "tipo": "pessoa",
+      "inicio": 1849,
+      "fim": 1910,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "social",
+      "descricao": "Joaquim Nabuco (1849-1910) foi o maior abolicionista brasileiro: O Abolicionismo (1883) foi o manifesto mais influente. A abolicao em 1888 nao veio acompanhada de politica de integracao - os libertos ficaram sem terra, escola ou credito.",
+      "descricao_en": "Joaquim Nabuco (1849-1910) foi o maior abolicionista brasileiro: O Abolicionismo (1883) foi o manifesto mais influente. A abolicao em 1888 nao veio acompanhada de politica de integracao - os libertos ficaram sem terra, escola ou credito.",
+      "descricao_es": "Joaquim Nabuco (1849-1910) foi o maior abolicionista brasileiro: O Abolicionismo (1883) foi o manifesto mais influente. A abolicao em 1888 nao veio acompanhada de politica de integracao - os libertos ficaram sem terra, escola ou credito.",
+      "importancia": "Nabuco demonstrou que abolicao sem reparacao nao e libertacao. A desigualdade racial brasileira e consequencia direta da abolicao sem reforma agraria.",
+      "importancia_en": "Nabuco demonstrou que abolicao sem reparacao nao e libertacao. A desigualdade racial brasileira e consequencia direta da abolicao sem reforma agraria.",
+      "importancia_es": "Nabuco demonstrou que abolicao sem reparacao nao e libertacao. A desigualdade racial brasileira e consequencia direta da abolicao sem reforma agraria.",
+      "tags": [
+        "Nabuco",
+        "1883",
+        "O Abolicionismo",
+        "1888",
+        "integracao",
+        "reparacao"
+      ],
+      "dataset": "data/dados-brasil-11-segundo-reinado.json"
     }
   ]
 }

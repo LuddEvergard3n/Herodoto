@@ -155,6 +155,62 @@
       "period": "Medieval",
       "importancia_en": "Transmission of Greek knowledge that fueled the European Renaissance.",
       "importancia_es": "Transmisión del conocimiento griego que alimentó el Renacimiento europeo."
+    },
+    {
+      "id": "ei1",
+      "nome": "A Batalha de Tours (732)",
+      "nome_en": "A Batalha de Tours (732)",
+      "nome_es": "A Batalha de Tours (732)",
+      "tipo": "evento",
+      "inicio": 732,
+      "fim": 732,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 8,
+      "type": "war",
+      "descricao": "A Batalha de Tours/Poitiers (732): Carlos Martel deteve o exército islâmico de Abd al-Rahman. A expansão islâmica já estava próxima de seu limite natural.",
+      "descricao_en": "A Batalha de Tours/Poitiers (732): Carlos Martel deteve o exército islâmico de Abd al-Rahman. A expansão islâmica já estava próxima de seu limite natural.",
+      "descricao_es": "A Batalha de Tours/Poitiers (732): Carlos Martel deteve o exército islâmico de Abd al-Rahman. A expansão islâmica já estava próxima de seu limite natural.",
+      "importancia": "Tours é o exemplo mais citado de batalha que mudou o mundo - mas os historiadores modernos questionam o quanto teria mudado. A expansão islâmica já estava se contraindo.",
+      "importancia_en": "Tours é o exemplo mais citado de batalha que mudou o mundo - mas os historiadores modernos questionam o quanto teria mudado. A expansão islâmica já estava se contraindo.",
+      "importancia_es": "Tours é o exemplo mais citado de batalha que mudou o mundo - mas os historiadores modernos questionam o quanto teria mudado. A expansão islâmica já estava se contraindo.",
+      "tags": [
+        "Tours",
+        "732",
+        "Carlos Martel",
+        "limite",
+        "expansão",
+        "Europa"
+      ],
+      "dataset": "data/dados-expansao-isla.json"
+    },
+    {
+      "id": "ei2",
+      "nome": "A Reconquista Ibérica (718-1492)",
+      "nome_en": "A Reconquista Ibérica (718-1492)",
+      "nome_es": "A Reconquista Ibérica (718-1492)",
+      "tipo": "periodo",
+      "inicio": 718,
+      "fim": 1492,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 8,
+      "type": "war",
+      "descricao": "A Reconquista foi a mais longa guerra da história europeia: 774 anos. A Al-Andaluz foi o maior centro cultural da Europa medieval. A queda de Granada (1492) encerrou 800 anos de presença islâmica.",
+      "descricao_en": "A Reconquista foi a mais longa guerra da história europeia: 774 anos. A Al-Andaluz foi o maior centro cultural da Europa medieval. A queda de Granada (1492) encerrou 800 anos de presença islâmica.",
+      "descricao_es": "A Reconquista foi a mais longa guerra da história europeia: 774 anos. A Al-Andaluz foi o maior centro cultural da Europa medieval. A queda de Granada (1492) encerrou 800 anos de presença islâmica.",
+      "importancia": "A Reconquista criou o paradoxo cultural: os europeus que mais lutaram contra o Islã foram os mais influenciados por ele. A astronomia árabe permitiu as navegações portuguesas e espanholas.",
+      "importancia_en": "A Reconquista criou o paradoxo cultural: os europeus que mais lutaram contra o Islã foram os mais influenciados por ele. A astronomia árabe permitiu as navegações portuguesas e espanholas.",
+      "importancia_es": "A Reconquista criou o paradoxo cultural: os europeus que mais lutaram contra o Islã foram os mais influenciados por ele. A astronomia árabe permitiu as navegações portuguesas e espanholas.",
+      "tags": [
+        "Reconquista",
+        "718",
+        "1492",
+        "Granada",
+        "Al-Andaluz",
+        "cultura"
+      ],
+      "dataset": "data/dados-expansao-isla.json"
     }
   ],
   "relacoes": [

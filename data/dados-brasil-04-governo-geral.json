@@ -188,6 +188,34 @@
       "importancia_es": "Mem de Sá é a figura que transforma o Brasil de projeto colonial vacilante em colônia estável. Sua violência contra populações indígenas — queima de aldeias, destruição de culturas — foi justificada como 'pacificação necessária'. O mesmo padrão se repetiria em cada nova fronteira colonial por três séculos.",
       "century_start": 15,
       "century_end": 16
+    },
+    {
+      "id": "bgg1",
+      "nome": "Mem de Sa e a Expulsao dos Franceses",
+      "nome_en": "Mem de Sa e a Expulsao dos Franceses",
+      "nome_es": "Mem de Sa e a Expulsao dos Franceses",
+      "tipo": "pessoa",
+      "inicio": 1500,
+      "fim": 1572,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "war",
+      "descricao": "Mem de Sa (c.1500-1572), terceiro Governador-Geral do Brasil, expulsou os franceses do Rio de Janeiro (1565) e fundou a cidade. Combateu os Tupinambas aliados dos franceses.",
+      "descricao_en": "Mem de Sa (c.1500-1572), terceiro Governador-Geral do Brasil, expulsou os franceses do Rio de Janeiro (1565) e fundou a cidade. Combateu os Tupinambas aliados dos franceses.",
+      "descricao_es": "Mem de Sa (c.1500-1572), terceiro Governador-Geral do Brasil, expulsou os franceses do Rio de Janeiro (1565) e fundou a cidade. Combateu os Tupinambas aliados dos franceses.",
+      "importancia": "Mem de Sa consolidou a posse portuguesa do Rio de Janeiro. Sem ele, o Brasil poderia ter sido France Antarctique. A cidade fundada em 1565 tornou-se capital do Brasil por 197 anos.",
+      "importancia_en": "Mem de Sa consolidou a posse portuguesa do Rio de Janeiro. Sem ele, o Brasil poderia ter sido France Antarctique. A cidade fundada em 1565 tornou-se capital do Brasil por 197 anos.",
+      "importancia_es": "Mem de Sa consolidou a posse portuguesa do Rio de Janeiro. Sem ele, o Brasil poderia ter sido France Antarctique. A cidade fundada em 1565 tornou-se capital do Brasil por 197 anos.",
+      "tags": [
+        "Mem de Sa",
+        "1565",
+        "Rio de Janeiro",
+        "franceses",
+        "Estacio",
+        "Tupinambas"
+      ],
+      "dataset": "data/dados-brasil-04-governo-geral.json"
     }
   ]
 }

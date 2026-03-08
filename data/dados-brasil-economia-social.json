@@ -168,6 +168,62 @@
       "importancia_es": "Petrobras concentra las tensiones más profundas de la economía política brasileña. La Lava Jato destruyó la mayor constructora brasileña, encarceló ex-presidentes y reestructuró la política.",
       "century_start": 20,
       "century_end": 21
+    },
+    {
+      "id": "bes1",
+      "nome": "O Plano Real e a Estabilização (1994)",
+      "nome_en": "O Plano Real e a Estabilização (1994)",
+      "nome_es": "O Plano Real e a Estabilização (1994)",
+      "tipo": "evento",
+      "inicio": 1994,
+      "fim": 1994,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "economic",
+      "descricao": "O Plano Real (1 julho 1994) derrotou a hiperinflação (2.477% em 1993 para 9% em 1996) com nova moeda e desindexação. O mais bem-sucedido programa de estabilização da América Latina.",
+      "descricao_en": "O Plano Real (1 julho 1994) derrotou a hiperinflação (2.477% em 1993 para 9% em 1996) com nova moeda e desindexação. O mais bem-sucedido programa de estabilização da América Latina.",
+      "descricao_es": "O Plano Real (1 julho 1994) derrotou a hiperinflação (2.477% em 1993 para 9% em 1996) com nova moeda e desindexação. O mais bem-sucedido programa de estabilização da América Latina.",
+      "importancia": "O Plano Real é o maior êxito de política econômica brasileira. O mecanismo URV foi a solução mais elegante para o problema da indexação.",
+      "importancia_en": "O Plano Real é o maior êxito de política econômica brasileira. O mecanismo URV foi a solução mais elegante para o problema da indexação.",
+      "importancia_es": "O Plano Real é o maior êxito de política econômica brasileira. O mecanismo URV foi a solução mais elegante para o problema da indexação.",
+      "tags": [
+        "Plano Real",
+        "1994",
+        "hiperinflação",
+        "Real",
+        "URV",
+        "Fernando Henrique"
+      ],
+      "dataset": "data/dados-brasil-economia-social.json"
+    },
+    {
+      "id": "bes2",
+      "nome": "O Bolsa Família e a Redução da Desigualdade",
+      "nome_en": "O Bolsa Família e a Redução da Desigualdade",
+      "nome_es": "O Bolsa Família e a Redução da Desigualdade",
+      "tipo": "evento",
+      "inicio": 2003,
+      "fim": 2016,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 21,
+      "type": "social",
+      "descricao": "O Bolsa Família (2003): 14 milhões de famílias, condicionado a frequência escolar e vacinação. O Gini caiu de 0,58 (2002) para 0,51 (2014). Extrema pobreza de 28% para 8%. Copiado por 60+ países.",
+      "descricao_en": "O Bolsa Família (2003): 14 milhões de famílias, condicionado a frequência escolar e vacinação. O Gini caiu de 0,58 (2002) para 0,51 (2014). Extrema pobreza de 28% para 8%. Copiado por 60+ países.",
+      "descricao_es": "O Bolsa Família (2003): 14 milhões de famílias, condicionado a frequência escolar e vacinação. O Gini caiu de 0,58 (2002) para 0,51 (2014). Extrema pobreza de 28% para 8%. Copiado por 60+ países.",
+      "importancia": "O Bolsa Família é o programa social mais estudado do mundo: demonstrou que transferências condicionadas reduzem pobreza E aumentam capital humano.",
+      "importancia_en": "O Bolsa Família é o programa social mais estudado do mundo: demonstrou que transferências condicionadas reduzem pobreza E aumentam capital humano.",
+      "importancia_es": "O Bolsa Família é o programa social mais estudado do mundo: demonstrou que transferências condicionadas reduzem pobreza E aumentam capital humano.",
+      "tags": [
+        "Bolsa Família",
+        "2003",
+        "Lula",
+        "Gini",
+        "extrema pobreza",
+        "transferência de renda"
+      ],
+      "dataset": "data/dados-brasil-economia-social.json"
     }
   ]
 }

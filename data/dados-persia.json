@@ -199,6 +199,34 @@
         "República Islâmica"
       ],
       "dataset": "data/dados-persia.json"
+    },
+    {
+      "id": "per1",
+      "nome": "O Imperio Aquemenida: O Primeiro Imperio Global",
+      "nome_en": "O Imperio Aquemenida: O Primeiro Imperio Global",
+      "nome_es": "O Imperio Aquemenida: O Primeiro Imperio Global",
+      "tipo": "periodo",
+      "inicio": -550,
+      "fim": -330,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 6,
+      "type": "political",
+      "descricao": "O Imperio Aquemenida (550-330 a.C.) foi o primeiro Imperio verdadeiramente global: 50 milhoes de pessoas (44% da populacao mundial em 500 a.C.), 5 milhoes de km2, 20+ linguas. O sistema postal (angarium) inspirou o pony express americano. A tolerancia religiosa (Ciro libertou os judeus) foi seu instrumento de governo.",
+      "descricao_en": "O Imperio Aquemenida (550-330 a.C.) foi o primeiro Imperio verdadeiramente global: 50 milhoes de pessoas (44% da populacao mundial em 500 a.C.), 5 milhoes de km2, 20+ linguas. O sistema postal (angarium) inspirou o pony express americano. A tolerancia religiosa (Ciro libertou os judeus) foi seu instrumento de governo.",
+      "descricao_es": "O Imperio Aquemenida (550-330 a.C.) foi o primeiro Imperio verdadeiramente global: 50 milhoes de pessoas (44% da populacao mundial em 500 a.C.), 5 milhoes de km2, 20+ linguas. O sistema postal (angarium) inspirou o pony express americano. A tolerancia religiosa (Ciro libertou os judeus) foi seu instrumento de governo.",
+      "importancia": "O Imperio Aquemenida e o maior que o mundo ja viu em proporcao a populacao mundial: 44% da humanidade sob uma administracao. Que tenha funcionado com tolerancia religiosa (nao conversao forcada) e a licao mais importante da historia imperial.",
+      "importancia_en": "O Imperio Aquemenida e o maior que o mundo ja viu em proporcao a populacao mundial: 44% da humanidade sob uma administracao. Que tenha funcionado com tolerancia religiosa (nao conversao forcada) e a licao mais importante da historia imperial.",
+      "importancia_es": "O Imperio Aquemenida e o maior que o mundo ja viu em proporcao a populacao mundial: 44% da humanidade sob uma administracao. Que tenha funcionado com tolerancia religiosa (nao conversao forcada) e a licao mais importante da historia imperial.",
+      "tags": [
+        "Aquemenida",
+        "550 a.C.",
+        "44%",
+        "50 milhoes",
+        "tolerancia",
+        "postal"
+      ],
+      "dataset": "data/dados-persia.json"
     }
   ],
   "relacoes": [

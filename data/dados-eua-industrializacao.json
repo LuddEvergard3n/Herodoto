@@ -199,6 +199,34 @@
         "Hughes"
       ],
       "dataset": "data/dados-eua-industrializacao.json"
+    },
+    {
+      "id": "euind1",
+      "nome": "A Ferrovia Transcontinental e a Unificacao",
+      "nome_en": "A Ferrovia Transcontinental e a Unificacao",
+      "nome_es": "A Ferrovia Transcontinental e a Unificacao",
+      "tipo": "evento",
+      "inicio": 1869,
+      "fim": 1869,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "technological",
+      "descricao": "A Ferrovia Transcontinental (concluida em 10 maio 1869, Promontory Summit, Utah) uniu os EUA de costa a costa: Central Pacific (trabalhadores chineses, do Pacifico) e Union Pacific (irlandeses e ex-soldados da guerra civil, do Atlantico) se encontraram. Reduziu a viagem costa-a-costa de 6 meses para 7 dias.",
+      "descricao_en": "A Ferrovia Transcontinental (concluida em 10 maio 1869, Promontory Summit, Utah) uniu os EUA de costa a costa: Central Pacific (trabalhadores chineses, do Pacifico) e Union Pacific (irlandeses e ex-soldados da guerra civil, do Atlantico) se encontraram. Reduziu a viagem costa-a-costa de 6 meses para 7 dias.",
+      "descricao_es": "A Ferrovia Transcontinental (concluida em 10 maio 1869, Promontory Summit, Utah) uniu os EUA de costa a costa: Central Pacific (trabalhadores chineses, do Pacifico) e Union Pacific (irlandeses e ex-soldados da guerra civil, do Atlantico) se encontraram. Reduziu a viagem costa-a-costa de 6 meses para 7 dias.",
+      "importancia": "A ferrovia transcontinental e o maior projeto de engenharia do seculo XIX americano e o que mais unificou o pais: sem ela, os EUA poderiam ter fragmentado em multiplas nacoes regionais.",
+      "importancia_en": "A ferrovia transcontinental e o maior projeto de engenharia do seculo XIX americano e o que mais unificou o pais: sem ela, os EUA poderiam ter fragmentado em multiplas nacoes regionais.",
+      "importancia_es": "A ferrovia transcontinental e o maior projeto de engenharia do seculo XIX americano e o que mais unificou o pais: sem ela, os EUA poderiam ter fragmentado em multiplas nacoes regionais.",
+      "tags": [
+        "ferrovia",
+        "1869",
+        "Promontory",
+        "chineses",
+        "irlandeses",
+        "transcontinental"
+      ],
+      "dataset": "data/dados-eua-industrializacao.json"
     }
   ],
   "relacoes": [

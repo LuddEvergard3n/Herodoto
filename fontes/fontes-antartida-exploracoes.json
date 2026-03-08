@@ -1,0 +1,131 @@
+{
+  "tema": "Antártica e Exploração Geográfica",
+  "descricao": "Descoberta e exploração da Antártica, corrida ao Polo Sul, exploração polar ártica, ciência antártica contemporânea",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Robert Falcon Scott",
+        "obra": "Diários da Expedição Terra Nova",
+        "ano": "1913",
+        "nota": "Ed. de Leonard Huxley; Macmillan"
+      },
+      {
+        "autor": "Roald Amundsen",
+        "obra": "The South Pole (Sydpolen)",
+        "ano": "1912",
+        "editora": "John Murray"
+      },
+      {
+        "autor": "Ernest Shackleton",
+        "obra": "South: The Story of Shackleton's Last Expedition",
+        "ano": "1919",
+        "editora": "Heinemann"
+      },
+      {
+        "autor": "Richard E. Byrd",
+        "obra": "Alone",
+        "ano": "1938",
+        "editora": "Putnam"
+      },
+      {
+        "autor": "Douglas Mawson",
+        "obra": "The Home of the Blizzard",
+        "ano": "1915",
+        "editora": "Heinemann"
+      },
+      {
+        "autor": "Apsley Cherry-Garrard",
+        "obra": "The Worst Journey in the World",
+        "ano": "1922",
+        "editora": "Constable"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Roland Huntford",
+        "obra": "Scott and Amundsen (The Last Place on Earth)",
+        "ano": "1979",
+        "editora": "Hodder & Stoughton"
+      },
+      {
+        "autor": "David Crane",
+        "obra": "Scott of the Antarctic",
+        "ano": "2005",
+        "editora": "HarperCollins"
+      },
+      {
+        "autor": "Edward J. Larson",
+        "obra": "An Empire of Ice: Scott, Shackleton, and the Heroic Age of Antarctic Science",
+        "ano": "2011",
+        "editora": "Yale University Press"
+      },
+      {
+        "autor": "Caroline Alexander",
+        "obra": "The Endurance: Shackleton's Legendary Antarctic Expedition",
+        "ano": "1998",
+        "editora": "Knopf"
+      },
+      {
+        "autor": "Sara Wheeler",
+        "obra": "Terra Incognita: Travels in Antarctica",
+        "ano": "1996",
+        "editora": "Jonathan Cape"
+      },
+      {
+        "autor": "G. E. Fogg",
+        "obra": "A History of Antarctic Science",
+        "ano": "1992",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "John Rymill",
+        "obra": "Southern Lights: The Official Account of the British Graham Land Expedition 1934–1937",
+        "ano": "1938"
+      },
+      {
+        "autor": "Chris Turney",
+        "obra": "1912: The Year the World Discovered Antarctica",
+        "ano": "2012",
+        "editora": "Text Publishing"
+      },
+      {
+        "autor": "Elizabeth Leane",
+        "obra": "Antarctica in Fiction: Imaginative Narratives of the Far South",
+        "ano": "2012",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Sanjay Chaturvedi",
+        "obra": "The Polar Regions: A Political Geography",
+        "ano": "1996",
+        "editora": "Wiley"
+      },
+      {
+        "autor": "David Day",
+        "obra": "Antarctica: A Biography",
+        "ano": "2012",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Klaus Dodds",
+        "obra": "Geopolitics in Antarctica",
+        "ano": "1997",
+        "editora": "Wiley"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Fridtjof Nansen",
+        "obra": "Farthest North (expedição ao Ártico)",
+        "ano": "1897",
+        "nota": "Contexto polar ártico"
+      },
+      {
+        "autor": "Scott Cookman",
+        "obra": "Ice Blink: The Tragic Fate of Sir John Franklin's Lost Polar Expedition",
+        "ano": "2000",
+        "editora": "Wiley"
+      }
+    ]
+  }
+}

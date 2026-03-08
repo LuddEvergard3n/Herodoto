@@ -189,6 +189,34 @@
       "importancia_es": "A transferência de 1763 consolidou o deslocamento do eixo econômico e político brasileiro para o Centro-Sul que se aprofundaria nos séculos XIX e XX. Salvador, antes a maior cidade das Américas Lusas, entrou em lento declínio relativo que duraria dois séculos.",
       "century_start": 17,
       "century_end": 18
+    },
+    {
+      "id": "bco1",
+      "nome": "Aleijadinho e o Barroco Mineiro",
+      "nome_en": "Aleijadinho e o Barroco Mineiro",
+      "nome_es": "Aleijadinho e o Barroco Mineiro",
+      "tipo": "pessoa",
+      "inicio": 1738,
+      "fim": 1814,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 18,
+      "type": "cultural",
+      "descricao": "Aleijadinho (1738-1814) criou o maior conjunto de arte barroca do Novo Mundo: os Profetas de Congonhas. Sofreu doenca que deformou suas maos e trabalhou com ferramentas amarradas aos pulsos nos ultimos 30 anos de vida.",
+      "descricao_en": "Aleijadinho (1738-1814) criou o maior conjunto de arte barroca do Novo Mundo: os Profetas de Congonhas. Sofreu doenca que deformou suas maos e trabalhou com ferramentas amarradas aos pulsos nos ultimos 30 anos de vida.",
+      "descricao_es": "Aleijadinho (1738-1814) criou o maior conjunto de arte barroca do Novo Mundo: os Profetas de Congonhas. Sofreu doenca que deformou suas maos e trabalhou com ferramentas amarradas aos pulsos nos ultimos 30 anos de vida.",
+      "importancia": "Aleijadinho e o maior artista brasileiro de todos os tempos: criou uma escola artistica propria, mestia e brasileira, no isolamento das Minas Gerais do seculo XVIII.",
+      "importancia_en": "Aleijadinho e o maior artista brasileiro de todos os tempos: criou uma escola artistica propria, mestia e brasileira, no isolamento das Minas Gerais do seculo XVIII.",
+      "importancia_es": "Aleijadinho e o maior artista brasileiro de todos os tempos: criou uma escola artistica propria, mestia e brasileira, no isolamento das Minas Gerais do seculo XVIII.",
+      "tags": [
+        "Aleijadinho",
+        "Profetas",
+        "Congonhas",
+        "pedra-sabao",
+        "barroco",
+        "lepra"
+      ],
+      "dataset": "data/dados-brasil-07-ciclo-ouro.json"
     }
   ]
 }

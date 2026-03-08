@@ -160,6 +160,62 @@
       "importancia_es": "Os náufragos e degredados foram o primeiro experimento de hibridismo cultural do Brasil — e demonstraram a plasticidade da colonização portuguesa comparada à espanhola ou inglesa. A capacidade de adaptação cultural foi simultaneamente uma virtude e um instrumento de dominação.",
       "century_start": 15,
       "century_end": 15
+    },
+    {
+      "id": "bpc1",
+      "nome": "A Biodiversidade Amazônica como Patrimônio",
+      "nome_en": "A Biodiversidade Amazônica como Patrimônio",
+      "nome_es": "A Biodiversidade Amazônica como Patrimônio",
+      "tipo": "cultural",
+      "inicio": -10000,
+      "fim": 1500,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 101,
+      "type": "cultural",
+      "descricao": "A Amazônia pré-colonial não era selva virgem: era paisagem manejada por populações humanas por 10.000 anos. As castanheiras-do-brasil crescem em clusters porque foram plantadas. A terra preta dos índios (terra preta de índio) é solo artificial criado por compostagem indígena - mais fértil que qualquer solo natural.",
+      "descricao_en": "A Amazônia pré-colonial não era selva virgem: era paisagem manejada por populações humanas por 10.000 anos. As castanheiras-do-brasil crescem em clusters porque foram plantadas. A terra preta dos índios (terra preta de índio) é solo artificial criado por compostagem indígena - mais fértil que qualquer solo natural.",
+      "descricao_es": "A Amazônia pré-colonial não era selva virgem: era paisagem manejada por populações humanas por 10.000 anos. As castanheiras-do-brasil crescem em clusters porque foram plantadas. A terra preta dos índios (terra preta de índio) é solo artificial criado por compostagem indígena - mais fértil que qualquer solo natural.",
+      "importancia": "A Amazônia pré-colombiana era um jardim manejado, não uma floresta virgem. A descoberta da terra preta demonstra que populações de milhões habitaram a Amazônia de forma sustentável por milênios.",
+      "importancia_en": "A Amazônia pré-colombiana era um jardim manejado, não uma floresta virgem. A descoberta da terra preta demonstra que populações de milhões habitaram a Amazônia de forma sustentável por milênios.",
+      "importancia_es": "A Amazônia pré-colombiana era um jardim manejado, não uma floresta virgem. A descoberta da terra preta demonstra que populações de milhões habitaram a Amazônia de forma sustentável por milênios.",
+      "tags": [
+        "Amazônia",
+        "terra preta",
+        "castanheiras",
+        "manejo",
+        "pré-colonial",
+        "biodiversidade"
+      ],
+      "dataset": "data/dados-brasil-02-pre-colonial.json"
+    },
+    {
+      "id": "bpc2",
+      "nome": "Os Tupi da Costa: Resistência e Transformação",
+      "nome_en": "Os Tupi da Costa: Resistência e Transformação",
+      "nome_es": "Os Tupi da Costa: Resistência e Transformação",
+      "tipo": "cultural",
+      "inicio": 1500,
+      "fim": 1600,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 15,
+      "type": "social",
+      "descricao": "Os Tupi eram o povo mais numeroso da costa brasileira em 1500: 1-2 milhões. Foram atingidos por epidemias (90% morreram em 100 anos), guerra e escravidão. Mas o Tupi tornou-se a Língua Geral (falada em todo o Brasil colonial por colonos e nativos) - o nheengatu ainda é falado no Alto Rio Negro. O português brasileiro tem 10.000 palavras tupi.",
+      "descricao_en": "Os Tupi eram o povo mais numeroso da costa brasileira em 1500: 1-2 milhões. Foram atingidos por epidemias (90% morreram em 100 anos), guerra e escravidão. Mas o Tupi tornou-se a Língua Geral (falada em todo o Brasil colonial por colonos e nativos) - o nheengatu ainda é falado no Alto Rio Negro. O português brasileiro tem 10.000 palavras tupi.",
+      "descricao_es": "Os Tupi eram o povo mais numeroso da costa brasileira em 1500: 1-2 milhões. Foram atingidos por epidemias (90% morreram em 100 anos), guerra e escravidão. Mas o Tupi tornou-se a Língua Geral (falada em todo o Brasil colonial por colonos e nativos) - o nheengatu ainda é falado no Alto Rio Negro. O português brasileiro tem 10.000 palavras tupi.",
+      "importancia": "O tupi é o maior substrato linguístico do português brasileiro: mandioca, cipó, abacaxi, caju, jabuti, piranha são todas palavras tupi. A língua dos vencidos sobreviveu na língua dos vencedores.",
+      "importancia_en": "O tupi é o maior substrato linguístico do português brasileiro: mandioca, cipó, abacaxi, caju, jabuti, piranha são todas palavras tupi. A língua dos vencidos sobreviveu na língua dos vencedores.",
+      "importancia_es": "O tupi é o maior substrato linguístico do português brasileiro: mandioca, cipó, abacaxi, caju, jabuti, piranha são todas palavras tupi. A língua dos vencidos sobreviveu na língua dos vencedores.",
+      "tags": [
+        "Tupi",
+        "Língua Geral",
+        "nheengatu",
+        "10.000 palavras",
+        "epidemia",
+        "costa"
+      ],
+      "dataset": "data/dados-brasil-02-pre-colonial.json"
     }
   ]
 }

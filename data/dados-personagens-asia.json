@@ -122,38 +122,6 @@
       "region": "EastAsia"
     },
     {
-      "id": "pa-005",
-      "nome": "Deng Xiaoping",
-      "nome_en": "Deng Xiaoping",
-      "nome_es": "Deng Xiaoping",
-      "nascimento": 1904,
-      "morte": 1997,
-      "regiao": "EastAsia",
-      "area": [
-        "política",
-        "economia"
-      ],
-      "cargo": "Líder Supremo da China",
-      "epoca": "Séc. XX",
-      "descricao": "Veterano da Longa Marcha, purgado duas vezes por Mao, reabilitado após a morte deste. Liderou a China sem ocupar o título de presidente ou premiê — apenas como 'Líder Supremo'. Reformas de 1978: economia de mercado socialista, zonas econômicas especiais, abertura ao investimento estrangeiro. 'Não importa a cor do gato, contanto que cace ratos.' Ordenou a repressão de Tiananmen (1989).",
-      "importancia": "Deng é responsável pelo maior experimento de redução de pobreza da história: 800 milhões de chineses saíram da pobreza extrema em 40 anos. Ao mesmo tempo, preservou o monopólio político do Partido Comunista e construiu o modelo que outros autoritários estudam: como entregar crescimento econômico sem liberalização política? A tensão entre as duas metades desse legado define a China do século XXI.",
-      "eventos": [
-        "chin-010"
-      ],
-      "tags": [
-        "china",
-        "reformas",
-        "capitalismo",
-        "tiananmen",
-        "partido-comunista",
-        "deng"
-      ],
-      "type": "person",
-      "inicio": 1904,
-      "fim": 1997,
-      "region": "EastAsia"
-    },
-    {
       "id": "pa-006",
       "nome": "Empress Wu Zetian",
       "nome_en": "Empress Wu Zetian",
@@ -214,66 +182,6 @@
       "region": "SouthAsia"
     },
     {
-      "id": "pa-008",
-      "nome": "Ho Chi Minh",
-      "nome_en": "Ho Chi Minh",
-      "nome_es": "Ho Chi Minh",
-      "nascimento": 1890,
-      "morte": 1969,
-      "regiao": "SoutheastAsia",
-      "area": [
-        "política"
-      ],
-      "cargo": "Presidente do Vietnã do Norte",
-      "epoca": "Séc. XX",
-      "descricao": "Nguyen Sinh Cung, filho de mandarim vietnamita. Viveu décadas exilado em França, URSS e China, trabalhando como fotógrafo, cozinheiro e agitador. Fundou o Partido Comunista Indochinês. Liderou a resistência ao Japão, à França (Dien Bien Phu, 1954) e aos EUA. Morreu em 1969, seis anos antes da reunificação do Vietnã. Vivia com ascetismo monástico.",
-      "importancia": "Ho Chi Minh derrotou três impérios — Japão, França e EUA — numa sequência que nenhum outro líder do século XX igualou. A Guerra do Vietnã foi o primeiro conflito que os EUA perderam, com consequências profundas: doutrina Powell, ceticismo sobre intervenções militares, síndrome do Vietnã. Ho conseguiu combinar o marxismo-leninismo com o nacionalismo vietnamita de forma que o povo o percebeu como pai da nação.",
-      "eventos": [],
-      "tags": [
-        "vietnã",
-        "comunismo",
-        "anticolonialismo",
-        "resistência",
-        "guerra",
-        "nação"
-      ],
-      "type": "person",
-      "inicio": 1890,
-      "fim": 1969,
-      "region": "SoutheastAsia"
-    },
-    {
-      "id": "pa-009",
-      "nome": "Akbar, o Grande",
-      "nome_en": "Akbar the Great",
-      "nome_es": "Akbar el Grande",
-      "nascimento": 1542,
-      "morte": 1605,
-      "regiao": "SouthAsia",
-      "area": [
-        "política",
-        "religião"
-      ],
-      "cargo": "Imperador Mogol",
-      "epoca": "Pré-Moderna",
-      "descricao": "Terceiro imperador mogol, governou 49 anos (1556-1605). Embora muçulmano, praticou tolerância religiosa radical: casou-se com princesas hindus, aboliu o imposto jizia sobre não-muçulmanos, convidou jesuítas à corte e criou a Din-i-Ilahi (Fé Divina) — tentativa de síntese religiosa. Analfabeto de nascença, tinha bibliotecas de 24.000 livros lidos para ele.",
-      "importancia": "Akbar governou uma das regiões mais diversas religiosa e culturalmente do mundo com tolerância que contrastava com a Europa contemporânea (era das guerras religiosas). Seu modelo de Estado multicultural — respeito às tradições locais como instrumento de coesão imperial — foi mais bem-sucedido que a alternativa coercitiva. É referência para debates sobre secularismo e pluralismo na Índia moderna.",
-      "eventos": [],
-      "tags": [
-        "índia",
-        "mogol",
-        "tolerância",
-        "islã",
-        "hinduísmo",
-        "pluralismo",
-        "akbar"
-      ],
-      "type": "person",
-      "inicio": 1542,
-      "fim": 1605,
-      "region": "SouthAsia"
-    },
-    {
       "id": "pa-010",
       "nome": "Oda Nobunaga",
       "nome_en": "Oda Nobunaga",
@@ -301,36 +209,6 @@
       "type": "person",
       "inicio": 1534,
       "fim": 1582,
-      "region": "EastAsia"
-    },
-    {
-      "id": "pa-011",
-      "nome": "Xuanzang",
-      "nome_en": "Xuanzang",
-      "nome_es": "Xuanzang",
-      "nascimento": 602,
-      "morte": 664,
-      "regiao": "EastAsia",
-      "area": [
-        "religião",
-        "exploração"
-      ],
-      "cargo": "Monge e Peregrino",
-      "epoca": "Medieval",
-      "descricao": "Monge budista chinês que viajou 16 anos (629-645) da China à Índia atravessando o deserto de Gobi, as montanhas Pamir e o Afeganistão para buscar textos budistas originais. Trouxe de volta 657 manuscritos e passou 18 anos traduzindo-os. Suas memórias de viagem são fonte histórica primária sobre a Índia do século VII.",
-      "importancia": "Xuanzang é o maior transmissor do budismo da Índia para a China — suas traduções são a base do budismo chinês. Sua viagem foi formalizada no romance 'Jornada ao Oeste' (século XVI), um dos quatro romances clássicos chineses (Sun Wukong, o Rei Macaco). A fusão entre budismo indiano e cultura chinesa que ele facilitou criou o budismo Chan/Zen, que moldou toda a cultura asiática oriental.",
-      "eventos": [],
-      "tags": [
-        "china",
-        "budismo",
-        "índia",
-        "peregrino",
-        "tradução",
-        "jornada-ao-oeste"
-      ],
-      "type": "person",
-      "inicio": 602,
-      "fim": 664,
       "region": "EastAsia"
     },
     {

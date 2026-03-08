@@ -1,0 +1,154 @@
+{
+  "tema": "Europa Medieval",
+  "descricao": "Feudalismo, Cruzadas, Igreja medieval, Bizâncio, Vikings, Carolíngios, Peste Negra, sécs. V–XV",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Einhard",
+        "obra": "Vida de Carlos Magno (Vita Karoli Magni)",
+        "ano": "c. 830",
+        "nota": "Penguin Classics"
+      },
+      {
+        "autor": "Guilherme de Tiro",
+        "obra": "História das Guerras Sagradas (Cruzadas)",
+        "ano": "c. 1184"
+      },
+      {
+        "autor": "Jean de Joinville",
+        "obra": "Vida de São Luís",
+        "ano": "c. 1309",
+        "nota": "Penguin Classics"
+      },
+      {
+        "autor": "Giovanni Boccaccio",
+        "obra": "Decameron (abertura: Florença durante a Peste)",
+        "ano": "1353",
+        "nota": "L&PM"
+      },
+      {
+        "autor": "Anônimo",
+        "obra": "Canção de Rolando (Chanson de Roland)",
+        "ano": "c. 1100"
+      },
+      {
+        "autor": "Dante Alighieri",
+        "obra": "Divina Comédia",
+        "ano": "1321",
+        "nota": "Trad. Italo Eugenio Mauro, 34 Literatura"
+      },
+      {
+        "autor": "Tomás de Aquino",
+        "obra": "Suma Teológica",
+        "ano": "1265–1274",
+        "nota": "Ed. abr. Loyola"
+      },
+      {
+        "autor": "Magna Carta",
+        "obra": "Carta Magna de João sem Terra",
+        "ano": "1215",
+        "nota": "British Library"
+      },
+      {
+        "autor": "Snorri Sturluson",
+        "obra": "Edda em Prosa; Heimskringla (sagas nórdicas)",
+        "ano": "c. 1220",
+        "nota": "Penguin Classics"
+      },
+      {
+        "autor": "Jean Froissart",
+        "obra": "Crônicas",
+        "ano": "c. 1370–1410",
+        "nota": "Penguin Classics"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Jacques Le Goff",
+        "obra": "A Civilização do Ocidente Medieval",
+        "ano": "1964",
+        "editora": "Estampa"
+      },
+      {
+        "autor": "Georges Duby",
+        "obra": "The Age of the Cathedrals: Art and Society, 980–1420",
+        "ano": "1966",
+        "editora": "University of Chicago Press"
+      },
+      {
+        "autor": "Johan Huizinga",
+        "obra": "O Declínio da Idade Média",
+        "ano": "1919",
+        "editora": "Ulisseia"
+      },
+      {
+        "autor": "Marc Bloch",
+        "obra": "A Sociedade Feudal",
+        "ano": "1939",
+        "editora": "Edições 70"
+      },
+      {
+        "autor": "Steven Runciman",
+        "obra": "A History of the Crusades (3 vols.)",
+        "ano": "1951–1954",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Chris Wickham",
+        "obra": "The Inheritance of Rome: A History of Europe 400–1000",
+        "ano": "2009",
+        "editora": "Allen Lane"
+      },
+      {
+        "autor": "David Herlihy",
+        "obra": "The Black Death and the Transformation of the West",
+        "ano": "1997",
+        "editora": "Harvard University Press"
+      },
+      {
+        "autor": "Henri Pirenne",
+        "obra": "Medieval Cities: Their Origins and the Revival of Trade",
+        "ano": "1925",
+        "editora": "Princeton University Press"
+      },
+      {
+        "autor": "Colin Morris",
+        "obra": "The Papal Monarchy: The Western Church from 1050 to 1250",
+        "ano": "1989",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Marjorie Chibnall",
+        "obra": "The Normans",
+        "ano": "2000",
+        "editora": "Blackwell"
+      },
+      {
+        "autor": "Robert Fossier",
+        "obra": "The Axe and the Oath: Ordinary Life in the Middle Ages",
+        "ano": "2007",
+        "editora": "Princeton University Press"
+      },
+      {
+        "autor": "R. W. Southern",
+        "obra": "The Making of the Middle Ages",
+        "ano": "1953",
+        "editora": "Yale University Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Umberto Eco",
+        "obra": "Arte e Beleza na Estética Medieval",
+        "ano": "1987",
+        "editora": "Record"
+      },
+      {
+        "autor": "Frances Gies e Joseph Gies",
+        "obra": "Life in a Medieval City",
+        "ano": "1969",
+        "editora": "Harper & Row"
+      }
+    ]
+  }
+}

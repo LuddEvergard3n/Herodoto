@@ -174,6 +174,62 @@
         "Amoritas"
       ],
       "dataset": "data/dados-sumeria-religiao-legado.json"
+    },
+    {
+      "id": "srl1",
+      "nome": "O Gilgamesh e a Literatura Universal",
+      "nome_en": "O Gilgamesh e a Literatura Universal",
+      "nome_es": "O Gilgamesh e a Literatura Universal",
+      "tipo": "cultural",
+      "inicio": -2100,
+      "fim": -1200,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 22,
+      "type": "cultural",
+      "descricao": "A Epopeia de Gilgamesh (c. 2100 a.C., escrita c. 1200 a.C.) é o texto literário mais antigo do mundo: Gilgamesh busca a imortalidade após a morte do amigo Enkidu. O dilúvio do Gilgamesh (Tábua XI) é 1.000 anos mais antigo que o Noé bíblico - e quase idêntico. Descoberto em 1872 por George Smith, que chorou ao ler a história do dilúvio.",
+      "descricao_en": "A Epopeia de Gilgamesh (c. 2100 a.C., escrita c. 1200 a.C.) é o texto literário mais antigo do mundo: Gilgamesh busca a imortalidade após a morte do amigo Enkidu. O dilúvio do Gilgamesh (Tábua XI) é 1.000 anos mais antigo que o Noé bíblico - e quase idêntico. Descoberto em 1872 por George Smith, que chorou ao ler a história do dilúvio.",
+      "descricao_es": "A Epopeia de Gilgamesh (c. 2100 a.C., escrita c. 1200 a.C.) é o texto literário mais antigo do mundo: Gilgamesh busca a imortalidade após a morte do amigo Enkidu. O dilúvio do Gilgamesh (Tábua XI) é 1.000 anos mais antigo que o Noé bíblico - e quase idêntico. Descoberto em 1872 por George Smith, que chorou ao ler a história do dilúvio.",
+      "importancia": "O Gilgamesh demonstra que os grandes temas da literatura - amizade, morte, busca de sentido, o dilúvio - são humanos e universais, anteriores a qualquer tradição religiosa específica. O dilúvio bíblico tem fonte mesopotâmica.",
+      "importancia_en": "O Gilgamesh demonstra que os grandes temas da literatura - amizade, morte, busca de sentido, o dilúvio - são humanos e universais, anteriores a qualquer tradição religiosa específica. O dilúvio bíblico tem fonte mesopotâmica.",
+      "importancia_es": "O Gilgamesh demonstra que os grandes temas da literatura - amizade, morte, busca de sentido, o dilúvio - são humanos e universais, anteriores a qualquer tradição religiosa específica. O dilúvio bíblico tem fonte mesopotâmica.",
+      "tags": [
+        "Gilgamesh",
+        "2100 a.C.",
+        "dilúvio",
+        "Enkidu",
+        "imortalidade",
+        "Smith"
+      ],
+      "dataset": "data/dados-sumeria-religiao-legado.json"
+    },
+    {
+      "id": "srl2",
+      "nome": "Os Deuses Sumérios e a Teologia da Mesopotâmia",
+      "nome_en": "Os Deuses Sumérios e a Teologia da Mesopotâmia",
+      "nome_es": "Os Deuses Sumérios e a Teologia da Mesopotâmia",
+      "tipo": "cultural",
+      "inicio": -3000,
+      "fim": -500,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 31,
+      "type": "religious",
+      "descricao": "O panteão sumerio tinha 3.000+ deuses: Enlil (ar e tempestades), Enki (sabedoria e água doce), Inanna (amor e guerra). O mito de Inanna descendo ao Submundo é a primeira história de morte e ressurreição da literatura. Os deuses mesopotâmicos criaram os humanos para fazer o trabalho que os deuses não queriam fazer.",
+      "descricao_en": "O panteão sumerio tinha 3.000+ deuses: Enlil (ar e tempestades), Enki (sabedoria e água doce), Inanna (amor e guerra). O mito de Inanna descendo ao Submundo é a primeira história de morte e ressurreição da literatura. Os deuses mesopotâmicos criaram os humanos para fazer o trabalho que os deuses não queriam fazer.",
+      "descricao_es": "O panteão sumerio tinha 3.000+ deuses: Enlil (ar e tempestades), Enki (sabedoria e água doce), Inanna (amor e guerra). O mito de Inanna descendo ao Submundo é a primeira história de morte e ressurreição da literatura. Os deuses mesopotâmicos criaram os humanos para fazer o trabalho que os deuses não queriam fazer.",
+      "importancia": "A teologia suméria criou os arquétipos que todas as religiões posteriores herdaram: o dilúvio, a descida ao Submundo, a criação por decreto divino. O Judaísmo, o Cristianismo e o Islamismo têm raízes sumérias mais profundas do que admitem.",
+      "importancia_en": "A teologia suméria criou os arquétipos que todas as religiões posteriores herdaram: o dilúvio, a descida ao Submundo, a criação por decreto divino. O Judaísmo, o Cristianismo e o Islamismo têm raízes sumérias mais profundas do que admitem.",
+      "importancia_es": "A teologia suméria criou os arquétipos que todas as religiões posteriores herdaram: o dilúvio, a descida ao Submundo, a criação por decreto divino. O Judaísmo, o Cristianismo e o Islamismo têm raízes sumérias mais profundas do que admitem.",
+      "tags": [
+        "Enlil",
+        "Enki",
+        "Inanna",
+        "dilúvio",
+        "ressurreição",
+        "3.000 deuses"
+      ],
+      "dataset": "data/dados-sumeria-religiao-legado.json"
     }
   ],
   "relacoes": [

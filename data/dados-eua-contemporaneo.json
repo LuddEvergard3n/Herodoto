@@ -197,6 +197,34 @@
         "democracia"
       ],
       "dataset": "data/dados-eua-contemporaneo.json"
+    },
+    {
+      "id": "euac1",
+      "nome": "O 11 de Setembro e a Guerra ao Terror",
+      "nome_en": "O 11 de Setembro e a Guerra ao Terror",
+      "nome_es": "O 11 de Setembro e a Guerra ao Terror",
+      "tipo": "evento",
+      "inicio": 2001,
+      "fim": 2021,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 21,
+      "type": "war",
+      "descricao": "Os ataques de 11 setembro 2001 (Al-Qaeda, 2.977 mortos) levaram aos 20 anos de guerra mais longos da historia americana: Afeganistao (2001-2021), Iraque (2003-2011, sem armas de destruicao em massa). O custo: $8 trilhoes, 7.000 militares americanos mortos, centenas de milhares de civis.",
+      "descricao_en": "Os ataques de 11 setembro 2001 (Al-Qaeda, 2.977 mortos) levaram aos 20 anos de guerra mais longos da historia americana: Afeganistao (2001-2021), Iraque (2003-2011, sem armas de destruicao em massa). O custo: $8 trilhoes, 7.000 militares americanos mortos, centenas de milhares de civis.",
+      "descricao_es": "Os ataques de 11 setembro 2001 (Al-Qaeda, 2.977 mortos) levaram aos 20 anos de guerra mais longos da historia americana: Afeganistao (2001-2021), Iraque (2003-2011, sem armas de destruicao em massa). O custo: $8 trilhoes, 7.000 militares americanos mortos, centenas de milhares de civis.",
+      "importancia": "O 11/9 e o evento que mais transformou os EUA desde a Segunda Guerra: criou o Estado de Seguranca Nacional, a Patriot Act, e a logica de guerra preventiva. O Afeganistao terminou em derrota - 20 anos depois, o Taliban retomou o pais.",
+      "importancia_en": "O 11/9 e o evento que mais transformou os EUA desde a Segunda Guerra: criou o Estado de Seguranca Nacional, a Patriot Act, e a logica de guerra preventiva. O Afeganistao terminou em derrota - 20 anos depois, o Taliban retomou o pais.",
+      "importancia_es": "O 11/9 e o evento que mais transformou os EUA desde a Segunda Guerra: criou o Estado de Seguranca Nacional, a Patriot Act, e a logica de guerra preventiva. O Afeganistao terminou em derrota - 20 anos depois, o Taliban retomou o pais.",
+      "tags": [
+        "11 de setembro",
+        "Al-Qaeda",
+        "2.977",
+        "Afeganistao",
+        "Iraque",
+        "$8 trilhoes"
+      ],
+      "dataset": "data/dados-eua-contemporaneo.json"
     }
   ],
   "relacoes": [

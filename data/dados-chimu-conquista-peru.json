@@ -173,6 +173,62 @@
         "Cusco"
       ],
       "dataset": "data/dados-chimu-conquista-peru.json"
+    },
+    {
+      "id": "ccp1",
+      "nome": "Francisco Pizarro e a Conquista do Peru",
+      "nome_en": "Francisco Pizarro e a Conquista do Peru",
+      "nome_es": "Francisco Pizarro e a Conquista do Peru",
+      "tipo": "pessoa",
+      "inicio": 1478,
+      "fim": 1541,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "war",
+      "descricao": "Pizarro capturou Atahualpa em Cajamarca (1532) com 168 soldados. Atahualpa pagou o maior resgate da história. Pizarro o executou mesmo assim.",
+      "descricao_en": "Pizarro capturou Atahualpa em Cajamarca (1532) com 168 soldados. Atahualpa pagou o maior resgate da história. Pizarro o executou mesmo assim.",
+      "descricao_es": "Pizarro capturou Atahualpa em Cajamarca (1532) com 168 soldados. Atahualpa pagou o maior resgate da história. Pizarro o executou mesmo assim.",
+      "importancia": "A conquista do Peru demonstra que superioridade tecnológica e doenças podem derrubar impérios de milhões.",
+      "importancia_en": "A conquista do Peru demonstra que superioridade tecnológica e doenças podem derrubar impérios de milhões.",
+      "importancia_es": "A conquista do Peru demonstra que superioridade tecnológica e doenças podem derrubar impérios de milhões.",
+      "tags": [
+        "Pizarro",
+        "1532",
+        "Cajamarca",
+        "Atahualpa",
+        "resgate",
+        "varíola"
+      ],
+      "dataset": "data/dados-chimu-conquista-peru.json"
+    },
+    {
+      "id": "ccp2",
+      "nome": "O Vice-Reino do Peru e a Mita",
+      "nome_en": "O Vice-Reino do Peru e a Mita",
+      "nome_es": "O Vice-Reino do Peru e a Mita",
+      "tipo": "periodo",
+      "inicio": 1542,
+      "fim": 1824,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "O Vice-Reino do Peru foi o maior das Américas. A mita (trabalho forçado) de Potosí: 8 milhões de indígenas morreram extraindo prata. Potosí tinha 160.000 habitantes em 1600 - a maior cidade das Américas.",
+      "descricao_en": "O Vice-Reino do Peru foi o maior das Américas. A mita (trabalho forçado) de Potosí: 8 milhões de indígenas morreram extraindo prata. Potosí tinha 160.000 habitantes em 1600 - a maior cidade das Américas.",
+      "descricao_es": "O Vice-Reino do Peru foi o maior das Américas. A mita (trabalho forçado) de Potosí: 8 milhões de indígenas morreram extraindo prata. Potosí tinha 160.000 habitantes em 1600 - a maior cidade das Américas.",
+      "importancia": "Potosí é o símbolo do colonialismo extrativista: a maior cidade das Américas construída sobre o trabalho forçado de milhões que morreram nas minas.",
+      "importancia_en": "Potosí é o símbolo do colonialismo extrativista: a maior cidade das Américas construída sobre o trabalho forçado de milhões que morreram nas minas.",
+      "importancia_es": "Potosí é o símbolo do colonialismo extrativista: a maior cidade das Américas construída sobre o trabalho forçado de milhões que morreram nas minas.",
+      "tags": [
+        "Vice-Reino",
+        "mita",
+        "Potosí",
+        "prata",
+        "trabalho forçado",
+        "160.000"
+      ],
+      "dataset": "data/dados-chimu-conquista-peru.json"
     }
   ],
   "relacoes": [

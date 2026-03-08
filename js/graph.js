@@ -20,14 +20,15 @@ window._guidedCurrentId = null;
  * Anima o grafo para centralizar na entidade dada.
  * Chamado pelo modo guiado ao avançar/retroceder.
  */
-export function focusNode(entity) {
+export function focusNode(entity, yBias=0) {
   if (!_svgEl || !_svgZoom || !entity || entity.x == null) return;
   const container = document.getElementById('grafo');
   const w = container ? container.clientWidth  : window.innerWidth  - 300;
   const h = container ? container.clientHeight : window.innerHeight - 140;
   const k = 2.0;
   const tx = w / 2 - k * entity.x;
-  const ty = h / 2 - k * entity.y;
+  // yBias > 0 shifts the focus point upward (positive = node moves up on screen)
+  const ty = (h - yBias) / 2 - k * entity.y;
   _svgEl.transition().duration(700).ease(d3.easeCubicInOut).call(
     _svgZoom.transform,
     d3.zoomIdentity.translate(tx, ty).scale(k)

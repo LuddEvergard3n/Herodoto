@@ -196,6 +196,34 @@
         "salários"
       ],
       "dataset": "data/dados-medieval-feudalismo.json"
+    },
+    {
+      "id": "mf1",
+      "nome": "O Feudalismo e a Cadeia de Fidelidades",
+      "nome_en": "O Feudalismo e a Cadeia de Fidelidades",
+      "nome_es": "O Feudalismo e a Cadeia de Fidelidades",
+      "tipo": "cultural",
+      "inicio": 800,
+      "fim": 1300,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 9,
+      "type": "political",
+      "descricao": "O feudalismo europeu foi um sistema de fidelidades pessoais: o rei dava terras ao senhor (feudo) em troca de servico militar; o senhor dava protecao ao servo que cultivava a terra. Nao era um sistema uniforme - variava enormemente entre regioes. A Carta Magna (1215) foi a primeira limitacao formal do feudalismo.",
+      "descricao_en": "O feudalismo europeu foi um sistema de fidelidades pessoais: o rei dava terras ao senhor (feudo) em troca de servico militar; o senhor dava protecao ao servo que cultivava a terra. Nao era um sistema uniforme - variava enormemente entre regioes. A Carta Magna (1215) foi a primeira limitacao formal do feudalismo.",
+      "descricao_es": "O feudalismo europeu foi um sistema de fidelidades pessoais: o rei dava terras ao senhor (feudo) em troca de servico militar; o senhor dava protecao ao servo que cultivava a terra. Nao era um sistema uniforme - variava enormemente entre regioes. A Carta Magna (1215) foi a primeira limitacao formal do feudalismo.",
+      "importancia": "O feudalismo criou a cultura de fidelidade pessoal que ainda estrutura as relacoes politicas europeias: a lealdade ao lider antes da lealdade ao Estado. O clientelismo politico moderno e um resquicio do feudalismo.",
+      "importancia_en": "O feudalismo criou a cultura de fidelidade pessoal que ainda estrutura as relacoes politicas europeias: a lealdade ao lider antes da lealdade ao Estado. O clientelismo politico moderno e um resquicio do feudalismo.",
+      "importancia_es": "O feudalismo criou a cultura de fidelidade pessoal que ainda estrutura as relacoes politicas europeias: a lealdade ao lider antes da lealdade ao Estado. O clientelismo politico moderno e um resquicio do feudalismo.",
+      "tags": [
+        "feudalismo",
+        "feudo",
+        "servo",
+        "fidelidade",
+        "Carta Magna",
+        "servico militar"
+      ],
+      "dataset": "data/dados-medieval-feudalismo.json"
     }
   ],
   "relacoes": [

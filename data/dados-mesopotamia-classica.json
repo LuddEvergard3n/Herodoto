@@ -198,6 +198,34 @@
         "judaísmo"
       ],
       "dataset": "data/dados-mesopotamia-classica.json"
+    },
+    {
+      "id": "mc1",
+      "nome": "Nabucodonosor e o Exilio Babilonico",
+      "nome_en": "Nabucodonosor e o Exilio Babilonico",
+      "nome_es": "Nabucodonosor e o Exilio Babilonico",
+      "tipo": "pessoa",
+      "inicio": -634,
+      "fim": -562,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 7,
+      "type": "political",
+      "descricao": "Nabucodonosor II (r. 605-562 a.C.) destruiu Jerusalem (587 a.C.) e deportou os judeus para a Babilonia. Os Jardins Suspensos (uma das 7 maravilhas, possivelmente lendarios) teriam sido construidos para sua esposa persa. O Exilio Babilonico transformou o Judaismo de religiao territorial em religiao universal.",
+      "descricao_en": "Nabucodonosor II (r. 605-562 a.C.) destruiu Jerusalem (587 a.C.) e deportou os judeus para a Babilonia. Os Jardins Suspensos (uma das 7 maravilhas, possivelmente lendarios) teriam sido construidos para sua esposa persa. O Exilio Babilonico transformou o Judaismo de religiao territorial em religiao universal.",
+      "descricao_es": "Nabucodonosor II (r. 605-562 a.C.) destruiu Jerusalem (587 a.C.) e deportou os judeus para a Babilonia. Os Jardins Suspensos (uma das 7 maravilhas, possivelmente lendarios) teriam sido construidos para sua esposa persa. O Exilio Babilonico transformou o Judaismo de religiao territorial em religiao universal.",
+      "importancia": "Nabucodonosor e o agente inadvertido mais importante da historia religiosa: ao destruir Jerusalem, forcou o Judaismo a se reinventar sem templo e sem territorio - tornando-o uma religiao que podia sobreviver em qualquer lugar do mundo.",
+      "importancia_en": "Nabucodonosor e o agente inadvertido mais importante da historia religiosa: ao destruir Jerusalem, forcou o Judaismo a se reinventar sem templo e sem territorio - tornando-o uma religiao que podia sobreviver em qualquer lugar do mundo.",
+      "importancia_es": "Nabucodonosor e o agente inadvertido mais importante da historia religiosa: ao destruir Jerusalem, forcou o Judaismo a se reinventar sem templo e sem territorio - tornando-o uma religiao que podia sobreviver em qualquer lugar do mundo.",
+      "tags": [
+        "Nabucodonosor",
+        "587 a.C.",
+        "Jerusalem",
+        "exilio",
+        "Jardins Suspensos",
+        "Judaismo"
+      ],
+      "dataset": "data/dados-mesopotamia-classica.json"
     }
   ],
   "relacoes": [

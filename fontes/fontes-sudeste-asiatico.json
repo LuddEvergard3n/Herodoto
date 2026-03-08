@@ -1,0 +1,120 @@
+{
+  "tema": "Sudeste Asiático e Oceania",
+  "descricao": "Angkor, Srivijaya, Majapahit, Ayutthaya, Malaca, colonização europeia, guerra do Vietnam, independências",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Zhou Daguan",
+        "obra": "The Customs of Cambodia (Relato sobre Angkor)",
+        "ano": "1297",
+        "nota": "Trad. Peter Harris, Silkworm Books"
+      },
+      {
+        "autor": "Tomé de Pires",
+        "obra": "Suma Oriental",
+        "ano": "c. 1515",
+        "nota": "Relato português sobre o Sudeste Asiático"
+      },
+      {
+        "autor": "Ho Chi Minh",
+        "obra": "Declaração de Independência do Vietnam",
+        "ano": "1945"
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Nagarakertagama (Poema épico sobre o Majapahit)",
+        "ano": "1365"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "D. G. E. Hall",
+        "obra": "A History of South-East Asia",
+        "ano": "1955",
+        "editora": "Macmillan"
+      },
+      {
+        "autor": "George Coedès",
+        "obra": "The Indianized States of Southeast Asia",
+        "ano": "1968",
+        "editora": "University of Hawaii Press"
+      },
+      {
+        "autor": "Anthony Reid",
+        "obra": "Southeast Asia in the Age of Commerce, 1450–1680 (2 vols.)",
+        "ano": "1988–1993",
+        "editora": "Yale University Press"
+      },
+      {
+        "autor": "D. R. SarDesai",
+        "obra": "Southeast Asia: Past and Present",
+        "ano": "1989",
+        "editora": "Westview Press"
+      },
+      {
+        "autor": "Nicholas Tarling (ed.)",
+        "obra": "The Cambridge History of Southeast Asia (2 vols.)",
+        "ano": "1992",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "David Halberstam",
+        "obra": "The Best and the Brightest",
+        "ano": "1972",
+        "editora": "Random House",
+        "nota": "Guerra do Vietnam, perspectiva americana"
+      },
+      {
+        "autor": "Stanley Karnow",
+        "obra": "Vietnam: A History",
+        "ano": "1983",
+        "editora": "Viking"
+      },
+      {
+        "autor": "David Chandler",
+        "obra": "A History of Cambodia",
+        "ano": "1983",
+        "editora": "Westview Press"
+      },
+      {
+        "autor": "Benedict Anderson",
+        "obra": "Imagined Communities: Reflections on the Origin and Spread of Nationalism",
+        "ano": "1983",
+        "editora": "Verso",
+        "nota": "Fundamental para entender as independências do Sudeste Asiático"
+      },
+      {
+        "autor": "M. C. Ricklefs",
+        "obra": "A History of Modern Indonesia since c. 1200",
+        "ano": "1981",
+        "editora": "Macmillan"
+      },
+      {
+        "autor": "David K. Wyatt",
+        "obra": "Thailand: A Short History",
+        "ano": "1984",
+        "editora": "Yale University Press"
+      },
+      {
+        "autor": "Milton Osborne",
+        "obra": "Southeast Asia: An Introductory History",
+        "ano": "1979",
+        "editora": "Allen & Unwin"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Mark Borthwick",
+        "obra": "Pacific Century: The Emergence of Modern Pacific Asia",
+        "ano": "1992",
+        "editora": "Westview Press"
+      },
+      {
+        "autor": "William Shawcross",
+        "obra": "Sideshow: Kissinger, Nixon, and the Destruction of Cambodia",
+        "ano": "1979",
+        "editora": "Simon & Schuster"
+      }
+    ]
+  }
+}

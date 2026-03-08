@@ -155,6 +155,62 @@
       "period": "Modern",
       "importancia_en": "First Brazilian revolt proposing abolition. Both failed but fed independentist ideals.",
       "importancia_es": "Primera revuelta brasileña proponiendo abolición. Ambas fracasaron pero alimentaron ideario independentista."
+    },
+    {
+      "id": "bct1",
+      "nome": "Tiradentes e a Inconfidência Mineira",
+      "nome_en": "Tiradentes e a Inconfidência Mineira",
+      "nome_es": "Tiradentes e a Inconfidência Mineira",
+      "tipo": "pessoa",
+      "inicio": 1746,
+      "fim": 1792,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 18,
+      "type": "political",
+      "descricao": "Tiradentes foi o único executado da Inconfidência Mineira (1789). A conjura era de elite contra impostos portugueses. Tiradentes foi esquartejado em praça pública. A República o transformou em herói nacional.",
+      "descricao_en": "Tiradentes foi o único executado da Inconfidência Mineira (1789). A conjura era de elite contra impostos portugueses. Tiradentes foi esquartejado em praça pública. A República o transformou em herói nacional.",
+      "descricao_es": "Tiradentes foi o único executado da Inconfidência Mineira (1789). A conjura era de elite contra impostos portugueses. Tiradentes foi esquartejado em praça pública. A República o transformou em herói nacional.",
+      "importancia": "Tiradentes é o herói nacional mais ironicamente construído: um homem de elite foi transformado pela República em símbolo do povo oprimido. A nação cria os heróis de que precisa.",
+      "importancia_en": "Tiradentes é o herói nacional mais ironicamente construído: um homem de elite foi transformado pela República em símbolo do povo oprimido. A nação cria os heróis de que precisa.",
+      "importancia_es": "Tiradentes é o herói nacional mais ironicamente construído: um homem de elite foi transformado pela República em símbolo do povo oprimido. A nação cria os heróis de que precisa.",
+      "tags": [
+        "Tiradentes",
+        "1789",
+        "Inconfidência",
+        "esquartejado",
+        "1792",
+        "República"
+      ],
+      "dataset": "data/dados-brasil-colonial-tardio.json"
+    },
+    {
+      "id": "bct2",
+      "nome": "A Transferência da Corte Portuguesa (1808)",
+      "nome_en": "A Transferência da Corte Portuguesa (1808)",
+      "nome_es": "A Transferência da Corte Portuguesa (1808)",
+      "tipo": "evento",
+      "inicio": 1808,
+      "fim": 1808,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "D. João VI transferiu a corte ao Rio com 15.000 pessoas fugindo de Napoleão. No mesmo ano: abriu os portos, criou o Banco do Brasil, Imprensa Régia, Biblioteca Real. A transferência tornou a independência inevitável.",
+      "descricao_en": "D. João VI transferiu a corte ao Rio com 15.000 pessoas fugindo de Napoleão. No mesmo ano: abriu os portos, criou o Banco do Brasil, Imprensa Régia, Biblioteca Real. A transferência tornou a independência inevitável.",
+      "descricao_es": "D. João VI transferiu a corte ao Rio com 15.000 pessoas fugindo de Napoleão. No mesmo ano: abriu os portos, criou o Banco do Brasil, Imprensa Régia, Biblioteca Real. A transferência tornou a independência inevitável.",
+      "importancia": "A transferência de 1808 tornou a independência do Brasil inevitável: um país que havia sido sede de um Império não voltaria a ser colônia.",
+      "importancia_en": "A transferência de 1808 tornou a independência do Brasil inevitável: um país que havia sido sede de um Império não voltaria a ser colônia.",
+      "importancia_es": "A transferência de 1808 tornou a independência do Brasil inevitável: um país que havia sido sede de um Império não voltaria a ser colônia.",
+      "tags": [
+        "D. João VI",
+        "1808",
+        "Corte",
+        "Napoleão",
+        "portos",
+        "independência"
+      ],
+      "dataset": "data/dados-brasil-colonial-tardio.json"
     }
   ],
   "relacoes": [

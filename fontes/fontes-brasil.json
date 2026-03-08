@@ -1,0 +1,140 @@
+{
+  "tema": "Brasil",
+  "descricao": "Brasil pré-colonial, colonial, Imperial, República Velha, Vargas, ditadura militar, redemocratização e contemporâneo",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Pero Vaz de Caminha",
+        "obra": "Carta a D. Manuel I (Carta do Achamento)",
+        "ano": "1500",
+        "nota": "Biblioteca Nacional Digital"
+      },
+      {
+        "autor": "Manuel da Nóbrega",
+        "obra": "Cartas do Brasil (1549–1560)",
+        "ano": "séc. XVI",
+        "nota": "Ed. Hedra"
+      },
+      {
+        "autor": "José de Anchieta",
+        "obra": "Cartas; Arte da Gramática da Língua Tupi",
+        "ano": "1595"
+      },
+      {
+        "autor": "André João Antonil",
+        "obra": "Cultura e Opulência do Brasil",
+        "ano": "1711",
+        "nota": "Ed. Edusp"
+      },
+      {
+        "autor": "José Bonifácio de Andrada e Silva",
+        "obra": "Memória sobre a Escravatura",
+        "ano": "1823"
+      },
+      {
+        "autor": "Joaquim Nabuco",
+        "obra": "O Abolicionismo",
+        "ano": "1883",
+        "nota": "Ed. Publifolha"
+      },
+      {
+        "autor": "Getúlio Vargas",
+        "obra": "Carta Testamento",
+        "ano": "1954"
+      },
+      {
+        "autor": "Comissão Nacional da Verdade",
+        "obra": "Relatório da Comissão Nacional da Verdade (3 vols.)",
+        "ano": "2014"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Boris Fausto",
+        "obra": "História do Brasil",
+        "ano": "1994",
+        "editora": "Edusp"
+      },
+      {
+        "autor": "José Murilo de Carvalho",
+        "obra": "A Construção da Ordem; O Teatro de Sombras",
+        "ano": "1980–1988",
+        "editora": "Civilização Brasileira"
+      },
+      {
+        "autor": "Stuart B. Schwartz",
+        "obra": "Sugar Plantations in the Formation of Brazilian Society",
+        "ano": "1985",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Gilberto Freyre",
+        "obra": "Casa-Grande e Senzala",
+        "ano": "1933",
+        "editora": "Global Editora"
+      },
+      {
+        "autor": "Caio Prado Jr.",
+        "obra": "Formação do Brasil Contemporâneo",
+        "ano": "1942",
+        "editora": "Brasiliense"
+      },
+      {
+        "autor": "Darrell E. Levi",
+        "obra": "A Família Prado",
+        "ano": "1977",
+        "editora": "Cultura 70"
+      },
+      {
+        "autor": "Thomas E. Skidmore",
+        "obra": "Brasil: De Getúlio a Castelo",
+        "ano": "1967",
+        "editora": "Saga"
+      },
+      {
+        "autor": "Elio Gaspari",
+        "obra": "A Ditadura Envergonhada; A Ditadura Escancarada; A Ditadura Derrotada; A Ditadura Acabou (4 vols.)",
+        "ano": "2002–2016",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Oliveira Vianna",
+        "obra": "Populações Meridionais do Brasil",
+        "ano": "1920",
+        "nota": "Fonte primária-secundária, perspectiva conservadora"
+      },
+      {
+        "autor": "Sérgio Buarque de Holanda",
+        "obra": "Raízes do Brasil",
+        "ano": "1936",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Darcy Ribeiro",
+        "obra": "O Povo Brasileiro",
+        "ano": "1995",
+        "editora": "Companhia das Letras"
+      },
+      {
+        "autor": "Celso Furtado",
+        "obra": "Formação Econômica do Brasil",
+        "ano": "1959",
+        "editora": "Fundo de Cultura"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Lins do Rego, José",
+        "obra": "Fogo Morto",
+        "ano": "1943",
+        "nota": "Literatura como fonte sobre o Brasil colonial-rural"
+      },
+      {
+        "autor": "Jorge Amado",
+        "obra": "Capitães da Areia; Gabriela, Cravo e Canela",
+        "ano": "1937–1958",
+        "nota": "Literatura como fonte sociológica"
+      }
+    ]
+  }
+}

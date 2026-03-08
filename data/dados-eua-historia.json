@@ -163,6 +163,62 @@
       "period": "Contemporary",
       "importancia_en": "Reagan Era (1981–89): deregulation and tax cuts. Globalization, internet, 1990s boom.",
       "importancia_es": "Movimiento por los Derechos Civiles: Rosa Parks (1955), MLK (1963), Ley de Derechos Civiles (1964). Watergate (1972–74): Nixon renunció."
+    },
+    {
+      "id": "eua1",
+      "nome": "A Guerra Civil e a Abolição da Escravidão",
+      "nome_en": "A Guerra Civil e a Abolição da Escravidão",
+      "nome_es": "A Guerra Civil e a Abolição da Escravidão",
+      "tipo": "evento",
+      "inicio": 1861,
+      "fim": 1865,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "war",
+      "descricao": "A Guerra Civil (1861-1865): 620.000 mortos. Lincoln proclamou a Emancipação (1863). A 13ª Emenda (1865) aboliu a escravidão. A Reconstrução foi abandonada em 1877 - e o Sul criou o sistema Jim Crow que durou 90 anos.",
+      "descricao_en": "A Guerra Civil (1861-1865): 620.000 mortos. Lincoln proclamou a Emancipação (1863). A 13ª Emenda (1865) aboliu a escravidão. A Reconstrução foi abandonada em 1877 - e o Sul criou o sistema Jim Crow que durou 90 anos.",
+      "descricao_es": "A Guerra Civil (1861-1865): 620.000 mortos. Lincoln proclamou a Emancipação (1863). A 13ª Emenda (1865) aboliu a escravidão. A Reconstrução foi abandonada em 1877 - e o Sul criou o sistema Jim Crow que durou 90 anos.",
+      "importancia": "A Guerra Civil é o maior trauma da história americana. O abandono da Reconstrução em 1877 criou o racismo institucional que o Movimento dos Direitos Civis tentou desfazer 90 anos depois.",
+      "importancia_en": "A Guerra Civil é o maior trauma da história americana. O abandono da Reconstrução em 1877 criou o racismo institucional que o Movimento dos Direitos Civis tentou desfazer 90 anos depois.",
+      "importancia_es": "A Guerra Civil é o maior trauma da história americana. O abandono da Reconstrução em 1877 criou o racismo institucional que o Movimento dos Direitos Civis tentou desfazer 90 anos depois.",
+      "tags": [
+        "Guerra Civil",
+        "Lincoln",
+        "1865",
+        "Emancipação",
+        "Jim Crow",
+        "Reconstrução"
+      ],
+      "dataset": "data/dados-eua-historia.json"
+    },
+    {
+      "id": "eua2",
+      "nome": "O New Deal e o Estado Federal Americano",
+      "nome_en": "O New Deal e o Estado Federal Americano",
+      "nome_es": "O New Deal e o Estado Federal Americano",
+      "tipo": "evento",
+      "inicio": 1933,
+      "fim": 1940,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "economic",
+      "descricao": "O New Deal (1933-1938): 25% de desemprego, respondido com TVA, WPA, Social Security (1935). O Estado Federal americano moderno foi criado pelo New Deal.",
+      "descricao_en": "O New Deal (1933-1938): 25% de desemprego, respondido com TVA, WPA, Social Security (1935). O Estado Federal americano moderno foi criado pelo New Deal.",
+      "descricao_es": "O New Deal (1933-1938): 25% de desemprego, respondido com TVA, WPA, Social Security (1935). O Estado Federal americano moderno foi criado pelo New Deal.",
+      "importancia": "O New Deal criou o Estado americano moderno. O país menos intervencionista do Ocidente criou seu Estado de bem-estar durante a maior crise do capitalismo.",
+      "importancia_en": "O New Deal criou o Estado americano moderno. O país menos intervencionista do Ocidente criou seu Estado de bem-estar durante a maior crise do capitalismo.",
+      "importancia_es": "O New Deal criou o Estado americano moderno. O país menos intervencionista do Ocidente criou seu Estado de bem-estar durante a maior crise do capitalismo.",
+      "tags": [
+        "New Deal",
+        "Roosevelt",
+        "1933",
+        "desemprego",
+        "Social Security",
+        "TVA"
+      ],
+      "dataset": "data/dados-eua-historia.json"
     }
   ],
   "relacoes": [

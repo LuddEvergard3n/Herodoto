@@ -124,37 +124,6 @@
       "region": "Europe"
     },
     {
-      "id": "pcp-005",
-      "nome": "Ada Lovelace",
-      "nome_en": "Ada Lovelace",
-      "nome_es": "Ada Lovelace",
-      "nascimento": 1815,
-      "morte": 1852,
-      "regiao": "Europe",
-      "area": [
-        "matemática",
-        "tecnologia"
-      ],
-      "cargo": "Matemática",
-      "epoca": "Séc. XIX",
-      "descricao": "Filha de Lord Byron, colaborou com Charles Babbage em sua Máquina Analítica. Suas notas sobre a máquina (1843) incluem o primeiro algoritmo escrito para ser processado por máquina — tornando-a a primeira programadora da história. Percebeu que a máquina poderia processar mais que números: qualquer símbolo, incluindo notas musicais.",
-      "importancia": "Ada Lovelace antecipou em 100 anos a visão da computação como processamento de símbolos (não apenas cálculo numérico) — exatamente o que Turing formalizou em 1936. Sua morte aos 36 anos de câncer deixou a visão sem continuação. Em 1980, o Departamento de Defesa americano nomeou uma linguagem de programação 'Ada' em sua homenagem. É o símbolo das mulheres na computação.",
-      "eventos": [],
-      "tags": [
-        "computação",
-        "programação",
-        "matemática",
-        "babbage",
-        "mulher",
-        "algoritmo",
-        "século-xix"
-      ],
-      "type": "person",
-      "inicio": 1815,
-      "fim": 1852,
-      "region": "Europe"
-    },
-    {
       "id": "pcp-006",
       "nome": "Rosalind Franklin",
       "nome_en": "Rosalind Franklin",
@@ -184,36 +153,6 @@
       "type": "person",
       "inicio": 1920,
       "fim": 1958,
-      "region": "Europe"
-    },
-    {
-      "id": "pcp-007",
-      "nome": "Baruch Spinoza",
-      "nome_en": "Baruch Spinoza",
-      "nome_es": "Baruch Spinoza",
-      "nascimento": 1632,
-      "morte": 1677,
-      "regiao": "Europe",
-      "area": [
-        "filosofia"
-      ],
-      "cargo": "Filósofo",
-      "epoca": "Renascimento",
-      "descricao": "Filósofo holandês de origem judaica sefardita, excomungado pela comunidade judaica de Amsterdã aos 23 anos com o mais severo ban registrado (razões desconhecidas). A Ética (publicada postumamente, 1677) demonstra filosofia more geometrico — em forma de proposições e demonstrações como Euclides. Deus é a única substância (= Natureza): panteísmo.",
-      "importancia": "Spinoza é o mais radical dos filósofos modernos: negou o livre-arbítrio, o Deus pessoal, a alma imortal e a distinção mente-corpo — tudo dentro de um sistema lógico rigoroso. Seu panteísmo ('Deus ou Natureza') foi adotado por Einstein ('creio no Deus de Spinoza'). A separação entre lei civil e lei religiosa que ele propôs é fundamento do Estado laico moderno. Foi malcompreendido por todos e ignorado por um século — depois tornou-se o mais influente.",
-      "eventos": [],
-      "tags": [
-        "filosofia",
-        "panteísmo",
-        "excomungado",
-        "ética",
-        "natureza",
-        "deus",
-        "spinoza"
-      ],
-      "type": "person",
-      "inicio": 1632,
-      "fim": 1677,
       "region": "Europe"
     },
     {
@@ -278,39 +217,6 @@
       "type": "person",
       "inicio": 1623,
       "fim": 1662,
-      "region": "Europe"
-    },
-    {
-      "id": "pcp-010",
-      "nome": "Marie Curie",
-      "nome_en": "Marie Curie",
-      "nome_es": "Marie Curie",
-      "nascimento": 1867,
-      "morte": 1934,
-      "regiao": "Europe",
-      "area": [
-        "ciência",
-        "física",
-        "química"
-      ],
-      "cargo": "Física e Química",
-      "epoca": "Séc. XIX",
-      "descricao": "Polonesa radicada em Paris. Primeira pessoa a ganhar dois Prêmios Nobel em disciplinas diferentes: Física (1903, com Pierre Curie e Becquerel) e Química (1911). Descobriu os elementos rádio e polônio. Criou o conceito de radioatividade. Morreu de anemia aplástica — causada pela exposição prolongada à radiação que ela descobriu.",
-      "importancia": "Curie é o símbolo mais poderoso das mulheres na ciência — mas sua história também revela os obstáculos: a Academia de Ciências Francesa nunca a admitiu como membro. Seu trabalho sobre radioatividade é fundamental para medicina nuclear, energia atômica e física de partículas. Morreu do elemento que descobriu — uma ironia que a transformou em símbolo do sacrifício científico.",
-      "eventos": [],
-      "tags": [
-        "física",
-        "química",
-        "radioatividade",
-        "rádio",
-        "polônio",
-        "nobel",
-        "mulher",
-        "curie"
-      ],
-      "type": "person",
-      "inicio": 1867,
-      "fim": 1934,
       "region": "Europe"
     },
     {

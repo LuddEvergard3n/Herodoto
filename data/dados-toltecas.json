@@ -173,6 +173,62 @@
         "confederação"
       ],
       "dataset": "data/dados-toltecas.json"
+    },
+    {
+      "id": "tolt1",
+      "nome": "Tollan e o Mito de Quetzalcoatl",
+      "nome_en": "Tollan e o Mito de Quetzalcoatl",
+      "nome_es": "Tollan e o Mito de Quetzalcoatl",
+      "tipo": "cultural",
+      "inicio": 900,
+      "fim": 1150,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 10,
+      "type": "cultural",
+      "descricao": "Tollan (Tula, c. 900-1150 d.C.) foi a capital tolteca: os Atlantes (guerreiros de 4,6 metros em pedra), a serpente emplumada Quetzalcoatl como deus-governante. O mito: Quetzalcoatl foi expulso por Tezcatlipoca e prometeu retornar do Oriente - o que pode ter levado Moctezuma a aceitar Cortés como o deus retornando.",
+      "descricao_en": "Tollan (Tula, c. 900-1150 d.C.) foi a capital tolteca: os Atlantes (guerreiros de 4,6 metros em pedra), a serpente emplumada Quetzalcoatl como deus-governante. O mito: Quetzalcoatl foi expulso por Tezcatlipoca e prometeu retornar do Oriente - o que pode ter levado Moctezuma a aceitar Cortés como o deus retornando.",
+      "descricao_es": "Tollan (Tula, c. 900-1150 d.C.) foi a capital tolteca: os Atlantes (guerreiros de 4,6 metros em pedra), a serpente emplumada Quetzalcoatl como deus-governante. O mito: Quetzalcoatl foi expulso por Tezcatlipoca e prometeu retornar do Oriente - o que pode ter levado Moctezuma a aceitar Cortés como o deus retornando.",
+      "importancia": "O mito de Quetzalcoatl é o mais consequente da história americana: a crença de que Cortés era o deus retornando (se foi realmente acreditada por Moctezuma) paralisou a resposta asteca no momento crítico.",
+      "importancia_en": "O mito de Quetzalcoatl é o mais consequente da história americana: a crença de que Cortés era o deus retornando (se foi realmente acreditada por Moctezuma) paralisou a resposta asteca no momento crítico.",
+      "importancia_es": "O mito de Quetzalcoatl é o mais consequente da história americana: a crença de que Cortés era o deus retornando (se foi realmente acreditada por Moctezuma) paralisou a resposta asteca no momento crítico.",
+      "tags": [
+        "Tollan",
+        "Tula",
+        "Quetzalcoatl",
+        "Atlantes",
+        "Cortés",
+        "deus"
+      ],
+      "dataset": "data/dados-toltecas.json"
+    },
+    {
+      "id": "tolt2",
+      "nome": "A Influência Tolteca na Mesoamérica",
+      "nome_en": "A Influência Tolteca na Mesoamérica",
+      "nome_es": "A Influência Tolteca na Mesoamérica",
+      "tipo": "cultural",
+      "inicio": 900,
+      "fim": 1200,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 10,
+      "type": "cultural",
+      "descricao": "Os toltecas influenciaram toda a Mesoamérica pós-clássica: Chichén Itzá (Yucatán) tem elementos claramente toltecas (Atlantes, tzompantli/estrado de crânios), o jogo de bola com anel vertical. Os astecas chamavam a si mesmos de herdeiros dos toltecas - a palavra tolteca significava artesão ou civilizado.",
+      "descricao_en": "Os toltecas influenciaram toda a Mesoamérica pós-clássica: Chichén Itzá (Yucatán) tem elementos claramente toltecas (Atlantes, tzompantli/estrado de crânios), o jogo de bola com anel vertical. Os astecas chamavam a si mesmos de herdeiros dos toltecas - a palavra tolteca significava artesão ou civilizado.",
+      "descricao_es": "Os toltecas influenciaram toda a Mesoamérica pós-clássica: Chichén Itzá (Yucatán) tem elementos claramente toltecas (Atlantes, tzompantli/estrado de crânios), o jogo de bola com anel vertical. Os astecas chamavam a si mesmos de herdeiros dos toltecas - a palavra tolteca significava artesão ou civilizado.",
+      "importancia": "A influência tolteca é a mais difusa da Mesoamérica: sem grande extensão territorial, os toltecas espalharam sua cultura de Yucatán ao México Central. A palavra tolteca tornou-se sinônimo de civilizado - o maior elogio de uma cultura.",
+      "importancia_en": "A influência tolteca é a mais difusa da Mesoamérica: sem grande extensão territorial, os toltecas espalharam sua cultura de Yucatán ao México Central. A palavra tolteca tornou-se sinônimo de civilizado - o maior elogio de uma cultura.",
+      "importancia_es": "A influência tolteca é a mais difusa da Mesoamérica: sem grande extensão territorial, os toltecas espalharam sua cultura de Yucatán ao México Central. A palavra tolteca tornou-se sinônimo de civilizado - o maior elogio de uma cultura.",
+      "tags": [
+        "influência tolteca",
+        "Chichén Itzá",
+        "Atlantes",
+        "tzompantli",
+        "artesão",
+        "astecas"
+      ],
+      "dataset": "data/dados-toltecas.json"
     }
   ],
   "relacoes": [

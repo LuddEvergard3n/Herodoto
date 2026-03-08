@@ -170,6 +170,62 @@
         "colonização"
       ],
       "dataset": "data/dados-sudeste-asiatico-continental.json"
+    },
+    {
+      "id": "sac1",
+      "nome": "O Budismo Theravada e o Sudeste Continental",
+      "nome_en": "O Budismo Theravada e o Sudeste Continental",
+      "nome_es": "O Budismo Theravada e o Sudeste Continental",
+      "tipo": "cultural",
+      "inicio": 200,
+      "fim": 1400,
+      "region": "Asia",
+      "period": "Medieval",
+      "century_start": 3,
+      "type": "religious",
+      "descricao": "O Budismo Theravada (a forma mais antiga) espalhou-se pelo Sudeste Asiático continental: Sri Lanka (século III a.C.), Myanmar, Tailândia, Cambodja, Laos. O Theravada tornou-se a religião de Estado de todos esses países, moldando a arte (imagens de Buda em ouro), a política (o rei como patrono do Sangha) e a educação (mosteiros como escolas).",
+      "descricao_en": "O Budismo Theravada (a forma mais antiga) espalhou-se pelo Sudeste Asiático continental: Sri Lanka (século III a.C.), Myanmar, Tailândia, Cambodja, Laos. O Theravada tornou-se a religião de Estado de todos esses países, moldando a arte (imagens de Buda em ouro), a política (o rei como patrono do Sangha) e a educação (mosteiros como escolas).",
+      "descricao_es": "O Budismo Theravada (a forma mais antiga) espalhou-se pelo Sudeste Asiático continental: Sri Lanka (século III a.C.), Myanmar, Tailândia, Cambodja, Laos. O Theravada tornou-se a religião de Estado de todos esses países, moldando a arte (imagens de Buda em ouro), a política (o rei como patrono do Sangha) e a educação (mosteiros como escolas).",
+      "importancia": "O Theravada é a força cultural mais unificadora do Sudeste Asiático continental: uma faixa de países linguisticamente diferentes mas culturalmente coesos pela mesma tradição budista há 2.000 anos.",
+      "importancia_en": "O Theravada é a força cultural mais unificadora do Sudeste Asiático continental: uma faixa de países linguisticamente diferentes mas culturalmente coesos pela mesma tradição budista há 2.000 anos.",
+      "importancia_es": "O Theravada é a força cultural mais unificadora do Sudeste Asiático continental: uma faixa de países linguisticamente diferentes mas culturalmente coesos pela mesma tradição budista há 2.000 anos.",
+      "tags": [
+        "Theravada",
+        "Budismo",
+        "Buda",
+        "Myanmar",
+        "Tailândia",
+        "Cambodja"
+      ],
+      "dataset": "data/dados-sudeste-asiatico-continental.json"
+    },
+    {
+      "id": "sac2",
+      "nome": "Ayutthaya: O Reino do Elefante Branco",
+      "nome_en": "Ayutthaya: O Reino do Elefante Branco",
+      "nome_es": "Ayutthaya: O Reino do Elefante Branco",
+      "tipo": "periodo",
+      "inicio": 1351,
+      "fim": 1767,
+      "region": "Asia",
+      "period": "Medieval",
+      "century_start": 14,
+      "type": "political",
+      "descricao": "O Reino de Ayutthaya (1351-1767, atual Tailândia) foi o maior poder do Sudeste Continental: 33 reis em 400 anos, comércio com China, Japão, Portugal e Holanda. Destruído pelos birmaneses em 1767 (a capital incendiada, 90% da população morta ou escravizada). Bangkok substituiu Ayutthaya como capital do Siams.",
+      "descricao_en": "O Reino de Ayutthaya (1351-1767, atual Tailândia) foi o maior poder do Sudeste Continental: 33 reis em 400 anos, comércio com China, Japão, Portugal e Holanda. Destruído pelos birmaneses em 1767 (a capital incendiada, 90% da população morta ou escravizada). Bangkok substituiu Ayutthaya como capital do Siams.",
+      "descricao_es": "O Reino de Ayutthaya (1351-1767, atual Tailândia) foi o maior poder do Sudeste Continental: 33 reis em 400 anos, comércio com China, Japão, Portugal e Holanda. Destruído pelos birmaneses em 1767 (a capital incendiada, 90% da população morta ou escravizada). Bangkok substituiu Ayutthaya como capital do Siams.",
+      "importancia": "Ayutthaya foi o maior centro comercial do Sudeste Asiático: sua destruição em 1767 foi o maior trauma da história tailandesa. A reconstrução em Bangkok em menos de 20 anos demonstra a resiliência do Estado siamês.",
+      "importancia_en": "Ayutthaya foi o maior centro comercial do Sudeste Asiático: sua destruição em 1767 foi o maior trauma da história tailandesa. A reconstrução em Bangkok em menos de 20 anos demonstra a resiliência do Estado siamês.",
+      "importancia_es": "Ayutthaya foi o maior centro comercial do Sudeste Asiático: sua destruição em 1767 foi o maior trauma da história tailandesa. A reconstrução em Bangkok em menos de 20 anos demonstra a resiliência do Estado siamês.",
+      "tags": [
+        "Ayutthaya",
+        "1351",
+        "1767",
+        "Tailândia",
+        "birmaneses",
+        "Bangkok"
+      ],
+      "dataset": "data/dados-sudeste-asiatico-continental.json"
     }
   ],
   "relacoes": [

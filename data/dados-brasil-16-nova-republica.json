@@ -194,6 +194,34 @@
       "importancia_es": "O Brasil tem recursos para ser a maior potência tropical do mundo: maior reserva de água doce, maior biodiversidade, maior área agrícola expansível, petróleo, energia renovável. Tem também as estruturas coloniais de desigualdade que resistiram a 500 anos de história. O século XXI decidirá qual dessas realidades prevalece.",
       "century_start": 20,
       "century_end": 21
+    },
+    {
+      "id": "bnr1",
+      "nome": "A Constituicao de 1988: A Constituicao Cidada",
+      "nome_en": "A Constituicao de 1988: A Constituicao Cidada",
+      "nome_es": "A Constituicao de 1988: A Constituicao Cidada",
+      "tipo": "evento",
+      "inicio": 1988,
+      "fim": 1988,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "A Constituicao de 1988 (Ulysses Guimaraes) foi a mais inclusiva da historia brasileira: 250 artigos, direitos de saude, educacao, meio ambiente, povos indigenas e quilombolas.",
+      "descricao_en": "A Constituicao de 1988 (Ulysses Guimaraes) foi a mais inclusiva da historia brasileira: 250 artigos, direitos de saude, educacao, meio ambiente, povos indigenas e quilombolas.",
+      "descricao_es": "A Constituicao de 1988 (Ulysses Guimaraes) foi a mais inclusiva da historia brasileira: 250 artigos, direitos de saude, educacao, meio ambiente, povos indigenas e quilombolas.",
+      "importancia": "A Constituicao de 1988 e o maior pacto social da historia brasileira. Uma nacao saindo de 21 anos de ditadura decidiu que o Estado deve garantir tudo a todos.",
+      "importancia_en": "A Constituicao de 1988 e o maior pacto social da historia brasileira. Uma nacao saindo de 21 anos de ditadura decidiu que o Estado deve garantir tudo a todos.",
+      "importancia_es": "A Constituicao de 1988 e o maior pacto social da historia brasileira. Uma nacao saindo de 21 anos de ditadura decidiu que o Estado deve garantir tudo a todos.",
+      "tags": [
+        "Constituicao",
+        "1988",
+        "Ulysses",
+        "cidada",
+        "direitos",
+        "250 artigos"
+      ],
+      "dataset": "data/dados-brasil-16-nova-republica.json"
     }
   ]
 }

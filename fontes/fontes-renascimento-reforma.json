@@ -1,0 +1,152 @@
+{
+  "tema": "Renascimento, Reforma e Humanismo",
+  "descricao": "Renascimento italiano e nórdico, Humanismo, Reforma Protestante, Contrarreforma, sécs. XIV–XVII",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Nicolau Maquiavel",
+        "obra": "O Príncipe",
+        "ano": "1513",
+        "nota": "Trad. Lívio Xavier, L&PM"
+      },
+      {
+        "autor": "Erasmo de Rotterdam",
+        "obra": "Elogio da Loucura",
+        "ano": "1511",
+        "nota": "Trad. Paulo M. Oliveira, L&PM"
+      },
+      {
+        "autor": "Martinho Lutero",
+        "obra": "95 Teses; Do Cativeiro Babilônico da Igreja",
+        "ano": "1517–1520"
+      },
+      {
+        "autor": "João Calvino",
+        "obra": "As Institutas da Religião Cristã",
+        "ano": "1536"
+      },
+      {
+        "autor": "Nicolau Copérnico",
+        "obra": "De Revolutionibus Orbium Coelestium",
+        "ano": "1543",
+        "nota": "Revolução heliocêntrica"
+      },
+      {
+        "autor": "Thomas Moro",
+        "obra": "Utopia",
+        "ano": "1516",
+        "nota": "Trad. Jefferson Luís Camargo, Martins Fontes"
+      },
+      {
+        "autor": "Michel de Montaigne",
+        "obra": "Ensaios",
+        "ano": "1580–1588",
+        "nota": "Trad. Sérgio Milliet, Martins Fontes"
+      },
+      {
+        "autor": "Miguel de Cervantes",
+        "obra": "Dom Quixote",
+        "ano": "1605–1615",
+        "nota": "Trad. Sérgio Molina, Editora 34"
+      },
+      {
+        "autor": "William Shakespeare",
+        "obra": "Hamlet; Macbeth; Rei Lear; A Tempestade",
+        "ano": "1600–1611"
+      },
+      {
+        "autor": "Galileu Galilei",
+        "obra": "Diálogo sobre os Dois Principais Sistemas do Mundo",
+        "ano": "1632"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Jacob Burckhardt",
+        "obra": "The Civilization of the Renaissance in Italy",
+        "ano": "1860",
+        "editora": "Penguin Classics"
+      },
+      {
+        "autor": "Roland H. Bainton",
+        "obra": "Here I Stand: A Life of Martin Luther",
+        "ano": "1950",
+        "editora": "Abingdon"
+      },
+      {
+        "autor": "Diarmaid MacCulloch",
+        "obra": "The Reformation: A History",
+        "ano": "2003",
+        "editora": "Viking"
+      },
+      {
+        "autor": "Stephen Greenblatt",
+        "obra": "Renaissance Self-Fashioning",
+        "ano": "1980",
+        "editora": "University of Chicago Press"
+      },
+      {
+        "autor": "Elizabeth L. Eisenstein",
+        "obra": "The Printing Press as an Agent of Change",
+        "ano": "1979",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Quentin Skinner",
+        "obra": "The Foundations of Modern Political Thought (2 vols.)",
+        "ano": "1978",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Ross King",
+        "obra": "Brunelleschi's Dome",
+        "ano": "2000",
+        "editora": "Walker & Company"
+      },
+      {
+        "autor": "Hajo Holborn",
+        "obra": "A History of Modern Germany: The Reformation",
+        "ano": "1959",
+        "editora": "Knopf"
+      },
+      {
+        "autor": "Steven Ozment",
+        "obra": "The Age of Reform 1250–1550",
+        "ano": "1980",
+        "editora": "Yale University Press"
+      },
+      {
+        "autor": "Charles G. Nauert",
+        "obra": "Humanism and the Culture of Renaissance Europe",
+        "ano": "1995",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Michael Levey",
+        "obra": "Early Renaissance",
+        "ano": "1967",
+        "editora": "Penguin"
+      },
+      {
+        "autor": "Merry E. Wiesner-Hanks",
+        "obra": "Early Modern Europe, 1450–1789",
+        "ano": "2006",
+        "editora": "Cambridge University Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Giorgio Vasari",
+        "obra": "Vida dos Artistas (Le Vite)",
+        "ano": "1550",
+        "nota": "Fonte primária essencial sobre artistas renascentistas"
+      },
+      {
+        "autor": "Simon Schama",
+        "obra": "The Power of Art",
+        "ano": "2006",
+        "editora": "BBC Books"
+      }
+    ]
+  }
+}

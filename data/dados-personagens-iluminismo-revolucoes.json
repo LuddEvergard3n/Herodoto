@@ -214,36 +214,6 @@
       "region": "Europe"
     },
     {
-      "id": "pir-009",
-      "nome": "Mary Wollstonecraft",
-      "nome_en": "Mary Wollstonecraft",
-      "nome_es": "Mary Wollstonecraft",
-      "nascimento": 1759,
-      "morte": 1797,
-      "regiao": "Europe",
-      "area": [
-        "filosofia",
-        "feminismo"
-      ],
-      "cargo": "Filósofa e Escritora",
-      "epoca": "Iluminismo",
-      "descricao": "Autodidacta inglesa que escreveu Vindication of the Rights of Woman (1792) — primeira obra sistemática do feminismo: se a razão é o fundamento dos direitos humanos (Iluminismo), então as mulheres, sendo igualmente racionais, têm os mesmos direitos. Criticou Rousseau por excluir mulheres do projeto iluminista. Morreu de septicemia pós-parto ao dar à luz a futura Mary Shelley.",
-      "importancia": "Wollstonecraft fez a crítica mais corrosiva ao Iluminismo: mostrou que seus universais ('todos os homens são iguais') eram particulares disfarçados — excluíam mulheres, colonizados, escravizados. Esse gesto crítico — mostrar que o universal mascara o particular — é o núcleo do feminismo, do anti-colonialismo e de toda teoria crítica posterior. Sua morte jovem privou o movimento de sua fundadora.",
-      "eventos": [],
-      "tags": [
-        "feminismo",
-        "iluminismo",
-        "direitos-das-mulheres",
-        "razão",
-        "rousseau",
-        "gênero"
-      ],
-      "type": "person",
-      "inicio": 1759,
-      "fim": 1797,
-      "region": "Europe"
-    },
-    {
       "id": "pi501",
       "nome": "John Locke",
       "nome_en": "John Locke",
@@ -267,64 +237,6 @@
         "locke",
         "democracia",
         "filosofia"
-      ],
-      "type": "person",
-      "inicio": 1632,
-      "fim": 1704,
-      "region": "Europe"
-    },
-    {
-      "id": "pi807",
-      "nome": "Simon Bolívar",
-      "nome_en": "Simón Bolívar",
-      "nome_es": "Simón Bolívar",
-      "nascimento": 1783,
-      "morte": 1830,
-      "regiao": "Americas",
-      "area": [
-        "política",
-        "militar"
-      ],
-      "cargo": "Libertador",
-      "epoca": "Iluminismo",
-      "descricao": "Criollo venezuelano educado por Rousseau e pelos Iluministas. Liderou a independência de Venezuela, Colômbia, Equador, Peru e Bolívia. Percorreu 110.000km a cavalo liderando guerras. Sonhou com uma 'Gran Colombia' — União das Américas. Morreu tuberculoso, exilado, vendo seu sonho continental se fragmentar em repúblicas separadas.",
-      "importancia": "Bolívar é o fundador de mais países que qualquer outro líder da história. Mas o 'Sonho de Bolívar' — integração continental — fracassou em vida e continua em debate. Seu dilema: libertou povos para a democracia mas percebeu que democracia imediata poderia levar ao caos — e usou poderes ditatoriais para 'salvar' a república. Este paradoxo define a política latino-americana até hoje.",
-      "eventos": [],
-      "tags": [
-        "independência",
-        "americas",
-        "venezuela",
-        "libertador",
-        "integração",
-        "gran-colombia"
-      ],
-      "type": "person",
-      "inicio": 1783,
-      "fim": 1830,
-      "region": "Americas"
-    },
-    {
-      "id": "pi502",
-      "nome": "John Locke",
-      "nome_en": "John Locke",
-      "nome_es": "John Locke",
-      "nascimento": 1632,
-      "morte": 1704,
-      "regiao": "Europe",
-      "area": [
-        "filosofia",
-        "política"
-      ],
-      "cargo": "Filósofo",
-      "epoca": "Era Moderna",
-      "descricao": "Pai do liberalismo clássico. Formulou que os seres humanos nascem como uma 'tábula rasa' e que o conhecimento vem da experiência. Sua teoria do contrato social e dos direitos naturais (vida, liberdade e propriedade) influenciou diretamente a Declaração de Independência americana e a Revolução Francesa.",
-      "importancia": "Locke separou o poder secular do religioso e argumentou que um governo que viola os direitos naturais perde a legitimidade — dando fundamento filosófico à revolução como direito. Thomas Jefferson o copiou quase palavra por palavra na Declaração de 1776.",
-      "eventos": [],
-      "tags": [
-        "liberalismo",
-        "contrato social",
-        "empirismo",
-        "direitos naturais"
       ],
       "type": "person",
       "inicio": 1632,
@@ -414,35 +326,6 @@
       "inicio": 1748,
       "fim": 1793,
       "region": "Europe"
-    },
-    {
-      "id": "pir-015",
-      "nome": "Toussaint Louverture",
-      "nome_en": "Toussaint Louverture",
-      "nome_es": "Toussaint Louverture",
-      "nascimento": 1743,
-      "morte": 1803,
-      "regiao": "Americas",
-      "area": [
-        "política",
-        "militar"
-      ],
-      "cargo": "General e Estadista",
-      "epoca": "Era Moderna",
-      "descricao": "Ex-escravo que liderou a única revolta de escravizados bem-sucedida da história, transformando Saint-Domingue no Haiti independente. Derrotou exércitos espanhóis, britânicos e franceses. Napoleão o prendeu por traição — morreu na prisão nos Alpes. O Haiti proclamou independência em 1804.",
-      "importancia": "A Revolução Haitiana colocou em xeque a hipocrisia do Iluminismo escravocrata. Os ideais de liberdade e igualdade eram genuínos apenas quando aplicados a europeus brancos? Louverture forçou o mundo a responder. Sua derrota de Napoleão também levou à venda da Louisiana aos EUA, dobrando o território americano.",
-      "eventos": [],
-      "tags": [
-        "haiti",
-        "escravidão",
-        "revolução",
-        "napoleão",
-        "independência"
-      ],
-      "type": "person",
-      "inicio": 1743,
-      "fim": 1803,
-      "region": "Americas"
     },
     {
       "id": "pi222",

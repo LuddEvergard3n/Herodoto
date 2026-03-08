@@ -173,6 +173,62 @@
         "Quilín"
       ],
       "dataset": "data/dados-mapuches-povos-sul.json"
+    },
+    {
+      "id": "mps1",
+      "nome": "Os Mapuches: A Resistência Mais Longa das Américas",
+      "nome_en": "Os Mapuches: A Resistência Mais Longa das Américas",
+      "nome_es": "Os Mapuches: A Resistência Mais Longa das Américas",
+      "tipo": "periodo",
+      "inicio": 1550,
+      "fim": 1881,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "war",
+      "descricao": "Os Mapuches (araucanos) são o único povo das Américas que nunca foi conquistado pelos espanhóis. A Guerra Arauco (1550-1818) durou 268 anos - a mais longa da história das Américas. O Tratado de Quilín (1641) formalizou a fronteira: o rio Biobío era o limite da Espanha. Só foram submetidos pelo Estado chileno em 1881.",
+      "descricao_en": "Os Mapuches (araucanos) são o único povo das Américas que nunca foi conquistado pelos espanhóis. A Guerra Arauco (1550-1818) durou 268 anos - a mais longa da história das Américas. O Tratado de Quilín (1641) formalizou a fronteira: o rio Biobío era o limite da Espanha. Só foram submetidos pelo Estado chileno em 1881.",
+      "descricao_es": "Os Mapuches (araucanos) são o único povo das Américas que nunca foi conquistado pelos espanhóis. A Guerra Arauco (1550-1818) durou 268 anos - a mais longa da história das Américas. O Tratado de Quilín (1641) formalizou a fronteira: o rio Biobío era o limite da Espanha. Só foram submetidos pelo Estado chileno em 1881.",
+      "importancia": "Os Mapuches são o símbolo máximo da resistência indígena nas Américas: o único povo que manteve sua independência contra os espanhóis por 268 anos. Que sua resistência durasse mais que o Império Espanhol é o maior triunfo de David vs. Golias.",
+      "importancia_en": "Os Mapuches são o símbolo máximo da resistência indígena nas Américas: o único povo que manteve sua independência contra os espanhóis por 268 anos. Que sua resistência durasse mais que o Império Espanhol é o maior triunfo de David vs. Golias.",
+      "importancia_es": "Os Mapuches são o símbolo máximo da resistência indígena nas Américas: o único povo que manteve sua independência contra os espanhóis por 268 anos. Que sua resistência durasse mais que o Império Espanhol é o maior triunfo de David vs. Golias.",
+      "tags": [
+        "Mapuches",
+        "Guerra Arauco",
+        "268 anos",
+        "Biobío",
+        "Quilín",
+        "resistência"
+      ],
+      "dataset": "data/dados-mapuches-povos-sul.json"
+    },
+    {
+      "id": "mps2",
+      "nome": "Os Guaranis e as Reduções Jesuíticas do Sul",
+      "nome_en": "Os Guaranis e as Reduções Jesuíticas do Sul",
+      "nome_es": "Os Guaranis e as Reduções Jesuíticas do Sul",
+      "tipo": "periodo",
+      "inicio": 1609,
+      "fim": 1767,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 17,
+      "type": "religious",
+      "descricao": "As Reduções Jesuíticas do Sul (1609-1767): 30 missões no atual Paraguai/Argentina/Brasil com 100.000 guaranis. Estado autossuficiente com catedral, escola, hospital, imprensa. Os jesuítas protegiam os guaranis da escravidão colonial. Expulsos em 1767 por Pombal e Carlos III - os índios foram escravizados pelos colonos.",
+      "descricao_en": "As Reduções Jesuíticas do Sul (1609-1767): 30 missões no atual Paraguai/Argentina/Brasil com 100.000 guaranis. Estado autossuficiente com catedral, escola, hospital, imprensa. Os jesuítas protegiam os guaranis da escravidão colonial. Expulsos em 1767 por Pombal e Carlos III - os índios foram escravizados pelos colonos.",
+      "descricao_es": "As Reduções Jesuíticas do Sul (1609-1767): 30 missões no atual Paraguai/Argentina/Brasil com 100.000 guaranis. Estado autossuficiente com catedral, escola, hospital, imprensa. Os jesuítas protegiam os guaranis da escravidão colonial. Expulsos em 1767 por Pombal e Carlos III - os índios foram escravizados pelos colonos.",
+      "importancia": "As Reduções Jesuíticas foram o experimento de proteção indígena mais bem-sucedido da história colonial - e foi destruído por interesses coloniais. A expulsão de 1767 foi o maior crime do colonialismo ibérico tardio.",
+      "importancia_en": "As Reduções Jesuíticas foram o experimento de proteção indígena mais bem-sucedido da história colonial - e foi destruído por interesses coloniais. A expulsão de 1767 foi o maior crime do colonialismo ibérico tardio.",
+      "importancia_es": "As Reduções Jesuíticas foram o experimento de proteção indígena mais bem-sucedido da história colonial - e foi destruído por interesses coloniais. A expulsão de 1767 foi o maior crime do colonialismo ibérico tardio.",
+      "tags": [
+        "Guaranis",
+        "Reduções",
+        "1609",
+        "Pombal",
+        "Carlos III",
+        "1767"
+      ],
+      "dataset": "data/dados-mapuches-povos-sul.json"
     }
   ],
   "relacoes": [

@@ -1,0 +1,139 @@
+{
+  "tema": "Japão e Coreia",
+  "descricao": "Japão arcaico, feudal, Sengoku, Edo, Meiji, guerra e modernidade; Coreia antiga, Joseon, colonização e divisão",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Kojiki (Registro de Eventos Antigos)",
+        "ano": "712 d.C.",
+        "nota": "Trad. Donald Philippi, University of Tokyo Press"
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Nihon Shoki (Crônicas do Japão)",
+        "ano": "720 d.C."
+      },
+      {
+        "autor": "Murasaki Shikibu",
+        "obra": "Genji Monogatari (O Conto de Genji)",
+        "ano": "c. 1000 d.C.",
+        "nota": "Trad. Edward Seidensticker, Knopf"
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Heike Monogatari (O Conto dos Heike)",
+        "ano": "c. 1250",
+        "nota": "Penguin Classics"
+      },
+      {
+        "autor": "Matsuo Basho",
+        "obra": "Oku no Hosomichi (Haikus e Diário de Viagem)",
+        "ano": "1694"
+      },
+      {
+        "autor": "Fukuzawa Yukichi",
+        "obra": "An Encouragement of Learning (Gakumon no Susume)",
+        "ano": "1872"
+      },
+      {
+        "autor": "Imperador Hirohito",
+        "obra": "Rescript on Termination of the War (Discurso de rendição)",
+        "ano": "1945"
+      },
+      {
+        "autor": "Múltiplos autores",
+        "obra": "Samguk Sagi (Registro dos Três Reinos da Coreia)",
+        "ano": "1145"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "George Sansom",
+        "obra": "A History of Japan (3 vols.)",
+        "ano": "1958–1963",
+        "editora": "Stanford University Press"
+      },
+      {
+        "autor": "Conrad Totman",
+        "obra": "A History of Japan",
+        "ano": "2000",
+        "editora": "Blackwell"
+      },
+      {
+        "autor": "Andrew Gordon",
+        "obra": "A Modern History of Japan: From Tokugawa Times to the Present",
+        "ano": "2003",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Marius B. Jansen",
+        "obra": "The Making of Modern Japan",
+        "ano": "2000",
+        "editora": "Harvard University Press"
+      },
+      {
+        "autor": "Donald Keene",
+        "obra": "Emperor of Japan: Meiji and His World",
+        "ano": "2002",
+        "editora": "Columbia University Press"
+      },
+      {
+        "autor": "W. G. Beasley",
+        "obra": "The Meiji Restoration",
+        "ano": "1972",
+        "editora": "Stanford University Press"
+      },
+      {
+        "autor": "John W. Dower",
+        "obra": "Embracing Defeat: Japan in the Wake of World War II",
+        "ano": "1999",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "Bruce Cumings",
+        "obra": "Korea's Place in the Sun: A Modern History",
+        "ano": "1997",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "Michael J. Seth",
+        "obra": "A History of Korea: From Antiquity to the Present",
+        "ano": "2011",
+        "editora": "Rowman & Littlefield"
+      },
+      {
+        "autor": "Carter J. Eckert et al.",
+        "obra": "Korea Old and New: A History",
+        "ano": "1990",
+        "editora": "Korea Institute, Harvard"
+      },
+      {
+        "autor": "Stephen Turnbull",
+        "obra": "Samurai: The World of the Warrior",
+        "ano": "2003",
+        "editora": "Osprey"
+      },
+      {
+        "autor": "Stephen Vlastos (ed.)",
+        "obra": "Mirror of Modernity: Invented Traditions of Modern Japan",
+        "ano": "1998",
+        "editora": "University of California Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Karel Van Wolferen",
+        "obra": "The Enigma of Japanese Power",
+        "ano": "1989",
+        "editora": "Knopf"
+      },
+      {
+        "autor": "Don Oberdorfer",
+        "obra": "The Two Koreas: A Contemporary History",
+        "ano": "1997",
+        "editora": "Basic Books"
+      }
+    ]
+  }
+}

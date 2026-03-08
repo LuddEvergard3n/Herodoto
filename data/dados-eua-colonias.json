@@ -196,6 +196,34 @@
         "Carta de Direitos"
       ],
       "dataset": "data/dados-eua-colonias.json"
+    },
+    {
+      "id": "euc1",
+      "nome": "Os Puritanos e a Teocracia de Winthrop",
+      "nome_en": "Os Puritanos e a Teocracia de Winthrop",
+      "nome_es": "Os Puritanos e a Teocracia de Winthrop",
+      "tipo": "cultural",
+      "inicio": 1620,
+      "fim": 1700,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 17,
+      "type": "religious",
+      "descricao": "Os puritanos do Mayflower (1620) e da Baia de Massachusetts (1630, liderados por Winthrop) criaram uma teocracia: a cidade sobre o outeiro. O Contrato Social do Mayflower foi o primeiro documento de governo por consentimento das Americas. A expulsao de Roger Williams (1635) por heresia criou Rhode Island e o primeiro Estado com separacao Igreja-Estado.",
+      "descricao_en": "Os puritanos do Mayflower (1620) e da Baia de Massachusetts (1630, liderados por Winthrop) criaram uma teocracia: a cidade sobre o outeiro. O Contrato Social do Mayflower foi o primeiro documento de governo por consentimento das Americas. A expulsao de Roger Williams (1635) por heresia criou Rhode Island e o primeiro Estado com separacao Igreja-Estado.",
+      "descricao_es": "Os puritanos do Mayflower (1620) e da Baia de Massachusetts (1630, liderados por Winthrop) criaram uma teocracia: a cidade sobre o outeiro. O Contrato Social do Mayflower foi o primeiro documento de governo por consentimento das Americas. A expulsao de Roger Williams (1635) por heresia criou Rhode Island e o primeiro Estado com separacao Igreja-Estado.",
+      "importancia": "A cidade sobre o outeiro de Winthrop e a metafora mais duradoura da identidade americana: a crenca de que os EUA tem uma missao divina especial. Ronald Reagan a usou em 1984.",
+      "importancia_en": "A cidade sobre o outeiro de Winthrop e a metafora mais duradoura da identidade americana: a crenca de que os EUA tem uma missao divina especial. Ronald Reagan a usou em 1984.",
+      "importancia_es": "A cidade sobre o outeiro de Winthrop e a metafora mais duradoura da identidade americana: a crenca de que os EUA tem uma missao divina especial. Ronald Reagan a usou em 1984.",
+      "tags": [
+        "puritanos",
+        "Mayflower",
+        "1620",
+        "Winthrop",
+        "cidade sobre o outeiro",
+        "Rhode Island"
+      ],
+      "dataset": "data/dados-eua-colonias.json"
     }
   ],
   "relacoes": [

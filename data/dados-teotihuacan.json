@@ -169,6 +169,62 @@
         "identidade"
       ],
       "dataset": "data/dados-teotihuacan.json"
+    },
+    {
+      "id": "teot1",
+      "nome": "A Pirâmide do Sol e a Arquitetura Cósmica",
+      "nome_en": "A Pirâmide do Sol e a Arquitetura Cósmica",
+      "nome_es": "A Pirâmide do Sol e a Arquitetura Cósmica",
+      "tipo": "cultural",
+      "inicio": 100,
+      "fim": 550,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 2,
+      "type": "cultural",
+      "descricao": "A Pirâmide do Sol de Teotihuacán (c. 200 d.C., 65 metros, terceira maior do mundo por volume) estava coberta de estuco vermelho. A cidade foi planejada astronomicamente: a Avenida dos Mortos alinha-se com o pôr-do-sol do solstício. Teotihuacán era pluriétnica - há bairros de migrantes de Oaxaca e do Golfo.",
+      "descricao_en": "A Pirâmide do Sol de Teotihuacán (c. 200 d.C., 65 metros, terceira maior do mundo por volume) estava coberta de estuco vermelho. A cidade foi planejada astronomicamente: a Avenida dos Mortos alinha-se com o pôr-do-sol do solstício. Teotihuacán era pluriétnica - há bairros de migrantes de Oaxaca e do Golfo.",
+      "descricao_es": "A Pirâmide do Sol de Teotihuacán (c. 200 d.C., 65 metros, terceira maior do mundo por volume) estava coberta de estuco vermelho. A cidade foi planejada astronomicamente: a Avenida dos Mortos alinha-se com o pôr-do-sol do solstício. Teotihuacán era pluriétnica - há bairros de migrantes de Oaxaca e do Golfo.",
+      "importancia": "Teotihuacán é a prova de que as grandes cidades pré-colombianas eram tão complexas e multiculturais quanto as europeias contemporâneas. Uma cidade de 200.000 pessoas com bairros imigrantes em 400 d.C. é mais moderna que a maioria das cidades medievais europeias.",
+      "importancia_en": "Teotihuacán é a prova de que as grandes cidades pré-colombianas eram tão complexas e multiculturais quanto as europeias contemporâneas. Uma cidade de 200.000 pessoas com bairros imigrantes em 400 d.C. é mais moderna que a maioria das cidades medievais europeias.",
+      "importancia_es": "Teotihuacán é a prova de que as grandes cidades pré-colombianas eram tão complexas e multiculturais quanto as europeias contemporâneas. Uma cidade de 200.000 pessoas com bairros imigrantes em 400 d.C. é mais moderna que a maioria das cidades medievais europeias.",
+      "tags": [
+        "Pirâmide do Sol",
+        "65 metros",
+        "vermelho",
+        "Avenida dos Mortos",
+        "solstício",
+        "multicultura"
+      ],
+      "dataset": "data/dados-teotihuacan.json"
+    },
+    {
+      "id": "teot2",
+      "nome": "O Colapso de Teotihuacán e o Mistério",
+      "nome_en": "O Colapso de Teotihuacán e o Mistério",
+      "nome_es": "O Colapso de Teotihuacán e o Mistério",
+      "tipo": "evento",
+      "inicio": 550,
+      "fim": 650,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 6,
+      "type": "cultural",
+      "descricao": "O colapso de Teotihuacán (c. 550-650 d.C.) foi violento: o centro cerimonial foi queimado (intencionalmente - as chamas foram mais intensas nos edifícios administrativos). Os responsáveis podem ter sido invasores externos ou uma revolta interna. A cidade foi abandonada gradualmente.",
+      "descricao_en": "O colapso de Teotihuacán (c. 550-650 d.C.) foi violento: o centro cerimonial foi queimado (intencionalmente - as chamas foram mais intensas nos edifícios administrativos). Os responsáveis podem ter sido invasores externos ou uma revolta interna. A cidade foi abandonada gradualmente.",
+      "descricao_es": "O colapso de Teotihuacán (c. 550-650 d.C.) foi violento: o centro cerimonial foi queimado (intencionalmente - as chamas foram mais intensas nos edifícios administrativos). Os responsáveis podem ter sido invasores externos ou uma revolta interna. A cidade foi abandonada gradualmente.",
+      "importancia": "O colapso de Teotihuacán é o maior mistério arqueológico da Mesoamérica: uma cidade de 200.000 pessoas desapareceu sem deixar registros escritos de sua própria destruição. Que o centro administrativo tenha sido queimado sugere revolta interna.",
+      "importancia_en": "O colapso de Teotihuacán é o maior mistério arqueológico da Mesoamérica: uma cidade de 200.000 pessoas desapareceu sem deixar registros escritos de sua própria destruição. Que o centro administrativo tenha sido queimado sugere revolta interna.",
+      "importancia_es": "O colapso de Teotihuacán é o maior mistério arqueológico da Mesoamérica: uma cidade de 200.000 pessoas desapareceu sem deixar registros escritos de sua própria destruição. Que o centro administrativo tenha sido queimado sugere revolta interna.",
+      "tags": [
+        "colapso",
+        "650 d.C.",
+        "queimado",
+        "mistério",
+        "abandono",
+        "revolta"
+      ],
+      "dataset": "data/dados-teotihuacan.json"
     }
   ],
   "relacoes": [

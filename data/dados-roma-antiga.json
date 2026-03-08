@@ -180,6 +180,34 @@
       "period": "Ancient",
       "importancia_en": "The Roman Empire at its peak (27 BC–180 AD) governed ~70 million people across 5 million km² — creating roads, aqueducts, legal codes and administrative structures that shaped Europe for 1,500 years.",
       "importancia_es": "El Imperio Romano en su apogeo (27 a.C.–180 d.C.) gobernó ~70 millones de personas en 5 millones de km² — creando carreteras, acueductos, códigos legales y estructuras administrativas que moldearon Europa por 1.500 años."
+    },
+    {
+      "id": "ra1x",
+      "nome": "Cicero e o Assassinato da Republica",
+      "nome_en": "Cicero e o Assassinato da Republica",
+      "nome_es": "Cicero e o Assassinato da Republica",
+      "tipo": "pessoa",
+      "inicio": -106,
+      "fim": -43,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": 2,
+      "type": "political",
+      "descricao": "Cicero (106-43 a.C.) defendeu a Republica contra Catilina (63 a.C.) e depois contra Marco Antonio (Filipicas). Assassinado a mando de Marco Antonio: suas maos e cabeca foram pregadas no Foro. Petrarca o considerava o maior romano. A ironia: o maior defensor da Republica morreu quando ela morria.",
+      "descricao_en": "Cicero (106-43 a.C.) defendeu a Republica contra Catilina (63 a.C.) e depois contra Marco Antonio (Filipicas). Assassinado a mando de Marco Antonio: suas maos e cabeca foram pregadas no Foro. Petrarca o considerava o maior romano. A ironia: o maior defensor da Republica morreu quando ela morria.",
+      "descricao_es": "Cicero (106-43 a.C.) defendeu a Republica contra Catilina (63 a.C.) e depois contra Marco Antonio (Filipicas). Assassinado a mando de Marco Antonio: suas maos e cabeca foram pregadas no Foro. Petrarca o considerava o maior romano. A ironia: o maior defensor da Republica morreu quando ela morria.",
+      "importancia": "Cicero e o Marti mais eloquente da historia romana: morreu defendendo o que defendia - e suas maos (que escreveram as Filipicas) foram expostas como trofeus. A historia da Republica terminou com a morte de seu maior orador.",
+      "importancia_en": "Cicero e o Marti mais eloquente da historia romana: morreu defendendo o que defendia - e suas maos (que escreveram as Filipicas) foram expostas como trofeus. A historia da Republica terminou com a morte de seu maior orador.",
+      "importancia_es": "Cicero e o Marti mais eloquente da historia romana: morreu defendendo o que defendia - e suas maos (que escreveram as Filipicas) foram expostas como trofeus. A historia da Republica terminou com a morte de seu maior orador.",
+      "tags": [
+        "Cicero",
+        "Filipicas",
+        "43 a.C.",
+        "Marco Antonio",
+        "assassinato",
+        "maos"
+      ],
+      "dataset": "data/dados-roma-antiga.json"
     }
   ],
   "relacoes": [

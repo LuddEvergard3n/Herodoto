@@ -1,0 +1,140 @@
+{
+  "tema": "Rússia e URSS",
+  "descricao": "Rússia czarista, Revolução Russa, Lenin, Stalin, URSS, Guerra Fria soviética, desintegração da URSS",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Vladimir I. Lênin",
+        "obra": "O Que Fazer?; O Estado e a Revolução; Imperialismo, Fase Superior do Capitalismo",
+        "ano": "1902–1917"
+      },
+      {
+        "autor": "Leon Trotsky",
+        "obra": "A Revolução Permanente; A Revolução Traída; Minha Vida",
+        "ano": "1929–1940"
+      },
+      {
+        "autor": "Josef Stalin",
+        "obra": "Marxismo e a Questão Nacional; Problemas do Leninismo",
+        "ano": "1913–1924"
+      },
+      {
+        "autor": "Alexander Soljenitsin",
+        "obra": "Arquipélago Gulag (3 vols.)",
+        "ano": "1973",
+        "editora": "Círculo do Livro"
+      },
+      {
+        "autor": "Mikhail Gorbachev",
+        "obra": "Perestroika: New Thinking for Our Country and the World",
+        "ano": "1987"
+      },
+      {
+        "autor": "Fiódor Dostoiévski",
+        "obra": "Os Irmãos Karamazov; Crime e Castigo",
+        "ano": "1866–1880",
+        "nota": "Literatura como fonte cultural russa"
+      },
+      {
+        "autor": "Liev Tolstói",
+        "obra": "Guerra e Paz; Anna Kariênina",
+        "ano": "1865–1878",
+        "nota": "Literatura como fonte histórica russa"
+      },
+      {
+        "autor": "Mencheviques/Bolcheviques",
+        "obra": "Atas do II Congresso do POSDR",
+        "ano": "1903",
+        "nota": "Cisão fundadora do bolchevismo"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Richard Pipes",
+        "obra": "The Russian Revolution",
+        "ano": "1990",
+        "editora": "Knopf"
+      },
+      {
+        "autor": "Orlando Figes",
+        "obra": "A People's Tragedy: The Russian Revolution 1891–1924",
+        "ano": "1996",
+        "editora": "Jonathan Cape"
+      },
+      {
+        "autor": "Robert Service",
+        "obra": "Lenin: A Biography",
+        "ano": "2000",
+        "editora": "Macmillan"
+      },
+      {
+        "autor": "Robert Conquest",
+        "obra": "The Great Terror: A Reassessment",
+        "ano": "1968",
+        "editora": "Macmillan"
+      },
+      {
+        "autor": "Anne Applebaum",
+        "obra": "Gulag: A History",
+        "ano": "2003",
+        "editora": "Doubleday"
+      },
+      {
+        "autor": "Timothy Snyder",
+        "obra": "Bloodlands: Europe between Hitler and Stalin",
+        "ano": "2010",
+        "editora": "Basic Books"
+      },
+      {
+        "autor": "Stephen Kotkin",
+        "obra": "Stalin: Paradoxes of Power (3 vols.)",
+        "ano": "2014–",
+        "editora": "Penguin Press"
+      },
+      {
+        "autor": "Geoffrey Hosking",
+        "obra": "Russia: People and Empire 1552–1917",
+        "ano": "1997",
+        "editora": "Harvard University Press"
+      },
+      {
+        "autor": "Ronald Hingley",
+        "obra": "Russia: A Concise History",
+        "ano": "1972",
+        "editora": "Thames and Hudson"
+      },
+      {
+        "autor": "Ronald Grigor Suny",
+        "obra": "The Soviet Experiment: Russia, the USSR, and the Successor States",
+        "ano": "1998",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Archie Brown",
+        "obra": "The Rise and Fall of Communism",
+        "ano": "2009",
+        "editora": "Ecco"
+      },
+      {
+        "autor": "David Remnick",
+        "obra": "Lenin's Tomb: The Last Days of the Soviet Empire",
+        "ano": "1993",
+        "editora": "Random House"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Robert K. Massie",
+        "obra": "Peter the Great: His Life and World",
+        "ano": "1980",
+        "editora": "Knopf"
+      },
+      {
+        "autor": "Simon Sebag Montefiore",
+        "obra": "Stalin: The Court of the Red Tsar",
+        "ano": "2003",
+        "editora": "Knopf"
+      }
+    ]
+  }
+}

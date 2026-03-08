@@ -155,6 +155,62 @@
       "period": "EarlyModern",
       "importancia_en": "18 Brumaire (9 November 1799): military coup — Napoleon overthrows the Directory and installs the Consulate. End of the Revolution, beginning of the Empire.",
       "importancia_es": "Napoleón derroca el Directorio. Fin de la Revolución, inicio del Imperio."
+    },
+    {
+      "id": "rfr1",
+      "nome": "A Tomada da Bastilha e a Declaração dos Direitos",
+      "nome_en": "A Tomada da Bastilha e a Declaração dos Direitos",
+      "nome_es": "A Tomada da Bastilha e a Declaração dos Direitos",
+      "tipo": "evento",
+      "inicio": 1789,
+      "fim": 1789,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 18,
+      "type": "political",
+      "descricao": "A Bastilha (14 julho 1789) prendeu apenas 7 prisioneiros mas o símbolo foi imenso. A Declaração dos Direitos do Homem (26 agosto 1789): liberdade, igualdade, soberania nacional. O Terror (1793-1794): 17.000 executados em 14 meses.",
+      "descricao_en": "A Bastilha (14 julho 1789) prendeu apenas 7 prisioneiros mas o símbolo foi imenso. A Declaração dos Direitos do Homem (26 agosto 1789): liberdade, igualdade, soberania nacional. O Terror (1793-1794): 17.000 executados em 14 meses.",
+      "descricao_es": "A Bastilha (14 julho 1789) prendeu apenas 7 prisioneiros mas o símbolo foi imenso. A Declaração dos Direitos do Homem (26 agosto 1789): liberdade, igualdade, soberania nacional. O Terror (1793-1794): 17.000 executados em 14 meses.",
+      "importancia": "A Revolução Francesa inventou esquerda e direita políticas. Todos os movimentos políticos modernos são seus descendentes.",
+      "importancia_en": "A Revolução Francesa inventou esquerda e direita políticas. Todos os movimentos políticos modernos são seus descendentes.",
+      "importancia_es": "A Revolução Francesa inventou esquerda e direita políticas. Todos os movimentos políticos modernos são seus descendentes.",
+      "tags": [
+        "Bastilha",
+        "1789",
+        "Declaração dos Direitos",
+        "Terror",
+        "guillotina",
+        "Robespierre"
+      ],
+      "dataset": "data/dados-revolucao-francesa.json"
+    },
+    {
+      "id": "rfr2",
+      "nome": "Napoleão como Produto da Revolução",
+      "nome_en": "Napoleão como Produto da Revolução",
+      "nome_es": "Napoleão como Produto da Revolução",
+      "tipo": "pessoa",
+      "inicio": 1769,
+      "fim": 1821,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 18,
+      "type": "political",
+      "descricao": "Napoleão não destruiu a Revolução - foi seu produto mais bem-sucedido: Código Civil (ainda vigente em 80+ países), meritocracia militar, Estado administrativo moderno. Um general de origem humilde tornou-se Imperador exportando a Revolução pela força.",
+      "descricao_en": "Napoleão não destruiu a Revolução - foi seu produto mais bem-sucedido: Código Civil (ainda vigente em 80+ países), meritocracia militar, Estado administrativo moderno. Um general de origem humilde tornou-se Imperador exportando a Revolução pela força.",
+      "descricao_es": "Napoleão não destruiu a Revolução - foi seu produto mais bem-sucedido: Código Civil (ainda vigente em 80+ países), meritocracia militar, Estado administrativo moderno. Um general de origem humilde tornou-se Imperador exportando a Revolução pela força.",
+      "importancia": "Napoleão é o paradoxo mais perfeito da história política: o homem que mais difundiu os ideais da Revolução Francesa pela Europa foi o que a transformou em Império.",
+      "importancia_en": "Napoleão é o paradoxo mais perfeito da história política: o homem que mais difundiu os ideais da Revolução Francesa pela Europa foi o que a transformou em Império.",
+      "importancia_es": "Napoleão é o paradoxo mais perfeito da história política: o homem que mais difundiu os ideais da Revolução Francesa pela Europa foi o que a transformou em Império.",
+      "tags": [
+        "Napoleão",
+        "Código Civil",
+        "meritocracia",
+        "Imperador",
+        "exportação",
+        "Revolução"
+      ],
+      "dataset": "data/dados-revolucao-francesa.json"
     }
   ],
   "relacoes": [

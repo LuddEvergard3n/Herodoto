@@ -174,6 +174,62 @@
         "digital"
       ],
       "dataset": "data/dados-eua-seculo20.json"
+    },
+    {
+      "id": "euas1",
+      "nome": "Martin Luther King e os Direitos Civis",
+      "nome_en": "Martin Luther King e os Direitos Civis",
+      "nome_es": "Martin Luther King e os Direitos Civis",
+      "tipo": "pessoa",
+      "inicio": 1929,
+      "fim": 1968,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "social",
+      "descricao": "King liderou o boicote de Montgomery (1955), a Marcha em Washington (1963), levando à Lei dos Direitos Civis (1964) e ao Direito ao Voto (1965). Nobel da Paz em 1964. Assassinado em 1968.",
+      "descricao_en": "King liderou o boicote de Montgomery (1955), a Marcha em Washington (1963), levando à Lei dos Direitos Civis (1964) e ao Direito ao Voto (1965). Nobel da Paz em 1964. Assassinado em 1968.",
+      "descricao_es": "King liderou o boicote de Montgomery (1955), a Marcha em Washington (1963), levando à Lei dos Direitos Civis (1964) e ao Direito ao Voto (1965). Nobel da Paz em 1964. Assassinado em 1968.",
+      "importancia": "King é o maior líder da história americana moderna e o que mais demonstrou que desobediência civil não-violenta pode derrubar legislação discriminatória.",
+      "importancia_en": "King é o maior líder da história americana moderna e o que mais demonstrou que desobediência civil não-violenta pode derrubar legislação discriminatória.",
+      "importancia_es": "King é o maior líder da história americana moderna e o que mais demonstrou que desobediência civil não-violenta pode derrubar legislação discriminatória.",
+      "tags": [
+        "King",
+        "1963",
+        "I have a dream",
+        "direitos civis",
+        "Nobel",
+        "desobediência"
+      ],
+      "dataset": "data/dados-eua-seculo20.json"
+    },
+    {
+      "id": "euas2",
+      "nome": "Nixon, Watergate e a Crise Presidencial",
+      "nome_en": "Nixon, Watergate e a Crise Presidencial",
+      "nome_es": "Nixon, Watergate e a Crise Presidencial",
+      "tipo": "evento",
+      "inicio": 1972,
+      "fim": 1974,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "O escândalo Watergate levou à única renúncia presidencial da história americana (Nixon, 9 agosto 1974). Criou a desconfiança institucional que caracteriza a política americana moderna.",
+      "descricao_en": "O escândalo Watergate levou à única renúncia presidencial da história americana (Nixon, 9 agosto 1974). Criou a desconfiança institucional que caracteriza a política americana moderna.",
+      "descricao_es": "O escândalo Watergate levou à única renúncia presidencial da história americana (Nixon, 9 agosto 1974). Criou a desconfiança institucional que caracteriza a política americana moderna.",
+      "importancia": "Watergate criou a maior crise de credibilidade presidencial americana. Que Nixon tenha renunciado voluntariamente antes do impeachment foi o sistema funcionando.",
+      "importancia_en": "Watergate criou a maior crise de credibilidade presidencial americana. Que Nixon tenha renunciado voluntariamente antes do impeachment foi o sistema funcionando.",
+      "importancia_es": "Watergate criou a maior crise de credibilidade presidencial americana. Que Nixon tenha renunciado voluntariamente antes do impeachment foi o sistema funcionando.",
+      "tags": [
+        "Nixon",
+        "Watergate",
+        "1974",
+        "renúncia",
+        "crise",
+        "democracia"
+      ],
+      "dataset": "data/dados-eua-seculo20.json"
     }
   ],
   "relacoes": [

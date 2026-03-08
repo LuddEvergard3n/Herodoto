@@ -155,6 +155,62 @@
       "period": "Modern",
       "importancia_en": "Russo-Japanese War (1905): humiliating defeat — Russia defeated by an Asian power for the first time.",
       "importancia_es": "Pogromos antisemitas: millones de judíos emigraron a EE.UU. Guerra Ruso-Japonesa (1905): derrota humillante."
+    },
+    {
+      "id": "rc1x",
+      "nome": "Ivan, o Terrível: O Primeiro Czar",
+      "nome_en": "Ivan, o Terrível: O Primeiro Czar",
+      "nome_es": "Ivan, o Terrível: O Primeiro Czar",
+      "tipo": "pessoa",
+      "inicio": 1530,
+      "fim": 1584,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "Ivan IV (1530-1584) foi o primeiro a usar o título de Czar (César). Criou a Oprichnina - a primeira polícia secreta da história russa (7.000 agentes, roupas pretas, símbolo de vassoura e cabeça de cão). Matou seu próprio filho e herdeiro num acesso de raiva (1581). A paranoia e a grandeza coexistiam no mesmo homem.",
+      "descricao_en": "Ivan IV (1530-1584) foi o primeiro a usar o título de Czar (César). Criou a Oprichnina - a primeira polícia secreta da história russa (7.000 agentes, roupas pretas, símbolo de vassoura e cabeça de cão). Matou seu próprio filho e herdeiro num acesso de raiva (1581). A paranoia e a grandeza coexistiam no mesmo homem.",
+      "descricao_es": "Ivan IV (1530-1584) foi o primeiro a usar o título de Czar (César). Criou a Oprichnina - a primeira polícia secreta da história russa (7.000 agentes, roupas pretas, símbolo de vassoura e cabeça de cão). Matou seu próprio filho e herdeiro num acesso de raiva (1581). A paranoia e a grandeza coexistiam no mesmo homem.",
+      "importancia": "Ivan é o arquétipo do czarismo russo: modernizador e tirano simultaneamente. A Oprichnina criou o modelo de polícia política que Stalin depois sistematizou - 400 anos de continuidade do terror de Estado russo.",
+      "importancia_en": "Ivan é o arquétipo do czarismo russo: modernizador e tirano simultaneamente. A Oprichnina criou o modelo de polícia política que Stalin depois sistematizou - 400 anos de continuidade do terror de Estado russo.",
+      "importancia_es": "Ivan é o arquétipo do czarismo russo: modernizador e tirano simultaneamente. A Oprichnina criou o modelo de polícia política que Stalin depois sistematizou - 400 anos de continuidade do terror de Estado russo.",
+      "tags": [
+        "Ivan IV",
+        "Czar",
+        "Oprichnina",
+        "filho",
+        "paranoia",
+        "terror"
+      ],
+      "dataset": "data/dados-russia-czarismo.json"
+    },
+    {
+      "id": "rc2x",
+      "nome": "Rasputin e o Declínio Romano",
+      "nome_en": "Rasputin e o Declínio Romano",
+      "nome_es": "Rasputin e o Declínio Romano",
+      "tipo": "pessoa",
+      "inicio": 1869,
+      "fim": 1916,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 20,
+      "type": "political",
+      "descricao": "Rasputin (1869-1916) foi o símbolo do declínio da autocracia czarista: monge errante que curava a hemofilia do czarevich Aleksei, influenciando as decisões de Nicolau II através da czarina Alexandra. Assassinado pelos nobres em dezembro 1916 (envenenado, baleado, afogado). O Império desmoronou 3 meses depois.",
+      "descricao_en": "Rasputin (1869-1916) foi o símbolo do declínio da autocracia czarista: monge errante que curava a hemofilia do czarevich Aleksei, influenciando as decisões de Nicolau II através da czarina Alexandra. Assassinado pelos nobres em dezembro 1916 (envenenado, baleado, afogado). O Império desmoronou 3 meses depois.",
+      "descricao_es": "Rasputin (1869-1916) foi o símbolo do declínio da autocracia czarista: monge errante que curava a hemofilia do czarevich Aleksei, influenciando as decisões de Nicolau II através da czarina Alexandra. Assassinado pelos nobres em dezembro 1916 (envenenado, baleado, afogado). O Império desmoronou 3 meses depois.",
+      "importancia": "Rasputin é o símbolo mais perfeito do declínio dinástico: um curandeiro siberiano influenciando as políticas do maior Império do mundo. Que os nobres que o mataram não salvaram o czar demonstra que o problema não era Rasputin.",
+      "importancia_en": "Rasputin é o símbolo mais perfeito do declínio dinástico: um curandeiro siberiano influenciando as políticas do maior Império do mundo. Que os nobres que o mataram não salvaram o czar demonstra que o problema não era Rasputin.",
+      "importancia_es": "Rasputin é o símbolo mais perfeito do declínio dinástico: um curandeiro siberiano influenciando as políticas do maior Império do mundo. Que os nobres que o mataram não salvaram o czar demonstra que o problema não era Rasputin.",
+      "tags": [
+        "Rasputin",
+        "1916",
+        "Aleksei",
+        "hemofilia",
+        "Alexandra",
+        "Nicolau II"
+      ],
+      "dataset": "data/dados-russia-czarismo.json"
     }
   ],
   "relacoes": [

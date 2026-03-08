@@ -174,6 +174,62 @@
         "Viracocha"
       ],
       "dataset": "data/dados-caral-culturas-antigas.json"
+    },
+    {
+      "id": "cca1",
+      "nome": "Wari: O Primeiro Império Andino",
+      "nome_en": "Wari: O Primeiro Império Andino",
+      "nome_es": "Wari: O Primeiro Império Andino",
+      "tipo": "periodo",
+      "inicio": 600,
+      "fim": 1000,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 7,
+      "type": "political",
+      "descricao": "O Império Wari (600-1000 d.C.) foi o primeiro Estado imperial dos Andes: rede de estradas, centros administrativos planejados. Capital Wari com 30.000 habitantes. Criou os padrões que os Incas herdaram.",
+      "descricao_en": "O Império Wari (600-1000 d.C.) foi o primeiro Estado imperial dos Andes: rede de estradas, centros administrativos planejados. Capital Wari com 30.000 habitantes. Criou os padrões que os Incas herdaram.",
+      "descricao_es": "O Império Wari (600-1000 d.C.) foi o primeiro Estado imperial dos Andes: rede de estradas, centros administrativos planejados. Capital Wari com 30.000 habitantes. Criou os padrões que os Incas herdaram.",
+      "importancia": "O Wari criou a infraestrutura que os Incas depois sistematizaram. Os Incas são mais famosos mas são em grande parte herdeiros wari.",
+      "importancia_en": "O Wari criou a infraestrutura que os Incas depois sistematizaram. Os Incas são mais famosos mas são em grande parte herdeiros wari.",
+      "importancia_es": "O Wari criou a infraestrutura que os Incas depois sistematizaram. Os Incas são mais famosos mas são em grande parte herdeiros wari.",
+      "tags": [
+        "Wari",
+        "600 d.C.",
+        "Ayacucho",
+        "estradas",
+        "quipus",
+        "Incas"
+      ],
+      "dataset": "data/dados-caral-culturas-antigas.json"
+    },
+    {
+      "id": "cca2",
+      "nome": "Nazca: As Linhas Misteriosas",
+      "nome_en": "Nazca: As Linhas Misteriosas",
+      "nome_es": "Nazca: As Linhas Misteriosas",
+      "tipo": "cultural",
+      "inicio": -200,
+      "fim": 600,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 3,
+      "type": "cultural",
+      "descricao": "As linhas de Nazca (200 a.C.-600 d.C.) são geoglifos no deserto peruano: 300+ figuras visíveis apenas do ar. Provavelmente rituais de caminhada ligados ao culto à água. A aridez preservou por 2.000 anos.",
+      "descricao_en": "As linhas de Nazca (200 a.C.-600 d.C.) são geoglifos no deserto peruano: 300+ figuras visíveis apenas do ar. Provavelmente rituais de caminhada ligados ao culto à água. A aridez preservou por 2.000 anos.",
+      "descricao_es": "As linhas de Nazca (200 a.C.-600 d.C.) são geoglifos no deserto peruano: 300+ figuras visíveis apenas do ar. Provavelmente rituais de caminhada ligados ao culto à água. A aridez preservou por 2.000 anos.",
+      "importancia": "As linhas de Nazca são o maior mistério arqueológico das Américas e o melhor exemplo de como o desconhecimento gera pseudociência. Explicações científicas são menos dramáticas mas mais fascinantes.",
+      "importancia_en": "As linhas de Nazca são o maior mistério arqueológico das Américas e o melhor exemplo de como o desconhecimento gera pseudociência. Explicações científicas são menos dramáticas mas mais fascinantes.",
+      "importancia_es": "As linhas de Nazca são o maior mistério arqueológico das Américas e o melhor exemplo de como o desconhecimento gera pseudociência. Explicações científicas são menos dramáticas mas mais fascinantes.",
+      "tags": [
+        "Nazca",
+        "200 a.C.",
+        "linhas",
+        "geoglifos",
+        "beija-flor",
+        "água"
+      ],
+      "dataset": "data/dados-caral-culturas-antigas.json"
     }
   ],
   "relacoes": [

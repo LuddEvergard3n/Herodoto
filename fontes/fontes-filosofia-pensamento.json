@@ -1,0 +1,149 @@
+{
+  "tema": "Filosofia e Pensamento",
+  "descricao": "Filosofia antiga grega e oriental, filosofia medieval, racionalismo, empirismo, idealismo, existencialismo, filosofia contemporânea",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Platão",
+        "obra": "A República; Fédon; Banquete; Apologia",
+        "ano": "c. 380–360 a.C.",
+        "nota": "Coleção Os Pensadores, Abril Cultural"
+      },
+      {
+        "autor": "Aristóteles",
+        "obra": "Ética a Nicômaco; Política; Metafísica; Organon",
+        "ano": "c. 350 a.C.",
+        "nota": "EdUnB"
+      },
+      {
+        "autor": "Epicteto",
+        "obra": "Enchiridion (Manual); Diatribes",
+        "ano": "c. 108 d.C.",
+        "nota": "Trad. Aldo Dinucci"
+      },
+      {
+        "autor": "René Descartes",
+        "obra": "Meditações; Discurso do Método",
+        "ano": "1637–1641"
+      },
+      {
+        "autor": "Baruch Spinoza",
+        "obra": "Ética; Tratado Teológico-Político",
+        "ano": "1670–1677"
+      },
+      {
+        "autor": "David Hume",
+        "obra": "Investigação sobre o Entendimento Humano; Tratado da Natureza Humana",
+        "ano": "1739–1748"
+      },
+      {
+        "autor": "Immanuel Kant",
+        "obra": "Crítica da Razão Pura; Fundamentação da Metafísica dos Costumes",
+        "ano": "1781–1785"
+      },
+      {
+        "autor": "Georg Wilhelm Friedrich Hegel",
+        "obra": "Fenomenologia do Espírito; Filosofia do Direito",
+        "ano": "1807–1821"
+      },
+      {
+        "autor": "Friedrich Nietzsche",
+        "obra": "Assim Falou Zaratustra; Para Além do Bem e do Mal",
+        "ano": "1883–1886",
+        "nota": "Trad. Paulo César de Souza, Companhia das Letras"
+      },
+      {
+        "autor": "Ludwig Wittgenstein",
+        "obra": "Tractatus Logico-Philosophicus; Investigações Filosóficas",
+        "ano": "1921–1953"
+      },
+      {
+        "autor": "Jean-Paul Sartre",
+        "obra": "O Existencialismo é um Humanismo; O Ser e o Nada",
+        "ano": "1943–1946"
+      },
+      {
+        "autor": "Martin Heidegger",
+        "obra": "Ser e Tempo",
+        "ano": "1927",
+        "nota": "Trad. Fausto Castilho, Unicamp"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Bertrand Russell",
+        "obra": "História da Filosofia Ocidental",
+        "ano": "1945",
+        "editora": "Companhia Editora Nacional"
+      },
+      {
+        "autor": "Frederick Copleston",
+        "obra": "A History of Philosophy (9 vols.)",
+        "ano": "1946–1975",
+        "editora": "Newman Press"
+      },
+      {
+        "autor": "Pierre Hadot",
+        "obra": "Philosophy as a Way of Life",
+        "ano": "1995",
+        "editora": "Blackwell"
+      },
+      {
+        "autor": "Anthony Kenny",
+        "obra": "A New History of Western Philosophy (4 vols.)",
+        "ano": "2004–2007",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Roger Scruton",
+        "obra": "A Short History of Modern Philosophy",
+        "ano": "1981",
+        "editora": "Routledge"
+      },
+      {
+        "autor": "Thomas Nagel",
+        "obra": "What Does It All Mean? A Very Short Introduction to Philosophy",
+        "ano": "1987",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Peter Singer",
+        "obra": "Practical Ethics",
+        "ano": "1979",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Charles Taylor",
+        "obra": "Sources of the Self: The Making of the Modern Identity",
+        "ano": "1989",
+        "editora": "Harvard University Press"
+      },
+      {
+        "autor": "Alasdair MacIntyre",
+        "obra": "After Virtue",
+        "ano": "1981",
+        "editora": "University of Notre Dame Press"
+      },
+      {
+        "autor": "John Rawls",
+        "obra": "A Theory of Justice",
+        "ano": "1971",
+        "editora": "Harvard University Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Nigel Warburton",
+        "obra": "A Little History of Philosophy",
+        "ano": "2011",
+        "editora": "Yale University Press"
+      },
+      {
+        "autor": "A. C. Grayling",
+        "obra": "The History of Philosophy",
+        "ano": "2019",
+        "editora": "Viking"
+      }
+    ]
+  }
+}

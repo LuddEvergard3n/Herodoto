@@ -155,6 +155,62 @@
       "period": "Modern",
       "importancia_en": "Loss of 55% of Mexican territory to the US (1848). Structural inequality inherited from the colony.",
       "importancia_es": "Santa Anna (México): presidente 11 veces. Pérdida del 55% del territorio mexicano a EE.UU."
+    },
+    {
+      "id": "ial1",
+      "nome": "Simón Bolívar: O Libertador",
+      "nome_en": "Simón Bolívar: O Libertador",
+      "nome_es": "Simón Bolívar: O Libertador",
+      "tipo": "pessoa",
+      "inicio": 1783,
+      "fim": 1830,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "Simón Bolívar (1783-1830) libertou Venezuela, Colômbia, Equador, Peru e Bolívia. Sonhou com a Grande Colômbia - um Estado unido. Fracassou: as nações americanas preferiram ser separadas. Morreu pobre e exilado: A América é ingovernável.",
+      "descricao_en": "Simón Bolívar (1783-1830) libertou Venezuela, Colômbia, Equador, Peru e Bolívia. Sonhou com a Grande Colômbia - um Estado unido. Fracassou: as nações americanas preferiram ser separadas. Morreu pobre e exilado: A América é ingovernável.",
+      "descricao_es": "Simón Bolívar (1783-1830) libertou Venezuela, Colômbia, Equador, Peru e Bolívia. Sonhou com a Grande Colômbia - um Estado unido. Fracassou: as nações americanas preferiram ser separadas. Morreu pobre e exilado: A América é ingovernável.",
+      "importancia": "Bolívar é o maior herói da independência latino-americana - e o maior fracassado: libertou 6 países e viu cada um seguir seu próprio caminho. Sua Grande Colômbia durou 9 anos.",
+      "importancia_en": "Bolívar é o maior herói da independência latino-americana - e o maior fracassado: libertou 6 países e viu cada um seguir seu próprio caminho. Sua Grande Colômbia durou 9 anos.",
+      "importancia_es": "Bolívar é o maior herói da independência latino-americana - e o maior fracassado: libertou 6 países e viu cada um seguir seu próprio caminho. Sua Grande Colômbia durou 9 anos.",
+      "tags": [
+        "Bolívar",
+        "Libertador",
+        "Venezuela",
+        "Grande Colômbia",
+        "fracasso",
+        "1830"
+      ],
+      "dataset": "data/dados-independencias-america-latina.json"
+    },
+    {
+      "id": "ial2",
+      "nome": "Toussaint Louverture e a Revolução do Haiti",
+      "nome_en": "Toussaint Louverture e a Revolução do Haiti",
+      "nome_es": "Toussaint Louverture e a Revolução do Haiti",
+      "tipo": "pessoa",
+      "inicio": 1743,
+      "fim": 1803,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 18,
+      "type": "social",
+      "descricao": "Toussaint Louverture (1743-1803) liderou a única revolução de escravos bem-sucedida da história: Haiti independente em 1804 - a primeira república negra do mundo. A França exigiu indenização pelos escravos libertados (150 milhões de francos) - paga até 1947. O Haiti nunca se recuperou do duplo fardo da indenização e do embargo americano.",
+      "descricao_en": "Toussaint Louverture (1743-1803) liderou a única revolução de escravos bem-sucedida da história: Haiti independente em 1804 - a primeira república negra do mundo. A França exigiu indenização pelos escravos libertados (150 milhões de francos) - paga até 1947. O Haiti nunca se recuperou do duplo fardo da indenização e do embargo americano.",
+      "descricao_es": "Toussaint Louverture (1743-1803) liderou a única revolução de escravos bem-sucedida da história: Haiti independente em 1804 - a primeira república negra do mundo. A França exigiu indenização pelos escravos libertados (150 milhões de francos) - paga até 1947. O Haiti nunca se recuperou do duplo fardo da indenização e do embargo americano.",
+      "importancia": "A Revolução Haitiana foi o ato mais radical da era das revoluções: escravos derrotando o exército de Napoleão. Que o Haiti tenha sido punido economicamente por sua revolução até 1947 é o maior crime econômico do colonialismo moderno.",
+      "importancia_en": "A Revolução Haitiana foi o ato mais radical da era das revoluções: escravos derrotando o exército de Napoleão. Que o Haiti tenha sido punido economicamente por sua revolução até 1947 é o maior crime econômico do colonialismo moderno.",
+      "importancia_es": "A Revolução Haitiana foi o ato mais radical da era das revoluções: escravos derrotando o exército de Napoleão. Que o Haiti tenha sido punido economicamente por sua revolução até 1947 é o maior crime econômico do colonialismo moderno.",
+      "tags": [
+        "Haiti",
+        "Toussaint",
+        "1804",
+        "escravos",
+        "indenização",
+        "França"
+      ],
+      "dataset": "data/dados-independencias-america-latina.json"
     }
   ],
   "relacoes": [

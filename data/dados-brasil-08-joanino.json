@@ -193,6 +193,34 @@
       "importancia_es": "Debret é o mais importante documentarista visual do Brasil colonial. Suas aquarelas mostram sem romantismo a escravidão urbana, as hierarquias sociais e os rituais da corte. A 'Missão Francesa' europeizou o gosto estético brasileiro — a academia de Belas Artes que criou formou gerações de artistas segundo padrões parisienses.",
       "century_start": 18,
       "century_end": 19
+    },
+    {
+      "id": "bjo1",
+      "nome": "A Missao Artistica Francesa de 1816",
+      "nome_en": "A Missao Artistica Francesa de 1816",
+      "nome_es": "A Missao Artistica Francesa de 1816",
+      "tipo": "evento",
+      "inicio": 1816,
+      "fim": 1816,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "cultural",
+      "descricao": "D. Joao VI convidou artistas franceses (1816): Debret, Taunay, Saint-Hilaire, Spix e Martius. Criaram a Academia Imperial de Belas Artes. Debret pintou a vida cotidiana e a escravidao brasileira.",
+      "descricao_en": "D. Joao VI convidou artistas franceses (1816): Debret, Taunay, Saint-Hilaire, Spix e Martius. Criaram a Academia Imperial de Belas Artes. Debret pintou a vida cotidiana e a escravidao brasileira.",
+      "descricao_es": "D. Joao VI convidou artistas franceses (1816): Debret, Taunay, Saint-Hilaire, Spix e Martius. Criaram a Academia Imperial de Belas Artes. Debret pintou a vida cotidiana e a escravidao brasileira.",
+      "importancia": "A Missao Francesa e o maior paradoxo cultural do Brasil: o pais mais lusitano importou a estetica francesa para fundar sua academia de artes.",
+      "importancia_en": "A Missao Francesa e o maior paradoxo cultural do Brasil: o pais mais lusitano importou a estetica francesa para fundar sua academia de artes.",
+      "importancia_es": "A Missao Francesa e o maior paradoxo cultural do Brasil: o pais mais lusitano importou a estetica francesa para fundar sua academia de artes.",
+      "tags": [
+        "Missao Francesa",
+        "1816",
+        "Debret",
+        "Taunay",
+        "Academia",
+        "Saint-Hilaire"
+      ],
+      "dataset": "data/dados-brasil-08-joanino.json"
     }
   ]
 }

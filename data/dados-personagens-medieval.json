@@ -358,39 +358,6 @@
       "region": "Europe"
     },
     {
-      "id": "pm-013",
-      "nome": "Hildegarda de Bingen",
-      "nome_en": "Hildegard of Bingen",
-      "nome_es": "Hildegarda de Bingen",
-      "nascimento": 1098,
-      "morte": 1179,
-      "regiao": "Europe",
-      "area": [
-        "ciência",
-        "medicina",
-        "arte",
-        "religião"
-      ],
-      "cargo": "Abadessa e Cientista",
-      "epoca": "Medieval",
-      "descricao": "Abadessa beneditina renana que foi compositora (77 peças musicais — o maior corpus de qualquer compositor medieval), visionária mística, botânica, médica (Physica e Causae et Curae sobre plantas medicinais) e escritora teológica. Correspondeu-se com papas, imperadores e Bernardo de Claraval. A Igreja reconheceu suas visões como divinas.",
-      "importancia": "Hildegarda representa o paradoxo da mulher de gênio na Idade Média: só podia exercer autoridade intelectual dentro das paredes do convento e sob o manto da visão mística. Mas dentro desse espaço restrito produziu obras de ciência, arte e teologia que poucos homens igualaram. Seus tratados médicos mostram observação empírica notável para a época. Proclamada Doutora da Igreja em 2012.",
-      "eventos": [],
-      "tags": [
-        "medicina",
-        "música",
-        "mística",
-        "abadessa",
-        "ciência",
-        "mulher",
-        "medieval"
-      ],
-      "type": "person",
-      "inicio": 1098,
-      "fim": 1179,
-      "region": "Europe"
-    },
-    {
       "id": "pm-014",
       "nome": "Avicena (referência cruzada)",
       "nome_en": "Roger Bacon",

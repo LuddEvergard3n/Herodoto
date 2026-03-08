@@ -167,6 +167,62 @@
         "fim do Egito"
       ],
       "dataset": "data/dados-egito-novo-reino.json"
+    },
+    {
+      "id": "enr1",
+      "nome": "Hatshepsut: A Faraó que Governou como Rei",
+      "nome_en": "Hatshepsut: A Faraó que Governou como Rei",
+      "nome_es": "Hatshepsut: A Faraó que Governou como Rei",
+      "tipo": "pessoa",
+      "inicio": -1507,
+      "fim": -1458,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 16,
+      "type": "political",
+      "descricao": "Hatshepsut (r. 1478-1458 a.C.) governou o Egito como faraó com barba e traje masculino. Liderou expedições para Punt e construiu Deir el-Bahari. Tutmés III apagou sua memória.",
+      "descricao_en": "Hatshepsut (r. 1478-1458 a.C.) governou o Egito como faraó com barba e traje masculino. Liderou expedições para Punt e construiu Deir el-Bahari. Tutmés III apagou sua memória.",
+      "descricao_es": "Hatshepsut (r. 1478-1458 a.C.) governou o Egito como faraó com barba e traje masculino. Liderou expedições para Punt e construiu Deir el-Bahari. Tutmés III apagou sua memória.",
+      "importancia": "Hatshepsut governou como homem o maior Estado do mundo por 20 anos. Que Tutmés III tenha tentado apagá-la demonstra o quanto a ameaçava.",
+      "importancia_en": "Hatshepsut governou como homem o maior Estado do mundo por 20 anos. Que Tutmés III tenha tentado apagá-la demonstra o quanto a ameaçava.",
+      "importancia_es": "Hatshepsut governou como homem o maior Estado do mundo por 20 anos. Que Tutmés III tenha tentado apagá-la demonstra o quanto a ameaçava.",
+      "tags": [
+        "Hatshepsut",
+        "1478 a.C.",
+        "faraó",
+        "Punt",
+        "Deir el-Bahari",
+        "barba"
+      ],
+      "dataset": "data/dados-egito-novo-reino.json"
+    },
+    {
+      "id": "enr2",
+      "nome": "Akhenaton e o Primeiro Monoteísmo",
+      "nome_en": "Akhenaton e o Primeiro Monoteísmo",
+      "nome_es": "Akhenaton e o Primeiro Monoteísmo",
+      "tipo": "pessoa",
+      "inicio": -1380,
+      "fim": -1336,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 14,
+      "type": "religious",
+      "descricao": "Akhenaton (r. 1353-1336 a.C.) substituiu todo o panteão pelo culto único de Aton. Após sua morte, Tutancâmon restaurou o politeísmo e apagou Akhenaton dos registros.",
+      "descricao_en": "Akhenaton (r. 1353-1336 a.C.) substituiu todo o panteão pelo culto único de Aton. Após sua morte, Tutancâmon restaurou o politeísmo e apagou Akhenaton dos registros.",
+      "descricao_es": "Akhenaton (r. 1353-1336 a.C.) substituiu todo o panteão pelo culto único de Aton. Após sua morte, Tutancâmon restaurou o politeísmo e apagou Akhenaton dos registros.",
+      "importancia": "Akhenaton criou o primeiro monoteísmo da história - 700 anos antes de Moisés. Que foi destruído tão completamente demonstra que o monoteísmo precisava de tempo para se consolidar.",
+      "importancia_en": "Akhenaton criou o primeiro monoteísmo da história - 700 anos antes de Moisés. Que foi destruído tão completamente demonstra que o monoteísmo precisava de tempo para se consolidar.",
+      "importancia_es": "Akhenaton criou o primeiro monoteísmo da história - 700 anos antes de Moisés. Que foi destruído tão completamente demonstra que o monoteísmo precisava de tempo para se consolidar.",
+      "tags": [
+        "Akhenaton",
+        "Aton",
+        "monoteísmo",
+        "Amarna",
+        "1353 a.C.",
+        "Tutancâmon"
+      ],
+      "dataset": "data/dados-egito-novo-reino.json"
     }
   ],
   "relacoes": [

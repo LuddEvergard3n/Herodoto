@@ -227,6 +227,144 @@ export const DATASET_LABELS = {
   // ── Antártica ──────────────────────────────────────
   "antartica-descoberta":        { pt:"Descoberta, Caçadores e Era Heroica (1820–1917)", en:"Discovery, Hunters and Heroic Age (1820–1917)", es:"Descubrimiento, Cazadores y Era Heroica (1820–1917)" },
   "antartica-moderna":           { pt:"Tratado Antártico, Ciência e Crise Climática", en:"Antarctic Treaty, Science and Climate Crisis", es:"Tratado Antártico, Ciencia y Crisis Climática" },
+
+  // ── Grécia: Helenismo ──────────────────────────────
+  "grecia-helenismo":            { pt:"Período Helenístico: Reinos Sucessores e Alexandria",  en:"Hellenistic Period: Successor Kingdoms and Alexandria", es:"Período Helenístico: Reinos Sucesores y Alejandría" },
+  // ── Roma: Imperadores e Crise ──────────────────────
+  "roma-emperadores":            { pt:"Imperadores Romanos: Augusto aos Antoninos",           en:"Roman Emperors: Augustus to the Antonines",             es:"Emperadores Romanos: Augusto a los Antoninos" },
+  "roma-crise-terceiro-seculo":  { pt:"Crise do Terceiro Século e Diocleciano",               en:"Crisis of the Third Century and Diocletian",             es:"Crisis del Siglo III y Diocleciano" },
+  "roma-queda-ocidente":         { pt:"Queda do Ocidente Romano: Hunos, Vândalos e 476",      en:"Fall of Western Rome: Huns, Vandals and 476",            es:"Caída del Occidente Romano: Hunos, Vándalos y 476" },
+  "roma-teologia-direito":       { pt:"Direito Romano: Das XII Tábuas ao Corpus Juris",       en:"Roman Law: From the XII Tables to the Corpus Juris",     es:"Derecho Romano: De las XII Tablas al Corpus Juris" },
+  // ── Medieval: Novos ────────────────────────────────
+  "vikings":                     { pt:"Vikings: Expansão, Rotas e Colonização Atlântica",     en:"Vikings: Expansion, Routes and Atlantic Colonization",   es:"Vikingos: Expansión, Rutas y Colonización Atlántica" },
+  "carlomagno":                  { pt:"Carlomagno e o Império Carolíngio",                    en:"Charlemagne and the Carolingian Empire",                  es:"Carlomagno y el Imperio Carolingio" },
+  "peste-negra":                 { pt:"Peste Negra (1347–1353): A Grande Mortandade",         en:"Black Death (1347–1353): The Great Mortality",            es:"Peste Negra (1347–1353): La Gran Mortalidad" },
+  "guerra-cem-anos":             { pt:"Guerra dos Cem Anos: Joana D'Arc e o Fim Medieval",    en:"Hundred Years' War: Joan of Arc and the Medieval End",   es:"Guerra de los Cien Años: Juana de Arco y el Fin Medieval" },
+  "humanismo-erasmo":            { pt:"Humanismo: Erasmo, More e a Dignidade do Homem",       en:"Humanism: Erasmus, More and Human Dignity",              es:"Humanismo: Erasmo, More y la Dignidad del Hombre" },
+  // ── Reforma e Contrarreforma ───────────────────────
+  "reforma-calvino":             { pt:"Calvino, Zuínglio e a Reforma Reformada",              en:"Calvin, Zwingli and the Reformed Reformation",           es:"Calvino, Zuinglio y la Reforma Reformada" },
+  "contrarreforma":              { pt:"Contrarreforma: Concílio de Trento e Jesuítas",        en:"Counter-Reformation: Council of Trent and Jesuits",      es:"Contrarreforma: Concilio de Trento y Jesuitas" },
+  "guerras-religiao":            { pt:"Guerras de Religião na Europa (1524–1648)",            en:"Wars of Religion in Europe (1524–1648)",                 es:"Guerras de Religión en Europa (1524–1648)" },
+  // ── Era Moderna: Novos ─────────────────────────────
+  "habsburgos":                  { pt:"Habsburgos: Carlos V, Felipe II e a Monarquia Universal", en:"Habsburgs: Charles V, Philip II and the Universal Monarchy", es:"Habsburgos: Carlos V, Felipe II y la Monarquía Universal" },
+  "franca-ancien-regime":        { pt:"França: Luís XIV, Ancien Régime e a Crise",            en:"France: Louis XIV, Ancien Régime and the Crisis",        es:"Francia: Luis XIV, Antiguo Régimen y la Crisis" },
+  "ingles-revolucao":            { pt:"Revolução Inglesa: Cromwell, Bill of Rights e 1689",   en:"English Revolution: Cromwell, Bill of Rights and 1689",  es:"Revolución Inglesa: Cromwell, Bill of Rights y 1689" },
+  "holanda-seculo-de-ouro":      { pt:"Século de Ouro Holandês: VOC, Spinoza e Rembrandt",   en:"Dutch Golden Age: VOC, Spinoza and Rembrandt",           es:"Siglo de Oro Holandés: VOC, Spinoza y Rembrandt" },
+  "guerra-trinta-anos":          { pt:"Guerra dos Trinta Anos e o Tratado de Vestfália",      en:"Thirty Years' War and the Treaty of Westphalia",         es:"Guerra de los Treinta Años y el Tratado de Westfalia" },
+  "austria-prussia":             { pt:"Rivalidade Áustria-Prússia: Frederico e Maria Teresa", en:"Austria-Prussia Rivalry: Frederick and Maria Theresa",   es:"Rivalidad Austria-Prusia: Federico y María Teresa" },
+  // ── Iluminismo: Nacionais ──────────────────────────
+  "iluminismo-frances":          { pt:"Iluminismo Francês: Voltaire, Rousseau, Enciclopédia", en:"French Enlightenment: Voltaire, Rousseau, Encyclopédie", es:"Ilustración Francesa: Voltaire, Rousseau, Enciclopedia" },
+  "iluminismo-britanico":        { pt:"Iluminismo Britânico: Locke, Hume, Adam Smith",        en:"British Enlightenment: Locke, Hume, Adam Smith",         es:"Ilustración Británica: Locke, Hume, Adam Smith" },
+  "iluminismo-alemao":           { pt:"Aufklärung: Kant, Lessing, Goethe e Schiller",         en:"Aufklärung: Kant, Lessing, Goethe and Schiller",         es:"Aufklärung: Kant, Lessing, Goethe y Schiller" },
+  // ── Século XIX: Novos ──────────────────────────────
+  "napoleao-europa":             { pt:"Napoleão: Conquistas, Código Civil e Queda",           en:"Napoleon: Conquests, Civil Code and Fall",               es:"Napoleón: Conquistas, Código Civil y Caída" },
+  "congresso-viena":             { pt:"Congresso de Viena e a Restauração (1815–1848)",       en:"Congress of Vienna and the Restoration (1815–1848)",     es:"Congreso de Viena y la Restauración (1815–1848)" },
+  "revolucoes-1848":             { pt:"Primavera dos Povos: As Revoluções de 1848",           en:"Spring of Nations: The Revolutions of 1848",             es:"Primavera de los Pueblos: Las Revoluciones de 1848" },
+  "unificacao-italia":           { pt:"Unificação Italiana: Garibaldi, Cavour e Risorgimento", en:"Italian Unification: Garibaldi, Cavour and Risorgimento", es:"Unificación Italiana: Garibaldi, Cavour y Risorgimento" },
+  "unificacao-alemanha":         { pt:"Unificação Alemã: Bismarck, Sangue e Ferro",           en:"German Unification: Bismarck, Blood and Iron",           es:"Unificación Alemana: Bismarck, Sangre y Hierro" },
+  "belle-epoque":                { pt:"Belle Époque: Europa 1871–1914",                       en:"Belle Époque: Europe 1871–1914",                          es:"Belle Époque: Europa 1871–1914" },
+  "imperialismo-britanico":      { pt:"Império Britânico: Pax Britannica e Desimperialização", en:"British Empire: Pax Britannica and Decolonization",      es:"Imperio Británico: Pax Britannica y Desimperialización" },
+  "imperialismo-frances":        { pt:"Imperialismo Francês: Argélia, Indochina e Descolonização", en:"French Imperialism: Algeria, Indochina and Decolonization", es:"Imperialismo Francés: Argelia, Indochina y Descolonización" },
+  "industrializacao-europa":     { pt:"Industrialização Europeia: Segunda Revolução e Trabalho", en:"European Industrialization: Second Revolution and Labour", es:"Industrialización Europea: Segunda Revolución y Trabajo" },
+  // ── Guerras Mundiais: Novos ────────────────────────
+  "frente-ocidental-1914":       { pt:"Frente Ocidental 1914–1918: Trincheiras e Verdun",     en:"Western Front 1914–1918: Trenches and Verdun",           es:"Frente Occidental 1914–1918: Trincheras y Verdún" },
+  "tratado-versalhes":           { pt:"Tratado de Versalhes e a Paz Impossível (1919)",        en:"Treaty of Versailles and the Impossible Peace (1919)",   es:"Tratado de Versalles y la Paz Imposible (1919)" },
+  "republica-weimar":            { pt:"República de Weimar e a Ascensão do Nazismo",          en:"Weimar Republic and the Rise of Nazism",                 es:"República de Weimar y el Ascenso del Nazismo" },
+  "nazismo":                     { pt:"Nazismo: Ideologia, Estado de Terror e Holocausto",    en:"Nazism: Ideology, Terror State and Holocaust",           es:"Nazismo: Ideología, Estado de Terror y Holocausto" },
+  "fascismo-italiano":           { pt:"Fascismo Italiano: Mussolini e o Estado Corporativo",  en:"Italian Fascism: Mussolini and the Corporate State",     es:"Fascismo Italiano: Mussolini y el Estado Corporativo" },
+  "guerra-civil-espanhola":      { pt:"Guerra Civil Espanhola: Guernica e Franquismo",        en:"Spanish Civil War: Guernica and Francoism",              es:"Guerra Civil Española: Guernica y Franquismo" },
+  "frente-oriental":             { pt:"Frente Oriental 1941–1945: Barbarossa e Stalingrado",  en:"Eastern Front 1941–1945: Barbarossa and Stalingrad",     es:"Frente Oriental 1941–1945: Barbarroja y Stalingrado" },
+  "holocaust":                   { pt:"Holocausto: O Genocídio Industrial dos Judeus",        en:"Holocaust: The Industrial Genocide of the Jews",         es:"Holocausto: El Genocidio Industrial de los Judíos" },
+  // ── Europa Pós-Guerra ──────────────────────────────
+  "europa-pos-guerra":           { pt:"Europa Pós-1945: Reconstrução, Milagres e Nuremberg",  en:"Post-1945 Europe: Reconstruction, Miracles and Nuremberg", es:"Europa Post-1945: Reconstrucción, Milagros y Núremberg" },
+  "uniao-europeia":              { pt:"União Europeia: Da CECA ao Brexit e Next Gen",         en:"European Union: From ECSC to Brexit and Next Gen",       es:"Unión Europea: De la CECA al Brexit y Next Gen" },
+  "guerra-fria-europa":          { pt:"Guerra Fria na Europa: Berlim, 1956 e 1968",           en:"Cold War in Europe: Berlin, 1956 and 1968",              es:"Guerra Fría en Europa: Berlín, 1956 y 1968" },
+  "desintegracao-urss":          { pt:"Desintegração da URSS: Gorbachev e 1989–1991",        en:"USSR Collapse: Gorbachev and 1989–1991",                 es:"Desintegración de la URSS: Gorbachov y 1989–1991" },
+  "balcas-guerras":              { pt:"Guerras dos Bálcãs: Iugoslávia, Bósnia e Kosovo",      en:"Balkan Wars: Yugoslavia, Bosnia and Kosovo",             es:"Guerras de los Balcanes: Yugoslavia, Bosnia y Kosovo" },
+  "europa-contemporanea":        { pt:"Europa Contemporânea: Crises, Brexit e Populismo",     en:"Contemporary Europe: Crises, Brexit and Populism",       es:"Europa Contemporánea: Crisis, Brexit y Populismo" },
+  "1968-europa":                 { pt:"1968: Maio de Paris, Praga e a Revolução Cultural",    en:"1968: May in Paris, Prague and the Cultural Revolution",  es:"1968: Mayo de París, Praga y la Revolución Cultural" },
+  // ── Rússia: Novos ──────────────────────────────────
+  "russia-imperio":              { pt:"Império Russo: Pedro o Grande a Nicolau II",           en:"Russian Empire: Peter the Great to Nicholas II",          es:"Imperio Ruso: Pedro el Grande a Nicolás II" },
+
+
+  // ── Pré-História extras ────────────────────────────
+  "pre-historia-americas":       { pt:"Pré-História das Américas",                      en:"Prehistory of the Americas",                     es:"Prehistoria de las Américas" },
+  "pre-historia-neolitico":      { pt:"Revolução Neolítica e Primeiras Civilizações",   en:"Neolithic Revolution and First Civilizations",   es:"Revolución Neolítica y Primeras Civilizaciones" },
+  // ── Egito extras ───────────────────────────────────
+  "egito-reinos":                { pt:"Egito: Reinos e Períodos Intermediários",        en:"Egypt: Kingdoms and Intermediate Periods",       es:"Egipto: Reinos y Períodos Intermedios" },
+  "egito-tardio":                { pt:"Egito Tardio e Período Greco-Romano",            en:"Late Egypt and Greco-Roman Period",               es:"Egipto Tardío y Período Greco-Romano" },
+  // ── Pérsia extras ──────────────────────────────────
+  "persia-antiga":               { pt:"Pérsia Antiga — visão geral",                   en:"Ancient Persia — overview",                      es:"Persia Antigua — visión general" },
+  // ── Medieval extras ────────────────────────────────
+  "carolingios":                 { pt:"Carolíngios: De Carlos Martel a Luís, o Piedoso", en:"Carolingians: From Charles Martel to Louis the Pious", es:"Carolingios: De Carlos Martel a Luis el Piadoso" },
+  "al-andalus":                  { pt:"Al-Ândalus: Islão na Península Ibérica",         en:"Al-Andalus: Islam in the Iberian Peninsula",     es:"Al-Ándalus: El Islam en la Península Ibérica" },
+  "islao-fundacao":              { pt:"Islão: Fundação e os Primeiros Califas",         en:"Islam: Foundation and the First Caliphs",         es:"Islam: Fundación y los Primeros Califas" },
+  // ── Filosofia extras ───────────────────────────────
+  "filosofia-moderna":           { pt:"Filosofia Moderna: Descartes a Hegel",           en:"Modern Philosophy: Descartes to Hegel",          es:"Filosofía Moderna: Descartes a Hegel" },
+  // ── EUA extras ─────────────────────────────────────
+  "eua-colonias":                { pt:"EUA: Treze Colônias e Vida Colonial",            en:"USA: Thirteen Colonies and Colonial Life",        es:"EEUU: Trece Colonias y Vida Colonial" },
+  "eua-expansao-civil":          { pt:"EUA: Expansão para o Oeste e Guerra Civil",      en:"USA: Westward Expansion and Civil War",           es:"EEUU: Expansión al Oeste y Guerra Civil" },
+  "eua-guerra-fria":             { pt:"EUA na Guerra Fria",                             en:"USA in the Cold War",                            es:"EEUU en la Guerra Fría" },
+  "eua-guerras-mundiais":        { pt:"EUA nas Guerras Mundiais",                       en:"USA in the World Wars",                          es:"EEUU en las Guerras Mundiales" },
+  "eua-industrializacao":        { pt:"EUA: Industrialização e Gilded Age",             en:"USA: Industrialization and Gilded Age",           es:"EEUU: Industrialización y Gilded Age" },
+  "eua-seculo20":                { pt:"EUA no Século XX — visão geral",                 en:"USA in the 20th Century — overview",              es:"EEUU en el Siglo XX — visión general" },
+  // ── Japão extras ───────────────────────────────────
+  "japao":                       { pt:"Japão — visão geral",                            en:"Japan — overview",                               es:"Japón — visión general" },
+  "japao-arcaico":               { pt:"Japão Arcaico: Jomon, Yayoi e Yamato",          en:"Archaic Japan: Jomon, Yayoi and Yamato",          es:"Japón Arcaico: Jomon, Yayoi y Yamato" },
+  "japao-feudal":                { pt:"Japão Feudal: Samurais, Xogunatos e Sengoku",   en:"Feudal Japan: Samurai, Shogunates and Sengoku",   es:"Japón Feudal: Samuráis, Shogunatos y Sengoku" },
+  // ── Coreia extras ──────────────────────────────────
+  "coreia":                      { pt:"Coreia — visão geral",                           en:"Korea — overview",                               es:"Corea — visión general" },
+  // ── Sudeste Asiático extras ────────────────────────
+  "sudeste-asiatico":            { pt:"Sudeste Asiático — visão geral",                 en:"Southeast Asia — overview",                      es:"Sudeste Asiático — visión general" },
+  "sudeste-continental":         { pt:"Sudeste Asiático Continental",                   en:"Continental Southeast Asia",                     es:"Sudeste Asiático Continental" },
+  // ── Mesoamérica extras ─────────────────────────────
+  "astecas-imperio":             { pt:"Astecas: Império, Tlatelolco e Conquista",       en:"Aztecs: Empire, Tlatelolco and Conquest",         es:"Aztecas: Imperio, Tlatelolco y Conquista" },
+  "caral-andino-antigo":         { pt:"Caral e o Mundo Andino Antigo",                 en:"Caral and the Ancient Andean World",              es:"Caral y el Mundo Andino Antiguo" },
+  "chimu-wari":                  { pt:"Chimú, Wari e os Impérios Pré-Incas",           en:"Chimú, Wari and Pre-Inca Empires",                es:"Chimú, Wari y los Imperios Pre-Inca" },
+  // ── Brasil temáticos extras ────────────────────────
+  "brasil-ciclos-economicos":    { pt:"Brasil: Ciclos Econômicos (Pau-Brasil ao Café)", en:"Brazil: Economic Cycles (Brazilwood to Coffee)", es:"Brasil: Ciclos Económicos (Palo Brasil al Café)" },
+  "brasil-colonial-escravidao":  { pt:"Brasil Colonial: Escravidão e Resistência",      en:"Colonial Brazil: Slavery and Resistance",         es:"Brasil Colonial: Esclavitud y Resistencia" },
+  "brasil-colonial-inicial":     { pt:"Brasil Colonial Inicial (1500–1580)",            en:"Early Colonial Brazil (1500–1580)",               es:"Brasil Colonial Inicial (1500–1580)" },
+  "brasil-colonial-tardio":      { pt:"Brasil Colonial Tardio (1700–1808)",             en:"Late Colonial Brazil (1700–1808)",                es:"Brasil Colonial Tardío (1700–1808)" },
+  "brasil-contemporaneo":        { pt:"Brasil Contemporâneo (1985–hoje)",               en:"Contemporary Brazil (1985–present)",              es:"Brasil Contemporáneo (1985–hoy)" },
+  "brasil-cultura-arte":         { pt:"Brasil: Cultura, Arte e Identidade",             en:"Brazil: Culture, Art and Identity",               es:"Brasil: Cultura, Arte e Identidad" },
+  "brasil-ditadura":             { pt:"Brasil: Ditadura Militar (1964–1985)",           en:"Brazil: Military Dictatorship (1964–1985)",       es:"Brasil: Dictadura Militar (1964–1985)" },
+  "brasil-economia-social":      { pt:"Brasil: Economia e Questão Social",              en:"Brazil: Economy and Social Question",             es:"Brasil: Economía y Cuestión Social" },
+  "brasil-era-vargas":           { pt:"Era Vargas: Revolução de 30 e Estado Novo",      en:"Vargas Era: 1930 Revolution and Estado Novo",     es:"Era Vargas: Revolución del 30 y Estado Novo" },
+  "brasil-guerra-paraguai":      { pt:"Guerra do Paraguai (1864–1870)",                 en:"Paraguayan War (1864–1870)",                      es:"Guerra del Paraguay (1864–1870)" },
+  "brasil-imperio":              { pt:"Império do Brasil — visão geral",                en:"Empire of Brazil — overview",                    es:"Imperio de Brasil — visión general" },
+  "brasil-imperio-ciencia":      { pt:"Brasil Imperial: Ciência e Natureza",            en:"Imperial Brazil: Science and Nature",             es:"Brasil Imperial: Ciencia y Naturaleza" },
+  "brasil-imperio-figuras":      { pt:"Brasil Imperial: Figuras e Personagens",         en:"Imperial Brazil: Figures and Characters",         es:"Brasil Imperial: Figuras y Personajes" },
+  "brasil-imperio-infraestrutura":{ pt:"Brasil Imperial: Infraestrutura e Modernização", en:"Imperial Brazil: Infrastructure and Modernization", es:"Brasil Imperial: Infraestructura y Modernización" },
+  "brasil-inconfidencia":        { pt:"Inconfidência Mineira e Resistência Colonial",   en:"Minas Conspiracy and Colonial Resistance",        es:"Inconfidencia Minera y Resistencia Colonial" },
+  "brasil-independencia":        { pt:"Independência do Brasil (1822)",                 en:"Brazilian Independence (1822)",                   es:"Independencia de Brasil (1822)" },
+  // [removed duplicate: brasil-indigenas]
+  "brasil-missoes-jesuiticas":   { pt:"Missões Jesuíticas e Evangelização",             en:"Jesuit Missions and Evangelization",              es:"Misiones Jesuíticas y Evangelización" },
+  "brasil-precolonial":          { pt:"Brasil Pré-Colonial: Culturas e Diversidade",    en:"Pre-Colonial Brazil: Cultures and Diversity",     es:"Brasil Precolonial: Culturas y Diversidad" },
+  // [removed duplicate: brasil-quilombos]
+  "brasil-redemocratizacao":     { pt:"Redemocratização e Nova República (1985–)",      en:"Redemocratization and New Republic (1985–)",      es:"Redemocratización y Nueva República (1985–)" },
+  "brasil-republica":            { pt:"República do Brasil — visão geral",              en:"Brazilian Republic — overview",                   es:"República de Brasil — visión general" },
+  "brasil-republica-velha":      { pt:"República Velha: Café com Leite (1889–1930)",    en:"Old Republic: Coffee with Milk (1889–1930)",      es:"República Vieja: Café con Leche (1889–1930)" },
+  "brasil-revoltas-republica":   { pt:"Revoltas na Primeira República",                 en:"Revolts in the First Republic",                   es:"Revueltas en la Primera República" },
+  // ── Personalidades extras ──────────────────────────
+  "personagens-africa-oriente":  { pt:"Personalidades: África e Oriente",               en:"Personalities: Africa and the Middle East",       es:"Personalidades: África y Oriente" },
+  "personagens-americas":        { pt:"Personalidades: Américas",                       en:"Personalities: Americas",                         es:"Personalidades: Américas" },
+  "personagens-asia":            { pt:"Personalidades: Ásia",                           en:"Personalities: Asia",                             es:"Personalidades: Asia" },
+  "personagens-biblicas":        { pt:"Personalidades: Figuras Bíblicas",               en:"Personalities: Biblical Figures",                 es:"Personalidades: Figuras Bíblicas" },
+  "personagens-brasil":          { pt:"Personalidades: Brasil",                         en:"Personalities: Brazil",                           es:"Personalidades: Brasil" },
+  "personagens-ciencia-pensamento":{ pt:"Personalidades: Ciência e Pensamento",         en:"Personalities: Science and Thought",              es:"Personalidades: Ciencia y Pensamiento" },
+  "personagens-europa-moderna":  { pt:"Personalidades: Europa Moderna",                 en:"Personalities: Modern Europe",                    es:"Personalidades: Europa Moderna" },
+  "personagens-filosofia-oriental":{ pt:"Personalidades: Filosofia Oriental",           en:"Personalities: Eastern Philosophy",               es:"Personalidades: Filosofía Oriental" },
+  "personagens-grecia-roma":     { pt:"Personalidades: Grécia e Roma",                  en:"Personalities: Greece and Rome",                  es:"Personalidades: Grecia y Roma" },
+  "personagens-iluminismo-revolucoes":{ pt:"Personalidades: Iluminismo e Revoluções",   en:"Personalities: Enlightenment and Revolutions",    es:"Personalidades: Ilustración y Revoluciones" },
+  "personagens-medieval":        { pt:"Personalidades: Idade Média",                    en:"Personalities: Middle Ages",                      es:"Personalidades: Edad Media" },
+  "personagens-mulheres":        { pt:"Personalidades: Mulheres na História",           en:"Personalities: Women in History",                 es:"Personalidades: Mujeres en la Historia" },
+  "personagens-oriente-antigo":  { pt:"Personalidades: Oriente Antigo",                 en:"Personalities: Ancient Near East",                es:"Personalidades: Oriente Antiguo" },
+  "personagens-renascimento-reforma":{ pt:"Personalidades: Renascimento e Reforma",     en:"Personalities: Renaissance and Reformation",      es:"Personalidades: Renacimiento y Reforma" },
+  "personagens-seculo-xix":      { pt:"Personalidades: Século XIX",                     en:"Personalities: 19th Century",                     es:"Personalidades: Siglo XIX" },
+  "personagens-seculo-xx":       { pt:"Personalidades: Século XX",                      en:"Personalities: 20th Century",                     es:"Personalidades: Siglo XX" },
+  "personagens-seculo-xx-guerras":{ pt:"Personalidades: Guerras do Século XX",          en:"Personalities: 20th Century Wars",                es:"Personalidades: Guerras del Siglo XX" }
+
 };
 
 /**

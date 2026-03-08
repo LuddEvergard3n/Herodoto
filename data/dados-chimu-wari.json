@@ -173,6 +173,62 @@
         "guerra civil"
       ],
       "dataset": "data/dados-chimu-wari.json"
+    },
+    {
+      "id": "cw1",
+      "nome": "Chimú: O Império Costeiro",
+      "nome_en": "Chimú: O Império Costeiro",
+      "nome_es": "Chimú: O Império Costeiro",
+      "tipo": "periodo",
+      "inicio": 900,
+      "fim": 1470,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 10,
+      "type": "political",
+      "descricao": "O Império Chimú (900-1470 d.C.) foi o maior Estado costeiro pré-inca: capital Chan Chan, maior cidade de adobe do mundo. Canais de 100 km no deserto.",
+      "descricao_en": "O Império Chimú (900-1470 d.C.) foi o maior Estado costeiro pré-inca: capital Chan Chan, maior cidade de adobe do mundo. Canais de 100 km no deserto.",
+      "descricao_es": "O Império Chimú (900-1470 d.C.) foi o maior Estado costeiro pré-inca: capital Chan Chan, maior cidade de adobe do mundo. Canais de 100 km no deserto.",
+      "importancia": "Chan Chan é a maior cidade de adobe da história. O Chimú construiu um império sofisticado no deserto mais árido das Américas.",
+      "importancia_en": "Chan Chan é a maior cidade de adobe da história. O Chimú construiu um império sofisticado no deserto mais árido das Américas.",
+      "importancia_es": "Chan Chan é a maior cidade de adobe da história. O Chimú construiu um império sofisticado no deserto mais árido das Américas.",
+      "tags": [
+        "Chimú",
+        "Chan Chan",
+        "900 d.C.",
+        "adobe",
+        "canais",
+        "Incas"
+      ],
+      "dataset": "data/dados-chimu-wari.json"
+    },
+    {
+      "id": "cw2",
+      "nome": "Tiwanaku: Civilização a 3.800 Metros",
+      "nome_en": "Tiwanaku: Civilização a 3.800 Metros",
+      "nome_es": "Tiwanaku: Civilização a 3.800 Metros",
+      "tipo": "periodo",
+      "inicio": 200,
+      "fim": 1100,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 3,
+      "type": "cultural",
+      "descricao": "Tiwanaku (200-1100 d.C., Bolívia) a 3.800 metros. O Portão do Sol e as suka kollus (agricultura em camadas elevadas) são mais produtivas que a agricultura moderna em altitude.",
+      "descricao_en": "Tiwanaku (200-1100 d.C., Bolívia) a 3.800 metros. O Portão do Sol e as suka kollus (agricultura em camadas elevadas) são mais produtivas que a agricultura moderna em altitude.",
+      "descricao_es": "Tiwanaku (200-1100 d.C., Bolívia) a 3.800 metros. O Portão do Sol e as suka kollus (agricultura em camadas elevadas) são mais produtivas que a agricultura moderna em altitude.",
+      "importancia": "Tiwanaku demonstra que civilizações complexas podem florescer em condições extremas. A agricultura em camadas é mais produtiva em altitude que a moderna.",
+      "importancia_en": "Tiwanaku demonstra que civilizações complexas podem florescer em condições extremas. A agricultura em camadas é mais produtiva em altitude que a moderna.",
+      "importancia_es": "Tiwanaku demonstra que civilizações complexas podem florescer em condições extremas. A agricultura em camadas é mais produtiva em altitude que a moderna.",
+      "tags": [
+        "Tiwanaku",
+        "Portão do Sol",
+        "3.800m",
+        "Bolívia",
+        "suka kollus",
+        "Ponce"
+      ],
+      "dataset": "data/dados-chimu-wari.json"
     }
   ],
   "relacoes": [

@@ -180,6 +180,34 @@
       "period": "EarlyModern",
       "importancia_en": "Later treaties (Madrid 1750, Santo Ildefonso 1777) recognized expanded Brazilian borders based on uti possidetis principle (who actually possesses).",
       "importancia_es": "Tratados posteriores (Madrid 1750, Santo Ildefonso 1777) reconocieron fronteras brasileñas expandidas basándose en principio uti possidetis (quien posee de hecho)."
+    },
+    {
+      "id": "bci1",
+      "nome": "Padre Antonio Vieira: Oratoria e Contradicao",
+      "nome_en": "Padre Antonio Vieira: Oratoria e Contradicao",
+      "nome_es": "Padre Antonio Vieira: Oratoria e Contradicao",
+      "tipo": "pessoa",
+      "inicio": 1608,
+      "fim": 1697,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 17,
+      "type": "religious",
+      "descricao": "Padre Antonio Vieira (1608-1697) foi o maior orador do seculo XVII: pregou contra a escravidao dos indios mas defendeu a escravidao africana como providencia divina. A contradicao mais honesta do Brasil colonial.",
+      "descricao_en": "Padre Antonio Vieira (1608-1697) foi o maior orador do seculo XVII: pregou contra a escravidao dos indios mas defendeu a escravidao africana como providencia divina. A contradicao mais honesta do Brasil colonial.",
+      "descricao_es": "Padre Antonio Vieira (1608-1697) foi o maior orador do seculo XVII: pregou contra a escravidao dos indios mas defendeu a escravidao africana como providencia divina. A contradicao mais honesta do Brasil colonial.",
+      "importancia": "Vieira e o espelho mais fiel do Brasil colonial: simultaneamente o mais brilhante intelectual jesuitico e o defensor da escravidao africana. Sua contradicao e a contradicao do Brasil.",
+      "importancia_en": "Vieira e o espelho mais fiel do Brasil colonial: simultaneamente o mais brilhante intelectual jesuitico e o defensor da escravidao africana. Sua contradicao e a contradicao do Brasil.",
+      "importancia_es": "Vieira e o espelho mais fiel do Brasil colonial: simultaneamente o mais brilhante intelectual jesuitico e o defensor da escravidao africana. Sua contradicao e a contradicao do Brasil.",
+      "tags": [
+        "Vieira",
+        "jesuitico",
+        "escravidao",
+        "indios",
+        "Sermao",
+        "contradicao"
+      ],
+      "dataset": "data/dados-brasil-colonial-inicial.json"
     }
   ],
   "relacoes": [

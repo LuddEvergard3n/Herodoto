@@ -194,6 +194,34 @@
         "Hamlet"
       ],
       "dataset": "data/dados-renascimento-norte.json"
+    },
+    {
+      "id": "rn1",
+      "nome": "Erasmo e o Humanismo Cristao",
+      "nome_en": "Erasmo e o Humanismo Cristao",
+      "nome_es": "Erasmo e o Humanismo Cristao",
+      "tipo": "pessoa",
+      "inicio": 1466,
+      "fim": 1536,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "cultural",
+      "descricao": "Erasmo de Rotterdam (1466-1536) foi o maior humanista do Norte: O Elogio da Loucura (1511) satirizou a corrupcao da Igreja sem romper com ela. Editou o Novo Testamento em grego (1516) - demonstrando que a Vulgata latina tinha erros. Escreveu com Lutero mas nunca o seguiu. A via media entre a Igreja e a Reforma.",
+      "descricao_en": "Erasmo de Rotterdam (1466-1536) foi o maior humanista do Norte: O Elogio da Loucura (1511) satirizou a corrupcao da Igreja sem romper com ela. Editou o Novo Testamento em grego (1516) - demonstrando que a Vulgata latina tinha erros. Escreveu com Lutero mas nunca o seguiu. A via media entre a Igreja e a Reforma.",
+      "descricao_es": "Erasmo de Rotterdam (1466-1536) foi o maior humanista do Norte: O Elogio da Loucura (1511) satirizou a corrupcao da Igreja sem romper com ela. Editou o Novo Testamento em grego (1516) - demonstrando que a Vulgata latina tinha erros. Escreveu com Lutero mas nunca o seguiu. A via media entre a Igreja e a Reforma.",
+      "importancia": "Erasmo e o humanista mais tragico da historia: criou as condicoes intelectuais para a Reforma mas recusou-a, terminando desprezado por ambos os lados. Quem quer reformar sem revolucionar raramente e amado.",
+      "importancia_en": "Erasmo e o humanista mais tragico da historia: criou as condicoes intelectuais para a Reforma mas recusou-a, terminando desprezado por ambos os lados. Quem quer reformar sem revolucionar raramente e amado.",
+      "importancia_es": "Erasmo e o humanista mais tragico da historia: criou as condicoes intelectuais para a Reforma mas recusou-a, terminando desprezado por ambos os lados. Quem quer reformar sem revolucionar raramente e amado.",
+      "tags": [
+        "Erasmo",
+        "Elogio da Loucura",
+        "1511",
+        "Novo Testamento",
+        "Lutero",
+        "humanismo"
+      ],
+      "dataset": "data/dados-renascimento-norte.json"
     }
   ],
   "relacoes": [

@@ -194,6 +194,34 @@
         "Hughes"
       ],
       "dataset": "data/dados-eua-gilded-age.json"
+    },
+    {
+      "id": "eugg1",
+      "nome": "Os Baroes Ladroes e o Capitalismo sem Regras",
+      "nome_en": "Os Baroes Ladroes e o Capitalismo sem Regras",
+      "nome_es": "Os Baroes Ladroes e o Capitalismo sem Regras",
+      "tipo": "periodo",
+      "inicio": 1870,
+      "fim": 1900,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "economic",
+      "descricao": "A Gilded Age (1870-1900): Carnegie (aco), Rockefeller (Standard Oil, controlava 90% do petroleo), J.P. Morgan (financas), Vanderbilt (ferrovias). O primeiro bilionario da historia foi John D. Rockefeller (c. 1916). Os trustes monopolizavam mercados inteiros. Theodore Roosevelt e o antitrust (Sherman Act, 1890) tentou limitar o poder.",
+      "descricao_en": "A Gilded Age (1870-1900): Carnegie (aco), Rockefeller (Standard Oil, controlava 90% do petroleo), J.P. Morgan (financas), Vanderbilt (ferrovias). O primeiro bilionario da historia foi John D. Rockefeller (c. 1916). Os trustes monopolizavam mercados inteiros. Theodore Roosevelt e o antitrust (Sherman Act, 1890) tentou limitar o poder.",
+      "descricao_es": "A Gilded Age (1870-1900): Carnegie (aco), Rockefeller (Standard Oil, controlava 90% do petroleo), J.P. Morgan (financas), Vanderbilt (ferrovias). O primeiro bilionario da historia foi John D. Rockefeller (c. 1916). Os trustes monopolizavam mercados inteiros. Theodore Roosevelt e o antitrust (Sherman Act, 1890) tentou limitar o poder.",
+      "importancia": "A Gilded Age criou o capitalismo monopolista que estrutura a economia global ate hoje. Os Big Tech do seculo XXI (Google, Amazon, Apple) sao os trustes do seculo XXI - com a mesma ausencia de concorrencia.",
+      "importancia_en": "A Gilded Age criou o capitalismo monopolista que estrutura a economia global ate hoje. Os Big Tech do seculo XXI (Google, Amazon, Apple) sao os trustes do seculo XXI - com a mesma ausencia de concorrencia.",
+      "importancia_es": "A Gilded Age criou o capitalismo monopolista que estrutura a economia global ate hoje. Os Big Tech do seculo XXI (Google, Amazon, Apple) sao os trustes do seculo XXI - com a mesma ausencia de concorrencia.",
+      "tags": [
+        "Gilded Age",
+        "Carnegie",
+        "Rockefeller",
+        "Standard Oil",
+        "monopolio",
+        "antitrust"
+      ],
+      "dataset": "data/dados-eua-gilded-age.json"
     }
   ],
   "relacoes": [

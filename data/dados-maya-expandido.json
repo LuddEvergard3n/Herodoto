@@ -173,6 +173,62 @@
         "destruição cultural"
       ],
       "dataset": "data/dados-maya-expandido.json"
+    },
+    {
+      "id": "mex1",
+      "nome": "O Colapso Maya Clássico",
+      "nome_en": "O Colapso Maya Clássico",
+      "nome_es": "O Colapso Maya Clássico",
+      "tipo": "evento",
+      "inicio": 800,
+      "fim": 900,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 9,
+      "type": "political",
+      "descricao": "O Colapso Maya Clássico (800-900 d.C.): 100+ cidades abandonadas em 100 anos. Causas debatidas: seca prolongada (confirmada por análise de lago), guerras entre cidades-estado, sobrepopulação, degradação ambiental. A população das cidades caiu de centenas de milhares para quase zero.",
+      "descricao_en": "O Colapso Maya Clássico (800-900 d.C.): 100+ cidades abandonadas em 100 anos. Causas debatidas: seca prolongada (confirmada por análise de lago), guerras entre cidades-estado, sobrepopulação, degradação ambiental. A população das cidades caiu de centenas de milhares para quase zero.",
+      "descricao_es": "O Colapso Maya Clássico (800-900 d.C.): 100+ cidades abandonadas em 100 anos. Causas debatidas: seca prolongada (confirmada por análise de lago), guerras entre cidades-estado, sobrepopulação, degradação ambiental. A população das cidades caiu de centenas de milhares para quase zero.",
+      "importancia": "O Colapso Maya é o caso mais estudado de colapso civilizacional: demonstra que civilizações complexas são vulneráveis quando múltiplas crises simultâneas - ambiental, política, econômica - sobrecarregam o sistema.",
+      "importancia_en": "O Colapso Maya é o caso mais estudado de colapso civilizacional: demonstra que civilizações complexas são vulneráveis quando múltiplas crises simultâneas - ambiental, política, econômica - sobrecarregam o sistema.",
+      "importancia_es": "O Colapso Maya é o caso mais estudado de colapso civilizacional: demonstra que civilizações complexas são vulneráveis quando múltiplas crises simultâneas - ambiental, política, econômica - sobrecarregam o sistema.",
+      "tags": [
+        "colapso maya",
+        "800 d.C.",
+        "seca",
+        "abandono",
+        "cidades-estado",
+        "civilização"
+      ],
+      "dataset": "data/dados-maya-expandido.json"
+    },
+    {
+      "id": "mex2",
+      "nome": "Os Mayas Pós-Clássicos: Chichén Itzá e Uxmal",
+      "nome_en": "Os Mayas Pós-Clássicos: Chichén Itzá e Uxmal",
+      "nome_es": "Os Mayas Pós-Clássicos: Chichén Itzá e Uxmal",
+      "tipo": "periodo",
+      "inicio": 900,
+      "fim": 1546,
+      "region": "Americas",
+      "period": "Ancient",
+      "century_start": 10,
+      "type": "cultural",
+      "descricao": "Os mayas pós-clássicos (900-1546) continuaram florescendo no Yucatán: Chichén Itzá (Pirâmide de Kukulcán/El Castillo, design de calendário solar com 91 degraus por lado × 4 lados + 1 topo = 365), Uxmal, Mayapán. A conquista espanhola (1546) foi mais lenta que a do México central - os mayas resistiram por décadas.",
+      "descricao_en": "Os mayas pós-clássicos (900-1546) continuaram florescendo no Yucatán: Chichén Itzá (Pirâmide de Kukulcán/El Castillo, design de calendário solar com 91 degraus por lado × 4 lados + 1 topo = 365), Uxmal, Mayapán. A conquista espanhola (1546) foi mais lenta que a do México central - os mayas resistiram por décadas.",
+      "descricao_es": "Os mayas pós-clássicos (900-1546) continuaram florescendo no Yucatán: Chichén Itzá (Pirâmide de Kukulcán/El Castillo, design de calendário solar com 91 degraus por lado × 4 lados + 1 topo = 365), Uxmal, Mayapán. A conquista espanhola (1546) foi mais lenta que a do México central - os mayas resistiram por décadas.",
+      "importancia": "Chichén Itzá é o símbolo arquitetônico da síntese cultural maya-tolteca. Que a Pirâmide de Kukulcán seja um calendário solar em pedra demonstra que os mayas construíam os valores mais abstratos diretamente em sua arquitetura.",
+      "importancia_en": "Chichén Itzá é o símbolo arquitetônico da síntese cultural maya-tolteca. Que a Pirâmide de Kukulcán seja um calendário solar em pedra demonstra que os mayas construíam os valores mais abstratos diretamente em sua arquitetura.",
+      "importancia_es": "Chichén Itzá é o símbolo arquitetônico da síntese cultural maya-tolteca. Que a Pirâmide de Kukulcán seja um calendário solar em pedra demonstra que os mayas construíam os valores mais abstratos diretamente em sua arquitetura.",
+      "tags": [
+        "Chichén Itzá",
+        "Kukulcán",
+        "365 degraus",
+        "Uxmal",
+        "pós-clássico",
+        "resistência"
+      ],
+      "dataset": "data/dados-maya-expandido.json"
     }
   ],
   "relacoes": [

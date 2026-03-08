@@ -1,0 +1,159 @@
+{
+  "tema": "Absolutismo, Iluminismo e Revoluções",
+  "descricao": "Absolutismo europeu, Iluminismo francês/britânico/alemão, Revolução Americana, Revolução Francesa, 1848",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "René Descartes",
+        "obra": "Discurso do Método; Meditações",
+        "ano": "1637–1641",
+        "nota": "Trad. Jacob Guinsburg, Martins Fontes"
+      },
+      {
+        "autor": "John Locke",
+        "obra": "Dois Tratados sobre o Governo",
+        "ano": "1689",
+        "nota": "Trad. Julio Fischer, Martins Fontes"
+      },
+      {
+        "autor": "Montesquieu",
+        "obra": "Do Espírito das Leis",
+        "ano": "1748",
+        "nota": "Trad. Cristina Murachco, Martins Fontes"
+      },
+      {
+        "autor": "Jean-Jacques Rousseau",
+        "obra": "O Contrato Social; Emílio",
+        "ano": "1762",
+        "nota": "Trad. Lourdes Santos Machado, Abril Cultural"
+      },
+      {
+        "autor": "Voltaire",
+        "obra": "Cândido; Dicionário Filosófico",
+        "ano": "1759–1764",
+        "nota": "Trad. Mário Quintana, Globo"
+      },
+      {
+        "autor": "Adam Smith",
+        "obra": "A Riqueza das Nações",
+        "ano": "1776",
+        "nota": "Trad. Luiz João Baraúna, Abril Cultural"
+      },
+      {
+        "autor": "Immanuel Kant",
+        "obra": "Crítica da Razão Pura; Resposta à Pergunta: O Que é o Iluminismo?",
+        "ano": "1781–1784",
+        "nota": "Trad. Manuela Pinto dos Santos, Fundação Calouste Gulbenkian"
+      },
+      {
+        "autor": "Alexander Hamilton, James Madison e John Jay",
+        "obra": "The Federalist Papers",
+        "ano": "1788"
+      },
+      {
+        "autor": "Edmund Burke",
+        "obra": "Reflexões sobre a Revolução em França",
+        "ano": "1790",
+        "nota": "Trad. Renato de Assumpção Faria, UnB"
+      },
+      {
+        "autor": "Thomas Paine",
+        "obra": "Os Direitos do Homem; O Senso Comum",
+        "ano": "1776–1791"
+      },
+      {
+        "autor": "Mary Wollstonecraft",
+        "obra": "Vindication of the Rights of Woman",
+        "ano": "1792"
+      },
+      {
+        "autor": "Karl Marx e Friedrich Engels",
+        "obra": "Manifesto do Partido Comunista",
+        "ano": "1848",
+        "nota": "Trad. Álvaro Pina, Boitempo"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Peter Gay",
+        "obra": "The Enlightenment: An Interpretation (2 vols.)",
+        "ano": "1966–1969",
+        "editora": "Knopf"
+      },
+      {
+        "autor": "Simon Schama",
+        "obra": "Citizens: A Chronicle of the French Revolution",
+        "ano": "1989",
+        "editora": "Knopf"
+      },
+      {
+        "autor": "François Furet",
+        "obra": "Interpreting the French Revolution",
+        "ano": "1978",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Jonathan Israel",
+        "obra": "Radical Enlightenment",
+        "ano": "2001",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "William Doyle",
+        "obra": "The Oxford History of the French Revolution",
+        "ano": "1989",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "R. R. Palmer",
+        "obra": "The Age of the Democratic Revolution (2 vols.)",
+        "ano": "1959–1964",
+        "editora": "Princeton University Press"
+      },
+      {
+        "autor": "Norman Hampson",
+        "obra": "The Enlightenment",
+        "ano": "1968",
+        "editora": "Penguin"
+      },
+      {
+        "autor": "Dorinda Outram",
+        "obra": "The Enlightenment",
+        "ano": "1995",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Peter N. Stearns",
+        "obra": "1848: The Revolutionary Tide in Europe",
+        "ano": "1974",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "Alexis de Tocqueville",
+        "obra": "A Democracia na América; O Antigo Regime e a Revolução",
+        "ano": "1835–1856",
+        "nota": "Fonte primária-secundária"
+      },
+      {
+        "autor": "Gordon S. Wood",
+        "obra": "The Radicalism of the American Revolution",
+        "ano": "1992",
+        "editora": "Knopf"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Robert Darnton",
+        "obra": "The Business of Enlightenment",
+        "ano": "1979",
+        "editora": "Harvard University Press"
+      },
+      {
+        "autor": "Jacques Godechot",
+        "obra": "The Counter-Revolution: Doctrine and Action 1789–1804",
+        "ano": "1971",
+        "editora": "Princeton University Press"
+      }
+    ]
+  }
+}

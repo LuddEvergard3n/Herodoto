@@ -1,31 +1,45 @@
 # Heródoto
 ### Linha do Tempo Interativa e Grafo de Conhecimento Histórico
 
-> *"Heródoto de Halicarnasso apresenta aqui os resultados de sua pesquisa, para que o tempo não apague os feitos dos homens."* — Heródoto, Histórias, c. 440 a.C.
+> *«Heródoto de Halicarnasso apresenta aqui os resultados de sua pesquisa, para que o tempo não apague os feitos dos homens.»* — Heródoto, Histórias, c. 440 a.C.
 
 ---
 
 ## O que é
 
-**Heródoto** é uma ferramenta pedagógica para professores de história que combina dois modos de visualização:
+**Heródoto** é uma ferramenta pedagógica para professores e estudantes de história que combina dois modos principais de visualização:
 
 - **Grafo de conhecimento** — eventos e personalidades históricas como nós interconectados por relações causais, temáticas e cronológicas, renderizado com D3.js force-directed layout
-- **Linha do tempo interativa** — eixo SVG com zoom/pan, filtragem por era e tipo, agrupamento visual de eventos próximos e navegação por região geográfica
+- **Linha do tempo interativa** — eixo SVG com zoom/pan, filtragem multidimensional, agrupamento visual e navegação por região geográfica
 
-O projeto cobre a história mundial desde os primeiros hominídeos (~3,3 milhões a.C.) até o presente, com ênfase especial no Brasil.
+O projeto cobre a história mundial desde os primeiros hominídeos (~3,3 milhões a.C.) até o presente, com ênfase especial no Brasil e na Europa.
+
+---
+
+## Estado Atual (v7.39)
+
+| Métrica | Valor |
+|---|---|
+| Datasets (arquivos JSON) | **303** |
+| Entidades históricas | **2.611** |
+| Perguntas Geradoras | **248** em **58 grupos** |
+| Idiomas | PT / EN / ES |
+| Arquivos de fontes | **38 temas** |
+| Fontes bibliográficas | **≈ 500** (primárias, secundárias, terciárias) |
+| Testes automatizados | **112 / 112 ✓** |
 
 ---
 
 ## Funcionalidades
 
 ### Linha do Tempo
-- Eixo histórico com escala logarítmica para pré-história e linear para história
-- Zoom (Ctrl+scroll), pan horizontal (scroll horizontal ou arrasto), navegação vertical entre regiões (scroll)
+- Eixo histórico com escala ajustada para pré-história e história
+- Zoom (`Ctrl+scroll`), pan horizontal (scroll horizontal ou arrasto), navegação vertical entre regiões (scroll)
 - Rows colapsíveis por região: Europa, Oriente Médio, Ásia Oriental, Américas, África, etc.
-- Filtro por era (5 períodos) e tipo de evento (9 categorias)
+- Filtro semântico por era (5 períodos), tipo de evento (11 categorias) e região
 - Busca em tempo real com contagem de resultados
-- Painel lateral de detalhes ao clicar em um evento
-- Botão ⊟/⊞ para colapsar/expandir todas as regiões de uma vez
+- Painel lateral de detalhes ao clicar num evento
+- Botão ⊟/⊞ para colapsar/expandir todas as regiões
 - Botão `✕ limpar` para resetar todos os filtros
 
 ### Grafo de Conhecimento
@@ -39,10 +53,22 @@ O projeto cobre a história mundial desde os primeiros hominídeos (~3,3 milhõe
 - **Busca global** — pesquisa em nome, descrição, importância e tags de todas as entidades carregadas
 - **Comparação** — modo lado-a-lado de dois eventos históricos
 - **Cadeia causal** — percorre relações de causalidade/evolução em 2 níveis a partir de qualquer nó
-- **Perguntas geradoras** — 20 questões históricas curadas que selecionam e renderizam datasets automaticamente
+- **Cadeia de consequências** — encadeamento prospectivo a partir de um evento
+- **Perguntas Geradoras** — 248 questões históricas em 58 grupos que selecionam e renderizam datasets automaticamente
+- **Modo Guiado** — narrativa estruturada com foco num nó, altura dinâmica e abertura automática de painéis
+
+### Personalidades
+- 236 figuras históricas em 18 coleções temáticas/regionais
+- Painel dedicado com nascimento, morte, área, cargo e ligações a eventos
+- Filtro por época, região e área de atuação
 
 ### Interface
 - Trilíngue: Português / English / Español (troca instantânea)
+- **Página de Fontes** — bibliografia por tema (38 temas, ≈500 obras) com filtro por tipo e busca por autor/obra
+- **Guia do Professor** — filosofia pedagógica, 6 atividades prontas organizadas por nível de ensino, critérios de classificação histórica e limitações da ferramenta
+- **Sobre** — apresentação do projeto, métricas e filosofia
+- **Ajuda** — guia de navegação, atalhos, FAQ e instruções de uso offline
+- Acesso pelas páginas: `fontes.html`, `guia-professor.html`, `sobre.html`, `ajuda.html`
 - PWA: instalável em Android e iOS, funciona offline
 - Responsivo: desktop, tablet e mobile landscape
 - Paleta de pigmentos históricos: lápis-lazúli, cinábrio, ocre, malaquita, púrpura imperial
@@ -50,8 +76,6 @@ O projeto cobre a história mundial desde os primeiros hominídeos (~3,3 milhõe
 ---
 
 ## Conteúdo
-
-**Total atual:** ~225 datasets · ~1.450 entidades (v7.20)
 
 ### Brasil — 16 Períodos Cronológicos + Temáticos
 
@@ -74,35 +98,46 @@ O projeto cobre a história mundial desde os primeiros hominídeos (~3,3 milhõe
 | 15 | Ditadura Militar (1964–1985) | AI-5, milagre econômico, Araguaia, abertura |
 | 16 | Nova República (1985–presente) | Collor, Plano Real, Lula, Dilma, Bolsonaro |
 
-**Temáticos transversais:** quilombos, povos indígenas, escravidão colonial, missões jesuíticas, guerra do Paraguai, inconfidência, independência, cultura-arte, economia-social
+**Temáticos transversais:** quilombos, povos indígenas, escravidão colonial, missões jesuíticas, guerra do Paraguai, inconfidência, independência, ciclos econômicos, cultura-arte, economia-social, redemocratização
+
+### Europa — Cobertura Expandida (v7.30)
+
+| Período | Datasets |
+|---|---|
+| **Grécia** | Helenismo, reinos sucessores, Alexandria, ciência, estoicismo/epicurismo |
+| **Roma** | Imperadores (Augusto → Antoninos), Crise do III Século, Queda do Ocidente, Direito Romano |
+| **Medieval** | Vikings, Carlomagno/Carolíngios, Peste Negra, Guerra dos Cem Anos, Humanismo |
+| **Reforma** | Calvino/Zuínglio, Contrarreforma (Trento/Jesuítas), Guerras de Religião (1524–1648) |
+| **Era Moderna** | Habsburgos, Luís XIV/Ancien Régime, Revolução Inglesa, Holanda Século de Ouro, Guerra dos 30 Anos/Vestfália, Rivalidade Áustria-Prússia |
+| **Iluminismo** | Francês (Voltaire/Rousseau/Montesquieu), Britânico (Locke/Hume/Smith), Alemão (Kant/Goethe/Schiller) |
+| **Século XIX** | Napoleão, Congresso de Viena, Revoluções de 1848, Unificações italiana e alemã, Belle Époque, Impérios britânico e francês, Industrialização |
+| **Guerras Mundiais** | Frente Ocidental 1914–18, Versalhes, República de Weimar, Nazismo, Fascismo italiano, Guerra Civil Espanhola, Frente Oriental, Holocausto |
+| **Pós-Guerra** | Plano Marshall, Wirtschaftswunder, Nuremberg, União Europeia (CECA → Next Gen), Guerra Fria na Europa, 1968 |
+| **Contemporâneo** | Desintegração da URSS/1989, Guerras dos Bálcãs, Europa contemporânea (Brexit, populismo) |
+| **Rússia** | Império Russo (Pedro I → Nicolau II) |
 
 ### Cobertura Mundial
 
 | Região | Destaques |
 |---|---|
-| **Pré-história** | Paleolítico, Neolítico, pré-história europeia e americana |
-| **Oriente Médio** | Suméria, Mesopotâmia, Babilônia, Pérsia/Aquemênidas, Fenícios, Cartago, Hitititas, Bronze Egeu |
-| **Egito** | Antigo, Médio e Novo Reino, período Tardio |
-| **Grécia** | Atenas, Esparta, guerras, filosofia, cultura, Alexandre, helenismo e ciência |
-| **Roma** | República, Imperial, exército, sociedade, cultura, queda |
-| **Islã** | Origens, expansão, fragmentação, Al-Andalus |
-| **Idade Média** | Feudalismo, cruzadas, carolíngios, castelos, cidades e universidades |
-| **Índia** | Védica/Maurya, medieval-moderna |
-| **China** | Neolítico, Shang-Zhou, Song, Ming, Qing, revolução |
-| **Japão** | Arcaico, antigo, Sengoku, Meiji, moderno |
+| **Pré-história** | Evolução humana (~3,3Ma), Paleolítico, Neolítico, pré-história europeia e americana |
+| **Oriente Médio** | Suméria, Mesopotâmia, Babilônia, Pérsia, Fenícios, Cartago, Hitititas, Bronze Egeu |
+| **Egito** | Antigo, Médio e Novo Reino, período Tardio, Greco-Romano |
+| **Grécia** | Arcaica, Atenas, Esparta, guerras, filosofia, cultura, Alexandre, Helenismo |
+| **Roma** | República, Imperial, exército, sociedade, cultura, queda, Direito Romano |
+| **Islã** | Fundação e Califas, expansão, fragmentação, Al-Andalus |
+| **Idade Média** | Feudalismo, Cruzadas, Carolíngios, castelos, cidades e universidades |
+| **Índia** | Védica/Maurya, Mogol, medieval-moderna, britânica |
+| **China** | Neolítico, Shang-Zhou, Song, Ming, Qing, Revolução, Mao |
+| **Japão** | Arcaico/Jomon, antigo, feudal/Sengoku, Meiji, moderno |
 | **Coreia** | Antiga, Joseon, moderna |
 | **Sudeste Asiático** | Continental e marítimo |
 | **África** | Norte, oriental, ocidental, centro-sul, reinos africanos, descolonização |
 | **Mesoamérica** | Olmecas, Teotihuacan, Maias, Astecas, Zapotecas, Toltecas |
-| **Andes** | Caral, Wari, Chimu, culturas andinas |
-| **Américas Sul** | Mapuches, Tupis-Guaranis Amazônia |
-| **EUA** | Colônias, fundação, expansão, guerra civil, sécs. XIX-XX, contemporâneo |
-| **América Latina** | Séc. XX, independências |
-| **Europa Moderna** | Renascimento (norte e sul), absolutismo, Reforma, Revoluções liberais, Iluminismo |
-| **Filosofia** | Antiga, medieval, racionalismo, moderna |
-| **Igreja** | Fundação, concílios, inquisição, Reforma, Igreja e ciência, Igreja e escravidão |
+| **Andes** | Caral, Wari, Chimú, culturas andinas, Incas |
+| **EUA** | Colônias, fundação, expansão, guerra civil, sécs. XIX–XX, Guerra Fria |
+| **América Latina** | Independências, séc. XX, descolonização |
 | **Antártida** | Descoberta e exploração moderna |
-| **Personalidades** | ~194 figuras históricas por região/período, incluindo 13 bíblicas com rigor historiográfico |
 
 ---
 
@@ -110,39 +145,61 @@ O projeto cobre a história mundial desde os primeiros hominídeos (~3,3 milhõe
 
 ```
 herodoto/
-├── index.html              # Entrada principal
-├── manifest.json           # PWA manifest
+├── index.html                        # Entrada principal
+├── fontes.html                       # Bibliografia histórica (38 temas, ≈500 obras)
+├── guia-professor.html               # Guia pedagógico com 6 atividades
+├── sobre.html                        # Apresentação do projeto
+├── ajuda.html                        # Guia de navegação e FAQ
+├── manifest.json                     # PWA manifest
+├── sw.js                             # Service Worker (offline)
+├── CHANGELOG.md                      # Histórico de versões
 ├── css/
-│   ├── base.css            # Layout, variáveis de cor, tipografia
-│   └── components.css      # Componentes: toolbar, painéis, timeline
+│   ├── base.css                      # Layout, variáveis de cor, tipografia
+│   └── components.css                # Componentes: toolbar, painéis, timeline
 ├── js/
-│   ├── main.js             # Inicialização e orquestração
-│   ├── graph.js            # Motor D3.js force-directed
-│   ├── timeline.js         # Linha do tempo SVG interativa
-│   ├── data.js             # Carregamento e normalização de dados
-│   ├── filtros.js          # Lógica de filtros e paleta de cores
-│   ├── search.js           # Busca textual global
-│   ├── compare.js          # Modo comparação de eventos
-│   ├── questions.js        # 20 perguntas geradoras
-│   ├── causal-chain.js     # Cadeia de causas
-│   ├── consequence-chain.js# Cadeia de consequências
-│   ├── context-panel.js    # Painel lateral de contexto
-│   ├── legend-filter.js    # Legenda interativa de tipos
-│   ├── guided-mode.js      # Modo guiado com narrativas
-│   ├── dataset-labels.js   # Rótulos trilingues dos datasets
-│   ├── i18n.js             # Internacionalização PT/EN/ES
-│   └── utils.js            # Utilitários
-└── data/
-    ├── dados-brasil-01-povos-originarios.json
-    ├── dados-brasil-02-pre-colonial.json
-    ├── ... (225+ arquivos JSON)
-    └── dados-personagens-*.json
+│   ├── main.js                       # Inicialização e orquestração
+│   ├── graph.js                      # Motor D3.js force-directed
+│   ├── timeline.js                   # Linha do tempo SVG + ALL_DATASETS (303 entradas)
+│   ├── data.js                       # Carregamento e normalização de dados
+│   ├── filtros.js                    # Lógica de filtros semânticos
+│   ├── search.js                     # Busca textual global
+│   ├── compare.js                    # Modo comparação de eventos
+│   ├── questions.js                  # 248 perguntas em 58 grupos
+│   ├── causal-chain.js               # Cadeia de causas
+│   ├── consequence-chain.js          # Cadeia de consequências
+│   ├── context-panel.js              # Painel lateral de contexto
+│   ├── context.js                    # Contexto global da aplicação
+│   ├── legend-filter.js              # Legenda interativa de tipos
+│   ├── guided-mode.js                # Modo guiado com narrativas
+│   ├── personagens.js                # Módulo de personalidades
+│   ├── geo-layer.js                  # Camada geográfica
+│   ├── dataset-labels.js             # 306 rótulos trilingues
+│   ├── i18n.js                       # Internacionalização PT/EN/ES
+│   └── utils.js                      # Utilitários
+├── data/
+│   ├── dados-brasil-01-povos-originarios.json
+│   ├── ...                           # 303 arquivos JSON no total (≥8 entidades cada)
+│   └── dados-personagens-*.json      # 18 coleções de personalidades
+├── fontes/
+│   ├── fontes-pre-historia.json
+│   ├── fontes-mesopotamia-oriente-antigo.json
+│   ├── ...                           # 38 arquivos JSON de bibliografia
+│   └── fontes-historiografia.json    # Teoria e metodologia histórica
+└── tests/
+    ├── runner.js                     # Runner CLI (node tests/runner.js)
+    ├── assert.js                     # Biblioteca de asserções zero-dependência
+    ├── test-data-integrity.js        # Valida todos os 303 JSONs
+    ├── test-dataset-registry.js      # Verifica ALL_DATASETS e labels
+    ├── test-historical-consistency.js # Datas, bias, cobertura regional
+    ├── test-personagens.js           # Valida 18 coleções de personalidades
+    └── test-questions.js             # Valida 248 perguntas geradoras
 ```
 
 ---
 
 ## Estrutura de Entidade (JSON)
 
+### Entidade histórica
 ```json
 {
   "id": "br15-001",
@@ -151,30 +208,74 @@ herodoto/
   "nome_es": "El Golpe de 1964",
   "inicio": 1964,
   "fim": 1964,
-  "tipo": "evento",
-  "region": "Americas",
-  "period": "20th Century",
   "type": "political",
-  "tags": ["golpe", "militares", "Goulart", "1964", "debate-histórico"],
+  "region": "Americas",
+  "tags": ["golpe", "militares", "Goulart", "1964"],
   "descricao": "...",
   "descricao_en": "...",
   "descricao_es": "...",
   "importancia": "...",
   "importancia_en": "...",
-  "importancia_es": "...",
-  "century_start": 19,
-  "century_end": 20
+  "importancia_es": "..."
 }
 ```
+
+### Personalidade
+```json
+{
+  "id": "pg-001",
+  "nome": "Sócrates",
+  "nascimento": -470,
+  "morte": -399,
+  "regiao": "Europe",
+  "area": ["filosofia"],
+  "cargo": "Filósofo",
+  "descricao": "...",
+  "importancia": "...",
+  "eventos": ["grecia-012", "grecia-003"]
+}
+```
+
+**Tipos válidos:** `political` · `war` · `economic` · `cultural` · `religious` · `social` · `technological` · `intellectual` · `prehistoric` · `natural` · `scientific`
+
+**Regiões válidas:** `Europe` · `MiddleEast` · `Mediterranean` · `EastAsia` · `Asia` · `CentralAsia` · `SouthAsia` · `SoutheastAsia` · `Africa` · `Americas` · `NorthAmerica` · `SouthAmerica` · `Mesoamerica` · `Oceania` · `Antarctica` · `Global` · `Multiple` · `Other`
+
+---
+
+## Testes Automatizados
+
+```bash
+# Rodar tudo
+node tests/runner.js
+
+# Filtrar por arquivo
+node tests/runner.js data         # test-data-integrity
+node tests/runner.js personagens  # test-personagens
+node tests/runner.js registry     # test-dataset-registry
+node tests/runner.js questions    # test-questions
+node tests/runner.js historical   # test-historical-consistency
+
+# Listar arquivos disponíveis
+node tests/runner.js --list
+```
+
+| Arquivo de teste | O que valida |
+|---|---|
+| `test-data-integrity.js` | JSON válido, campos obrigatórios, inicio ≤ fim, IDs únicos globais, tipos/regiões válidos |
+| `test-dataset-registry.js` | ALL_DATASETS sem duplicados/órfãos, labels PT/EN/ES completos |
+| `test-historical-consistency.js` | Série Brasil cronológica, âncoras de data, auditoria de bias, cobertura regional mínima |
+| `test-personagens.js` | 18 coleções, campos obrigatórios, unicidade de ID e nome, nascimento < morte |
+| `test-questions.js` | 248 questões, IDs únicos, todos datasets existem no disco, multilíngue |
 
 ---
 
 ## Princípios Editoriais
 
-- **Equilíbrio**: eventos controversos apresentam múltiplas perspectivas historiográficas sem tomar partido
-- **Rigor**: distinção explícita entre evidência histórica, debate acadêmico e consenso corrente
-- **Acessibilidade pedagógica**: cada entidade tem descrição factual e análise de importância histórica
-- **Trilingismo**: todo conteúdo disponível em PT, EN e ES
+- **Equilíbrio** — eventos controversos apresentam múltiplas perspectivas sem tomar partido
+- **Rigor** — distinção explícita entre evidência histórica, debate acadêmico e consenso corrente
+- **Classificação historiográfica** — tipos de evento refletem a natureza histórica primária (ex: Nazismo → `social`; bomba atômica → `technological`)
+- **Acessibilidade pedagógica** — cada entidade tem descrição factual e análise de importância histórica
+- **Trilingismo** — todo conteúdo disponível em PT, EN e ES
 
 ---
 
@@ -186,6 +287,7 @@ herodoto/
 4. Clicar em qualquer evento para ver descrição completa e importância historiográfica
 5. Usar **Comparação** para contrastar dois eventos ou períodos
 6. Usar **Cadeia Causal** para explorar causas e consequências de um evento
+7. Usar o **Modo Guiado** para percorrer uma narrativa estruturada
 
 ---
 
@@ -196,3 +298,4 @@ herodoto/
 - JavaScript ES6+ puro, sem frameworks
 - CSS custom properties para tema consistente
 - Service Worker para funcionamento offline (PWA)
+- Node.js (apenas para testes — sem dependências de produção)

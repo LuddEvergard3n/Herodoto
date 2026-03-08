@@ -169,6 +169,62 @@
         "Iluminismo"
       ],
       "dataset": "data/dados-absolutismo.json"
+    },
+    {
+      "id": "abs1",
+      "nome": "Luís XIV: O Rei Sol",
+      "nome_en": "Luís XIV: O Rei Sol",
+      "nome_es": "Luís XIV: O Rei Sol",
+      "tipo": "pessoa",
+      "inicio": 1638,
+      "fim": 1715,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 17,
+      "type": "political",
+      "descricao": "Luís XIV (r. 1643-1715) personificou o absolutismo: Versalhes (1682, 2.000 cortesãos), revogação do Édito de Nantes (1685, expulsão dos huguenotes), guerras constantes. O Estado sou eu.",
+      "descricao_en": "Luís XIV (r. 1643-1715) personificou o absolutismo: Versalhes (1682, 2.000 cortesãos), revogação do Édito de Nantes (1685, expulsão dos huguenotes), guerras constantes. O Estado sou eu.",
+      "descricao_es": "Luís XIV (r. 1643-1715) personificou o absolutismo: Versalhes (1682, 2.000 cortesãos), revogação do Édito de Nantes (1685, expulsão dos huguenotes), guerras constantes. O Estado sou eu.",
+      "importancia": "Luís XIV é o modelo do absolutismo europeu: o Estado como extensão da vontade pessoal do soberano. Versalhes foi criado para domesticar a nobreza - torná-la decorativa em vez de perigosa.",
+      "importancia_en": "Luís XIV é o modelo do absolutismo europeu: o Estado como extensão da vontade pessoal do soberano. Versalhes foi criado para domesticar a nobreza - torná-la decorativa em vez de perigosa.",
+      "importancia_es": "Luís XIV é o modelo do absolutismo europeu: o Estado como extensão da vontade pessoal do soberano. Versalhes foi criado para domesticar a nobreza - torná-la decorativa em vez de perigosa.",
+      "tags": [
+        "Luís XIV",
+        "Versalhes",
+        "absolutismo",
+        "huguenotes",
+        "1685",
+        "Estado sou eu"
+      ],
+      "dataset": "data/dados-absolutismo.json"
+    },
+    {
+      "id": "abs2",
+      "nome": "O Czarismo Russo: Pedro e Catarina",
+      "nome_en": "O Czarismo Russo: Pedro e Catarina",
+      "nome_es": "O Czarismo Russo: Pedro e Catarina",
+      "tipo": "periodo",
+      "inicio": 1682,
+      "fim": 1796,
+      "region": "Europe",
+      "period": "Modern",
+      "century_start": 17,
+      "type": "political",
+      "descricao": "Pedro I e Catarina II criaram o absolutismo mais extenso da história: o czar controlava nobreza, Igreja e burocracia. A servidão foi reforçada (não abolida) até 1861. O absolutismo russo combinou modernização técnica com controle político total.",
+      "descricao_en": "Pedro I e Catarina II criaram o absolutismo mais extenso da história: o czar controlava nobreza, Igreja e burocracia. A servidão foi reforçada (não abolida) até 1861. O absolutismo russo combinou modernização técnica com controle político total.",
+      "descricao_es": "Pedro I e Catarina II criaram o absolutismo mais extenso da história: o czar controlava nobreza, Igreja e burocracia. A servidão foi reforçada (não abolida) até 1861. O absolutismo russo combinou modernização técnica com controle político total.",
+      "importancia": "O absolutismo russo é o mais duradouro da história europeia - durando essencialmente de Ivan, o Terrível (1547) até 1917, com 370 anos de autocracia czarista.",
+      "importancia_en": "O absolutismo russo é o mais duradouro da história europeia - durando essencialmente de Ivan, o Terrível (1547) até 1917, com 370 anos de autocracia czarista.",
+      "importancia_es": "O absolutismo russo é o mais duradouro da história europeia - durando essencialmente de Ivan, o Terrível (1547) até 1917, com 370 anos de autocracia czarista.",
+      "tags": [
+        "czarismo",
+        "Pedro I",
+        "Catarina II",
+        "servidão",
+        "autocracia",
+        "1861"
+      ],
+      "dataset": "data/dados-absolutismo.json"
     }
   ],
   "relacoes": [

@@ -155,6 +155,62 @@
       "period": "Ancient",
       "importancia_en": "Third War (149-146 BC): 'Carthage must be destroyed' (Cato). Carthage razed, land salted (myth).",
       "importancia_es": "Escipión Africano venció en Zama (202 a.C.). Tercera Guerra: 'Cartago debe ser destruida' (Catón)."
+    },
+    {
+      "id": "cm1",
+      "nome": "Fenícios: Os Comerciantes do Mediterrâneo",
+      "nome_en": "Fenícios: Os Comerciantes do Mediterrâneo",
+      "nome_es": "Fenícios: Os Comerciantes do Mediterrâneo",
+      "tipo": "periodo",
+      "inicio": -1200,
+      "fim": -146,
+      "region": "Middle East",
+      "period": "Ancient",
+      "century_start": 13,
+      "type": "economic",
+      "descricao": "Os fenícios criaram o alfabeto (22 letras, c. 1050 a.C.) - o fundamento de todos os alfabetos ocidentais. Fundaram Cartago (814 a.C.) e espalharam-se por todo o Mediterrâneo.",
+      "descricao_en": "Os fenícios criaram o alfabeto (22 letras, c. 1050 a.C.) - o fundamento de todos os alfabetos ocidentais. Fundaram Cartago (814 a.C.) e espalharam-se por todo o Mediterrâneo.",
+      "descricao_es": "Os fenícios criaram o alfabeto (22 letras, c. 1050 a.C.) - o fundamento de todos os alfabetos ocidentais. Fundaram Cartago (814 a.C.) e espalharam-se por todo o Mediterrâneo.",
+      "importancia": "Os fenícios criaram o maior presente da história da comunicação: o alfabeto. Todos os alfabetos ocidentais derivam do fenício.",
+      "importancia_en": "Os fenícios criaram o maior presente da história da comunicação: o alfabeto. Todos os alfabetos ocidentais derivam do fenício.",
+      "importancia_es": "Os fenícios criaram o maior presente da história da comunicação: o alfabeto. Todos os alfabetos ocidentais derivam do fenício.",
+      "tags": [
+        "fenícios",
+        "alfabeto",
+        "1050 a.C.",
+        "Cartago",
+        "púrpura",
+        "Mediterrâneo"
+      ],
+      "dataset": "data/dados-civilizacoes-mediterraneo.json"
+    },
+    {
+      "id": "cm2",
+      "nome": "Alexandre Magno e o Mundo Helenístico",
+      "nome_en": "Alexandre Magno e o Mundo Helenístico",
+      "nome_es": "Alexandre Magno e o Mundo Helenístico",
+      "tipo": "pessoa",
+      "inicio": -356,
+      "fim": -323,
+      "region": "Europe",
+      "period": "Ancient",
+      "century_start": 4,
+      "type": "political",
+      "descricao": "Alexandre (356-323 a.C.) conquistou da Grécia ao Punjab em 13 anos, sem nenhuma derrota em batalha. O grego koiné tornou-se língua franca por 500 anos - é a língua do Novo Testamento.",
+      "descricao_en": "Alexandre (356-323 a.C.) conquistou da Grécia ao Punjab em 13 anos, sem nenhuma derrota em batalha. O grego koiné tornou-se língua franca por 500 anos - é a língua do Novo Testamento.",
+      "descricao_es": "Alexandre (356-323 a.C.) conquistou da Grécia ao Punjab em 13 anos, sem nenhuma derrota em batalha. O grego koiné tornou-se língua franca por 500 anos - é a língua do Novo Testamento.",
+      "importancia": "Alexandre criou o maior experimento de globalização da Antiguidade. Que o Novo Testamento seja em grego koiné é o legado indireto de Alexandre.",
+      "importancia_en": "Alexandre criou o maior experimento de globalização da Antiguidade. Que o Novo Testamento seja em grego koiné é o legado indireto de Alexandre.",
+      "importancia_es": "Alexandre criou o maior experimento de globalização da Antiguidade. Que o Novo Testamento seja em grego koiné é o legado indireto de Alexandre.",
+      "tags": [
+        "Alexandre",
+        "323 a.C.",
+        "conquistas",
+        "koiné",
+        "Alexandria",
+        "helenismo"
+      ],
+      "dataset": "data/dados-civilizacoes-mediterraneo.json"
     }
   ],
   "relacoes": [

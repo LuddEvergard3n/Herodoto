@@ -173,6 +173,62 @@
         "queda"
       ],
       "dataset": "data/dados-astecas-expandido.json"
+    },
+    {
+      "id": "axe1",
+      "nome": "O Mercado de Tlatelolco: Economia Asteca",
+      "nome_en": "O Mercado de Tlatelolco: Economia Asteca",
+      "nome_es": "O Mercado de Tlatelolco: Economia Asteca",
+      "tipo": "cultural",
+      "inicio": 1300,
+      "fim": 1521,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 14,
+      "type": "economic",
+      "descricao": "O mercado de Tlatelolco impressionou os espanhóis: 60.000 pessoas diariamente, especialização total (cada produto em seção separada), sistema de pesos e medidas padronizados, juízes de mercado. Cortés disse ser maior que qualquer mercado europeu.",
+      "descricao_en": "O mercado de Tlatelolco impressionou os espanhóis: 60.000 pessoas diariamente, especialização total (cada produto em seção separada), sistema de pesos e medidas padronizados, juízes de mercado. Cortés disse ser maior que qualquer mercado europeu.",
+      "descricao_es": "O mercado de Tlatelolco impressionou os espanhóis: 60.000 pessoas diariamente, especialização total (cada produto em seção separada), sistema de pesos e medidas padronizados, juízes de mercado. Cortés disse ser maior que qualquer mercado europeu.",
+      "importancia": "Tlatelolco demonstra que a economia de mercado não é invenção europeia: os astecas tinham sistema de preços, especialização produtiva e resolução de disputas comerciais tão sofisticado quanto qualquer mercado medieval europeu.",
+      "importancia_en": "Tlatelolco demonstra que a economia de mercado não é invenção europeia: os astecas tinham sistema de preços, especialização produtiva e resolução de disputas comerciais tão sofisticado quanto qualquer mercado medieval europeu.",
+      "importancia_es": "Tlatelolco demonstra que a economia de mercado não é invenção europeia: os astecas tinham sistema de preços, especialização produtiva e resolução de disputas comerciais tão sofisticado quanto qualquer mercado medieval europeu.",
+      "tags": [
+        "Tlatelolco",
+        "mercado",
+        "60.000",
+        "Cortés",
+        "economia",
+        "pesos"
+      ],
+      "dataset": "data/dados-astecas-expandido.json"
+    },
+    {
+      "id": "axe2",
+      "nome": "A Resistência: Cuauhtémoc e a Memória",
+      "nome_en": "A Resistência: Cuauhtémoc e a Memória",
+      "nome_es": "A Resistência: Cuauhtémoc e a Memória",
+      "tipo": "pessoa",
+      "inicio": 1495,
+      "fim": 1525,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 16,
+      "type": "war",
+      "descricao": "Cuauhtémoc (1495-1525) foi o último tlatoani asteca: resistiu até o fim (agosto 1521), foi capturado, torturado (seus pés foram queimados) para revelar o ouro escondido, e executado por Cortés em 1525. Tornou-se símbolo da resistência indígena. Há estátua sua na Cidade do México; de Cortés, não.",
+      "descricao_en": "Cuauhtémoc (1495-1525) foi o último tlatoani asteca: resistiu até o fim (agosto 1521), foi capturado, torturado (seus pés foram queimados) para revelar o ouro escondido, e executado por Cortés em 1525. Tornou-se símbolo da resistência indígena. Há estátua sua na Cidade do México; de Cortés, não.",
+      "descricao_es": "Cuauhtémoc (1495-1525) foi o último tlatoani asteca: resistiu até o fim (agosto 1521), foi capturado, torturado (seus pés foram queimados) para revelar o ouro escondido, e executado por Cortés em 1525. Tornou-se símbolo da resistência indígena. Há estátua sua na Cidade do México; de Cortés, não.",
+      "importancia": "Cuauhtémoc é o herói nacional do México moderno - enquanto Cortés é apenas um conquis",
+      "importancia_en": "Cuauhtémoc é o herói nacional do México moderno - enquanto Cortés é apenas um conquis",
+      "importancia_es": "Cuauhtémoc é o herói nacional do México moderno - enquanto Cortés é apenas um conquis",
+      "tags": [
+        "Cuauhtémoc",
+        "1521",
+        "tortura",
+        "resistência",
+        "memória",
+        "México"
+      ],
+      "dataset": "data/dados-astecas-expandido.json"
     }
   ],
   "relacoes": [

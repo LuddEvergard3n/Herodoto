@@ -1,0 +1,137 @@
+{
+  "tema": "Oriente Médio Moderno",
+  "descricao": "Declínio otomano, mandatos coloniais, criação de Israel, conflito árabe-israelense, Irã, Arábia Saudita, Iraque, guerra ao terror",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Theodor Herzl",
+        "obra": "Der Judenstaat (O Estado Judeu)",
+        "ano": "1896"
+      },
+      {
+        "autor": "Declaração Balfour",
+        "obra": "Carta de Balfour ao Lorde Rothschild",
+        "ano": "1917"
+      },
+      {
+        "autor": "Declaração de Independência de Israel",
+        "obra": "Megillat HaAtzmaut",
+        "ano": "1948"
+      },
+      {
+        "autor": "Gamal Abdel Nasser",
+        "obra": "Discursos sobre a nacionalização do Canal de Suez",
+        "ano": "1956"
+      },
+      {
+        "autor": "Ruhollah Khomeini",
+        "obra": "Velayat-e Faqih (Governo Islâmico)",
+        "ano": "1970"
+      },
+      {
+        "autor": "Anwar Sadat",
+        "obra": "Discurso na Knesset (Parlamento israelense)",
+        "ano": "1977"
+      },
+      {
+        "autor": "Osama Bin Laden",
+        "obra": "Declaração de Guerra contra os Americanos",
+        "ano": "1996",
+        "nota": "Fonte primária crítica"
+      },
+      {
+        "autor": "ONU — Resolução 242",
+        "obra": "Resolução do Conselho de Segurança sobre os Territórios Ocupados",
+        "ano": "1967"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "William L. Cleveland",
+        "obra": "A History of the Modern Middle East",
+        "ano": "1994",
+        "editora": "Westview Press"
+      },
+      {
+        "autor": "Albert Hourani",
+        "obra": "A History of the Arab Peoples",
+        "ano": "1991",
+        "editora": "Harvard University Press"
+      },
+      {
+        "autor": "Benny Morris",
+        "obra": "Righteous Victims: A History of the Zionist-Arab Conflict",
+        "ano": "1999",
+        "editora": "Knopf"
+      },
+      {
+        "autor": "Avi Shlaim",
+        "obra": "The Iron Wall: Israel and the Arab World",
+        "ano": "2000",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "James L. Gelvin",
+        "obra": "The Israel-Palestine Conflict: One Hundred Years of War",
+        "ano": "2005",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Ray Takeyh",
+        "obra": "Hidden Iran: Paradox and Power in the Islamic Republic",
+        "ano": "2006",
+        "editora": "Times Books"
+      },
+      {
+        "autor": "Sandra Mackey",
+        "obra": "The Reckoning: Iraq and the Legacy of Saddam Hussein",
+        "ano": "2002",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "Ahmed Rashid",
+        "obra": "Taliban: Militant Islam, Oil and Fundamentalism in Central Asia",
+        "ano": "2000",
+        "editora": "Yale University Press"
+      },
+      {
+        "autor": "Fouad Ajami",
+        "obra": "The Arab Predicament",
+        "ano": "1981",
+        "editora": "Cambridge University Press"
+      },
+      {
+        "autor": "Roger Owen",
+        "obra": "State, Power and Politics in the Making of the Modern Middle East",
+        "ano": "1992",
+        "editora": "Routledge"
+      },
+      {
+        "autor": "Michael B. Oren",
+        "obra": "Six Days of War: June 1967 and the Making of the Modern Middle East",
+        "ano": "2002",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Gilles Kepel",
+        "obra": "The War for Muslim Minds: Islam and the West",
+        "ano": "2004",
+        "editora": "Harvard University Press"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Lawrence Wright",
+        "obra": "The Looming Tower: Al-Qaeda and the Road to 9/11",
+        "ano": "2006",
+        "editora": "Knopf"
+      },
+      {
+        "autor": "Thomas L. Friedman",
+        "obra": "From Beirut to Jerusalem",
+        "ano": "1989",
+        "editora": "Farrar, Straus & Giroux"
+      }
+    ]
+  }
+}

@@ -162,6 +162,62 @@
       "importancia_es": "Bonifácio é o fundador do projeto nacional brasileiro mais ambicioso: independência + abolição + integração indígena + modernização. Mas seu projeto foi derrotado: a independência veio sem abolição, sem reforma agrária e sem integração. O Brasil que surgiu em 1822 era muito mais conservador do que Bonifácio queria.",
       "century_start": 17,
       "century_end": 19
+    },
+    {
+      "id": "bi1",
+      "nome": "José Bonifácio e a Independência",
+      "nome_en": "José Bonifácio e a Independência",
+      "nome_es": "José Bonifácio e a Independência",
+      "tipo": "pessoa",
+      "inicio": 1763,
+      "fim": 1838,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "José Bonifácio de Andrada e Silva foi o maior estadista brasileiro do século XIX: mineralogista europeu, mentor de Pedro I, autor da Constituinte de 1823. Defendeu a abolição da escravidão em 1823 - 65 anos antes de acontecer.",
+      "descricao_en": "José Bonifácio de Andrada e Silva foi o maior estadista brasileiro do século XIX: mineralogista europeu, mentor de Pedro I, autor da Constituinte de 1823. Defendeu a abolição da escravidão em 1823 - 65 anos antes de acontecer.",
+      "descricao_es": "José Bonifácio de Andrada e Silva foi o maior estadista brasileiro do século XIX: mineralogista europeu, mentor de Pedro I, autor da Constituinte de 1823. Defendeu a abolição da escravidão em 1823 - 65 anos antes de acontecer.",
+      "importancia": "José Bonifácio foi o homem mais notável do Brasil imperial. Que Pedro I o exilasse revela a ambivalência do projeto independentista: a independência conservadora excluía os reformadores radicais.",
+      "importancia_en": "José Bonifácio foi o homem mais notável do Brasil imperial. Que Pedro I o exilasse revela a ambivalência do projeto independentista: a independência conservadora excluía os reformadores radicais.",
+      "importancia_es": "José Bonifácio foi o homem mais notável do Brasil imperial. Que Pedro I o exilasse revela a ambivalência do projeto independentista: a independência conservadora excluía os reformadores radicais.",
+      "tags": [
+        "José Bonifácio",
+        "1763",
+        "Constituinte",
+        "abolição",
+        "exílio",
+        "Pedro I"
+      ],
+      "dataset": "data/dados-brasil-09-independencia.json"
+    },
+    {
+      "id": "bi2",
+      "nome": "A Constituição de 1824 e o Poder Moderador",
+      "nome_en": "A Constituição de 1824 e o Poder Moderador",
+      "nome_es": "A Constituição de 1824 e o Poder Moderador",
+      "tipo": "evento",
+      "inicio": 1824,
+      "fim": 1824,
+      "region": "Americas",
+      "period": "Modern",
+      "century_start": 19,
+      "type": "political",
+      "descricao": "A Constituição de 1824 criou o Poder Moderador - quarto poder exclusivo do Imperador. Permitiu que Pedro I e Pedro II dissolvessem o Parlamento. Era uma monarquia constitucional com freio de emergência na mão do monarca.",
+      "descricao_en": "A Constituição de 1824 criou o Poder Moderador - quarto poder exclusivo do Imperador. Permitiu que Pedro I e Pedro II dissolvessem o Parlamento. Era uma monarquia constitucional com freio de emergência na mão do monarca.",
+      "descricao_es": "A Constituição de 1824 criou o Poder Moderador - quarto poder exclusivo do Imperador. Permitiu que Pedro I e Pedro II dissolvessem o Parlamento. Era uma monarquia constitucional com freio de emergência na mão do monarca.",
+      "importancia": "O Poder Moderador é a maior inovação constitucional brasileira e a mais autoritária. A Constituição durou 65 anos porque equilibrava liberalismo formal com controle imperial efetivo.",
+      "importancia_en": "O Poder Moderador é a maior inovação constitucional brasileira e a mais autoritária. A Constituição durou 65 anos porque equilibrava liberalismo formal com controle imperial efetivo.",
+      "importancia_es": "O Poder Moderador é a maior inovação constitucional brasileira e a mais autoritária. A Constituição durou 65 anos porque equilibrava liberalismo formal com controle imperial efetivo.",
+      "tags": [
+        "Constituição",
+        "1824",
+        "Poder Moderador",
+        "Parlamento",
+        "Pedro I",
+        "liberal"
+      ],
+      "dataset": "data/dados-brasil-09-independencia.json"
     }
   ]
 }

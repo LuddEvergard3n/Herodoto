@@ -155,6 +155,62 @@
       "period": "Medieval",
       "importancia_en": "Crisis accelerated transition from feudalism to monetary economy and centralized states. Consequence: Renaissance and Modernity.",
       "importancia_es": "Crisis aceleró transición del feudalismo a economía monetaria y Estados centralizados. Consecuencia: Renacimiento y Modernidad."
+    },
+    {
+      "id": "ime1",
+      "nome": "A Magna Carta (1215) e o Constitucionalismo",
+      "nome_en": "A Magna Carta (1215) e o Constitucionalismo",
+      "nome_es": "A Magna Carta (1215) e o Constitucionalismo",
+      "tipo": "evento",
+      "inicio": 1215,
+      "fim": 1215,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 13,
+      "type": "political",
+      "descricao": "A Magna Carta (15 junho 1215): João sem Terra cedeu à nobreza inglesa 63 cláusulas limitando o poder real: ninguém pode ser preso sem julgamento, o rei não pode taxar sem o conselho dos barões. A base do constitucionalismo moderno e do habeas corpus.",
+      "descricao_en": "A Magna Carta (15 junho 1215): João sem Terra cedeu à nobreza inglesa 63 cláusulas limitando o poder real: ninguém pode ser preso sem julgamento, o rei não pode taxar sem o conselho dos barões. A base do constitucionalismo moderno e do habeas corpus.",
+      "descricao_es": "A Magna Carta (15 junho 1215): João sem Terra cedeu à nobreza inglesa 63 cláusulas limitando o poder real: ninguém pode ser preso sem julgamento, o rei não pode taxar sem o conselho dos barões. A base do constitucionalismo moderno e do habeas corpus.",
+      "importancia": "A Magna Carta é o documento mais influente do constitucionalismo ocidental. Que 63 barões ingleses tenham obrigado seu rei a assinar limitações ao seu poder em 1215 é o primeiro ato de democracia representativa da história inglesa.",
+      "importancia_en": "A Magna Carta é o documento mais influente do constitucionalismo ocidental. Que 63 barões ingleses tenham obrigado seu rei a assinar limitações ao seu poder em 1215 é o primeiro ato de democracia representativa da história inglesa.",
+      "importancia_es": "A Magna Carta é o documento mais influente do constitucionalismo ocidental. Que 63 barões ingleses tenham obrigado seu rei a assinar limitações ao seu poder em 1215 é o primeiro ato de democracia representativa da história inglesa.",
+      "tags": [
+        "Magna Carta",
+        "1215",
+        "João sem Terra",
+        "habeas corpus",
+        "constitucionalismo",
+        "barões"
+      ],
+      "dataset": "data/dados-idade-media-europeia.json"
+    },
+    {
+      "id": "ime2",
+      "nome": "A Peste Negra e a Transformação Medieval",
+      "nome_en": "A Peste Negra e a Transformação Medieval",
+      "nome_es": "A Peste Negra e a Transformação Medieval",
+      "tipo": "evento",
+      "inicio": 1347,
+      "fim": 1353,
+      "region": "Europe",
+      "period": "Medieval",
+      "century_start": 14,
+      "type": "social",
+      "descricao": "A Peste Negra matou 25-50% da Europa em 3 anos (1347-1353). Os trabalhadores sobreviventes passaram a exigir salários maiores. O feudalismo começou a dissolver-se. A Igreja perdeu autoridade moral. Foi o maior acelerador de mudança da Europa medieval.",
+      "descricao_en": "A Peste Negra matou 25-50% da Europa em 3 anos (1347-1353). Os trabalhadores sobreviventes passaram a exigir salários maiores. O feudalismo começou a dissolver-se. A Igreja perdeu autoridade moral. Foi o maior acelerador de mudança da Europa medieval.",
+      "descricao_es": "A Peste Negra matou 25-50% da Europa em 3 anos (1347-1353). Os trabalhadores sobreviventes passaram a exigir salários maiores. O feudalismo começou a dissolver-se. A Igreja perdeu autoridade moral. Foi o maior acelerador de mudança da Europa medieval.",
+      "importancia": "A Peste foi inadvertidamente emancipatória: tantos trabalhadores morreram que os sobreviventes ganharam poder de barganha nunca antes tido. O feudalismo não sobreviveu à Peste.",
+      "importancia_en": "A Peste foi inadvertidamente emancipatória: tantos trabalhadores morreram que os sobreviventes ganharam poder de barganha nunca antes tido. O feudalismo não sobreviveu à Peste.",
+      "importancia_es": "A Peste foi inadvertidamente emancipatória: tantos trabalhadores morreram que os sobreviventes ganharam poder de barganha nunca antes tido. O feudalismo não sobreviveu à Peste.",
+      "tags": [
+        "Peste Negra",
+        "1347",
+        "feudalismo",
+        "salários",
+        "morte",
+        "Europa"
+      ],
+      "dataset": "data/dados-idade-media-europeia.json"
     }
   ],
   "relacoes": [

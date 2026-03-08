@@ -1,0 +1,137 @@
+{
+  "tema": "Estados Unidos da América",
+  "descricao": "Colonização, fundação, expansão, Guerra Civil, Gilded Age, New Deal, Guerra Fria, direitos civis, séc. XXI",
+  "fontes": {
+    "primarias": [
+      {
+        "autor": "Thomas Jefferson et al.",
+        "obra": "Declaração de Independência dos Estados Unidos",
+        "ano": "1776"
+      },
+      {
+        "autor": "James Madison et al.",
+        "obra": "Constituição dos Estados Unidos; Bill of Rights",
+        "ano": "1787–1791"
+      },
+      {
+        "autor": "Abraham Lincoln",
+        "obra": "Discurso de Gettysburg; Segundo Discurso Inaugural",
+        "ano": "1863–1865"
+      },
+      {
+        "autor": "Frederick Douglass",
+        "obra": "Narrative of the Life of Frederick Douglass",
+        "ano": "1845",
+        "nota": "Autobiografia de ex-escravizado"
+      },
+      {
+        "autor": "W. E. B. Du Bois",
+        "obra": "The Souls of Black Folk",
+        "ano": "1903"
+      },
+      {
+        "autor": "Franklin D. Roosevelt",
+        "obra": "Fireside Chats (Conversas à Lareira)",
+        "ano": "1933–1944"
+      },
+      {
+        "autor": "Martin Luther King Jr.",
+        "obra": "Letter from Birmingham Jail; I Have a Dream",
+        "ano": "1963"
+      },
+      {
+        "autor": "John F. Kennedy",
+        "obra": "Discurso Inaugural",
+        "ano": "1961"
+      }
+    ],
+    "secundarias": [
+      {
+        "autor": "Gordon S. Wood",
+        "obra": "The Creation of the American Republic, 1776–1787",
+        "ano": "1969",
+        "editora": "University of North Carolina Press"
+      },
+      {
+        "autor": "James M. McPherson",
+        "obra": "Battle Cry of Freedom: The Civil War Era",
+        "ano": "1988",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Richard Hofstadter",
+        "obra": "The American Political Tradition and the Men Who Made It",
+        "ano": "1948",
+        "editora": "Knopf"
+      },
+      {
+        "autor": "Howard Zinn",
+        "obra": "A People's History of the United States",
+        "ano": "1980",
+        "editora": "Harper & Row"
+      },
+      {
+        "autor": "William E. Leuchtenburg",
+        "obra": "Franklin D. Roosevelt and the New Deal",
+        "ano": "1963",
+        "editora": "Harper & Row"
+      },
+      {
+        "autor": "Taylor Branch",
+        "obra": "America in the King Years (3 vols.)",
+        "ano": "1988–2006",
+        "editora": "Simon & Schuster"
+      },
+      {
+        "autor": "H. W. Brands",
+        "obra": "American Colossus: The Triumph of Capitalism, 1865–1900",
+        "ano": "2010",
+        "editora": "Doubleday"
+      },
+      {
+        "autor": "Sean Wilentz",
+        "obra": "The Rise of American Democracy: Jefferson to Lincoln",
+        "ano": "2005",
+        "editora": "W. W. Norton"
+      },
+      {
+        "autor": "James T. Patterson",
+        "obra": "Grand Expectations: The United States, 1945–1974",
+        "ano": "1996",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Daniel Walker Howe",
+        "obra": "What Hath God Wrought: The Transformation of America, 1815–1848",
+        "ano": "2007",
+        "editora": "Oxford University Press"
+      },
+      {
+        "autor": "Eric Foner",
+        "obra": "Reconstruction: America's Unfinished Revolution, 1863–1877",
+        "ano": "1988",
+        "editora": "Harper & Row"
+      },
+      {
+        "autor": "David Remnick",
+        "obra": "The Bridge: The Life and Rise of Barack Obama",
+        "ano": "2010",
+        "editora": "Knopf"
+      }
+    ],
+    "terciarias": [
+      {
+        "autor": "Alexis de Tocqueville",
+        "obra": "A Democracia na América",
+        "ano": "1835–1840",
+        "nota": "Fonte primária-secundária de primeiro nível"
+      },
+      {
+        "autor": "Joseph J. Ellis",
+        "obra": "Founding Brothers: The Revolutionary Generation",
+        "ano": "2000",
+        "editora": "Knopf"
+      }
+    ]
+  }
+}

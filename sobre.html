@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Heródoto — Sobre</title>
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#2a1e0f">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+  <style>
+    :root {
+      --perg-claro:        #f6f1e4;
+      --perg-medio:        #e8dfc8;
+      --perg-escuro:       #c8b898;
+      --tinta-pena:        #2a1e0f;
+      --tinta-desbotada:   #5a4030;
+      --borda-pergaminho:  #b09870;
+      --vermelho-ocre:     #8b3a2a;
+      --azul-lapislazuli:  #2b4b7e;
+      --dourado-velho:     #7a6228;
+      --fonte-titulo:      'IM Fell English', 'Palatino Linotype', Palatino, Georgia, serif;
+      --fonte-texto:       'Crimson Text', 'Palatino Linotype', Palatino, Georgia, serif;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: var(--fonte-texto);
+      color: var(--tinta-pena);
+      background-color: #a89070;
+      background-image: url('assets/pergaminho.jpg');
+      background-size: cover;
+      background-attachment: fixed;
+      min-height: 100vh;
+    }
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background: radial-gradient(ellipse at center, transparent 30%, rgba(15,8,2,0.42) 100%), rgba(15,8,2,0.16);
+      pointer-events: none;
+      z-index: 0;
+    }
+    header {
+      position: relative;
+      z-index: 10;
+      background: linear-gradient(180deg, #2a1e0f 0%, #3d2e1a 100%);
+      color: var(--perg-medio);
+      padding: 1rem 2rem;
+      border-bottom: 3px solid var(--dourado-velho);
+      box-shadow: 0 3px 18px rgba(0,0,0,0.55);
+    }
+    header::after {
+      content: '';
+      position: absolute;
+      bottom: -6px; left: 0; right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, transparent, var(--borda-pergaminho), transparent);
+    }
+    .header-inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1100px;
+      margin: 0 auto;
+      gap: 1rem;
+    }
+    .titulo h1 {
+      font-family: var(--fonte-titulo);
+      font-size: 1.7rem;
+      font-weight: 400;
+      font-variant: small-caps;
+      letter-spacing: 0.08em;
+      color: var(--perg-claro);
+      text-shadow: 0 1px 6px rgba(0,0,0,0.6);
+      margin-bottom: 0.1rem;
+    }
+    .titulo p {
+      font-style: italic;
+      font-size: 0.9rem;
+      color: var(--perg-escuro);
+    }
+    .header-nav {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+    .nav-btn {
+      font-family: var(--fonte-texto);
+      font-size: 0.85rem;
+      font-variant: small-caps;
+      letter-spacing: 0.05em;
+      color: var(--perg-medio);
+      text-decoration: none;
+      padding: 0.35rem 0.8rem;
+      border: 1px solid var(--borda-pergaminho);
+      border-radius: 3px;
+      background: rgba(255,255,255,0.06);
+      transition: background 0.2s, color 0.2s;
+      white-space: nowrap;
+    }
+    .nav-btn:hover { background: rgba(255,255,255,0.15); color: var(--perg-claro); }
+    .nav-btn.active { background: rgba(176,152,112,0.3); color: var(--perg-claro); border-color: var(--perg-escuro); }
+
+    .page-wrapper {
+      position: relative;
+      z-index: 1;
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 3rem;
+    }
+    .content-card {
+      background: rgba(246,241,228,0.92);
+      border: 1px solid var(--borda-pergaminho);
+      border-radius: 4px;
+      box-shadow: 2px 4px 18px rgba(0,0,0,0.28);
+      padding: 2.5rem 3rem;
+    }
+    .content-card h1 {
+      font-family: var(--fonte-titulo);
+      font-size: 2rem;
+      font-weight: 400;
+      font-variant: small-caps;
+      letter-spacing: 0.07em;
+      color: var(--tinta-pena);
+      margin-bottom: 0.3rem;
+      text-align: center;
+    }
+    .content-card .subtitulo {
+      font-style: italic;
+      font-size: 1.05rem;
+      color: var(--tinta-desbotada);
+      text-align: center;
+      margin-bottom: 2rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid var(--borda-pergaminho);
+    }
+    .epigraph {
+      font-style: italic;
+      font-size: 1.05rem;
+      color: var(--tinta-desbotada);
+      border-left: 3px solid var(--borda-pergaminho);
+      padding: 0.6rem 1.2rem;
+      margin: 1.5rem 0 2rem;
+      line-height: 1.6;
+    }
+    .epigraph cite {
+      display: block;
+      margin-top: 0.4rem;
+      font-size: 0.88rem;
+      color: var(--borda-pergaminho);
+    }
+    h2 {
+      font-family: var(--fonte-titulo);
+      font-size: 1.2rem;
+      font-weight: 400;
+      font-variant: small-caps;
+      letter-spacing: 0.06em;
+      color: var(--vermelho-ocre);
+      margin: 2rem 0 0.7rem;
+      padding-bottom: 0.3rem;
+      border-bottom: 1px solid var(--perg-escuro);
+    }
+    p {
+      font-size: 1.05rem;
+      line-height: 1.75;
+      color: var(--tinta-pena);
+      margin-bottom: 1rem;
+    }
+    .metricas {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 1rem;
+      margin: 1.2rem 0;
+    }
+    .metrica {
+      background: rgba(176,152,112,0.15);
+      border: 1px solid var(--borda-pergaminho);
+      border-radius: 3px;
+      padding: 0.9rem 1rem;
+      text-align: center;
+    }
+    .metrica-valor {
+      font-family: var(--fonte-titulo);
+      font-size: 1.6rem;
+      color: var(--azul-lapislazuli);
+      display: block;
+      margin-bottom: 0.2rem;
+    }
+    .metrica-label {
+      font-size: 0.82rem;
+      color: var(--tinta-desbotada);
+      font-style: italic;
+    }
+    .versao-badge {
+      display: inline-block;
+      background: var(--tinta-pena);
+      color: var(--perg-claro);
+      font-family: var(--fonte-titulo);
+      font-variant: small-caps;
+      font-size: 0.82rem;
+      letter-spacing: 0.06em;
+      padding: 0.2rem 0.7rem;
+      border-radius: 3px;
+      vertical-align: middle;
+    }
+    footer {
+      position: relative; z-index: 1;
+      text-align: center;
+      padding: 1.2rem;
+      font-style: italic;
+      font-size: 0.82rem;
+      color: var(--perg-escuro);
+      text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    }
+    @media (max-width: 700px) {
+      .content-card { padding: 1.5rem 1.2rem; }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <div class="titulo">
+      <h1>Heródoto</h1>
+      <p>O Pai da História — visualização histórica interativa</p>
+    </div>
+    <nav class="header-nav">
+      <a href="index.html"        class="nav-btn">← Mapa</a>
+      <a href="fontes.html"       class="nav-btn">Fontes</a>
+      <a href="guia-professor.html" class="nav-btn">Guia do Professor</a>
+      <a href="sobre.html"        class="nav-btn active">Sobre</a>
+      <a href="ajuda.html"        class="nav-btn">Ajuda</a>
+    </nav>
+  </div>
+</header>
+
+<div class="page-wrapper">
+  <div class="content-card">
+    <h1>Heródoto</h1>
+    <p class="subtitulo">Visualização histórica interativa &mdash; grafo de conhecimento e linha do tempo</p>
+
+    <blockquote class="epigraph">
+      «Heródoto de Halicarnasso apresenta aqui os resultados de sua pesquisa, para que o tempo não apague os feitos dos homens.»
+      <cite>— Heródoto, <em>Histórias</em>, c. 440 a.C.</cite>
+    </blockquote>
+
+    <h2>O que é</h2>
+    <p>
+      Heródoto é uma ferramenta pedagógica de código aberto para professores e estudantes de história. Combina um <strong>grafo de conhecimento</strong> — eventos e personalidades como nós interconectados — com uma <strong>linha do tempo interativa</strong> com zoom, filtragem e navegação por região geográfica.
+    </p>
+    <p>
+      O projeto cobre a história mundial desde os primeiros hominídeos (~3,3 milhões a.C.) até o presente, com ênfase especial no Brasil, nas Américas pré-colombianas e na Europa.
+    </p>
+
+    <h2>Números atuais <span class="versao-badge">v7.38</span></h2>
+    <div class="metricas">
+      <div class="metrica">
+        <span class="metrica-valor">303</span>
+        <span class="metrica-label">datasets históricos</span>
+      </div>
+      <div class="metrica">
+        <span class="metrica-valor">2.611</span>
+        <span class="metrica-label">entidades históricas</span>
+      </div>
+      <div class="metrica">
+        <span class="metrica-valor">248</span>
+        <span class="metrica-label">perguntas geradoras</span>
+      </div>
+      <div class="metrica">
+        <span class="metrica-valor">38</span>
+        <span class="metrica-label">temas bibliográficos</span>
+      </div>
+      <div class="metrica">
+        <span class="metrica-valor">~500</span>
+        <span class="metrica-label">fontes bibliográficas</span>
+      </div>
+      <div class="metrica">
+        <span class="metrica-valor">3</span>
+        <span class="metrica-label">idiomas (PT/EN/ES)</span>
+      </div>
+    </div>
+
+    <h2>Filosofia do projeto</h2>
+    <p>
+      A história não é uma sequência linear de datas — é uma teia de relações causais, contingências e simultaneidades. O Heródoto foi construído para tornar essa teia visível: ao clicar num evento, o aluno pode ver o que o causou, o que causou, e o que estava acontecendo no mundo ao mesmo tempo.
+    </p>
+    <p>
+      As classificações históricas (político, social, cultural, religioso, tecnológico, econômico, guerra) foram revisadas manualmente para evitar simplificações. O nazismo, por exemplo, é classificado como <em>social</em> — não como <em>guerra</em> — porque sua natureza ideológica antecede e explica o conflito.
+    </p>
+
+    <h2>Tecnologias</h2>
+    <p>
+      O projeto é uma aplicação web estática — nenhum servidor ou banco de dados necessário. Roda diretamente no navegador, incluindo offline (PWA). Tecnologias utilizadas: <strong>D3.js</strong> (grafo e SVG), <strong>JavaScript</strong> puro (sem frameworks), <strong>JSON</strong> para todos os dados históricos, <strong>Service Worker</strong> para uso offline.
+    </p>
+
+    <h2>Código aberto</h2>
+    <p>
+      O código-fonte está disponível em <strong>github.com/LuddEvergard3n/Herodoto</strong>. Contribuições, correções históricas e traduções são bem-vindas.
+    </p>
+
+  </div>
+</div>
+
+<footer>
+  Heródoto v7.38 &mdash; Ferramenta pedagógica de código aberto para o ensino de história.
+</footer>
+</body>
+</html>
