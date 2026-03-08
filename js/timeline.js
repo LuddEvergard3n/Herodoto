@@ -68,7 +68,7 @@ const ALL_DATASETS = [
   "data/dados-russia-imperio.json",
   "data/dados-revolucao-russa.json","data/dados-russia-czarismo.json","data/dados-russia-pedro-catarina.json",
   // ── Guerras Mundiais e Guerra Fria ──
-  "data/dados-frente-ocidental-1914.json","data/dados-tratado-versalhes.json","data/dados-republica-weimar.json","data/dados-nazismo.json","data/dados-fascismo-italiano.json","data/dados-guerra-civil-espanhola.json","data/dados-frente-oriental.json","data/dados-holocaust.json",
+  "data/dados-frente-ocidental-1914.json","data/dados-tratado-versalhes.json","data/dados-republica-weimar.json","data/dados-nazismo.json","data/dados-alemanha-ascensao-hitler.json","data/dados-alemanha-economia-nazista.json","data/dados-alemanha-leis-nazistas.json","data/dados-fascismo-italiano.json","data/dados-guerra-civil-espanhola.json","data/dados-frente-oriental.json","data/dados-holocaust.json",
   "data/dados-entreguerras.json","data/dados-eua-guerra-fria.json","data/dados-eua-new-deal-guerra-fria.json",
   "data/dados-guerra-fria.json","data/dados-holocausto.json","data/dados-pos-guerra-fria.json",
   "data/dados-primeira-guerra.json","data/dados-segunda-guerra.json",

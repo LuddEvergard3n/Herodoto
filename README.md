@@ -16,12 +16,12 @@ O projeto cobre a história mundial desde os primeiros hominídeos (~3,3 milhõe
 
 ---
 
-## Estado Atual (v7.39)
+## Estado Atual (v7.41)
 
 | Métrica | Valor |
 |---|---|
-| Datasets (arquivos JSON) | **303** |
-| Entidades históricas | **2.611** |
+| Datasets (arquivos JSON) | **306** |
+| Entidades históricas | **2.644** |
 | Perguntas Geradoras | **248** em **58 grupos** |
 | Idiomas | PT / EN / ES |
 | Arquivos de fontes | **38 temas** |
