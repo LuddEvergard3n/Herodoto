@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Heródoto — Plano de Aula</title>
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+  <style>
+    :root{--pc:#f6f1e4;--pm:#e8dfc8;--pe:#c8b898;--tp:#2a1e0f;--td:#5a4030;--bo:#b09870;
+      --oc:#8b3a2a;--la:#2b4b7e;--do:#7a6228;
+      --ft:'IM Fell English','Palatino Linotype',Palatino,Georgia,serif;
+      --fb:'Crimson Text','Palatino Linotype',Palatino,Georgia,serif;}
+    *{margin:0;padding:0;box-sizing:border-box;}
+    body{font-family:var(--fb);color:var(--tp);background:#a89070;
+      background-image:url('assets/pergaminho.jpg');background-size:cover;background-attachment:fixed;min-height:100vh;}
+    body::before{content:'';position:fixed;inset:0;
+      background:radial-gradient(ellipse at center,transparent 30%,rgba(15,8,2,.42)100%),rgba(15,8,2,.16);
+      pointer-events:none;z-index:0;}
+    header{position:relative;z-index:10;background:linear-gradient(180deg,#2a1e0f,#3d2e1a);
+      color:var(--pm);padding:1rem 2rem;border-bottom:3px solid var(--do);box-shadow:0 3px 18px rgba(0,0,0,.55);}
+    header::after{content:'';position:absolute;bottom:-6px;left:0;right:0;height:3px;
+      background:linear-gradient(90deg,transparent,var(--bo),transparent);}
+    .hi{display:flex;justify-content:space-between;align-items:center;max-width:1300px;margin:0 auto;gap:1rem;}
+    .ti h1{font-family:var(--ft);font-size:1.7rem;font-weight:400;font-variant:small-caps;
+      letter-spacing:.08em;color:var(--pc);text-shadow:0 1px 6px rgba(0,0,0,.6);margin-bottom:.1rem;}
+    .ti p{font-style:italic;font-size:.9rem;color:var(--pe);}
+    nav{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;}
+    .nb{font-family:var(--fb);font-size:.85rem;font-variant:small-caps;letter-spacing:.05em;
+      color:var(--pm);text-decoration:none;padding:.35rem .8rem;border:1px solid var(--bo);
+      border-radius:3px;background:rgba(255,255,255,.06);transition:background .2s,color .2s;white-space:nowrap;}
+    .nb:hover{background:rgba(255,255,255,.15);color:var(--pc);}
+    .nb.on{background:rgba(176,152,112,.3);color:var(--pc);border-color:var(--pe);}
+    .pw{position:relative;z-index:1;max-width:1300px;margin:0 auto;
+      padding:1.5rem 1.5rem 3rem;display:grid;grid-template-columns:470px 1fr;gap:1.5rem;align-items:start;}
+    @media(max-width:960px){.pw{grid-template-columns:1fr;}}
+    .fp{background:rgba(246,241,228,.95);border:1px solid var(--bo);border-radius:4px;
+      box-shadow:2px 4px 18px rgba(0,0,0,.28);padding:1.6rem 1.4rem;}
+    .fp h2{font-family:var(--ft);font-size:1.2rem;font-weight:400;font-variant:small-caps;
+      letter-spacing:.08em;color:var(--tp);text-align:center;margin-bottom:1.1rem;
+      padding-bottom:.5rem;border-bottom:1px solid var(--bo);}
+    .fs{margin-bottom:1.05rem;}
+    .fst{font-family:var(--ft);font-size:.76rem;font-variant:small-caps;letter-spacing:.12em;
+      color:var(--oc);margin-bottom:.5rem;padding-bottom:.18rem;border-bottom:1px solid rgba(176,152,112,.3);display:block;}
+    .fr{display:grid;grid-template-columns:1fr 1fr;gap:.5rem;}
+    .fr3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:.5rem;}
+    .fg{display:flex;flex-direction:column;gap:.2rem;margin-bottom:.4rem;}
+    .fg label{font-size:.73rem;font-variant:small-caps;letter-spacing:.06em;color:var(--td);min-height:2em;display:flex;align-items:flex-end;padding-bottom:.12rem;}
+    .fg input,.fg select,.fg textarea{font-family:var(--fb);font-size:.87rem;color:var(--tp);
+      background:rgba(246,241,228,.7);border:1px solid var(--bo);border-radius:2px;
+      padding:.36rem .52rem;transition:border-color .15s,background .15s;resize:vertical;}
+    .fg input:focus,.fg select:focus,.fg textarea:focus{outline:none;border-color:var(--la);background:rgba(255,255,255,.9);}
+    .fg textarea{min-height:56px;}
+    .pb{background:rgba(176,152,112,.07);border:1px solid rgba(176,152,112,.26);
+      border-radius:3px;max-height:240px;overflow-y:auto;padding:.45rem;}
+    .pe2{font-style:italic;color:var(--td);font-size:.8rem;text-align:center;padding:.7rem 0;}
+    .pi{display:flex;align-items:flex-start;gap:.4rem;padding:.25rem 0;border-bottom:1px solid rgba(176,152,112,.1);}
+    .pi:last-child{border-bottom:none;}
+    .pi input[type=checkbox]{margin-top:.17rem;flex-shrink:0;accent-color:var(--la);cursor:pointer;}
+    .pi label{font-size:.79rem;line-height:1.4;color:var(--tp);cursor:pointer;}
+    .pid{font-family:monospace;font-size:.74rem;color:var(--la);font-weight:bold;flex-shrink:0;min-width:92px;}
+    .xa{margin-top:.35rem;}
+    .xa label{font-size:.7rem;font-variant:small-caps;letter-spacing:.06em;color:var(--td);display:block;margin-bottom:.18rem;}
+    .xa textarea{width:100%;font-family:var(--fb);font-size:.84rem;background:rgba(246,241,228,.7);
+      border:1px solid var(--bo);border-radius:2px;padding:.36rem .52rem;resize:vertical;min-height:48px;color:var(--tp);}
+    .xa textarea:focus{outline:none;border-color:var(--la);background:rgba(255,255,255,.9);}
+    .ba{display:flex;gap:.6rem;margin-top:1rem;}
+    .bg,.bl{flex:1;padding:.62rem 1rem;font-family:var(--fb);font-size:.87rem;font-variant:small-caps;
+      letter-spacing:.08em;border-radius:3px;cursor:pointer;transition:background .2s;}
+    .bg{background:var(--tp);color:var(--pc);border:1px solid var(--do);}
+    .bg:hover{background:#3d2e1a;}
+    .bl{background:transparent;color:var(--td);border:1px solid var(--bo);}
+    .bl:hover{background:rgba(176,152,112,.15);}
+    .pp{background:rgba(246,241,228,.92);border:1px solid var(--bo);border-radius:4px;box-shadow:2px 4px 18px rgba(0,0,0,.28);}
+    .pt{display:flex;align-items:center;justify-content:space-between;padding:.72rem 1.2rem;
+      border-bottom:1px solid var(--bo);background:rgba(176,152,112,.1);}
+    .pt span{font-family:var(--ft);font-size:.9rem;font-variant:small-caps;letter-spacing:.08em;color:var(--td);}
+    .bi{padding:.38rem 1.1rem;font-family:var(--fb);font-size:.82rem;font-variant:small-caps;
+      letter-spacing:.08em;color:var(--pc);background:var(--oc);border:none;border-radius:3px;cursor:pointer;transition:background .2s;}
+    .bi:hover{background:#a34535;}
+    .pb2{padding:1.2rem;}
+    #doc{background:white;border:1px solid rgba(176,152,112,.3);border-radius:2px;
+      padding:2rem 2.2rem;font-family:'Crimson Text',Georgia,serif;font-size:.92rem;
+      line-height:1.6;color:#1a1208;min-height:400px;}
+    .dhl{display:flex;justify-content:space-between;align-items:flex-end;
+      border-bottom:2px solid #1a1208;padding-bottom:.52rem;margin-bottom:.72rem;}
+    .des{font-size:1rem;font-weight:600;}
+    .dti{font-family:'IM Fell English',Georgia,serif;font-size:1.3rem;font-weight:400;
+      font-variant:small-caps;letter-spacing:.1em;text-align:center;margin-bottom:.95rem;}
+    .dm{display:grid;grid-template-columns:repeat(3,1fr);gap:.32rem .85rem;margin-bottom:.85rem;}
+    .dmi{border-bottom:1px solid #c8b898;padding-bottom:.16rem;}
+    .dml{font-size:.67rem;letter-spacing:.08em;text-transform:uppercase;color:#7a6228;display:block;}
+    .dmv{font-size:.88rem;color:#1a1208;display:block;min-height:1em;}
+    .ds{margin-bottom:.75rem;}
+    .dst{font-family:'IM Fell English',Georgia,serif;font-size:.83rem;font-variant:small-caps;
+      letter-spacing:.1em;background:#1a1208;color:#f6f1e4;padding:.17rem .5rem;margin-bottom:.42rem;display:block;}
+    .dbd{font-size:.88rem;line-height:1.65;color:#1a1208;padding:0 .28rem;white-space:pre-wrap;}
+    .dbi{font-size:.84rem;margin-bottom:.26rem;padding:.08rem .28rem .08rem .55rem;border-left:2px solid #b09870;}
+    .dbi .cd{font-family:monospace;color:#2b4b7e;font-weight:bold;margin-right:.32em;}
+    .dli{font-size:.86rem;margin-bottom:.18rem;padding-left:.75rem;position:relative;}
+    .dli::before{content:'·';position:absolute;left:.1rem;color:#7a6228;}
+    .dem{text-align:center;color:#b09870;font-style:italic;padding:3rem 1rem;}
+    .das{display:grid;grid-template-columns:1fr 1fr;gap:2rem;margin-top:2rem;padding-top:1.3rem;border-top:1px solid #c8b898;}
+    .dal{border-bottom:1px solid #1a1208;margin-bottom:.26rem;height:1.65rem;}
+    .dab{font-size:.74rem;text-align:center;color:#5a4030;}
+    @media print{
+      *{-webkit-print-color-adjust:exact!important;print-color-adjust:exact!important;}
+      body{background:white!important;}body::before{display:none;}
+      header,.fp,.pt{display:none!important;}
+      .pw{display:block!important;padding:0!important;max-width:none;}
+      .pp{background:white!important;border:none!important;box-shadow:none!important;}
+      .pb2{padding:0!important;}
+      #doc{border:none!important;padding:1.5cm 2cm!important;font-size:10pt!important;line-height:1.55!important;box-shadow:none!important;}
+      .dti{font-size:14pt!important;}.dst{font-size:9pt!important;}.dbd,.dbi,.dli{font-size:9.5pt!important;}
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="hi">
+    <div class="ti"><h1>Heródoto</h1><p>O Pai da História — explore tempo, espaço e contexto</p></div>
+    <nav>
+      <a href="index.html" class="nb">← Mapa</a>
+      <a href="fontes.html" class="nb">Fontes</a>
+      <a href="guia-professor.html" class="nb">Guia do Professor</a>
+      <a href="plano-aula.html" class="nb on">Plano de Aula</a>
+      <a href="sobre.html" class="nb">Sobre</a>
+      <a href="ajuda.html" class="nb">Ajuda</a>
+    </nav>
+  </div>
+</header>
+
+<div class="pw">
+<div class="fp">
+  <h2>Gerador de Plano de Aula — História</h2>
+
+  <div class="fs">
+    <span class="fst">Identificação</span>
+    <div class="fr">
+      <div class="fg"><label>Professor(a)</label><input type="text" id="f-prof" placeholder="Nome completo"></div>
+      <div class="fg"><label>Data</label><input type="date" id="f-data"></div>
+    </div>
+    <div class="fg"><label>Escola / Instituição</label><input type="text" id="f-escola" placeholder="Nome da escola"></div>
+    <div class="fr3">
+      <div class="fg"><label>Turma</label><input type="text" id="f-turma" placeholder="Ex: 8ºA"></div>
+      <div class="fg"><label>Bimestre / Trimestre</label>
+        <select id="f-bim"><option value="">—</option>
+          <option>1º Bimestre</option><option>2º Bimestre</option><option>3º Bimestre</option><option>4º Bimestre</option>
+          <option>1º Trimestre</option><option>2º Trimestre</option><option>3º Trimestre</option>
+        </select>
+      </div>
+      <div class="fg"><label>Nº de Aulas</label>
+        <select id="f-naulas" onchange="calcCarga()"><option value="1">1 aula</option><option value="2" selected>2 aulas</option>
+          <option value="3">3 aulas</option><option value="4">4 aulas</option><option value="5">5 aulas</option>
+        </select>
+      </div>
+    </div>
+    <div class="fr3">
+      <div class="fg"><label>Duração de cada aula</label>
+        <select id="f-dur" onchange="calcCarga()"><option>45 min</option><option selected>50 min</option><option>60 min</option><option value="90">1h30</option></select>
+      </div>
+      <div class="fg"><label>Ano / Série</label>
+        <select id="f-ano" onchange="onAno()">
+          <option value="">— selecionar —</option>
+          <optgroup label="Ensino Fundamental I">
+            <option value="1">1º ano</option><option value="2">2º ano</option><option value="3">3º ano</option>
+            <option value="4">4º ano</option><option value="5">5º ano</option>
+          </optgroup>
+          <optgroup label="Ensino Fundamental II">
+            <option value="6">6º ano</option><option value="7">7º ano</option>
+            <option value="8">8º ano</option><option value="9">9º ano</option>
+          </optgroup>
+          <optgroup label="Ensino Médio">
+            <option value="EM1">1ª série EM</option><option value="EM2">2ª série EM</option><option value="EM3">3ª série EM</option>
+          </optgroup>
+        </select>
+      </div>
+      <div class="fg"><label>Carga Horária Total</label>
+        <input type="text" id="f-carga" readonly placeholder="—" style="background:rgba(176,152,112,.12);color:var(--td);cursor:default;">
+      </div>
+    </div>
+  </div>
+
+  <div class="fs">
+    <span class="fst">Tema</span>
+    <div class="fg"><label>Tema / Assunto da Aula</label>
+      <input type="text" id="f-tema" placeholder="Ex: O Brasil no contexto da Segunda Guerra Mundial">
+    </div>
+  </div>
+
+  <div class="fs">
+    <span class="fst">Objetos de Conhecimento <small style="font-style:italic;font-variant:normal;font-size:.68rem;color:#7a6228">(filtrado pelo ano selecionado)</small></span>
+    <div class="pb" id="box-obj"><div class="pe2">Selecione o ano/série para ver os objetos de conhecimento.</div></div>
+    <div class="xa"><label>Adicionar livremente</label><textarea id="xa-obj" placeholder="Objetos adicionais não listados…"></textarea></div>
+  </div>
+
+  <div class="fs">
+    <span class="fst">Habilidades BNCC <small style="font-style:italic;font-variant:normal;font-size:.68rem;color:#7a6228">(filtrado pelo ano selecionado)</small></span>
+    <div class="pb" id="box-bncc"><div class="pe2">Selecione o ano/série para ver as habilidades.</div></div>
+  </div>
+
+  <div class="fs">
+    <span class="fst">Objetivos de Aprendizagem</span>
+    <div class="pb" id="box-obt"></div>
+    <div class="xa"><label>Adicionar livremente</label><textarea id="xa-obt" placeholder="Objetivos específicos para esta aula…"></textarea></div>
+  </div>
+
+  <div class="fs">
+    <span class="fst">Metodologia / Estratégias Didáticas</span>
+    <div class="pb" id="box-met"></div>
+    <div class="xa"><label>Adicionar livremente</label><textarea id="xa-met" placeholder="Estratégias específicas…"></textarea></div>
+  </div>
+
+  <div class="fs">
+    <span class="fst">Recursos Didáticos</span>
+    <div class="pb" id="box-rec"></div>
+    <div class="xa"><label>Adicionar livremente</label><textarea id="xa-rec" placeholder="Recursos específicos…"></textarea></div>
+  </div>
+
+  <div class="fs">
+    <span class="fst">Avaliação</span>
+    <div class="pb" id="box-ava"></div>
+    <div class="xa"><label>Adicionar livremente</label><textarea id="xa-ava" placeholder="Instrumentos e critérios específicos…"></textarea></div>
+  </div>
+
+  <div class="fs">
+    <span class="fst">Referências e Observações</span>
+    <div class="fg"><label>Referências Bibliográficas</label><textarea id="f-refs" placeholder="Livros, artigos, fontes primárias utilizadas…"></textarea></div>
+    <div class="fg"><label>Observações</label><textarea id="f-obs" placeholder="Adaptações, anotações, turmas com necessidades específicas…"></textarea></div>
+  </div>
+
+  <div class="ba">
+    <button class="bg" onclick="gerar()">Gerar Plano</button>
+    <button class="bl" onclick="limpar()">Limpar</button>
+  </div>
+</div>
+
+<div class="pp">
+  <div class="pt">
+    <span>Pré-visualização</span>
+    <button class="bi" onclick="window.print()">⬇ Baixar / Imprimir PDF</button>
+  </div>
+  <div class="pb2"><div id="doc"><div class="dem">Preencha o formulário e clique em <strong>Gerar Plano</strong>.</div></div></div>
+</div>
+</div>
+
+<script>
+/* ═══════════════════════════════════════════════
+   BNCC — HISTÓRIA completa (EF 1º–9º + EM CHS)
+   Fonte: BNCC MEC 2018
+═══════════════════════════════════════════════ */
+const BNCC={
+1:[
+{id:'EF01HI01',t:'Identificar aspetos do seu crescimento por meio do registo das lembranças particulares ou de lembranças dos membros da sua família e/ou da sua comunidade.'},
+{id:'EF01HI02',t:'Identificar a relação entre as suas histórias e as histórias da sua família e da sua comunidade.'},
+{id:'EF01HI03',t:'Descrever e distinguir os seus papéis e responsabilidades relacionados com a família, a escola e a comunidade.'},
+{id:'EF01HI04',t:'Identificar as diferenças entre os variados ambientes em que vive (doméstico, escolar e da comunidade), reconhecendo as especificidades dos hábitos e das regras que os regem.'},
+{id:'EF01HI05',t:'Identificar semelhanças e diferenças entre jogos e brincadeiras atuais e de outras épocas e lugares.'},
+{id:'EF01HI06',t:'Conhecer as histórias da família e da escola e identificar o papel desempenhado por diferentes sujeitos em diferentes espaços.'},
+{id:'EF01HI07',t:'Identificar mudanças e permanências nas formas de organização familiar.'},
+{id:'EF01HI08',t:'Reconhecer o significado das comemorações e festas escolares, diferenciando-as das datas festivas comemoradas no âmbito familiar ou da comunidade.'},
+],2:[
+{id:'EF02HI01',t:'Reconhecer espaços de sociabilidade e identificar os motivos que aproximam e separam as pessoas em diferentes grupos sociais ou de parentesco.'},
+{id:'EF02HI02',t:'Identificar e descrever práticas e papéis sociais que as pessoas exercem em diferentes comunidades.'},
+{id:'EF02HI03',t:'Selecionar situações quotidianas que remetam à perceção de mudança, pertencimento e memória.'},
+{id:'EF02HI04',t:'Selecionar e compreender o significado de objetos e documentos pessoais como fontes de memórias e histórias nos âmbitos pessoal, familiar, escolar e comunitário.'},
+{id:'EF02HI05',t:'Selecionar objetos e documentos pessoais e de grupos próximos ao seu convívio e compreender a sua função, o seu uso e o seu significado.'},
+{id:'EF02HI06',t:'Identificar e organizar, temporalmente, factos da vida quotidiana, usando noções relacionadas com o tempo (antes, durante, ao mesmo tempo e depois).'},
+{id:'EF02HI07',t:'Identificar e utilizar diferentes marcadores do tempo presentes na comunidade, como relógio e calendário.'},
+{id:'EF02HI08',t:'Compilar histórias da família e/ou da comunidade registadas em diferentes fontes.'},
+{id:'EF02HI09',t:'Identificar objetos e documentos pessoais que remetam à própria experiência no âmbito da família e/ou da comunidade, discutindo as razões pelas quais alguns objetos são preservados e outros são descartados.'},
+{id:'EF02HI10',t:'Identificar diferentes formas de trabalho existentes na comunidade em que vive, as suas especificidades e importância.'},
+{id:'EF02HI11',t:'Identificar e compreender o impacto das tecnologias nas mudanças do quotidiano e na forma como as pessoas trabalham e comunicam ao longo do tempo.'},
+],3:[
+{id:'EF03HI01',t:'Identificar os grupos populacionais que formam a cidade, o município e a região, as relações estabelecidas entre eles e os eventos que marcam a formação da cidade.'},
+{id:'EF03HI02',t:'Selecionar, por meio da consulta de fontes de diferentes naturezas, e registar acontecimentos ocorridos ao longo do tempo na cidade ou região em que vive.'},
+{id:'EF03HI03',t:'Identificar e comparar pontos de vista em relação a eventos significativos do local em que vive, com especial destaque para as culturas africanas, indígenas e de migrantes.'},
+{id:'EF03HI04',t:'Identificar os patrimónios históricos e culturais da sua cidade ou região e discutir as razões culturais, sociais e políticas para que assim sejam considerados.'},
+{id:'EF03HI05',t:'Identificar os marcos históricos do lugar em que vive e compreender os seus significados.'},
+{id:'EF03HI06',t:'Identificar os registos de memória na cidade (nomes de ruas, monumentos, edifícios etc.), discutindo os critérios que explicam a escolha desses nomes.'},
+{id:'EF03HI07',t:'Identificar semelhanças e diferenças existentes entre comunidades da sua cidade ou região, e descrever o papel dos diferentes grupos sociais que as formam.'},
+{id:'EF03HI08',t:'Identificar modos de vida na cidade e no campo no presente, comparando-os com os do passado.'},
+{id:'EF03HI09',t:'Mapear os espaços públicos no lugar em que vive (ruas, praças, escolas, hospitais, prédios da Câmara Municipal etc.) e identificar as suas funções.'},
+{id:'EF03HI10',t:'Identificar as diferenças entre o espaço doméstico, os espaços públicos e as áreas de conservação ambiental, compreendendo a importância dessa distinção.'},
+{id:'EF03HI11',t:'Identificar diferenças entre formas de trabalho realizadas na cidade e no campo, considerando também o uso da tecnologia nesses diferentes contextos.'},
+{id:'EF03HI12',t:'Comparar as relações de trabalho e lazer do presente com as de outros tempos e espaços, analisando mudanças e permanências.'},
+],4:[
+{id:'EF04HI01',t:'Reconhecer a história como resultado da ação do ser humano no tempo e no espaço, com base na identificação de mudanças e permanências ao longo do tempo.'},
+{id:'EF04HI02',t:'Identificar mudanças e permanências ao longo do tempo, discutindo os sentidos dos grandes marcos da história da humanidade (nomadismo, desenvolvimento da agricultura e do pastoreio, criação da indústria etc.).'},
+{id:'EF04HI03',t:'Identificar as transformações ocorridas na cidade ao longo do tempo e discutir suas interferências nos modos de vida de seus habitantes, tomando como ponto de partida o presente.'},
+{id:'EF04HI04',t:'Identificar as relações entre os indivíduos e a natureza e discutir o significado do nomadismo e da fixação das primeiras comunidades humanas.'},
+{id:'EF04HI05',t:'Relacionar os processos de ocupação do campo a intervenções na natureza, avaliando os resultados dessas intervenções.'},
+{id:'EF04HI06',t:'Identificar as transformações ocorridas nos processos de deslocamento das pessoas e mercadorias, analisando as formas de adaptação ou marginalização.'},
+{id:'EF04HI07',t:'Identificar e descrever a importância dos caminhos terrestres, fluviais e marítimos para a dinâmica da vida comercial.'},
+{id:'EF04HI08',t:'Identificar as transformações ocorridas nos meios de comunicação (cultura oral, imprensa, rádio, televisão, cinema, internet e demais tecnologias digitais de informação e comunicação) e discutir seus significados para os diferentes grupos sociais.'},
+{id:'EF04HI09',t:'Identificar as motivações dos processos migratórios em diferentes tempos e espaços e avaliar o papel desempenhado pela migração nas regiões de destino.'},
+{id:'EF04HI10',t:'Analisar diferentes fluxos populacionais e suas contribuições para a formação da sociedade brasileira.'},
+{id:'EF04HI11',t:'Analisar, na sociedade em que vive, a existência ou não de mudanças associadas à migração (interna e internacional).'},
+],5:[
+{id:'EF05HI01',t:'Identificar os processos de formação das culturas e dos povos, relacionando-os com o espaço geográfico ocupado.'},
+{id:'EF05HI02',t:'Identificar os mecanismos de organização do poder político com vistas à compreensão da ideia de Estado e/ou de outras formas de ordenação social.'},
+{id:'EF05HI03',t:'Analisar o papel das culturas e das religiões na composição identitária dos povos antigos.'},
+{id:'EF05HI04',t:'Associar a noção de cidadania com os princípios de respeito à diversidade, à pluralidade e aos direitos humanos.'},
+{id:'EF05HI05',t:'Associar o conceito de cidadania à conquista de direitos dos povos e das sociedades, compreendendo-o como conquista histórica.'},
+{id:'EF05HI06',t:'Comparar o uso de diferentes linguagens e tecnologias no processo de comunicação e avaliar os significados sociais, políticos e culturais atribuídos a elas.'},
+{id:'EF05HI07',t:'Identificar os processos de produção, hierarquização e marginalização dos marcos de memória em diferentes sociedades.'},
+{id:'EF05HI08',t:'Identificar formas de marcação da passagem do tempo em distintas sociedades, incluindo os povos indígenas originários e os povos africanos.'},
+{id:'EF05HI09',t:'Comparar pontos de vista sobre temas que impactam a vida cotidiana no tempo presente, por meio do acesso a diferentes fontes, incluindo orais.'},
+{id:'EF05HI10',t:'Inventariar os patrimônios materiais e imateriais da humanidade e analisar mudanças e permanências desses patrimônios ao longo do tempo.'},
+],6:[
+{id:'EF06HI01',t:'Identificar diferentes formas de compreensão da noção de tempo e de periodização dos processos históricos (continuidades e rupturas).'},
+{id:'EF06HI02',t:'Identificar a gênese da produção do saber histórico e analisar o significado das fontes que originaram determinadas formas de registro em sociedades e épocas distintas.'},
+{id:'EF06HI03',t:'Identificar as hipóteses científicas sobre o surgimento da espécie humana e sua historicidade e avaliar os significados dos mitos de fundação.'},
+{id:'EF06HI04',t:'Conhecer as teorias sobre a origem do homem americano.'},
+{id:'EF06HI05',t:'Descrever modificações na natureza e na paisagem realizadas por diferentes tipos de sociedade, com destaque para os povos indígenas originários e povos africanos, e discutir as transformações ocorridas no continente americano e africano.'},
+{id:'EF06HI06',t:'Identificar geograficamente as rotas de povoamento no território americano.'},
+{id:'EF06HI07',t:'Identificar aspectos e formas de registro das sociedades antigas na África, no Oriente Médio e nas Américas, distinguindo alguns significados presentes na cultura material e na tradição oral dessas sociedades.'},
+{id:'EF06HI08',t:'Identificar os espaços territoriais ocupados e os aportes culturais, científicos, sociais e econômicos dos astecas, maias e incas e dos povos indígenas de diversas regiões brasileiras.'},
+{id:'EF06HI09',t:'Discutir o conceito de Antiguidade Clássica, seu alcance e limite na tradição ocidental, assim como os impactos sobre outras sociedades e culturas.'},
+{id:'EF06HI10',t:'Explicar a formação da Grécia Antiga, com ênfase na formação da pólis e nas transformações políticas, sociais e culturais.'},
+{id:'EF06HI11',t:'Caracterizar o processo de formação da Roma Antiga e suas configurações sociais e políticas nos períodos monárquico e republicano.'},
+{id:'EF06HI12',t:'Associar o conceito de cidadania a dinâmicas de inclusão e exclusão na Grécia e Roma antigas.'},
+{id:'EF06HI13',t:'Conceituar "império" no mundo antigo, com vistas à análise das diferentes formas de equilíbrio e desequilíbrio entre as partes envolvidas.'},
+{id:'EF06HI14',t:'Diferenciar escravidão, servidão e trabalho livre no mundo antigo.'},
+{id:'EF06HI15',t:'Descrever as dinâmicas de circulação de pessoas, produtos e culturas no Mediterrâneo e seu significado.'},
+{id:'EF06HI16',t:'Caracterizar e comparar as dinâmicas de abastecimento e as formas de organização do trabalho e da vida social em diferentes sociedades da Antiguidade, com destaque para a Mesopotâmia e o Egito.'},
+{id:'EF06HI17',t:'Caracterizar as transformações políticas, econômicas, sociais e culturais na passagem da Antiguidade para o mundo medieval.'},
+{id:'EF06HI18',t:'Analisar o papel da religião cristã na cultura e nos modos de organização social no período medieval.'},
+{id:'EF06HI19',t:'Descrever e analisar os diferentes papéis sociais das mulheres no mundo antigo e nas sociedades medievais.'},
+],7:[
+{id:'EF07HI01',t:'Explicar o significado de "modernidade" e suas lógicas de inclusão e exclusão, com base em uma concepção europeia.'},
+{id:'EF07HI02',t:'Identificar conexões e interações entre as sociedades do Novo Mundo, da Europa, da África e da Ásia no contexto das navegações e indicar a complexidade e as interações que ocorrem nos Oceanos Atlântico, Índico e Pacífico.'},
+{id:'EF07HI03',t:'Identificar aspectos e processos específicos das sociedades africanas e americanas antes da chegada dos europeus, com destaque para as formas de organização social e o desenvolvimento de saberes e técnicas.'},
+{id:'EF07HI04',t:'Identificar as principais características dos Humanismos e dos Renascimentos e analisar seus significados.'},
+{id:'EF07HI05',t:'Identificar e relacionar as vinculações entre as reformas religiosas e os processos culturais e sociais do período moderno na Europa e na América.'},
+{id:'EF07HI06',t:'Comparar as navegações no Atlântico e no Pacífico entre os séculos XIV e XVI.'},
+{id:'EF07HI07',t:'Descrever os processos de formação e consolidação das monarquias e suas principais características com vistas à compreensão das razões da centralização política.'},
+{id:'EF07HI08',t:'Descrever as formas de organização das sociedades americanas no tempo da conquista com vistas à compreensão dos mecanismos de alianças, confrontos e resistências.'},
+{id:'EF07HI09',t:'Analisar os diferentes impactos da conquista europeia da América para as populações ameríndias e identificar as formas de resistência.'},
+{id:'EF07HI10',t:'Analisar, com base em documentos históricos, diferentes interpretações sobre as dinâmicas das sociedades americanas no período colonial.'},
+{id:'EF07HI11',t:'Analisar a formação histórico-geográfica do território da América portuguesa por meio de mapas históricos.'},
+{id:'EF07HI12',t:'Identificar a distribuição territorial da população brasileira em diferentes épocas, considerando a diversidade étnico-racial e étnico-cultural (indígena, africana, europeia e asiática).'},
+{id:'EF07HI13',t:'Caracterizar a ação dos europeus e suas lógicas mercantis visando ao domínio no mundo atlântico.'},
+{id:'EF07HI14',t:'Descrever as dinâmicas comerciais das sociedades americanas e africanas e analisar suas interações com outras sociedades do Ocidente e do Oriente.'},
+{id:'EF07HI15',t:'Discutir o conceito de escravidão moderna e suas distinções em relação ao escravismo antigo e à servidão medieval.'},
+{id:'EF07HI16',t:'Analisar os mecanismos e as dinâmicas de comércio de escravizados em suas diferentes fases, identificando os agentes responsáveis pelo tráfico e as regiões africanas de procedência dos escravizados.'},
+{id:'EF07HI17',t:'Discutir as razões da passagem do mercantilismo para o capitalismo.'},
+],8:[
+{id:'EF08HI01',t:'Identificar os principais aspectos conceituais do iluminismo e do liberalismo e discutir a relação entre eles e a organização do mundo contemporâneo.'},
+{id:'EF08HI02',t:'Identificar as particularidades político-sociais da Inglaterra do século XVII e analisar os desdobramentos posteriores à Revolução Gloriosa.'},
+{id:'EF08HI03',t:'Analisar os impactos da Revolução Industrial na produção e circulação de povos, produtos e culturas.'},
+{id:'EF08HI04',t:'Identificar e relacionar os processos da Revolução Francesa e seus desdobramentos na Europa e no mundo.'},
+{id:'EF08HI05',t:'Explicar os movimentos e as rebeliões da América portuguesa, articulando as temáticas locais e suas interfaces com processos ocorridos na Europa e nas Américas.'},
+{id:'EF08HI06',t:'Aplicar os conceitos de Estado, nação, território, governo e país para o entendimento de conflitos e tensões.'},
+{id:'EF08HI07',t:'Identificar e contextualizar as especificidades dos diversos processos de independência nas Américas, seus aspectos populacionais e suas conformações territoriais.'},
+{id:'EF08HI08',t:'Conhecer o ideário dos líderes dos movimentos independentistas e seu papel nas revoluções que levaram à independência das colônias hispano-americanas.'},
+{id:'EF08HI09',t:'Conhecer as características e os principais pensadores do Pan-americanismo.'},
+{id:'EF08HI10',t:'Identificar a Revolução de São Domingo como evento singular e desdobramento da Revolução Francesa e avaliar suas implicações.'},
+{id:'EF08HI11',t:'Identificar e explicar os protagonismos e a atuação de diferentes grupos sociais e étnicos nas lutas de independência no Brasil, na América espanhola e no Haiti.'},
+{id:'EF08HI12',t:'Caracterizar a organização política e social no Brasil desde a chegada da Corte portuguesa, em 1808, até 1822 e seus desdobramentos para a história política brasileira.'},
+{id:'EF08HI13',t:'Analisar o processo de independência em diferentes países latino-americanos e comparar as formas de governo neles adotadas.'},
+{id:'EF08HI14',t:'Discutir a noção da tutela dos grupos indígenas e a participação dos negros na sociedade brasileira do final do período colonial, identificando permanências na forma de preconceitos, estereótipos e violências sobre as populações indígenas e negras.'},
+{id:'EF08HI15',t:'Identificar e analisar o equilíbrio das forças e os sujeitos envolvidos nas disputas políticas durante o Primeiro e o Segundo Reinado.'},
+{id:'EF08HI16',t:'Identificar, comparar e analisar a diversidade política, social e regional nas rebeliões e nos movimentos contestatórios ao poder centralizado.'},
+{id:'EF08HI17',t:'Relacionar as transformações territoriais, em razão de questões de fronteiras, com as tensões e conflitos durante o Império.'},
+{id:'EF08HI18',t:'Identificar as questões internas e externas sobre a atuação do Brasil na Guerra do Paraguai e discutir diferentes versões sobre o conflito.'},
+{id:'EF08HI19',t:'Formular questionamentos sobre o legado da escravidão nas Américas, com base na seleção e consulta de fontes de diferentes naturezas.'},
+{id:'EF08HI20',t:'Identificar e relacionar aspectos das estruturas sociais da atualidade com os legados da escravidão no Brasil e discutir a importância de ações afirmativas.'},
+{id:'EF08HI21',t:'Identificar e analisar as políticas oficiais com relação ao indígena durante o Império.'},
+{id:'EF08HI22',t:'Discutir o papel das culturas letradas, não letradas e das artes na produção das identidades no Brasil do século XIX.'},
+{id:'EF08HI23',t:'Estabelecer relações causais entre as ideologias raciais e o determinismo no contexto do imperialismo europeu e seus impactos na África e na Ásia.'},
+{id:'EF08HI24',t:'Reconhecer os principais produtos utilizados pelos europeus procedentes do continente africano durante o imperialismo e analisar os impactos sobre as comunidades locais.'},
+{id:'EF08HI25',t:'Caracterizar e contextualizar aspectos das relações entre os Estados Unidos da América e a América Latina no século XIX.'},
+{id:'EF08HI26',t:'Identificar e contextualizar o protagonismo das populações locais na resistência ao imperialismo na África e Ásia.'},
+{id:'EF08HI27',t:'Identificar as tensões e os significados dos discursos civilizatórios, avaliando seus impactos negativos para os povos indígenas originários e as populações negras nas Américas.'},
+],9:[
+{id:'EF09HI01',t:'Descrever e contextualizar os principais aspectos sociais, culturais, econômicos e políticos da emergência da República no Brasil.'},
+{id:'EF09HI02',t:'Caracterizar e compreender os ciclos da história republicana, identificando particularidades da história local e regional até 1954.'},
+{id:'EF09HI03',t:'Identificar os mecanismos de inserção dos negros na sociedade brasileira pós-abolição e avaliar os seus resultados.'},
+{id:'EF09HI04',t:'Discutir a importância da participação da população negra na formação econômica, política e social do Brasil.'},
+{id:'EF09HI05',t:'Identificar os processos de urbanização e modernização da sociedade brasileira e avaliar suas contradições e impactos na região em que vive.'},
+{id:'EF09HI06',t:'Identificar e discutir o papel do trabalhismo como força política, social e cultural no Brasil, em diferentes escalas (nacional, regional, cidade, comunidade).'},
+{id:'EF09HI07',t:'Identificar e explicar, em meio a lógicas de inclusão e exclusão, as pautas dos povos indígenas, no contexto republicano (até 1964), e das populações afrodescendentes.'},
+{id:'EF09HI08',t:'Identificar as transformações ocorridas no debate sobre as questões da diversidade no Brasil durante o século XX e compreender o significado das mudanças de abordagem em relação ao tema.'},
+{id:'EF09HI09',t:'Relacionar as conquistas de direitos políticos, sociais e civis à atuação de movimentos sociais.'},
+{id:'EF09HI10',t:'Identificar e relacionar as dinâmicas do capitalismo e suas crises, os grandes conflitos mundiais e os conflitos vivenciados na Europa.'},
+{id:'EF09HI11',t:'Identificar as especificidades e os desdobramentos mundiais da Revolução Russa e seu significado histórico.'},
+{id:'EF09HI12',t:'Analisar a crise capitalista de 1929 e seus desdobramentos em relação à economia global.'},
+{id:'EF09HI13',t:'Descrever e contextualizar os processos da emergência do fascismo e do nazismo, a consolidação dos estados totalitários e as práticas de extermínio (como o holocausto).'},
+{id:'EF09HI14',t:'Caracterizar e discutir as dinâmicas do colonialismo no continente africano e asiático e as lógicas de resistência das populações locais.'},
+{id:'EF09HI15',t:'Discutir as motivações que levaram à criação da Organização das Nações Unidas (ONU) no contexto do pós-guerra e os propósitos dessa organização.'},
+{id:'EF09HI16',t:'Relacionar a Carta dos Direitos Humanos ao processo de afirmação dos direitos fundamentais e de defesa da dignidade humana, valorizando as instituições voltadas para a defesa desses direitos.'},
+{id:'EF09HI17',t:'Identificar e analisar processos sociais, econômicos, culturais e políticos do Brasil a partir de 1946.'},
+{id:'EF09HI18',t:'Descrever e analisar as relações entre as transformações urbanas e seus impactos na cultura brasileira entre 1946 e 1964 e na produção das desigualdades regionais e sociais.'},
+{id:'EF09HI19',t:'Identificar e compreender o processo que resultou na ditadura civil-militar no Brasil e discutir a emergência de questões relacionadas à memória e à justiça sobre os casos de violação dos direitos humanos.'},
+{id:'EF09HI20',t:'Discutir os processos de resistência e as propostas de reorganização da sociedade brasileira durante a ditadura civil-militar.'},
+{id:'EF09HI21',t:'Identificar e relacionar as demandas indígenas e quilombolas como forma de contestação ao modelo desenvolvimentista da ditadura.'},
+{id:'EF09HI22',t:'Discutir o papel da mobilização da sociedade brasileira do final do período ditatorial até a Constituição de 1988.'},
+{id:'EF09HI23',t:'Identificar direitos civis, políticos e sociais expressos na Constituição de 1988 e relacioná-los à noção de cidadania e ao pacto da sociedade brasileira de combate a diversas formas de preconceito, como o racismo.'},
+{id:'EF09HI24',t:'Analisar as transformações políticas, econômicas, sociais e culturais de 1989 aos dias atuais, identificando questões prioritárias para a promoção da cidadania e dos valores democráticos.'},
+{id:'EF09HI25',t:'Relacionar as transformações da sociedade brasileira aos protagonismos da sociedade civil após 1989.'},
+{id:'EF09HI26',t:'Discutir e analisar as causas da violência contra populações marginalizadas (negros, indígenas, mulheres, homossexuais, camponeses, pobres etc.) com vistas à construção de uma cultura de paz, empatia e respeito.'},
+{id:'EF09HI27',t:'Relacionar aspectos das mudanças econômicas, culturais e sociais ocorridas no Brasil a partir da década de 1990 ao papel do País no cenário internacional na era da globalização.'},
+{id:'EF09HI28',t:'Identificar e analisar aspectos da Guerra Fria, seus principais conflitos e as tensões geopolíticas no interior dos blocos liderados por soviéticos e estadunidenses.'},
+{id:'EF09HI29',t:'Descrever e analisar as experiências ditatoriais na América Latina, seus procedimentos e vínculos com o poder, em nível nacional e internacional, e a atuação de movimentos de contestação às ditaduras.'},
+{id:'EF09HI30',t:'Comparar as características dos regimes ditatoriais latino-americanos, com especial atenção para a censura política, a opressão e o uso da força, bem como para as reformas econômicas e sociais e seus impactos.'},
+{id:'EF09HI31',t:'Descrever e avaliar os processos de descolonização na África e na Ásia.'},
+{id:'EF09HI32',t:'Analisar mudanças e permanências associadas ao processo de globalização, considerando os argumentos dos movimentos críticos às políticas globais.'},
+{id:'EF09HI33',t:'Analisar as transformações nas relações políticas locais e globais geradas pelo desenvolvimento das tecnologias digitais de informação e comunicação.'},
+{id:'EF09HI34',t:'Discutir as motivações da adoção de diferentes políticas econômicas na América Latina, assim como seus impactos sociais nos países da região.'},
+{id:'EF09HI35',t:'Analisar os aspectos relacionados ao fenômeno do terrorismo na contemporaneidade, incluindo os movimentos migratórios e os choques entre diferentes grupos e culturas.'},
+{id:'EF09HI36',t:'Identificar e discutir as diversidades identitárias e seus significados históricos no início do século XXI, combatendo qualquer forma de preconceito e violência.'},
+]};
+/* Ensino Médio — compartilhado pelas 3 séries */
+const EM_BNCC=[
+{id:'EM13CHS101',t:'Identificar, analisar e comparar diferentes fontes e narrativas expressas em diversas linguagens, com vistas à compreensão de ideias filosóficas e de processos e eventos históricos, geográficos, políticos, econômicos, sociais, ambientais e culturais.'},
+{id:'EM13CHS102',t:'Identificar, analisar e discutir as circunstâncias históricas, geográficas, políticas, econômicas, sociais, ambientais e culturais de matrizes conceituais (etnocentrismo, racismo, evolução, modernidade, cooperativismo/desenvolvimento etc.), avaliando criticamente o seu significado histórico.'},
+{id:'EM13CHS103',t:'Elaborar hipóteses, selecionar evidências e compor argumentos relativos a processos políticos, econômicos, sociais, ambientais, culturais e epistemológicos, com base na sistematização de dados e informações de diversas naturezas.'},
+{id:'EM13CHS104',t:'Analisar objetos e vestígios da cultura material e imaterial de modo a identificar conhecimentos, valores, crenças e práticas que articulam a identidade e a diversidade cultural de diferentes sociedades no passado e no presente.'},
+{id:'EM13CHS105',t:'Identificar, contextualizar e criticar tipologias evolutivas (populações nômadas e sedentárias, entre outras) e oposições dicotômicas (cidade/campo, cultura/natureza, civilizados/bárbaros, razão/emoção, material/virtual etc.).'},
+{id:'EM13CHS106',t:'Utilizar as linguagens cartográfica, gráfica e iconográfica, diferentes gêneros textuais e tecnologias digitais de informação e comunicação de forma crítica, significativa, reflexiva e ética nas diversas práticas sociais.'},
+{id:'EM13CHS201',t:'Analisar e caracterizar as dinâmicas das populações, das mercadorias e do capital nos diversos continentes, com destaque para a mobilidade e a fixação de pessoas, grupos humanos e povos, em função de eventos naturais, políticos, econômicos, sociais, religiosos e culturais.'},
+{id:'EM13CHS202',t:'Analisar e avaliar os impactos das tecnologias na estruturação e nas dinâmicas de grupos, povos e sociedades contemporâneos, bem como as suas interferências nas decisões políticas, sociais, ambientais, econômicas e culturais.'},
+{id:'EM13CHS203',t:'Comparar os significados de território, fronteiras e vazio (espacial, temporal e cultural) em diferentes sociedades, contextualizando e articulando esses conceitos com a visão de mundo dessas sociedades.'},
+{id:'EM13CHS204',t:'Comparar e avaliar os processos de ocupação do espaço e a formação de territórios, territorialidades e fronteiras, identificando o papel de diferentes agentes e considerando os conflitos populacionais, a diversidade étnico-cultural e as características socioeconômicas.'},
+{id:'EM13CHS205',t:'Analisar a produção de diferentes territorialidades nas suas dimensões culturais, econômicas, ambientais, políticas e sociais, no Brasil e no mundo contemporâneo, com destaque para as culturas juvenis.'},
+{id:'EM13CHS206',t:'Analisar a ocupação humana e a produção do espaço em diferentes tempos, aplicando os princípios de localização, distribuição, ordem, extensão, conexão, arranjos, casualidade, entre outros que contribuem para o raciocínio geográfico.'},
+{id:'EM13CHS301',t:'Problematizar hábitos e práticas individuais e coletivos de produção, reaproveitamento e descarte de resíduos em metrópoles, áreas urbanas e rurais, e comunidades com diferentes características socioeconômicas.'},
+{id:'EM13CHS302',t:'Analisar e avaliar criticamente os impactos econômicos e socioambientais de cadeias produtivas ligadas à exploração de recursos naturais e às atividades agropecuárias em diferentes ambientes e escalas de análise.'},
+{id:'EM13CHS303',t:'Debater e avaliar o papel da indústria cultural e das culturas de massa na articulação das dinâmicas sociais com os processos de acumulação e consumo na espacialidade e historicidade mundiais.'},
+{id:'EM13CHS304',t:'Analisar os impactos socioambientais decorrentes de práticas de instituições governamentais, de empresas e de indivíduos, discutindo as origens dessas práticas e promovendo aquelas que favoreçam a responsabilidade ético-ambiental.'},
+{id:'EM13CHS305',t:'Analisar e discutir o papel e as competências legais dos organismos nacionais e internacionais de regulação, controle e fiscalização ambiental e dos acordos internacionais para a promoção de práticas ambientais sustentáveis.'},
+{id:'EM13CHS306',t:'Contextualizar, comparar e avaliar os impactos de diferentes modelos socioeconômicos no uso dos recursos naturais e na promoção da sustentabilidade econômica e socioambiental do planeta.'},
+{id:'EM13CHS401',t:'Identificar e analisar as relações entre sujeitos, grupos, classes sociais e sociedades com a natureza, considerando as dimensões históricas, geográficas, políticas, econômicas, sociais, ambientais e culturais.'},
+{id:'EM13CHS402',t:'Analisar e comparar os indicadores de emprego, trabalho e renda em diferentes espaços, escalas e tempos, discutindo os impactos dos avanços tecnológicos e das dinâmicas do mercado de trabalho para os jovens.'},
+{id:'EM13CHS403',t:'Caracterizar e analisar os impactos das transformações tecnológicas nas relações sociais e de trabalho próprias da contemporaneidade, promovendo ações voltadas para a superação das desigualdades sociais.'},
+{id:'EM13CHS404',t:'Identificar e discutir os múltiplos aspectos do trabalho em diferentes circunstâncias e contextos históricos e/ou geográficos e os seus efeitos sobre as gerações, em especial os jovens, levando em consideração as transformações técnicas, tecnológicas e informacionais.'},
+{id:'EM13CHS501',t:'Analisar os fundamentos da ética em diferentes culturas, tempos e espaços, identificando processos que contribuem para a formação de sujeitos éticos que valorizem a liberdade, a cooperação, a autonomia, a convivência democrática e a solidariedade.'},
+{id:'EM13CHS502',t:'Analisar situações da vida cotidiana, desnaturalizando e problematizando formas de desigualdade, preconceito, intolerância e discriminação, e identificar ações que promovam os Direitos Humanos, a solidariedade e o respeito às diferenças e às liberdades individuais.'},
+{id:'EM13CHS503',t:'Identificar diversas formas de violência (física, simbólica, psicológica etc.), as suas principais vítimas, as suas causas sociais, psicológicas e afetivas, os seus significados e usos políticos, sociais e culturais, discutindo e avaliando mecanismos para combatê-las.'},
+{id:'EM13CHS504',t:'Analisar e avaliar os impasses ético-políticos decorrentes das transformações culturais, sociais, históricas, científicas e tecnológicas no mundo contemporâneo e os seus desdobramentos nas atitudes e nos valores de indivíduos, grupos sociais, sociedades e culturas.'},
+{id:'EM13CHS601',t:'Identificar e analisar as demandas e os protagonismos políticos, sociais e culturais dos povos indígenas e das populações afrodescendentes (incluindo as quilombolas) no Brasil contemporâneo.'},
+{id:'EM13CHS602',t:'Identificar e caracterizar a presença do paternalismo, do autoritarismo e do populismo na política, na sociedade e nas culturas brasileira e latino-americana, relacionando-os com as formas de organização e de articulação das sociedades em defesa da autonomia, da liberdade, do diálogo e da promoção da democracia.'},
+{id:'EM13CHS603',t:'Analisar a formação de diferentes países, povos e nações, compreendendo as dinâmicas dos seus processos de formação, as suas matrizes culturais e políticas, e os conflitos que marcam a constituição das suas estruturas sociais, políticas e econômicas.'},
+{id:'EM13CHS604',t:'Discutir o papel dos movimentos sociais, culturais e das organizações não governamentais na formação e na consolidação da cidadania, do processo democrático e dos direitos humanos no Brasil e no mundo.'},
+{id:'EM13CHS605',t:'Analisar os princípios da declaração dos Direitos Humanos, recorrendo às noções de justiça, igualdade e fraternidade, identificar os progressos e entraves à concretização desses direitos e defender o seu cumprimento.'},
+{id:'EM13CHS606',t:'Analisar as características socioeconômicas da sociedade brasileira e avaliar as políticas públicas e o papel da sociedade civil nas esferas estadual e nacional, com vistas a debater propostas para a redução das desigualdades sociais e regionais.'},
+];
+BNCC.EM1=EM_BNCC; BNCC.EM2=EM_BNCC; BNCC.EM3=EM_BNCC;
+
+/* ═══ OBJETOS DE CONHECIMENTO ═══ */
+const OBJ={
+1:['As fases da vida e a ideia de temporalidade (passado, presente, futuro)','As diferentes formas de organização da família e da comunidade: os vínculos pessoais e as relações de amizade','A escola e a diversidade do grupo social envolvido','A vida em casa, a vida na escola e formas de representação social e espacial: os jogos e brincadeiras como forma de interação','A vida em família: diferentes configurações e vínculos','A escola, sua representação espacial, sua história e seu papel na comunidade'],
+2:['A noção do "Eu" e do "Outro": comunidade, convivências e interações entre pessoas','A noção do "Eu" e do "Outro": registros de experiências pessoais e da comunidade no tempo e no espaço','Formas de registrar e narrar histórias (marcos de memória materiais e imateriais)','O tempo como medida','As fontes: relatos orais, objetos, imagens (pinturas, fotografias, vídeos), músicas, escrita, tecnologias digitais de informação e comunicação e inscrições nas paredes, ruas e espaços sociais','A sobrevivência e a relação com a natureza'],
+3:['O "Eu", o "Outro" e os diferentes grupos sociais e étnicos que compõem a cidade e os municípios','Os patrimônios históricos e culturais da cidade e/ou do município em que vive','A produção dos marcos da memória: os lugares de memória (ruas, praças, escolas, monumentos, museus etc.)','A produção dos marcos da memória: formação cultural da população','A produção dos marcos da memória: a cidade e o campo, aproximações e diferenças','A cidade, seus espaços públicos e privados e suas áreas de conservação ambiental','A cidade e suas atividades: trabalho, cultura e lazer'],
+4:['A ação das pessoas, grupos sociais e comunidades no tempo e no espaço: nomadismo, agricultura, escrita, navegações, indústria, entre outras','O passado e o presente: a noção de permanência e as lentas transformações sociais e culturais','A circulação de pessoas e as transformações no meio natural','A invenção do comércio e a circulação de produtos','As rotas terrestres, fluviais e marítimas e seus impactos para a formação de cidades e as transformações do meio natural','O mundo da tecnologia: a integração de pessoas e as exclusões sociais e culturais','O surgimento da espécie humana no continente africano e sua expansão pelo mundo','Os processos migratórios para a formação do Brasil: os grupos indígenas, a presença portuguesa e a diáspora forçada dos africanos','Os processos migratórios do final do século XIX e início do século XX no Brasil','As dinâmicas internas de migração no Brasil a partir dos anos 1960'],
+5:['O que forma um povo: do nomadismo aos primeiros povos sedentarizados','As formas de organização social e política: a noção de Estado','O papel das religiões e da cultura para a formação dos povos antigos','Cidadania, diversidade cultural e respeito às diferenças sociais, culturais e históricas','As tradições orais e a valorização da memória','O surgimento da escrita e a noção de fonte para a transmissão de saberes, culturas e histórias','Os patrimônios materiais e imateriais da humanidade'],
+6:['A questão do tempo, sincronias e diacronias: reflexões sobre o sentido das cronologias','Formas de registro da história e da produção do conhecimento histórico','As origens da humanidade, seus deslocamentos e os processos de sedentarização','Povos da Antiguidade na África (egípcios), no Oriente Médio (mesopotâmicos) e nas Américas (pré-colombianos)','Os povos indígenas originários do atual território brasileiro e seus hábitos culturais e sociais','O Ocidente Clássico: aspectos da cultura na Grécia e em Roma','Lógicas de organização política: as noções de cidadania e política na Grécia e em Roma / domínios e expansão das culturas grega e romana / significados do conceito de "império"','As diferentes formas de organização política na África: reinos, impérios, cidades-estados e sociedades linhageiras ou aldeias','A fragmentação do poder político na Idade Média','O Mediterrâneo como espaço de interação entre as sociedades da Europa, da África e do Oriente Médio','Senhores e servos no mundo antigo e no medieval','Escravidão e trabalho livre em diferentes temporalidades e espaços (Roma Antiga, Europa medieval e África)','Lógicas comerciais na Antiguidade romana e no mundo medieval','O papel da religião cristã, dos mosteiros e da cultura na Idade Média','O papel da mulher na Grécia e em Roma, e no período medieval'],
+7:['A construção da ideia de modernidade e seus impactos na concepção de História','A ideia de "Novo Mundo" ante o Mundo Antigo: permanências e rupturas de saberes e práticas na emergência do mundo moderno','Saberes dos povos africanos e pré-colombianos expressos na cultura material e imaterial','Humanismos: uma nova visão de ser humano e de mundo / Renascimentos artísticos e culturais','Reformas religiosas: a cristandade fragmentada','As descobertas científicas e a expansão marítima','A formação e o funcionamento das monarquias europeias: a lógica da centralização política e os conflitos na Europa','A conquista da América e as formas de organização política dos indígenas e europeus: conflitos, dominação e conciliação','A estruturação dos vice-reinos nas Américas / Resistências indígenas, invasões e expansão na América portuguesa','As lógicas mercantis e o domínio europeu sobre os mares e o contraponto Oriental','As lógicas internas das sociedades africanas / As formas de organização das sociedades ameríndias / A escravidão moderna e o tráfico de escravizados','A emergência do capitalismo'],
+8:['A questão do iluminismo e da ilustração','As revoluções inglesas e os princípios do liberalismo','Revolução Industrial e seus impactos na produção e circulação de povos, produtos e culturas','Revolução Francesa e seus desdobramentos','Rebeliões na América portuguesa: as conjurações mineira e baiana','Independência dos Estados Unidos da América / Independências na América espanhola / A revolução dos escravizados em São Domingo e seus múltiplos significados / Os caminhos até a independência do Brasil','A tutela da população indígena, a escravidão dos negros e a tutela dos egressos da escravidão','Brasil: Primeiro Reinado / O Período Regencial e as contestações ao poder central / O Brasil do Segundo Reinado / Territórios e fronteiras: a Guerra do Paraguai','O escravismo no Brasil do século XIX: plantations e revoltas de escravizados, abolicionismo e políticas migratórias no Brasil Imperial','Políticas de extermínio do indígena durante o Império','A produção do imaginário nacional brasileiro: cultura popular, representações visuais, letras e o Romantismo no Brasil','Nacionalismo, revoluções e as novas nações europeias','Uma nova ordem econômica: as demandas do capitalismo industrial e o lugar das economias africanas e asiáticas nas dinâmicas globais','Os Estados Unidos da América e a América Latina no século XIX','O imperialismo europeu e a partilha da África e da Ásia','Pensamento e cultura no século XIX: darwinismo e racismo / O discurso civilizatório nas Américas / A resistência dos povos e comunidades indígenas diante da ofensiva civilizatória'],
+9:['Experiências republicanas e práticas autoritárias: as tensões e disputas do mundo contemporâneo','A proclamação da República e seus primeiros desdobramentos','A questão da inserção dos negros no período republicano do pós-abolição / Os movimentos sociais e a imprensa negra','Primeira República e suas características / Contestações e dinâmicas da vida cultural no Brasil entre 1900 e 1930','O período varguista e suas contradições / A emergência da vida urbana e a segregação espacial / O trabalhismo e seu protagonismo político','A questão indígena durante a República (até 1964)','O mundo em conflito: a Primeira Guerra Mundial / A Revolução Russa / A crise capitalista de 1929','A emergência do fascismo e do nazismo / A Segunda Guerra Mundial / Judeus e outras vítimas do holocausto','O colonialismo na África / As guerras mundiais, a crise do colonialismo e o advento dos nacionalismos africanos e asiáticos','A Organização das Nações Unidas (ONU) e a questão dos Direitos Humanos','O Brasil da era JK e o ideal de uma nação moderna: a urbanização e seus desdobramentos','Os anos 1960: revolução cultural? / A ditadura civil-militar e os processos de resistência / As questões indígena e negra e a ditadura','O processo de redemocratização / A Constituição de 1988 e a emancipação das cidadanias / A história recente do Brasil: transformações políticas, econômicas, sociais e culturais de 1989 aos dias atuais','A Guerra Fria: confrontos de dois modelos políticos / A Revolução Cubana e as tensões entre Estados Unidos e Cuba','As experiências ditatoriais na América Latina','Os processos de descolonização na África e na Ásia','O fim da Guerra Fria e o processo de globalização / Políticas econômicas na América Latina','Pluralidades e diversidades identitárias na atualidade / As pautas dos povos indígenas no século XXI'],
+EM1:['Identidade, cultura e etnocentrismo na formação dos povos','Território, fronteiras e as lógicas de poder na geopolítica mundial','Modos de produção, capitalismo e os desafios socioambientais','A evolução do trabalho humano frente às novas tecnologias','O papel do Estado, populismos, ditaduras e democracias','Direitos Humanos, ações afirmativas e o combate à desigualdade histórica','Análise de fontes e narrativas históricas em diversas linguagens','Dinâmicas populacionais, fluxos migratórios e territorialidades contemporâneas','Impactos da indústria cultural e das culturas de massa nas dinâmicas sociais','Relações de produção, capital e trabalho em perspectiva histórica e contemporânea'],
+};
+OBJ.EM2=OBJ.EM1; OBJ.EM3=OBJ.EM1;
+
+/* ═══ PRESETS FIXOS ═══ */
+const POBJ=['Identificar as principais causas e consequências de determinado evento histórico.','Analisar criticamente diferentes fontes históricas (textos, imagens, cultura material) sobre um mesmo período.','Compreender as relações de poder, hierarquias e desigualdades sociais em uma sociedade específica.','Comparar diferentes formas de governo e organização política ao longo do tempo.','Contextualizar a produção cultural, artística ou literária de uma época com o seu momento histórico.','Desenvolver a empatia histórica ao analisar o ponto de vista de diferentes atores e grupos sociais.','Reconhecer a influência e o protagonismo de povos indígenas e africanos na formação da sociedade brasileira.','Identificar permanências e rupturas em processos históricos de curta, média e longa duração.','Debater o conceito de cidadania, direitos humanos e sua evolução ao longo do tempo.','Analisar o impacto das inovações tecnológicas e científicas nas relações de trabalho e na produção.','Relacionar a história local e regional com os contextos da história nacional e global.','Avaliar criticamente o papel das mulheres e das minorias em diferentes contextos históricos.','Compreender as lógicas e os impactos dos processos de colonização, imperialismo e descolonização.','Diferenciar memória, mito e história na construção das narrativas oficiais.','Formular hipóteses sobre processos históricos com base em evidências documentais e arqueológicas.'];
+const PMET=['Aula expositiva dialogada com uso de recursos visuais e questionamentos constantes.','Análise orientada de documentos históricos primários em pequenos grupos.','Rotação por estações de aprendizagem, com diferentes fontes ou perspectivas de um mesmo período histórico.','Realização de um júri simulado para debater um evento histórico controverso.','Produção de mapas mentais ou conceituais para síntese colaborativa de processos históricos complexos.','Estudo de meio ou visita presencial/virtual a museus, exposições e sítios arqueológicos ou históricos.','Sala de aula invertida, mediante a leitura prévia de textos em casa e foco no debate presencial.','Gamificação do conteúdo com uso de quizzes, jogos de tabuleiro históricos ou resolução de enigmas.','Construção coletiva de linhas do tempo interativas (físicas em papel pardo ou digitais).','Role-playing (dramatização) onde os alunos assumem o papel de personagens ou grupos sociais da época.','Análise crítica e debate a partir da exibição de trechos de filmes, documentários ou novelas de época.','Pesquisa orientada em laboratório de informática sobre um tema específico para posterior apresentação.','Rodas de conversa e debates regrados sobre temas transversais, conectando o passado com problemas do presente.','Elaboração de publicações de época pelos alunos (jornais, panfletos políticos ou manifestos).','Projetos de História Oral, com a realização de entrevistas a membros da comunidade local para resgate de memória.'];
+const PREC=['Livro didático de História adotado pela instituição.','Mapas históricos, políticos e geográficos (impressos ou projetados).','Cópias de fontes primárias impressas (cartas, leis, discursos, diários, recortes de jornais de época).','Fotografias históricas, pinturas, iluminuras medievais e charges políticas.','Trechos pré-selecionados de filmes, documentários e séries com curadoria histórica.','Projetor multimídia (datashow), computador e caixa de som.','Lousa e marcadores ou giz de diferentes cores para esquematização.','Jogos de tabuleiro analógicos com temática histórica e de estratégia.','Plataformas digitais e ambientes virtuais (Kahoot, Padlet, Google Earth, Mentimeter).','Acesso a acervos e museus digitais (Biblioteca Nacional, Arquivo Nacional, Google Arts & Culture).','Reprodutor de áudio para audição de músicas, hinos e canções de diferentes épocas.','Réplicas de objetos históricos, moedas, selos ou artefatos de cultura material.','Materiais de papelaria para atividades manuais (cartolina, papel pardo, tesoura, cola, canetas coloridas).','Textos historiográficos curtos, artigos de divulgação científica ou ensaios para leitura complementar.','Heródoto — plataforma de grafo histórico e linha do tempo interativa (luddevergard3n.github.io/Herodoto).'];
+const PAVA=['Prova escrita dissertativa exigindo o desenvolvimento de raciocínio, análise e síntese histórica.','Teste objetivo estruturado com questões de múltipla escolha focadas na interpretação de textos e imagens.','Avaliação formativa e contínua através da observação da participação em debates e formulação de perguntas.','Produção escrita de um ensaio histórico ou artigo de opinião sobre o tema estudado.','Apresentação oral de seminários temáticos desenvolvidos em grupo, avaliando clareza e domínio de conteúdo.','Avaliação por meio de relatórios de pesquisa bibliográfica ou relatórios de visitas a espaços de memória.','Construção e entrega de um portfólio individual acumulando as principais produções do bimestre/trimestre.','Uso de rubricas de avaliação aplicadas a um projeto prático (qualidade da pesquisa, criatividade, trabalho em equipe).','Mapa mental avaliativo feito em sala para verificar a compreensão das conexões causais de um processo.','Formulário de autoavaliação do aluno, refletindo sobre o seu próprio processo de aprendizagem e engajamento.','Entrega de fichamentos estruturados ou resumos críticos de textos historiográficos e fontes primárias.','Atividade de análise de imagem (charge, quadro, foto) com um roteiro de perguntas discursivas.','Avaliação da capacidade de argumentação e fundamentação durante atividade de júri simulado.','Avaliação de produtos criativos digitais, como a criação de um podcast ou um vídeo curto explicando um conceito histórico.','Verificação periódica do caderno do aluno, avaliando a organização das anotações e a resolução das atividades.'];
+
+/* ═══ RENDER ═══ */
+function rc(boxId,items,pfx,hasId=false){
+  const b=document.getElementById(boxId);
+  if(!items||!items.length){b.innerHTML='<div class="pe2">Selecione o ano/série para ver as opções.</div>';return;}
+  b.innerHTML=items.map((item,i)=>{
+    const id=hasId?item.id:`${pfx}-${i}`;
+    const txt=hasId?item.t:item;
+    const lbl=hasId?`<span class="pid">${item.id}</span>${txt}`:txt;
+    return `<div class="pi"><input type="checkbox" id="c-${boxId}-${i}" class="${pfx}-ck" data-text="${txt.replace(/"/g,'&quot;')}"><label for="c-${boxId}-${i}">${lbl}</label></div>`;
+  }).join('');
+}
+function rp(boxId,items,pfx){rc(boxId,items,pfx,false);}
+function onAno(){
+  const a=document.getElementById('f-ano').value;
+  const k=isNaN(parseInt(a))?a:parseInt(a);
+  rc('box-obj',OBJ[k]||null,'obj');
+  rc('box-bncc',BNCC[k]||null,'bncc',true);
+}
+function gc(pfx,xaId){
+  const ch=[...document.querySelectorAll(`.${pfx}-ck:checked`)].map(c=>c.dataset.text);
+  const ex=(document.getElementById(xaId)?.value||'').trim();
+  return [...ch,...(ex?[ex]:[])];
+}
+rp('box-obt',POBJ,'obt');rp('box-met',PMET,'met');rp('box-rec',PREC,'rec');rp('box-ava',PAVA,'ava');
+
+/* ═══ GERAR ═══ */
+function v(id){return(document.getElementById(id)?.value||'').trim();}
+function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\n/g,'<br>');}
+function sec(t,c){return`<div class="ds"><span class="dst">${t}</span>${c}</div>`;}
+function li(arr){return arr.map(t=>`<div class="dli">${esc(t)}</div>`).join('');}
+
+function gerar(){
+  const prof=v('f-prof'),escola=v('f-escola'),turma=v('f-turma');
+  const dr=v('f-data'),bim=v('f-bim'),na=v('f-naulas'),dur=v('f-dur'),tema=v('f-tema');
+  const refs=v('f-refs'),obs=v('f-obs');
+  const av=document.getElementById('f-ano').value;
+  const sm={'1':'1º ano','2':'2º ano','3':'3º ano','4':'4º ano','5':'5º ano',
+    '6':'6º ano','7':'7º ano','8':'8º ano','9':'9º ano',
+    'EM1':'1ª série EM','EM2':'2ª série EM','EM3':'3ª série EM'};
+  const serie=sm[av]||av||'—';
+  let df=dr;if(dr){const[y,m,d]=dr.split('-');df=`${d}/${m}/${y}`;}
+  const bn=[...document.querySelectorAll('.bncc-ck:checked')].map(c=>{
+    const pid=c.closest('.pi').querySelector('.pid')?.textContent||'';
+    return{id:pid,t:c.dataset.text};
+  });
+  const obj=gc('obj','xa-obj'),obt=gc('obt','xa-obt'),met=gc('met','xa-met'),rec=gc('rec','xa-rec'),ava=gc('ava','xa-ava');
+  let h='';
+  h+=`<div class="dhl"><div>${escola?`<div class="des">${esc(escola)}</div>`:''}</div><div style="font-size:.74rem;color:#7a6228;text-align:right">${df||''}${bim?' · '+bim:''}</div></div>`;
+  h+=`<div class="dti">Plano de Aula — História</div>`;
+  h+=`<div class="dm">
+    <div class="dmi"><span class="dml">Professor(a)</span><span class="dmv">${prof||'&nbsp;'}</span></div>
+    <div class="dmi"><span class="dml">Componente Curricular</span><span class="dmv">História</span></div>
+    <div class="dmi"><span class="dml">Ano / Série</span><span class="dmv">${serie}</span></div>
+    <div class="dmi"><span class="dml">Turma</span><span class="dmv">${turma||'&nbsp;'}</span></div>
+    <div class="dmi"><span class="dml">Nº de Aulas</span><span class="dmv">${na} aula${na>1?'s':''} de ${dur}</span></div>
+    <div class="dmi"><span class="dml">Data</span><span class="dmv">${df||'&nbsp;'}</span></div>
+  </div>`;
+  if(tema)h+=sec('Tema',`<div class="dbd">${esc(tema)}</div>`);
+  if(obj.length)h+=sec('Objetos de Conhecimento',li(obj));
+  if(bn.length)h+=sec('Habilidades BNCC',bn.map(x=>`<div class="dbi"><span class="cd">${x.id}</span>${x.t}</div>`).join(''));
+  if(obt.length)h+=sec('Objetivos de Aprendizagem',li(obt));
+  if(met.length)h+=sec('Metodologia / Estratégias Didáticas',li(met));
+  if(rec.length)h+=sec('Recursos Didáticos',li(rec));
+  if(ava.length)h+=sec('Avaliação',li(ava));
+  if(refs)h+=sec('Referências',`<div class="dbd">${esc(refs)}</div>`);
+  if(obs)h+=sec('Observações',`<div class="dbd">${esc(obs)}</div>`);
+  h+=`<div class="das"><div><div class="dal"></div><div class="dab">${prof?esc(prof):'Professor(a)'}</div></div><div><div class="dal"></div><div class="dab">Coordenação / Visto</div></div></div>`;
+  document.getElementById('doc').innerHTML=h;
+}
+
+function limpar(){
+  document.querySelectorAll('input[type=text],input[type=date],textarea').forEach(e=>e.value='');
+  document.querySelectorAll('select').forEach(e=>e.selectedIndex=0);
+  document.querySelectorAll('input[type=checkbox]').forEach(e=>e.checked=false);
+  document.getElementById('box-obj').innerHTML='<div class="pe2">Selecione o ano/série para ver os objetos de conhecimento.</div>';
+  document.getElementById('box-bncc').innerHTML='<div class="pe2">Selecione o ano/série para ver as habilidades.</div>';
+  document.getElementById('doc').innerHTML='<div class="dem">Preencha o formulário e clique em <strong>Gerar Plano</strong>.</div>';
+}
+document.getElementById('f-data').valueAsDate=new Date();
+function calcCarga(){
+  const n=parseInt(document.getElementById('f-naulas').value)||0;
+  const durTxt=document.getElementById('f-dur').value;
+  const m=durTxt==='1h30'?90:parseInt(durTxt);
+  const tot=n*m;
+  let txt='';
+  if(tot>=60){const h=Math.floor(tot/60),r=tot%60;txt=r?`${h}h${String(r).padStart(2,'0')}min`:`${h}h`;}
+  else{txt=`${tot} min`;}
+  document.getElementById('f-carga').value=txt;
+}
+calcCarga();
+</script>
+</body>
+</html>
