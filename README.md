@@ -291,6 +291,21 @@ node tests/runner.js --list
 
 ---
 
+## Ecossistema
+
+O Heródoto faz parte de uma série de ferramentas pedagógicas de código aberto, cada uma nomeada em homenagem a um pensador que definiu sua disciplina:
+
+| Ferramenta | Disciplina | Link |
+|---|---|---|
+| **Heródoto** *(você está aqui)* | História — grafo de conhecimento e linha do tempo interativa | [luddevergard3n.github.io/Herodoto](https://luddevergard3n.github.io/Herodoto/) |
+| **Euclides** | Matemática — exercícios, provas e revisão | [luddevergard3n.github.io/euclides](https://luddevergard3n.github.io/euclides/) |
+| **Quintiliano** | Língua Portuguesa e Literatura | [luddevergard3n.github.io/quintiliano](https://luddevergard3n.github.io/quintiliano/) |
+| **Johnson English** | Laboratório de Língua Inglesa | [luddevergard3n.github.io/johnson-english](https://luddevergard3n.github.io/johnson-english/) |
+| **Lavoisier** | Laboratório Visual de Química | [luddevergard3n.github.io/lavoisier](https://luddevergard3n.github.io/lavoisier/) |
+| **Humboldt** | Atlas Interativo de Geografia | [luddevergard3n.github.io/humboldt](https://luddevergard3n.github.io/humboldt/) |
+
+---
+
 ## Tecnologias
 
 - **D3.js** v7 — grafo e simulação de força

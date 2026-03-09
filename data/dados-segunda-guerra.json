@@ -73,10 +73,10 @@
       "region": "Multiple",
       "type": "war",
       "period": "Modern",
-      "importancia_en": "[Invasion of Poland] Marco inicial da Segunda Guerra Mundial na Europa.",
-      "importancia_es": "[Invasión de Polonia] Marco inicial da Segunda Guerra Mundial na Europa.",
-      "descricao_en": "Alemanha invadiu Polônia em 1 setembro 1939, iniciando Segunda Guerra. França e Reino Unido declararam guerra à Alemanha em 3 setembro. URSS invadiu Polônia oriental em 17 setembro.",
-      "descricao_es": "Alemanha invadiu Polônia em 1 setembro 1939, iniciando Segunda Guerra. França e Reino Unido declararam guerra à Alemanha em 3 setembro. URSS invadiu Polônia oriental em 17 setembro."
+      "importancia_en": "The attack on Poland marked the turning point of European politics from appeasement to total war. The Ribbentrop-Molotov Pact (August 23, 1939) guaranteed Germany a secure eastern rear — without it, Hitler would not have dared to attack. The Franco-British response revealed that the Western powers finally recognized that Munich appeasement had failed.",
+      "importancia_es": "El ataque a Polonia marcó el giro de la política europea del apaciguamiento a la guerra total. El Pacto Ribbentrop-Molotov (23 agosto 1939) garantizó a Alemania la retaguardia este. La respuesta franco-británica reveló que las potencias occidentales finalmente reconocieron que el apaciguamiento de Múnich había fracasado.",
+      "descricao_en": "Germany invaded Poland on September 1, 1939, starting World War II. France and the United Kingdom declared war on Germany on September 3. The USSR invaded eastern Poland on September 17.",
+      "descricao_es": "Alemania invadió Polonia el 1 de septiembre de 1939, iniciando la Segunda Guerra. Francia y el Reino Unido declararon la guerra a Alemania el 3 de septiembre. La URSS invadió Polonia oriental el 17 de septiembre."
     },
     {
       "id": "sgm-004",
@@ -97,10 +97,10 @@
       "region": "Multiple",
       "type": "technological",
       "period": "Modern",
-      "importancia_en": "[Blitzkrieg] Revolucionou guerra moderna com mobilidade e coordenação entre armas.",
-      "importancia_es": "[Blitzkrieg] Revolucionou guerra moderna com mobilidade e coordenação entre armas.",
-      "descricao_en": "Tática militar alemã de 'guerra-relâmpago' combinando aviação, tanques e infantaria motorizada em ataques rápidos. Derrotou França em 6 semanas (maio-junho 1940).",
-      "descricao_es": "Tática militar alemã de 'guerra-relâmpago' combinando aviação, tanques e infantaria motorizada em ataques rápidos. Derrotou França em 6 semanas (maio-junho 1940)."
+      "importancia_en": "Blitzkrieg was not merely a tactic — it was a philosophy of decentralized command (Auftragstaktik): field officers could make decisions without consulting high command. The fall of France in 6 weeks (while WWI lasted 4 years on the same front) demonstrated that mobility surpassed static defensive lines. The failure of Blitzkrieg in the USSR showed its limits: it depended on finite space and an enemy unable to retreat indefinitely.",
+      "importancia_es": "La Blitzkrieg no era solo una táctica — era una filosofía de mando descentralizado (Auftragstaktik): los oficiales de campo podían tomar decisiones sin consultar al alto mando. La caída de Francia en 6 semanas demostró que la movilidad superaba las líneas defensivas estáticas. El fracaso de la Blitzkrieg en la URSS mostró sus límites.",
+      "descricao_en": "German \"lightning war\" military tactic combining aviation, tanks and motorized infantry in rapid attacks. Defeated France in 6 weeks (May–June 1940).",
+      "descricao_es": "Táctica militar alemana de \"guerra relámpago\" que combinaba aviación, tanques e infantería motorizada en ataques rápidos. Derrotó a Francia en 6 semanas (mayo–junio 1940)."
     },
     {
       "id": "sgm-005",
@@ -121,16 +121,16 @@
       "region": "Multiple",
       "type": "war",
       "period": "Modern",
-      "importancia_en": "[Battle of Britain] Impediu conquista nazista da Grã-Bretanha, mantendo resistência ocidental.",
-      "importancia_es": "[Batalla de Inglaterra] Impediu conquista nazista da Grã-Bretanha, mantendo resistência ocidental.",
-      "descricao_en": "Campanha aérea alemã (julho-outubro 1940) para destruir RAF e preparar invasão britânica. Primeira grande derrota nazista, impediu invasão.",
-      "descricao_es": "Campanha aérea alemã (julho-outubro 1940) para destruir RAF e preparar invasão britânica. Primeira grande derrota nazista, impediu invasão."
+      "importancia_en": "The Battle of Britain was Hitler's first major strategic defeat. The RAF survived thanks to three factors: radar (technology the Luftwaffe underestimated), British aircraft industrial production superior to Germany's, and the German decision to shift targets from airfields to cities (the Blitz) — relieving pressure on the RAF at a critical moment. Britain's survival as an Allied base was indispensable for D-Day in 1944.",
+      "importancia_es": "La Batalla de Inglaterra fue la primera gran derrota estratégica de Hitler. La RAF sobrevivió gracias al radar, a la producción industrial británica de aviones superior a la alemana, y a la decisión alemana de cambiar el objetivo de los aeródromos a las ciudades. La supervivencia de Gran Bretaña fue indispensable para el Día D de 1944.",
+      "descricao_en": "German air campaign (July–October 1940) to destroy the RAF and prepare for a British invasion. The first major Nazi defeat, it prevented the invasion.",
+      "descricao_es": "Campaña aérea alemana (julio–octubre 1940) para destruir la RAF y preparar la invasión británica. Primera gran derrota nazi, impidió la invasión."
     },
     {
       "id": "sgm-006",
       "nome": "Operação Barbarossa",
       "nome_en": "Operation Barbarossa",
-      "nome_es": "Operación Barbarossa",
+      "nome_es": "Operación Barbarroja",
       "tipo": "conflito",
       "descricao": "Invasão nazista da URSS (22 junho 1941) com 3,8 milhões de soldados. Maior operação militar terrestre da história. Fracassou diante de Moscou no inverno.",
       "inicio": 1941,
@@ -145,10 +145,10 @@
       "region": "Multiple",
       "type": "war",
       "period": "Modern",
-      "importancia_en": "[Operation Barbarossa] Abriu Frente Oriental, maior teatro de guerra onde Alemanha foi derrotada.",
-      "importancia_es": "[Operación Barbarossa] Abriu Frente Oriental, maior teatro de guerra onde Alemanha foi derrotada.",
-      "descricao_en": "Invasão nazista da URSS (22 junho 1941) com 3,8 milhões de soldados. Maior operação militar terrestre da história. Fracassou diante de Moscou no inverno.",
-      "descricao_es": "Invasão nazista da URSS (22 junho 1941) com 3,8 milhões de soldados. Maior operação militar terrestre da história. Fracassou diante de Moscou no inverno."
+      "importancia_en": "Barbarossa was Hitler's greatest strategic mistake: it opened a 2,900 km front against a country with unlimited human and territorial reserves. The Eastern Front accounted for 80% of German casualties in the war. The battles of Moscow (1941), Stalingrad (1942–43) and Kursk (1943) destroyed the core of the German army. The \"General Winter\" factor was real — but the German logistical collapse, aggravated by brutal Soviet resistance, was the main cause of failure.",
+      "importancia_es": "Barbarroja fue el mayor error estratégico de Hitler: abrió un frente de 2.900 km contra un país con reservas humanas y territoriales ilimitadas. El Frente Oriental respondió por el 80% de las bajas alemanas en la guerra. Las batallas de Moscú, Stalingrado y Kursk destruyeron el núcleo del ejército alemán.",
+      "descricao_en": "Nazi invasion of the USSR (June 22, 1941) with 3.8 million soldiers. The largest land military operation in history. It failed before Moscow in winter.",
+      "descricao_es": "Invasión nazi de la URSS (22 de junio de 1941) con 3,8 millones de soldados. La mayor operación militar terrestre de la historia. Fracasó ante Moscú en el invierno."
     },
     {
       "id": "sgm-007",
@@ -169,10 +169,10 @@
       "region": "Multiple",
       "type": "war",
       "period": "Modern",
-      "importancia_en": "[Attack on Pearl Harbor] Provocou entrada americana transformando conflito em verdadeiramente mundial.",
-      "importancia_es": "[Ataque a Pearl Harbor] Provocou entrada americana transformando conflito em verdadeiramente mundial.",
-      "descricao_en": "Japão atacou base naval americana Pearl Harbor (7 dezembro 1941) sem declaração de guerra, destruindo frota do Pacífico. EUA entraram imediatamente na guerra.",
-      "descricao_es": "Japão atacou base naval americana Pearl Harbor (7 dezembro 1941) sem declaração de guerra, destruindo frota do Pacífico. EUA entraram imediatamente na guerra."
+      "importancia_en": "Pearl Harbor transformed a European conflict into a truly global war. The US, with the largest GDP on the planet, entered with unparalleled industrial capacity: by 1944 it produced more aircraft, tanks and ships than all Axis countries combined. The Japanese decision to attack revealed a catastrophic miscalculation: they expected a negotiated settlement, but unified American opinion — divided between isolationism and intervention — into an impulse for total war.",
+      "importancia_es": "Pearl Harbor transformó un conflicto europeo en una guerra verdaderamente mundial. Los EE.UU., con el mayor PIB del planeta, entraron con capacidad industrial incomparable: hasta 1944 produjeron más aviones, tanques y barcos que todos los países del Eje juntos. La decisión japonesa de atacar fue un error de cálculo catastrófico.",
+      "descricao_en": "Japan attacked the American naval base at Pearl Harbor (December 7, 1941) without a declaration of war, destroying the Pacific fleet. The US immediately entered the war.",
+      "descricao_es": "Japón atacó la base naval americana de Pearl Harbor (7 de diciembre de 1941) sin declaración de guerra, destruyendo la flota del Pacífico. Los EE.UU. entraron inmediatamente en la guerra."
     },
     {
       "id": "sgm-008",
@@ -224,8 +224,8 @@
     {
       "id": "sgm-010",
       "nome": "Dia D - Desembarque na Normandia",
-      "nome_en": "D-Day - Normandy Landings",
-      "nome_es": "Día D - Desembarco de Normandía",
+      "nome_en": "D-Day — Normandy Landings",
+      "nome_es": "Día D — Desembarco en Normandía",
       "tipo": "evento",
       "descricao": "Invasão aliada da França ocupada (6 junho 1944) com 156.000 soldados desembarcando em praias normandas. Maior operação anfíbia da história.",
       "inicio": 1944,
@@ -240,15 +240,15 @@
       "region": "Multiple",
       "type": "war",
       "period": "Modern",
-      "importancia_en": "[D-Day - Normandy Landings] Abriu Segunda Frente na Europa, acelerando derrota nazista.",
-      "importancia_es": "[Día D - Desembarco de Normandía] Abriu Segunda Frente na Europa, acelerando derrota nazista.",
-      "descricao_en": "Invasão aliada da França ocupada (6 junho 1944) com 156.000 soldados desembarcando em praias normandas. Maior operação anfíbia da história.",
-      "descricao_es": "Invasão aliada da França ocupada (6 junho 1944) com 156.000 soldados desembarcando em praias normandas. Maior operação anfíbia da história."
+      "importancia_en": "D-Day was the largest amphibious operation in history: 156,000 soldiers, 11,000 aircraft, 6,900 ships. The opening of the Second Front relieved pressure on the Red Army, which had borne the weight of the war since 1941. Success owed much to the massive deception operation (Operation Fortitude) that convinced Hitler the real landing would be at Pas-de-Calais.",
+      "importancia_es": "El Día D fue la mayor operación anfibia de la historia: 156.000 soldados, 11.000 aviones, 6.900 barcos. La apertura del Segundo Frente alivió la presión sobre el Ejército Rojo. El éxito se debió en gran medida a la enorme operación de engaño (Operación Fortitude) que convenció a Hitler de que el desembarco real sería en el Paso de Calais.",
+      "descricao_en": "Allied invasion of occupied France (June 6, 1944) with 156,000 soldiers landing on the Norman beaches. The largest amphibious operation in history.",
+      "descricao_es": "Invasión aliada de la Francia ocupada (6 de junio de 1944) con 156.000 soldados desembarcando en las playas de Normandía. La mayor operación anfibia de la historia."
     },
     {
       "id": "sgm-011",
       "nome": "Bombas Atômicas",
-      "nome_en": "Atomic Bombings",
+      "nome_en": "Atomic Bombs",
       "nome_es": "Bombas Atómicas",
       "tipo": "evento",
       "descricao": "EUA lançaram bombas atômicas sobre Hiroshima (6 agosto) e Nagasaki (9 agosto 1945), matando 200.000 pessoas. Japão rendeu-se em 15 agosto.",
@@ -264,10 +264,10 @@
       "region": "Multiple",
       "type": "technological",
       "period": "Contemporary",
-      "importancia_en": "[Atomic Bombings] Primeira e única utilização de armas nucleares em guerra, inaugurou era atômica.",
-      "importancia_es": "[Bombas Atómicas] Primeira e única utilização de armas nucleares em guerra, inaugurou era atômica.",
-      "descricao_en": "EUA lançaram bombas atômicas sobre Hiroshima (6 agosto) e Nagasaki (9 agosto 1945), matando 200.000 pessoas. Japão rendeu-se em 15 agosto.",
-      "descricao_es": "EUA lançaram bombas atômicas sobre Hiroshima (6 agosto) e Nagasaki (9 agosto 1945), matando 200.000 pessoas. Japão rendeu-se em 15 agosto."
+      "importancia_en": "Hiroshima and Nagasaki inaugurated the nuclear age and opened the most enduring ethical debate in military history: is using weapons of mass destruction against civilian populations justifiable if it shortens a war? The debate remains open. The atomic bomb also accelerated the Soviet arms race (the USSR tested its own bomb in 1949), creating the balance of terror that structured the Cold War for 40 years and, indirectly, prevented a conventional Third World War between superpowers.",
+      "importancia_es": "Hiroshima y Nagasaki inauguraron la era nuclear y abrieron el debate ético más duradero de la historia militar: ¿usar armas de destrucción masiva contra poblaciones civiles es justificable si acorta una guerra? La bomba atómica también aceleró la carrera armamentista soviética, creando el equilibrio de terror que estructuró la Guerra Fría durante 40 años.",
+      "descricao_en": "The US dropped atomic bombs on Hiroshima (August 6) and Nagasaki (August 9, 1945), killing 200,000 people. Japan surrendered on August 15.",
+      "descricao_es": "EE.UU. lanzó bombas atómicas sobre Hiroshima (6 de agosto) y Nagasaki (9 de agosto de 1945), matando a 200.000 personas. Japón se rindió el 15 de agosto."
     },
     {
       "id": "sgm-012",

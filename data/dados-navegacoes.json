@@ -129,8 +129,8 @@
     {
       "id": "nav-009",
       "nome": "Intercâmbio Colombiano",
-      "nome_en": "Columbian Exchange",
-      "nome_es": "Intercambio Colombino",
+      "nome_en": "The Columbian Exchange",
+      "nome_es": "El Intercambio Colombino",
       "tipo": "conceito",
       "descricao": "Transferência massiva de plantas, animais, doenças e culturas entre Velho e Novo Mundo após 1492. Incluiu batata, milho, tomate para Europa e cavalos, trigo para Américas.",
       "inicio": 1492,
@@ -144,10 +144,10 @@
       "region": "Multiple",
       "type": "cultural",
       "period": "EarlyModern",
-      "importancia_en": "[Columbian Exchange] Revolucionou agricultura, demografia e ecologia global, mas dizimou populações nativas com doenças.",
-      "importancia_es": "[Intercambio Colombino] Revolucionou agricultura, demografia e ecologia global, mas dizimou populações nativas com doenças.",
-      "descricao_en": "Transferência massiva de plantas, animais, doenças e culturas entre Velho e Novo Mundo após 1492. Incluiu batata, milho, tomate para Europa e cavalos, trigo para Américas.",
-      "descricao_es": "Transferência massiva de plantas, animais, doenças e culturas entre Velho e Novo Mundo após 1492. Incluiu batata, milho, tomate para Europa e cavalos, trigo para Américas."
+      "importancia_en": "The Columbian Exchange was, in terms of long-term human impact, perhaps the most consequential event of the Age of Exploration. The potato fed Europe and enabled the population growth that sustained the Industrial Revolution. Corn and cassava transformed African agriculture. The tomato reinvented Italian and Spanish cuisine. In the reverse direction, influenza, smallpox and measles decimated Amerindian populations never before exposed to these pathogens.",
+      "importancia_es": "El Intercambio Colombino fue, en términos de impacto humano a largo plazo, quizás el evento más consecuente de las Navegaciones. La patata alimentó a Europa y permitió el crecimiento poblacional que sostuvo la Revolución Industrial. El maíz y la yuca transformaron la agricultura africana. El tomate reinventó la cocina italiana y española. En sentido inverso, la gripe, la viruela y el sarampión diezmaron poblaciones amerindias que nunca habían sido expuestas a esos patógenos.",
+      "descricao_en": "Massive transfer of plants, animals, diseases and cultures between the Old and New World after 1492. It included potatoes, corn, and tomatoes to Europe, and horses and wheat to the Americas.",
+      "descricao_es": "Transferencia masiva de plantas, animales, enfermedades y culturas entre el Viejo y el Nuevo Mundo después de 1492. Incluyó patatas, maíz y tomates a Europa, y caballos y trigo a las Américas."
     },
     {
       "id": "nav-006",
@@ -240,10 +240,10 @@
       "region": "Multiple",
       "type": "economic",
       "period": "EarlyModern",
-      "importancia_en": "[East India Company] Precursoras de corporações multinacionais, expandiram colonialismo europeu na Ásia.",
-      "importancia_es": "[Compañía de las Indias Orientales] Precursoras de corporações multinacionais, expandiram colonialismo europeu na Ásia.",
-      "descricao_en": "Companhias comerciais monopolistas estabelecidas por holandeses (1602), ingleses (1600) e franceses para comércio asiático. Detinham poder militar e político.",
-      "descricao_es": "Companhias comerciais monopolistas estabelecidas por holandeses (1602), ingleses (1600) e franceses para comércio asiático. Detinham poder militar e político."
+      "importancia_en": "The East India Company (VOC, 1602) was the first multinational company in history with tradeable stock exchange shares — simultaneously inventing shareholder capitalism and corporate imperialism. It had sovereign powers: to wage wars, sign treaties, mint currency. Its model — a private company exercising state power — was copied by the British and shaped 19th-century colonial imperialism. The VOC went bankrupt in 1799, but the model persists in modern multinationals.",
+      "importancia_es": "La Compañía de las Indias Orientales (VOC, 1602) fue la primera empresa multinacional de la historia con acciones negociables en bolsa — inventando al mismo tiempo el capitalismo accionista y el imperialismo corporativo. Tenía poderes soberanos: hacer guerras, firmar tratados, acuñar moneda. Su modelo — empresa privada ejerciendo poder estatal — fue copiado por los británicos y moldeó el imperialismo colonial del siglo XIX. La VOC quebró en 1799, pero el modelo persiste en las multinacionales modernas.",
+      "descricao_en": "Monopoly trading companies established by the Dutch (1602), English (1600) and French for Asian trade. They held military and political power.",
+      "descricao_es": "Compañías comerciales monopolistas establecidas por los holandeses (1602), ingleses (1600) y franceses para el comercio asiático. Detentaban poder militar y político."
     }
   ],
   "relacoes": [

@@ -83,8 +83,8 @@
     {
       "id": "omm1",
       "nome": "A Partilha do Imperio Otomano e o Acordo Sykes-Picot",
-      "nome_en": "A Partilha do Imperio Otomano e o Acordo Sykes-Picot",
-      "nome_es": "A Partilha do Imperio Otomano e o Acordo Sykes-Picot",
+      "nome_en": "The Partition of the Ottoman Empire and the Sykes-Picot Agreement",
+      "nome_es": "La Partición del Imperio Otomano y el Acuerdo Sykes-Picot",
       "tipo": "evento",
       "inicio": 1916,
       "fim": 1923,
@@ -93,11 +93,11 @@
       "century_start": 20,
       "type": "Modern",
       "descricao": "O Acordo Sykes-Picot (maio 1916) foi o pacto secreto britanico-frances que dividiu o Oriente Medio em zonas de influencia ANTES do fim da guerra - traindo a Revolta Arabe que os britanicos financiavam simultaneamente. As fronteiras que criaram (Siria, Libano, Iraque, Jordania) cortavam etnias, tribos e familias - criando os conflitos que ainda existem. Lawrence da Arabia ficou furioso quando soube.",
-      "descricao_en": "O Acordo Sykes-Picot (maio 1916) foi o pacto secreto britanico-frances que dividiu o Oriente Medio em zonas de influencia ANTES do fim da guerra - traindo a Revolta Arabe que os britanicos financiavam simultaneamente. As fronteiras que criaram (Siria, Libano, Iraque, Jordania) cortavam etnias, tribos e familias - criando os conflitos que ainda existem. Lawrence da Arabia ficou furioso quando soube.",
-      "descricao_es": "O Acordo Sykes-Picot (maio 1916) foi o pacto secreto britanico-frances que dividiu o Oriente Medio em zonas de influencia ANTES do fim da guerra - traindo a Revolta Arabe que os britanicos financiavam simultaneamente. As fronteiras que criaram (Siria, Libano, Iraque, Jordania) cortavam etnias, tribos e familias - criando os conflitos que ainda existem. Lawrence da Arabia ficou furioso quando soube.",
+      "descricao_en": "The Sykes-Picot Agreement (May 1916) was the secret British-French pact that divided the Middle East into spheres of influence BEFORE the end of the war — betraying the Arab Revolt that the British were simultaneously financing. The borders they created (Syria, Lebanon, Iraq, Jordan) cut across ethnicities, tribes and families — creating the conflicts that still exist. Lawrence of Arabia was furious when he found out.",
+      "descricao_es": "El Acuerdo Sykes-Picot (mayo de 1916) fue el pacto secreto británico-francés que dividió Oriente Medio en zonas de influencia ANTES del fin de la guerra — traicionando la Revuelta Árabe que los británicos financiaban simultáneamente. Las fronteras que crearon (Siria, Líbano, Irak, Jordania) cortaban etnias, tribus y familias. Lawrence de Arabia se enfureció cuando lo supo.",
       "importancia": "O Acordo Sykes-Picot e o acordo mais amaldicoado da historia diplomatica - citado em cada discurso jihadista como prova da conspiracao ocidental. As fronteiras que desenhou em 100 anos produziram mais guerras que qualquer acordo da historia.",
-      "importancia_en": "O Acordo Sykes-Picot e o acordo mais amaldicoado da historia diplomatica - citado em cada discurso jihadista como prova da conspiracao ocidental. As fronteiras que desenhou em 100 anos produziram mais guerras que qualquer acordo da historia.",
-      "importancia_es": "O Acordo Sykes-Picot e o acordo mais amaldicoado da historia diplomatica - citado em cada discurso jihadista como prova da conspiracao ocidental. As fronteiras que desenhou em 100 anos produziram mais guerras que qualquer acordo da historia.",
+      "importancia_en": "The Sykes-Picot Agreement is the most cursed agreement in diplomatic history — cited in every jihadist speech as proof of Western conspiracy. The borders it drew have produced more wars in 100 years than any agreement in history.",
+      "importancia_es": "El Acuerdo Sykes-Picot es el acuerdo más maldecido de la historia diplomática — citado en cada discurso yihadista como prueba de la conspiración occidental. Las fronteras que trazó en 100 años han producido más guerras que cualquier acuerdo de la historia.",
       "tags": [
         "Sykes-Picot",
         "1916",
@@ -110,8 +110,8 @@
     {
       "id": "omm2",
       "nome": "A Criacao do Israel e a Guerra de 1948",
-      "nome_en": "A Criacao do Israel e a Guerra de 1948",
-      "nome_es": "A Criacao do Israel e a Guerra de 1948",
+      "nome_en": "The Creation of Israel and the 1948 War",
+      "nome_es": "La Creación de Israel y la Guerra de 1948",
       "tipo": "evento",
       "inicio": 1947,
       "fim": 1949,
@@ -120,11 +120,11 @@
       "century_start": 20,
       "type": "Modern",
       "descricao": "A ONU aprovou a Particao da Palestina em novembro 1947 (plano 181): Estado judeu + Estado arabe. Os arabes recusaram. Em 14 maio 1948, Israel declarou independencia. 5 paises arabes invadiram. Israel venceu. 700.000 palestinos fugiram ou foram expulsos (Nakba). Resultado: Israel com 78% da Palestina mandataria; Jordania com Cisjordania; Egito com Gaza; nenhum Estado palestino.",
-      "descricao_en": "A ONU aprovou a Particao da Palestina em novembro 1947 (plano 181): Estado judeu + Estado arabe. Os arabes recusaram. Em 14 maio 1948, Israel declarou independencia. 5 paises arabes invadiram. Israel venceu. 700.000 palestinos fugiram ou foram expulsos (Nakba). Resultado: Israel com 78% da Palestina mandataria; Jordania com Cisjordania; Egito com Gaza; nenhum Estado palestino.",
-      "descricao_es": "A ONU aprovou a Particao da Palestina em novembro 1947 (plano 181): Estado judeu + Estado arabe. Os arabes recusaram. Em 14 maio 1948, Israel declarou independencia. 5 paises arabes invadiram. Israel venceu. 700.000 palestinos fugiram ou foram expulsos (Nakba). Resultado: Israel com 78% da Palestina mandataria; Jordania com Cisjordania; Egito com Gaza; nenhum Estado palestino.",
+      "descricao_en": "The UN approved the Partition of Palestine in November 1947 (Plan 181): Jewish state + Arab state. The Arabs refused. On May 14, 1948, Israel declared independence. 5 Arab countries invaded. Israel won. 700,000 Palestinians fled or were expelled (Nakba). Result: Israel with 78% of Mandate Palestine; Jordan with the West Bank; Egypt with Gaza; no Palestinian state.",
+      "descricao_es": "La ONU aprobó la Partición de Palestina en noviembre de 1947 (Plan 181): Estado judío + Estado árabe. Los árabes se negaron. El 14 de mayo de 1948, Israel declaró la independencia. 5 países árabes invadieron. Israel ganó. 700.000 palestinos huyeron o fueron expulsados (Nakba). Resultado: Israel con el 78% de la Palestina mandataria; Jordania con Cisjordania; Egipto con Gaza; ningún Estado palestino.",
       "importancia": "A Guerra de 1948 criou dois traumas nacionais simultaneos que ainda estruturam o conflito: para os israelenses, a miraculous sobrevivencia apos o Holocausto; para os palestinos, a Nakba - o inicio do exilio permanente.",
-      "importancia_en": "A Guerra de 1948 criou dois traumas nacionais simultaneos que ainda estruturam o conflito: para os israelenses, a miraculous sobrevivencia apos o Holocausto; para os palestinos, a Nakba - o inicio do exilio permanente.",
-      "importancia_es": "A Guerra de 1948 criou dois traumas nacionais simultaneos que ainda estruturam o conflito: para os israelenses, a miraculous sobrevivencia apos o Holocausto; para os palestinos, a Nakba - o inicio do exilio permanente.",
+      "importancia_en": "The 1948 War created two simultaneous national traumas that still structure the conflict: for Israelis, the miraculous survival after the Holocaust; for Palestinians, the Nakba — the beginning of permanent exile.",
+      "importancia_es": "La Guerra de 1948 creó dos traumas nacionales simultáneos que todavía estructuran el conflicto: para los israelíes, la supervivencia milagrosa tras el Holocausto; para los palestinos, la Nakba — el inicio del exilio permanente.",
       "tags": [
         "Israel",
         "1948",
@@ -138,8 +138,8 @@
     {
       "id": "omm3",
       "nome": "O Petroleo e a Geopolitica do Oriente Medio",
-      "nome_en": "O Petroleo e a Geopolitica do Oriente Medio",
-      "nome_es": "O Petroleo e a Geopolitica do Oriente Medio",
+      "nome_en": "Oil and the Geopolitics of the Middle East",
+      "nome_es": "El Petróleo y la Geopolítica de Oriente Medio",
       "tipo": "evento",
       "inicio": 1908,
       "fim": 1973,
@@ -148,8 +148,8 @@
       "century_start": 20,
       "type": "Modern",
       "descricao": "O petroleo foi descoberto no Ira em 1908, no Iraque em 1927, na Arabia Saudita em 1938. A ARAMCO (Saudi Aramco original, americana) e o maior contrato extractivo da historia. O embargo de 1973 (Guerra do Yom Kippur) quadruplicou os precos mundiais e demonstrou o poder geopolitico da OPEP. \"O petroleo e uma maldiao para o Oriente Medio\": os paises mais ricos em petroleo nao sao os mais democraticos nem os mais desenvolvidos.",
-      "descricao_en": "O petroleo foi descoberto no Ira em 1908, no Iraque em 1927, na Arabia Saudita em 1938. A ARAMCO (Saudi Aramco original, americana) e o maior contrato extractivo da historia. O embargo de 1973 (Guerra do Yom Kippur) quadruplicou os precos mundiais e demonstrou o poder geopolitico da OPEP. \"O petroleo e uma maldiao para o Oriente Medio\": os paises mais ricos em petroleo nao sao os mais democraticos nem os mais desenvolvidos.",
-      "descricao_es": "O petroleo foi descoberto no Ira em 1908, no Iraque em 1927, na Arabia Saudita em 1938. A ARAMCO (Saudi Aramco original, americana) e o maior contrato extractivo da historia. O embargo de 1973 (Guerra do Yom Kippur) quadruplicou os precos mundiais e demonstrou o poder geopolitico da OPEP. \"O petroleo e uma maldiao para o Oriente Medio\": os paises mais ricos em petroleo nao sao os mais democraticos nem os mais desenvolvidos.",
+      "descricao_en": "Oil was discovered in Iran in 1908, Iraq in 1927, Saudi Arabia in 1938. ARAMCO (the original Saudi Aramco, American) is the largest extractive contract in history. The 1973 embargo (Yom Kippur War) quadrupled world prices and demonstrated the geopolitical power of OPEC. \"Oil is a curse for the Middle East\": the richest oil countries are not the most democratic or most developed.",
+      "descricao_es": "El petróleo fue descubierto en Irán en 1908, en Irak en 1927, en Arabia Saudita en 1938. La ARAMCO (Saudi Aramco original, americana) es el mayor contrato extractivo de la historia. El embargo de 1973 (Guerra del Yom Kippur) cuadruplicó los precios mundiales y demostró el poder geopolítico de la OPEP.",
       "importancia": [
         "petroleo",
         "ARAMCO",
@@ -158,30 +158,16 @@
         "embargo",
         "riqueza"
       ],
-      "importancia_en": [
-        "petroleo",
-        "ARAMCO",
-        "OPEP",
-        "1973",
-        "embargo",
-        "riqueza"
-      ],
-      "importancia_es": [
-        "petroleo",
-        "ARAMCO",
-        "OPEP",
-        "1973",
-        "embargo",
-        "riqueza"
-      ],
+      "importancia_en": "Oil transformed the Middle East from a geopolitical backwater into the most strategically vital region in the world. The \"oil curse\" — the link between resource wealth and authoritarian governance — is one of the most robust findings in political science.",
+      "importancia_es": "El petróleo transformó a Oriente Medio de una región geopolíticamente marginal en la más estratégicamente vital del mundo. La \"maldición del petróleo\" — el vínculo entre la riqueza de recursos y la gobernanza autoritaria — es uno de los hallazgos más sólidos de la ciencia política.",
       "tags": "data/dados-oriente-medio-moderno.json",
       "dataset": "data/dados-oriente-medio-moderno.json"
     },
     {
       "id": "omm4",
       "nome": "A Revolucao Iraniana e o Islamismo Politico",
-      "nome_en": "A Revolucao Iraniana e o Islamismo Politico",
-      "nome_es": "A Revolucao Iraniana e o Islamismo Politico",
+      "nome_en": "The Iranian Revolution and Political Islamism",
+      "nome_es": "La Revolución Iraní y el Islamismo Político",
       "tipo": "evento",
       "inicio": 1979,
       "fim": 1979,
@@ -190,8 +176,8 @@
       "century_start": 20,
       "type": "Modern",
       "descricao": "A Revolucao Iraniana (fevereiro 1979) instalou a primeira teocracia islamica moderna sob Khomeini. Demonstrou que o islam pode ser base para Estado moderno, nao apenas religiao pessoal. Galvanizou o islamismo politico sunita (Irmaos Muculmanos) e xiita (Hezbollah). A tomada de reféns na Embaixada Americana (444 dias, 1979-1981) criou a crise que definiu o Ira-EUA por decadas.",
-      "descricao_en": "A Revolucao Iraniana (fevereiro 1979) instalou a primeira teocracia islamica moderna sob Khomeini. Demonstrou que o islam pode ser base para Estado moderno, nao apenas religiao pessoal. Galvanizou o islamismo politico sunita (Irmaos Muculmanos) e xiita (Hezbollah). A tomada de reféns na Embaixada Americana (444 dias, 1979-1981) criou a crise que definiu o Ira-EUA por decadas.",
-      "descricao_es": "A Revolucao Iraniana (fevereiro 1979) instalou a primeira teocracia islamica moderna sob Khomeini. Demonstrou que o islam pode ser base para Estado moderno, nao apenas religiao pessoal. Galvanizou o islamismo politico sunita (Irmaos Muculmanos) e xiita (Hezbollah). A tomada de reféns na Embaixada Americana (444 dias, 1979-1981) criou a crise que definiu o Ira-EUA por decadas.",
+      "descricao_en": "The Iranian Revolution (February 1979) installed the first modern Islamic theocracy under Khomeini. It demonstrated that Islam can be the basis of a modern state, not just personal religion. It galvanized Sunni (Muslim Brotherhood) and Shia (Hezbollah) political Islamism. The American Embassy hostage crisis (444 days, 1979–1981) created the crisis that defined Iran-US relations for decades.",
+      "descricao_es": "La Revolución Iraní (febrero de 1979) instaló la primera teocracia islámica moderna bajo Jomeini. Demostró que el islam puede ser base para un Estado moderno, no solo religión personal. Galvanizó el islamismo político suní (Hermanos Musulmanes) y chií (Hezbollah). La toma de rehenes en la Embajada Americana (444 días, 1979–1981) creó la crisis que definió las relaciones Irán-EE.UU. durante décadas.",
       "importancia": [
         "Khomeini",
         "1979",
@@ -200,30 +186,16 @@
         "Hezbollah",
         "rehens"
       ],
-      "importancia_en": [
-        "Khomeini",
-        "1979",
-        "teocracia",
-        "islamismo",
-        "Hezbollah",
-        "rehens"
-      ],
-      "importancia_es": [
-        "Khomeini",
-        "1979",
-        "teocracia",
-        "islamismo",
-        "Hezbollah",
-        "rehens"
-      ],
+      "importancia_en": "The Iranian Revolution was the most consequential political event in the Muslim world since the fall of the Ottoman Caliphate (1924). It proved that Islamic theocracy could be a viable modern state model — for its supporters and a warning for its opponents.",
+      "importancia_es": "La Revolución Iraní fue el evento político más consecuente en el mundo musulmán desde la caída del Califato Otomano (1924). Demostró que la teocracia islámica podía ser un modelo de Estado moderno viable.",
       "tags": "data/dados-oriente-medio-moderno.json",
       "dataset": "data/dados-oriente-medio-moderno.json"
     },
     {
       "id": "omm5",
       "nome": "A Primavera Arabe (2010-2012)",
-      "nome_en": "A Primavera Arabe (2010-2012)",
-      "nome_es": "A Primavera Arabe (2010-2012)",
+      "nome_en": "The Arab Spring (2010–2012)",
+      "nome_es": "La Primavera Árabe (2010–2012)",
       "tipo": "evento",
       "inicio": 2010,
       "fim": 2012,
@@ -232,8 +204,8 @@
       "century_start": 21,
       "type": "Modern",
       "descricao": "A Primavera Arabe comecou quando Mohamed Bouazizi (25 anos, tunisiano) se imolou em dezembro de 2010 contra a corrupcao policial. Em semanas, caiu Ben Ali da Tunisia (23 anos no poder); caiu Mubarak do Egito (30 anos); caiu Gaddafi da Libia (42 anos). A Siria entrou em guerra civil que matou 500.000 e deslocou 13 milhoes. Bahrain reprimiu com apoio saudita. A Primavera Arabe revelou que a resistencia popular pode derrubar ditadores - e que derrubar ditadores nao garante democracia.",
-      "descricao_en": "A Primavera Arabe comecou quando Mohamed Bouazizi (25 anos, tunisiano) se imolou em dezembro de 2010 contra a corrupcao policial. Em semanas, caiu Ben Ali da Tunisia (23 anos no poder); caiu Mubarak do Egito (30 anos); caiu Gaddafi da Libia (42 anos). A Siria entrou em guerra civil que matou 500.000 e deslocou 13 milhoes. Bahrain reprimiu com apoio saudita. A Primavera Arabe revelou que a resistencia popular pode derrubar ditadores - e que derrubar ditadores nao garante democracia.",
-      "descricao_es": "A Primavera Arabe comecou quando Mohamed Bouazizi (25 anos, tunisiano) se imolou em dezembro de 2010 contra a corrupcao policial. Em semanas, caiu Ben Ali da Tunisia (23 anos no poder); caiu Mubarak do Egito (30 anos); caiu Gaddafi da Libia (42 anos). A Siria entrou em guerra civil que matou 500.000 e deslocou 13 milhoes. Bahrain reprimiu com apoio saudita. A Primavera Arabe revelou que a resistencia popular pode derrubar ditadores - e que derrubar ditadores nao garante democracia.",
+      "descricao_en": "The Arab Spring began when Mohamed Bouazizi (25, Tunisian) immolated himself in December 2010 against police corruption. Within weeks, Ben Ali of Tunisia fell (23 years in power); Mubarak of Egypt fell (30 years); Gaddafi of Libya fell (42 years). Syria entered a civil war that killed 500,000 and displaced 13 million. Bahrain was repressed with Saudi support. The Arab Spring revealed that popular resistance can topple dictators — and that toppling dictators does not guarantee democracy.",
+      "descricao_es": "La Primavera Árabe comenzó cuando Mohamed Bouazizi (25 años, tunecino) se inmoló en diciembre de 2010 contra la corrupción policial. En semanas, cayó Ben Ali de Túnez (23 años en el poder); cayó Mubarak de Egipto (30 años); cayó Gadafi de Libia (42 años). Siria entró en guerra civil que mató a 500.000 y desplazó a 13 millones. La Primavera Árabe reveló que la resistencia popular puede derribar dictadores — y que derribar dictadores no garantiza democracia.",
       "importancia": [
         "Primavera Arabe",
         "2010",
@@ -242,22 +214,8 @@
         "Siria",
         "democracia"
       ],
-      "importancia_en": [
-        "Primavera Arabe",
-        "2010",
-        "Bouazizi",
-        "Mubarak",
-        "Siria",
-        "democracia"
-      ],
-      "importancia_es": [
-        "Primavera Arabe",
-        "2010",
-        "Bouazizi",
-        "Mubarak",
-        "Siria",
-        "democracia"
-      ],
+      "importancia_en": "The Arab Spring was the most significant political upheaval in the Arab world since decolonization. Its failure to produce stable democracies confirmed that the problem is structural: institutions take decades to build, but hours to destroy.",
+      "importancia_es": "La Primavera Árabe fue la mayor agitación política en el mundo árabe desde la descolonización. Su fracaso en producir democracias estables confirmó que el problema es estructural: las instituciones tardan décadas en construirse, pero horas en destruirse.",
       "tags": "data/dados-oriente-medio-moderno.json",
       "dataset": "data/dados-oriente-medio-moderno.json"
     }

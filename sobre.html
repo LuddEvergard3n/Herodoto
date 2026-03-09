@@ -217,6 +217,78 @@
     @media (max-width: 700px) {
       .content-card { padding: 1.5rem 1.2rem; }
     }
+  /* ── Ecossistema ── */
+  .ecossistema-section {
+    background: var(--cor-fundo, #2a1f14);
+    border-top: 1px solid rgba(180,150,100,0.2);
+    padding: 3rem 2rem 2.5rem;
+  }
+  .ecossistema-inner {
+    max-width: 860px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .ecossistema-titulo {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba(210,185,140,0.7);
+    margin: 0 0 0.6rem;
+  }
+  .ecossistema-descricao {
+    font-size: 0.85rem;
+    color: rgba(210,185,140,0.5);
+    margin: 0 0 2rem;
+    line-height: 1.6;
+  }
+  .ecossistema-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    justify-content: center;
+  }
+  .eco-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.2rem;
+    padding: 0.7rem 1.4rem;
+    border: 1px solid rgba(180,150,100,0.2);
+    border-radius: 3px;
+    text-decoration: none;
+    background: rgba(255,255,255,0.02);
+    transition: border-color 0.2s, background 0.2s;
+    min-width: 110px;
+  }
+  .eco-card:hover {
+    border-color: rgba(180,150,100,0.55);
+    background: rgba(180,150,100,0.07);
+  }
+  .eco-card--active {
+    border-color: rgba(180,150,100,0.45);
+    background: rgba(180,150,100,0.06);
+    cursor: default;
+    pointer-events: none;
+  }
+  .eco-nome {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: rgba(220,195,150,0.9);
+    letter-spacing: 0.04em;
+  }
+  .eco-card--active .eco-nome {
+    color: var(--cor-ouro, #c8a96e);
+  }
+  .eco-area {
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: rgba(180,150,100,0.45);
+  }
+
   </style>
 </head>
 <body>
@@ -303,8 +375,41 @@
   </div>
 </div>
 
+<div class="ecossistema-section">
+  <div class="ecossistema-inner">
+    <h3 class="ecossistema-titulo">Parte de um ecossistema</h3>
+    <p class="ecossistema-descricao">O Heródoto integra uma série de ferramentas pedagógicas de código aberto, cada uma nomeada em homenagem ao pensador que definiu sua disciplina.</p>
+    <div class="ecossistema-grid">
+      <a href="https://luddevergard3n.github.io/Herodoto/" class="eco-card eco-card--active" target="_blank" rel="noopener">
+        <span class="eco-nome">Heródoto</span>
+        <span class="eco-area">História</span>
+      </a>
+      <a href="https://luddevergard3n.github.io/euclides/" class="eco-card" target="_blank" rel="noopener">
+        <span class="eco-nome">Euclides</span>
+        <span class="eco-area">Matemática</span>
+      </a>
+      <a href="https://luddevergard3n.github.io/quintiliano/" class="eco-card" target="_blank" rel="noopener">
+        <span class="eco-nome">Quintiliano</span>
+        <span class="eco-area">Língua Portuguesa</span>
+      </a>
+      <a href="https://luddevergard3n.github.io/johnson-english/" class="eco-card" target="_blank" rel="noopener">
+        <span class="eco-nome">Johnson</span>
+        <span class="eco-area">Língua Inglesa</span>
+      </a>
+      <a href="https://luddevergard3n.github.io/lavoisier/" class="eco-card" target="_blank" rel="noopener">
+        <span class="eco-nome">Lavoisier</span>
+        <span class="eco-area">Química</span>
+      </a>
+      <a href="https://luddevergard3n.github.io/humboldt/" class="eco-card" target="_blank" rel="noopener">
+        <span class="eco-nome">Humboldt</span>
+        <span class="eco-area">Geografia</span>
+      </a>
+    </div>
+  </div>
+</div>
+
 <footer>
-  Heródoto v7.38 &mdash; Ferramenta pedagógica de código aberto para o ensino de história.
+  Heródoto v7.42 &mdash; Ferramenta pedagógica de código aberto para o ensino de história.
 </footer>
 </body>
 </html>

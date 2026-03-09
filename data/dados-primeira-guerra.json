@@ -25,10 +25,10 @@
       "region": "Multiple",
       "type": "war",
       "period": "Modern",
-      "importancia_en": "[World War I] Primeira guerra total industrializada, catástrofe que preparou Segunda Guerra Mundial.",
-      "importancia_es": "[Primera Guerra Mundial] Primeira guerra total industrializada, catástrofe que preparou Segunda Guerra Mundial.",
-      "descricao_en": "Conflito global (1914-1918) entre Tríplice Entente (França, Reino Unido, Rússia, depois EUA) e Potências Centrais (Alemanha, Áustria-Hungria, Império Otomano). Matou 17 milhões, destruiu impérios e redefiniu ordem mundial.",
-      "descricao_es": "Conflito global (1914-1918) entre Tríplice Entente (França, Reino Unido, Rússia, depois EUA) e Potências Centrais (Alemanha, Áustria-Hungria, Império Otomano). Matou 17 milhões, destruiu impérios e redefiniu ordem mundial."
+      "importancia_en": "WWI was the collapse of the long 19th century of relative peace and certainty in the established order. It destroyed four empires (Russian, Austro-Hungarian, Ottoman, German), killed 17–20 million and left 21 million wounded. More than the battles, it was the first total industrial war: toxic gases, combat aircraft, tanks, radio. The way it ended — Versailles humiliating Germany without destroying it — planted the seeds of Nazism and the Second World War in just 20 years.",
+      "importancia_es": "La WWI fue el colapso del largo siglo XIX de paz relativa y certeza en el orden establecido. Destruyó cuatro imperios, mató 17–20 millones y dejó 21 millones de heridos. Fue la primera guerra industrial total. La forma en que terminó — Versalles humillando a Alemania sin destruirla — plantó las semillas del nazismo y la Segunda Guerra en apenas 20 años.",
+      "descricao_en": "Global conflict (1914–1918) between the Triple Entente (France, United Kingdom, Russia, later USA) and the Central Powers (Germany, Austria-Hungary, Ottoman Empire). Killed 17 million, destroyed empires and redefined the world order.",
+      "descricao_es": "Conflicto global (1914–1918) entre la Triple Entente (Francia, Reino Unido, Rusia, luego EE.UU.) y las Potencias Centrales (Alemania, Austria-Hungría, Imperio Otomano). Mató a 17 millones, destruyó imperios y redefinió el orden mundial."
     },
     {
       "id": "pgm-002",
@@ -48,10 +48,10 @@
       "region": "Multiple",
       "type": "war",
       "period": "Modern",
-      "importancia_en": "[Assassination of Franz Ferdinand] Evento que desencadeou guerra generalizada através de alianças e mobilizações.",
-      "importancia_es": "[Asesinato de Franz Ferdinand] Evento que desencadeou guerra generalizada através de alianças e mobilizações.",
-      "descricao_en": "Arquiduque austro-húngaro herdeiro do trono assassinado em Sarajevo (28 junho 1914) por Gavrilo Princip, nacionalista sérvio. Estopim que ativou sistema de alianças europeias.",
-      "descricao_es": "Arquiduque austro-húngaro herdeiro do trono assassinado em Sarajevo (28 junho 1914) por Gavrilo Princip, nacionalista sérvio. Estopim que ativou sistema de alianças europeias."
+      "importancia_en": "The assassination of Franz Ferdinand was the trigger, not the cause. The cause was the system of rigid alliances that transformed a regional Balkan crisis into a continental conflagration in 37 days. The \"unintentional catastrophe\" — no great power actually wanted a world war — showed how complex systems of mutual commitments can drag nations into conflicts none of them planned. Historian Christopher Clark called the European leaders \"sleepwalkers\" — marching toward the abyss without seeing it.",
+      "importancia_es": "El asesinato de Franz Ferdinand fue el detonante, no la causa. La causa fue el sistema de alianzas rígidas que transformó una crisis regional balcánica en conflagración continental en 37 días. El historiador Christopher Clark llamó a los líderes europeos \"sonámbulos\" — marchando hacia el abismo sin verlo.",
+      "descricao_en": "Austro-Hungarian archduke and heir to the throne assassinated in Sarajevo (June 28, 1914) by Gavrilo Princip, a Serbian nationalist. The trigger that activated the European alliance system.",
+      "descricao_es": "Archiduque austrohúngaro y heredero al trono asesinado en Sarajevo (28 de junio de 1914) por Gavrilo Princip, nacionalista serbio. El detonante que activó el sistema de alianzas europeas."
     },
     {
       "id": "pgm-003",
@@ -72,10 +72,10 @@
       "region": "Multiple",
       "type": "technological",
       "period": "Modern",
-      "importancia_en": "[Trench Warfare] Símbolo do horror da guerra moderna industrializada com baixas massivas.",
-      "importancia_es": "[Guerra de Trincheras] Símbolo do horror da guerra moderna industrializada com baixas massivas.",
-      "descricao_en": "Combate estático em trincheiras fortificadas na Frente Ocidental (1914-1918). Avanços mínimos custavam milhares de vidas, caracterizando impasse sangrento.",
-      "descricao_es": "Combate estático em trincheiras fortificadas na Frente Ocidental (1914-1918). Avanços mínimos custavam milhares de vidas, caracterizando impasse sangrento."
+      "importancia_en": "Trench warfare was the definitive symbol of the dissonance between offensive and defensive technology. The machine gun made any frontal assault suicidal, but generals kept ordering charges across open fields. The result: 70 km of trenches from Belgium to Switzerland, rats, mud, lice, mustard gas and millions dead for meters of earth. The trench experience destroyed faith in war as glory — and in the authority that ordered it.",
+      "importancia_es": "La guerra de trincheras fue el símbolo definitivo de la disonancia entre tecnología ofensiva y defensiva. La ametralladora hacía suicida cualquier ataque frontal, pero los generales seguían ordenando cargas en campo abierto. La experiencia de las trincheras destruyó la fe en la guerra como gloria.",
+      "descricao_en": "Static combat in fortified trenches on the Western Front (1914–1918). Minimal advances cost thousands of lives, characterizing a bloody stalemate.",
+      "descricao_es": "Combate estático en trincheras fortificadas en el Frente Occidental (1914–1918). Los avances mínimos costaban miles de vidas, caracterizando un sangriento estancamiento."
     },
     {
       "id": "pgm-012",
@@ -96,10 +96,10 @@
       "region": "Multiple",
       "type": "technological",
       "period": "Modern",
-      "importancia_en": "[Chemical Weapons] Escalada de brutalidade que levou a tabu internacional contra armas químicas.",
-      "importancia_es": "[Armas Químicas] Escalada de brutalidade que levou a tabu internacional contra armas químicas.",
-      "descricao_en": "Uso massivo de gás cloro (1915), fosgênio e gás mostarda causando mortes horríveis e trauma psicológico permanente. Alemães iniciaram em Ypres.",
-      "descricao_es": "Uso massivo de gás cloro (1915), fosgênio e gás mostarda causando mortes horríveis e trauma psicológico permanente. Alemães iniciaram em Ypres."
+      "importancia_en": "The use of chemical weapons in WWI (chlorine gas, phosgene, mustard gas) was so traumatic that the 1925 Geneva Convention banned them — one of the first mass weapons treaties in history. Mustard gas in particular, which blinded and slowly burned the lungs over days, produced the kind of suffering that no heroism narrative could sustain. The chemical horror of WWI is, indirectly, responsible for the international norm making chemical weapons morally and legally unacceptable to this day.",
+      "importancia_es": "El uso de armas químicas en la WWI fue tan traumatizante que la Convención de Ginebra de 1925 las prohibió — uno de los primeros tratados de armas masivas de la historia. El horror químico de la WWI es, indirectamente, responsable de la norma internacional que hace las armas químicas moralmente inaceptables hasta hoy.",
+      "descricao_en": "Massive use of chlorine gas (1915), phosgene and mustard gas causing horrible deaths and permanent psychological trauma. The Germans initiated their use at Ypres.",
+      "descricao_es": "Uso masivo de gas cloro (1915), fosgeno y gas mostaza causando muertes horribles y trauma psicológico permanente. Los alemanes lo iniciaron en Ypres."
     },
     {
       "id": "pgm-004",
@@ -120,10 +120,10 @@
       "region": "Multiple",
       "type": "war",
       "period": "Modern",
-      "importancia_en": "[Battle of Verdun] Símbolo de futilidade da guerra de trincheiras e carnificina industrial.",
-      "importancia_es": "[Batalla de Verdún] Símbolo de futilidade da guerra de trincheiras e carnificina industrial.",
-      "descricao_en": "Batalha de desgaste franco-alemã (fevereiro-dezembro 1916) que matou 700.000 homens sem decisão estratégica. Alemães visavam 'sangrar França até morte'.",
-      "descricao_es": "Batalha de desgaste franco-alemã (fevereiro-dezembro 1916) que matou 700.000 homens sem decisão estratégica. Alemães visavam 'sangrar França até morte'."
+      "importancia_en": "Verdun (300 days, 700,000 casualties) became the symbol of the absurdity of industrial war. France won — meaning it recovered the territory it had at the start — and lost the equivalent of a generation of men. General Falkenhayn planned to \"bleed France white\"; France survived, but Germany also bled. The French collective psyche was deeply marked: the \"Verdun trauma\" partially explains the defensive spirit of the Maginot Line and the capitulation of 1940.",
+      "importancia_es": "Verdún (300 días, 700.000 bajas) se convirtió en el símbolo del absurdo de la guerra industrial. Francia ganó — es decir, recuperó el territorio que tenía al inicio — y perdió el equivalente a una generación de hombres. El \"trauma de Verdún\" explica parcialmente el espíritu defensivo de la Línea Maginot y la capitulación de 1940.",
+      "descricao_en": "Franco-German battle of attrition (February–December 1916) that killed 700,000 men without strategic decision. Germans aimed to \"bleed France white.\"",
+      "descricao_es": "Batalla de desgaste franco-alemana (febrero–diciembre 1916) que mató a 700.000 hombres sin decisión estratégica. Los alemanes buscaban \"sangrar a Francia hasta la muerte\"."
     },
     {
       "id": "pgm-005",
@@ -144,16 +144,16 @@
       "region": "Multiple",
       "type": "war",
       "period": "Modern",
-      "importancia_en": "[Battle of the Somme] Demonstrou horror da guerra industrial com tecnologia letal superando tática.",
-      "importancia_es": "[Batalla del Somme] Demonstrou horror da guerra industrial com tecnologia letal superando tática.",
-      "descricao_en": "Ofensiva britânica (julho-novembro 1916) com 1 milhão de baixas. Primeiro dia (1 julho) teve 60.000 baixas britânicas, dia mais sangrento da história militar britânica.",
-      "descricao_es": "Ofensiva britânica (julho-novembro 1916) com 1 milhão de baixas. Primeiro dia (1 julho) teve 60.000 baixas britânicas, dia mais sangrento da história militar britânica."
+      "importancia_en": "The Somme (first day: 57,470 British casualties — the bloodiest day of the British Army in history) was the moment Victorian optimism died. The battle introduced tanks (September 1916), but the immediate effect was the collapse of public confidence in military leadership. Trench literature — Wilfred Owen, Siegfried Sassoon — was born directly from this experience and redefined how the West thinks about war: not as adventure, but as industrial carnage.",
+      "importancia_es": "El Somme (primer día: 57.470 bajas británicas — el día más sangriento del ejército británico en la historia) fue el momento en que el optimismo victoriano murió. La batalla introdujo los tanques (septiembre 1916), pero el efecto inmediato fue el colapso de la confianza pública en el liderazgo militar.",
+      "descricao_en": "British offensive (July–November 1916) with 1 million casualties. The first day (July 1) saw 60,000 British casualties, the bloodiest single day in British military history.",
+      "descricao_es": "Ofensiva británica (julio–noviembre 1916) con 1 millón de bajas. El primer día (1 julio) tuvo 60.000 bajas británicas, el día más sangriento de la historia militar británica."
     },
     {
       "id": "pgm-006",
       "nome": "Guerra Submarina Irrestrita",
       "nome_en": "Unrestricted Submarine Warfare",
-      "nome_es": "Guerra Submarina Sin Restricciones",
+      "nome_es": "Guerra Submarina Irrestricta",
       "tipo": "conceito",
       "descricao": "Tática alemã (iniciada fevereiro 1917) de afundar navios mercantes sem aviso, incluindo neutros. Provocou entrada americana após afundamento de navios com civis americanos.",
       "inicio": 1917,
@@ -168,16 +168,16 @@
       "region": "Multiple",
       "type": "technological",
       "period": "Modern",
-      "importancia_en": "[Unrestricted Submarine Warfare] Provocou entrada americana na guerra, selando derrota alemã.",
-      "importancia_es": "[Guerra Submarina Sin Restricciones] Provocou entrada americana na guerra, selando derrota alemã.",
-      "descricao_en": "Tática alemã (iniciada fevereiro 1917) de afundar navios mercantes sem aviso, incluindo neutros. Provocou entrada americana após afundamento de navios com civis americanos.",
-      "descricao_es": "Tática alemã (iniciada fevereiro 1917) de afundar navios mercantes sem aviso, incluindo neutros. Provocou entrada americana após afundamento de navios com civis americanos."
+      "importancia_en": "Unrestricted submarine warfare was Germany's greatest strategic mistake in WWI: by sinking neutral countries' ships to strangle Britain, it forced the US into the war. The sinking of the Lusitania (1915, 1,198 dead, including 128 Americans) created public pressure that Wilson could not ignore much longer. Germany gambled it would sink Britain before the US could mobilize forces — it gambled wrong by just a few months.",
+      "importancia_es": "La guerra submarina irrestricta fue el mayor error estratégico de Alemania en la WWI: al hundir barcos de países neutros para estrangular a Gran Bretaña, forzó a los EE.UU. a entrar en la guerra. El hundimiento del Lusitania (1915, 1.198 muertos, incluidos 128 estadounidenses) creó la presión pública que Wilson no pudo ignorar por más tiempo.",
+      "descricao_en": "German tactic (initiated February 1917) of sinking merchant ships without warning, including neutral ones. Provoked US entry after sinking of ships carrying American civilians.",
+      "descricao_es": "Táctica alemana (iniciada en febrero de 1917) de hundir barcos mercantes sin aviso, incluidos los neutrales. Provocó la entrada americana tras el hundimiento de barcos con civiles estadounidenses."
     },
     {
       "id": "pgm-007",
       "nome": "Entrada dos EUA",
-      "nome_en": "US Entry into WWI",
-      "nome_es": "Entrada de EEUU",
+      "nome_en": "US Entry into the War",
+      "nome_es": "Entrada de los EE.UU.",
       "tipo": "evento",
       "descricao": "Estados Unidos declararam guerra à Alemanha (abril 1917) após guerra submarina irrestrita e Telegrama Zimmermann. Enviaram 2 milhões de soldados à Europa.",
       "inicio": 1917,
@@ -191,10 +191,10 @@
       "region": "Multiple",
       "type": "war",
       "period": "Modern",
-      "importancia_en": "[US Entry into WWI] Virada decisiva que inclinou balanço de poder contra Potências Centrais.",
-      "importancia_es": "[Entrada de EEUU] Virada decisiva que inclinou balanço de poder contra Potências Centrais.",
-      "descricao_en": "Estados Unidos declararam guerra à Alemanha (abril 1917) após guerra submarina irrestrita e Telegrama Zimmermann. Enviaram 2 milhões de soldados à Europa.",
-      "descricao_es": "Estados Unidos declararam guerra à Alemanha (abril 1917) após guerra submarina irrestrita e Telegrama Zimmermann. Enviaram 2 milhões de soldados à Europa."
+      "importancia_en": "US entry transformed an exhausted war into a conflict with an almost unlimited reserve of men and materials. In 1917, France had suffered multiple mutinies, Russia was collapsing and Britain was six weeks from critical food rationing. The 2 million American soldiers who arrived in France in 1918 did not merely reinforce lines — they changed the psychology of the war, injecting fresh troops against an exhausted and socially worn-down German army.",
+      "importancia_es": "La entrada americana transformó una guerra agotada en un conflicto con reserva casi ilimitada de hombres y materiales. En 1917, Francia había sufrido múltiples motines, Rusia se estaba derrumbando y Gran Bretaña estaba a seis semanas del racionamiento crítico de alimentos. Los 2 millones de soldados americanos que llegaron en 1918 cambiaron la psicología de la guerra.",
+      "descricao_en": "The United States declared war on Germany (April 1917) following unrestricted submarine warfare and the Zimmermann Telegram. They sent 2 million soldiers to Europe.",
+      "descricao_es": "Estados Unidos declaró la guerra a Alemania (abril de 1917) tras la guerra submarina irrestricta y el Telegrama Zimmermann. Enviaron 2 millones de soldados a Europa."
     },
     {
       "id": "pgm-008",
@@ -215,10 +215,10 @@
       "region": "Multiple",
       "type": "war",
       "period": "Modern",
-      "importancia_en": "[Russian Revolution] Primeira revolução comunista bem-sucedida, reconfigurou geopolítica global.",
-      "importancia_es": "[Revolución Rusa] Primeira revolução comunista bem-sucedida, reconfigurou geopolítica global.",
-      "descricao_en": "Derrubada do czarismo (fevereiro 1917) e tomada bolchevique (outubro 1917) retirando Rússia da guerra. Lenin assinou Tratado de Brest-Litovsk cedendo território.",
-      "descricao_es": "Derrubada do czarismo (fevereiro 1917) e tomada bolchevique (outubro 1917) retirando Rússia da guerra. Lenin assinou Tratado de Brest-Litovsk cedendo território."
+      "importancia_en": "The Russian Revolution was the greatest unforeseen geopolitical result of WWI. Lenin arrived in Russia in a sealed carriage provided by Germany — which calculated (correctly) that he would disrupt Russia's war effort. Russia's exit through the Treaty of Brest-Litovsk (1918) freed 1 million German soldiers for the Western Front, almost winning the war. The Revolution created the USSR — which would exist until 1991 — and the communist fear that shaped Western politics for 70 years.",
+      "importancia_es": "La Revolución Rusa fue el mayor resultado geopolítico imprevisto de la WWI. Lenin llegó a Rusia en un vagón sellado proporcionado por Alemania. La Revolución creó la URSS — que existiría hasta 1991 — y el miedo comunista que moldeó la política occidental durante 70 años.",
+      "descricao_en": "Overthrow of Tsarism (February 1917) and Bolshevik seizure of power (October 1917), withdrawing Russia from the war. Lenin signed the Treaty of Brest-Litovsk ceding territory.",
+      "descricao_es": "Derrocamiento del zarismo (febrero de 1917) y toma bolchevique (octubre de 1917) retirando a Rusia de la guerra. Lenin firmó el Tratado de Brest-Litovsk cediendo territorio."
     },
     {
       "id": "pgm-009",
@@ -238,16 +238,16 @@
       "region": "Multiple",
       "type": "war",
       "period": "Modern",
-      "importancia_en": "[Armistice] Fim das hostilidades mas não resolveu questões que levariam à Segunda Guerra.",
-      "importancia_es": "[Armisticio] Fim das hostilidades mas não resolveu questões que levariam à Segunda Guerra.",
-      "descricao_en": "Alemanha assinou armistício (11 novembro 1918) após colapso militar e revolução interna. Cessação das hostilidades às 11h.",
-      "descricao_es": "Alemanha assinou armistício (11 novembro 1918) após colapso militar e revolução interna. Cessação das hostilidades às 11h."
+      "importancia_en": "The Armistice of November 11, 1918 stopped the fighting but resolved nothing. Germany was not militarily defeated in the field — the army was still on foreign soil when the Kaiser abdicated. This allowed the \"stab-in-the-back legend\" (Dolchstoßlegende): the idea that Germany had been betrayed by civilians, Jews and socialists. Hitler used exactly that myth to galvanize the German electorate fifteen years later.",
+      "importancia_es": "El Armisticio del 11 de noviembre de 1918 detuvo los combates pero no resolvió nada. Alemania no fue militarmente derrotada en el campo — el ejército aún estaba en suelo extranjero cuando el Kaiser abdicó. Esto permitió la \"leyenda de la puñalada por la espalda\" (Dolchstoßlegende), que Hitler usó para galvanizar al electorado alemán.",
+      "descricao_en": "Germany signed the armistice (November 11, 1918) after military collapse and internal revolution. Cessation of hostilities at 11 a.m.",
+      "descricao_es": "Alemania firmó el armisticio (11 de noviembre de 1918) tras el colapso militar y la revolución interna. Cese de hostilidades a las 11 h."
     },
     {
       "id": "pgm-011",
       "nome": "Colapso dos Impérios",
       "nome_en": "Collapse of Empires",
-      "nome_es": "Colapso de Imperios",
+      "nome_es": "Colapso de los Imperios",
       "tipo": "evento",
       "descricao": "Dissolução de impérios austro-húngaro, otomano, russo e alemão (1918-1919), criando novos estados-nação na Europa Oriental e Oriente Médio.",
       "inicio": 1918,
@@ -261,10 +261,10 @@
       "region": "Multiple",
       "type": "political",
       "period": "Modern",
-      "importancia_en": "[Collapse of Empires] Redesenhou mapa europeu e do Oriente Médio, gerando instabilidade duradoura.",
-      "importancia_es": "[Colapso de Imperios] Redesenhou mapa europeu e do Oriente Médio, gerando instabilidade duradoura.",
-      "descricao_en": "Dissolução de impérios austro-húngaro, otomano, russo e alemão (1918-1919), criando novos estados-nação na Europa Oriental e Oriente Médio.",
-      "descricao_es": "Dissolução de impérios austro-húngaro, otomano, russo e alemão (1918-1919), criando novos estados-nação na Europa Oriental e Oriente Médio."
+      "importancia_en": "The collapse of multinational empires reconfigured the world's political map. In the ruins of the Ottoman Empire, artificial states were created in the Middle East — Iraq, Syria, Palestine — with borders ignoring ethnicities, religions and tribes. These arrangements generated conflicts that still persist in the 21st century. In central Europe, Wilson's principles of national self-determination created viable and unviable states mixed together — with ethnic minorities that made the region explosive in WWII.",
+      "importancia_es": "El colapso de los imperios multinacionales reconfiguró el mapa político del mundo. En los escombros del Imperio Otomano se crearon estados artificiales en Oriente Medio — Irak, Siria, Palestina — con fronteras que ignoraban etnias, religiones y tribus. Estos arreglos generaron conflictos que aún persisten en el siglo XXI.",
+      "descricao_en": "Dissolution of the Austro-Hungarian, Ottoman, Russian and German empires (1918–1919), creating new nation-states in Eastern Europe and the Middle East.",
+      "descricao_es": "Disolución de los imperios austrohúngaro, otomano, ruso y alemán (1918–1919), creando nuevos estados-nación en Europa Oriental y Oriente Medio."
     },
     {
       "id": "pgm-010",
@@ -285,10 +285,10 @@
       "region": "Multiple",
       "type": "political",
       "period": "Modern",
-      "importancia_en": "[Treaty of Versailles] Humilhação alemã alimentou ressentimento que levou ao nazismo e Segunda Guerra.",
-      "importancia_es": "[Tratado de Versalles] Humilhação alemã alimentou ressentimento que levou ao nazismo e Segunda Guerra.",
-      "descricao_en": "Acordo de paz punitivo (1919) impondo reparações massivas, desmilitarização e cláusula de culpa de guerra à Alemanha. Criou Liga das Nações.",
-      "descricao_es": "Acordo de paz punitivo (1919) impondo reparações massivas, desmilitarização e cláusula de culpa de guerra à Alemanha. Criou Liga das Nações."
+      "importancia_en": "The Treaty of Versailles (1919) is the most cited historical example of a punitive peace that plants the next war. The reparations, the war guilt clause (Article 231), the loss of 13% of territory and the limitation of the army to 100,000 men humiliated Germany without destroying its capacity to resurge. Economist John Maynard Keynes, who participated in the negotiations, predicted exactly this in \"The Economic Consequences of the Peace\" (1919) — and was ignored.",
+      "importancia_es": "El Tratado de Versalles (1919) es el ejemplo histórico más citado de una paz punitiva que planta la próxima guerra. Las reparaciones, la cláusula de culpabilidad de guerra (Artículo 231) y la limitación del ejército a 100.000 hombres humillaron a Alemania sin destruir su capacidad de resurgir. John Maynard Keynes predijo exactamente esto — y fue ignorado.",
+      "descricao_en": "Punitive peace agreement (1919) imposing massive reparations, demilitarization and the war guilt clause on Germany. Created the League of Nations.",
+      "descricao_es": "Acuerdo de paz punitivo (1919) imponiendo reparaciones masivas, desmilitarización y la cláusula de culpabilidad de guerra a Alemania. Creó la Liga de las Naciones."
     }
   ],
   "relacoes": [
