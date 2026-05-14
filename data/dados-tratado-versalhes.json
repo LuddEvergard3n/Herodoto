@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Wilson (EUA — 14 Pontos, autodeterminação, Liga das Nações), Lloyd George (Grã-Bretanha — 'fazer a Alemanha pagar'), Clemenceau (França — 'a Alemanha nunca mais'), Orlando (Itália — frustrado com compensações). A Alemanha não foi convidada. O tratado foi ditado, não negociado. Artigo 231 (cláusula de culpa de guerra): a Alemanha aceita responsabilidade exclusiva pela guerra.",
-      "importancia": "A 'paz punitiva' de Versalhes foi condenada imediatamente por John Maynard Keynes (As Consequências Econômicas da Paz, 1919): as reparações impostas eram economicamente insensatas e politicamente explosivas. Hitler não chegou ao poder apesar de Versalhes — chegou por causa de Versalhes."
+      "importancia": "A 'paz punitiva' de Versalhes foi condenada imediatamente por John Maynard Keynes (As Consequências Econômicas da Paz, 1919): as reparações impostas eram economicamente insensatas e politicamente explosivas. Hitler não chegou ao poder apesar de Versalhes — chegou por causa de Versalhes.",
+      "nome_en": "The Paris Peace Conference (1919): The Big Four",
+      "nome_es": "La Conferencia de Paz de París (1919): Los Cuatro Grandes"
     },
     {
       "id": "ver-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Os tratados de 1919-23 (Versalhes, Saint-Germain, Neuilly, Trianon, Sèvres/Lausanne) redesenharam completamente o mapa europeu: criaram Polônia, Checoslováquia, Iugoslávia, Hungria independente, Estados Bálticos, Finlândia, Áustria diminuída. A Hungria perdeu 2/3 do território (Trianon) — trauma nacional ainda politicamente ativo. 3 milhões de alemães ficaram fora da Alemanha.",
-      "importancia": "As minorias étnicas criadas por Versalhes foram a principal fonte de instabilidade do entre-guerras: alemães dos Sudetos na Checoslováquia, húngaros na Romênia, alemães no Corredor Polonês. Hitler usou cada uma delas como pretexto para a expansão. O problema das minorias era real; o que Hitler fez foi indesculpável."
+      "importancia": "As minorias étnicas criadas por Versalhes foram a principal fonte de instabilidade do entre-guerras: alemães dos Sudetos na Checoslováquia, húngaros na Romênia, alemães no Corredor Polonês. Hitler usou cada uma delas como pretexto para a expansão. O problema das minorias era real; o que Hitler fez foi indesculpável.",
+      "nome_en": "The Redrawn Map: New States and Population Exchanges",
+      "nome_es": "El Mapa Rehecho: Nuevos Estados y Poblaciones Intercambiadas"
     },
     {
       "id": "ver-003",
@@ -32,7 +36,9 @@
       "regiao": "Americas",
       "peso": 0.85,
       "descricao": "Wilson propôs a Liga das Nações como mecanismo de segurança coletiva — mas o Senado americano recusou ratificar o tratado (2 vezes). Os EUA nunca entraram na Liga. Sem os EUA, a Liga era uma casca: a França nunca se sentiu segura, a Grã-Bretanha nunca comprometida. Alemanha entrou em 1926, saiu com Hitler em 1933; URSS entrou em 1934, foi expulsa em 1939 (invasão da Finlândia).",
-      "importancia": "O isolacionismo americano pós-1919 foi a principal causa estrutural da Segunda Guerra: removeu o árbitro externo que tornara possível a vitória de 1918. A lição foi aprendida: em 1945, os EUA criaram a ONU e ficaram dentro. A diferença entre 1919 e 1945 explica por que a ordem do pós-Segunda Guerra foi mais estável."
+      "importancia": "O isolacionismo americano pós-1919 foi a principal causa estrutural da Segunda Guerra: removeu o árbitro externo que tornara possível a vitória de 1918. A lição foi aprendida: em 1945, os EUA criaram a ONU e ficaram dentro. A diferença entre 1919 e 1945 explica por que a ordem do pós-Segunda Guerra foi mais estável.",
+      "nome_en": "Wilson, the League of Nations and American Isolationism",
+      "nome_es": "Wilson, la Sociedad de Naciones y el Aislacionismo Americano"
     },
     {
       "id": "ver-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "As reparações fixadas em 132 bilhões de marcos-ouro (1921) eram impagáveis. A Alemanha entrou em moratória; a França ocupou o Ruhr (1923). A hiperinflação alemã de 1923 destruiu as poupanças da classe média: 1 dólar = 4,2 trilhões de marcos em novembro de 1923. Economicamente estabilizados pelo Plano Dawes (1924, crédito americano), mas a memória da destruição da classe média permaneceu.",
-      "importancia": "A hiperinflação de 1923 foi mais decisiva politicamente do que se percebe: destruiu as poupanças de toda a classe média alemã, criando um ódio profundo pelo sistema republicano de Weimar que havia aceito Versalhes. Em 1929, quando a Grande Depressão chegou, essa classe média traumatizada voltou-se para Hitler."
+      "importancia": "A hiperinflação de 1923 foi mais decisiva politicamente do que se percebe: destruiu as poupanças de toda a classe média alemã, criando um ódio profundo pelo sistema republicano de Weimar que havia aceito Versalhes. Em 1929, quando a Grande Depressão chegou, essa classe média traumatizada voltou-se para Hitler.",
+      "nome_en": "Reparations and the German Economic Collapse (1919–1923)",
+      "nome_es": "Las Reparaciones y el Colapso Económico Alemán (1919–1923)"
     },
     {
       "id": "tv1",

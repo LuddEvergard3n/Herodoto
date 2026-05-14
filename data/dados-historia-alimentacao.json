@@ -1,0 +1,197 @@
+{
+  "periodo": "História da Alimentação: Do Fogo à Globalização Gastronômica",
+  "entidades": [
+    {
+      "id": "ali-001",
+      "nome": "O Fogo e a Cozinha: O que Nos Tornou Humanos (1,8 milhão a.C.)",
+      "nome_en": "Fire and Cooking: What Made Us Human (1.8 million BC)",
+      "nome_es": "El Fuego y la Cocina: Lo que Nos Hizo Humanos (1,8 millones a.C.)",
+      "tipo": "technological",
+      "ano_inicio": -1800000,
+      "ano_fim": -300000,
+      "seculo": -18000,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "O biólogo Richard Wrangham argumenta que cozinhar foi a causa, não a consequência, do cérebro humano maior. Cozinhar pré-digere os alimentos: libera mais calorias com menos energia digestiva. Com calorias extras disponíveis, o cérebro — órgão metabolicamente caro — pôde crescer. O Homo erectus, com fogo controlado há 1,8 milhão de anos, tem crânio maior e dentes menores que seus ancestrais. Cozinhar também exigiu cooperação social (guardar o fogo, preparar coletivamente) e reduziu o tempo de mastigação de 6 para 1 hora diária — liberando tempo para linguagem e pensamento. A cozinha é talvez a tecnologia mais transformadora da história.",
+      "descricao_en": "Biologist Richard Wrangham argues that cooking was the cause, not the consequence, of the larger human brain. Cooking pre-digests food: it releases more calories with less digestive energy. With extra calories available, the brain — a metabolically expensive organ — could grow. Homo erectus, with controlled fire 1.8 million years ago, has a larger skull and smaller teeth than its ancestors. Cooking also required social cooperation (keeping the fire, collective preparation) and reduced chewing time from 6 to 1 hour daily — freeing time for language and thought. The kitchen is perhaps the most transformative technology in history.",
+      "descricao_es": "El biólogo Richard Wrangham argumenta que cocinar fue la causa, no la consecuencia, del cerebro humano más grande. Cocinar predigiere los alimentos: libera más calorías con menos energía digestiva. Con calorías extra disponibles, el cerebro — órgano metabólicamente costoso — pudo crecer. El Homo erectus, con fuego controlado hace 1,8 millones de años, tiene cráneo más grande y dientes más pequeños que sus ancestros. Cocinar también exigió cooperación social (guardar el fuego, preparación colectiva) y redujo el tiempo de masticación de 6 a 1 hora diaria — liberando tiempo para el lenguaje y el pensamiento. La cocina es quizás la tecnología más transformadora de la historia."
+    },
+    {
+      "id": "ali-002",
+      "nome": "A Revolução Agrícola: Quando Paramos de Ser Nômades por Causa do Trigo",
+      "nome_en": "The Agricultural Revolution: When We Stopped Being Nomads Because of Wheat",
+      "nome_es": "La Revolución Agrícola: Cuando Dejamos de Ser Nómadas por el Trigo",
+      "tipo": "social",
+      "ano_inicio": -10000,
+      "ano_fim": -3000,
+      "seculo": -100,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "A domesticação do trigo no Crescente Fértil há 10.000 anos é considerada o maior ponto de inflexão da história humana — mas Yuval Harari argumenta que foi uma armadilha: o Homo sapiens nômade era mais saudável, trabalhava menos e comia mais variado. O trigo nos domesticou, não o contrário. A agricultura permitiu populações maiores e cidades — mas criou hierarquias, propriedade privada, guerras por território e doenças zoonóticas. Ao mesmo tempo, centros independentes de domesticação surgiram: milho e feijão na Mesoamérica, arroz na China, inhame na África Ocidental, batata nos Andes. Cada civilização é inseparável do que cultiva.",
+      "descricao_en": "The domestication of wheat in the Fertile Crescent 10,000 years ago is considered the greatest turning point in human history — but Yuval Harari argues it was a trap: the nomadic Homo sapiens was healthier, worked less and ate more varied food. Wheat domesticated us, not the other way around. Agriculture allowed larger populations and cities — but created hierarchies, private property, territorial wars and zoonotic diseases. At the same time, independent centers of domestication emerged: corn and beans in Mesoamerica, rice in China, yam in West Africa, potato in the Andes. Each civilization is inseparable from what it cultivates.",
+      "descricao_es": "La domesticación del trigo en el Creciente Fértil hace 10.000 años es considerada el mayor punto de inflexión de la historia humana — pero Yuval Harari argumenta que fue una trampa: el Homo sapiens nómada era más sano, trabajaba menos y comía más variado. El trigo nos domesticó, no al revés. La agricultura permitió poblaciones más grandes y ciudades — pero creó jerarquías, propiedad privada, guerras por territorio y enfermedades zoonóticas. Al mismo tiempo, surgieron centros independientes de domesticación: maíz y frijol en Mesoamérica, arroz en China, ñame en África Occidental, papa en los Andes. Cada civilización es inseparable de lo que cultiva."
+    },
+    {
+      "id": "ali-003",
+      "nome": "Especiarias: O Ouro que Moveu o Mundo (1000–1700)",
+      "nome_en": "Spices: The Gold That Moved the World (1000–1700)",
+      "nome_es": "Especias: El Oro que Movió el Mundo (1000–1700)",
+      "tipo": "economic",
+      "ano_inicio": 1000,
+      "ano_fim": 1700,
+      "seculo": 11,
+      "continente": "asia",
+      "importancia": 5,
+      "descricao": "Pimenta, cravo, noz-moscada, canela e cardamomo valiam literalmente seu peso em prata na Europa medieval. A razão não era apenas o sabor — eram agentes de conservação numa era sem refrigeração, símbolos de status, e supunha-se terem propriedades medicinais. O comércio de especiarias financiou as navegações portuguesas e espanholas, sustentou o domínio veneziano e árabe do Mediterrâneo, e foi o verdadeiro motor da exploração europeia. Colombo procurava especiarias, não ouro. Vasco da Gama chegou à Índia procurando especiarias. A VOC holandesa construiu o primeiro império corporativo do mundo para controlar especiarias das Ilhas Molucas. Por pimenta e noz-moscada, a Europa redesenhou o mundo.",
+      "descricao_en": "Pepper, cloves, nutmeg, cinnamon and cardamom literally weighed their weight in silver in medieval Europe. The reason was not just taste — they were preservatives in an era without refrigeration, status symbols, and were supposed to have medicinal properties. The spice trade financed Portuguese and Spanish navigations, sustained Venetian and Arab dominance of the Mediterranean, and was the true engine of European exploration. Columbus was looking for spices, not gold. Vasco da Gama reached India looking for spices. The Dutch VOC built the first corporate empire in the world to control spices from the Maluku Islands. For pepper and nutmeg, Europe redrew the world.",
+      "descricao_es": "Pimienta, clavo, nuez moscada, canela y cardamomo valían literalmente su peso en plata en la Europa medieval. La razón no era solo el sabor — eran conservantes en una era sin refrigeración, símbolos de estatus, y se suponía que tenían propiedades medicinales. El comercio de especias financió las navegaciones portuguesas y españolas, sostuvo el dominio veneciano y árabe del Mediterráneo, y fue el verdadero motor de la exploración europea. Colón buscaba especias, no oro. Vasco de Gama llegó a India buscando especias. La VOC holandesa construyó el primer imperio corporativo del mundo para controlar las especias de las Islas Molucas. Por pimienta y nuez moscada, Europa redibujó el mundo."
+    },
+    {
+      "id": "ali-004",
+      "nome": "A Troca Colombiana: Quando os Continentes Trocaram de Comida (1492–1600)",
+      "nome_en": "The Columbian Exchange: When Continents Swapped Food (1492–1600)",
+      "nome_es": "El Intercambio Colombino: Cuando los Continentes Intercambiaron Comida (1492–1600)",
+      "tipo": "social",
+      "ano_inicio": 1492,
+      "ano_fim": 1600,
+      "seculo": 15,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "A chegada de Colombo às Américas desencadeou a maior reorganização alimentar da história. Das Américas para a Europa/África/Ásia: batata, tomate, milho, cacau, pimentão, mandioca, abacaxi, amendoim, feijão, abóbora, peru. Da Europa/África/Ásia para as Américas: trigo, açúcar, café, arroz, banana, cebola, alho, cavalos, porcos, vacas. A batata salvou a Europa: Irlanda, Polônia e Alemanha alimentaram populações que o pão não suportaria. O tomate tornou-se italiano. O cacau tornou-se suíço. O milho tornou-se africano. A comida que consideramos 'tradicional' é quase sempre o resultado desta troca de 500 anos atrás.",
+      "descricao_en": "Columbus's arrival in the Americas triggered the greatest food reorganization in history. From the Americas to Europe/Africa/Asia: potato, tomato, corn, cocoa, bell pepper, cassava, pineapple, peanut, beans, squash, turkey. From Europe/Africa/Asia to the Americas: wheat, sugar, coffee, rice, banana, onion, garlic, horses, pigs, cows. The potato saved Europe: Ireland, Poland and Germany fed populations that bread could not support. The tomato became Italian. Cocoa became Swiss. Corn became African. The food we consider 'traditional' is almost always the result of this exchange 500 years ago.",
+      "descricao_es": "La llegada de Colón a las Américas desencadenó la mayor reorganización alimentaria de la historia. De las Américas a Europa/África/Asia: papa, tomate, maíz, cacao, pimiento, yuca, piña, maní, frijol, calabaza, pavo. De Europa/África/Asia a las Américas: trigo, azúcar, café, arroz, banana, cebolla, ajo, caballos, cerdos, vacas. La papa salvó a Europa: Irlanda, Polonia y Alemania alimentaron poblaciones que el pan no podría sostener. El tomate se volvió italiano. El cacao se volvió suizo. El maíz se volvió africano. La comida que consideramos 'tradicional' es casi siempre el resultado de este intercambio de hace 500 años."
+    },
+    {
+      "id": "ali-005",
+      "nome": "Açúcar, Escravidão e o Gosto Amargo da Modernidade (1500–1800)",
+      "nome_en": "Sugar, Slavery and the Bitter Taste of Modernity (1500–1800)",
+      "nome_es": "Azúcar, Esclavitud y el Sabor Amargo de la Modernidad (1500–1800)",
+      "tipo": "economic",
+      "ano_inicio": 1500,
+      "ano_fim": 1800,
+      "seculo": 16,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "O açúcar foi o produto que mais diretamente financiou a escravidão transatlântica. As plantations de cana no Caribe e no Brasil eram os negócios mais lucrativos do mundo colonial — e os mais mortais: um escravo nas plantações de açúcar morria em média em 7 anos. Sidney Mintz, em 'Sweetness and Power' (1985), mostrou que o açúcar passou de luxo aristocrático a commodity popular em 300 anos — e que cada colher de chá na Inglaterra vitoriana era adoçada com o sofrimento de escravizados africanos. O chocolate, o café e o chá — as três grandes bebidas modernas — só se popularizaram na Europa porque o açúcar barato os tornou palatáveis.",
+      "descricao_en": "Sugar was the product that most directly financed transatlantic slavery. Sugar cane plantations in the Caribbean and Brazil were the most profitable businesses in the colonial world — and the most deadly: an enslaved person on sugar plantations died on average within 7 years. Sidney Mintz, in 'Sweetness and Power' (1985), showed that sugar went from aristocratic luxury to popular commodity in 300 years — and that every teaspoon in Victorian England was sweetened with the suffering of enslaved Africans. Chocolate, coffee and tea — the three great modern beverages — only became popular in Europe because cheap sugar made them palatable.",
+      "descricao_es": "El azúcar fue el producto que más directamente financió la esclavitud transatlántica. Las plantaciones de caña en el Caribe y en Brasil eran los negocios más lucrativos del mundo colonial — y los más mortales: un esclavizado en las plantaciones de azúcar moría en promedio en 7 años. Sidney Mintz, en 'Sweetness and Power' (1985), mostró que el azúcar pasó de lujo aristocrático a commodity popular en 300 años — y que cada cucharadita en la Inglaterra victoriana era endulzada con el sufrimiento de africanos esclavizados. El chocolate, el café y el té — las tres grandes bebidas modernas — solo se popularizaron en Europa porque el azúcar barato los hizo palatables."
+    },
+    {
+      "id": "ali-006",
+      "nome": "A Fome como Arma Política: Ucrânia, Bengala e Irlanda (1845–1933)",
+      "nome_en": "Famine as a Political Weapon: Ukraine, Bengal and Ireland (1845–1933)",
+      "nome_es": "El Hambre como Arma Política: Ucrania, Bengala e Irlanda (1845–1933)",
+      "tipo": "political",
+      "ano_inicio": 1845,
+      "ano_fim": 1933,
+      "seculo": 19,
+      "continente": "europa",
+      "importancia": 5,
+      "descricao": "A Grande Fome irlandesa (1845–1852): 1 milhão de mortos, 2 milhões emigraram — enquanto a Irlanda continuava exportando alimentos para a Inglaterra. A Fome de Bengala (1943): 2–3 milhões de mortos enquanto Churchill desviava alimentos para a Europa em guerra e recusava ajuda. O Holodomor ucraniano (1932–1933): 3,5–5 milhões de mortos — Stalin confiscou a colheita para financiar a industrialização soviética. Mike Davis, em 'Holocaustos Coloniais Tardios' (2001), documentou que as grandes fomes do século XIX mataram 30–60 milhões em Ásia e África enquanto o comércio livre exportava alimentos das regiões afetadas. A fome raramente é natural — quase sempre tem um endereço político.",
+      "descricao_en": "The Great Irish Famine (1845–1852): 1 million dead, 2 million emigrated — while Ireland continued exporting food to England. The Bengal Famine (1943): 2–3 million dead while Churchill diverted food to wartime Europe and refused aid. The Ukrainian Holodomor (1932–1933): 3.5–5 million dead — Stalin confiscated the harvest to finance Soviet industrialization. Mike Davis, in 'Late Victorian Holocausts' (2001), documented that the great 19th-century famines killed 30–60 million in Asia and Africa while free trade exported food from the affected regions. Famine is rarely natural — it almost always has a political address.",
+      "descricao_es": "La Gran Hambruna irlandesa (1845–1852): 1 millón de muertos, 2 millones emigraron — mientras Irlanda seguía exportando alimentos a Inglaterra. La Hambruna de Bengala (1943): 2–3 millones de muertos mientras Churchill desviaba alimentos hacia la Europa en guerra y rechazaba la ayuda. El Holodomor ucraniano (1932–1933): 3,5–5 millones de muertos — Stalin confiscó la cosecha para financiar la industrialización soviética. Mike Davis, en 'Holocaustos coloniales tardíos' (2001), documentó que las grandes hambrunas del siglo XIX mataron 30–60 millones en Asia y África mientras el libre comercio exportaba alimentos de las regiones afectadas. El hambre rara vez es natural — casi siempre tiene una dirección política."
+    },
+    {
+      "id": "ali-007",
+      "nome": "A Revolução Verde: Mais Comida, Mais Dependência (1940–1980)",
+      "nome_en": "The Green Revolution: More Food, More Dependence (1940–1980)",
+      "nome_es": "La Revolución Verde: Más Comida, Más Dependencia (1940–1980)",
+      "tipo": "technological",
+      "ano_inicio": 1940,
+      "ano_fim": 1980,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 4,
+      "descricao": "Norman Borlaug ganhou o Nobel da Paz em 1970 por desenvolver variedades de trigo de alto rendimento que salvaram, estima-se, 1 bilhão de pessoas da fome. A Revolução Verde triplicou a produção agrícola mundial entre 1960 e 1990. Mas veio com custos: dependência de sementes patenteadas, fertilizantes químicos e pesticidas (todos vendidos pelas mesmas corporações), esgotamento de aquíferos, erosão da diversidade genética de cultivos, e endividamento de agricultores do Sul Global que abandonaram variedades locais por sementes que exigem insumos caros. A Revolução Verde resolveu a fome do século XX e criou vulnerabilidades para o século XXI.",
+      "descricao_en": "Norman Borlaug won the Nobel Peace Prize in 1970 for developing high-yield wheat varieties that saved, it is estimated, 1 billion people from famine. The Green Revolution tripled world agricultural production between 1960 and 1990. But it came with costs: dependence on patented seeds, chemical fertilizers and pesticides (all sold by the same corporations), depletion of aquifers, erosion of crop genetic diversity, and indebtedness of Global South farmers who abandoned local varieties for seeds requiring expensive inputs. The Green Revolution solved 20th-century hunger and created vulnerabilities for the 21st century.",
+      "descricao_es": "Norman Borlaug ganó el Nobel de la Paz en 1970 por desarrollar variedades de trigo de alto rendimiento que salvaron, se estima, a 1.000 millones de personas del hambre. La Revolución Verde triplicó la producción agrícola mundial entre 1960 y 1990. Pero vino con costos: dependencia de semillas patentadas, fertilizantes químicos y pesticidas (todos vendidos por las mismas corporaciones), agotamiento de acuíferos, erosión de la diversidad genética de cultivos, y endeudamiento de agricultores del Sur Global que abandonaron variedades locales por semillas que requieren insumos costosos. La Revolución Verde resolvió el hambre del siglo XX y creó vulnerabilidades para el siglo XXI."
+    },
+    {
+      "id": "ali-008",
+      "nome": "Comida Global, Identidade Local: McDonaldização e Resistência Gastronômica",
+      "nome_en": "Global Food, Local Identity: McDonaldization and Gastronomic Resistance",
+      "nome_es": "Comida Global, Identidad Local: McDonalización y Resistencia Gastronómica",
+      "tipo": "cultural",
+      "ano_inicio": 1955,
+      "ano_fim": 2024,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 4,
+      "descricao": "O McDonald's abriu sua primeira franquia em 1955 — hoje tem 40.000 restaurantes em 100 países. A globalização alimentar homogeneizou dietas em escala sem precedentes: os mesmos ingredientes ultraprocessados, os mesmos sabores padronizados. Em resposta, o movimento Slow Food (fundado por Carlo Petrini em 1989, na Itália, como protesto contra um McDonald's na Piazza di Spagna) tornou-se movimento global de preservação de variedades locais, tradições culinárias e soberania alimentar. A comida tornou-se campo de batalha da globalização: o debate sobre o que comemos é inseparável de quem controla as sementes, a terra e o mercado.",
+      "descricao_en": "McDonald's opened its first franchise in 1955 — today it has 40,000 restaurants in 100 countries. Food globalization homogenized diets on an unprecedented scale: the same ultra-processed ingredients, the same standardized flavors. In response, the Slow Food movement (founded by Carlo Petrini in 1989, in Italy, as a protest against a McDonald's at Piazza di Spagna) became a global movement for the preservation of local varieties, culinary traditions and food sovereignty. Food has become a battlefield of globalization: the debate about what we eat is inseparable from who controls the seeds, the land and the market.",
+      "descricao_es": "McDonald's abrió su primera franquicia en 1955 — hoy tiene 40.000 restaurantes en 100 países. La globalización alimentaria homogeneizó las dietas a una escala sin precedentes: los mismos ingredientes ultraprocesados, los mismos sabores estandarizados. En respuesta, el movimiento Slow Food (fundado por Carlo Petrini en 1989, en Italia, como protesta contra un McDonald's en la Piazza di Spagna) se convirtió en un movimiento global de preservación de variedades locales, tradiciones culinarias y soberanía alimentaria. La comida se ha convertido en campo de batalla de la globalización: el debate sobre lo que comemos es inseparable de quién controla las semillas, la tierra y el mercado."
+    },
+    {
+      "id": "ali-009",
+      "nome": "O Futuro da Alimentação: Crise Climática, Insetos e Carne Cultivada",
+      "nome_en": "The Future of Food: Climate Crisis, Insects and Cultivated Meat",
+      "nome_es": "El Futuro de la Alimentación: Crisis Climática, Insectos y Carne Cultivada",
+      "tipo": "technological",
+      "ano_inicio": 2000,
+      "ano_fim": 2100,
+      "seculo": 21,
+      "continente": "global",
+      "importancia": 4,
+      "descricao": "A produção alimentar atual responde por 26% das emissões globais de gases de efeito estufa — sendo a pecuária responsável por 14,5% (mais que todo o setor de transportes). O sistema alimentar global usa 70% da água doce extraída. A FAO projeta que alimentar 10 bilhões de pessoas em 2050 exigirá 50% mais produção sem expandir área cultivada. As respostas em desenvolvimento: proteínas de insetos (2 kg de ração para 1 kg de proteína de grilo vs. 8 kg para 1 kg de carne bovina), carne cultivada em laboratório (primeiro hambúrguer cultivado custou 300.000 dólares em 2013, hoje custa menos de 10), e rewilding alimentar — redescoberta de variedades ancestrais esquecidas. A humanidade terá de reinventar o que come tão radicalmente quanto o fez com o fogo há 1,8 milhão de anos.",
+      "descricao_en": "Current food production accounts for 26% of global greenhouse gas emissions — with livestock responsible for 14.5% (more than the entire transport sector). The global food system uses 70% of extracted fresh water. The FAO projects that feeding 10 billion people in 2050 will require 50% more production without expanding cultivated area. Responses in development: insect proteins (2 kg of feed for 1 kg of cricket protein vs. 8 kg for 1 kg of beef), laboratory-grown meat (first cultured burger cost $300,000 in 2013, now costs less than $10), and food rewilding — rediscovery of forgotten ancestral varieties. Humanity will have to reinvent what it eats as radically as it did with fire 1.8 million years ago.",
+      "descricao_es": "La producción alimentaria actual representa el 26% de las emisiones globales de gases de efecto invernadero — siendo la ganadería responsable del 14,5% (más que todo el sector del transporte). El sistema alimentario global usa el 70% del agua dulce extraída. La FAO proyecta que alimentar a 10.000 millones de personas en 2050 requerirá el 50% más de producción sin expandir el área cultivada. Las respuestas en desarrollo: proteínas de insectos (2 kg de pienso por 1 kg de proteína de grillo vs. 8 kg por 1 kg de carne vacuna), carne cultivada en laboratorio (primera hamburguesa cultivada costó 300.000 dólares en 2013, hoy cuesta menos de 10), y rewilding alimentario — redescubrimiento de variedades ancestrales olvidadas. La humanidad tendrá que reinventar lo que come tan radicalmente como lo hizo con el fuego hace 1,8 millones de años."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ali-001",
+      "destino": "ali-002",
+      "tipo": "causal"
+    },
+    {
+      "origem": "ali-002",
+      "destino": "ali-003",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "ali-002",
+      "destino": "ali-004",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "ali-003",
+      "destino": "ali-004",
+      "tipo": "causal"
+    },
+    {
+      "origem": "ali-004",
+      "destino": "ali-005",
+      "tipo": "causal"
+    },
+    {
+      "origem": "ali-005",
+      "destino": "ali-006",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "ali-004",
+      "destino": "ali-006",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "ali-006",
+      "destino": "ali-007",
+      "tipo": "causal"
+    },
+    {
+      "origem": "ali-007",
+      "destino": "ali-008",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "ali-007",
+      "destino": "ali-009",
+      "tipo": "causal"
+    },
+    {
+      "origem": "ali-008",
+      "destino": "ali-009",
+      "tipo": "tematica"
+    }
+  ]
+}

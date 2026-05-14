@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "A República de Weimar nasceu derrotada: proclamada em novembro de 1918 por social-democratas que não queriam a responsabilidade de assinar a rendição, mas foram forçados a fazê-lo. Constituição democrática avançada (sufrágio universal, direitos fundamentais, representação proporcional) — mas o Art. 48 permitia ao Presidente governar por decreto em 'emergência'. Revolta Spartakista esmagada (Luxemburg e Liebknecht mortos, janeiro 1919).",
-      "importancia": "A República de Weimar foi criada por seus inimigos: a direita militar e conservadora a tolerou como casca para manter a ordem, sem nunca aceitar a democracia. A 'traição de novembro' — o mito de que os políticos civis traíram um exército invicto — foi cultivado pela direita desde o primeiro dia."
+      "importancia": "A República de Weimar foi criada por seus inimigos: a direita militar e conservadora a tolerou como casca para manter a ordem, sem nunca aceitar a democracia. A 'traição de novembro' — o mito de que os políticos civis traíram um exército invicto — foi cultivado pela direita desde o primeiro dia.",
+      "nome_en": "The Weimar Republic: Foundation and Constitution (1919)",
+      "nome_es": "La República de Weimar: Fundación y Constitución (1919)"
     },
     {
       "id": "wei-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Os 'Anos Dourados' de Weimar (1924-29): economia estabilizada pelo Plano Dawes, reparações renegociadas (Plano Young), Alemanha readmitida na Liga das Nações (1926). Cultura: Bauhaus (Gropius, Klee, Kandinsky), teatro épico (Brecht), cinema expressionista (Nosferatu, Metropolis, O Gabinete do Dr. Caligari), cabarets berlinenses. Berlim como capital da modernidade e da liberdade.",
-      "importancia": "A cultura de Weimar foi extraordinariamente criativa e foi extraordinariamente frágil: dependia de uma estabilidade económica artificial (crédito americano) e era profundamente odiada pela direita conservadora como expressão da 'degeneração judaica'. Os nazis queimaram os livros e fecharam a Bauhaus em 1933."
+      "importancia": "A cultura de Weimar foi extraordinariamente criativa e foi extraordinariamente frágil: dependia de uma estabilidade económica artificial (crédito americano) e era profundamente odiada pela direita conservadora como expressão da 'degeneração judaica'. Os nazis queimaram os livros e fecharam a Bauhaus em 1933.",
+      "nome_en": "Stabilization and Weimar Culture (1924–1929)",
+      "nome_es": "Estabilización y Cultura de Weimar (1924–1929)"
     },
     {
       "id": "wei-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "O crack de Wall Street (outubro 1929) retirou os créditos americanos. Desemprego alemão: 1,3 milhão (1929) → 6 milhões (1932) → 8 milhões com subempregados. Nas eleições de 1928, o NSDAP teve 2,6% dos votos; em julho 1932, 37,4%. Canceler Brüning aplicou austeridade que aprofundou a crise. O Partido Comunista (KPD) crescia também — o que aterrava a burguesia.",
-      "importancia": "Hitler não 'assumiu o poder' — foi nomeado Chanceler em 30 de janeiro de 1933 pelo Presidente Hindenburg, por pressão da elite conservadora (Papen, Hugenberg) que acreditava poder controlá-lo. A destruição da democracia alemã foi um suicídio assistido pela elite que apostou que o populismo poderia ser instrumentalizado."
+      "importancia": "Hitler não 'assumiu o poder' — foi nomeado Chanceler em 30 de janeiro de 1933 pelo Presidente Hindenburg, por pressão da elite conservadora (Papen, Hugenberg) que acreditava poder controlá-lo. A destruição da democracia alemã foi um suicídio assistido pela elite que apostou que o populismo poderia ser instrumentalizado.",
+      "nome_en": "The Great Depression and the Collapse of Weimar (1929–1932)",
+      "nome_es": "La Gran Depresión y el Colapso de Weimar (1929–1932)"
     },
     {
       "id": "wei-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Em 6 semanas, Hitler transformou a Alemanha: Incêndio do Reichstag (27 fev) — pretexto para suspender liberdades civis. Decreto do Incêndio (28 fev): Estado de emergência permanente. Lei de Plenos Poderes (23 março): Reichstag deu a Hitler poder legislativo por 4 anos com 444 votos contra 94 (SPD, único partido a votar contra). Partidos proibidos (julho), sindicatos dissolvidos, imprensa censurada.",
-      "importancia": "A velocidade da tomada do poder nazista — 6 semanas para desmantelar a democracia — demonstra como sistemas democráticos podem ser destruídos de dentro quando as normas e instituições são atacadas simultaneamente. Hannah Arendt, Umberto Eco e historiadores do fascismo identificaram os mesmos padrões repetidos em cada tomada autoritária."
+      "importancia": "A velocidade da tomada do poder nazista — 6 semanas para desmantelar a democracia — demonstra como sistemas democráticos podem ser destruídos de dentro quando as normas e instituições são atacadas simultaneamente. Hannah Arendt, Umberto Eco e historiadores do fascismo identificaram os mesmos padrões repetidos em cada tomada autoritária.",
+      "nome_en": "The Seizure of Power: 1933 and the End of the Republic",
+      "nome_es": "La Toma del Poder: 1933 y el Fin de la República"
     },
     {
       "id": "rw1",

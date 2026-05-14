@@ -1,0 +1,132 @@
+{
+  "periodo": "Aborígenes da Austrália: 65.000 Anos de História",
+  "entidades": [
+    {
+      "id": "abor-001",
+      "nome": "A Chegada à Austrália: A Mais Antiga Migração Marítima (65.000 a.C.)",
+      "nome_en": "Arrival in Australia: The Oldest Maritime Migration (65,000 BC)",
+      "nome_es": "La Llegada a Australia: La Migración Marítima Más Antigua (65.000 a.C.)",
+      "tipo": "social",
+      "ano_inicio": -65000,
+      "ano_fim": -50000,
+      "seculo": -650,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "Os ancestrais dos aborígenes australianos chegaram à Austrália há pelo menos 65.000 anos — mais de 50.000 anos antes de Stonehenge, 60.000 antes das pirâmides. Para chegar, cruzaram pelo menos 90 km de oceano aberto durante a era glacial, quando o nível do mar era mais baixo. É a mais antiga viagem marítima documentada da história humana. Os aborígenes australianos são os detentores da mais antiga cultura contínua do planeta.",
+      "descricao_en": "The ancestors of Australian Aboriginal peoples arrived in Australia at least 65,000 years ago — more than 50,000 years before Stonehenge, 60,000 before the pyramids. To arrive, they crossed at least 90 km of open ocean during the ice age, when sea levels were lower. It is the oldest documented maritime journey in human history. Australian Aboriginal peoples hold the world's oldest continuous culture.",
+      "descricao_es": "Los ancestros de los aborígenes australianos llegaron a Australia hace al menos 65.000 años — más de 50.000 antes de Stonehenge, 60.000 antes de las pirámides. Para llegar, cruzaron al menos 90 km de océano abierto durante la era glacial, cuando el nivel del mar era más bajo. Es el viaje marítimo documentado más antiguo de la historia humana. Los aborígenes australianos son los poseedores de la cultura continua más antigua del planeta."
+    },
+    {
+      "id": "abor-002",
+      "nome": "O Dreamtime: Cosmologia, Lei e Território",
+      "nome_en": "The Dreamtime: Cosmology, Law and Territory",
+      "nome_es": "El Tiempo del Sueño: Cosmología, Ley y Territorio",
+      "tipo": "cultural",
+      "ano_inicio": -65000,
+      "ano_fim": 2024,
+      "seculo": -650,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "O Dreamtime (Tempo do Sonho) não é apenas mitologia — é um sistema jurídico, cartográfico, ecológico e filosófico. Os 'songlines' (caminhos de canção) são rotas de navegação pelo continente codificadas em canções, danças e pinturas: um mapa cognitivo de 65.000 anos. Cada clã era responsável por 'cantar' sua parte da terra para mantê-la existindo. A lei aborígene regulava matrimônio, propriedade, conflito e relação com o ambiente com sofisticação comparável a qualquer sistema jurídico escrito.",
+      "descricao_en": "The Dreamtime is not merely mythology — it is a legal, cartographic, ecological and philosophical system. 'Songlines' are routes of navigation across the continent encoded in songs, dances and paintings: a 65,000-year cognitive map. Each clan was responsible for 'singing' its part of the land to keep it existing. Aboriginal law regulated marriage, property, conflict and environmental relations with sophistication comparable to any written legal system.",
+      "descricao_es": "El Tiempo del Sueño no es solo mitología — es un sistema jurídico, cartográfico, ecológico y filosófico. Los 'songlines' (caminos de canción) son rutas de navegación por el continente codificadas en canciones, danzas y pinturas: un mapa cognitivo de 65.000 años. Cada clan era responsable de 'cantar' su parte de la tierra para mantenerla existiendo. La ley aborigen regulaba matrimonio, propiedad, conflicto y relación con el ambiente con sofisticación comparable a cualquier sistema jurídico escrito."
+    },
+    {
+      "id": "abor-003",
+      "nome": "A Invasão Britânica e a Política de Terra Nullius (1788)",
+      "nome_en": "The British Invasion and the Terra Nullius Policy (1788)",
+      "nome_es": "La Invasión Británica y la Política de Terra Nullius (1788)",
+      "tipo": "political",
+      "ano_inicio": 1788,
+      "ano_fim": 1850,
+      "seculo": 18,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "Em 26 de janeiro de 1788 — hoje o Dia da Austrália, chamado pelos aborígenes de 'Dia da Invasão' — a Frota Britânica ancorou na Baía de Botany. A doutrina legal de terra nullius ('terra de ninguém') declarou a Austrália desabitada para fins legais, ignorando as mais de 500 nações aborígenes com suas línguas, leis e territórios. Não houve tratado. A Austrália foi simplesmente tomada. Estimativas indicam que a população aborígene caiu de 750.000–1 milhão para menos de 100.000 em um século.",
+      "descricao_en": "On January 26, 1788 — today Australia Day, called by Aboriginal peoples 'Invasion Day' — the British Fleet anchored in Botany Bay. The legal doctrine of terra nullius ('nobody's land') declared Australia uninhabited for legal purposes, ignoring the more than 500 Aboriginal nations with their languages, laws and territories. There was no treaty. Australia was simply taken. Estimates indicate the Aboriginal population fell from 750,000–1 million to under 100,000 in a century.",
+      "descricao_es": "El 26 de enero de 1788 — hoy el Día de Australia, llamado por los aborígenes 'Día de la Invasión' — la Flota Británica ancló en la Bahía de Botany. La doctrina legal de terra nullius ('tierra de nadie') declaró Australia deshabitada a efectos legales, ignorando las más de 500 naciones aborígenes con sus lenguas, leyes y territorios. No hubo tratado. Australia fue simplemente tomada. Las estimaciones indican que la población aborigen cayó de 750.000–1 millón a menos de 100.000 en un siglo."
+    },
+    {
+      "id": "abor-004",
+      "nome": "Guerras de Fronteira e Massacres (1788–1930)",
+      "nome_en": "Frontier Wars and Massacres (1788–1930)",
+      "nome_es": "Guerras de Frontera y Masacres (1788–1930)",
+      "tipo": "war",
+      "ano_inicio": 1788,
+      "ano_fim": 1930,
+      "seculo": 18,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "A colonização da Austrália foi acompanhada de violência sistemática durante 150 anos. O Massacre de Myall Creek (1838, 28 mortos) foi o único em que colonos brancos foram julgados e enforcados. O Massacre de Pinjarra (1834), o de Coniston (1928) — o último massacre documentado. O historiador Henry Reynolds estimou 20.000 aborígenes mortos em conflitos armados. A resistência existiu: Pemulwuy, Windradyne, Jandamarra lutaram durante décadas. A história das Guerras de Fronteira foi sistematicamente suprimida do currículo australiano até o século XXI.",
+      "descricao_en": "The colonization of Australia was accompanied by systematic violence for 150 years. The Myall Creek Massacre (1838, 28 dead) was the only one in which white colonists were tried and hanged. The Pinjarra Massacre (1834), the Coniston Massacre (1928) — the last documented massacre. Historian Henry Reynolds estimated 20,000 Aboriginal people killed in armed conflicts. Resistance existed: Pemulwuy, Windradyne, Jandamarra fought for decades. The history of the Frontier Wars was systematically suppressed from the Australian curriculum until the 21st century.",
+      "descricao_es": "La colonización de Australia estuvo acompañada de violencia sistemática durante 150 años. La Masacre de Myall Creek (1838, 28 muertos) fue la única en que colonos blancos fueron juzgados y ahorcados. La Masacre de Pinjarra (1834), la de Coniston (1928) — la última masacre documentada. El historiador Henry Reynolds estimó 20.000 aborígenes muertos en conflictos armados. La resistencia existió: Pemulwuy, Windradyne, Jandamarra lucharon durante décadas. La historia de las Guerras de Frontera fue sistemáticamente suprimida del currículo australiano hasta el siglo XXI."
+    },
+    {
+      "id": "abor-005",
+      "nome": "As Gerações Roubadas (1910–1970)",
+      "nome_en": "The Stolen Generations (1910–1970)",
+      "nome_es": "Las Generaciones Robadas (1910–1970)",
+      "tipo": "social",
+      "ano_inicio": 1910,
+      "ano_fim": 1970,
+      "seculo": 20,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "Entre 1910 e 1970, o governo australiano removeu sistematicamente crianças aborígenes de suas famílias para colocá-las em instituições ou famílias brancas — política de assimilação forçada. Estima-se que entre 1 em 3 e 1 em 10 crianças aborígenes foram removidas. O objetivo declarado era 'absorver' os aborígenes na população branca e 'deixar a raça morrer'. O relatório Bringing Them Home (1997) documentou o trauma intergeracional. Em 2008, o primeiro-ministro Kevin Rudd fez o pedido formal de desculpas do governo australiano.",
+      "descricao_en": "Between 1910 and 1970, the Australian government systematically removed Aboriginal children from their families to place them in institutions or white families — a forced assimilation policy. It is estimated that between 1 in 3 and 1 in 10 Aboriginal children were removed. The stated goal was to 'absorb' Aboriginal people into the white population and 'let the race die out'. The Bringing Them Home report (1997) documented the intergenerational trauma. In 2008, Prime Minister Kevin Rudd made the formal government apology.",
+      "descricao_es": "Entre 1910 y 1970, el gobierno australiano retiró sistemáticamente a niños aborígenes de sus familias para colocarlos en instituciones o familias blancas — política de asimilación forzada. Se estima que entre 1 de cada 3 y 1 de cada 10 niños aborígenes fueron retirados. El objetivo declarado era 'absorber' a los aborígenes en la población blanca y 'dejar morir a la raza'. El informe Bringing Them Home (1997) documentó el trauma intergeneracional. En 2008, el primer ministro Kevin Rudd hizo la disculpa formal del gobierno australiano."
+    },
+    {
+      "id": "abor-006",
+      "nome": "Mabo e o Fim da Terra Nullius (1992)",
+      "nome_en": "Mabo and the End of Terra Nullius (1992)",
+      "nome_es": "Mabo y el Fin de la Terra Nullius (1992)",
+      "tipo": "political",
+      "ano_inicio": 1992,
+      "ano_fim": 1993,
+      "seculo": 20,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "Em 1992, o Supremo Tribunal da Austrália reconheceu, no caso Mabo v. Queensland, que a doutrina da terra nullius era juridicamente falsa — que os aborígenes tinham e têm direitos sobre suas terras ancestrais. Eddie Mabo, um ilhéu de Murray do Estreito de Torres, lutou por décadas pela decisão que não viveu para ver: morreu cinco meses antes. O Native Title Act (1993) criou o mecanismo para reivindicações de terra. Duzentos anos após a invasão, a Austrália reconheceu legalmente o que sempre foi verdade.",
+      "descricao_en": "In 1992, the Australian High Court recognized, in Mabo v. Queensland, that the terra nullius doctrine was legally false — that Aboriginal peoples had and have rights over their ancestral lands. Eddie Mabo, a Murray Islander from the Torres Strait, fought for decades for the ruling he did not live to see: he died five months before. The Native Title Act (1993) created the mechanism for land claims. Two hundred years after the invasion, Australia legally recognized what had always been true.",
+      "descricao_es": "En 1992, el Tribunal Supremo de Australia reconoció, en el caso Mabo v. Queensland, que la doctrina de la terra nullius era jurídicamente falsa — que los aborígenes tenían y tienen derechos sobre sus tierras ancestrales. Eddie Mabo, un isleño de Murray del Estrecho de Torres, luchó durante décadas por la decisión que no vivió para ver: murió cinco meses antes. La Ley del Título Nativo (1993) creó el mecanismo para reclamaciones de tierras. Doscientos años después de la invasión, Australia reconoció legalmente lo que siempre fue verdad."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "abor-001",
+      "destino": "abor-002",
+      "tipo": "causal"
+    },
+    {
+      "origem": "abor-001",
+      "destino": "abor-003",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "abor-003",
+      "destino": "abor-004",
+      "tipo": "causal"
+    },
+    {
+      "origem": "abor-003",
+      "destino": "abor-005",
+      "tipo": "causal"
+    },
+    {
+      "origem": "abor-004",
+      "destino": "abor-005",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "abor-005",
+      "destino": "abor-006",
+      "tipo": "causal"
+    },
+    {
+      "origem": "abor-002",
+      "destino": "abor-006",
+      "tipo": "tematica"
+    }
+  ]
+}

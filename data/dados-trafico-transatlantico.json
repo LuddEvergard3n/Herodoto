@@ -1,0 +1,207 @@
+{
+  "periodo": "Tráfico Transatlântico de Escravizados (1441–1888)",
+  "entidades": [
+    {
+      "id": "trat-001",
+      "nome": "Início do Tráfico Português (1441–1444)",
+      "nome_en": "Beginning of Portuguese Slave Trade (1441–1444)",
+      "nome_es": "Inicio del Tráfico Portugués (1441–1444)",
+      "tipo": "social",
+      "ano_inicio": 1441,
+      "ano_fim": 1444,
+      "seculo": 15,
+      "continente": "africa",
+      "importancia": 4,
+      "descricao": "As primeiras expedições portuguesas à costa africana trazem cativos para Lisboa. Em 1444, o primeiro grande leilão de escravizados africanos ocorre em Lagos, Portugal — inaugurando o comércio sistemático que duraria 450 anos.",
+      "descricao_en": "The first Portuguese expeditions to the African coast bring captives to Lisbon. In 1444, the first large auction of enslaved Africans takes place in Lagos, Portugal — inaugurating the systematic trade that would last 450 years.",
+      "descricao_es": "Las primeras expediciones portuguesas a la costa africana traen cautivos a Lisboa. En 1444, la primera gran subasta de africanos esclavizados tiene lugar en Lagos, Portugal — inaugurando el comercio sistemático que duraría 450 años."
+    },
+    {
+      "id": "trat-002",
+      "nome": "O Asiento: Monopólio Legal do Tráfico",
+      "nome_en": "The Asiento: Legal Monopoly of the Slave Trade",
+      "nome_es": "El Asiento: Monopolio Legal del Tráfico",
+      "tipo": "economic",
+      "ano_inicio": 1494,
+      "ano_fim": 1789,
+      "seculo": 16,
+      "continente": "americas",
+      "importancia": 4,
+      "descricao": "Sistema de licenças (asientos) pelo qual a Coroa espanhola concedia a particulares — portugueses, holandeses, franceses, ingleses — o direito exclusivo de fornecer escravizados às colônias americanas. O asiento britânico (1713) tornou a South Sea Company a maior empresa traficante da história.",
+      "descricao_en": "System of licenses (asientos) by which the Spanish Crown granted individuals — Portuguese, Dutch, French, English — the exclusive right to supply enslaved people to American colonies. The British asiento (1713) made the South Sea Company the largest slave-trading company in history.",
+      "descricao_es": "Sistema de licencias (asientos) por el cual la Corona española otorgaba a particulares — portugueses, holandeses, franceses, ingleses — el derecho exclusivo de abastecer esclavizados a las colonias americanas. El asiento británico (1713) convirtió a la South Sea Company en la mayor empresa negrера de la historia."
+    },
+    {
+      "id": "trat-003",
+      "nome": "O Triângulo Atlântico: Rotas e Lógica Comercial",
+      "nome_en": "The Atlantic Triangle: Routes and Commercial Logic",
+      "nome_es": "El Triángulo Atlántico: Rutas y Lógica Comercial",
+      "tipo": "economic",
+      "ano_inicio": 1500,
+      "ano_fim": 1850,
+      "seculo": 16,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "Europa exportava manufaturas à África; África exportava pessoas às Américas; Américas exportavam açúcar, tabaco e ouro à Europa. Nenhum dos três lados do triângulo podia existir sem os outros. O tráfico não era uma aberração — era a espinha dorsal da economia atlântica.",
+      "descricao_en": "Europe exported manufactured goods to Africa; Africa exported people to the Americas; the Americas exported sugar, tobacco and gold to Europe. None of the three sides of the triangle could exist without the others. The trade was not an aberration — it was the backbone of the Atlantic economy.",
+      "descricao_es": "Europa exportaba manufacturas a África; África exportaba personas a las Américas; las Américas exportaban azúcar, tabaco y oro a Europa. Ninguno de los tres lados del triángulo podía existir sin los otros. El tráfico no era una aberración — era la columna vertebral de la economía atlántica."
+    },
+    {
+      "id": "trat-004",
+      "nome": "Os Reinos Africanos e o Tráfico",
+      "nome_en": "African Kingdoms and the Slave Trade",
+      "nome_es": "Los Reinos Africanos y el Tráfico",
+      "tipo": "political",
+      "ano_inicio": 1550,
+      "ano_fim": 1800,
+      "seculo": 16,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "O Daomé, o Congo, o Ashanti e outros reinos africanos participaram ativamente do tráfico, vendendo prisioneiros de guerra e rivais políticos. A complexidade é incômoda: os europeus não capturavam diretamente — compravam. Isso não atenua a responsabilidade europeia, mas exige que a história africana seja contada sem simplificações.",
+      "descricao_en": "Dahomey, the Kingdom of Kongo, Ashanti and other African kingdoms actively participated in the trade, selling war prisoners and political rivals. The complexity is uncomfortable: Europeans did not capture directly — they bought. This does not diminish European responsibility, but requires African history to be told without simplifications.",
+      "descricao_es": "Dahomey, el Reino del Congo, Ashanti y otros reinos africanos participaron activamente en el tráfico, vendiendo prisioneros de guerra y rivales políticos. La complejidad es incómoda: los europeos no capturaban directamente — compraban. Esto no atenúa la responsabilidad europea, pero exige que la historia africana se cuente sin simplificaciones."
+    },
+    {
+      "id": "trat-005",
+      "nome": "A Travessia do Atlântico: A Passagem do Meio",
+      "nome_en": "The Atlantic Crossing: The Middle Passage",
+      "nome_es": "La Travesía del Atlántico: El Pasaje del Medio",
+      "tipo": "social",
+      "ano_inicio": 1500,
+      "ano_fim": 1850,
+      "seculo": 16,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "A travessia de 6 a 8 semanas nos porões dos navios negreiros. Densidade de 1,5 a 2 pessoas por metro quadrado. Mortalidade média de 12–15% por viagem nos séculos XVII–XVIII. Estima-se que entre 1,5 e 2 milhões de pessoas morreram durante a traverssia. Os sobreviventes chegavam debilitados, desorientados e sem língua comum.",
+      "descricao_en": "The 6 to 8-week crossing in the holds of slave ships. Density of 1.5 to 2 people per square meter. Average mortality of 12–15% per voyage in the 17th–18th centuries. An estimated 1.5 to 2 million people died during the crossing. Survivors arrived weakened, disoriented and without a common language.",
+      "descricao_es": "La travesía de 6 a 8 semanas en las bodegas de los barcos negreros. Densidad de 1,5 a 2 personas por metro cuadrado. Mortalidad media del 12–15% por viaje en los siglos XVII–XVIII. Se estima que entre 1,5 y 2 millones de personas murieron durante la travesía. Los supervivientes llegaban debilitados, desorientados y sin lengua común."
+    },
+    {
+      "id": "trat-006",
+      "nome": "Os Números do Tráfico: Escala e Distribuição",
+      "nome_en": "The Numbers of the Trade: Scale and Distribution",
+      "nome_es": "Los Números del Tráfico: Escala y Distribución",
+      "tipo": "economic",
+      "ano_inicio": 1500,
+      "ano_fim": 1867,
+      "seculo": 17,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "12,5 milhões de pessoas embarcadas; 10,7 milhões chegaram às Américas. Brasil recebeu 4,8 milhões (45% do total), tornando-se o maior importador de escravizados da história. O Caribe recebeu 4,1 milhões. A América do Norte — que o imaginário popular supõe ter sido o destino central — recebeu apenas 400.000 (menos de 4%).",
+      "descricao_en": "12.5 million people embarked; 10.7 million arrived in the Americas. Brazil received 4.8 million (45% of total), making it the largest importer of enslaved people in history. The Caribbean received 4.1 million. North America — which popular imagination assumes was the central destination — received only 400,000 (less than 4%).",
+      "descricao_es": "12,5 millones de personas embarcadas; 10,7 millones llegaron a las Américas. Brasil recibió 4,8 millones (45% del total), convirtiéndose en el mayor importador de esclavizados de la historia. El Caribe recibió 4,1 millones. América del Norte — que el imaginario popular supone fue el destino central — recibió solo 400.000 (menos del 4%)."
+    },
+    {
+      "id": "trat-007",
+      "nome": "As Regiões de Origem: África Não É um País",
+      "nome_en": "Regions of Origin: Africa Is Not a Country",
+      "nome_es": "Regiones de Origen: África No Es un País",
+      "tipo": "cultural",
+      "ano_inicio": 1500,
+      "ano_fim": 1850,
+      "seculo": 17,
+      "continente": "africa",
+      "importancia": 4,
+      "descricao": "Os escravizados vinham de regiões específicas com línguas, religiões e culturas distintas: Senegâmbia (wolof, mandé), Costa dos Escravos (ewe, fon), Reino do Daomé, Congo-Angola (bacongo, umbundo), Moçambique. A destruição de identidade específica foi parte do sistema — 'africano' como categoria homogeneizante é ela mesma produto da escravidão.",
+      "descricao_en": "Enslaved people came from specific regions with distinct languages, religions and cultures: Senegambia (Wolof, Mande), Slave Coast (Ewe, Fon), Kingdom of Dahomey, Congo-Angola (Bakongo, Umbundu), Mozambique. The destruction of specific identity was part of the system — 'African' as a homogenizing category is itself a product of slavery.",
+      "descricao_es": "Los esclavizados venían de regiones específicas con lenguas, religiones y culturas distintas: Senegambia (wolof, mandé), Costa de los Esclavos (ewe, fon), Reino de Dahomey, Congo-Angola (bakongo, umbundu), Mozambique. La destrucción de la identidad específica era parte del sistema — 'africano' como categoría homogeneizadora es en sí misma producto de la esclavitud."
+    },
+    {
+      "id": "trat-008",
+      "nome": "Resistência: Revoltas, Quilombos e Fugas",
+      "nome_en": "Resistance: Revolts, Maroon Communities and Escapes",
+      "nome_es": "Resistencia: Revueltas, Quilombos y Fugas",
+      "tipo": "social",
+      "ano_inicio": 1550,
+      "ano_fim": 1888,
+      "seculo": 17,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "A escravidão nunca foi aceita passivamente. Quilombo dos Palmares (1605–1694, 30.000 pessoas), Revolução Haitiana (1791), Revolta dos Malês em Salvador (1835), centenas de levantes menores. A resistência era cotidiana — sabotagem, fuga, preservação religiosa, redes de comunicação clandestinas.",
+      "descricao_en": "Slavery was never passively accepted. Quilombo dos Palmares (1605–1694, 30,000 people), Haitian Revolution (1791), Malê Revolt in Salvador (1835), hundreds of smaller uprisings. Resistance was daily — sabotage, escape, religious preservation, clandestine communication networks.",
+      "descricao_es": "La esclavitud nunca fue aceptada pasivamente. Quilombo dos Palmares (1605–1694, 30.000 personas), Revolución Haitiana (1791), Revuelta de los Malê en Salvador (1835), cientos de levantamientos menores. La resistencia era cotidiana — sabotaje, fuga, preservación religiosa, redes de comunicación clandestinas."
+    },
+    {
+      "id": "trat-009",
+      "nome": "O Movimento Abolicionista e o Fim do Tráfico",
+      "nome_en": "The Abolitionist Movement and the End of the Trade",
+      "nome_es": "El Movimiento Abolicionista y el Fin del Tráfico",
+      "tipo": "political",
+      "ano_inicio": 1787,
+      "ano_fim": 1888,
+      "seculo": 18,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "Wilberforce e a Society for Effecting the Abolition of the Slave Trade (1787); abolição britânica do tráfico (1807); pressão diplomática e naval britânica; Lei Eusébio de Queirós no Brasil (1850); abolição da escravidão nos EUA (1865); Lei Áurea no Brasil (1888). O processo levou um século e foi incompleto: a abolição formal não aboliu as estruturas da desigualdade.",
+      "descricao_en": "Wilberforce and the Society for Effecting the Abolition of the Slave Trade (1787); British abolition of the trade (1807); British diplomatic and naval pressure; Eusébio de Queirós Law in Brazil (1850); abolition of slavery in the US (1865); Golden Law in Brazil (1888). The process took a century and was incomplete: formal abolition did not abolish the structures of inequality.",
+      "descricao_es": "Wilberforce y la Society for Effecting the Abolition of the Slave Trade (1787); abolición británica del tráfico (1807); presión diplomática y naval británica; Ley Eusébio de Queirós en Brasil (1850); abolición de la esclavitud en EE.UU. (1865); Ley Áurea en Brasil (1888). El proceso tardó un siglo y fue incompleto: la abolición formal no abolió las estructuras de la desigualdad."
+    },
+    {
+      "id": "trat-010",
+      "nome": "Legado: Diáspora Africana e Desigualdade Estrutural",
+      "nome_en": "Legacy: African Diaspora and Structural Inequality",
+      "nome_es": "Legado: Diáspora Africana y Desigualdad Estructural",
+      "tipo": "social",
+      "ano_inicio": 1888,
+      "ano_fim": 2024,
+      "seculo": 20,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "O tráfico criou a maior diáspora involuntária da história. Seus legados: a miscigenação cultural que forma o Brasil contemporâneo (candomblé, samba, capoeira, culinária); a desigualdade racial sistêmica que persiste 135 anos após a abolição; o debate sobre reparações. A 'dívida histórica' não é metáfora — é categoria econômica calculável.",
+      "descricao_en": "The trade created the largest involuntary diaspora in history. Its legacies: the cultural mixing that forms contemporary Brazil (candomblé, samba, capoeira, cuisine); the systemic racial inequality that persists 135 years after abolition; the reparations debate. The 'historical debt' is not a metaphor — it is a calculable economic category.",
+      "descricao_es": "El tráfico creó la mayor diáspora involuntaria de la historia. Sus legados: la mezcla cultural que forma el Brasil contemporáneo (candomblé, samba, capoeira, cocina); la desigualdad racial sistémica que persiste 135 años después de la abolición; el debate sobre reparaciones. La 'deuda histórica' no es metáfora — es categoría económica calculable."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "trat-001",
+      "destino": "trat-002",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "trat-002",
+      "destino": "trat-003",
+      "tipo": "causal"
+    },
+    {
+      "origem": "trat-003",
+      "destino": "trat-004",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "trat-003",
+      "destino": "trat-005",
+      "tipo": "causal"
+    },
+    {
+      "origem": "trat-003",
+      "destino": "trat-006",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "trat-004",
+      "destino": "trat-007",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "trat-005",
+      "destino": "trat-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "trat-006",
+      "destino": "trat-007",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "trat-008",
+      "destino": "trat-009",
+      "tipo": "causal"
+    },
+    {
+      "origem": "trat-009",
+      "destino": "trat-010",
+      "tipo": "causal"
+    }
+  ]
+}

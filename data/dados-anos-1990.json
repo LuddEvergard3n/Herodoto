@@ -1,0 +1,207 @@
+{
+  "periodo": "Os Anos 1990: A Década que Criou o Presente",
+  "entidades": [
+    {
+      "id": "n90-001",
+      "nome": "O 'Fim da História' e a Euforia Liberal (1989–1993)",
+      "nome_en": "The 'End of History' and the Liberal Euphoria (1989–1993)",
+      "nome_es": "El 'Fin de la Historia' y la Euforia Liberal (1989–1993)",
+      "tipo": "intellectual",
+      "ano_inicio": 1989,
+      "ano_fim": 1993,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "Francis Fukuyama publicou 'O Fim da História' (1992): a democracia liberal havia vencido definitivamente. Samuel Huntington respondeu com 'O Choque de Civilizações' (1993): o conflito continuaria, mas agora entre blocos culturais, não ideológicos. A década começou com um consenso que se revelaria ilusório em menos de dez anos — mas que moldou as políticas econômicas, militares e democráticas do Ocidente.",
+      "descricao_en": "Francis Fukuyama published 'The End of History' (1992): liberal democracy had definitively won. Samuel Huntington responded with 'The Clash of Civilizations' (1993): conflict would continue, but now between cultural, not ideological, blocs. The decade began with a consensus that would prove illusory in less than ten years — but that shaped the West's economic, military and democratic policies.",
+      "descricao_es": "Francis Fukuyama publicó 'El Fin de la Historia' (1992): la democracia liberal había ganado definitivamente. Samuel Huntington respondió con 'El Choque de Civilizaciones' (1993): el conflicto continuaría, pero ahora entre bloques culturales, no ideológicos. La década comenzó con un consenso que resultaría ilusorio en menos de diez años — pero que moldeó las políticas económicas, militares y democráticas de Occidente."
+    },
+    {
+      "id": "n90-002",
+      "nome": "Globalização Econômica: O Consenso de Washington",
+      "nome_en": "Economic Globalization: The Washington Consensus",
+      "nome_es": "Globalización Económica: El Consenso de Washington",
+      "tipo": "economic",
+      "ano_inicio": 1990,
+      "ano_fim": 1999,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "O FMI e o Banco Mundial impuseram a economias em desenvolvimento um pacote de privatizações, abertura comercial e corte de gastos sociais — o 'Consenso de Washington'. No Brasil, o Plano Real (1994) e as privatizações; na Argentina, o peso atrelado ao dólar que explodiu em 2001; na Rússia, a 'terapia de choque' que criou os oligarcas. A globalização enriqueceu países e criou classe média na Ásia — e aprofundou desigualdades em outros.",
+      "descricao_en": "The IMF and World Bank imposed on developing economies a package of privatizations, trade opening and cuts to social spending — the 'Washington Consensus'. In Brazil, the Real Plan (1994) and privatizations; in Argentina, the peso pegged to the dollar that exploded in 2001; in Russia, the 'shock therapy' that created the oligarchs. Globalization enriched countries and created a middle class in Asia — and deepened inequalities elsewhere.",
+      "descricao_es": "El FMI y el Banco Mundial impusieron a las economías en desarrollo un paquete de privatizaciones, apertura comercial y recorte del gasto social — el 'Consenso de Washington'. En Brasil, el Plan Real (1994) y las privatizaciones; en Argentina, el peso atado al dólar que explotó en 2001; en Rusia, la 'terapia de choque' que creó a los oligarcas. La globalización enriqueció países y creó clase media en Asia — y profundizó las desigualdades en otros."
+    },
+    {
+      "id": "n90-003",
+      "nome": "Genocídio em Ruanda (1994): O Fracasso da Comunidade Internacional",
+      "nome_en": "Rwandan Genocide (1994): The Failure of the International Community",
+      "nome_es": "Genocidio de Ruanda (1994): El Fracaso de la Comunidad Internacional",
+      "tipo": "social",
+      "ano_inicio": 1994,
+      "ano_fim": 1994,
+      "seculo": 20,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "Em 100 dias, 800.000 tutsis e hutus moderados foram assassinados — o genocídio mais rápido da história moderna. A ONU tinha tropas no país e recebeu ordens de não intervir. Os EUA, traumatizados pela Somália (1993), recusaram-se a usar a palavra 'genocídio' para não criar obrigação de agir. Ruanda expôs os limites reais da 'nova ordem mundial' pós-Guerra Fria e do princípio de soberania versus responsabilidade de proteger.",
+      "descricao_en": "In 100 days, 800,000 Tutsis and moderate Hutus were killed — the fastest genocide in modern history. The UN had troops in the country and received orders not to intervene. The US, traumatized by Somalia (1993), refused to use the word 'genocide' to avoid creating an obligation to act. Rwanda exposed the real limits of the post-Cold War 'new world order' and the principle of sovereignty versus the responsibility to protect.",
+      "descricao_es": "En 100 días, 800.000 tutsis y hutus moderados fueron asesinados — el genocidio más rápido de la historia moderna. La ONU tenía tropas en el país y recibió órdenes de no intervenir. EE.UU., traumatizado por Somalia (1993), se negó a usar la palabra 'genocidio' para no crear obligación de actuar. Ruanda expuso los límites reales del 'nuevo orden mundial' post-Guerra Fría y el principio de soberanía versus responsabilidad de proteger."
+    },
+    {
+      "id": "n90-004",
+      "nome": "A Internet: A Maior Transformação desde Gutenberg",
+      "nome_en": "The Internet: The Greatest Transformation since Gutenberg",
+      "nome_es": "Internet: La Mayor Transformación desde Gutenberg",
+      "tipo": "technological",
+      "ano_inicio": 1991,
+      "ano_fim": 2000,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "A World Wide Web se tornou pública em 1991. O Netscape foi lançado em 1994. O Google em 1998. A bolha ponto-com inflou e estourou em 2000. Em menos de dez anos, a humanidade construiu uma infraestrutura de comunicação global que mudou o jornalismo, o comércio, a política, as relações sociais e o conceito de privacidade — sem que ninguém tivesse planejado o que estava sendo criado.",
+      "descricao_en": "The World Wide Web became public in 1991. Netscape was launched in 1994. Google in 1998. The dot-com bubble inflated and burst in 2000. In less than ten years, humanity built a global communications infrastructure that changed journalism, commerce, politics, social relations and the concept of privacy — without anyone having planned what was being created.",
+      "descricao_es": "La World Wide Web se hizo pública en 1991. Netscape se lanzó en 1994. Google en 1998. La burbuja puntocom se infló y estalló en 2000. En menos de diez años, la humanidad construyó una infraestructura de comunicación global que cambió el periodismo, el comercio, la política, las relaciones sociales y el concepto de privacidad — sin que nadie hubiera planeado lo que estaba siendo creado."
+    },
+    {
+      "id": "n90-005",
+      "nome": "Nelson Mandela e o Fim do Apartheid (1990–1994)",
+      "nome_en": "Nelson Mandela and the End of Apartheid (1990–1994)",
+      "nome_es": "Nelson Mandela y el Fin del Apartheid (1990–1994)",
+      "tipo": "political",
+      "ano_inicio": 1990,
+      "ano_fim": 1994,
+      "seculo": 20,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "Mandela saiu da prisão em fevereiro de 1990 após 27 anos. As primeiras eleições multirraciais da África do Sul ocorreram em abril de 1994. A transição sem guerra civil foi considerada um milagre político — fruto da negociação entre o ANC e o Partido Nacional, da pressão internacional de boicotes, e da personalidade única de Mandela, que recusou a narrativa da vingança e apostou na reconciliação. A Comissão de Verdade e Reconciliação (1996) tornou-se modelo global.",
+      "descricao_en": "Mandela was released from prison in February 1990 after 27 years. South Africa's first multiracial elections took place in April 1994. The transition without civil war was considered a political miracle — the fruit of negotiation between the ANC and the National Party, international pressure from boycotts, and Mandela's unique personality, who refused the narrative of revenge and bet on reconciliation. The Truth and Reconciliation Commission (1996) became a global model.",
+      "descricao_es": "Mandela salió de la prisión en febrero de 1990 tras 27 años. Las primeras elecciones multirraciales de Sudáfrica tuvieron lugar en abril de 1994. La transición sin guerra civil fue considerada un milagro político — fruto de la negociación entre el ANC y el Partido Nacional, de la presión internacional de boicots, y de la personalidad única de Mandela, que rechazó la narrativa de la venganza y apostó por la reconciliación. La Comisión de Verdad y Reconciliación (1996) se convirtió en modelo global."
+    },
+    {
+      "id": "n90-006",
+      "nome": "Oslo e o Processo de Paz que Não Aconteceu (1993–1995)",
+      "nome_en": "Oslo and the Peace Process That Did Not Happen (1993–1995)",
+      "nome_es": "Oslo y el Proceso de Paz que No Ocurrió (1993–1995)",
+      "tipo": "political",
+      "ano_inicio": 1993,
+      "ano_fim": 1995,
+      "seculo": 20,
+      "continente": "oriente_medio",
+      "importancia": 4,
+      "descricao": "Os Acordos de Oslo (1993) pareciam inaugurar uma era de paz entre israelenses e palestinos: Arafat e Rabin apertaram as mãos na Casa Branca. Em 1995, Rabin foi assassinado por um extremista judeu israelense. O processo de paz colapsou progressivamente. Oslo é o exemplo mais citado de como a paz negociada pode ser destruída pelos que têm mais a ganhar com o conflito do que com a solução.",
+      "descricao_en": "The Oslo Accords (1993) seemed to inaugurate an era of peace between Israelis and Palestinians: Arafat and Rabin shook hands at the White House. In 1995, Rabin was assassinated by an Israeli Jewish extremist. The peace process progressively collapsed. Oslo is the most cited example of how negotiated peace can be destroyed by those who have more to gain from conflict than from resolution.",
+      "descricao_es": "Los Acuerdos de Oslo (1993) parecían inaugurar una era de paz entre israelíes y palestinos: Arafat y Rabin se estrecharon la mano en la Casa Blanca. En 1995, Rabin fue asesinado por un extremista judío israelí. El proceso de paz colapsó progresivamente. Oslo es el ejemplo más citado de cómo la paz negociada puede ser destruida por quienes tienen más que ganar con el conflicto que con la solución."
+    },
+    {
+      "id": "n90-007",
+      "nome": "A Rússia dos Oligarcas: A 'Terapia de Choque' (1991–1999)",
+      "nome_en": "Russia of the Oligarchs: 'Shock Therapy' (1991–1999)",
+      "nome_es": "La Rusia de los Oligarcas: La 'Terapia de Choque' (1991–1999)",
+      "tipo": "economic",
+      "ano_inicio": 1991,
+      "ano_fim": 1999,
+      "seculo": 20,
+      "continente": "europa",
+      "importancia": 5,
+      "descricao": "A privatização acelerada da economia soviética na Rússia de Yeltsin criou, em menos de uma década, um grupo de oligarcas que adquiriram ativos estatais por preços irrisórios. O PIB russo caiu 40% entre 1991 e 1998. A expectativa de vida masculina caiu de 64 para 57 anos. A humilhação econômica e social dos anos 1990 foi o caldo de cultura de onde emergiu Putin — e a narrativa de que democracia e caos eram sinônimos.",
+      "descricao_en": "The accelerated privatization of the Soviet economy in Yeltsin's Russia created, in less than a decade, a group of oligarchs who acquired state assets at bargain prices. Russia's GDP fell 40% between 1991 and 1998. Male life expectancy fell from 64 to 57 years. The economic and social humiliation of the 1990s was the breeding ground from which Putin emerged — and the narrative that democracy and chaos were synonymous.",
+      "descricao_es": "La privatización acelerada de la economía soviética en la Rusia de Yeltsin creó, en menos de una década, un grupo de oligarcas que adquirieron activos estatales a precios irrisorios. El PIB ruso cayó un 40% entre 1991 y 1998. La esperanza de vida masculina cayó de 64 a 57 años. La humillación económica y social de los años 1990 fue el caldo de cultivo del que emergió Putin — y la narrativa de que democracia y caos eran sinónimos."
+    },
+    {
+      "id": "n90-008",
+      "nome": "A Ásia em Ascensão: Tigres, China e a Crise de 1997",
+      "nome_en": "Asia Rising: Tigers, China and the 1997 Crisis",
+      "nome_es": "Asia en Ascenso: Tigres, China y la Crisis de 1997",
+      "tipo": "economic",
+      "ano_inicio": 1990,
+      "ano_fim": 1999,
+      "seculo": 20,
+      "continente": "asia",
+      "importancia": 4,
+      "descricao": "Coreia do Sul, Taiwan, Cingapura e Hong Kong eram os 'Quatro Tigres Asiáticos'. A China iniciou seu crescimento acelerado pós-Tiananmen. Em 1997, a crise financeira asiática colapsou moedas e economias da Tailândia ao Brasil em efeito dominó — e revelou a fragilidade dos capitais financeiros globais liberalizados. O FMI impôs condicionantes que agravaram a crise. A década plantou as sementes da ascensão da Ásia ao centro da economia global.",
+      "descricao_en": "South Korea, Taiwan, Singapore and Hong Kong were the 'Four Asian Tigers'. China began its accelerated post-Tiananmen growth. In 1997, the Asian financial crisis collapsed currencies and economies from Thailand to Brazil in a domino effect — and revealed the fragility of liberalized global financial capital. The IMF imposed conditions that worsened the crisis. The decade planted the seeds of Asia's rise to the center of the global economy.",
+      "descricao_es": "Corea del Sur, Taiwán, Singapur y Hong Kong eran los 'Cuatro Tigres Asiáticos'. China inició su crecimiento acelerado post-Tiananmen. En 1997, la crisis financiera asiática colapsó monedas y economías desde Tailandia hasta Brasil en efecto dominó — y reveló la fragilidad de los capitales financieros globales liberalizados. El FMI impuso condicionantes que agravaron la crisis. La década plantó las semillas del ascenso de Asia al centro de la economía global."
+    },
+    {
+      "id": "n90-009",
+      "nome": "O 11 de Setembro Estava Sendo Gestado: Al-Qaeda nos Anos 1990",
+      "nome_en": "9/11 Was Being Gestated: Al-Qaeda in the 1990s",
+      "nome_es": "El 11 de Septiembre Estaba Siendo Gestado: Al-Qaeda en los Años 1990",
+      "tipo": "political",
+      "ano_inicio": 1988,
+      "ano_fim": 2001,
+      "seculo": 20,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "A Al-Qaeda foi fundada por Osama bin Laden em 1988, no Afeganistão pós-soviético. Nos anos 1990, organizou atentados no Iêmen, Quênia, Tanzânia e contra o USS Cole. Os EUA responderam com mísseis de cruzeiro. A CIA sabia. O FBI sabia. O relatório da Comissão do 11/9 documenta 'falha sistêmica de imaginação'. A década foi o período de gestação do evento que definiria o século XXI — e que estava sendo construído às claras.",
+      "descricao_en": "Al-Qaeda was founded by Osama bin Laden in 1988, in post-Soviet Afghanistan. In the 1990s, it organized attacks in Yemen, Kenya, Tanzania and against the USS Cole. The US responded with cruise missiles. The CIA knew. The FBI knew. The 9/11 Commission report documents a 'systematic failure of imagination'. The decade was the gestation period of the event that would define the 21st century — and that was being built in plain sight.",
+      "descricao_es": "Al-Qaeda fue fundada por Osama bin Laden en 1988, en el Afganistán post-soviético. En los años 1990, organizó atentados en Yemen, Kenia, Tanzania y contra el USS Cole. EE.UU. respondió con misiles de crucero. La CIA lo sabía. El FBI lo sabía. El informe de la Comisión del 11-S documenta un 'fracaso sistémico de imaginación'. La década fue el período de gestación del evento que definiría el siglo XXI — y que estaba siendo construido a la vista de todos."
+    },
+    {
+      "id": "n90-010",
+      "nome": "O que os Anos 1990 Criaram — e o que Destruíram",
+      "nome_en": "What the 1990s Created — and What They Destroyed",
+      "nome_es": "Lo que los Años 1990 Crearon — y lo que Destruyeron",
+      "tipo": "intellectual",
+      "ano_inicio": 1999,
+      "ano_fim": 2001,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "A década criou: a internet global, a OMC, o euro, o conceito de responsabilidade de proteger, a Corte Penal Internacional, o sequenciamento do genoma humano. Destruiu: a URSS, o apartheid, o processo de paz do Oriente Médio, as economias da Ásia e da Rússia. E gestou o que viria a seguir: o 11 de Setembro, a ascensão da China, Putin, o colapso argentino. O presente está cheio de fragmentos dos anos 1990.",
+      "descricao_en": "The decade created: the global internet, the WTO, the euro, the concept of the responsibility to protect, the International Criminal Court, the sequencing of the human genome. It destroyed: the USSR, apartheid, the Middle East peace process, the economies of Asia and Russia. And it gestated what would follow: 9/11, China's rise, Putin, the Argentine collapse. The present is full of fragments of the 1990s.",
+      "descricao_es": "La década creó: la internet global, la OMC, el euro, el concepto de responsabilidad de proteger, la Corte Penal Internacional, la secuenciación del genoma humano. Destruyó: la URSS, el apartheid, el proceso de paz de Oriente Medio, las economías de Asia y Rusia. Y gestó lo que vendría: el 11-S, el ascenso de China, Putin, el colapso argentino. El presente está lleno de fragmentos de los años 1990."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "n90-001",
+      "destino": "n90-002",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "n90-001",
+      "destino": "n90-010",
+      "tipo": "causal"
+    },
+    {
+      "origem": "n90-002",
+      "destino": "n90-007",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "n90-002",
+      "destino": "n90-008",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "n90-003",
+      "destino": "n90-010",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "n90-004",
+      "destino": "n90-010",
+      "tipo": "causal"
+    },
+    {
+      "origem": "n90-005",
+      "destino": "n90-010",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "n90-006",
+      "destino": "n90-009",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "n90-007",
+      "destino": "n90-010",
+      "tipo": "causal"
+    },
+    {
+      "origem": "n90-009",
+      "destino": "n90-010",
+      "tipo": "causal"
+    }
+  ]
+}

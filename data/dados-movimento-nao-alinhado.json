@@ -1,0 +1,162 @@
+{
+  "periodo": "Movimento Não-Alinhado e a Conferência de Bandung (1955–presente)",
+  "entidades": [
+    {
+      "id": "mna-001",
+      "nome": "O Contexto: A Guerra Fria Vista do Sul Global",
+      "nome_en": "The Context: The Cold War Seen from the Global South",
+      "nome_es": "El Contexto: La Guerra Fría Vista desde el Sur Global",
+      "tipo": "political",
+      "ano_inicio": 1945,
+      "ano_fim": 1955,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 4,
+      "descricao": "Para a maioria dos países da Ásia, África e América Latina, a Guerra Fria era um conflito entre duas potências coloniais ou ex-coloniais — e a escolha entre Washington e Moscou era uma falsa dicotomia. Os EUA apoiavam regimes coloniais aliados (França na Indochina, Portugal em Angola) enquanto pregavam liberdade. A URSS apoiava movimentos de libertação enquanto dominava o Leste Europeu. Em 1955, dois terços da população mundial vivia sob alguma forma de dominação colonial ou semicolonial. A questão real não era capitalismo vs. comunismo — era independência vs. dependência.",
+      "descricao_en": "For most countries in Asia, Africa and Latin America, the Cold War was a conflict between two colonial or ex-colonial powers — and the choice between Washington and Moscow was a false dichotomy. The US supported allied colonial regimes (France in Indochina, Portugal in Angola) while preaching freedom. The USSR supported liberation movements while dominating Eastern Europe. In 1955, two-thirds of the world's population lived under some form of colonial or semi-colonial domination. The real question was not capitalism vs. communism — it was independence vs. dependence.",
+      "descricao_es": "Para la mayoría de los países de Asia, África y América Latina, la Guerra Fría era un conflicto entre dos potencias coloniales o ex-coloniales — y la elección entre Washington y Moscú era una falsa dicotomía. EE.UU. apoyaba regímenes coloniales aliados (Francia en Indochina, Portugal en Angola) mientras predicaba libertad. La URSS apoyaba movimientos de liberación mientras dominaba Europa del Este. En 1955, dos tercios de la población mundial vivía bajo alguna forma de dominación colonial o semicolonial. La pregunta real no era capitalismo vs. comunismo — era independencia vs. dependencia."
+    },
+    {
+      "id": "mna-002",
+      "nome": "A Conferência de Bandung (abril 1955): O Sul Fala por Si Mesmo",
+      "nome_en": "The Bandung Conference (April 1955): The South Speaks for Itself",
+      "nome_es": "La Conferencia de Bandung (abril 1955): El Sur Habla por Sí Mismo",
+      "tipo": "political",
+      "ano_inicio": 1955,
+      "ano_fim": 1955,
+      "seculo": 20,
+      "continente": "asia",
+      "importancia": 5,
+      "descricao": "Em abril de 1955, 29 países da Ásia e África se reuniram em Bandung, Indonésia — representando 1,5 bilhão de pessoas, mais da metade da humanidade. Nunca antes nações do Sul Global haviam se reunido sem a presença de potências ocidentais. Os líderes eram figuras históricas: Sukarno (Indonésia, anfitrião), Jawaharlal Nehru (Índia), Gamal Abdel Nasser (Egito), Zhou Enlai (China), Ho Chi Minh (Vietnam). A declaração final afirmou dez princípios: soberania, não-agressão, não-interferência, igualdade racial e cooperação — em direta contraposição à lógica da Guerra Fria. Richard Wright, presente como observador, chamou Bandung de 'o maior encontro de povos coloridos da história'.",
+      "descricao_en": "In April 1955, 29 countries from Asia and Africa gathered in Bandung, Indonesia — representing 1.5 billion people, more than half of humanity. Never before had nations of the Global South gathered without the presence of Western powers. The leaders were historical figures: Sukarno (Indonesia, host), Jawaharlal Nehru (India), Gamal Abdel Nasser (Egypt), Zhou Enlai (China), Ho Chi Minh (Vietnam). The final declaration affirmed ten principles: sovereignty, non-aggression, non-interference, racial equality and cooperation — in direct opposition to the logic of the Cold War. Richard Wright, present as an observer, called Bandung 'the greatest gathering of colored peoples in history'.",
+      "descricao_es": "En abril de 1955, 29 países de Asia y África se reunieron en Bandung, Indonesia — representando a 1.500 millones de personas, más de la mitad de la humanidad. Nunca antes naciones del Sur Global se habían reunido sin la presencia de potencias occidentales. Los líderes eran figuras históricas: Sukarno (Indonesia, anfitrión), Jawaharlal Nehru (India), Gamal Abdel Nasser (Egipto), Zhou Enlai (China), Ho Chi Minh (Vietnam). La declaración final afirmó diez principios: soberanía, no agresión, no interferencia, igualdad racial y cooperación — en directa contraposición a la lógica de la Guerra Fría. Richard Wright, presente como observador, llamó a Bandung 'el mayor encuentro de pueblos de color de la historia'."
+    },
+    {
+      "id": "mna-003",
+      "nome": "Os Três Pilares: Nehru, Nasser e Tito",
+      "nome_en": "The Three Pillars: Nehru, Nasser and Tito",
+      "nome_es": "Los Tres Pilares: Nehru, Nasser y Tito",
+      "tipo": "political",
+      "ano_inicio": 1955,
+      "ano_fim": 1961,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "O Movimento Não-Alinhado formal foi fundado em Belgrado em 1961 por três líderes carismáticos com visões distintas: Nehru (Índia) acreditava no papel moral da não-violência e na mediação entre as superpotências; Nasser (Egito) usava o não-alinhamento como alavanca para extrair recursos de ambos os blocos — e o fez com maestria na crise do Canal de Suez (1956); Tito (Iugoslávia) era o único líder comunista independente de Moscou e usava o MNA para garantir sua autonomia. Os três encarnavam abordagens diferentes de uma mesma estratégia: usar a bipolaridade da Guerra Fria como espaço de manobra.",
+      "descricao_en": "The formal Non-Aligned Movement was founded in Belgrade in 1961 by three charismatic leaders with distinct visions: Nehru (India) believed in the moral role of non-violence and mediation between superpowers; Nasser (Egypt) used non-alignment as leverage to extract resources from both blocs — and did so masterfully in the Suez Canal crisis (1956); Tito (Yugoslavia) was the only communist leader independent of Moscow and used the NAM to ensure his autonomy. The three embodied different approaches to the same strategy: using Cold War bipolarity as a space for maneuver.",
+      "descricao_es": "El Movimiento de Países No Alineados formal fue fundado en Belgrado en 1961 por tres líderes carismáticos con visiones distintas: Nehru (India) creía en el papel moral de la no violencia y la mediación entre las superpotencias; Nasser (Egipto) usaba el no alineamiento como palanca para extraer recursos de ambos bloques — y lo hizo magistralmente en la crisis del Canal de Suez (1956); Tito (Yugoslavia) era el único líder comunista independiente de Moscú y usaba el MNA para garantizar su autonomía. Los tres encarnaban enfoques diferentes de la misma estrategia: usar la bipolaridad de la Guerra Fría como espacio de maniobra."
+    },
+    {
+      "id": "mna-004",
+      "nome": "A Crise do Canal de Suez (1956): O MNA em Ação",
+      "nome_en": "The Suez Canal Crisis (1956): The NAM in Action",
+      "nome_es": "La Crisis del Canal de Suez (1956): El MNA en Acción",
+      "tipo": "political",
+      "ano_inicio": 1956,
+      "ano_fim": 1957,
+      "seculo": 20,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "Em julho de 1956, Nasser nacionalizou o Canal de Suez — controlado pela Grã-Bretanha e França desde 1869. Israel, França e Grã-Bretanha invadiram o Egito em outubro. Os EUA, que não foram consultados, pressionaram pela retirada — temendo que a aventura colonial alienasse o mundo árabe no contexto da Guerra Fria. A URSS ameaçou intervir militarmente. As três potências recuaram humilhadas. Suez foi o momento em que o Império Britânico compreendeu que seu tempo havia acabado — e em que o Movimento Não-Alinhado provou que a pressão coletiva do Sul podia dobrar as grandes potências.",
+      "descricao_en": "In July 1956, Nasser nationalized the Suez Canal — controlled by Britain and France since 1869. Israel, France and Britain invaded Egypt in October. The US, which was not consulted, pressured for withdrawal — fearing the colonial adventure would alienate the Arab world in the Cold War context. The USSR threatened military intervention. The three powers retreated humiliated. Suez was the moment the British Empire understood its time had ended — and when the Non-Aligned Movement proved that collective Southern pressure could bend the great powers.",
+      "descricao_es": "En julio de 1956, Nasser nacionalizó el Canal de Suez — controlado por Gran Bretaña y Francia desde 1869. Israel, Francia y Gran Bretaña invadieron Egipto en octubre. EE.UU., que no fue consultado, presionó por la retirada — temiendo que la aventura colonial alienara al mundo árabe en el contexto de la Guerra Fría. La URSS amenazó con intervenir militarmente. Las tres potencias se retiraron humilladas. Suez fue el momento en que el Imperio Británico comprendió que su tiempo había acabado — y en que el Movimiento de Países No Alineados demostró que la presión colectiva del Sur podía doblegar a las grandes potencias."
+    },
+    {
+      "id": "mna-005",
+      "nome": "A Nova Ordem Econômica Internacional: O Sul Exige Justiça (1973–1980)",
+      "nome_en": "The New International Economic Order: The South Demands Justice (1973–1980)",
+      "nome_es": "El Nuevo Orden Económico Internacional: El Sur Exige Justicia (1973–1980)",
+      "tipo": "economic",
+      "ano_inicio": 1973,
+      "ano_fim": 1980,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 4,
+      "descricao": "O choque do petróleo de 1973 — quando a OPEP quadruplicou o preço do petróleo em resposta ao apoio ocidental a Israel — demonstrou que o Sul podia usar recursos naturais como arma política. Na ONU, o G77 (grupo de países em desenvolvimento) pressionou pela Declaração para uma Nova Ordem Econômica Internacional (1974): preços justos para commodities, transferência de tecnologia, direito de nationalizar empresas estrangeiras sem compensação imperialista. O projeto foi derrotado pela reação do Norte — especialmente dos EUA sob Reagan — e pelo endividamento causado pela alta das taxas de juros americanas nos anos 1980.",
+      "descricao_en": "The 1973 oil shock — when OPEC quadrupled oil prices in response to Western support for Israel — demonstrated that the South could use natural resources as a political weapon. At the UN, the G77 (group of developing countries) pushed for the Declaration for a New International Economic Order (1974): fair prices for commodities, technology transfer, right to nationalize foreign companies without imperialist compensation. The project was defeated by the North's reaction — especially the US under Reagan — and by indebtedness caused by rising American interest rates in the 1980s.",
+      "descricao_es": "El shock del petróleo de 1973 — cuando la OPEP cuadruplicó el precio del petróleo en respuesta al apoyo occidental a Israel — demostró que el Sur podía usar los recursos naturales como arma política. En la ONU, el G77 (grupo de países en desarrollo) presionó por la Declaración para un Nuevo Orden Económico Internacional (1974): precios justos para los commodities, transferencia de tecnología, derecho a nationalizar empresas extranjeras sin compensación imperialista. El proyecto fue derrotado por la reacción del Norte — especialmente EE.UU. bajo Reagan — y por el endeudamiento causado por el alza de las tasas de interés americanas en los años 1980."
+    },
+    {
+      "id": "mna-006",
+      "nome": "O Legado Ambíguo: Solidariedade e Contradições do MNA",
+      "nome_en": "The Ambiguous Legacy: Solidarity and Contradictions of the NAM",
+      "nome_es": "El Legado Ambiguo: Solidaridad y Contradicciones del MNA",
+      "tipo": "intellectual",
+      "ano_inicio": 1961,
+      "ano_fim": 1990,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 4,
+      "descricao": "O Movimento Não-Alinhado tinha uma contradição estrutural: muitos de seus membros eram regimes autoritários que suprimiam oposições internas enquanto pregavam soberania e anticolonialismo externamente. Nasser reprimia comunistas egípcios. Sukarno massacrou centenas de milhares de comunistas indonésios em 1965. Mobutu no Zaire era membro do MNA e um dos ditadores mais corruptos da África. A solidariedade do Sul era real — mas frequentemente instrumentalizada por elites que usavam o discurso anticolonial para se blindar de críticas. O MNA nunca conseguiu criar uma voz econômica unificada que substituísse as instituições de Bretton Woods.",
+      "descricao_en": "The Non-Aligned Movement had a structural contradiction: many of its members were authoritarian regimes that suppressed internal opposition while preaching sovereignty and anti-colonialism externally. Nasser repressed Egyptian communists. Sukarno massacred hundreds of thousands of Indonesian communists in 1965. Mobutu in Zaire was a NAM member and one of Africa's most corrupt dictators. Southern solidarity was real — but frequently instrumentalized by elites who used anti-colonial discourse as a shield against criticism. The NAM never managed to create a unified economic voice to replace the Bretton Woods institutions.",
+      "descricao_es": "El Movimiento de Países No Alineados tenía una contradicción estructural: muchos de sus miembros eran regímenes autoritarios que suprimían la oposición interna mientras predicaban soberanía y anticolonialismo externamente. Nasser reprimía a los comunistas egipcios. Sukarno masacró cientos de miles de comunistas indonesios en 1965. Mobutu en Zaire era miembro del MNA y uno de los dictadores más corruptos de África. La solidaridad del Sur era real — pero frecuentemente instrumentalizada por élites que usaban el discurso anticolonial como escudo frente a las críticas. El MNA nunca logró crear una voz económica unificada que reemplazara a las instituciones de Bretton Woods."
+    },
+    {
+      "id": "mna-007",
+      "nome": "O Sul Global no Século XXI: BRICS, G20 e a Nova Multipolaridade",
+      "nome_en": "The Global South in the 21st Century: BRICS, G20 and the New Multipolarity",
+      "nome_es": "El Sur Global en el Siglo XXI: BRICS, G20 y la Nueva Multipolaridad",
+      "tipo": "political",
+      "ano_inicio": 2001,
+      "ano_fim": 2024,
+      "seculo": 21,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "O espírito de Bandung ressurgiu com outras roupagens. Os BRICS (Brasil, Rússia, Índia, China, África do Sul — fundados 2009) tornaram-se o principal fórum alternativo à ordem ocidental, expandindo-se para 10 membros em 2024. O conceito de 'Sul Global' recuperou a ideia de Bandung: países do Sul como agentes históricos, não apenas objetos das políticas das grandes potências. A guerra na Ucrânia (2022) revelou que a maioria dos países do Sul se recusou a condenar a Rússia — não por simpatia a Putin, mas por ceticismo em relação à ordem liberal ocidental que nunca os tratou como iguais. Bandung continua sendo a referência.",
+      "descricao_en": "The spirit of Bandung resurfaced in different forms. The BRICS (Brazil, Russia, India, China, South Africa — founded 2009) became the main alternative forum to the Western order, expanding to 10 members in 2024. The concept of 'Global South' recovered the Bandung idea: southern countries as historical agents, not merely objects of great power policies. The war in Ukraine (2022) revealed that most Global South countries refused to condemn Russia — not out of sympathy for Putin, but out of skepticism toward the liberal Western order that had never treated them as equals. Bandung remains the reference.",
+      "descricao_es": "El espíritu de Bandung resurgió con otras formas. Los BRICS (Brasil, Rusia, India, China, Sudáfrica — fundados en 2009) se convirtieron en el principal foro alternativo al orden occidental, expandiéndose a 10 miembros en 2024. El concepto de 'Sur Global' recuperó la idea de Bandung: los países del Sur como agentes históricos, no solo objetos de las políticas de las grandes potencias. La guerra en Ucrania (2022) reveló que la mayoría de los países del Sur Global se negó a condenar a Rusia — no por simpatía a Putin, sino por escepticismo hacia el orden liberal occidental que nunca los trató como iguales. Bandung sigue siendo la referencia."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "mna-001",
+      "destino": "mna-002",
+      "tipo": "causal"
+    },
+    {
+      "origem": "mna-002",
+      "destino": "mna-003",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "mna-003",
+      "destino": "mna-004",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "mna-002",
+      "destino": "mna-004",
+      "tipo": "causal"
+    },
+    {
+      "origem": "mna-004",
+      "destino": "mna-005",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "mna-003",
+      "destino": "mna-005",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "mna-005",
+      "destino": "mna-006",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "mna-002",
+      "destino": "mna-006",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "mna-006",
+      "destino": "mna-007",
+      "tipo": "causal"
+    },
+    {
+      "origem": "mna-001",
+      "destino": "mna-007",
+      "tipo": "tematica"
+    }
+  ]
+}

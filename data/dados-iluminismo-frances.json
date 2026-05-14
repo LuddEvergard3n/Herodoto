@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "François-Marie Arouet (Voltaire) foi o maior polemista do século XVIII: Lettres Philosophiques (1734) — a Inglaterra como modelo de tolerância vs. França; Cândido (1759) — sátira ao otimismo leibniziano após o Terremoto de Lisboa (1755); Dicionário Filosófico (1764). Defendeu Jean Calas (protestante executado injustamente) numa campanha pública que conseguiu a reabilitação póstuma.",
-      "importancia": "Voltaire inventou o intelectual público engajado: usou sua fama para combater casos de injustiça específicos. O caso Calas foi o primeiro grande escândalo judiciário mobilizado por opinião pública — precursor do Caso Dreyfus 130 anos depois e do ativismo de direitos humanos moderno."
+      "importancia": "Voltaire inventou o intelectual público engajado: usou sua fama para combater casos de injustiça específicos. O caso Calas foi o primeiro grande escândalo judiciário mobilizado por opinião pública — precursor do Caso Dreyfus 130 anos depois e do ativismo de direitos humanos moderno.",
+      "nome_en": "Voltaire: Reason as a Weapon (1694–1778)",
+      "nome_es": "Voltaire: La Razón como Arma (1694–1778)"
     },
     {
       "id": "ilf-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Jean-Jacques Rousseau contradisse os demais iluministas: a civilização corrompe o homem naturalmente bom. Discurso sobre a Desigualdade (1755): a propriedade privada é a origem de todos os males sociais. O Contrato Social (1762): a soberania pertence ao povo; a 'vontade geral' não pode ser dividida nem representada. Emílio (1762): educação natural, não repetição mecânica.",
-      "importancia": "Rousseau é o mais influente e o mais perigoso dos iluministas: sua 'vontade geral' foi o instrumento ideológico do Terror jacobino (Robespierre era seu leitor devoto). O conceito de soberania popular absoluta, sem freios institucionais, pode justificar tanto a democracia quanto a ditadura plebiscitária."
+      "importancia": "Rousseau é o mais influente e o mais perigoso dos iluministas: sua 'vontade geral' foi o instrumento ideológico do Terror jacobino (Robespierre era seu leitor devoto). O conceito de soberania popular absoluta, sem freios institucionais, pode justificar tanto a democracia quanto a ditadura plebiscitária.",
+      "nome_en": "Rousseau and the Social Contract (1712–1778)",
+      "nome_es": "Rousseau y el Contrato Social (1712–1778)"
     },
     {
       "id": "ilf-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Denis Diderot e Jean le Rond d'Alembert coordenaram 28 volumes com 71.818 artigos escritos por 150 colaboradores: Voltaire, Rousseau, Montesquieu, Holbach. A Enciclopédie sistematizou o conhecimento humano numa perspectiva racional e laica, desafiando autoridades religiosas e políticas. Dois vezes proibida; publicada clandestinamente.",
-      "importancia": "A Enciclopédie foi o maior projeto de difusão do conhecimento da história até a internet: democratizou o saber, transferindo-o da Igreja e das universidades para o público burguês leitor. A ideia de que todo conhecimento humano pode ser sistematizado, organizado e publicado livremente é um fundamento da modernidade."
+      "importancia": "A Enciclopédie foi o maior projeto de difusão do conhecimento da história até a internet: democratizou o saber, transferindo-o da Igreja e das universidades para o público burguês leitor. A ideia de que todo conhecimento humano pode ser sistematizado, organizado e publicado livremente é um fundamento da modernidade.",
+      "nome_en": "The Encyclopédie: Diderot, D'Alembert and Secularized Knowledge (1751–1772)",
+      "nome_es": "La Enciclopedia: Diderot, D'Alembert y el Saber Laicizado (1751–1772)"
     },
     {
       "id": "ilf-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Charles de Secondat, Barão de Montesquieu: O Espírito das Leis (1748) — a liberdade política exige separação entre Poder Executivo, Legislativo e Judiciário. Analisou as constituições da Grécia, Roma, Inglaterra. A corrupção dos governos vem da concentração de poderes. As Cartas Persas (1721): crítica satírica da sociedade francesa pelos olhos de viajantes fictícios.",
-      "importancia": "Montesquieu foi o arquiteto constitucional da modernidade: a separação de poderes está nas constituições americana (1787), francesa e de quase todas as democracias liberais. Os 'Federalistas' americanos (Hamilton, Madison, Jay) citavam-no exaustivamente como autoridade máxima em governo livre."
+      "importancia": "Montesquieu foi o arquiteto constitucional da modernidade: a separação de poderes está nas constituições americana (1787), francesa e de quase todas as democracias liberais. Os 'Federalistas' americanos (Hamilton, Madison, Jay) citavam-no exaustivamente como autoridade máxima em governo livre.",
+      "nome_en": "Montesquieu and the Separation of Powers (1689–1755)",
+      "nome_es": "Montesquieu y la Separación de Poderes (1689–1755)"
     },
     {
       "id": "if1",

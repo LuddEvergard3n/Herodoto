@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Em maio de 1968, Paris foi paralisada: estudantes da Sorbonne nas barricadas, 10 milhões de trabalhadores em greve geral — o maior movimento grevista da história francesa. Slogans: 'Sob o pavimento, a praia', 'É proibido proibir', 'Sejam realistas, peçam o impossível'. De Gaulle dissolveu a Assembleia, pediu eleições — e ganhou por maioria esmagadora em junho.",
-      "importancia": "Maio de 68 não derrubou o sistema político — mas transformou a cultura: os anos 70 viram a revolução sexual, o feminismo de segunda onda, o ambientalismo, os direitos dos homossexuais, a contracultura. De Gaulle venceu a batalha política; os estudantes venceram a guerra cultural. A divisão 'esquerda cultural' vs. 'direita econômica' que define a política ocidental vem de 1968."
+      "importancia": "Maio de 68 não derrubou o sistema político — mas transformou a cultura: os anos 70 viram a revolução sexual, o feminismo de segunda onda, o ambientalismo, os direitos dos homossexuais, a contracultura. De Gaulle venceu a batalha política; os estudantes venceram a guerra cultural. A divisão 'esquerda cultural' vs. 'direita econômica' que define a política ocidental vem de 1968.",
+      "nome_en": "May 68 in Paris: The Revolution That Wasn't",
+      "nome_es": "Mayo del 68 en París: La Revolución que No Fue"
     },
     {
       "id": "s68-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "O movimento estudantil alemão foi o mais radical na questão do passado: os jovens acusavam seus pais de cumplicidade com o nazismo. Rudi Dutschke (líder do SDS), Ulrike Meinhof (jornalista, depois da RAF). O assassinato de Benno Ohnesorg pela polícia (junho 1967) radicalizou o movimento. A Fraction Armée Rouge (Baader-Meinhof, 1970-1998): terrorismo de esquerda como consequência do 68 alemão.",
-      "importancia": "A obsessão alemã com o passado nazista que caracteriza o país hoje foi em grande parte construída pela geração de 68: foram eles que forçaram a confrontação pública com a cumplicidade parental. O lema 'Unter den Talaren — Muff von tausend Jahren' (sob as togas, o mofo de mil anos) atacava os professores universitários nazistas que permaneciam nos cargos."
+      "importancia": "A obsessão alemã com o passado nazista que caracteriza o país hoje foi em grande parte construída pela geração de 68: foram eles que forçaram a confrontação pública com a cumplicidade parental. O lema 'Unter den Talaren — Muff von tausend Jahren' (sob as togas, o mofo de mil anos) atacava os professores universitários nazistas que permaneciam nos cargos.",
+      "nome_en": "West Germany: The Generation That Confronted Its Parents",
+      "nome_es": "Alemania Occidental: La Generación que Confrontó a sus Padres"
     },
     {
       "id": "s68-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Alexander Dubček assumiu em janeiro 1968 e iniciou a liberalização: liberdade de imprensa, pluralismo político, federalização (eslovacos e tchecos em pé de igualdade), 'socialismo de rosto humano'. Em agosto, 250.000 soldados do Pacto de Varsóvia invadiram. Dubček foi levado a Moscou de pijama, obrigado a assinar a 'normalização'. Jan Palach queimou-se em protesto (janeiro 1969).",
-      "importancia": "A Primavera de Praga foi a tentativa mais séria de criar um comunismo democrático — e foi esmagada pela URSS. A Doutrina Brejnev (1968): a URSS tem direito de intervir para preservar o socialismo em qualquer país do bloco. Esta doutrina foi a certidão de óbito do comunismo reformista europeu."
+      "importancia": "A Primavera de Praga foi a tentativa mais séria de criar um comunismo democrático — e foi esmagada pela URSS. A Doutrina Brejnev (1968): a URSS tem direito de intervir para preservar o socialismo em qualquer país do bloco. Esta doutrina foi a certidão de óbito do comunismo reformista europeu.",
+      "nome_en": "Prague Spring: Socialism with a Human Face (1968)",
+      "nome_es": "Primavera de Praga: El Socialismo de Rostro Humano (1968)"
     },
     {
       "id": "s68-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "O impacto cultural de 1968 foi mais duradouro que o político: Simone de Beauvoir e o Movimento de Liberação das Mulheres; legalização do aborto (França 1975, Itália 1978); descriminalização da homossexualidade (Alemanha 1969); movimento ecologista (Greenpeace 1971, Os Verdes alemães 1980); educação não-autoritária; contracultura; rock como linguagem de protesto (Dylan, Lennon).",
-      "importancia": "1968 dividiu o Ocidente em 'antes' e 'depois': a sociedade que existia antes de 68 — mais hierárquica, religiosa, sexualmente repressiva, nacionalista — foi transformada irreversivelmente. A reação conservadora que começou nos anos 80 (Reagan, Thatcher, os neoconservadores) foi em grande parte uma tentativa de reverter o legado cultural de 1968."
+      "importancia": "1968 dividiu o Ocidente em 'antes' e 'depois': a sociedade que existia antes de 68 — mais hierárquica, religiosa, sexualmente repressiva, nacionalista — foi transformada irreversivelmente. A reação conservadora que começou nos anos 80 (Reagan, Thatcher, os neoconservadores) foi em grande parte uma tentativa de reverter o legado cultural de 1968.",
+      "nome_en": "The Cultural Legacy of 1968: Feminism, Ecology and Identities",
+      "nome_es": "El Legado Cultural de 1968: Feminismo, Ecología e Identidades"
     },
     {
       "id": "e68a",

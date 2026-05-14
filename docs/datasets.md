@@ -2,15 +2,15 @@
 
 **Diretório:** `data/`  
 **Módulo de carregamento:** `js/data.js`  
-**Versão:** Heródoto v7.43
+**Versão:** Heródoto v7.56
 
 ---
 
 ## Visão Geral
 
-O Heródoto contém **306 datasets JSON** organizados por continente e subgrupo, cobrindo da Pré-História ao século XXI. Cada dataset é um ficheiro `.json` autónomo carregado via `fetch()` sob demanda quando o utilizador seleciona o checkbox correspondente.
+O Heródoto contém **324 datasets JSON** organizados por continente e subgrupo, cobrindo da Pré-História ao século XXI. Cada dataset é um ficheiro `.json` autónomo carregado via `fetch()` sob demanda quando o utilizador seleciona o checkbox correspondente.
 
-**Total:** 2.644 entidades históricas (incluindo personagens).
+**Total:** 2.550 entidades históricas (incluindo personagens).
 
 ---
 
@@ -155,7 +155,7 @@ data/
 ├── dados-renascimento-norte.json
 ├── dados-revolucao-francesa.json
 ├── dados-brasil-colonial-inicial.json
-├── ... (306 ficheiros total)
+├── ... (324 ficheiros total)
 ```
 
 Convenção de nomenclatura: `dados-[região/período]-[subgrupo].json`

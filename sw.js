@@ -4,7 +4,7 @@
  * Permite uso offline completo após primeira visita.
  */
 
-const CACHE_VERSION = 'herodoto-v7-40';
+const CACHE_VERSION = 'herodoto-v7-58';
 const CACHE_STATIC  = `${CACHE_VERSION}-static`;
 const CACHE_DATA    = `${CACHE_VERSION}-data`;
 
@@ -16,6 +16,9 @@ const STATIC_ASSETS = [
   './guia-professor.html',
   './sobre.html',
   './ajuda.html',
+  './plano-aula.html',
+  './filtros-semanticos.html',
+  './vozes-historia.html',
   './css/base.css',
   './css/components.css',
   './assets/pergaminho.jpg',

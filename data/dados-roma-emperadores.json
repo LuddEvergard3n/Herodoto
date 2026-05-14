@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "Otávio, sobrinho-neto e herdeiro de César, derrotou Marco Antônio e Cleópatra em Actium (31 a.C.) e tornou-se o primeiro Imperador sob o título de Augusto (venerável). O Principado foi uma monarquia disfarçada: manteve as formas republicanas (Senado, magistraturas) enquanto concentrava todo o poder real. Inaugurou 200 anos de Pax Romana.",
-      "importancia": "Augusto foi provavelmente o estadista mais habilidoso da história romana: transformou uma república em colapso numa monarquia estável sem que parecesse monarquia. Seu reinado de 41 anos estabeleceu os padrões que todos os imperadores seguintes tentariam imitar."
+      "importancia": "Augusto foi provavelmente o estadista mais habilidoso da história romana: transformou uma república em colapso numa monarquia estável sem que parecesse monarquia. Seu reinado de 41 anos estabeleceu os padrões que todos os imperadores seguintes tentariam imitar.",
+      "nome_en": "Augustus and the Foundation of the Principate (27 BC–14 AD)",
+      "nome_es": "Augusto y la Fundación del Principado (27 a.C.–14 d.C.)"
     },
     {
       "id": "rimp-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "A primeira dinastia imperial. Tibério (14-37): competente mas sombrio, morreu odiado. Calígula (37-41): possível doença mental, assassinado pela guarda pretoriana. Cláudio (41-54): conquistou a Britânia, reformou a burocracia — considerado idiota por ser coxo, revelou-se capaz. Nero (54-68): artista narcisista que incendiou Roma (segundo a tradição), perseguiu cristãos, foi deposto.",
-      "importancia": "A dinastia Júlio-Cláudia estabeleceu que o Império poderia sobreviver a imperadores incompetentes ou cruéis — as instituições eram suficientemente sólidas. O assassinato de Calígula pela Guarda Pretoriana provou que os militares seriam sempre o árbitro final do poder."
+      "importancia": "A dinastia Júlio-Cláudia estabeleceu que o Império poderia sobreviver a imperadores incompetentes ou cruéis — as instituições eram suficientemente sólidas. O assassinato de Calígula pela Guarda Pretoriana provou que os militares seriam sempre o árbitro final do poder.",
+      "nome_en": "Julio-Claudians: Tiberius, Caligula, Claudius, Nero",
+      "nome_es": "Julio-Claudios: Tiberio, Calígula, Claudio, Nerón"
     },
     {
       "id": "rimp-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.75,
       "descricao": "Com a morte de Nero (68), quatro generais lutaram pelo poder no espaço de um ano: Galba, Otão, Vitélio e Vespasiano — que venceu. Os Flávios (Vespasiano, Tito, Domiciano) restauraram a ordem: construíram o Coliseu, destruíram Jerusalém (70 d.C.) e expandiram a fronteira germânica. Domiciano governou como déspota; foi assassinado.",
-      "importancia": "O Ano dos Quatro Imperadores revelou o 'segredo do Império': exércitos provinciais podiam criar imperadores — não apenas Roma. Tácito registrou esse momento como o início de uma dinâmica que repetiria com destruição crescente nos séculos seguintes."
+      "importancia": "O Ano dos Quatro Imperadores revelou o 'segredo do Império': exércitos provinciais podiam criar imperadores — não apenas Roma. Tácito registrou esse momento como o início de uma dinâmica que repetiria com destruição crescente nos séculos seguintes.",
+      "nome_en": "Year of the Four Emperors and the Flavians (68–96)",
+      "nome_es": "Año de los Cuatro Emperadores y los Flavios (68–96)"
     },
     {
       "id": "rimp-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Nerva, Trajano, Adriano, Antonino Pio, Marco Aurélio — período de adoção do melhor candidato disponível em vez de herança dinástica. Trajano levou o Império ao seu ápice territorial (Dácia, Mesopotâmia). Adriano consolidou e construiu (Muralha de Adriano, Panteão reconstruído). Marco Aurélio: filósofo-imperador estoico, passou quase todo o reinado em guerras defensivas.",
-      "importancia": "Edward Gibbon identificou este período como o apogeu da felicidade humana na história. A adoção sucessória funcionou enquanto os imperadores não tiveram filhos — Marco Aurélio quebrou a tradição adotando Cômodo, seu filho biológico, com resultados desastrosos."
+      "importancia": "Edward Gibbon identificou este período como o apogeu da felicidade humana na história. A adoção sucessória funcionou enquanto os imperadores não tiveram filhos — Marco Aurélio quebrou a tradição adotando Cômodo, seu filho biológico, com resultados desastrosos.",
+      "nome_en": "The Five Good Emperors: Nerva to Marcus Aurelius (96–180)",
+      "nome_es": "Los Cinco Buenos Emperadores: Nerva a Marco Aurelio (96–180)"
     },
     {
       "id": "rimp-005",
@@ -54,7 +62,9 @@
       "regiao": "Europe",
       "peso": 0.75,
       "descricao": "Após o caótico Ano dos Cinco Imperadores (193), Septimio Severo fundou nova dinastia. Caracala (211-217) concedeu cidadania romana a todos os habitantes livres do Império — medida tributária que diluiu o valor da cidadania. Heliogábalo (218-222): adolescente perturbado que introduziu cultos orientais. Alexandre Severo assassinado em 235, iniciando a Anarquia Militar.",
-      "importancia": "Os Severos militarizaram progressivamente o Império: Septimio Severo aumentou os salários dos soldados e permitiu que se casassem — tornando o exército uma instituição com interesses próprios crescentemente independentes do Estado."
+      "importancia": "Os Severos militarizaram progressivamente o Império: Septimio Severo aumentou os salários dos soldados e permitiu que se casassem — tornando o exército uma instituição com interesses próprios crescentemente independentes do Estado.",
+      "nome_en": "Severans and the Beginning of the Crisis (193–235)",
+      "nome_es": "Los Severos e Inicio de la Crisis (193–235)"
     },
     {
       "id": "re1",

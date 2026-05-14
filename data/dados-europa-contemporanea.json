@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "A crise financeira de 2008 expôs a fragilidade estrutural do Euro: países com políticas fiscais divergentes compartilhando uma moeda sem mecanismos de transferência fiscal. Grécia, Portugal, Irlanda, Espanha e Chipre precisaram de resgates. Austeridade imposta pela troika (FMI, BCE, Comissão Europeia): cortes em saúde, educação, pensões. Desemprego grego chegou a 27%. Debate: 'há uma crise do Euro ou uma crise da Alemanha?'",
-      "importancia": "A crise do Euro revelou as fraturas Norte-Sul da União Europeia: a narrativa alemã ('os gregos são preguiçosos') vs. a narrativa periférica ('a austeridade é ideologia'). O economista Joseph Stiglitz e muitos outros argumentaram que a austeridade aprofundou a crise em vez de resolvê-la. O debate permanece academicamente aberto e politicamente inflamado."
+      "importancia": "A crise do Euro revelou as fraturas Norte-Sul da União Europeia: a narrativa alemã ('os gregos são preguiçosos') vs. a narrativa periférica ('a austeridade é ideologia'). O economista Joseph Stiglitz e muitos outros argumentaram que a austeridade aprofundou a crise em vez de resolvê-la. O debate permanece academicamente aberto e politicamente inflamado.",
+      "nome_en": "Euro Crisis and Austerity (2010–2015)",
+      "nome_es": "Crisis del Euro y la Austeridad (2010–2015)"
     },
     {
       "id": "ect-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Em 2015, 1,3 milhão de pessoas pediram asilo na UE — principalmente sírios fugindo da guerra civil, mais afegãos, iraquianos, eritreus. Angela Merkel: 'Wir schaffen das' (Conseguiremos) — abriu as fronteiras alemãs. Acordos de Dublin colapsaram. Hungria de Orbán construiu muros. Atentados de Paris (novembro 2015). O fluxo diminuiu com o acordo UE-Turquia (março 2016) — ainda contestado.",
-      "importancia": "A crise dos refugiados foi o evento que mais claramente dividiu a Europa: solidariedade vs. segurança, cosmopolitismo vs. identidade nacional. O populismo de direita que alimentou o Brexit e elegeu Orbán, Le Pen, Meloni e AfD tem nas imagens de 2015 seu momento fundador visual."
+      "importancia": "A crise dos refugiados foi o evento que mais claramente dividiu a Europa: solidariedade vs. segurança, cosmopolitismo vs. identidade nacional. O populismo de direita que alimentou o Brexit e elegeu Orbán, Le Pen, Meloni e AfD tem nas imagens de 2015 seu momento fundador visual.",
+      "nome_en": "The Refugee Crisis (2015–2016)",
+      "nome_es": "La Crisis de los Refugiados (2015–2016)"
     },
     {
       "id": "ect-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "52% dos britânicos votaram pelo Leave em junho de 2016. Causas: imigração europeia (percebida como ameaça a salários e serviços públicos), soberania (ressentimento com regulação de Bruxelas), nostalgia imperial ('Global Britain'), décadas de eurofobia da imprensa tablóide. Theresa May e Boris Johnson negociaram a saída. Brexit efetivo: 31 janeiro 2020.",
-      "importancia": "O Brexit foi o primeiro caso de um Estado membro abandonar a UE — e provou ser mais complicado do que prometido. A fronteira norte-irlandesa revelou a impossibilidade de separar completamente mercados integrados por décadas. O Reino Unido de 2023 é menor (Escócia quer independência, Irlanda do Norte pende para a reunificação), mais pobre e mais isolado do que em 2016."
+      "importancia": "O Brexit foi o primeiro caso de um Estado membro abandonar a UE — e provou ser mais complicado do que prometido. A fronteira norte-irlandesa revelou a impossibilidade de separar completamente mercados integrados por décadas. O Reino Unido de 2023 é menor (Escócia quer independência, Irlanda do Norte pende para a reunificação), mais pobre e mais isolado do que em 2016.",
+      "nome_en": "Brexit: The United Kingdom Leaves Europe (2016–2020)",
+      "nome_es": "Brexit: El Reino Unido Sale de Europa (2016–2020)"
     },
     {
       "id": "ect-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Viktor Orbán (Hungria, desde 2010) construiu uma 'democracia iliberal': controle judicial, imprensa governamental, gerrymandering, demonização de Soros e migrantes. O PiS (Polônia, 2015-2023) seguiu modelo similar. Marine Le Pen e o RN francês chegaram ao segundo turno em 2022. Giorgia Meloni (pós-fascista) tornou-se primeira-ministra italiana (2022). A AfD chegou a 20-25% na Alemanha.",
-      "importancia": "O populismo europeu não é um fenômeno temporário: é a resposta de eleitores que se sentem economicamente abandonados (desindustrialização) e culturalmente ameaçados (imigração, multiculturalismo) à globalização. A questão central para a democracia europeia: pode-se integrar esta insatisfação sem entregar o Estado de direito às forças que o querem destruir?"
+      "importancia": "O populismo europeu não é um fenômeno temporário: é a resposta de eleitores que se sentem economicamente abandonados (desindustrialização) e culturalmente ameaçados (imigração, multiculturalismo) à globalização. A questão central para a democracia europeia: pode-se integrar esta insatisfação sem entregar o Estado de direito às forças que o querem destruir?",
+      "nome_en": "Populism, Illiberal Democracy and the Future of Europe",
+      "nome_es": "Populismo, Democracia Iliberal y el Futuro de Europa"
     },
     {
       "id": "ec1",

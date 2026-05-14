@@ -2,7 +2,7 @@
 
 **Ficheiro principal:** `js/filtros.js`  
 **Página auxiliar:** `filtros-semanticos.html`  
-**Versão:** Heródoto v7.43
+**Versão:** Heródoto v7.56
 
 ---
 

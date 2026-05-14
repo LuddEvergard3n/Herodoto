@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Heródoto — Vozes da História</title>
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+  <style>
+    /* ── Variáveis (idêntico ao sistema do Heródoto) ── */
+    :root {
+      --pc:#f6f1e4; --pm:#e8dfc8; --pe:#c8b898;
+      --tp:#2a1e0f; --td:#5a4030; --bo:#b09870;
+      --oc:#8b3a2a; --la:#2b4b7e; --do:#7a6228;
+      --ft:'IM Fell English','Palatino Linotype',Palatino,Georgia,serif;
+      --fb:'Crimson Text','Palatino Linotype',Palatino,Georgia,serif;
+    }
+    *{margin:0;padding:0;box-sizing:border-box;}
+    body{font-family:var(--fb);color:var(--tp);background:#a89070;
+      background-image:url('assets/pergaminho.jpg');background-size:cover;background-attachment:fixed;min-height:100vh;}
+    body::before{content:'';position:fixed;inset:0;
+      background:radial-gradient(ellipse at center,transparent 30%,rgba(15,8,2,.42)100%),rgba(15,8,2,.16);
+      pointer-events:none;z-index:0;}
+
+    /* ── Header ── */
+    header{position:relative;z-index:10;background:linear-gradient(180deg,#2a1e0f,#3d2e1a);
+      color:var(--pm);padding:1rem 2rem;border-bottom:3px solid var(--do);box-shadow:0 3px 18px rgba(0,0,0,.55);}
+    header::after{content:'';position:absolute;bottom:-6px;left:0;right:0;height:3px;
+      background:linear-gradient(90deg,transparent,var(--bo),transparent);}
+    .hi{display:flex;justify-content:space-between;align-items:center;max-width:1300px;margin:0 auto;gap:1rem;}
+    .ti h1{font-family:var(--ft);font-size:1.7rem;font-weight:400;font-variant:small-caps;
+      letter-spacing:.08em;color:var(--pc);text-shadow:0 1px 6px rgba(0,0,0,.6);margin-bottom:.1rem;}
+    .ti p{font-style:italic;font-size:.9rem;color:var(--pe);}
+    nav{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;}
+    .nb{font-family:var(--fb);font-size:.85rem;font-variant:small-caps;letter-spacing:.05em;
+      color:var(--pm);text-decoration:none;padding:.35rem .8rem;border:1px solid var(--bo);
+      border-radius:3px;background:rgba(255,255,255,.06);transition:background .2s;white-space:nowrap;}
+    .nb:hover{background:rgba(255,255,255,.15);color:var(--pc);}
+    .nb.on{background:rgba(176,152,112,.3);color:var(--pc);border-color:var(--pe);}
+
+    /* ── Layout principal ── */
+    .pw{position:relative;z-index:1;max-width:1200px;margin:0 auto;padding:1.5rem 1.5rem 3rem;
+      display:grid;grid-template-columns:280px 1fr;gap:1.5rem;align-items:start;}
+    @media(max-width:860px){.pw{grid-template-columns:1fr;}}
+
+    /* ── Painel esquerdo: seleção de persona ── */
+    .sidebar{background:rgba(246,241,228,.94);border:1px solid var(--bo);border-radius:4px;
+      box-shadow:2px 4px 18px rgba(0,0,0,.28);overflow:hidden;}
+    .sidebar-titulo{font-family:var(--ft);font-size:1rem;font-variant:small-caps;letter-spacing:.08em;
+      color:var(--pc);background:linear-gradient(180deg,#2a1e0f,#3d2e1a);
+      padding:.65rem 1rem;border-bottom:2px solid var(--do);}
+    .persona-lista{padding:.5rem;}
+    .persona-btn{
+      width:100%;display:flex;align-items:center;gap:.6rem;
+      padding:.5rem .7rem;border-radius:3px;border:1px solid transparent;
+      background:transparent;cursor:pointer;transition:background .15s,border-color .15s;
+      font-family:var(--fb);text-align:left;margin-bottom:.25rem;
+    }
+    .persona-btn:hover{background:rgba(176,152,112,.15);border-color:var(--bo);}
+    .persona-btn.ativa{background:rgba(43,75,126,.08);border-color:rgba(43,75,126,.3);}
+    .persona-emoji{font-size:1.3rem;flex-shrink:0;}
+    .persona-info{flex:1;min-width:0;}
+    .persona-nome{font-family:var(--ft);font-size:.88rem;font-variant:small-caps;
+      letter-spacing:.04em;color:var(--tp);display:block;}
+    .persona-periodo{font-size:.72rem;color:var(--td);font-style:italic;display:block;
+      white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+
+    /* Estado do modelo */
+    .modelo-status{padding:.65rem 1rem;border-top:1px solid var(--bo);
+      font-size:.76rem;color:var(--td);display:flex;align-items:center;gap:.5rem;}
+    .status-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+    .status-dot.idle{background:#b09870;}
+    .status-dot.loading{background:#e8a020;animation:pulse .8s ease-in-out infinite alternate;}
+    .status-dot.ready{background:#2e6b4f;}
+    .status-dot.error{background:#8b3a2a;}
+    @keyframes pulse{to{opacity:.4;}}
+
+    /* ── Painel direito: chat ── */
+    .chat-area{background:rgba(246,241,228,.94);border:1px solid var(--bo);border-radius:4px;
+      box-shadow:2px 4px 18px rgba(0,0,0,.28);display:flex;flex-direction:column;height:calc(100vh - 160px);min-height:500px;}
+
+    /* Cabeçalho do chat */
+    .chat-header{padding:.7rem 1.1rem;border-bottom:1px solid var(--bo);
+      background:linear-gradient(180deg,rgba(246,241,228,1),rgba(232,223,200,.5));
+      display:flex;align-items:center;justify-content:space-between;gap:.8rem;flex-shrink:0;}
+    .chat-persona-nome{font-family:var(--ft);font-size:1.05rem;font-variant:small-caps;
+      letter-spacing:.07em;color:var(--tp);}
+    .chat-persona-periodo{font-size:.78rem;color:var(--td);font-style:italic;}
+    .btn-nova{font-family:var(--fb);font-size:.78rem;font-variant:small-caps;letter-spacing:.05em;
+      background:transparent;color:var(--td);border:1px solid var(--bo);border-radius:3px;
+      padding:.28rem .65rem;cursor:pointer;transition:background .15s;}
+    .btn-nova:hover{background:rgba(176,152,112,.2);}
+
+    /* Barra de progresso de carregamento */
+    .loading-area{display:none;flex-direction:column;align-items:center;justify-content:center;
+      flex:1;gap:1rem;padding:2rem;}
+    .loading-area.visivel{display:flex;}
+    .loading-titulo{font-family:var(--ft);font-size:1.1rem;font-variant:small-caps;
+      letter-spacing:.06em;color:var(--tp);}
+    .loading-sub{font-size:.85rem;color:var(--td);text-align:center;max-width:380px;line-height:1.55;}
+    .loading-prog-wrap{width:100%;max-width:380px;background:rgba(176,152,112,.15);
+      border:1px solid var(--bo);border-radius:3px;overflow:hidden;height:8px;}
+    .loading-prog-fill{height:100%;background:linear-gradient(90deg,var(--la),var(--oc));
+      width:0%;transition:width .3s ease;border-radius:3px;}
+    .loading-pct{font-size:.82rem;color:var(--td);}
+    .loading-txt{font-size:.76rem;color:var(--td);font-style:italic;max-width:380px;text-align:center;}
+
+    /* Tela de selecção */
+    .select-area{display:none;flex-direction:column;align-items:center;justify-content:center;
+      flex:1;gap:.8rem;padding:2rem;text-align:center;}
+    .select-area.visivel{display:flex;}
+    .select-area-icon{font-size:3rem;opacity:.5;}
+    .select-area-txt{font-family:var(--ft);font-size:1rem;font-variant:small-caps;
+      letter-spacing:.06em;color:var(--td);}
+    .select-area-sub{font-size:.85rem;color:var(--td);font-style:italic;}
+
+    /* WebGPU indisponível */
+    .webgpu-aviso{display:none;flex-direction:column;align-items:center;justify-content:center;
+      flex:1;gap:.8rem;padding:2.5rem 2rem;text-align:center;}
+    .webgpu-aviso.visivel{display:flex;}
+    .webgpu-aviso-icon{font-size:2.5rem;opacity:.6;}
+    .webgpu-aviso h3{font-family:var(--ft);font-size:1.05rem;font-variant:small-caps;
+      letter-spacing:.06em;color:var(--oc);}
+    .webgpu-aviso p{font-size:.85rem;color:var(--td);max-width:420px;line-height:1.6;}
+    .webgpu-aviso code{font-family:monospace;font-size:.82rem;background:rgba(176,152,112,.2);
+      padding:.1rem .35rem;border-radius:2px;}
+
+    /* Mensagens */
+    .mensagens{flex:1;overflow-y:auto;padding:1rem 1.1rem;display:flex;flex-direction:column;gap:.85rem;}
+    .mensagens::-webkit-scrollbar{width:5px;}
+    .mensagens::-webkit-scrollbar-track{background:var(--pm);}
+    .mensagens::-webkit-scrollbar-thumb{background:var(--bo);border-radius:1px;}
+
+    .msg{display:flex;gap:.6rem;max-width:88%;}
+    .msg.usuario{align-self:flex-end;flex-direction:row-reverse;}
+    .msg.persona{align-self:flex-start;}
+
+    .msg-avatar{width:32px;height:32px;border-radius:50%;display:flex;align-items:center;
+      justify-content:center;font-size:1.1rem;flex-shrink:0;margin-top:.15rem;
+      background:rgba(176,152,112,.2);border:1px solid var(--bo);}
+    .msg.usuario .msg-avatar{background:rgba(43,75,126,.12);border-color:rgba(43,75,126,.3);}
+
+    .msg-balao{padding:.55rem .8rem;border-radius:3px;font-size:.88rem;line-height:1.65;
+      border:1px solid var(--bo);background:rgba(255,255,255,.6);}
+    .msg.usuario .msg-balao{background:rgba(43,75,126,.08);border-color:rgba(43,75,126,.2);color:var(--tp);}
+    .msg.persona .msg-balao{background:rgba(246,241,228,.9);}
+
+    /* Pensando... */
+    .pensando .msg-balao{font-style:italic;color:var(--td);}
+    .pensando-dots span{display:inline-block;animation:blink 1.2s infinite;font-style:normal;}
+    .pensando-dots span:nth-child(2){animation-delay:.2s;}
+    .pensando-dots span:nth-child(3){animation-delay:.4s;}
+    @keyframes blink{0%,80%,100%{opacity:0;}40%{opacity:1;}}
+
+    /* Input */
+    .chat-input-area{padding:.75rem 1rem;border-top:1px solid var(--bo);
+      display:flex;gap:.6rem;align-items:flex-end;flex-shrink:0;}
+    .chat-input{flex:1;font-family:var(--fb);font-size:.9rem;color:var(--tp);
+      background:rgba(246,241,228,.8);border:1px solid var(--bo);border-radius:3px;
+      padding:.48rem .7rem;resize:none;min-height:42px;max-height:120px;
+      transition:border-color .15s,background .15s;line-height:1.5;}
+    .chat-input:focus{outline:none;border-color:var(--la);background:rgba(255,255,255,.92);}
+    .chat-input:disabled{opacity:.5;cursor:not-allowed;}
+    .btn-enviar{font-family:var(--fb);font-size:.85rem;font-variant:small-caps;
+      letter-spacing:.05em;background:var(--tp);color:var(--pc);border:1px solid var(--do);
+      border-radius:3px;padding:.48rem 1rem;cursor:pointer;transition:background .2s;
+      white-space:nowrap;flex-shrink:0;align-self:stretch;}
+    .btn-enviar:hover:not(:disabled){background:#3d2e1a;}
+    .btn-enviar:disabled{opacity:.45;cursor:not-allowed;}
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="hi">
+    <div class="ti">
+      <h1>Heródoto</h1>
+      <p>O Pai da História — explore tempo, espaço e contexto</p>
+    </div>
+    <nav>
+      <a href="index.html" class="nb">← Mapa</a>
+      <a href="fontes.html" class="nb">Fontes</a>
+      <a href="guia-professor.html" class="nb">Guia do Professor</a>
+      <a href="plano-aula.html" class="nb">Plano de Aula</a>
+      <a href="vozes-historia.html" class="nb on">Vozes da História</a>
+      <a href="sobre.html" class="nb">Sobre</a>
+    </nav>
+  </div>
+</header>
+
+<div class="pw">
+
+  <!-- ── Sidebar: personas ── -->
+  <div class="sidebar">
+    <div class="sidebar-titulo">Escolha uma Voz</div>
+    <div class="persona-lista" id="persona-lista"></div>
+    <div class="modelo-status" id="modelo-status">
+      <div class="status-dot idle" id="status-dot"></div>
+      <span id="status-txt">Selecione uma persona para iniciar</span>
+    </div>
+  </div>
+
+  <!-- ── Chat ── -->
+  <div class="chat-area">
+
+    <!-- Header do chat -->
+    <div class="chat-header" id="chat-header" style="display:none">
+      <div>
+        <div class="chat-persona-nome" id="chat-persona-nome">—</div>
+        <div class="chat-persona-periodo" id="chat-persona-periodo"></div>
+      </div>
+      <button class="btn-nova" id="btn-nova">↺ Nova conversa</button>
+    </div>
+
+    <!-- WebGPU indisponível -->
+    <div class="webgpu-aviso" id="webgpu-aviso">
+      <div class="webgpu-aviso-icon">⚠️</div>
+      <h3>WebGPU não disponível</h3>
+      <p>O módulo Vozes da História requer WebGPU para executar o modelo de linguagem localmente.<br><br>
+        Use <strong>Microsoft Edge</strong> ou <strong>Google Chrome</strong> versão 113 ou superior.<br><br>
+        No Firefox, ative em <code>about:config</code> → <code>dom.webgpu.enabled</code> (experimental, instável).</p>
+    </div>
+
+    <!-- Carregamento do modelo -->
+    <div class="loading-area" id="loading-area">
+      <div class="loading-titulo" id="loading-persona-nome">Carregando…</div>
+      <div class="loading-sub">O modelo de linguagem (<strong>Llama 3.1 8B</strong>) está sendo baixado e carregado na sua GPU. Isso pode levar alguns minutos na primeira vez. Após isso, funciona completamente offline.</div>
+      <div class="loading-prog-wrap">
+        <div class="loading-prog-fill" id="loading-prog-fill"></div>
+      </div>
+      <div class="loading-pct" id="loading-pct">0%</div>
+      <div class="loading-txt" id="loading-txt">Inicializando…</div>
+    </div>
+
+    <!-- Selecção de persona -->
+    <div class="select-area visivel" id="select-area">
+      <div class="select-area-icon">🗣️</div>
+      <div class="select-area-txt">Vozes da História</div>
+      <div class="select-area-sub">Selecione uma figura histórica à esquerda para iniciar o diálogo.<br>
+        O modelo usa apenas os dados históricos do Heródoto.</div>
+    </div>
+
+    <!-- Mensagens -->
+    <div class="mensagens" id="mensagens" style="display:none"></div>
+
+    <!-- Input -->
+    <div class="chat-input-area" id="chat-input-area" style="display:none">
+      <textarea class="chat-input" id="chat-input"
+        placeholder="Escreva sua pergunta à figura histórica…"
+        rows="1" disabled></textarea>
+      <button class="btn-enviar" id="btn-enviar" disabled>Enviar</button>
+    </div>
+
+  </div>
+</div>
+
+<script type="module">
+import {
+  PERSONAS, carregarModelo, modeloPronto, modeloCarregando,
+  iniciarConversa, enviarMensagem, novaConversa
+} from './js/vozes.js';
+
+// ── Referências DOM ──
+const $lista     = document.getElementById('persona-lista');
+const $statusDot = document.getElementById('status-dot');
+const $statusTxt = document.getElementById('status-txt');
+const $chatHeader    = document.getElementById('chat-header');
+const $personaNome   = document.getElementById('chat-persona-nome');
+const $personaPeriodo= document.getElementById('chat-persona-periodo');
+const $btnNova       = document.getElementById('btn-nova');
+const $webgpuAviso   = document.getElementById('webgpu-aviso');
+const $loadingArea   = document.getElementById('loading-area');
+const $loadingNome   = document.getElementById('loading-persona-nome');
+const $loadingFill   = document.getElementById('loading-prog-fill');
+const $loadingPct    = document.getElementById('loading-pct');
+const $loadingTxt    = document.getElementById('loading-txt');
+const $selectArea    = document.getElementById('select-area');
+const $mensagens     = document.getElementById('mensagens');
+const $inputArea     = document.getElementById('chat-input-area');
+const $input         = document.getElementById('chat-input');
+const $btnEnviar     = document.getElementById('btn-enviar');
+
+// ── WebGPU check ──
+if (!navigator.gpu) {
+  $webgpuAviso.classList.add('visivel');
+  $selectArea.classList.remove('visivel');
+}
+
+// ── Render personas ──
+PERSONAS.forEach(p => {
+  const btn = document.createElement('button');
+  btn.className = 'persona-btn';
+  btn.dataset.id = p.id;
+  btn.innerHTML = `
+    <span class="persona-emoji">${p.emoji}</span>
+    <span class="persona-info">
+      <span class="persona-nome">${p.nome}</span>
+      <span class="persona-periodo">${p.periodo}</span>
+    </span>`;
+  btn.addEventListener('click', () => seleccionarPersona(p.id));
+  $lista.appendChild(btn);
+});
+
+// ── Seleccionar persona ──
+async function seleccionarPersona(id) {
+  if (!navigator.gpu) return;
+  if (modeloCarregando()) return;
+
+  // highlight
+  document.querySelectorAll('.persona-btn').forEach(b =>
+    b.classList.toggle('ativa', b.dataset.id === id));
+
+  const persona = PERSONAS.find(p => p.id === id);
+
+  // Mostrar loading
+  $selectArea.classList.remove('visivel');
+  $mensagens.style.display    = 'none';
+  $inputArea.style.display    = 'none';
+  $chatHeader.style.display   = 'none';
+  $loadingArea.classList.add('visivel');
+  $loadingNome.textContent = `${persona.emoji} ${persona.nome}`;
+  $loadingFill.style.width = '0%';
+  $loadingPct.textContent  = '0%';
+  $loadingTxt.textContent  = 'Inicializando…';
+
+  setStatus('loading', 'Carregando modelo…');
+
+  // Carregar modelo se necessário
+  if (!modeloPronto()) {
+    const res = await carregarModelo((pct, txt) => {
+      $loadingFill.style.width = pct + '%';
+      $loadingPct.textContent  = pct + '%';
+      $loadingTxt.textContent  = txt || '';
+    });
+    if (!res.ok) {
+      $loadingArea.classList.remove('visivel');
+      $selectArea.classList.add('visivel');
+      setStatus('error', res.reason === 'webgpu' ? 'WebGPU indisponível' : 'Erro ao carregar modelo');
+      return;
+    }
+  }
+
+  setStatus('loading', 'Iniciando conversa…');
+  $loadingTxt.textContent = 'Carregando contexto histórico e gerando abertura…';
+
+  const res = await iniciarConversa(id);
+  if (!res.ok) {
+    $loadingArea.classList.remove('visivel');
+    $selectArea.classList.add('visivel');
+    setStatus('error', 'Erro ao iniciar conversa');
+    return;
+  }
+
+  // Mostrar chat
+  $loadingArea.classList.remove('visivel');
+  $chatHeader.style.display   = 'flex';
+  $mensagens.style.display    = 'flex';
+  $inputArea.style.display    = 'flex';
+  $personaNome.textContent    = `${res.persona.emoji} ${res.persona.nome}`;
+  $personaPeriodo.textContent = res.persona.periodo;
+
+  limparMensagens();
+  if (res.abertura) adicionarMensagem('persona', res.abertura, res.persona.emoji);
+
+  $input.disabled    = false;
+  $btnEnviar.disabled = false;
+  $input.focus();
+  setStatus('ready', `${res.persona.nome} pronto`);
+}
+
+// ── Enviar mensagem ──
+async function enviar() {
+  const txt = $input.value.trim();
+  if (!txt || !modeloPronto()) return;
+
+  $input.value = '';
+  $input.disabled    = true;
+  $btnEnviar.disabled = true;
+  ajustarAltura();
+
+  adicionarMensagem('usuario', txt, '👤');
+
+  const pensando = adicionarPensando();
+
+  const resposta = await enviarMensagem(txt);
+
+  pensando.remove();
+  if (resposta) {
+    const persona = PERSONAS.find(p =>
+      document.querySelector('.persona-btn.ativa')?.dataset.id === p.id);
+    adicionarMensagem('persona', resposta, persona?.emoji || '🗣️');
+  } else {
+    adicionarMensagem('persona', 'Não consegui formular uma resposta. Tente novamente.', '⚠️');
+  }
+
+  $input.disabled    = false;
+  $btnEnviar.disabled = false;
+  $input.focus();
+}
+
+// ── Nova conversa ──
+$btnNova.addEventListener('click', () => {
+  novaConversa();
+  limparMensagens();
+  $chatHeader.style.display = 'none';
+  $mensagens.style.display  = 'none';
+  $inputArea.style.display  = 'none';
+  $selectArea.classList.add('visivel');
+  $input.disabled    = true;
+  $btnEnviar.disabled = true;
+  document.querySelectorAll('.persona-btn').forEach(b => b.classList.remove('ativa'));
+  setStatus('ready', 'Modelo pronto — selecione uma persona');
+});
+
+// ── Input: Enter envia, Shift+Enter quebra linha ──
+$input.addEventListener('keydown', e => {
+  if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); enviar(); }
+});
+$input.addEventListener('input', ajustarAltura);
+$btnEnviar.addEventListener('click', enviar);
+
+// ── Helpers DOM ──
+function adicionarMensagem(tipo, texto, emoji) {
+  const msg = document.createElement('div');
+  msg.className = `msg ${tipo}`;
+  msg.innerHTML = `
+    <div class="msg-avatar">${emoji}</div>
+    <div class="msg-balao">${texto.replace(/\n/g,'<br>')}</div>`;
+  $mensagens.appendChild(msg);
+  $mensagens.scrollTop = $mensagens.scrollHeight;
+  return msg;
+}
+
+function adicionarPensando() {
+  const msg = document.createElement('div');
+  msg.className = 'msg persona pensando';
+  msg.innerHTML = `
+    <div class="msg-avatar">⌛</div>
+    <div class="msg-balao">A pensar
+      <span class="pensando-dots">
+        <span>.</span><span>.</span><span>.</span>
+      </span>
+    </div>`;
+  $mensagens.appendChild(msg);
+  $mensagens.scrollTop = $mensagens.scrollHeight;
+  return msg;
+}
+
+function limparMensagens() {
+  while ($mensagens.firstChild) $mensagens.removeChild($mensagens.firstChild);
+}
+
+function ajustarAltura() {
+  $input.style.height = 'auto';
+  $input.style.height = Math.min($input.scrollHeight, 120) + 'px';
+}
+
+function setStatus(estado, txt) {
+  $statusDot.className = `status-dot ${estado}`;
+  $statusTxt.textContent = txt;
+}
+</script>
+</body>
+</html>

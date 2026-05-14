@@ -1,0 +1,87 @@
+{
+  "periodo": "Melanésia e Micronésia: A Oceania Esquecida",
+  "entidades": [
+    {
+      "id": "mel-001",
+      "nome": "Papua Nova Guiné: A Maior Diversidade Linguística do Mundo",
+      "nome_en": "Papua New Guinea: The World's Greatest Linguistic Diversity",
+      "nome_es": "Papúa Nueva Guinea: La Mayor Diversidad Lingüística del Mundo",
+      "tipo": "cultural",
+      "ano_inicio": -50000,
+      "ano_fim": 2024,
+      "seculo": -500,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "Papua Nova Guiné tem 820 línguas — mais de 10% de todas as línguas humanas — num país com 10 milhões de habitantes. Os grupos étnicos, muitos ainda sem contato externo até o século XX, desenvolveram culturas, sistemas agrícolas e tecnologias independentes por dezenas de milhares de anos. O Vale de Wahgi é um dos mais antigos centros de agricultura independente do mundo (7.000 a.C.) — tão antigo quanto o Crescente Fértil. A colonização alemã e britânica (1884) e depois australiana dividiu arbitrariamente povos e territórios.",
+      "descricao_en": "Papua New Guinea has 820 languages — more than 10% of all human languages — in a country of 10 million people. Ethnic groups, many still without external contact until the 20th century, independently developed cultures, agricultural systems and technologies over tens of thousands of years. The Wahgi Valley is one of the world's oldest centers of independent agriculture (7,000 BC) — as old as the Fertile Crescent. German and British colonization (1884) and then Australian rule arbitrarily divided peoples and territories.",
+      "descricao_es": "Papúa Nueva Guinea tiene 820 lenguas — más del 10% de todas las lenguas humanas — en un país de 10 millones de habitantes. Los grupos étnicos, muchos sin contacto externo hasta el siglo XX, desarrollaron de manera independiente culturas, sistemas agrícolas y tecnologías durante decenas de miles de años. El Valle de Wahgi es uno de los centros de agricultura independiente más antiguos del mundo (7.000 a.C.) — tan antiguo como el Creciente Fértil. La colonización alemana y británica (1884) y luego australiana dividió arbitrariamente pueblos y territorios."
+    },
+    {
+      "id": "mel-002",
+      "nome": "Fiji: Encruzilhada do Pacífico e Trabalhadores Indianos",
+      "nome_en": "Fiji: Pacific Crossroads and Indian Laborers",
+      "nome_es": "Fiyi: Encrucijada del Pacífico y Trabajadores Indios",
+      "tipo": "social",
+      "ano_inicio": 1874,
+      "ano_fim": 2000,
+      "seculo": 19,
+      "continente": "oceania",
+      "importancia": 4,
+      "descricao": "Fiji tornou-se colônia britânica em 1874. Para trabalhar nas plantações de cana-de-açúcar, a Grã-Bretanha trouxe 60.000 trabalhadores indianos contratados (girmityas) entre 1879 e 1916 — em condições análogas à escravidão. Hoje, 38% dos fijianos são descendentes desses trabalhadores indianos. A tensão entre a comunidade indígena fijiana (iTaukei) e a indo-fijiana gerou quatro golpes de Estado (1987, 2000, 2006) e uma constituição que até recentemente privilegiava a etnia sobre a cidadania.",
+      "descricao_en": "Fiji became a British colony in 1874. To work on sugar cane plantations, Britain brought 60,000 contracted Indian laborers (girmityas) between 1879 and 1916 — in conditions analogous to slavery. Today, 38% of Fijians are descendants of these Indian workers. Tension between the indigenous Fijian community (iTaukei) and Indo-Fijians generated four coups (1987, 2000, 2006) and a constitution that until recently privileged ethnicity over citizenship.",
+      "descricao_es": "Fiyi se convirtió en colonia británica en 1874. Para trabajar en las plantaciones de caña de azúcar, Gran Bretaña trajo 60.000 trabajadores indios contratados (girmityas) entre 1879 y 1916 — en condiciones análogas a la esclavitud. Hoy, el 38% de los fijianos son descendientes de esos trabajadores indios. La tensión entre la comunidad indígena fijiana (iTaukei) y la indo-fijiana generó cuatro golpes de Estado (1987, 2000, 2006) y una constitución que hasta hace poco privilegiaba la etnia sobre la ciudadanía."
+    },
+    {
+      "id": "mel-003",
+      "nome": "Micronésia: Palaos, Guam e a Guerra do Pacífico (1944)",
+      "nome_en": "Micronesia: Palau, Guam and the Pacific War (1944)",
+      "nome_es": "Micronesia: Palaos, Guam y la Guerra del Pacífico (1944)",
+      "tipo": "war",
+      "ano_inicio": 1941,
+      "ano_fim": 1945,
+      "seculo": 20,
+      "continente": "oceania",
+      "importancia": 4,
+      "descricao": "As ilhas da Micronésia foram o teatro da guerra mais brutal do Pacífico. Guam, colônia americana desde 1898, foi ocupada pelo Japão em 1941 e retomada pelos EUA em 1944 com 18.000 mortos japoneses e 8.000 americanos em 21 dias. Iwo Jima (1945): 26.000 baixas americanas e quase toda a guarnição japonesa de 21.000 — para uma ilha de 21 km². A foto de Joe Rosenthal da bandeira em Iwo Jima é a fotografia mais reproduzida da história. Estes territórios 'esquecidos' decidiram o resultado da Segunda Guerra.",
+      "descricao_en": "The islands of Micronesia were the theater of the most brutal war in the Pacific. Guam, an American colony since 1898, was occupied by Japan in 1941 and retaken by the US in 1944 with 18,000 Japanese and 8,000 American dead in 21 days. Iwo Jima (1945): 26,000 American casualties and almost the entire 21,000-strong Japanese garrison — for an island of 21 km². Joe Rosenthal's photograph of the flag at Iwo Jima is the most reproduced photograph in history. These 'forgotten' territories decided the outcome of World War II.",
+      "descricao_es": "Las islas de Micronesia fueron el teatro de la guerra más brutal del Pacífico. Guam, colonia americana desde 1898, fue ocupada por Japón en 1941 y retomada por EE.UU. en 1944 con 18.000 japoneses y 8.000 americanos muertos en 21 días. Iwo Jima (1945): 26.000 bajas americanas y casi toda la guarnición japonesa de 21.000 — para una isla de 21 km². La fotografía de Joe Rosenthal de la bandera en Iwo Jima es la fotografía más reproducida de la historia. Estos territorios 'olvidados' decidieron el resultado de la Segunda Guerra Mundial."
+    },
+    {
+      "id": "mel-004",
+      "nome": "Testes Nucleares no Pacífico: Bikini e Mururoa (1946–1996)",
+      "nome_en": "Nuclear Tests in the Pacific: Bikini and Mururoa (1946–1996)",
+      "nome_es": "Pruebas Nucleares en el Pacífico: Bikini y Mururoa (1946–1996)",
+      "tipo": "technological",
+      "ano_inicio": 1946,
+      "ano_fim": 1996,
+      "seculo": 20,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "Os EUA realizaram 67 testes nucleares no Atol de Bikini e nas Ilhas Marshall entre 1946 e 1958 — incluindo o Castelo Bravo (1954), a maior explosão nuclear americana, 1.000 vezes mais potente que Hiroshima. Os habitantes de Bikini foram evacuados e nunca puderam voltar — a ilha ainda é radioativa. A França realizou 193 testes nucleares na Polinésia Francesa (Mururoa e Fangataufa) entre 1966 e 1996. As ilhas do Pacífico foram usadas como laboratórios de armas nucleares por potências que jamais teriam feito o mesmo em solo europeu.",
+      "descricao_en": "The US conducted 67 nuclear tests at Bikini Atoll and the Marshall Islands between 1946 and 1958 — including Castle Bravo (1954), the largest American nuclear explosion, 1,000 times more powerful than Hiroshima. Bikini's inhabitants were evacuated and could never return — the island is still radioactive. France conducted 193 nuclear tests in French Polynesia (Mururoa and Fangataufa) between 1966 and 1996. Pacific islands were used as weapons laboratories by powers that would never have done the same on European soil.",
+      "descricao_es": "EE.UU. realizó 67 pruebas nucleares en el Atolón de Bikini y las Islas Marshall entre 1946 y 1958 — incluyendo Castle Bravo (1954), la mayor explosión nuclear americana, 1.000 veces más potente que Hiroshima. Los habitantes de Bikini fueron evacuados y nunca pudieron volver — la isla sigue siendo radiactiva. Francia realizó 193 pruebas nucleares en la Polinesia Francesa (Mururoa y Fangataufa) entre 1966 y 1996. Las islas del Pacífico fueron usadas como laboratorios de armas nucleares por potencias que jamás habrían hecho lo mismo en suelo europeo."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "mel-001",
+      "destino": "mel-002",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "mel-002",
+      "destino": "mel-003",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "mel-003",
+      "destino": "mel-004",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "mel-001",
+      "destino": "mel-004",
+      "tipo": "tematica"
+    }
+  ]
+}

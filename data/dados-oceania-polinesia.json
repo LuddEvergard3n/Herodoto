@@ -1,0 +1,157 @@
+{
+  "periodo": "Expansão Polinésia: Os Navegadores do Pacífico (3000 a.C. – 1300 d.C.)",
+  "entidades": [
+    {
+      "id": "pol-001",
+      "nome": "A Origem Austronésia: De Taiwan ao Pacífico (3000–1500 a.C.)",
+      "nome_en": "The Austronesian Origin: From Taiwan to the Pacific (3000–1500 BC)",
+      "nome_es": "El Origen Austronesio: De Taiwán al Pacífico (3000–1500 a.C.)",
+      "tipo": "social",
+      "ano_inicio": -3000,
+      "ano_fim": -1500,
+      "seculo": -30,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "Os povos austronésios originaram-se em Taiwan há cerca de 5.000 anos e iniciaram uma das maiores migrações da história humana, espalhando-se pelas Filipinas, Indonésia, Madagáscar (a 8.000 km de Taiwan) e, finalmente, pelo Pacífico. A evidência linguística é extraordinária: todas as línguas polinésias, malaias, malgaxes e centenas de outras pertencem à mesma família — prova de uma diáspora marítima que cobriu metade do globo antes de Colombo.",
+      "descricao_en": "Austronesian peoples originated in Taiwan around 5,000 years ago and began one of the greatest migrations in human history, spreading through the Philippines, Indonesia, Madagascar (8,000 km from Taiwan) and finally across the Pacific. The linguistic evidence is extraordinary: all Polynesian, Malay, Malagasy and hundreds of other languages belong to the same family — proof of a maritime diaspora that covered half the globe before Columbus.",
+      "descricao_es": "Los pueblos austronesios se originaron en Taiwán hace unos 5.000 años e iniciaron una de las mayores migraciones de la historia humana, extendiéndose por Filipinas, Indonesia, Madagascar (a 8.000 km de Taiwán) y finalmente por el Pacífico. La evidencia lingüística es extraordinaria: todas las lenguas polinesicas, malasias, malgaches y cientos más pertenecen a la misma familia — prueba de una diáspora marítima que cubrió la mitad del globo antes de Colón."
+    },
+    {
+      "id": "pol-002",
+      "nome": "A Tecnologia da Navegação Polinésia: Waka e Estrelas",
+      "nome_en": "Polynesian Navigation Technology: Waka and Stars",
+      "nome_es": "La Tecnología de Navegación Polinesia: Waka y Estrellas",
+      "tipo": "technological",
+      "ano_inicio": -1500,
+      "ano_fim": 1300,
+      "seculo": -15,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "Os polinésios desenvolveram a mais sofisticada tradição de navegação oceânica do mundo pré-moderno. As waka hourua (canoas duplas) podiam navegar contra o vento. Os navegadores memorizavam o mapa estelar completo do Pacífico Sul e Norte, liam correntes oceânicas com os pés, sentiam o vento noturno na pele, observavam o voo de aves, a cor e temperatura da água. Sem instrumentos, navegavam com precisão de menos de 50 km após travessias de 4.000 km — façanha que navegadores europeus com bússola e sextante só reproduziram no século XX.",
+      "descricao_en": "Polynesians developed the most sophisticated oceanic navigation tradition in the pre-modern world. The waka hourua (double canoes) could sail against the wind. Navigators memorized the complete star map of the South and North Pacific, read ocean currents with their feet, felt the night wind on their skin, observed bird flight, water color and temperature. Without instruments, they navigated with precision of less than 50 km after 4,000 km crossings — a feat that European navigators with compass and sextant only reproduced in the 20th century.",
+      "descricao_es": "Los polinesios desarrollaron la tradición de navegación oceánica más sofisticada del mundo premoderno. Las waka hourua (canoas dobles) podían navegar contra el viento. Los navegantes memorizaban el mapa estelar completo del Pacífico Sur y Norte, leían corrientes oceánicas con los pies, sentían el viento nocturno en la piel, observaban el vuelo de aves, el color y la temperatura del agua. Sin instrumentos, navegaban con precisión de menos de 50 km tras travesías de 4.000 km — hazaña que los navegantes europeos con brújula y sextante solo reprodujeron en el siglo XX."
+    },
+    {
+      "id": "pol-003",
+      "nome": "Fiji, Tonga e Samoa: O Berço da Polinésia (1500–500 a.C.)",
+      "nome_en": "Fiji, Tonga and Samoa: The Cradle of Polynesia (1500–500 BC)",
+      "nome_es": "Fiyi, Tonga y Samoa: La Cuna de la Polinesia (1500–500 a.C.)",
+      "tipo": "cultural",
+      "ano_inicio": -1500,
+      "ano_fim": -500,
+      "seculo": -15,
+      "continente": "oceania",
+      "importancia": 4,
+      "descricao": "A cultura Lapita — identificada por sua cerâmica decorada com padrões geométricos — foi a cultura-mãe dos polinésios. Originou-se no arquipélago Bismarck (Papua) e se expandiu para Fiji, Tonga e Samoa entre 1500 e 1000 a.C. Fiji tornou-se o cruzamento entre Melanésia e Polinésia. Tonga desenvolveu o primeiro grande império do Pacífico (o Império Tui Tonga, c. 950–1865) que controlava rotas comerciais por milhares de quilômetros. Samoa tornou-se o laboratório genético e cultural da Polinésia mais oriental.",
+      "descricao_en": "The Lapita culture — identified by its decorated ceramics with geometric patterns — was the parent culture of Polynesians. It originated in the Bismarck archipelago (Papua) and expanded to Fiji, Tonga and Samoa between 1500 and 1000 BC. Fiji became the crossroads between Melanesia and Polynesia. Tonga developed the first great Pacific empire (the Tui Tonga Empire, c. 950–1865) that controlled trade routes for thousands of kilometers. Samoa became the genetic and cultural laboratory of eastern Polynesia.",
+      "descricao_es": "La cultura Lapita — identificada por su cerámica decorada con patrones geométricos — fue la cultura madre de los polinesios. Surgió en el archipiélago Bismarck (Papua) y se expandió a Fiyi, Tonga y Samoa entre 1500 y 1000 a.C. Fiyi se convirtió en la encrucijada entre Melanesia y Polinesia. Tonga desarrolló el primer gran imperio del Pacífico (el Imperio Tui Tonga, c. 950–1865) que controlaba rutas comerciales por miles de kilómetros. Samoa se convirtió en el laboratorio genético y cultural de la Polinesia más oriental."
+    },
+    {
+      "id": "pol-004",
+      "nome": "Havaí: O Ponto Mais Remoto da Terra Colonizado (c. 400 d.C.)",
+      "nome_en": "Hawaii: The Most Remote Point on Earth Colonized (c. 400 AD)",
+      "nome_es": "Hawái: El Punto Más Remoto de la Tierra Colonizado (c. 400 d.C.)",
+      "tipo": "social",
+      "ano_inicio": 400,
+      "ano_fim": 1000,
+      "seculo": 5,
+      "continente": "oceania",
+      "importancia": 4,
+      "descricao": "As ilhas havaianas estão a 3.500 km do arquipélago das Marquesas — o ponto habitado mais próximo. Navegadores polinésios chegaram lá por volta de 400 d.C., seguidos por uma segunda onda das Ilhas da Sociedade por volta de 1000 d.C. Havaí tornou-se uma das sociedades polinésias mais complexas, com sistema de castas rígido (kapu), grandes templos (heiau) e uma tradição de surfar nas ondas que os europeus encontrariam e levariam ao mundo dois séculos depois. O capitão Cook 'descobriu' Havaí em 1778 — os havaianos já estavam lá há 1.400 anos.",
+      "descricao_en": "The Hawaiian islands are 3,500 km from the Marquesas archipelago — the nearest inhabited point. Polynesian navigators arrived around 400 AD, followed by a second wave from the Society Islands around 1000 AD. Hawaii became one of the most complex Polynesian societies, with a rigid caste system (kapu), large temples (heiau) and a tradition of surfing waves that Europeans would encounter and take to the world two centuries later. Captain Cook 'discovered' Hawaii in 1778 — Hawaiians had been there for 1,400 years.",
+      "descricao_es": "Las islas hawaianas están a 3.500 km del archipiélago de las Marquesas — el punto habitado más cercano. Los navegantes polinesios llegaron alrededor del 400 d.C., seguidos por una segunda ola de las Islas de la Sociedad alrededor del 1000 d.C. Hawái se convirtió en una de las sociedades polinesicas más complejas, con un rígido sistema de castas (kapu), grandes templos (heiau) y una tradición de surf en las olas que los europeos encontrarían y llevarían al mundo dos siglos después. El capitán Cook 'descubrió' Hawái en 1778 — los hawaianos ya llevaban allí 1.400 años."
+    },
+    {
+      "id": "pol-005",
+      "nome": "Ilha de Páscoa (Rapa Nui): Triunfo e Colapso",
+      "nome_en": "Easter Island (Rapa Nui): Triumph and Collapse",
+      "nome_es": "Isla de Pascua (Rapa Nui): Triunfo y Colapso",
+      "tipo": "cultural",
+      "ano_inicio": 900,
+      "ano_fim": 1800,
+      "seculo": 10,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "Rapa Nui é o ponto habitado mais isolado do planeta — 3.700 km do Chile, 2.000 km da ilha habitada mais próxima. Navegadores polinésios chegaram por volta de 900 d.C. e construíram os 900 moais — estátuas de até 21 metros e 80 toneladas movidas sem rodas, roldanas ou animais de tiro. A floresta foi desmatada para mover as estátuas, causando colapso agrícola e guerra civil. Quando os europeus chegaram em 1722 (Dia de Páscoa, daí o nome), encontraram uma população em declínio — mas estátuas que continuam sendo um mistério de engenharia.",
+      "descricao_en": "Rapa Nui is the most isolated inhabited point on the planet — 3,700 km from Chile, 2,000 km from the nearest inhabited island. Polynesian navigators arrived around 900 AD and built the 900 moai — statues of up to 21 meters and 80 tons moved without wheels, pulleys or draft animals. The forest was cleared to move the statues, causing agricultural collapse and civil war. When Europeans arrived in 1722 (Easter Day, hence the name), they found a declining population — but statues that remain an engineering mystery.",
+      "descricao_es": "Rapa Nui es el punto habitado más aislado del planeta — 3.700 km de Chile, 2.000 km de la isla habitada más cercana. Los navegantes polinesios llegaron alrededor del 900 d.C. y construyeron los 900 moái — estatuas de hasta 21 metros y 80 toneladas movidas sin ruedas, poleas ni animales de tiro. El bosque fue talado para mover las estatuas, causando colapso agrícola y guerra civil. Cuando los europeos llegaron en 1722 (Domingo de Pascua, de ahí el nombre), encontraron una población en declive — pero estatuas que siguen siendo un misterio de ingeniería."
+    },
+    {
+      "id": "pol-006",
+      "nome": "Aotearoa — Nova Zelândia: Os Maori (c. 1280 d.C.)",
+      "nome_en": "Aotearoa — New Zealand: The Māori (c. 1280 AD)",
+      "nome_es": "Aotearoa — Nueva Zelanda: Los Māori (c. 1280 d.C.)",
+      "tipo": "social",
+      "ano_inicio": 1280,
+      "ano_fim": 1840,
+      "seculo": 13,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "Os Maori chegaram à Nova Zelândia por volta de 1280 d.C. em canoas da Polinésia Central — a última grande terra habitável da Terra a ser colonizada. Desenvolveram uma cultura guerreira sofisticada com o haka (dança cerimonial/guerra), a tā moko (tatuagem facial como identidade e genealogia), e o sistema de parentesco e linhagem whānau/hapū/iwi. O Tratado de Waitangi (1840) com a Coroa britânica foi assinado em dois idiomas com significados diferentes — e a diferença entre as versões em inglês e maori ainda é debatida nos tribunais neozelandeses.",
+      "descricao_en": "The Māori arrived in New Zealand around 1280 AD in canoes from Central Polynesia — the last large habitable land on Earth to be colonized. They developed a sophisticated warrior culture with the haka (ceremonial/war dance), tā moko (facial tattoo as identity and genealogy), and the whānau/hapū/iwi kinship and lineage system. The Treaty of Waitangi (1840) with the British Crown was signed in two languages with different meanings — and the difference between the English and Māori versions is still debated in New Zealand courts.",
+      "descricao_es": "Los māori llegaron a Nueva Zelanda alrededor de 1280 d.C. en canoas de la Polinesia Central — la última gran tierra habitable de la Tierra en ser colonizada. Desarrollaron una sofisticada cultura guerrera con el haka (danza ceremonial/de guerra), el tā moko (tatuaje facial como identidad y genealogía), y el sistema de parentesco y linaje whānau/hapū/iwi. El Tratado de Waitangi (1840) con la Corona británica fue firmado en dos idiomas con significados diferentes — y la diferencia entre las versiones en inglés y māori todavía se debate en los tribunales neozelandeses."
+    },
+    {
+      "id": "pol-007",
+      "nome": "O Impacto Europeu: Cook, Doenças e Conversão (1768–1900)",
+      "nome_en": "The European Impact: Cook, Disease and Conversion (1768–1900)",
+      "nome_es": "El Impacto Europeo: Cook, Enfermedades y Conversión (1768–1900)",
+      "tipo": "social",
+      "ano_inicio": 1768,
+      "ano_fim": 1900,
+      "seculo": 18,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "As três viagens do capitão James Cook (1768–1779) mapearam o Pacífico com precisão sem precedentes — e abriram o caminho para a colonização europeia. O padrão se repetiu em cada ilha: contato inicial amistoso, comércio, depois doenças devastadoras (populações sem imunidade), depois missionários, depois colonizadores. As Ilhas Havaianas perderam 90% da população em 100 anos. O próprio Cook foi morto pelos havaianos em 1779 — em circunstâncias que os historiadores ainda debatem.",
+      "descricao_en": "Captain James Cook's three voyages (1768–1779) mapped the Pacific with unprecedented precision — and opened the way for European colonization. The pattern repeated on each island: initial friendly contact, trade, then devastating diseases (populations without immunity), then missionaries, then colonizers. The Hawaiian Islands lost 90% of their population in 100 years. Cook himself was killed by Hawaiians in 1779 — in circumstances historians still debate.",
+      "descricao_es": "Los tres viajes del capitán James Cook (1768–1779) mapearon el Pacífico con precisión sin precedentes — y abrieron el camino para la colonización europea. El patrón se repitió en cada isla: contacto inicial amistoso, comercio, luego enfermedades devastadoras (poblaciones sin inmunidad), luego misioneros, luego colonizadores. Las islas hawaianas perdieron el 90% de su población en 100 años. El propio Cook fue asesinado por los hawaianos en 1779 — en circunstancias que los historiadores todavía debaten."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "pol-001",
+      "destino": "pol-002",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pol-001",
+      "destino": "pol-003",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "pol-002",
+      "destino": "pol-004",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pol-002",
+      "destino": "pol-005",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pol-002",
+      "destino": "pol-006",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pol-003",
+      "destino": "pol-004",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "pol-004",
+      "destino": "pol-007",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pol-005",
+      "destino": "pol-007",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pol-006",
+      "destino": "pol-007",
+      "tipo": "tematica"
+    }
+  ]
+}

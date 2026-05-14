@@ -2,7 +2,7 @@
 
 **Arquivo principal:** `index.html`  
 **Módulo de entrada:** `js/main.js`  
-**Versão:** Heródoto v7.43
+**Versão:** Heródoto v7.56
 
 ---
 
@@ -68,7 +68,7 @@ O Heródoto oferece 5 modos acessíveis pela barra de ferramentas (`toolbar`):
 ## Datasets
 
 ### Seleção
-O painel lateral esquerdo lista os 306 datasets JSON organizados por continente e subgrupo. Cada dataset é um `<input type="checkbox" class="dataset">`. Ao alterar a seleção, `carregarDadosSelecionados()` em `data.js` é chamado.
+O painel lateral esquerdo lista os 324 datasets JSON organizados por continente e subgrupo. Cada dataset é um `<input type="checkbox" class="dataset">`. Ao alterar a seleção, `carregarDadosSelecionados()` em `data.js` é chamado.
 
 ### Formato JSON
 ```json
@@ -155,7 +155,7 @@ import { applyTranslations, setCurrentLang, getCurrentLang } from './i18n.js';
 Configurado via `manifest.json` + `sw.js`.
 
 - **Estratégia de cache:** Cache-First para assets estáticos; Network-First para ficheiros `data/*.json`
-- **Versão de cache:** `herodoto-v7-40` (atualizar `CACHE_VERSION` em `sw.js` a cada release que modifique assets)
+- **Versão de cache:** `herodoto-v7-56` (atualizar `CACHE_VERSION` em `sw.js` a cada release que modifique assets)
 - Permite uso **offline completo** após a primeira visita
 
 ---

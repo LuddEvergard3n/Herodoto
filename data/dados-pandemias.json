@@ -1,0 +1,192 @@
+{
+  "periodo": "Pandemias na História",
+  "entidades": [
+    {
+      "id": "pan-001",
+      "nome": "Praga de Atenas (430–426 a.C.)",
+      "nome_en": "Plague of Athens (430–426 BC)",
+      "nome_es": "Plaga de Atenas (430–426 a.C.)",
+      "tipo": "social",
+      "ano_inicio": -430,
+      "ano_fim": -426,
+      "seculo": -5,
+      "continente": "europa",
+      "importancia": 4,
+      "descricao": "Descrita por Tucídides com precisão clínica notável — o primeiro relato epidemiológico da história. Matou 25% da população de Atenas incluindo Péricles. Enfraqueceu fatalmente a democracia ateniense no ponto alto da Guerra do Peloponeso. Tucídides observou algo ainda válido: a epidemia corroeu os laços sociais e a confiança nas instituições antes de matar pessoas.",
+      "descricao_en": "Described by Thucydides with remarkable clinical precision — the first epidemiological account in history. Killed 25% of Athens' population including Pericles. Fatally weakened Athenian democracy at the height of the Peloponnesian War. Thucydides observed something still valid: the epidemic corroded social bonds and trust in institutions before killing people.",
+      "descricao_es": "Descrita por Tucídides con notable precisión clínica — el primer relato epidemiológico de la historia. Mató al 25% de la población de Atenas, incluido Pericles. Debilitó fatalmente la democracia ateniense en el apogeo de la Guerra del Peloponeso. Tucídides observó algo todavía válido: la epidemia corroyó los lazos sociales y la confianza en las instituciones antes de matar personas."
+    },
+    {
+      "id": "pan-002",
+      "nome": "Praga de Justiniano (541–549 d.C.)",
+      "nome_en": "Plague of Justinian (541–549 AD)",
+      "nome_es": "Plaga de Justiniano (541–549 d.C.)",
+      "tipo": "social",
+      "ano_inicio": 541,
+      "ano_fim": 549,
+      "seculo": 6,
+      "continente": "europa",
+      "importancia": 4,
+      "descricao": "Primeira pandemia confirmada de peste bubônica, originada no Egito e alastrando-se pelo Mediterrâneo. Matou 25–50 milhões de pessoas (metade da população do Mediterrâneo). Inviabilizou a reconquista de Justiniano e acelerou a decadência do Império Bizantino. Recente análise genómica confirmou o agente: Yersinia pestis, a mesma bactéria da Peste Negra.",
+      "descricao_en": "First confirmed pandemic of bubonic plague, originating in Egypt and spreading across the Mediterranean. Killed 25–50 million people (half the Mediterranean population). Undermined Justinian's reconquest and accelerated the decline of the Byzantine Empire. Recent genomic analysis confirmed the agent: Yersinia pestis, the same bacterium as the Black Death.",
+      "descricao_es": "Primera pandemia confirmada de peste bubónica, originada en Egipto y extendiéndose por el Mediterráneo. Mató a 25–50 millones de personas (la mitad de la población mediterránea). Inviabilizó la reconquista de Justiniano y aceleró la decadencia del Imperio Bizantino. Un análisis genómico reciente confirmó el agente: Yersinia pestis, la misma bacteria de la Peste Negra."
+    },
+    {
+      "id": "pan-003",
+      "nome": "Peste Negra (1347–1353)",
+      "nome_en": "Black Death (1347–1353)",
+      "nome_es": "Peste Negra (1347–1353)",
+      "tipo": "social",
+      "ano_inicio": 1347,
+      "ano_fim": 1353,
+      "seculo": 14,
+      "continente": "europa",
+      "importancia": 5,
+      "descricao": "75–200 milhões de mortos — 30 a 60% da população europeia em seis anos. A maior catástrofe demográfica da história humana em proporção. Transformou a Europa: escassez de mão de obra encerrou o feudalismo, arte e literatura obcecaram-se com a morte (Dança Macabra), a Igreja perdeu autoridade por não ter explicação ou proteção, e os judeus foram massacrados como bode expiatório.",
+      "descricao_en": "75–200 million dead — 30 to 60% of the European population in six years. The greatest demographic catastrophe in human history by proportion. It transformed Europe: labor shortage ended feudalism, art and literature became obsessed with death (Danse Macabre), the Church lost authority for having no explanation or protection, and Jews were massacred as scapegoats.",
+      "descricao_es": "75–200 millones de muertos — el 30 al 60% de la población europea en seis años. La mayor catástrofe demográfica de la historia humana en proporción. Transformó Europa: la escasez de mano de obra terminó con el feudalismo, el arte y la literatura se obsesionaron con la muerte (Danza de la Muerte), la Iglesia perdió autoridad al no tener explicación ni protección, y los judíos fueron masacrados como chivo expiatorio."
+    },
+    {
+      "id": "pan-004",
+      "nome": "Varíola e o Colapso das Américas (1518–1600)",
+      "nome_en": "Smallpox and the Collapse of the Americas (1518–1600)",
+      "nome_es": "Viruela y el Colapso de las Américas (1518–1600)",
+      "tipo": "social",
+      "ano_inicio": 1518,
+      "ano_fim": 1600,
+      "seculo": 16,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "A varíola chegou às Américas antes de Cortés. Em 1520, matou o imperador asteca Cuitláhuac e destruiu o exército que havia expulsado os espanhóis. Populações sem imunidade prévia morriam em taxas de 50–90%. O colapso demográfico ameríndio — de 50–100 milhões para 5–10 milhões em um século — foi a maior catástrofe populacional da história. Muitos historiadores argumentam que a conquista foi feita menos pelas armas europeias do que pelos micróbios.",
+      "descricao_en": "Smallpox arrived in the Americas before Cortés. In 1520, it killed Aztec emperor Cuitláhuac and destroyed the army that had expelled the Spanish. Populations without prior immunity died at rates of 50–90%. The Amerindian demographic collapse — from 50–100 million to 5–10 million in a century — was the greatest population catastrophe in history. Many historians argue the conquest was accomplished less by European weapons than by microbes.",
+      "descricao_es": "La viruela llegó a las Américas antes que Cortés. En 1520, mató al emperador azteca Cuitláhuac y destruyó el ejército que había expulsado a los españoles. Poblaciones sin inmunidad previa morían a tasas del 50–90%. El colapso demográfico amerindio — de 50–100 millones a 5–10 millones en un siglo — fue la mayor catástrofe poblacional de la historia. Muchos historiadores argumentan que la conquista fue lograda menos por las armas europeas que por los microbios."
+    },
+    {
+      "id": "pan-005",
+      "nome": "Cólera: A Doença da Industrialização (1817–1923)",
+      "nome_en": "Cholera: The Disease of Industrialization (1817–1923)",
+      "nome_es": "Cólera: La Enfermedad de la Industrialización (1817–1923)",
+      "tipo": "social",
+      "ano_inicio": 1817,
+      "ano_fim": 1923,
+      "seculo": 19,
+      "continente": "europa",
+      "importancia": 4,
+      "descricao": "Seis pandemias de cólera entre 1817 e 1923, matando dezenas de milhões. A doença revelou a podridão das cidades industriais: bebia-se água misturada com esgoto. John Snow, em 1854, mapeou os casos de Londres e identificou a bomba d'água da Broad Street como fonte — fundando a epidemiologia moderna. O cólera forçou a reforma sanitária urbana e indiretamente criou o sistema moderno de saneamento.",
+      "descricao_en": "Six cholera pandemics between 1817 and 1923, killing tens of millions. The disease revealed the rot of industrial cities: drinking water mixed with sewage. John Snow in 1854 mapped London cases and identified the Broad Street water pump as the source — founding modern epidemiology. Cholera forced urban sanitary reform and indirectly created the modern sanitation system.",
+      "descricao_es": "Seis pandemias de cólera entre 1817 y 1923, matando decenas de millones. La enfermedad reveló la podredumbre de las ciudades industriales: se bebía agua mezclada con aguas residuales. John Snow en 1854 trazó los casos de Londres e identificó la bomba de agua de Broad Street como fuente — fundando la epidemiología moderna. El cólera forzó la reforma sanitaria urbana y creó indirectamente el sistema moderno de saneamiento."
+    },
+    {
+      "id": "pan-006",
+      "nome": "Gripe Espanhola (1918–1919): A Pandemia Esquecida",
+      "nome_en": "Spanish Flu (1918–1919): The Forgotten Pandemic",
+      "nome_es": "Gripe Española (1918–1919): La Pandemia Olvidada",
+      "tipo": "social",
+      "ano_inicio": 1918,
+      "ano_fim": 1920,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "50 a 100 milhões de mortos em dois anos — mais do que toda a Primeira Guerra Mundial. Paradoxalmente, atacava com mais letalidade adultos jovens saudáveis (20–40 anos), poupando idosos. Chamada 'espanhola' não por origem (EUA ou China) mas porque a Espanha, neutra na guerra, foi o único país que noticiou livremente. A censura militar em países beligerantes suprimiu informações para não desmoralizar as tropas.",
+      "descricao_en": "50 to 100 million dead in two years — more than all of World War I. Paradoxically, it struck healthy young adults (20–40 years) with the most lethality, sparing the elderly. Called 'Spanish' not by origin (USA or China) but because Spain, neutral in the war, was the only country to report it freely. Military censorship in belligerent countries suppressed information to avoid demoralizing troops.",
+      "descricao_es": "50 a 100 millones de muertos en dos años — más que toda la Primera Guerra Mundial. Paradójicamente, atacaba con mayor letalidad a los adultos jóvenes sanos (20–40 años), respetando a los ancianos. Llamada 'española' no por origen (EE.UU. o China) sino porque España, neutral en la guerra, era el único país que informaba libremente. La censura militar en países beligerantes suprimió información para no desmoralizar a las tropas."
+    },
+    {
+      "id": "pan-007",
+      "nome": "AIDS: A Pandemia que Criou o Ativismo (1981–presente)",
+      "nome_en": "AIDS: The Pandemic That Created Activism (1981–present)",
+      "nome_es": "SIDA: La Pandemia que Creó el Activismo (1981–presente)",
+      "tipo": "social",
+      "ano_inicio": 1981,
+      "ano_fim": 2024,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "40 milhões de mortes desde 1981. Inicialmente ignorada por governos por atingir primeiramente gays, haitianos e usuários de drogas. A resposta lenta gerou o movimento ativista ACT UP (1987) — modelo de como comunidades afetadas podem pressionar o Estado e a indústria farmacêutica. A AIDS transformou a bioética, os direitos dos pacientes, as políticas de saúde pública e o debate sobre privacidade versus controle epidemiológico.",
+      "descricao_en": "40 million deaths since 1981. Initially ignored by governments because it first struck gay men, Haitians and drug users. The slow response generated the ACT UP activist movement (1987) — a model of how affected communities can pressure the state and pharmaceutical industry. AIDS transformed bioethics, patient rights, public health policies and the debate on privacy versus epidemiological control.",
+      "descricao_es": "40 millones de muertes desde 1981. Inicialmente ignorada por los gobiernos porque afectaba primero a gays, haitianos y usuarios de drogas. La respuesta lenta generó el movimiento activista ACT UP (1987) — modelo de cómo las comunidades afectadas pueden presionar al Estado y a la industria farmacéutica. El SIDA transformó la bioética, los derechos de los pacientes, las políticas de salud pública y el debate sobre privacidad versus control epidemiológico."
+    },
+    {
+      "id": "pan-008",
+      "nome": "Pandemias e o Estado: Quarentena, Vacina e Poder",
+      "nome_en": "Pandemics and the State: Quarantine, Vaccine and Power",
+      "nome_es": "Pandemias y el Estado: Cuarentena, Vacuna y Poder",
+      "tipo": "political",
+      "ano_inicio": 1347,
+      "ano_fim": 2024,
+      "seculo": 14,
+      "continente": "global",
+      "importancia": 4,
+      "descricao": "A quarentena foi inventada em Ragusa (Dubrovnik) em 1377 — 40 dias de isolamento antes de entrar na cidade (quaranta giorni). Jenner criou a vacinação contra varíola em 1796. Pasteur identificou os agentes bacterianos. Fleming descobriu a penicilina em 1928. Cada pandemia expande o poder do Estado sobre os corpos: quem pode circular, o que é obrigatório, quem tem acesso à cura. A epidemia é sempre também uma crise política.",
+      "descricao_en": "Quarantine was invented in Ragusa (Dubrovnik) in 1377 — 40 days of isolation before entering the city (quaranta giorni). Jenner created smallpox vaccination in 1796. Pasteur identified bacterial agents. Fleming discovered penicillin in 1928. Each pandemic expands state power over bodies: who can move, what is mandatory, who has access to the cure. The epidemic is always also a political crisis.",
+      "descricao_es": "La cuarentena fue inventada en Ragusa (Dubrovnik) en 1377 — 40 días de aislamiento antes de entrar a la ciudad (quaranta giorni). Jenner creó la vacunación contra la viruela en 1796. Pasteur identificó los agentes bacterianos. Fleming descubrió la penicilina en 1928. Cada pandemia expande el poder del Estado sobre los cuerpos: quién puede circular, qué es obligatorio, quién tiene acceso a la cura. La epidemia es siempre también una crisis política."
+    },
+    {
+      "id": "pan-009",
+      "nome": "Pandemias como Agentes Históricos: O Que Mudam",
+      "nome_en": "Pandemics as Historical Agents: What They Change",
+      "nome_es": "Pandemias como Agentes Históricos: Lo Que Cambian",
+      "tipo": "intellectual",
+      "ano_inicio": -430,
+      "ano_fim": 2024,
+      "seculo": -5,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "Pandemias não apenas matam — reorganizam o mundo. A Peste Negra encerrou o feudalismo; a varíola conquistou as Américas; a Gripe Espanhola moldou o pós-guerra; a AIDS redefiniu direitos e bioética. O padrão recorrente: colapso de autoridade religiosa, busca de bodes expiatórios (judeus, estrangeiros, minorias), aceleração de mudanças sociais preexistentes, e expansão do poder do Estado — mas também das resistências a ele.",
+      "descricao_en": "Pandemics do not merely kill — they reorganize the world. The Black Death ended feudalism; smallpox conquered the Americas; the Spanish Flu shaped the post-war period; AIDS redefined rights and bioethics. The recurring pattern: collapse of religious authority, search for scapegoats (Jews, foreigners, minorities), acceleration of pre-existing social changes, and expansion of state power — but also of resistance to it.",
+      "descricao_es": "Las pandemias no solo matan — reorganizan el mundo. La Peste Negra terminó con el feudalismo; la viruela conquistó las Américas; la Gripe Española moldeó la posguerra; el SIDA redefinió derechos y bioética. El patrón recurrente: colapso de autoridad religiosa, búsqueda de chivos expiatorios (judíos, extranjeros, minorías), aceleración de cambios sociales preexistentes, y expansión del poder del Estado — pero también de las resistencias a él."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "pan-001",
+      "destino": "pan-009",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pan-002",
+      "destino": "pan-003",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pan-003",
+      "destino": "pan-004",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pan-003",
+      "destino": "pan-009",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pan-004",
+      "destino": "pan-009",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pan-005",
+      "destino": "pan-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pan-006",
+      "destino": "pan-009",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pan-007",
+      "destino": "pan-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pan-007",
+      "destino": "pan-009",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pan-008",
+      "destino": "pan-009",
+      "tipo": "tematica"
+    }
+  ]
+}

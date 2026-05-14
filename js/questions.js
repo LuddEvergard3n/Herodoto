@@ -116,8 +116,15 @@ const PERGUNTAS = [
                  es: 'De Solón y Clístenes en Atenas a la República Romana — los orígenes del gobierno representativo.' },
         datasets: ['data/dados-grecia-atenas.json','data/dados-grecia-esparta.json','data/dados-roma-republica.json','data/dados-iluminismo.json'],
       },
+      {
+        id: 'q-idade-axial',
+        texto: { pt: 'Por que Buda, Confúcio, Sócrates e os profetas hebreus viveram todos ao mesmo tempo?', en: 'Why did Buddha, Confucius, Socrates and the Hebrew prophets all live at the same time?', es: '¿Por qué Buda, Confucio, Sócrates y los profetas hebreos vivieron todos al mismo tiempo?' },
+        desc:  { pt: 'Entre 800 e 200 a.C., em quatro civilizações sem contato — Grécia, Israel, Índia e China — emergiu simultaneamente um novo modo de pensar o mundo. Karl Jaspers chamou de Idade Axial. A coincidência é um dos maiores mistérios da história: por que o ferro, a moeda, a crise política e a escrita madura produziram filosofia ao mesmo tempo?', en: 'Between 800 and 200 BC, in four civilizations without contact — Greece, Israel, India and China — a new way of thinking about the world emerged simultaneously. Karl Jaspers called it the Axial Age. The coincidence is one of history\'s greatest mysteries: why did iron, coinage, political crisis and mature writing produce philosophy at the same time?', es: 'Entre 800 y 200 a.C., en cuatro civilizaciones sin contacto — Grecia, Israel, India y China — emergió simultáneamente un nuevo modo de pensar el mundo. Karl Jaspers lo llamó Edad Axial. La coincidencia es uno de los mayores misterios de la historia: ¿por qué el hierro, la moneda, la crisis política y la escritura madura produjeron filosofía al mismo tiempo?' },
+        datasets: ['data/dados-idade-axial.json','data/dados-grecia-atenas.json','data/dados-india-antiga.json','data/dados-china-filosofia.json','data/dados-persia-zoroastrismo-cultura.json'],
+      },
     ],
   },
+
   {
     grupo: { pt: 'Guerras e Conflitos', en: 'Wars and Conflicts', es: 'Guerras y Conflictos' },
     itens: [
@@ -595,6 +602,12 @@ const PERGUNTAS = [
         datasets: ['data/dados-descolonizacao.json','data/dados-descolonizacao-guerras.json','data/dados-africa-pre-colonial.json'],
       },
       {
+        id: 'q-movimento-nao-alinhado',
+        texto: { pt: 'Bandung 1955: quando metade da humanidade disse não às superpotências.', en: 'Bandung 1955: when half of humanity said no to the superpowers.', es: 'Bandung 1955: cuando la mitad de la humanidad le dijo no a las superpotencias.' },
+        desc:  { pt: '29 países da Ásia e África reunidos sem potências ocidentais pela primeira vez — Nehru, Nasser, Sukarno, Zhou Enlai, Ho Chi Minh. A recusa da falsa dicotomia Washington vs. Moscou. A crise de Suez como prova de que o Sul podia dobrar potências coloniais. A Nova Ordem Econômica Internacional derrotada por Reagan. E o espírito de Bandung vivo nos BRICS e no Sul Global do século XXI — que se recusou a condenar a Rússia na Ucrânia não por simpatia a Putin, mas por ceticismo acumulado em 70 anos.', en: '29 Asian and African countries gathered without Western powers for the first time — Nehru, Nasser, Sukarno, Zhou Enlai, Ho Chi Minh. The refusal of the false Washington vs. Moscow dichotomy. The Suez crisis as proof that the South could bend colonial powers. The New International Economic Order defeated by Reagan. And the Bandung spirit alive in the BRICS and the 21st-century Global South — which refused to condemn Russia over Ukraine not out of sympathy for Putin, but from 70 years of accumulated skepticism.', es: '29 países de Asia y África reunidos sin potencias occidentales por primera vez — Nehru, Nasser, Sukarno, Zhou Enlai, Ho Chi Minh. El rechazo a la falsa dicotomía Washington vs. Moscú. La crisis de Suez como prueba de que el Sur podía doblar a las potencias coloniales. El Nuevo Orden Económico Internacional derrotado por Reagan. Y el espíritu de Bandung vivo en los BRICS y el Sur Global del siglo XXI — que se negó a condenar a Rusia en Ucrania no por simpatía a Putin, sino por el escepticismo acumulado en 70 años.' },
+        datasets: ['data/dados-movimento-nao-alinhado.json','data/dados-descolonizacao.json','data/dados-guerra-fria.json','data/dados-anos-1990.json'],
+      },
+      {
         id: 'q-africa-axum',
         texto: { pt: 'O que foi o Império de Axum?', en: 'What was the Aksumite Empire?', es: '¿Qué fue el Imperio de Aksum?' },
         desc:  { pt: 'O primeiro império cristão da história, no atual Etiópia — e seu papel no comércio entre Roma, Índia e Arábia.',
@@ -815,6 +828,18 @@ const PERGUNTAS = [
         datasets: ['data/dados-america-latina-sec20.json','data/dados-independencias-america-latina.json','data/dados-eua-guerra-fria.json'],
       },
       {
+        id: 'q-america-central',
+        texto: { pt: 'Por que a América Central está em crise — e quem a colocou assim?', en: 'Why is Central America in crisis — and who put it there?', es: '¿Por qué Centroamérica está en crisis — y quién la puso así?' },
+        desc:  { pt: 'A United Fruit Company dona de países inteiros. A CIA derrubando Árbenz na Guatemala em 1954. Óscar Romero assassinado em missa. Guerras civis de 36 anos. O Irã-Contra. E as caravanas de migrantes de hoje como legado direto de décadas de intervenção americana.', en: 'The United Fruit Company owning entire countries. The CIA toppling Árbenz in Guatemala in 1954. Óscar Romero assassinated at Mass. 36-year civil wars. Iran-Contra. And today\'s migrant caravans as the direct legacy of decades of American intervention.', es: 'La United Fruit Company dueña de países enteros. La CIA derrocando a Árbenz en Guatemala en 1954. Óscar Romero asesinado en misa. Guerras civiles de 36 años. Irán-Contra. Y las caravanas de migrantes de hoy como legado directo de décadas de intervención americana.' },
+        datasets: ['data/dados-america-central.json','data/dados-eua-guerra-fria.json','data/dados-independencias-america-latina.json'],
+      },
+      {
+        id: 'q-caribe',
+        texto: { pt: 'O Caribe: onde o mundo moderno foi fabricado — e que pagou o preço mais alto.', en: 'The Caribbean: where the modern world was made — and that paid the highest price.', es: 'El Caribe: donde se fabricó el mundo moderno — y que pagó el precio más alto.' },
+        desc:  { pt: 'O açúcar caribenho financiou a Revolução Industrial. Cuba colônia espanhola até 1898 e americana informal depois. A indenização que o Haiti pagou à França por 122 anos. Marcus Garvey e o pan-africanismo. E Porto Rico sem poder declarar falência de sua dívida bilionária porque é colônia americana.', en: 'Caribbean sugar financed the Industrial Revolution. Cuba a Spanish colony until 1898 and informal American territory after. The indemnity Haiti paid France for 122 years. Marcus Garvey and pan-Africanism. And Puerto Rico unable to declare bankruptcy on its billion-dollar debt because it is an American colony.', es: 'El azúcar caribeño financió la Revolución Industrial. Cuba colonia española hasta 1898 y territorio americano informal después. La indemnización que Haití pagó a Francia durante 122 años. Marcus Garvey y el panafricanismo. Y Puerto Rico sin poder declarar la quiebra de su deuda millonaria porque es colonia americana.' },
+        datasets: ['data/dados-caribe.json','data/dados-trafico-transatlantico.json','data/dados-historia-alimentacao.json','data/dados-america-sul.json'],
+      },
+      {
         id: 'q-eua-potencia',
         texto: { pt: 'Como os EUA se tornaram a maior potência do mundo?', en: 'How did the US become the world\'s greatest power?', es: '¿Cómo EE.UU. se convirtió en la mayor potencia del mundo?' },
         desc:  { pt: 'Da independência à hegemonia — Guerra Civil, industrialização, as duas guerras mundiais e a Guerra Fria.',
@@ -972,6 +997,24 @@ const PERGUNTAS = [
                  en: 'From Mandela to Lumumba, Wangari Maathai to Yaa Asantewaa — the dreams and contradictions of post-colonial Africa.',
                  es: 'De Mandela a Lumumba, Wangari Maathai a Yaa Asantewaa — los sueños y contradicciones de la África poscolonial.' },
         datasets: ['data/dados-personagens-seculo-xx.json','data/dados-personagens-mulheres.json','data/dados-personagens-africa-oriente.json','data/dados-descolonizacao.json','data/dados-africa-pre-colonial.json'],
+      },
+      {
+        id: 'q-apartheid',
+        texto: { pt: 'Como um país legalizou o racismo — e como o desmantelou sem guerra civil?', en: 'How did a country legalize racism — and dismantle it without civil war?', es: '¿Cómo un país legalizó el racismo — y lo desmanteló sin guerra civil?' },
+        desc:  { pt: 'O apartheid como sistema legal completo de controle racial — Pass Books, bantustões, Sharpeville, Soweto 1976, Steve Biko. O boicote internacional que colapsou o rand. Mandela saindo da prisão após 27 anos e escolhendo a reconciliação em vez da vingança. A Comissão da Verdade de Desmond Tutu. E a África do Sul de hoje: a Constituição mais progressista do mundo e o país mais desigual do planeta.', en: 'Apartheid as a complete legal system of racial control — Pass Books, bantustans, Sharpeville, Soweto 1976, Steve Biko. The international boycott that collapsed the rand. Mandela leaving prison after 27 years and choosing reconciliation over revenge. Desmond Tutu\'s Truth Commission. And South Africa today: the most progressive Constitution in the world and the most unequal country on the planet.', es: 'El apartheid como sistema legal completo de control racial — Pase, bantustanes, Sharpeville, Soweto 1976, Steve Biko. El boicot internacional que colapsó el rand. Mandela saliendo de prisión tras 27 años y eligiendo la reconciliación en vez de la venganza. La Comisión de la Verdad de Desmond Tutu. Y la Sudáfrica de hoy: la Constitución más progresista del mundo y el país más desigual del planeta.' },
+        datasets: ['data/dados-africa-sul-apartheid.json','data/dados-descolonizacao.json','data/dados-africa-pre-colonial.json','data/dados-anos-1990.json'],
+      },
+      {
+        id: 'q-africa-ocidental',
+        texto: { pt: 'Os impérios africanos que a Europa fingiu que não existiram.', en: 'The African empires Europe pretended did not exist.', es: 'Los imperios africanos que Europa fingió que no existían.' },
+        desc:  { pt: 'Mansa Musa, o homem mais rico da história, fez uma peregrinação a Meca com 12 toneladas de ouro que causou inflação no Egipto por uma década. A Universidade de Tombuctu tinha 25.000 estudantes quando Oxford tinha poucos séculos. Os Bronzes de Benin que os europeus do século XVI não conseguiam replicar — e que a Grã-Bretanha saqueou em 1897 e guarda até hoje. E Samori Touré resistindo à França por 16 anos com exército que fabricava as próprias armas.', en: 'Mansa Musa, the richest man in history, made a pilgrimage to Mecca with 12 tons of gold that caused inflation in Egypt for a decade. The University of Timbuktu had 25,000 students when Oxford was only a few centuries old. The Benin Bronzes that 16th-century Europeans could not replicate — which Britain looted in 1897 and holds to this day. And Samori Touré resisting France for 16 years with an army that manufactured its own weapons.', es: 'Mansa Musa, el hombre más rico de la historia, realizó una peregrinación a La Meca con 12 toneladas de oro que causó inflación en Egipto durante una década. La Universidad de Tombuctú tenía 25.000 estudiantes cuando Oxford tenía pocos siglos. Los Bronces de Benín que los europeos del siglo XVI no podían replicar — y que Gran Bretaña saqueó en 1897 y guarda hasta hoy. Y Samori Touré resistiendo a Francia durante 16 años con un ejército que fabricaba sus propias armas.' },
+        datasets: ['data/dados-africa-ocidental.json','data/dados-africa-pre-colonial.json','data/dados-trafico-transatlantico.json','data/dados-imperialismo-colonial.json'],
+      },
+      {
+        id: 'q-anos-1990',
+        texto: { pt: 'Os anos 1990: a década que criou o presente — e que não percebemos enquanto acontecia.', en: 'The 1990s: the decade that created the present — that we didn\'t notice as it happened.', es: 'Los años 1990: la década que creó el presente — que no percibimos mientras ocurría.' },
+        desc:  { pt: 'O "Fim da História", a internet, Ruanda, o Apartheid, Oslo, os oligarcas russos, a Ásia em ascensão e a Al-Qaeda se organizando em silêncio. Tudo aconteceu ao mesmo tempo, numa década que o Ocidente passou celebrando uma vitória que não era tão definitiva quanto parecia.', en: 'The "End of History", the internet, Rwanda, Apartheid, Oslo, Russian oligarchs, Asia rising and Al-Qaeda organizing in silence. All happening at the same time, in a decade the West spent celebrating a victory that was not as definitive as it seemed.', es: 'El "Fin de la Historia", internet, Ruanda, el Apartheid, Oslo, los oligarcas rusos, Asia en ascenso y Al-Qaeda organizándose en silencio. Todo ocurriendo al mismo tiempo, en una década que Occidente pasó celebrando una victoria que no era tan definitiva como parecía.' },
+        datasets: ['data/dados-anos-1990.json','data/dados-pos-guerra-fria.json','data/dados-desintegracao-urss.json','data/dados-globalizacao.json'],
       },
     ],
   },
@@ -1258,11 +1301,23 @@ const PERGUNTAS = [
         desc:  { pt: 'Ibn Saud, o Wahhabismo e o pacto com o petróleo americano — a aliança que moldou o Oriente Médio moderno.', en: 'Ibn Saud, Wahhabism and the pact with American oil — the alliance that shaped the modern Middle East.', es: 'Ibn Saud, el wahhabismo y el pacto con el petróleo americano — la alianza que moldeó el Oriente Medio moderno.' },
         datasets: ['data/dados-arabia-saudita.json','data/dados-mesopotamia.json','data/dados-expansao-isla.json'],
       },
+      {
+        id: 'q-revolucao-iraniana',
+        texto: { pt: 'Como um país com discotecas e mulheres sem véu se tornou uma teocracia em meses?', en: 'How did a country with discotheques and unveiled women become a theocracy in months?', es: '¿Cómo un país con discotecas y mujeres sin velo se convirtió en una teocracia en meses?' },
+        desc:  { pt: 'Do golpe da CIA que derrubou a democracia iraniana em 1953, ao Xá modernizador com polícia secreta que torturava, à revolução de 1979 onde marxistas, feministas e clérigos derrubaram o mesmo regime — e os clérigos ficaram com tudo. Mais a crise dos reféns, a guerra Irã-Iraque que o Ocidente armou dos dois lados, o programa nuclear, e Mahsa Amini.', en: 'From the CIA coup that destroyed Iranian democracy in 1953, to the modernizing Shah with his torturing secret police, to the 1979 revolution where Marxists, feminists and clerics overthrew the same regime — and the clerics kept everything. Plus the hostage crisis, the Iran-Iraq war the West armed from both sides, the nuclear program, and Mahsa Amini.', es: 'Desde el golpe de la CIA que destruyó la democracia iraní en 1953, al Sha modernizador con policía secreta que torturaba, a la revolución de 1979 donde marxistas, feministas y clérigos derrocaron el mismo régimen — y los clérigos se quedaron con todo. Más la crisis de rehenes, la guerra Irán-Irak que Occidente armó de ambos lados, el programa nuclear, y Mahsa Amini.' },
+        datasets: ['data/dados-revolucao-iraniana.json','data/dados-guerra-fria.json','data/dados-oriente-medio-contemporaneo.json'],
+      },
+      {
+        id: 'q-primavera-arabe',
+        texto: { pt: 'Por que a Primavera Árabe derrubou ditadores — e não criou democracias?', en: 'Why did the Arab Spring topple dictators — but not create democracies?', es: '¿Por qué la Primavera Árabe derrocó dictadores — pero no creó democracias?' },
+        desc:  { pt: 'Um vendedor ambulante que se imolou na Tunísia derrubou quatro ditadores em meses. Depois: Egito volta a ser ditadura militar mais repressiva que antes, Líbia vira estado falido e rota de migrantes, Síria vira a guerra do século com 500.000 mortos, Iêmen vira a pior crise humanitária do mundo — e do caos emergiu o ISIS. Por que a mobilização sem organização, a contrarrevolução financiada e a ausência de instituições civis destruíram a esperança de uma geração.', en: 'A street vendor who self-immolated in Tunisia toppled four dictators in months. Then: Egypt becomes a military dictatorship more repressive than before, Libya becomes a failed state and migrant route, Syria becomes the war of the century with 500,000 dead, Yemen becomes the world\'s worst humanitarian crisis — and from the chaos emerged ISIS. Why mobilization without organization, funded counter-revolution and the absence of civil institutions destroyed the hope of a generation.', es: 'Un vendedor ambulante que se inmoló en Túnez derrocó cuatro dictadores en meses. Después: Egipto vuelve a ser dictadura militar más represiva que antes, Libia se convierte en estado fallido y ruta de migrantes, Siria se convierte en la guerra del siglo con 500.000 muertos, Yemen se convierte en la peor crisis humanitaria del mundo — y del caos emergió el ISIS. Por qué la movilización sin organización, la contrarrevolución financiada y la ausencia de instituciones civiles destruyeron la esperanza de una generación.' },
+        datasets: ['data/dados-primavera-arabe.json','data/dados-revolucao-iraniana.json','data/dados-oriente-medio-contemporaneo.json','data/dados-anos-1990.json'],
+      },
     ],
   },
 
   {
-    grupo: { pt: 'Mongóis e Ásia Central', en: 'Mongols and Central Asia', es: 'Mongoles y Asia Central' },
+    grupo: { pt: 'Mongóis, Rotas e Pirataria', en: 'Mongols, Routes and Piracy', es: 'Mongoles, Rutas y Piratería' },
     itens: [
       {
         id: 'q-mongois-conquista',
@@ -1272,15 +1327,21 @@ const PERGUNTAS = [
       },
       {
         id: 'q-rota-seda',
-        texto: { pt: 'O que era a Rota da Seda e como conectou o mundo pré-moderno?', en: 'What was the Silk Road and how did it connect the pre-modern world?', es: '¿Qué era la Ruta de la Seda y cómo conectó el mundo premoderno?' },
-        desc:  { pt: 'A rota da seda não era uma rota nem era só seda — era uma rede de trocas de bens, ideias, doenças e culturas que ligava China, Índia, Pérsia e Roma.', en: 'The Silk Road was not one route nor only silk — it was a network exchanging goods, ideas, diseases and cultures linking China, India, Persia and Rome.', es: 'La Ruta de la Seda no era una ruta ni solo seda — era una red de intercambio de bienes, ideas, enfermedades y culturas que unía China, India, Persia y Roma.' },
-        datasets: ['data/dados-mongois-asia-central.json','data/dados-asia-central.json','data/dados-china-tang.json','data/dados-persia-expandida.json'],
+        texto: { pt: 'O que era a Rota da Seda — e por que o nome é um mito?', en: 'What was the Silk Road — and why is the name a myth?', es: '¿Qué era la Ruta de la Seda — y por qué el nombre es un mito?' },
+        desc:  { pt: 'O nome foi inventado em 1877. Não era uma rota, nem era só seda. Era uma rede de redes onde viajavam budismo, islamismo, papel, pólvora, a Peste Negra e Marco Polo — da China a Roma sem que os dois impérios soubessem da existência um do outro. E a Nova Rota da Seda de Xi Jinping reencena tudo isso com trilhões de dólares.', en: 'The name was invented in 1877. It was not one route, nor was it only silk. It was a network of networks where Buddhism, Islam, paper, gunpowder, the Black Death and Marco Polo traveled — from China to Rome without the two empires knowing of each other\'s existence. And Xi Jinping\'s New Silk Road re-enacts all of this with trillions of dollars.', es: 'El nombre fue inventado en 1877. No era una ruta, ni era solo seda. Era una red de redes por donde viajaban el budismo, el islamismo, el papel, la pólvora, la Peste Negra y Marco Polo — de China a Roma sin que los dos imperios supieran de la existencia del otro. Y la Nueva Ruta de la Seda de Xi Jinping reescenifica todo esto con billones de dólares.' },
+        datasets: ['data/dados-rota-seda.json','data/dados-mongois-asia-central.json','data/dados-china-tang.json','data/dados-persia-expandida.json'],
       },
       {
         id: 'q-asia-central-historia',
         texto: { pt: 'Por que a Ásia Central foi o centro do mundo por 1.000 anos?', en: 'Why was Central Asia the center of the world for 1,000 years?', es: '¿Por qué Asia Central fue el centro del mundo durante 1.000 años?' },
         desc:  { pt: 'Samarcanda, Bukhara, Tamerlão — a região entre a China e a Europa que foi o coração do comércio, da ciência e da conquista medieval.', en: 'Samarkand, Bukhara, Tamerlane — the region between China and Europe that was the heart of medieval trade, science and conquest.', es: 'Samarcanda, Bujará, Tamerlán — la región entre China y Europa que fue el corazón del comercio, la ciencia y la conquista medievales.' },
         datasets: ['data/dados-asia-central.json','data/dados-mongois-asia-central.json','data/dados-califados-islamicos.json'],
+      },
+      {
+        id: 'q-pirataria',
+        texto: { pt: 'A pirataria é crime — ou a versão marítima do capitalismo?', en: 'Is piracy crime — or the maritime version of capitalism?', es: '¿Es la piratería crimen — o la versión marítima del capitalismo?' },
+        desc:  { pt: 'César capturado por piratas e crucificando-os ao sair. Corsários berberes escravizando 1 milhão de europeus. Barba-Negra com constituição democrática escrita no navio décadas antes das democracias ocidentais. Drake: pirata para Espanha, herói para Elizabeth I. Morgan saqueia Panamá, é preso, e vira governador da Jamaica. Piratas somalis como resposta a pesca ilegal europeia. A mesma pergunta em 2.500 anos: o criminoso é o pirata, ou quem tornou o crime a única opção?', en: 'Caesar captured by pirates and crucifying them upon release. Barbary corsairs enslaving 1 million Europeans. Blackbeard with a written democratic constitution on his ship decades before Western democracies. Drake: pirate to Spain, hero to Elizabeth I. Morgan sacks Panama, is arrested, becomes governor of Jamaica. Somali pirates as a response to illegal European fishing. The same question across 2,500 years: is the criminal the pirate, or whoever made crime the only option?', es: 'César capturado por piratas y crucificándolos al salir. Corsarios berberiscos esclavizando a 1 millón de europeos. Barbanegra con una constitución democrática escrita en el barco décadas antes de las democracias occidentales. Drake: pirata para España, héroe para Isabel I. Morgan saquea Panamá, es arrestado, se convierte en gobernador de Jamaica. Piratas somalíes como respuesta a la pesca ilegal europea. La misma pregunta en 2.500 años: ¿el criminal es el pirata, o quien hizo del crimen la única opción?' },
+        datasets: ['data/dados-pirataria.json','data/dados-navegacoes-europeias.json','data/dados-colonialismo-britanico.json','data/dados-oceania-contemporanea.json'],
       },
     ],
   },
@@ -1382,13 +1443,55 @@ const PERGUNTAS = [
   },
 
   {
+    grupo: { pt: 'Oceania: Aborígenes, Polinésia e Pacífico', en: 'Oceania: Aboriginal, Polynesia and Pacific', es: 'Oceanía: Aborígenes, Polinesia y Pacífico' },
+    itens: [
+      {
+        id: 'q-aborigenes-australia',
+        texto: { pt: 'A cultura mais antiga do planeta: 65.000 anos de história aborígene na Austrália.', en: 'The oldest culture on the planet: 65,000 years of Aboriginal history in Australia.', es: 'La cultura más antigua del planeta: 65.000 años de historia aborigen en Australia.' },
+        desc:  { pt: 'A chegada há 65.000 anos (50.000 antes de Stonehenge), os songlines como mapa e lei, a invasão britânica e a terra nullius, as Guerras de Fronteira sistematicamente apagadas da história, as Gerações Roubadas, e Eddie Mabo derrubando juridicamente o mito que fundou a Austrália.', en: 'The arrival 65,000 years ago (50,000 before Stonehenge), songlines as map and law, the British invasion and terra nullius, the Frontier Wars systematically erased from history, the Stolen Generations, and Eddie Mabo legally demolishing the myth that founded Australia.', es: 'La llegada hace 65.000 años (50.000 antes de Stonehenge), los songlines como mapa y ley, la invasión británica y la terra nullius, las Guerras de Frontera sistemáticamente borradas de la historia, las Generaciones Robadas, y Eddie Mabo derribando jurídicamente el mito que fundó Australia.' },
+        datasets: ['data/dados-oceania-aborigenes.json','data/dados-oceania-contemporanea.json'],
+      },
+      {
+        id: 'q-polinesia-navegacao',
+        texto: { pt: 'Como os polinésios cruzaram o maior oceano do mundo sem instrumentos — e colonizaram metade do planeta?', en: 'How did Polynesians cross the world\'s largest ocean without instruments — and colonized half the planet?', es: '¿Cómo los polinesios cruzaron el mayor océano del mundo sin instrumentos — y colonizaron la mitad del planeta?' },
+        desc:  { pt: 'Dos austronésios de Taiwan ao Havaí (3.500 km de oceano aberto), da Ilha de Páscoa ao Aotearoa dos Maori. As waka, a navegação por estrelas e correntes, e por que Cook encontrou em 1778 uma civilização com 1.400 anos.', en: 'From Taiwanese Austronesians to Hawaii (3,500 km of open ocean), from Easter Island to the Māori\'s Aotearoa. Waka canoes, navigation by stars and currents, and why Cook in 1778 found a civilization 1,400 years old.', es: 'De los austronesios de Taiwán a Hawái (3.500 km de océano abierto), de la Isla de Pascua al Aotearoa de los māori. Las waka, la navegación por estrellas y corrientes, y por qué Cook en 1778 encontró una civilización de 1.400 años.' },
+        datasets: ['data/dados-oceania-polinesia.json','data/dados-oceania-contemporanea.json'],
+      },
+      {
+        id: 'q-pacifico-nuclear-clima',
+        texto: { pt: 'O Pacífico: laboratório nuclear das superpotências e primeira vítima da crise climática.', en: 'The Pacific: nuclear laboratory of superpowers and first victim of the climate crisis.', es: 'El Pacífico: laboratorio nuclear de las superpotencias y primera víctima de la crisis climática.' },
+        desc:  { pt: '67 testes nucleares americanos em Bikini (incluindo Castelo Bravo, 1.000 vezes Hiroshima), 193 franceses em Mururoa — em ilhas que jamais teriam sido escolhidas se fossem francesas ou americanas. E agora Tuvalu negocia a compra de terras na Nova Zelândia porque vai desaparecer sob o oceano neste século.', en: '67 American nuclear tests at Bikini (including Castle Bravo, 1,000 times Hiroshima), 193 French at Mururoa — on islands that would never have been chosen if they were French or American. And now Tuvalu negotiates land purchases in New Zealand because it will disappear under the ocean this century.', es: '67 pruebas nucleares americanas en Bikini (incluyendo Castle Bravo, 1.000 veces Hiroshima), 193 francesas en Mururoa — en islas que jamás habrían sido elegidas si fueran francesas o americanas. Y ahora Tuvalu negocia la compra de tierras en Nueva Zelanda porque desaparecerá bajo el océano en este siglo.' },
+        datasets: ['data/dados-oceania-melanesia.json','data/dados-oceania-contemporanea.json','data/dados-segunda-guerra.json'],
+      },
+      {
+        id: 'q-papua-melanesia',
+        texto: { pt: 'Papua Nova Guiné: 820 línguas, agricultura com 9.000 anos — e a colonização que chegou por último.', en: 'Papua New Guinea: 820 languages, agriculture 9,000 years old — and the colonization that arrived last.', es: 'Papúa Nueva Guinea: 820 lenguas, agricultura de 9.000 años — y la colonización que llegó de última.' },
+        desc:  { pt: 'Mais de 10% de todas as línguas humanas num único país. O Vale de Wahgi como centro de agricultura independente tão antigo quanto o Crescente Fértil. A Melanésia onde a diversidade humana atingiu seu pico — e a colonização tardia que dividiu arbitrariamente povos e territórios.', en: 'More than 10% of all human languages in a single country. The Wahgi Valley as an agricultural center as old as the Fertile Crescent. Melanesia where human diversity peaked — and the late colonization that arbitrarily divided peoples and territories.', es: 'Más del 10% de todas las lenguas humanas en un solo país. El Valle de Wahgi como centro agrícola tan antiguo como el Creciente Fértil. La Melanesia donde la diversidad humana alcanzó su pico — y la colonización tardía que dividió arbitrariamente pueblos y territorios.' },
+        datasets: ['data/dados-oceania-melanesia.json','data/dados-oceania-polinesia.json','data/dados-oceania-contemporanea.json'],
+      },
+    ],
+  },
+
+  {
     grupo: { pt: 'Temas Transversais', en: 'Crosscutting Themes', es: 'Temas Transversales' },
     itens: [
       {
         id: 'q-epidemias-historia',
-        texto: { pt: 'Como as epidemias mudaram o curso da história?', en: 'How did epidemics change the course of history?', es: '¿Cómo las epidemias cambiaron el curso de la historia?' },
-        desc:  { pt: 'Peste Negra, varíola nas Américas, gripe espanhola — quando vírus e bactérias foram mais decisivos do que exércitos.', en: 'Black Death, smallpox in the Americas, Spanish flu — when viruses and bacteria were more decisive than armies.', es: 'Peste Negra, viruela en las Américas, gripe española — cuando los virus y las bacterias fueron más decisivos que los ejércitos.' },
-        datasets: ['data/dados-medieval-feudalismo.json','data/dados-era-moderna.json','data/dados-astecas-expandido.json','data/dados-primeira-guerra.json'],
+        texto: { pt: 'Como as pandemias mudaram o curso da história?', en: 'How did pandemics change the course of history?', es: '¿Cómo las pandemias cambiaron el curso de la historia?' },
+        desc:  { pt: 'A Praga de Atenas matou Péricles. A varíola conquistou as Américas antes dos exércitos. A Gripe Espanhola matou mais que a Primeira Guerra. A AIDS criou o ativismo de saúde pública. Cada pandemia reorganiza poder, autoridade e sociedade — e quase sempre tem bode expiatório.', en: 'The Plague of Athens killed Pericles. Smallpox conquered the Americas before the armies. The Spanish Flu killed more than World War I. AIDS created public health activism. Each pandemic reorganizes power, authority and society — and almost always has a scapegoat.', es: 'La Plaga de Atenas mató a Pericles. La viruela conquistó las Américas antes que los ejércitos. La Gripe Española mató más que la Primera Guerra. El SIDA creó el activismo de salud pública. Cada pandemia reorganiza poder, autoridad y sociedad — y casi siempre tiene un chivo expiatorio.' },
+        datasets: ['data/dados-pandemias.json','data/dados-medieval-feudalismo.json','data/dados-astecas-expandido.json','data/dados-primeira-guerra.json'],
+      },
+      {
+        id: 'q-historia-medicina',
+        texto: { pt: 'A medicina que salvou o mundo — e o que ela ainda não conseguiu curar.', en: 'The medicine that saved the world — and what it still cannot cure.', es: 'La medicina que salvó al mundo — y lo que todavía no ha conseguido curar.' },
+        desc:  { pt: 'Hipócrates separou medicina de magia — mas inventou a teoria dos humores que matou pacientes por 2.000 anos. Ibn Sina escreveu o Cânone que as universidades europeias usaram por 600 anos. Vesalius abriu cadáveres e descobriu que Galeno estava errado em 200 pontos. Semmelweis provou que lavar as mãos salva vidas — e foi internado num asilo por isso. Fleming descobriu a penicilina por acidente. E a medicina colonial operou mulheres negras escravizadas sem anestesia para desenvolver a ginecologia moderna.', en: 'Hippocrates separated medicine from magic — but invented the humors theory that killed patients for 2,000 years. Ibn Sina wrote the Canon that European universities used for 600 years. Vesalius opened cadavers and found Galen wrong on 200 points. Semmelweis proved that washing hands saves lives — and was committed to an asylum for it. Fleming discovered penicillin by accident. And colonial medicine operated enslaved Black women without anesthesia to develop modern gynecology.', es: 'Hipócrates separó la medicina de la magia — pero inventó la teoría de los humores que mató pacientes durante 2.000 años. Ibn Sina escribió el Canon que las universidades europeas usaron durante 600 años. Vesalio abrió cadáveres y encontró a Galeno equivocado en 200 puntos. Semmelweis demostró que lavarse las manos salva vidas — y fue internado en un manicomio por ello. Fleming descubrió la penicilina por accidente. Y la medicina colonial operó a mujeres negras esclavizadas sin anestesia para desarrollar la ginecología moderna.' },
+        datasets: ['data/dados-historia-medicina.json','data/dados-pandemias.json','data/dados-trafico-transatlantico.json','data/dados-revolucao-digital.json'],
+      },
+      {
+        id: 'q-trafico-transatlantico',
+        texto: { pt: 'O tráfico transatlântico: como o maior crime da modernidade foi também seu alicerce econômico?', en: 'The transatlantic trade: how was the greatest crime of modernity also its economic foundation?', es: '¿El tráfico transatlántico: cómo el mayor crimen de la modernidad fue también su fundamento económico?' },
+        desc:  { pt: '12,5 milhões de pessoas embarcadas, 4,8 milhões só para o Brasil. O triângulo atlântico, os reinos africanos que vendiam prisioneiros, a Passagem do Meio, Palmares, a Revolução Haitiana e a abolição que não acabou com a desigualdade.', en: '12.5 million people embarked, 4.8 million to Brazil alone. The Atlantic triangle, the African kingdoms that sold prisoners, the Middle Passage, Palmares, the Haitian Revolution and the abolition that did not end inequality.', es: '12,5 millones de personas embarcadas, 4,8 millones solo para Brasil. El triángulo atlántico, los reinos africanos que vendían prisioneros, el Pasaje del Medio, Palmares, la Revolución Haitiana y la abolición que no terminó con la desigualdad.' },
+        datasets: ['data/dados-trafico-transatlantico.json','data/dados-brasil-colonial-escravidao.json','data/dados-africa-pre-colonial.json','data/dados-revolucao-haitiana.json'],
       },
       {
         id: 'q-escravidao-global',
@@ -1400,7 +1503,13 @@ const PERGUNTAS = [
         id: 'q-revolucoes-tecnologicas',
         texto: { pt: 'O que todas as revoluções tecnológicas têm em comum?', en: 'What do all technological revolutions have in common?', es: '¿Qué tienen en común todas las revoluciones tecnológicas?' },
         desc:  { pt: 'Da imprensa à máquina a vapor ao digital — o padrão de disrupção, resistência e transformação que se repete em cada grande salto tecnológico.', en: 'From the printing press to the steam engine to digital — the pattern of disruption, resistance and transformation that repeats with each great technological leap.', es: 'De la imprenta a la máquina de vapor a lo digital — el patrón de disrupción, resistencia y transformación que se repite en cada gran salto tecnológico.' },
-        datasets: ['data/dados-revolucao-cientifica.json','data/dados-revolucao-industrial.json','data/dados-ciencia-tecnologia.json','data/dados-capitalismo.json'],
+        datasets: ['data/dados-revolucao-cientifica.json','data/dados-revolucao-industrial.json','data/dados-ciencia-tecnologia.json','data/dados-revolucao-digital.json'],
+      },
+      {
+        id: 'q-revolucao-digital',
+        texto: { pt: 'A internet mudou o mundo mais do que a imprensa de Gutenberg — ou menos?', en: 'Did the internet change the world more than Gutenberg\'s printing press — or less?', es: '¿Internet cambió el mundo más que la imprenta de Gutenberg — o menos?' },
+        desc:  { pt: 'Turing quebrando a Enigma, ARPANET nascendo da paranoia nuclear, Tim Berners-Lee recusando patentear a Web, a bolha ponto-com que construiu a infraestrutura do mundo digital, Snowden revelando que todos somos vigiados, Cambridge Analytica vendendo democracias, e a IA que levanta perguntas que a humanidade nunca enfrentou. A comparação com Gutenberg: a imprensa viabilizou a Reforma Protestante e as Guerras de Religião. A internet viabilizou a Primavera Árabe, o ISIS e Trump.', en: 'Turing breaking Enigma, ARPANET born from nuclear paranoia, Tim Berners-Lee refusing to patent the Web, the dot-com bubble that built the digital world\'s infrastructure, Snowden revealing we are all surveilled, Cambridge Analytica selling democracies, and AI raising questions humanity has never faced. The Gutenberg comparison: the printing press enabled the Protestant Reformation and the Wars of Religion. The internet enabled the Arab Spring, ISIS and Trump.', es: 'Turing rompiendo la Enigma, ARPANET naciendo de la paranoia nuclear, Tim Berners-Lee rehusando patentar la Web, la burbuja puntocom que construyó la infraestructura del mundo digital, Snowden revelando que todos somos vigilados, Cambridge Analytica vendiendo democracias, y la IA que plantea preguntas que la humanidad nunca ha enfrentado. La comparación con Gutenberg: la imprenta posibilitó la Reforma Protestante y las Guerras de Religión. Internet posibilitó la Primavera Árabe, el ISIS y Trump.' },
+        datasets: ['data/dados-revolucao-digital.json','data/dados-anos-1990.json','data/dados-primavera-arabe.json','data/dados-pos-guerra-fria.json'],
       },
       {
         id: 'q-imperios-colapso',
@@ -1416,9 +1525,9 @@ const PERGUNTAS = [
       },
       {
         id: 'q-alimentacao-historia',
-        texto: { pt: 'Como a alimentação moldou civilizações, guerras e impérios?', en: 'How did food shape civilizations, wars and empires?', es: '¿Cómo la alimentación moldeó civilizaciones, guerras e imperios?' },
-        desc:  { pt: 'Trigo, arroz, milho, açúcar, especiarias — como o que as pessoas comiam determinava onde viviam, com quem guerreavam e como se organizavam.', en: 'Wheat, rice, corn, sugar, spices — how what people ate determined where they lived, who they fought and how they organized.', es: 'Trigo, arroz, maíz, azúcar, especias — cómo lo que la gente comía determinaba dónde vivía, con quién guerreaba y cómo se organizaba.' },
-        datasets: ['data/dados-pre-historia-neolitico.json','data/dados-navegacoes.json','data/dados-era-moderna.json','data/dados-revolucao-industrial.json'],
+        texto: { pt: 'O que você come determina quem você é — e sempre determinou.', en: 'What you eat determines who you are — and always has.', es: 'Lo que comes determina quién eres — y siempre lo ha hecho.' },
+        desc:  { pt: 'Cozinhar criou o cérebro humano. O trigo nos domesticou. As especiarias financiaram as navegações. A Troca Colombiana fez o tomate italiano e o milho africano. O açúcar foi construído em ossos de escravizados. A fome quase nunca é natural — tem sempre um endereço político. E o hambúrguer que comeremos em 2050 provavelmente não veio de uma vaca.', en: 'Cooking created the human brain. Wheat domesticated us. Spices financed the navigations. The Columbian Exchange made the tomato Italian and corn African. Sugar was built on the bones of the enslaved. Famine is almost never natural — it always has a political address. And the burger we will eat in 2050 probably did not come from a cow.', es: 'Cocinar creó el cerebro humano. El trigo nos domesticó. Las especias financiaron las navegaciones. El Intercambio Colombino hizo italiano al tomate y africano al maíz. El azúcar fue construido sobre huesos de esclavizados. El hambre casi nunca es natural — siempre tiene una dirección política. Y la hamburguesa que comeremos en 2050 probablemente no vino de una vaca.' },
+        datasets: ['data/dados-historia-alimentacao.json','data/dados-pre-historia-neolitico.json','data/dados-trafico-transatlantico.json','data/dados-navegacoes-europeias.json'],
       },
     ],
   },
@@ -1807,10 +1916,16 @@ const PERGUNTAS = [
         datasets: ['data/dados-descolonizacao.json','data/dados-guerra-fria.json','data/dados-descolonizacao-guerras.json','data/dados-personagens-seculo-xx.json'],
       },
       {
+        id: 'q-guerra-vietnam',
+        texto: { pt: 'Como a maior potência militar da história perdeu para um país do tamanho de Minas Gerais?', en: 'How did the greatest military power in history lose to a country the size of California?', es: '¿Cómo la mayor potencia militar de la historia perdió ante un país del tamaño de California?' },
+        desc:  { pt: 'Dien Bien Phu, a teoria do dominó, napalm e Agente Laranja, a Ofensiva do Tet que os EUA venceram militarmente e perderam na televisão, My Lai, os Pentagon Papers, a Queda de Saigon — e o genocídio cambojano que ninguém planejou mas que os bombardeios americanos ajudaram a criar.', en: 'Dien Bien Phu, the domino theory, napalm and Agent Orange, the Tet Offensive that the US won militarily and lost on television, My Lai, the Pentagon Papers, the Fall of Saigon — and the Cambodian genocide that nobody planned but that American bombing helped create.', es: 'Dien Bien Phu, la teoría del dominó, napalm y Agente Naranja, la Ofensiva del Tet que EE.UU. ganó militarmente y perdió en televisión, My Lai, los Pentagon Papers, la Caída de Saigón — y el genocidio camboyano que nadie planeó pero que los bombardeos americanos ayudaron a crear.' },
+        datasets: ['data/dados-guerra-vietnam.json','data/dados-guerra-fria.json','data/dados-descolonizacao-guerras.json','data/dados-eua-guerra-fria.json'],
+      },
+      {
         id: 'q-guerrilha-resistencia',
         texto: { pt: 'Por que os exércitos convencionais perdem para as guerrilhas?', en: 'Why do conventional armies lose to guerrillas?', es: '¿Por qué los ejércitos convencionales pierden ante las guerrillas?' },
         desc: { pt: 'Vietnã, Afeganistão, Argélia — o padrão que se repete: superpotência militar derrotada por combatentes sem uniforme. A lógica da guerra irregular.', en: 'Vietnam, Afghanistan, Algeria — the repeating pattern: military superpower defeated by fighters without uniforms. The logic of irregular warfare.', es: 'Vietnam, Afganistán, Argelia — el patrón que se repite: superpotencia militar derrotada por combatientes sin uniforme. La lógica de la guerra irregular.' },
-        datasets: ['data/dados-descolonizacao-guerras.json','data/dados-guerra-fria.json','data/dados-personagens-seculo-xx.json'],
+        datasets: ['data/dados-guerra-vietnam.json','data/dados-descolonizacao-guerras.json','data/dados-guerra-fria.json','data/dados-personagens-seculo-xx.json'],
       },
       {
         id: 'q-paz-porque-funciona',
@@ -2044,6 +2159,12 @@ const PERGUNTAS = [
         datasets: ['data/dados-pre-historia-neolitico.json','data/dados-medieval-feudalismo.json','data/dados-maya-classico.json','data/dados-bronze-egeu.json'],
       },
       {
+        id: 'q-colapso-bronze',
+        texto: { pt: 'O que destruiu todas as grandes civilizações ao mesmo tempo em 1200 a.C.?', en: 'What destroyed all great civilizations simultaneously in 1200 BC?', es: '¿Qué destruyó a todas las grandes civilizaciones al mismo tiempo en 1200 a.C.?' },
+        desc: { pt: 'Em menos de 50 anos, os Hititas, Micenas, Ugarit e o Egito Novo colapsaram ou encolheram dramaticamente. Os misteriosos Povos do Mar, a seca, as revoltas internas — e por que os Fenícios e os Gregos surgiram mais fortes das ruínas.', en: 'In less than 50 years, the Hittites, Mycenae, Ugarit and the New Kingdom of Egypt collapsed or dramatically shrank. The mysterious Sea Peoples, drought, internal revolts — and why the Phoenicians and Greeks emerged stronger from the ruins.', es: 'En menos de 50 años, los hititas, Micenas, Ugarit y el Nuevo Reino de Egipto colapsaron o se contrajeron dramáticamente. Los misteriosos Pueblos del Mar, la sequía, las revueltas internas — y por qué los fenicios y los griegos emergieron más fuertes de las ruinas.' },
+        datasets: ['data/dados-colapso-idade-bronze.json','data/dados-egito-antigo.json','data/dados-grecia-antiga.json','data/dados-mesopotamia-hebreus-fenicios.json'],
+      },
+      {
         id: 'q-crise-climatica-hoje',
         texto: { pt: 'A crise climática atual é única — ou parte de um padrão histórico?', en: 'Is the current climate crisis unique — or part of a historical pattern?', es: '¿La crisis climática actual es única — o parte de un patrón histórico?' },
         desc: { pt: 'O que a história das civilizações que colapsaram por razões ambientais nos ensina sobre o que pode estar por vir — e o que as que sobreviveram fizeram diferente.', en: 'What the history of civilizations that collapsed for environmental reasons teaches us about what may be coming — and what those that survived did differently.', es: 'Lo que la historia de las civilizaciones que colapsaron por razones ambientales nos enseña sobre lo que puede estar por venir — y lo que las que sobrevivieron hicieron diferente.' },
@@ -2108,6 +2229,319 @@ const PERGUNTAS = [
         texto: { pt: 'A Amazônia sempre foi "vazia"? A história das civilizações amazônicas.', en: 'Was the Amazon always "empty"? The history of Amazonian civilizations.', es: '¿La Amazonia siempre estuvo "vacía"? La historia de las civilizaciones amazónicas.' },
         desc: { pt: 'A terra preta dos índios, Marajó, as geoglifos do Acre — a Amazônia pré-colonial tinha milhões de habitantes que moldaram a floresta. O mito da "natureza intocada" apaga uma história humana densa.', en: 'Dark earth, Marajó, the geoglyphs of Acre — pre-colonial Amazonia had millions of inhabitants who shaped the forest. The myth of "untouched nature" erases a dense human history.', es: 'La tierra negra de los indios, Marajó, los geoglifos de Acre — la Amazonia precolonial tenía millones de habitantes que moldearon el bosque. El mito de la "naturaleza intocada" borra una densa historia humana.' },
         datasets: ['data/dados-brasil-01-povos-originarios.json','data/dados-brasil-indigenas.json','data/dados-brasil-contemporaneo.json'],
+      },
+    ],
+  },
+
+  // ── EUROPA: ROMA IMPERIAL E TARDIA ──────────────────────────────────────────
+  {
+    grupo: { pt: 'Roma Imperial e Tardia', en: 'Imperial and Late Rome', es: 'Roma Imperial y Tardía' },
+    itens: [
+      {
+        id: 'q-roma-emperadores',
+        texto: { pt: 'Como os imperadores romanos governaram um mundo?', en: 'How did Roman emperors govern a world?', es: '¿Cómo gobernaron los emperadores romanos un mundo?' },
+        desc:  { pt: 'De Augusto a Marco Aurélio — o que fazia um bom imperador e por que a sucessão era o ponto fraco do sistema.', en: 'From Augustus to Marcus Aurelius — what made a good emperor and why succession was the system\'s weak point.', es: 'De Augusto a Marco Aurelio — qué hacía a un buen emperador y por qué la sucesión era el punto débil del sistema.' },
+        datasets: ['data/dados-roma-emperadores.json','data/dados-roma-imperial.json','data/dados-roma-exercito.json'],
+      },
+      {
+        id: 'q-roma-crise',
+        texto: { pt: 'O que foi a Crise do Século III em Roma?', en: 'What was Rome\'s Third Century Crisis?', es: '¿Qué fue la Crisis del Siglo III en Roma?' },
+        desc:  { pt: 'Cinquenta anos de caos: imperadores assassinados, invasões simultâneas, inflação — e como Diocleciano e Constantino reconstruíram o império.', en: 'Fifty years of chaos: assassinated emperors, simultaneous invasions, inflation — and how Diocletian and Constantine rebuilt the empire.', es: 'Cincuenta años de caos: emperadores asesinados, invasiones simultáneas, inflación — y cómo Diocleciano y Constantino reconstruyeron el imperio.' },
+        datasets: ['data/dados-roma-crise-terceiro-seculo.json','data/dados-roma-emperadores.json','data/dados-roma-queda-ocidente.json'],
+      },
+      {
+        id: 'q-roma-queda',
+        texto: { pt: 'Como Roma do Ocidente realmente caiu?', en: 'How did Western Rome actually fall?', es: '¿Cómo cayó realmente Roma de Occidente?' },
+        desc:  { pt: 'Hunos, visigodos, vândalos — a sequência de choques que fragmentou o Ocidente romano e deu origem aos reinos medievais.', en: 'Huns, Visigoths, Vandals — the sequence of shocks that fragmented Roman West and gave rise to medieval kingdoms.', es: 'Hunos, visigodos, vándalos — la secuencia de choques que fragmentó el occidente romano y dio origen a los reinos medievales.' },
+        datasets: ['data/dados-roma-queda-ocidente.json','data/dados-roma-crise-terceiro-seculo.json','data/dados-medieval-feudalismo.json'],
+      },
+      {
+        id: 'q-roma-direito',
+        texto: { pt: 'O que herdamos do direito romano?', en: 'What did we inherit from Roman law?', es: '¿Qué heredamos del derecho romano?' },
+        desc:  { pt: 'Das XII Tábuas ao Corpus Iuris de Justiniano — como Roma criou o sistema jurídico que ainda governa metade do mundo.', en: 'From the Twelve Tables to Justinian\'s Corpus Iuris — how Rome created the legal system that still governs half the world.', es: 'De las XII Tablas al Corpus Iuris de Justiniano — cómo Roma creó el sistema jurídico que aún gobierna la mitad del mundo.' },
+        datasets: ['data/dados-roma-teologia-direito.json','data/dados-roma-imperial.json','data/dados-bizantino-medieval.json'],
+      },
+    ],
+  },
+
+  // ── EUROPA: MEDIEVO ─────────────────────────────────────────────────────────
+  {
+    grupo: { pt: 'Europa Medieval: Poder e Crise', en: 'Medieval Europe: Power and Crisis', es: 'Europa Medieval: Poder y Crisis' },
+    itens: [
+      {
+        id: 'q-carlomagno',
+        texto: { pt: 'O que Carlomagno tentou reconstruir?', en: 'What did Charlemagne try to rebuild?', es: '¿Qué intentó reconstruir Carlomagno?' },
+        desc:  { pt: 'A Renovatio Imperii carolíngia — a tentativa de recriar Roma no Ocidente e o renascimento cultural que produziu.', en: 'The Carolingian Renovatio Imperii — the attempt to recreate Rome in the West and the cultural renaissance it produced.', es: 'La Renovatio Imperii carolingia — el intento de recrear Roma en Occidente y el renacimiento cultural que produjo.' },
+        datasets: ['data/dados-carlomagno.json','data/dados-medieval-feudalismo.json','data/dados-vikings.json'],
+      },
+      {
+        id: 'q-vikings',
+        texto: { pt: 'Os Vikings foram apenas guerreiros?', en: 'Were the Vikings only warriors?', es: '¿Fueron los vikingos solo guerreros?' },
+        desc:  { pt: 'Comerciantes, exploradores, fundadores de cidades — os Vikings chegaram à América cinco séculos antes de Colombo e criaram as rotas comerciais que ligavam a Escandinávia a Bizâncio.', en: 'Merchants, explorers, city founders — the Vikings reached America five centuries before Columbus and created trade routes linking Scandinavia to Byzantium.', es: 'Comerciantes, exploradores, fundadores de ciudades — los vikingos llegaron a América cinco siglos antes de Colón y crearon rutas comerciales que unían Escandinavia con Bizancio.' },
+        datasets: ['data/dados-vikings.json','data/dados-medieval-feudalismo.json','data/dados-carlomagno.json'],
+      },
+      {
+        id: 'q-peste-negra',
+        texto: { pt: 'O que a Peste Negra destruiu — e o que criou?', en: 'What did the Black Death destroy — and what did it create?', es: '¿Qué destruyó la Peste Negra — y qué creó?' },
+        desc:  { pt: 'Um terço da Europa em cinco anos — e como o colapso demográfico acelerou o fim do feudalismo, transformou as relações de trabalho e abriu caminho para o Renascimento.', en: 'A third of Europe in five years — and how demographic collapse accelerated the end of feudalism, transformed labor relations and paved the way for the Renaissance.', es: 'Un tercio de Europa en cinco años — y cómo el colapso demográfico aceleró el fin del feudalismo, transformó las relaciones laborales y allanó el camino al Renacimiento.' },
+        datasets: ['data/dados-peste-negra.json','data/dados-medieval-feudalismo.json','data/dados-renascimento-italia.json'],
+      },
+      {
+        id: 'q-guerra-cem-anos',
+        texto: { pt: 'O que foi a Guerra dos Cem Anos?', en: 'What was the Hundred Years\' War?', es: '¿Qué fue la Guerra de los Cien Años?' },
+        desc:  { pt: 'Da disputa dinástica à nação — como um conflito medieval entre Inglaterra e França forjou identidades nacionais, produziu Joana D\'Arc e inaugurou o exército profissional.', en: 'From dynastic dispute to nation — how a medieval conflict between England and France forged national identities, produced Joan of Arc and inaugurated the professional army.', es: 'De la disputa dinástica a la nación — cómo un conflicto medieval entre Inglaterra y Francia forjó identidades nacionales, produjo a Juana de Arco e inauguró el ejército profesional.' },
+        datasets: ['data/dados-guerra-cem-anos.json','data/dados-medieval-feudalismo.json','data/dados-franca-ancien-regime.json'],
+      },
+    ],
+  },
+
+  // ── EUROPA: REFORMAS E GUERRAS DE RELIGIÃO ───────────────────────────────────
+  {
+    grupo: { pt: 'Reforma, Contrarreforma e Guerras de Religião', en: 'Reformation, Counter-Reformation and Wars of Religion', es: 'Reforma, Contrarreforma y Guerras de Religión' },
+    itens: [
+      {
+        id: 'q-reforma-calvino',
+        texto: { pt: 'Calvino e Zuínglio: a Reforma além de Lutero?', en: 'Calvin and Zwingli: the Reformation beyond Luther?', es: '¿Calvino y Zuinglio: la Reforma más allá de Lutero?' },
+        desc:  { pt: 'O calvinismo que criou o ethos do capitalismo, os huguenotes franceses, os puritanos ingleses — como Genebra se tornou o centro de uma revolução religiosa que atravessou o Atlântico.', en: 'The Calvinism that created the capitalist ethos, the French Huguenots, the English Puritans — how Geneva became the center of a religious revolution that crossed the Atlantic.', es: 'El calvinismo que creó el ethos capitalista, los hugonotes franceses, los puritanos ingleses — cómo Ginebra se convirtió en el centro de una revolución religiosa que cruzó el Atlántico.' },
+        datasets: ['data/dados-reforma-calvino.json','data/dados-reforma-protestante.json','data/dados-guerras-religiao.json'],
+      },
+      {
+        id: 'q-contrarreforma',
+        texto: { pt: 'Como a Igreja respondeu à Reforma?', en: 'How did the Church respond to the Reformation?', es: '¿Cómo respondió la Iglesia a la Reforma?' },
+        desc:  { pt: 'O Concílio de Trento, os jesuítas de Inácio de Loyola, a Inquisição romana — a grande renovação católica que redefniu a Igreja e levou o catolicismo a quatro continentes.', en: 'The Council of Trent, Ignatius of Loyola\'s Jesuits, the Roman Inquisition — the great Catholic renewal that redefined the Church and brought Catholicism to four continents.', es: 'El Concilio de Trento, los jesuitas de Ignacio de Loyola, la Inquisición romana — la gran renovación católica que redefinió la Iglesia y llevó el catolicismo a cuatro continentes.' },
+        datasets: ['data/dados-contrarreforma.json','data/dados-reforma-protestante.json','data/dados-guerras-religiao.json'],
+      },
+      {
+        id: 'q-guerras-religiao',
+        texto: { pt: 'As guerras de religião foram realmente por religião?', en: 'Were the Wars of Religion really about religion?', es: '¿Las guerras de religión fueron realmente por religión?' },
+        desc:  { pt: 'Da Guerra dos Camponeses Alemães à Guerra dos Trinta Anos — como fé, poder político e interesses econômicos se entrelaçaram nos conflitos que dilaceraram a Europa por um século.', en: 'From the German Peasants\' War to the Thirty Years\' War — how faith, political power and economic interests intertwined in the conflicts that tore Europe apart for a century.', es: 'De la Guerra de los Campesinos Alemanes a la Guerra de los Treinta Años — cómo fe, poder político e intereses económicos se entrelazaron en los conflictos que desgarraron Europa durante un siglo.' },
+        datasets: ['data/dados-guerras-religiao.json','data/dados-guerra-trinta-anos.json','data/dados-reforma-calvino.json','data/dados-contrarreforma.json'],
+      },
+      {
+        id: 'q-guerra-trinta-anos',
+        texto: { pt: 'A Guerra dos Trinta Anos criou o mundo moderno?', en: 'Did the Thirty Years\' War create the modern world?', es: '¿La Guerra de los Treinta Años creó el mundo moderno?' },
+        desc:  { pt: 'O Tratado de Vestfália de 1648 inventou o conceito de soberania nacional e o sistema de Estados que governa o mundo até hoje — saído de um conflito que matou um terço da população alemã.', en: 'The Treaty of Westphalia of 1648 invented the concept of national sovereignty and the state system that governs the world to this day — emerging from a conflict that killed a third of Germany\'s population.', es: 'El Tratado de Westfalia de 1648 inventó el concepto de soberanía nacional y el sistema de Estados que gobierna el mundo hasta hoy — nacido de un conflicto que mató a un tercio de la población alemana.' },
+        datasets: ['data/dados-guerra-trinta-anos.json','data/dados-habsburgos.json','data/dados-guerras-religiao.json'],
+      },
+    ],
+  },
+
+  // ── EUROPA: MONARQUIAS E ILUMINISMO ─────────────────────────────────────────
+  {
+    grupo: { pt: 'Monarquias Absolutas e Iluminismo Europeu', en: 'Absolute Monarchies and European Enlightenment', es: 'Monarquías Absolutas e Ilustración Europea' },
+    itens: [
+      {
+        id: 'q-habsburgos',
+        texto: { pt: 'Como os Habsburgos dominaram a Europa por séculos?', en: 'How did the Habsburgs dominate Europe for centuries?', es: '¿Cómo dominaron los Habsburgo Europa durante siglos?' },
+        desc:  { pt: 'De Rudolfo a Carlos V — a dinastia que governou o Sacro Império, a Espanha, a América, os Países Baixos e a Itália ao mesmo tempo, e como sua hegemonia se fragmentou.', en: 'From Rudolf to Charles V — the dynasty that simultaneously governed the Holy Roman Empire, Spain, the Americas, the Netherlands and Italy, and how its hegemony fragmented.', es: 'De Rodolfo a Carlos V — la dinastía que gobernó simultáneamente el Sacro Imperio, España, América, los Países Bajos e Italia, y cómo su hegemonía se fragmentó.' },
+        datasets: ['data/dados-habsburgos.json','data/dados-guerra-trinta-anos.json','data/dados-austria-prussia.json'],
+      },
+      {
+        id: 'q-luis-xiv',
+        texto: { pt: 'O que o absolutismo de Luís XIV significou?', en: 'What did Louis XIV\'s absolutism mean?', es: '¿Qué significó el absolutismo de Luis XIV?' },
+        desc:  { pt: 'Versalhes como máquina política, o mercantilismo colbertista, as guerras de conquista — o modelo de Estado absolutista e por que entrou em colapso um século depois.', en: 'Versailles as a political machine, Colbertist mercantilism, wars of conquest — the absolutist state model and why it collapsed a century later.', es: 'Versalles como máquina política, el mercantilismo colbertiano, las guerras de conquista — el modelo de Estado absolutista y por qué colapsó un siglo después.' },
+        datasets: ['data/dados-franca-ancien-regime.json','data/dados-habsburgos.json','data/dados-revolucao-francesa.json'],
+      },
+      {
+        id: 'q-holanda',
+        texto: { pt: 'Como uma pequena república holandesa dominou o comércio global?', en: 'How did a small Dutch republic dominate global trade?', es: '¿Cómo una pequeña república holandesa dominó el comercio global?' },
+        desc:  { pt: 'A VOC, Rembrandt, Spinoza, Grotius — o Século de Ouro holandês que inventou a bolsa de valores, o colonialismo corporativo e a tolerância religiosa moderna.', en: 'The VOC, Rembrandt, Spinoza, Grotius — the Dutch Golden Age that invented the stock exchange, corporate colonialism and modern religious tolerance.', es: 'La VOC, Rembrandt, Spinoza, Grocio — el Siglo de Oro holandés que inventó la bolsa de valores, el colonialismo corporativo y la tolerancia religiosa moderna.' },
+        datasets: ['data/dados-holanda-seculo-de-ouro.json','data/dados-habsburgos.json','data/dados-guerras-religiao.json'],
+      },
+      {
+        id: 'q-iluminismo',
+        texto: { pt: 'O Iluminismo foi um movimento único ou muitos?', en: 'Was the Enlightenment one movement or many?', es: '¿Fue la Ilustración un movimiento único o varios?' },
+        desc:  { pt: 'Voltaire em Paris, Locke em Londres, Kant em Königsberg — as três versões do Iluminismo e como produziram a Revolução Francesa, o liberalismo inglês e o idealismo alemão.', en: 'Voltaire in Paris, Locke in London, Kant in Königsberg — the three versions of the Enlightenment and how they produced the French Revolution, English liberalism and German idealism.', es: 'Voltaire en París, Locke en Londres, Kant en Königsberg — las tres versiones de la Ilustración y cómo produjeron la Revolución Francesa, el liberalismo inglés y el idealismo alemán.' },
+        datasets: ['data/dados-iluminismo-frances.json','data/dados-iluminismo-britanico.json','data/dados-iluminismo-alemao.json','data/dados-humanismo-erasmo.json'],
+      },
+      {
+        id: 'q-revolucao-inglesa',
+        texto: { pt: 'A Revolução Inglesa foi a primeira revolução moderna?', en: 'Was the English Revolution the first modern revolution?', es: '¿Fue la Revolución Inglesa la primera revolución moderna?' },
+        desc:  { pt: 'A execução de Carlos I, Cromwell, a Revolução Gloriosa e o Bill of Rights — como a Inglaterra do século XVII inventou o parlamentarismo e o governo limitado antes de qualquer outro país.', en: 'The execution of Charles I, Cromwell, the Glorious Revolution and the Bill of Rights — how 17th-century England invented parliamentarism and limited government before any other country.', es: 'La ejecución de Carlos I, Cromwell, la Revolución Gloriosa y la Declaración de Derechos — cómo la Inglaterra del siglo XVII inventó el parlamentarismo y el gobierno limitado antes que ningún otro país.' },
+        datasets: ['data/dados-ingles-revolucao.json','data/dados-iluminismo-britanico.json','data/dados-revolucao-francesa.json'],
+      },
+      {
+        id: 'q-humanismo',
+        texto: { pt: 'O Humanismo mudou como os europeus se viam?', en: 'Did Humanism change how Europeans saw themselves?', es: '¿Cambió el Humanismo cómo los europeos se veían a sí mismos?' },
+        desc:  { pt: 'Erasmo, Thomas More, Pico della Mirandola — a redescoberta da Antiguidade clássica e a revolução na ideia de ser humano que tornou o Renascimento possível.', en: 'Erasmus, Thomas More, Pico della Mirandola — the rediscovery of classical Antiquity and the revolution in the idea of the human that made the Renaissance possible.', es: 'Erasmo, Tomás Moro, Pico della Mirandola — el redescubrimiento de la Antigüedad clásica y la revolución en la idea del ser humano que hizo posible el Renacimiento.' },
+        datasets: ['data/dados-humanismo-erasmo.json','data/dados-renascimento-italia.json','data/dados-iluminismo-frances.json'],
+      },
+    ],
+  },
+
+  // ── EUROPA: SÉCULO XIX ───────────────────────────────────────────────────────
+  {
+    grupo: { pt: 'Europa no Século XIX: Nações, Impérios e Revoluções', en: 'Europe in the 19th Century: Nations, Empires and Revolutions', es: 'Europa en el Siglo XIX: Naciones, Imperios y Revoluciones' },
+    itens: [
+      {
+        id: 'q-napoleao',
+        texto: { pt: 'Napoleão foi filho da Revolução ou seu coveiro?', en: 'Was Napoleon the son of the Revolution or its gravedigger?', es: '¿Fue Napoleón hijo de la Revolución o su sepulturero?' },
+        desc:  { pt: 'Do 18 Brumário ao exílio em Santa Helena — como um general corso transformou a Europa, exportou o Código Napoleônico e desencadeou o nacionalismo como força política.', en: 'From 18 Brumaire to exile on Saint Helena — how a Corsican general transformed Europe, exported the Napoleonic Code and unleashed nationalism as a political force.', es: 'Del 18 Brumario al exilio en Santa Elena — cómo un general corso transformó Europa, exportó el Código Napoleónico y desató el nacionalismo como fuerza política.' },
+        datasets: ['data/dados-napoleao-europa.json','data/dados-revolucao-francesa.json','data/dados-congresso-viena.json'],
+      },
+      {
+        id: 'q-congresso-viena',
+        texto: { pt: 'O Congresso de Viena criou a paz — ou adiou o inevitável?', en: 'Did the Congress of Vienna create peace — or delay the inevitable?', es: '¿Creó el Congreso de Viena la paz — o retrasó lo inevitable?' },
+        desc:  { pt: 'Metternich e a Santa Aliança tentaram restaurar a Europa pré-revolucionária — e por que as ondas revolucionárias de 1820, 1830 e 1848 mostraram que era impossível.', en: 'Metternich and the Holy Alliance tried to restore pre-revolutionary Europe — and why the revolutionary waves of 1820, 1830 and 1848 showed it was impossible.', es: 'Metternich y la Santa Alianza intentaron restaurar la Europa prerrevolucionaria — y por qué las oleadas revolucionarias de 1820, 1830 y 1848 mostraron que era imposible.' },
+        datasets: ['data/dados-congresso-viena.json','data/dados-napoleao-europa.json','data/dados-revolucoes-1848.json'],
+      },
+      {
+        id: 'q-1848',
+        texto: { pt: 'Por que as revoluções de 1848 fracassaram?', en: 'Why did the revolutions of 1848 fail?', es: '¿Por qué fracasaron las revoluciones de 1848?' },
+        desc:  { pt: 'A Primavera dos Povos que varreu a Europa — e como o conservadorismo e as divisões entre liberais, republicanos e operários garantiram a derrota de uma geração inteira.', en: 'The Spring of Nations that swept Europe — and how conservatism and divisions between liberals, republicans and workers ensured the defeat of an entire generation.', es: 'La Primavera de los Pueblos que barrió Europa — y cómo el conservadurismo y las divisiones entre liberales, republicanos y obreros aseguraron la derrota de toda una generación.' },
+        datasets: ['data/dados-revolucoes-1848.json','data/dados-congresso-viena.json','data/dados-unificacao-alemanha.json','data/dados-unificacao-italia.json'],
+      },
+      {
+        id: 'q-unificacoes',
+        texto: { pt: 'Como Bismarck e Cavour criaram Alemanha e Itália?', en: 'How did Bismarck and Cavour create Germany and Italy?', es: '¿Cómo crearon Bismarck y Cavour Alemania e Italia?' },
+        desc:  { pt: 'O Risorgimento italiano e as três guerras de Bismarck — duas histórias paralelas de unificação nacional que redefiniram o equilíbrio de poder europeu e prepararam a Primeira Guerra.', en: 'The Italian Risorgimento and Bismarck\'s three wars — two parallel stories of national unification that redefined the European balance of power and set the stage for World War I.', es: 'El Risorgimento italiano y las tres guerras de Bismarck — dos historias paralelas de unificación nacional que redefinieron el equilibrio de poder europeo y prepararon la Primera Guerra.' },
+        datasets: ['data/dados-unificacao-alemanha.json','data/dados-unificacao-italia.json','data/dados-austria-prussia.json'],
+      },
+      {
+        id: 'q-belle-epoque',
+        texto: { pt: 'A Belle Époque foi dourada para quem?', en: 'The Belle Époque was golden for whom?', es: '¿La Belle Époque fue dorada para quién?' },
+        desc:  { pt: 'Impressionismo, metrô, eletricidade — e ao mesmo tempo sufragistas, anarquistas e a partilha colonial da África. A contradição entre modernidade e desigualdade que anunciava 1914.', en: 'Impressionism, the metro, electricity — and at the same time suffragettes, anarchists and the colonial partition of Africa. The contradiction between modernity and inequality that foreshadowed 1914.', es: 'Impresionismo, metro, electricidad — y al mismo tiempo sufragistas, anarquistas y el reparto colonial de África. La contradicción entre modernidad y desigualdad que anunciaba 1914.' },
+        datasets: ['data/dados-belle-epoque.json','data/dados-industrializacao-europa.json','data/dados-imperialismo-britanico.json','data/dados-imperialismo-frances.json'],
+      },
+      {
+        id: 'q-industrializacao-europa',
+        texto: { pt: 'Como a Segunda Revolução Industrial transformou a Europa?', en: 'How did the Second Industrial Revolution transform Europe?', es: '¿Cómo transformó la Segunda Revolución Industrial a Europa?' },
+        desc:  { pt: 'Aço, química, eletricidade — a segunda onda industrial que fez a Alemanha superar a Inglaterra e criou os movimentos operários que redefiniriam a política do século XX.', en: 'Steel, chemistry, electricity — the second industrial wave that made Germany surpass England and created the workers\' movements that would redefine 20th-century politics.', es: 'Acero, química, electricidad — la segunda oleada industrial que hizo a Alemania superar a Inglaterra y creó los movimientos obreros que redefinirían la política del siglo XX.' },
+        datasets: ['data/dados-industrializacao-europa.json','data/dados-belle-epoque.json','data/dados-unificacao-alemanha.json'],
+      },
+      {
+        id: 'q-imperialismo-europeu',
+        texto: { pt: 'O imperialismo britânico e francês funcionou da mesma forma?', en: 'Did British and French imperialism work the same way?', es: '¿El imperialismo británico y francés funcionó de la misma manera?' },
+        desc:  { pt: 'A Pax Britannica e a Missão Civilizadora francesa — dois modelos de dominação colonial com lógicas distintas, e as resistências que cada um produziu na África e na Ásia.', en: 'The Pax Britannica and the French Civilizing Mission — two models of colonial domination with distinct logics, and the resistances each produced in Africa and Asia.', es: 'La Pax Britannica y la Misión Civilizadora francesa — dos modelos de dominación colonial con lógicas distintas, y las resistencias que cada uno produjo en África y Asia.' },
+        datasets: ['data/dados-imperialismo-britanico.json','data/dados-imperialismo-frances.json','data/dados-belle-epoque.json'],
+      },
+      {
+        id: 'q-russia-imperio',
+        texto: { pt: 'Como o Império Russo tentou se modernizar?', en: 'How did the Russian Empire try to modernize?', es: '¿Cómo intentó modernizarse el Imperio Ruso?' },
+        desc:  { pt: 'De Pedro o Grande a Catarina — a modernização forçada pela cúpula que nunca chegou à base, e como essa contradição entre reforma e autocracia levou ao colapso de 1917.', en: 'From Peter the Great to Catherine — the top-down forced modernization that never reached the base, and how this contradiction between reform and autocracy led to the collapse of 1917.', es: 'De Pedro el Grande a Catalina — la modernización forzada desde arriba que nunca llegó a la base, y cómo esa contradicción entre reforma y autocracia llevó al colapso de 1917.' },
+        datasets: ['data/dados-russia-imperio.json','data/dados-russia-revolucao.json','data/dados-austria-prussia.json'],
+      },
+    ],
+  },
+
+  // ── EUROPA: GUERRAS MUNDIAIS ─────────────────────────────────────────────────
+  {
+    grupo: { pt: 'As Duas Guerras Mundiais e o Entreguerras', en: 'The Two World Wars and the Interwar Period', es: 'Las Dos Guerras Mundiales y el Entreguerras' },
+    itens: [
+      {
+        id: 'q-frente-ocidental',
+        texto: { pt: 'O que a guerra de trincheiras significou para os soldados?', en: 'What did trench warfare mean for soldiers?', es: '¿Qué significó la guerra de trincheras para los soldados?' },
+        desc:  { pt: 'O Plano Schlieffen, Verdun, o Somme, gás e tanques — a guerra total que destruiu a geração dos homens jovens europeus e pôs fim ao otimismo do século XIX.', en: 'The Schlieffen Plan, Verdun, the Somme, gas and tanks — the total war that destroyed a generation of young European men and ended the optimism of the 19th century.', es: 'El Plan Schlieffen, Verdún, el Somme, gas y tanques — la guerra total que destruyó a toda una generación de jóvenes europeos y acabó con el optimismo del siglo XIX.' },
+        datasets: ['data/dados-frente-ocidental-1914.json','data/dados-primeira-guerra.json','data/dados-tratado-versalhes.json'],
+      },
+      {
+        id: 'q-versalhes',
+        texto: { pt: 'O Tratado de Versalhes causou a Segunda Guerra?', en: 'Did the Treaty of Versailles cause World War II?', es: '¿El Tratado de Versalles causó la Segunda Guerra Mundial?' },
+        desc:  { pt: 'As reparações de guerra, a cláusula de culpa, os novos Estados criados por Wilson — e como as condições humilhantes de 1919 alimentaram o nazismo e tornaram outro conflito quase inevitável.', en: 'War reparations, the guilt clause, Wilson\'s new states — and how the humiliating conditions of 1919 fed Nazism and made another conflict almost inevitable.', es: 'Las reparaciones de guerra, la cláusula de culpa, los nuevos Estados de Wilson — y cómo las condiciones humillantes de 1919 alimentaron el nazismo e hicieron casi inevitable otro conflicto.' },
+        datasets: ['data/dados-tratado-versalhes.json','data/dados-primeira-guerra.json','data/dados-republica-weimar.json','data/dados-nazismo.json'],
+      },
+      {
+        id: 'q-weimar',
+        texto: { pt: 'Por que a República de Weimar falhou?', en: 'Why did the Weimar Republic fail?', es: '¿Por qué falló la República de Weimar?' },
+        desc:  { pt: 'Constituição democrática mais avançada do mundo, cultura vanguardista — e colapso em 14 anos. Como a Grande Depressão, a hiperinflação e a radicalização política destruíram a primeira democracia alemã.', en: 'The world\'s most advanced democratic constitution, avant-garde culture — and collapse in 14 years. How the Great Depression, hyperinflation and political radicalization destroyed Germany\'s first democracy.', es: 'La constitución democrática más avanzada del mundo, cultura vanguardista — y colapso en 14 años. Cómo la Gran Depresión, la hiperinflación y la radicalización política destruyeron la primera democracia alemana.' },
+        datasets: ['data/dados-republica-weimar.json','data/dados-tratado-versalhes.json','data/dados-nazismo.json'],
+      },
+      {
+        id: 'q-fascismo',
+        texto: { pt: 'O fascismo italiano e o nazismo alemão eram a mesma coisa?', en: 'Were Italian fascism and German Nazism the same thing?', es: '¿El fascismo italiano y el nazismo alemán eran lo mismo?' },
+        desc:  { pt: 'Mussolini como precursor e modelo de Hitler — as semelhanças estruturais e as diferenças fundamentais entre os dois regimes, e por que a Itália não cometeu o Holocausto.', en: 'Mussolini as Hitler\'s precursor and model — the structural similarities and fundamental differences between the two regimes, and why Italy did not commit the Holocaust.', es: 'Mussolini como precursor y modelo de Hitler — las similitudes estructurales y las diferencias fundamentales entre los dos regímenes, y por qué Italia no cometió el Holocausto.' },
+        datasets: ['data/dados-fascismo-italiano.json','data/dados-nazismo.json','data/dados-republica-weimar.json'],
+      },
+      {
+        id: 'q-nazismo',
+        texto: { pt: 'Como o nazismo chegou ao poder democraticamente?', en: 'How did Nazism come to power democratically?', es: '¿Cómo llegó el nazismo al poder democráticamente?' },
+        desc:  { pt: 'A ideologia racial, a propaganda de Goebbels, a Noite dos Cristais — o processo pelo qual uma democracia construída em 1919 se transformou numa ditadura totalitária em menos de dois anos.', en: 'Racial ideology, Goebbels\' propaganda, Kristallnacht — the process by which a democracy built in 1919 became a totalitarian dictatorship in less than two years.', es: 'La ideología racial, la propaganda de Goebbels, la Noche de los Cristales Rotos — el proceso por el cual una democracia construida en 1919 se convirtió en una dictadura totalitaria en menos de dos años.' },
+        datasets: ['data/dados-nazismo.json','data/dados-republica-weimar.json','data/dados-holocaust.json'],
+      },
+      {
+        id: 'q-holocaust',
+        texto: { pt: 'Como o Holocausto foi possível?', en: 'How was the Holocaust possible?', es: '¿Cómo fue posible el Holocausto?' },
+        desc:  { pt: 'Do antissemitismo europeu às câmaras de gás de Auschwitz — a escalada de discriminação a extermínio industrial, e o que os julgamentos de Nuremberg estabeleceram como legado jurídico e moral.', en: 'From European antisemitism to the gas chambers of Auschwitz — the escalation from discrimination to industrial extermination, and what the Nuremberg trials established as legal and moral legacy.', es: 'Del antisemitismo europeo a las cámaras de gas de Auschwitz — la escalada de discriminación al exterminio industrial, y lo que los juicios de Núremberg establecieron como legado jurídico y moral.' },
+        datasets: ['data/dados-holocaust.json','data/dados-nazismo.json','data/dados-frente-oriental.json'],
+      },
+      {
+        id: 'q-frente-oriental',
+        texto: { pt: 'A Frente Oriental foi a guerra mais brutal da história?', en: 'Was the Eastern Front the most brutal war in history?', es: '¿Fue el Frente Oriental la guerra más brutal de la historia?' },
+        desc:  { pt: 'Operação Barbarossa, Stalingrado, 27 milhões de soviéticos mortos — o conflito que realmente decidiu a Segunda Guerra e que o Ocidente frequentemente esquece de compreender em escala.', en: 'Operation Barbarossa, Stalingrad, 27 million Soviet dead — the conflict that truly decided World War II and that the West frequently fails to grasp in scale.', es: 'Operación Barbarroja, Stalingrado, 27 millones de soviéticos muertos — el conflicto que realmente decidió la Segunda Guerra Mundial y que Occidente frecuentemente olvida comprender en escala.' },
+        datasets: ['data/dados-frente-oriental.json','data/dados-nazismo.json','data/dados-segunda-guerra.json'],
+      },
+      {
+        id: 'q-guerra-civil-espanhola',
+        texto: { pt: 'A Guerra Civil Espanhola foi um ensaio da Segunda Guerra?', en: 'Was the Spanish Civil War a rehearsal for World War II?', es: '¿Fue la Guerra Civil Española un ensayo de la Segunda Guerra Mundial?' },
+        desc:  { pt: 'As Brigadas Internacionais, Guernica, Hitler e Stálin testando armas e táticas — como a Espanha de 1936 a 1939 antecipou as alianças, ideologias e métodos que definiriam o conflito global.', en: 'The International Brigades, Guernica, Hitler and Stalin testing weapons and tactics — how Spain from 1936 to 1939 anticipated the alliances, ideologies and methods that would define the global conflict.', es: 'Las Brigadas Internacionales, Guernica, Hitler y Stalin probando armas y tácticas — cómo España de 1936 a 1939 anticipó las alianzas, ideologías y métodos que definirían el conflicto global.' },
+        datasets: ['data/dados-guerra-civil-espanhola.json','data/dados-fascismo-italiano.json','data/dados-nazismo.json'],
+      },
+      {
+        id: 'q-ascensao-hitler',
+        texto: { pt: 'Como Hitler subiu ao poder?', en: 'How did Hitler rise to power?', es: '¿Cómo ascendió Hitler al poder?' },
+        desc:  { pt: 'Do Putsch de Munique de 1923 ao Mein Kampf, da Grande Depressão ao Artigo 48 — a trajetória de um agitador de cervejaria a chanceler da maior potência europeia, e o que as democracias falharam em ver.', en: 'From the 1923 Munich Putsch to Mein Kampf, from the Great Depression to Article 48 — the trajectory from beer-hall agitator to chancellor of Europe\'s greatest power, and what democracies failed to see.', es: 'Del Putsch de Múnich de 1923 al Mein Kampf, de la Gran Depresión al Artículo 48 — la trayectoria de agitador de cervecería a canciller de la mayor potencia europea, y lo que las democracias no supieron ver.' },
+        datasets: ['data/dados-alemanha-ascensao-hitler.json','data/dados-republica-weimar.json','data/dados-nazismo.json','data/dados-tratado-versalhes.json'],
+      },
+      {
+        id: 'q-economia-nazista',
+        texto: { pt: 'O "milagre econômico" nazista foi real?', en: 'Was the Nazi "economic miracle" real?', es: '¿Fue real el "milagro económico" nazi?' },
+        desc:  { pt: 'Do desemprego de 6 milhões ao pleno emprego em quatro anos — como o regime financiou o rearmamento secreto com títulos Mefo, manipulou as estatísticas e construiu uma economia de guerra disfarçada de prosperidade.', en: 'From 6 million unemployed to full employment in four years — how the regime financed secret rearmament with Mefo bills, manipulated statistics and built a war economy disguised as prosperity.', es: 'De 6 millones de desempleados al pleno empleo en cuatro años — cómo el régimen financió el rearme secreto con bonos Mefo, manipuló estadísticas y construyó una economía de guerra disfrazada de prosperidad.' },
+        datasets: ['data/dados-alemanha-economia-nazista.json','data/dados-nazismo.json','data/dados-republica-weimar.json'],
+      },
+      {
+        id: 'q-leis-nazistas',
+        texto: { pt: 'Como as leis nazistas codificaram o ódio?', en: 'How did Nazi laws codify hatred?', es: '¿Cómo codificaron el odio las leyes nazis?' },
+        desc:  { pt: 'As Leis de Nuremberg de 1935 transformaram o antissemitismo em sistema jurídico — mas o Estado nazista também legislou sobre proteção animal e crédito. A lei como instrumento de dominação e de aparência de normalidade.', en: 'The 1935 Nuremberg Laws turned antisemitism into a legal system — but the Nazi state also legislated on animal protection and credit. Law as an instrument of domination and the appearance of normality.', es: 'Las Leyes de Núremberg de 1935 convirtieron el antisemitismo en sistema jurídico — pero el Estado nazi también legisló sobre protección animal y crédito. La ley como instrumento de dominación y apariencia de normalidad.' },
+        datasets: ['data/dados-alemanha-leis-nazistas.json','data/dados-nazismo.json','data/dados-holocaust.json'],
+      },
+    ],
+  },
+
+  // ── EUROPA: PÓS-GUERRA E CONTEMPORÂNEA ──────────────────────────────────────
+  {
+    grupo: { pt: 'Europa Pós-Guerra, Guerra Fria e Presente', en: 'Post-War Europe, Cold War and Present', es: 'Europa de Posguerra, Guerra Fría y Presente' },
+    itens: [
+      {
+        id: 'q-europa-pos-guerra',
+        texto: { pt: 'Como a Europa se reconstruiu depois de 1945?', en: 'How did Europe rebuild after 1945?', es: '¿Cómo se reconstruyó Europa después de 1945?' },
+        desc:  { pt: 'O Plano Marshall, o Wirtschaftswunder alemão, Nuremberg e a desnazificação — as quatro grandes apostas que transformaram o continente mais destruído do mundo na região mais próspera em menos de 30 anos.', en: 'The Marshall Plan, the German Wirtschaftswunder, Nuremberg and denazification — the four great bets that transformed the world\'s most destroyed continent into its most prosperous region in less than 30 years.', es: 'El Plan Marshall, el Wirtschaftswunder alemán, Núremberg y la desnazificación — las cuatro grandes apuestas que transformaron el continente más destruido del mundo en la región más próspera en menos de 30 años.' },
+        datasets: ['data/dados-europa-pos-guerra.json','data/dados-guerra-fria.json','data/dados-uniao-europeia.json'],
+      },
+      {
+        id: 'q-guerra-fria-europa',
+        texto: { pt: 'Como a Cortina de Ferro dividiu a Europa?', en: 'How did the Iron Curtain divide Europe?', es: '¿Cómo dividió el Telón de Acero a Europa?' },
+        desc:  { pt: 'Berlim 1953, Budapeste 1956, Praga 1968, o Muro — a história das revoluções esmagadas pelo Pacto de Varsóvia e da resistência que finalmente abriu o Muro em 1989.', en: 'Berlin 1953, Budapest 1956, Prague 1968, the Wall — the history of revolutions crushed by the Warsaw Pact and the resistance that finally opened the Wall in 1989.', es: 'Berlín 1953, Budapest 1956, Praga 1968, el Muro — la historia de las revoluciones aplastadas por el Pacto de Varsovia y la resistencia que finalmente abrió el Muro en 1989.' },
+        datasets: ['data/dados-guerra-fria-europa.json','data/dados-desintegracao-urss.json','data/dados-europa-pos-guerra.json'],
+      },
+      {
+        id: 'q-1968-europa',
+        texto: { pt: '1968 mudou a Europa?', en: 'Did 1968 change Europe?', es: '¿Cambió 1968 a Europa?' },
+        desc:  { pt: 'Maio de 68 em Paris, a Primavera de Praga, a geração alemã que confrontou os pais — o ano que não fez a revolução política mas desencadeou a revolução cultural do feminismo, da ecologia e da identidade.', en: 'May 68 in Paris, the Prague Spring, the German generation that confronted their parents — the year that didn\'t make the political revolution but unleashed the cultural revolution of feminism, ecology and identity.', es: 'Mayo del 68 en París, la Primavera de Praga, la generación alemana que confrontó a sus padres — el año que no hizo la revolución política pero desencadenó la revolución cultural del feminismo, la ecología y la identidad.' },
+        datasets: ['data/dados-1968-europa.json','data/dados-guerra-fria-europa.json','data/dados-desintegracao-urss.json'],
+      },
+      {
+        id: 'q-urss-fim',
+        texto: { pt: 'Por que a URSS colapsou?', en: 'Why did the USSR collapse?', es: '¿Por qué colapsó la URSS?' },
+        desc:  { pt: 'Gorbachev e a reforma impossível — como a glasnost e a perestroika libertaram forças que o sistema não conseguia conter, e o que o "Fim da História" de 1991 realmente significou.', en: 'Gorbachev and the impossible reform — how glasnost and perestroika unleashed forces the system could not contain, and what the "End of History" of 1991 really meant.', es: 'Gorbachov y la reforma imposible — cómo la glásnost y la perestroika desataron fuerzas que el sistema no podía contener, y qué significó realmente el "Fin de la Historia" de 1991.' },
+        datasets: ['data/dados-desintegracao-urss.json','data/dados-guerra-fria-europa.json','data/dados-balcas-guerras.json'],
+      },
+      {
+        id: 'q-balcas',
+        texto: { pt: 'Por que a Iugoslávia se despedaçou tão violentamente?', en: 'Why did Yugoslavia fall apart so violently?', es: '¿Por qué Yugoslavia se desintegró tan violentamente?' },
+        desc:  { pt: 'Milošević, Srebrenica, a intervenção da NATO — como um país que sobreviveu à Segunda Guerra, ao nazismo e a Stalin se fragmentou nos piores massacres europeus desde 1945.', en: 'Milošević, Srebrenica, the NATO intervention — how a country that survived World War II, Nazism and Stalin fragmented into the worst European massacres since 1945.', es: 'Milošević, Srebrenica, la intervención de la OTAN — cómo un país que sobrevivió a la Segunda Guerra, al nazismo y a Stalin se fragmentó en las peores masacres europeas desde 1945.' },
+        datasets: ['data/dados-balcas-guerras.json','data/dados-desintegracao-urss.json','data/dados-guerra-fria-europa.json'],
+      },
+      {
+        id: 'q-uniao-europeia',
+        texto: { pt: 'A União Europeia é um projeto com futuro?', en: 'Does the European Union have a future?', es: '¿Tiene futuro la Unión Europea?' },
+        desc:  { pt: 'Da CECA ao euro, do alargamento ao Brexit — a história da integração europeia como resposta às guerras do século XX e os desafios que ameaçam o projeto: crise do euro, refugiados, populismo.', en: 'From the ECSC to the euro, from enlargement to Brexit — the history of European integration as a response to the wars of the 20th century and the challenges threatening the project: euro crisis, refugees, populism.', es: 'De la CECA al euro, de la ampliación al Brexit — la historia de la integración europea como respuesta a las guerras del siglo XX y los desafíos que amenazan el proyecto: crisis del euro, refugiados, populismo.' },
+        datasets: ['data/dados-uniao-europeia.json','data/dados-europa-pos-guerra.json','data/dados-europa-contemporanea.json'],
+      },
+      {
+        id: 'q-europa-hoje',
+        texto: { pt: 'A Europa contemporânea enfrenta o fim do seu projeto?', en: 'Is contemporary Europe facing the end of its project?', es: '¿Enfrenta la Europa contemporánea el fin de su proyecto?' },
+        desc:  { pt: 'Crise do euro, Brexit, crise dos refugiados, populismo iliberal — os quatro desafios simultâneos que testam os limites da solidariedade europeia e reabrem questões que se pensava resolvidas.', en: 'Euro crisis, Brexit, refugee crisis, illiberal populism — the four simultaneous challenges testing the limits of European solidarity and reopening questions thought to be settled.', es: 'Crisis del euro, Brexit, crisis de refugiados, populismo iliberal — los cuatro desafíos simultáneos que ponen a prueba los límites de la solidaridad europea y reabren preguntas que se creían resueltas.' },
+        datasets: ['data/dados-europa-contemporanea.json','data/dados-uniao-europeia.json','data/dados-desintegracao-urss.json'],
       },
     ],
   },

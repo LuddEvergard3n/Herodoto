@@ -1,0 +1,202 @@
+{
+  "periodo": "Primavera Árabe (2010–2013 e além)",
+  "entidades": [
+    {
+      "id": "pa-001",
+      "nome": "Mohamed Bouazizi e a Fagulha da Tunísia (dezembro 2010)",
+      "nome_en": "Mohamed Bouazizi and the Tunisian Spark (December 2010)",
+      "nome_es": "Mohamed Bouazizi y la Chispa de Túnez (diciembre 2010)",
+      "tipo": "social",
+      "ano_inicio": 2010,
+      "ano_fim": 2011,
+      "seculo": 21,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "Em 17 de dezembro de 2010, Mohamed Bouazizi, vendedor ambulante de 26 anos na cidade de Sidi Bouzid, ateou fogo a si mesmo em protesto após uma funcionária municipal confiscar sua carroça e humilhá-lo publicamente. Morreu 18 dias depois. O gesto catalisou décadas de frustração acumulada: desemprego estrutural, corrupção generalizada, repressão policial e a humilhação cotidiana de regimes que enriqueciam enquanto a população empobrecia. Era o começo de uma onda que varreria o mundo árabe.",
+      "descricao_en": "On December 17, 2010, Mohamed Bouazizi, a 26-year-old street vendor in Sidi Bouzid, set himself on fire in protest after a municipal official confiscated his cart and humiliated him publicly. He died 18 days later. The gesture catalyzed decades of accumulated frustration: structural unemployment, widespread corruption, police repression and the daily humiliation of regimes that enriched themselves while the population grew poorer. It was the beginning of a wave that would sweep the Arab world.",
+      "descricao_es": "El 17 de diciembre de 2010, Mohamed Bouazizi, vendedor ambulante de 26 años en Sidi Bouzid, se prendió fuego en protesta después de que una funcionaria municipal confiscara su carreta y lo humillara públicamente. Murió 18 días después. El gesto catalizó décadas de frustración acumulada: desempleo estructural, corrupción generalizada, represión policial y la humillación cotidiana de regímenes que se enriquecían mientras la población empobrecía. Era el comienzo de una ola que barría el mundo árabe."
+    },
+    {
+      "id": "pa-002",
+      "nome": "Tunísia: A Única Revolução que Funcionou",
+      "nome_en": "Tunisia: The Only Revolution That Worked",
+      "nome_es": "Túnez: La Única Revolución que Funcionó",
+      "tipo": "political",
+      "ano_inicio": 2010,
+      "ano_fim": 2014,
+      "seculo": 21,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "Ben Ali fugiu para a Arábia Saudita em 14 de janeiro de 2011 após 23 anos no poder — o primeiro ditador árabe a ser derrubado pela Primavera. A Tunísia produziu uma constituição democrática em 2014 (considerada a mais progressista do mundo árabe), incluindo direitos das mulheres e liberdade religiosa. O Quarteto do Diálogo Nacional ganhou o Nobel da Paz em 2015. Mas em 2021, o presidente Kais Saied suspendeu o parlamento e concentrou poderes — a democracia tunisiana enfrentou seu próprio retrocesso autoritário. A Tunísia continua sendo o único caso de transição parcialmente bem-sucedida.",
+      "descricao_en": "Ben Ali fled to Saudi Arabia on January 14, 2011 after 23 years in power — the first Arab dictator toppled by the Spring. Tunisia produced a democratic constitution in 2014 (considered the most progressive in the Arab world), including women's rights and religious freedom. The National Dialogue Quartet won the Nobel Peace Prize in 2015. But in 2021, President Kais Saied suspended parliament and concentrated powers — Tunisian democracy faced its own authoritarian setback. Tunisia remains the only case of partially successful transition.",
+      "descricao_es": "Ben Ali huyó a Arabia Saudita el 14 de enero de 2011 tras 23 años en el poder — el primer dictador árabe derrocado por la Primavera. Túnez produjo una constitución democrática en 2014 (considerada la más progresista del mundo árabe), incluyendo derechos de las mujeres y libertad religiosa. El Cuarteto para el Diálogo Nacional ganó el Nobel de la Paz en 2015. Pero en 2021, el presidente Kais Saied suspendió el parlamento y concentró poderes — la democracia tunecina enfrentó su propio retroceso autoritario. Túnez sigue siendo el único caso de transición parcialmente exitosa."
+    },
+    {
+      "id": "pa-003",
+      "nome": "Egito: A Praça Tahrir e o Fim de Mubarak (janeiro–fevereiro 2011)",
+      "nome_en": "Egypt: Tahrir Square and the Fall of Mubarak (January–February 2011)",
+      "nome_es": "Egipto: La Plaza Tahrir y la Caída de Mubarak (enero–febrero 2011)",
+      "tipo": "political",
+      "ano_inicio": 2011,
+      "ano_fim": 2013,
+      "seculo": 21,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "Milhões de egípcios tomaram a Praça Tahrir no Cairo em 25 de janeiro de 2011. Após 18 dias, Hosni Mubarak — 30 anos no poder, aliado americano fundamental — renunciou. Eleições levaram Mohamed Morsi, dos Irmãos Muçulmanos, à presidência em 2012. Em julho de 2013, o general Al-Sisi deu um golpe militar apoiado por Arábia Saudita, Emirados e tacitamente pelos EUA, massacrou centenas de manifestadores pró-Morsi na Praça Rabaa e prendeu dezenas de milhares. O Egito voltou a ser uma ditadura militar — mais repressiva que a de Mubarak. A revolução durou dois anos.",
+      "descricao_en": "Millions of Egyptians occupied Tahrir Square in Cairo on January 25, 2011. After 18 days, Hosni Mubarak — 30 years in power, fundamental American ally — resigned. Elections brought Mohamed Morsi, of the Muslim Brotherhood, to the presidency in 2012. In July 2013, General Al-Sisi launched a military coup backed by Saudi Arabia, the UAE and tacitly the US, massacred hundreds of pro-Morsi protesters at Rabaa Square and imprisoned tens of thousands. Egypt became a military dictatorship again — more repressive than Mubarak's. The revolution lasted two years.",
+      "descricao_es": "Millones de egipcios ocuparon la Plaza Tahrir en El Cairo el 25 de enero de 2011. Tras 18 días, Hosni Mubarak — 30 años en el poder, aliado americano fundamental — renunció. Las elecciones llevaron a Mohamed Morsi, de los Hermanos Musulmanes, a la presidencia en 2012. En julio de 2013, el general Al-Sisi dio un golpe militar apoyado por Arabia Saudita, Emiratos y tácitamente EE.UU., masacró a cientos de manifestantes pro-Morsi en la Plaza Rabaa y encarceló a decenas de miles. Egipto volvió a ser una dictadura militar — más represiva que la de Mubarak. La revolución duró dos años."
+    },
+    {
+      "id": "pa-004",
+      "nome": "Líbia: A Intervenção da OTAN e o Estado Falido (2011–presente)",
+      "nome_en": "Libya: NATO Intervention and the Failed State (2011–present)",
+      "nome_es": "Libia: La Intervención de la OTAN y el Estado Fallido (2011–presente)",
+      "tipo": "war",
+      "ano_inicio": 2011,
+      "ano_fim": 2024,
+      "seculo": 21,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "A revolta líbia contra Gaddafi (42 anos no poder) levou a uma guerra civil rápida. A OTAN interveio em março de 2011 com a justificativa de proteger civis — e expandiu rapidamente o mandato para apoiar os rebeldes. Gaddafi foi capturado e linchado em outubro de 2011. O que se seguiu foi o colapso completo do Estado: dois governos rivais, dezenas de milícias, tráfico de migrantes africanos como mercado aberto, e a Líbia tornando-se a principal rota de entrada irregular de migrantes na Europa. A intervenção que derrubou um ditador criou um caos que dura até hoje — e tornou outros ditadores resistentes a qualquer negociação.",
+      "descricao_en": "The Libyan uprising against Gaddafi (42 years in power) led to a rapid civil war. NATO intervened in March 2011 with the justification of protecting civilians — and quickly expanded the mandate to support the rebels. Gaddafi was captured and lynched in October 2011. What followed was the complete collapse of the state: two rival governments, dozens of militias, trafficking of African migrants as an open market, and Libya becoming the main irregular entry route for migrants into Europe. The intervention that toppled a dictator created chaos that continues today — and made other dictators resistant to any negotiation.",
+      "descricao_es": "La revuelta libia contra Gadafi (42 años en el poder) llevó a una guerra civil rápida. La OTAN intervino en marzo de 2011 con la justificación de proteger civiles — y expandió rápidamente el mandato para apoyar a los rebeldes. Gadafi fue capturado y linchado en octubre de 2011. Lo que siguió fue el colapso completo del Estado: dos gobiernos rivales, decenas de milicias, tráfico de migrantes africanos como mercado abierto, y Libia convirtiéndose en la principal ruta de entrada irregular de migrantes a Europa. La intervención que derrocó a un dictador creó un caos que dura hasta hoy — y volvió a otros dictadores resistentes a cualquier negociación."
+    },
+    {
+      "id": "pa-005",
+      "nome": "Síria: A Revolução que Virou a Guerra do Século (2011–presente)",
+      "nome_en": "Syria: The Revolution That Became the War of the Century (2011–present)",
+      "nome_es": "Siria: La Revolución que se Convirtió en la Guerra del Siglo (2011–presente)",
+      "tipo": "war",
+      "ano_inicio": 2011,
+      "ano_fim": 2024,
+      "seculo": 21,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "O que começou como protestos pacíficos em Deraa em março de 2011 tornou-se a guerra mais destrutiva do século XXI. Assad respondeu com massacre: armas químicas (Ghouta, 2013, 1.400 mortos), bombardeios de hospitais, cercos que matavam civis por fome. 500.000 mortos. 6,5 milhões de refugiados externos, 6 milhões de deslocados internos — a maior crise de refugiados desde a Segunda Guerra. A Síria tornou-se o campo de batalha de todas as potências: Rússia e Irã pelo Assad, EUA pelos curdos, Turquia contra os curdos, ISIS ocupando um terço do país. A guerra que expôs a impotência total da ordem internacional.",
+      "descricao_en": "What began as peaceful protests in Deraa in March 2011 became the most destructive war of the 21st century. Assad responded with massacre: chemical weapons (Ghouta, 2013, 1,400 dead), bombing of hospitals, sieges killing civilians by starvation. 500,000 dead. 6.5 million external refugees, 6 million internally displaced — the largest refugee crisis since World War II. Syria became the battlefield of all powers: Russia and Iran for Assad, the US for the Kurds, Turkey against the Kurds, ISIS occupying a third of the country. The war that exposed the total impotence of the international order.",
+      "descricao_es": "Lo que comenzó como protestas pacíficas en Deraa en marzo de 2011 se convirtió en la guerra más destructiva del siglo XXI. Assad respondió con masacre: armas químicas (Ghouta, 2013, 1.400 muertos), bombardeos de hospitales, cercos que mataban civiles de hambre. 500.000 muertos. 6,5 millones de refugiados externos, 6 millones de desplazados internos — la mayor crisis de refugiados desde la Segunda Guerra Mundial. Siria se convirtió en el campo de batalla de todas las potencias: Rusia e Irán por Assad, EE.UU. por los kurdos, Turquía contra los kurdos, el ISIS ocupando un tercio del país. La guerra que expuso la total impotencia del orden internacional."
+    },
+    {
+      "id": "pa-006",
+      "nome": "Iêmen: A Guerra Esquecida (2014–presente)",
+      "nome_en": "Yemen: The Forgotten War (2014–present)",
+      "nome_es": "Yemen: La Guerra Olvidada (2014–presente)",
+      "tipo": "war",
+      "ano_inicio": 2014,
+      "ano_fim": 2024,
+      "seculo": 21,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "A Primavera Árabe no Iêmen derrubou Ali Abdullah Saleh em 2012 — mas a transição colapsou. Os Houthis (apoiados pelo Irã) tomaram a capital em 2014. Em 2015, a Arábia Saudita liderou uma coalizão militar que bombardeia o Iêmen desde então com apoio logístico americano e britânico. Resultado: a pior crise humanitária do mundo — 150.000 mortos em combate, 250.000 mortos por fome e doenças, 20 milhões em insegurança alimentar severa. Bombas fabricadas nos EUA e Reino Unido matam civis em mercados e casamentos. O conflito é transmitido ao vivo — e o mundo não presta atenção.",
+      "descricao_en": "The Arab Spring in Yemen toppled Ali Abdullah Saleh in 2012 — but the transition collapsed. The Houthis (backed by Iran) took the capital in 2014. In 2015, Saudi Arabia led a military coalition that has been bombing Yemen since then with American and British logistical support. Result: the world's worst humanitarian crisis — 150,000 combat deaths, 250,000 deaths from famine and disease, 20 million in severe food insecurity. US- and UK-made bombs kill civilians in markets and weddings. The conflict is broadcast live — and the world isn't paying attention.",
+      "descricao_es": "La Primavera Árabe en Yemen derrocó a Ali Abdullah Saleh en 2012 — pero la transición colapsó. Los hutíes (apoyados por Irán) tomaron la capital en 2014. En 2015, Arabia Saudita lideró una coalición militar que bombardea Yemen desde entonces con apoyo logístico americano y británico. Resultado: la peor crisis humanitaria del mundo — 150.000 muertos en combate, 250.000 muertos por hambre y enfermedades, 20 millones en inseguridad alimentaria severa. Bombas fabricadas en EE.UU. y Reino Unido matan civiles en mercados y bodas. El conflicto se transmite en vivo — y el mundo no presta atención."
+    },
+    {
+      "id": "pa-007",
+      "nome": "Bahrein e a Repressão que o Ocidente Ignorou",
+      "nome_en": "Bahrain and the Repression the West Ignored",
+      "nome_es": "Baréin y la Represión que Occidente Ignoró",
+      "tipo": "political",
+      "ano_inicio": 2011,
+      "ano_fim": 2012,
+      "seculo": 21,
+      "continente": "oriente_medio",
+      "importancia": 4,
+      "descricao": "Em fevereiro de 2011, a população xiita do Bahrein (maioria no país) protestou contra a monarquia sunita apoiada pelos EUA — que alberga a 5ª Frota Americana. A Arábia Saudita enviou tropas para esmagar a revolta. Os EUA não disseram nada. A cobertura mediática internacional foi mínima comparada ao Egito ou Líbia. Bahrein expõe a seletividade da resposta ocidental à Primavera Árabe: apoio à mudança onde convém, silêncio onde incomoda. A distinção entre 'ditadores aceitáveis' e 'ditadores inaceitáveis' nunca foi tão explícita.",
+      "descricao_en": "In February 2011, Bahrain's Shia population (the majority in the country) protested against the US-backed Sunni monarchy — which hosts the American 5th Fleet. Saudi Arabia sent troops to crush the uprising. The US said nothing. International media coverage was minimal compared to Egypt or Libya. Bahrain exposes the selectivity of the Western response to the Arab Spring: support for change where convenient, silence where uncomfortable. The distinction between 'acceptable dictators' and 'unacceptable dictators' was never more explicit.",
+      "descricao_es": "En febrero de 2011, la población chiíta de Baréin (mayoría en el país) protestó contra la monarquía sunita apoyada por EE.UU. — que alberga la 5ª Flota Americana. Arabia Saudita envió tropas para aplastar la revuelta. EE.UU. no dijo nada. La cobertura mediática internacional fue mínima comparada con Egipto o Libia. Baréin expone la selectividad de la respuesta occidental a la Primavera Árabe: apoyo al cambio donde conviene, silencio donde incomoda. La distinción entre 'dictadores aceptables' y 'dictadores inaceptables' nunca fue tan explícita."
+    },
+    {
+      "id": "pa-008",
+      "nome": "ISIS: O Monstro que a Primavera Pariu (2013–2019)",
+      "nome_en": "ISIS: The Monster the Spring Bore (2013–2019)",
+      "nome_es": "ISIS: El Monstruo que Parió la Primavera (2013–2019)",
+      "tipo": "social",
+      "ano_inicio": 2013,
+      "ano_fim": 2019,
+      "seculo": 21,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "O Estado Islâmico (ISIS/ISIL/Daesh) emergiu do caos sírio e iraquiano pós-Primavera. Em 2014, proclamou um califado sobre territórios do tamanho da Grã-Bretanha com 8 milhões de pessoas. Escravidão sexual de yazidis, decapitações filmadas e distribuídas globalmente, destruição de patrimônio arqueológico em Palmira, atentados em Paris, Bruxelas, Nice, Berlim. O ISIS foi produto direto da invasão americana do Iraque em 2003 (que destruiu o Estado iraquiano), do vácuo sírio pós-2011, e do rancor sunita pela marginalização após a queda de Saddam. Foi derrotado militarmente em 2019 — mas a ideologia permanece.",
+      "descricao_en": "The Islamic State (ISIS/ISIL/Daesh) emerged from the Syrian and Iraqi chaos following the Spring. In 2014, it proclaimed a caliphate over territories the size of Great Britain with 8 million people. Sexual slavery of Yazidis, decapitations filmed and distributed globally, destruction of archaeological heritage at Palmyra, attacks in Paris, Brussels, Nice, Berlin. ISIS was a direct product of the American invasion of Iraq in 2003 (which destroyed the Iraqi state), the Syrian vacuum post-2011, and Sunni resentment over marginalization after the fall of Saddam. It was militarily defeated in 2019 — but the ideology remains.",
+      "descricao_es": "El Estado Islámico (ISIS/ISIL/Daesh) emergió del caos sirio e iraquí posterior a la Primavera. En 2014, proclamó un califato sobre territorios del tamaño de Gran Bretaña con 8 millones de personas. Esclavitud sexual de yazidíes, decapitaciones filmadas y distribuidas globalmente, destrucción del patrimonio arqueológico en Palmira, atentados en París, Bruselas, Niza, Berlín. El ISIS fue producto directo de la invasión americana de Irak en 2003 (que destruyó el Estado iraquí), del vacío sirio post-2011, y del rencor sunita por la marginación tras la caída de Saddam. Fue derrotado militarmente en 2019 — pero la ideología permanece."
+    },
+    {
+      "id": "pa-009",
+      "nome": "O Legado: Por que a Primavera Falhou — e o que Mudou",
+      "nome_en": "The Legacy: Why the Spring Failed — and What Changed",
+      "nome_es": "El Legado: Por qué la Primavera Fracasó — y qué Cambió",
+      "tipo": "intellectual",
+      "ano_inicio": 2013,
+      "ano_fim": 2024,
+      "seculo": 21,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "A Primavera Árabe derrubou Ben Ali, Mubarak, Gaddafi e Saleh — mas não criou democracias duráveis. Por quê? Quatro hipóteses: (1) Ausência de instituições civis: décadas de ditadura destruíram os partidos, sindicatos e sociedade civil que sustentam democracias; (2) Contrarrevolução financiada: Arábia Saudita e Emirados investiram bilhões para restaurar regimes autoritários; (3) O dilema do vácuo: quem derruba um ditador não sabe o que colocar no lugar; (4) As mídias sociais criaram mobilização sem organização. O que mudou: uma geração árabe perdeu o medo. A consciência de que os regimes são frágeis nunca desapareceu — e se manifesta ciclicamente, no Líbano (2019), Iraque (2019), Sudão (2019), Argélia (2019).",
+      "descricao_en": "The Arab Spring toppled Ben Ali, Mubarak, Gaddafi and Saleh — but did not create lasting democracies. Why? Four hypotheses: (1) Absence of civil institutions: decades of dictatorship destroyed the parties, unions and civil society that sustain democracies; (2) Funded counter-revolution: Saudi Arabia and the UAE invested billions to restore authoritarian regimes; (3) The vacuum dilemma: those who topple a dictator don't know what to put in his place; (4) Social media created mobilization without organization. What changed: an Arab generation lost its fear. The awareness that regimes are fragile never disappeared — and manifests cyclically, in Lebanon (2019), Iraq (2019), Sudan (2019), Algeria (2019).",
+      "descricao_es": "La Primavera Árabe derrocó a Ben Ali, Mubarak, Gadafi y Saleh — pero no creó democracias duraderas. ¿Por qué? Cuatro hipótesis: (1) Ausencia de instituciones civiles: décadas de dictadura destruyeron los partidos, sindicatos y sociedad civil que sostienen las democracias; (2) Contrarrevolución financiada: Arabia Saudita y los Emiratos invirtieron miles de millones para restaurar regímenes autoritarios; (3) El dilema del vacío: quienes derriban a un dictador no saben qué poner en su lugar; (4) Las redes sociales crearon movilización sin organización. Lo que cambió: una generación árabe perdió el miedo. La conciencia de que los regímenes son frágiles nunca desapareció — y se manifiesta cíclicamente, en Líbano (2019), Irak (2019), Sudán (2019), Argelia (2019)."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "pa-001",
+      "destino": "pa-002",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pa-001",
+      "destino": "pa-003",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pa-001",
+      "destino": "pa-004",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pa-001",
+      "destino": "pa-005",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pa-001",
+      "destino": "pa-006",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pa-001",
+      "destino": "pa-007",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pa-003",
+      "destino": "pa-009",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pa-004",
+      "destino": "pa-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pa-005",
+      "destino": "pa-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "pa-005",
+      "destino": "pa-009",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pa-007",
+      "destino": "pa-009",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pa-008",
+      "destino": "pa-009",
+      "tipo": "causal"
+    }
+  ]
+}

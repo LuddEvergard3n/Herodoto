@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Depois do Congresso de Viena, a Itália estava dividida em oito Estados sob influência austríaca. Giuseppe Mazzini fundou a Jovem Itália (1831): república, unidade, independência por insurrição popular. Três fracassos revolucionários (1820, 1831, 1848) provaram que a revolução mazziniana não funcionava sozinha. A questão aberta: unificação liberal-republicana (Mazzini) ou monarquia constitucional (Cavour)?",
-      "importancia": "O Risorgimento foi um fenômeno cultural antes de político: poetas (Leopardi, Foscolo), músicos (Verdi — cujo nome tornou-se acrônimo de 'Vittorio Emanuele Re D'Italia'), pintores criaram uma consciência nacional italiana numa população que, em 1861, 78% não falava italiano padrão."
+      "importancia": "O Risorgimento foi um fenômeno cultural antes de político: poetas (Leopardi, Foscolo), músicos (Verdi — cujo nome tornou-se acrônimo de 'Vittorio Emanuele Re D'Italia'), pintores criaram uma consciência nacional italiana numa população que, em 1861, 78% não falava italiano padrão.",
+      "nome_en": "Risorgimento: The Italian National Awakening (1815–1848)",
+      "nome_es": "Risorgimento: El Despertar Nacional Italiano (1815–1848)"
     },
     {
       "id": "ita-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Camillo Cavour, primeiro-ministro do Piemonte-Sardenha, usou a diplomacia onde Mazzini havia usado a revolução: participação na Guerra da Crimeia (1855) para sentar à mesa das potências; aliança com Napoleão III (Plombières, 1858); guerra contra a Áustria (1859) com apoio francês — Solferino e Magenta. A Lombardia foi cedida ao Piemonte; Nápoles ficou fora do plano.",
-      "importancia": "Cavour é o arquétipo do estadista realista: manipulou Napoleão III, os revolucionários italianos e os Estados menores em direção a um objetivo que nenhum deles poderia alcançar sozinho. Sua frase mais famosa: 'Com que canalhices se faz a política!'"
+      "importancia": "Cavour é o arquétipo do estadista realista: manipulou Napoleão III, os revolucionários italianos e os Estados menores em direção a um objetivo que nenhum deles poderia alcançar sozinho. Sua frase mais famosa: 'Com que canalhices se faz a política!'",
+      "nome_en": "Cavour and Piedmontese Diplomacy (1852–1860)",
+      "nome_es": "Cavour y la Diplomacia del Piamonte (1852–1860)"
     },
     {
       "id": "ita-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Garibaldi embarcou em Quarto (maio 1860) com 1.089 voluntários de camisa vermelha rumo à Sicília. Em três meses, conquistou a Sicília e o Reino das Duas Sicílias (Nápoles). Entregou as conquistas a Vitório Emanuele II do Piemonte e retirou-se para Caprera. Reino da Itália proclamado em março de 1861 — sem Roma (francesa) e sem Veneza (austríaca).",
-      "importancia": "A campanha dos Mil de Garibaldi é um dos grandes feitos militares do século XIX — 1.000 voluntários mal-armados conquistaram um reino de 9 milhões de habitantes em 90 dias. Garibaldi tornou-se herói internacional: seu modelo de guerrilha voluntária inspirou movimentos em toda a América Latina e Europa."
+      "importancia": "A campanha dos Mil de Garibaldi é um dos grandes feitos militares do século XIX — 1.000 voluntários mal-armados conquistaram um reino de 9 milhões de habitantes em 90 dias. Garibaldi tornou-se herói internacional: seu modelo de guerrilha voluntária inspirou movimentos em toda a América Latina e Europa.",
+      "nome_en": "Garibaldi and the Thousand: The Conquest of the South (1860)",
+      "nome_es": "Garibaldi y los Mil: La Conquista del Sur (1860)"
     },
     {
       "id": "ita-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "A Itália unificada ficou sem sua capital natural: Roma era protegida pelas tropas francesas de Napoleão III. Com a derrota francesa em Sedan (1870), as tropas italianas entraram em Roma (20 setembro). O Papa Pio IX recusou-se a reconhecer a perda e condenou o Estado italiano. Tratados de Latrão (1929, Mussolini-Pio XI) reconheceram o Vaticano como Estado independente.",
-      "importancia": "A 'Questão Romana' envenenou as relações entre Igreja e Estado italiano por 60 anos: católicos foram proibidos pelo Papa de votar ou participar na política italiana (non expedit). O conflito foi resolvido pelo fascismo — paradoxo que marcou a relação entre Igreja Católica e democracia na Itália do século XX."
+      "importancia": "A 'Questão Romana' envenenou as relações entre Igreja e Estado italiano por 60 anos: católicos foram proibidos pelo Papa de votar ou participar na política italiana (non expedit). O conflito foi resolvido pelo fascismo — paradoxo que marcou a relação entre Igreja Católica e democracia na Itália do século XX.",
+      "nome_en": "Rome as Capital and the Roman Question (1861–1929)",
+      "nome_es": "Roma Capital y la Cuestión Romana (1861–1929)"
     },
     {
       "id": "ui1",

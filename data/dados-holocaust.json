@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "O antissemitismo moderno combinava o medieval (religioso: 'matadores de Cristo') com o novo: racismo científico (Joseph Arthur de Gobineau, Houston Stewart Chamberlain — 'raças' como entidades biológicas). Pogroms russos (1881-1921: dezenas de milhares mortos). Os Protocolos dos Sábios de Sião (1903: falsificação czarista amplamente divulgada). Caso Dreyfus (1894). Leis de Nuremberg (1935).",
-      "importancia": "O Holocausto não caiu do céu: tinha uma longa pré-história. A distinção entre o antissemitismo europeu 'convencional' e o nazista é que o segundo adicionou a biologia racial ao ódio religioso e social — tornando o extermínio não apenas permissível mas 'necessário' por razões pseudo-científicas."
+      "importancia": "O Holocausto não caiu do céu: tinha uma longa pré-história. A distinção entre o antissemitismo europeu 'convencional' e o nazista é que o segundo adicionou a biologia racial ao ódio religioso e social — tornando o extermínio não apenas permissível mas 'necessário' por razões pseudo-científicas.",
+      "nome_en": "European Antisemitism: From Discrimination to Extermination (19th c.–1941)",
+      "nome_es": "Antisemitismo Europeo: De la Discriminación al Exterminio (s. XIX–1941)"
     },
     {
       "id": "hlc-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Fase 1: concentração — 400.000 judeus no Gueto de Varsóvia (1940), 250.000 em Lodz. Fase 2: fuzilamentos em massa — Einsatzgruppen seguiam a Wehrmacht na URSS; Babi Yar (Kiev, setembro 1941): 33.771 judeus fuzilados em 2 dias — maior massacre único do Holocausto. Até dezembro 1941: 500.000 mortos por fuzilamento.",
-      "importancia": "Os fuzilamentos em massa da fase inicial do Holocausto eram psicologicamente desgastantes para os perpetradores — Himmler desmaiou ao observar uma execução. Esta 'ineficiência psicológica' foi, em parte, o que motivou a transição para as câmaras de gás: uma solução mais 'industrial' e menos visível."
+      "importancia": "Os fuzilamentos em massa da fase inicial do Holocausto eram psicologicamente desgastantes para os perpetradores — Himmler desmaiou ao observar uma execução. Esta 'ineficiência psicológica' foi, em parte, o que motivou a transição para as câmaras de gás: uma solução mais 'industrial' e menos visível.",
+      "nome_en": "The Ghettos and the Einsatzgruppen (1939–1942)",
+      "nome_es": "Los Guetos y las Einsatzgruppen (1939–1942)"
     },
     {
       "id": "hlc-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "Seis campos de extermínio, todos na Polônia ocupada: Auschwitz-Birkenau (1,1 milhão mortos — 90% judeus), Treblinka (900.000), Belzec (500.000), Sobibor (250.000), Chelmno (340.000), Majdanek (60.000+). Sistema industrial: deportação por trem de toda a Europa, seleção na plataforma, câmaras de gás com Zyklon B, crematórios. As deportações continuaram até agosto de 1944.",
-      "importancia": "Auschwitz tornou-se o símbolo máximo do Holocausto e da capacidade humana para o mal burocraticamente organizado. A pergunta de Primo Levi — 'por que alguns sobreviveram e outros não?' — não tem resposta moral satisfatória. A 'zona cinzenta' — os kapos, os Sonderkommandos, os conselhos judaicos — complica qualquer narrativa de vítimas puras."
+      "importancia": "Auschwitz tornou-se o símbolo máximo do Holocausto e da capacidade humana para o mal burocraticamente organizado. A pergunta de Primo Levi — 'por que alguns sobreviveram e outros não?' — não tem resposta moral satisfatória. A 'zona cinzenta' — os kapos, os Sonderkommandos, os conselhos judaicos — complica qualquer narrativa de vítimas puras.",
+      "nome_en": "Auschwitz and the Extermination Camps (1942–1945)",
+      "nome_es": "Auschwitz y los Campos de Exterminio (1942–1945)"
     },
     {
       "id": "hlc-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Julgamentos de Nuremberg (1945-46): estabeleceram o precedente do 'crime contra a humanidade'. Eichmann (Jerusalém, 1961): Hannah Arendt e a 'banalidade do mal'. Reparações da Alemanha a Israel (1952). Criação do Estado de Israel (1948). Dia Internacional em Memória das Vítimas do Holocausto (27 janeiro — libertação de Auschwitz, 1945). Negacionismo como crime em 17 países.",
-      "importancia": "O Holocausto criou a categoria de 'crime contra a humanidade' e o princípio da responsabilidade individual por crimes de Estado — base do Tribunal Penal Internacional. A frase 'Nunca mais' tornou-se o imperativo moral do pós-guerra — mas foi repetidamente violado (Camboja, Ruanda, Bósnia). O 'Nunca mais' permanece aspiração, não realidade."
+      "importancia": "O Holocausto criou a categoria de 'crime contra a humanidade' e o princípio da responsabilidade individual por crimes de Estado — base do Tribunal Penal Internacional. A frase 'Nunca mais' tornou-se o imperativo moral do pós-guerra — mas foi repetidamente violado (Camboja, Ruanda, Bósnia). O 'Nunca mais' permanece aspiração, não realidade.",
+      "nome_en": "Memory, Trials and Legacy (1945–present)",
+      "nome_es": "Memoria, Juicios y Legado (1945–presente)"
     },
     {
       "id": "hlc1",

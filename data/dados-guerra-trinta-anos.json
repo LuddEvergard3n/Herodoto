@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Em maio de 1618, nobres protestantes boêmios atiraram dois governadores católicos habsburgos pela janela do castelo de Praga — os três sobreviveram (católicos diziam que anjos os salvaram; protestantes, que caíram num monte de lixo). A Boêmia elegeu Frederico V do Palatinado como rei. O Imperador Fernando II esmagou a revolta em Montanha Branca (1620): 27 líderes executados, terras confiscadas, protestantismo banido da Boêmia.",
-      "importancia": "A Batalha da Montanha Branca (1620) foi uma das mais consequentes da história europeia: eliminou a aristocracia protestante boêmia, germanizou e recatolicizou a Boêmia, e produziu um trauma nacional tcheco que ressurgiu em 1918, 1938 e 1968."
+      "importancia": "A Batalha da Montanha Branca (1620) foi uma das mais consequentes da história europeia: eliminou a aristocracia protestante boêmia, germanizou e recatolicizou a Boêmia, e produziu um trauma nacional tcheco que ressurgiu em 1918, 1938 e 1968.",
+      "nome_en": "Defenestration of Prague and the Bohemian Phase (1618–1625)",
+      "nome_es": "Defenestración de Praga y la Fase Bohemia (1618–1625)"
     },
     {
       "id": "g30-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Cristiano IV da Dinamarca interveio em defesa dos protestantes — e foi derrotado pelo General Wallenstein. Gustavo Adolfo da Suécia (1630), o 'Leão do Norte', reorganizou a guerra: infantaria móvel, artilharia integrada, cavalaria agressiva. Venceu em Breitenfeld (1631) e Lützen (1632) — mas morreu em Lützen. A Suécia tornou-se potência europeia.",
-      "importancia": "Gustavo Adolfo revolucionou a arte da guerra: seus princípios táticos foram estudados até Napoleão. Sua morte em Lützen durante a batalha que estava vencendo gerou o mito do rei-guerreiro que morre por sua causa — e comprometeu a posição sueca, forçando a intervenção francesa."
+      "importancia": "Gustavo Adolfo revolucionou a arte da guerra: seus princípios táticos foram estudados até Napoleão. Sua morte em Lützen durante a batalha que estava vencendo gerou o mito do rei-guerreiro que morre por sua causa — e comprometeu a posição sueca, forçando a intervenção francesa.",
+      "nome_en": "Danish and Swedish Phases: Gustavus Adolphus (1625–1635)",
+      "nome_es": "Fase Danesa y Sueca: Gustavo Adolfo (1625–1635)"
     },
     {
       "id": "g30-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Richelieu entrou na guerra não por religião mas por razão de Estado — a França católica aliou-se a protestantes suecos e alemães para conter os Habsburgos. O cardeal Mazarino continuou a política. A Alemanha foi palco de batalhas ininterruptas por 30 anos: aldeias destruídas, populações massacradas, epidemias. A Alemanha perdeu entre 25-40% de sua população — regiões devastadas não recuperariam pelo século XVIII.",
-      "importancia": "A devastação alemã na Guerra dos Trinta Anos foi um trauma coletivo que moldou o caráter político alemão por séculos: o medo da guerra civil, a busca de ordem, a desconfiança da instabilidade. Alguns historiadores veem uma linha direta do trauma de 1618-48 até a aceitação do autoritarismo no século XX."
+      "importancia": "A devastação alemã na Guerra dos Trinta Anos foi um trauma coletivo que moldou o caráter político alemão por séculos: o medo da guerra civil, a busca de ordem, a desconfiança da instabilidade. Alguns historiadores veem uma linha direta do trauma de 1618-48 até a aceitação do autoritarismo no século XX.",
+      "nome_en": "French Phase and the Destruction of Germany (1635–1648)",
+      "nome_es": "Fase Francesa y la Destrucción de Alemania (1635–1648)"
     },
     {
       "id": "g30-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "As negociações de paz em Osnabrück e Münster (1644-1648) envolveram 194 entidades políticas — as primeiras negociações diplomáticas multilaterais da história. Resultados: soberania dos Estados, igualdade jurídica entre eles, não-interferência nos assuntos internos, liberdade religiosa moderada, fortalecimento dos príncipes alemães contra o Imperador, reconhecimento da independência holandesa e suíça.",
-      "importancia": "O 'sistema de Vestfália' é o fundamento do direito internacional moderno — citado em todos os tratados de Relações Internacionais. Seus princípios (soberania, não-intervenção) estão na Carta da ONU (1945). A crise atual desta ordem — com intervenções humanitárias e a doutrina da 'responsabilidade de proteger' — é o debate de Vestfália reaberto."
+      "importancia": "O 'sistema de Vestfália' é o fundamento do direito internacional moderno — citado em todos os tratados de Relações Internacionais. Seus princípios (soberania, não-intervenção) estão na Carta da ONU (1945). A crise atual desta ordem — com intervenções humanitárias e a doutrina da 'responsabilidade de proteger' — é o debate de Vestfália reaberto.",
+      "nome_en": "Treaty of Westphalia (1648): The Modern International Order",
+      "nome_es": "Tratado de Westfalia (1648): El Orden Internacional Moderno"
     },
     {
       "id": "gt1",

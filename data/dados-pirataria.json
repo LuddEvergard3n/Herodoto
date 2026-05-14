@@ -1,0 +1,177 @@
+{
+  "periodo": "Pirataria na História: Economia, Política e Resistência",
+  "entidades": [
+    {
+      "id": "pir-001",
+      "nome": "Piratas do Mediterrâneo Antigo: Cilícios e o Jovem Júlio César",
+      "nome_en": "Pirates of the Ancient Mediterranean: Cilicians and the Young Julius Caesar",
+      "nome_es": "Piratas del Mediterráneo Antiguo: Cilicios y el Joven Julio César",
+      "tipo": "social",
+      "ano_inicio": -200,
+      "ano_fim": -67,
+      "seculo": -2,
+      "continente": "europa",
+      "importancia": 4,
+      "descricao": "Os piratas cíliccios (costa sul da atual Turquia) dominaram o Mediterrâneo Oriental entre 150 e 67 a.C., chegando a saquear o porto de Óstia, a 30 km de Roma. Em 75 a.C., o jovem Júlio César foi capturado por piratas — e passou 38 dias refém enquanto Roma pagava o resgate. Libertado, César recrutou tropas, voltou, capturou os piratas e os crucificou — exatamente como havia prometido durante o cativeiro. Pompeu liquidou a pirataria mediterrânea em 67 a.C. com uma campanha de três meses usando 500 navios e 120.000 soldados — o maior esforço naval da história romana.",
+      "descricao_en": "The Cilician pirates (southern coast of present-day Turkey) dominated the Eastern Mediterranean between 150 and 67 BC, even sacking the port of Ostia, 30 km from Rome. In 75 BC, the young Julius Caesar was captured by pirates — and spent 38 days as a hostage while Rome paid the ransom. Freed, Caesar recruited troops, returned, captured the pirates and crucified them — exactly as he had promised during captivity. Pompey liquidated Mediterranean piracy in 67 BC with a three-month campaign using 500 ships and 120,000 soldiers — the largest naval effort in Roman history.",
+      "descricao_es": "Los piratas cilicios (costa sur de la actual Turquía) dominaron el Mediterráneo Oriental entre 150 y 67 a.C., llegando a saquear el puerto de Ostia, a 30 km de Roma. En el 75 a.C., el joven Julio César fue capturado por piratas — y pasó 38 días como rehén mientras Roma pagaba el rescate. Liberado, César reclutó tropas, volvió, capturó a los piratas y los crucificó — exactamente como había prometido durante el cautiverio. Pompeyo liquidó la piratería mediterránea en el 67 a.C. con una campaña de tres meses usando 500 barcos y 120.000 soldados — el mayor esfuerzo naval de la historia romana."
+    },
+    {
+      "id": "pir-002",
+      "nome": "Vikings: A Pirataria como Modelo de Negócio (793–1100)",
+      "nome_en": "Vikings: Piracy as a Business Model (793–1100)",
+      "nome_es": "Vikingos: La Piratería como Modelo de Negocio (793–1100)",
+      "tipo": "economic",
+      "ano_inicio": 793,
+      "ano_fim": 1100,
+      "seculo": 9,
+      "continente": "europa",
+      "importancia": 4,
+      "descricao": "O ataque ao mosteiro de Lindisfarne em 793 inaugurou a era viking — mas a distinção entre pirataria e comércio era fluida. O mesmo nórdico que saqueava Sevilha em 844 podia negociar sedas em Constantinopla no ano seguinte. A pirataria era uma atividade sazonal: nos meses de mar calmo, saques e comércio forçado; no inverno, comércio convencional. Os Danegeld ('ouro dinamarquês') — impostos pagos pelos reinos saxônicos para evitar ataques — foram o maior esquema de proteção da história medieval: a Inglaterra pagou o equivalente a milhões de libras atuais durante 150 anos.",
+      "descricao_en": "The attack on Lindisfarne monastery in 793 inaugurated the Viking age — but the distinction between piracy and trade was fluid. The same Norseman who sacked Seville in 844 might trade silks in Constantinople the following year. Piracy was a seasonal activity: in the months of calm sea, raids and forced trade; in winter, conventional commerce. The Danegeld ('Danish gold') — taxes paid by Saxon kingdoms to avoid attacks — was the largest protection racket in medieval history: England paid the equivalent of millions of current pounds for 150 years.",
+      "descricao_es": "El ataque al monasterio de Lindisfarne en 793 inauguró la era vikinga — pero la distinción entre piratería y comercio era fluida. El mismo nórdico que saqueaba Sevilla en 844 podía negociar sedas en Constantinopla al año siguiente. La piratería era una actividad estacional: en los meses de mar tranquilo, saqueos y comercio forzado; en invierno, comercio convencional. El Danegeld ('oro danés') — impuestos pagados por los reinos sajones para evitar ataques — fue el mayor esquema de protección de la historia medieval: Inglaterra pagó el equivalente a millones de libras actuales durante 150 años."
+    },
+    {
+      "id": "pir-003",
+      "nome": "Os Corsários Berberes e o Mediterrâneo Islâmico (1500–1830)",
+      "nome_en": "The Barbary Corsairs and the Islamic Mediterranean (1500–1830)",
+      "nome_es": "Los Corsarios Berberiscos y el Mediterráneo Islámico (1500–1830)",
+      "tipo": "political",
+      "ano_inicio": 1500,
+      "ano_fim": 1830,
+      "seculo": 16,
+      "continente": "africa",
+      "importancia": 4,
+      "descricao": "Os corsários das cidades-estado do norte da África (Argel, Túnis, Trípoli, Salé) operaram durante 330 anos com patrocínio otomano e local. Capturaram entre 1 e 1,25 milhão de europeus como escravos — incluindo irlandeses, islandeses e americanos. Cervantes, autor do Dom Quixote, foi cativo em Argel por cinco anos (1575–1580). Os EUA travaram suas primeiras guerras externas contra os corsários (Guerras Barbarescas, 1801–1815) — o Marine Corps Hymn menciona 'as margens da Tripoli'. A França invadiu Argel em 1830 para pôr fim às incursões — e ficou por 132 anos.",
+      "descricao_en": "The corsairs of North African city-states (Algiers, Tunis, Tripoli, Salé) operated for 330 years with Ottoman and local patronage. They captured between 1 and 1.25 million Europeans as slaves — including Irish, Icelanders and Americans. Cervantes, author of Don Quixote, was captive in Algiers for five years (1575–1580). The US fought its first foreign wars against the corsairs (Barbary Wars, 1801–1815) — the Marine Corps Hymn mentions 'the shores of Tripoli'. France invaded Algiers in 1830 to end the raids — and stayed for 132 years.",
+      "descricao_es": "Los corsarios de las ciudades-estado del norte de África (Argel, Túnez, Trípoli, Salé) operaron durante 330 años con patrocinio otomano y local. Capturaron entre 1 y 1,25 millones de europeos como esclavos — incluidos irlandeses, islandeses y americanos. Cervantes, autor del Quijote, fue cautivo en Argel durante cinco años (1575–1580). EE.UU. libró sus primeras guerras exteriores contra los corsarios (Guerras de Berbería, 1801–1815) — el himno del Cuerpo de Marines menciona 'las costas de Trípoli'. Francia invadió Argel en 1830 para poner fin a las incursiones — y se quedó 132 años."
+    },
+    {
+      "id": "pir-004",
+      "nome": "A Era de Ouro da Pirataria Caribenha (1650–1730)",
+      "nome_en": "The Golden Age of Caribbean Piracy (1650–1730)",
+      "nome_es": "La Edad de Oro de la Piratería Caribeña (1650–1730)",
+      "tipo": "social",
+      "ano_inicio": 1650,
+      "ano_fim": 1730,
+      "seculo": 17,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "Barba-Negra (Edward Teach), Anne Bonny, Mary Read, Calico Jack, Bartholomew Roberts — os piratas do Caribe não eram como os filmes retratam. A maioria eram marinheiros que desertaram de navios mercantes e de guerra onde eram tratados como escravos. Os navios piratas tinham constituições escritas que regulavam a divisão de presas, direitos de voto, indenizações por ferimento e até aposentadoria — décadas antes das democracias ocidentais. A pirataria caribenha era também resistência ao monopólio colonial: atacavam principalmente navios espanhóis, ingleses e portugueses que carregavam ouro extraído com trabalho escravo.",
+      "descricao_en": "Blackbeard (Edward Teach), Anne Bonny, Mary Read, Calico Jack, Bartholomew Roberts — Caribbean pirates were not like the films portray. Most were sailors who deserted from merchant and war ships where they were treated like slaves. Pirate ships had written constitutions regulating the division of plunder, voting rights, injury compensation and even retirement — decades before Western democracies. Caribbean piracy was also resistance to colonial monopoly: they mainly attacked Spanish, English and Portuguese ships carrying gold extracted with slave labor.",
+      "descricao_es": "Barbanegra (Edward Teach), Anne Bonny, Mary Read, Calico Jack, Bartholomew Roberts — los piratas del Caribe no eran como los retratan las películas. La mayoría eran marineros que desertaron de barcos mercantes y de guerra donde eran tratados como esclavos. Los barcos piratas tenían constituciones escritas que regulaban la división del botín, derechos de voto, indemnizaciones por herida e incluso jubilación — décadas antes de las democracias occidentales. La piratería caribeña era también resistencia al monopolio colonial: atacaban principalmente barcos españoles, ingleses y portugueses que transportaban oro extraído con trabajo esclavo."
+    },
+    {
+      "id": "pir-005",
+      "nome": "Corsários e Piratas: A Linha Tênue entre Crime e Estado",
+      "nome_en": "Corsairs and Pirates: The Thin Line between Crime and State",
+      "nome_es": "Corsarios y Piratas: La Delgada Línea entre Crimen y Estado",
+      "tipo": "political",
+      "ano_inicio": 1500,
+      "ano_fim": 1800,
+      "seculo": 16,
+      "continente": "europa",
+      "importancia": 5,
+      "descricao": "A distinção entre pirata e corsário era uma carta: a Carta de Corso (Letter of Marque) transformava o mesmo ataque em ato de guerra legítimo ou crime capital. Sir Francis Drake era pirata para os espanhóis e herói nacional para a rainha Elizabeth I — que o agraciou com cavalaria após ele pilhar o equivalente a todo o tesouro anual inglês nos domínios espanhóis. Henry Morgan saqueou Panamá em 1671, foi preso, enviado a Londres — e depois nomeado governador da Jamaica. A pirataria patrocinada pelo Estado era instrumento de política externa antes dos exércitos regulares serem baratos o suficiente.",
+      "descricao_en": "The distinction between pirate and corsair was a letter: the Letter of Marque transformed the same attack into a legitimate act of war or a capital crime. Sir Francis Drake was a pirate to the Spanish and a national hero to Queen Elizabeth I — who knighted him after he plundered the equivalent of England's entire annual treasury from Spanish domains. Henry Morgan sacked Panama in 1671, was arrested, sent to London — and then appointed governor of Jamaica. State-sponsored piracy was an instrument of foreign policy before regular armies were cheap enough.",
+      "descricao_es": "La distinción entre pirata y corsario era una carta: la Carta de Corso transformaba el mismo ataque en acto de guerra legítimo o crimen capital. Sir Francis Drake era un pirata para los españoles y un héroe nacional para la reina Isabel I — que lo armó caballero después de que saqueara el equivalente a todo el tesoro anual inglés en los dominios españoles. Henry Morgan saqueó Panamá en 1671, fue arrestado, enviado a Londres — y luego nombrado gobernador de Jamaica. La piratería patrocinada por el Estado era instrumento de política exterior antes de que los ejércitos regulares fueran suficientemente baratos."
+    },
+    {
+      "id": "pir-006",
+      "nome": "A Pirataria no Índico: Madascar e as Rotas do Oriente (1680–1730)",
+      "nome_en": "Piracy in the Indian Ocean: Madagascar and the Eastern Routes (1680–1730)",
+      "nome_es": "La Piratería en el Índico: Madagascar y las Rutas de Oriente (1680–1730)",
+      "tipo": "economic",
+      "ano_inicio": 1680,
+      "ano_fim": 1730,
+      "seculo": 17,
+      "continente": "africa",
+      "importancia": 3,
+      "descricao": "Com o declínio da pirataria caribenha, muitos piratas migraram para o Oceano Índico — a rota mais lucrativa do mundo, carregando especiarias, sedas e tesouros mogóis entre Índia, Arábia e Europa. Madascar tornou-se base pirata por sua posição estratégica e ausência de autoridade colonial. O mítico 'Libertalia' — uma república pirata igualitária em Madascar — foi descrita por Daniel Defoe em 1724 e debatida por historiadores: mito ou realidade? Kidd, Every e Tew operaram nestas águas. A captura do navio Ganj-i-Sawai (1695) pelo pirata Henry Every, carregando peregrinos e ouro mogóis, gerou a primeira caçada internacional a um criminoso da história.",
+      "descricao_en": "With the decline of Caribbean piracy, many pirates migrated to the Indian Ocean — the world's most profitable route, carrying spices, silks and Mughal treasures between India, Arabia and Europe. Madagascar became a pirate base for its strategic position and absence of colonial authority. The mythical 'Libertalia' — an egalitarian pirate republic in Madagascar — was described by Daniel Defoe in 1724 and debated by historians: myth or reality? Kidd, Every and Tew operated in these waters. The capture of the ship Ganj-i-Sawai (1695) by pirate Henry Every, carrying Mughal pilgrims and gold, generated the first international manhunt for a criminal in history.",
+      "descricao_es": "Con el declive de la piratería caribeña, muchos piratas migraron al Océano Índico — la ruta más lucrativa del mundo, transportando especias, sedas y tesoros mogoles entre India, Arabia y Europa. Madagascar se convirtió en base pirata por su posición estratégica y ausencia de autoridad colonial. La mítica 'Libertalia' — una república pirata igualitaria en Madagascar — fue descrita por Daniel Defoe en 1724 y debatida por historiadores: ¿mito o realidad? Kidd, Every y Tew operaron en estas aguas. La captura del barco Ganj-i-Sawai (1695) por el pirata Henry Every, cargado con peregrinos y oro mogoles, generó la primera persecución internacional de un criminal de la historia."
+    },
+    {
+      "id": "pir-007",
+      "nome": "Pirataria Contemporânea: Somália e o Estreito de Malaca",
+      "nome_en": "Contemporary Piracy: Somalia and the Strait of Malacca",
+      "nome_es": "Piratería Contemporánea: Somalia y el Estrecho de Malaca",
+      "tipo": "social",
+      "ano_inicio": 1990,
+      "ano_fim": 2024,
+      "seculo": 20,
+      "continente": "africa",
+      "importancia": 4,
+      "descricao": "A pirataria não desapareceu — mudou de endereço. A Somália, estado falido após o colapso de 1991, viu pescadores locais tornarem-se piratas após navios europeus e asiáticos pescar ilegalmente em suas águas e despejar resíduos tóxicos na costa. Entre 2007 e 2012, piratas somalis capturaram centenas de navios e arrecadaram mais de 400 milhões de dólares em resgates — operando como setor econômico com contabilidade e divisão de lucros. No Estreito de Malaca (entre Indonésia e Malásia) — por onde passa 25% do comércio mundial — pirataria de oportunidade persiste. A pirataria do século XXI levanta a mesma questão da pirataria histórica: o criminoso é o pirata, ou quem tornou o crime a única opção?",
+      "descricao_en": "Piracy did not disappear — it changed address. Somalia, a failed state after the 1991 collapse, saw local fishermen become pirates after European and Asian ships illegally fished in their waters and dumped toxic waste on the coast. Between 2007 and 2012, Somali pirates captured hundreds of ships and collected more than 400 million dollars in ransoms — operating as an economic sector with accounting and profit-sharing. In the Strait of Malacca (between Indonesia and Malaysia) — through which 25% of world trade passes — opportunistic piracy persists. 21st-century piracy raises the same question as historical piracy: is the criminal the pirate, or whoever made crime the only option?",
+      "descricao_es": "La piratería no desapareció — cambió de dirección. Somalia, estado fallido tras el colapso de 1991, vio a pescadores locales convertirse en piratas después de que barcos europeos y asiáticos pescaran ilegalmente en sus aguas y vertieran residuos tóxicos en la costa. Entre 2007 y 2012, piratas somalíes capturaron cientos de barcos y recaudaron más de 400 millones de dólares en rescates — operando como sector económico con contabilidad y división de beneficios. En el Estrecho de Malaca (entre Indonesia y Malasia) — por el que pasa el 25% del comercio mundial — persiste la piratería oportunista. La piratería del siglo XXI plantea la misma pregunta que la piratería histórica: ¿el criminal es el pirata, o quien hizo del crimen la única opción?"
+    },
+    {
+      "id": "pir-008",
+      "nome": "A Pirataria como Fenômeno Histórico: Resistência, Economia e Mito",
+      "nome_en": "Piracy as a Historical Phenomenon: Resistance, Economy and Myth",
+      "nome_es": "La Piratería como Fenómeno Histórico: Resistencia, Economía y Mito",
+      "tipo": "intellectual",
+      "ano_inicio": -200,
+      "ano_fim": 2024,
+      "seculo": -2,
+      "continente": "global",
+      "importancia": 4,
+      "descricao": "A pirataria persiste há 2.500 anos porque responde a condições estruturais permanentes: monopólios comerciais que excluem os pobres, Estados fracos incapazes de policiamento marítimo, e o mar como espaço historicamente fora da lei. O historiador Marcus Rediker mostrou que os piratas do século XVIII eram frequentemente ex-escravos, marinheiros explorados e desertores — e que seus navios democráticos eram utopias de curta duração numa época de absolutismo. Daniel Defoe os imortalizou. Hollywood os romantizou. A questão permanece: a pirataria é crime, resistência, ou simplesmente a versão marítima do capitalismo — tomar pela força o que o sistema distribui injustamente?",
+      "descricao_en": "Piracy has persisted for 2,500 years because it responds to permanent structural conditions: commercial monopolies that exclude the poor, weak states unable to police the seas, and the ocean as a historically lawless space. Historian Marcus Rediker showed that 18th-century pirates were often ex-slaves, exploited sailors and deserters — and that their democratic ships were short-lived utopias in an age of absolutism. Daniel Defoe immortalized them. Hollywood romanticized them. The question remains: is piracy crime, resistance, or simply the maritime version of capitalism — taking by force what the system distributes unjustly?",
+      "descricao_es": "La piratería persiste desde hace 2.500 años porque responde a condiciones estructurales permanentes: monopolios comerciales que excluyen a los pobres, Estados débiles incapaces de vigilar el mar, y el océano como espacio históricamente al margen de la ley. El historiador Marcus Rediker mostró que los piratas del siglo XVIII eran frecuentemente ex-esclavos, marineros explotados y desertores — y que sus barcos democráticos eran utopías de corta duración en una época de absolutismo. Daniel Defoe los inmortalizó. Hollywood los romantizó. La pregunta permanece: ¿la piratería es crimen, resistencia, o simplemente la versión marítima del capitalismo — tomar por la fuerza lo que el sistema distribuye injustamente?"
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "pir-001",
+      "destino": "pir-008",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pir-002",
+      "destino": "pir-005",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pir-003",
+      "destino": "pir-005",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pir-004",
+      "destino": "pir-005",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pir-004",
+      "destino": "pir-006",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "pir-004",
+      "destino": "pir-008",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pir-005",
+      "destino": "pir-008",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pir-006",
+      "destino": "pir-007",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pir-007",
+      "destino": "pir-008",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "pir-003",
+      "destino": "pir-008",
+      "tipo": "tematica"
+    }
+  ]
+}

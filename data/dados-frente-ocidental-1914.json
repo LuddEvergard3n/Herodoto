@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "O Plano Schlieffen previu uma guerra em dois fronts: esmagamento rápido da França pelo Oeste (via Bélgica neutra) antes de virar contra a Rússia lenta. Funcionou parcialmente: Bélgica invadida em 4 de agosto, forçando entrada britânica. O avanço alemão chegou a 40 km de Paris — antes de ser detido no Marne (setembro 1914). A guerra de movimento acabou; começou a guerra de posição.",
-      "importancia": "A violação da neutralidade belga foi o maior erro estratégico alemão: transformou uma guerra continental numa guerra mundial ao trazer a Grã-Bretanha. Sem a entrada britânica, a Alemanha teria provavelmente vencido rapidamente. Com ela, o bloqueio naval britânico estrangulou a Alemanha ao longo de quatro anos."
+      "importancia": "A violação da neutralidade belga foi o maior erro estratégico alemão: transformou uma guerra continental numa guerra mundial ao trazer a Grã-Bretanha. Sem a entrada britânica, a Alemanha teria provavelmente vencido rapidamente. Com ela, o bloqueio naval britânico estrangulou a Alemanha ao longo de quatro anos.",
+      "nome_en": "The Schlieffen Plan and the War of Movement (August–September 1914)",
+      "nome_es": "El Plan Schlieffen y la Guerra de Movimiento (agosto–septiembre 1914)"
     },
     {
       "id": "foc-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "700 km de trincheiras do Canal da Mancha à Suíça. Verdun (fevereiro–dezembro 1916): 300.000 mortos num campo de 12 km² — maior batalha da história pelo tempo e concentração. O Somme (julho–novembro 1916): 60.000 baixas britânicas no primeiro dia (1 de julho) — o dia mais sanguinário da história militar britânica. Ao todo: 1.100.000 baixas no Somme.",
-      "importancia": "Verdun e o Somme criaram o trauma coletivo que moldou o século XX europeu: a convicção de que nenhum objetivo político vale tal custo humano. O pacifismo britânico dos anos 30, a política de apaziguamento de Chamberlain frente a Hitler, vinham diretamente de 1916 — não de covardia, mas da memória das trincheiras."
+      "importancia": "Verdun e o Somme criaram o trauma coletivo que moldou o século XX europeu: a convicção de que nenhum objetivo político vale tal custo humano. O pacifismo britânico dos anos 30, a política de apaziguamento de Chamberlain frente a Hitler, vinham diretamente de 1916 — não de covardia, mas da memória das trincheiras.",
+      "nome_en": "Trench Warfare: Verdun and the Somme (1915–1916)",
+      "nome_es": "La Guerra de Trincheras: Verdún y el Somme (1915–1916)"
     },
     {
       "id": "foc-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "A Primeira Guerra foi o laboratório da guerra industrial moderna: gás venenoso (cloro: Ypres, abril 1915; gás mostarda: 1917 — 1 milhão de vítimas). Tanques (britânicos, setembro 1916 no Somme). Artilharia como arma dominante (60% das baixas). Aviação de combate (dogfights, bombardeios). Submarinos (U-boats: afundaram 11 milhões de toneladas de navios). Rádio e comunicações.",
-      "importancia": "A Primeira Guerra foi a primeira guerra industrial total: fábricas, trens, química e engenharia elétrica tornaram-se tão importantes quanto o valor militar. Paradoxo: as mesmas inovações tecnológicas que prometiam 'civilização' — aço, química, energia elétrica — foram transformadas nas armas mais mortíferas da história."
+      "importancia": "A Primeira Guerra foi a primeira guerra industrial total: fábricas, trens, química e engenharia elétrica tornaram-se tão importantes quanto o valor militar. Paradoxo: as mesmas inovações tecnológicas que prometiam 'civilização' — aço, química, energia elétrica — foram transformadas nas armas mais mortíferas da história.",
+      "nome_en": "New Weapons: Gas, Tanks and Modern Warfare (1915–1918)",
+      "nome_es": "Nuevas Armas: Gas, Tanques y la Guerra Moderna (1915–1918)"
     },
     {
       "id": "foc-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "A Ofensiva de Primavera (março-julho 1918): Ludendorff apostou tudo numa última ofensiva antes da chegada americana. Avançou 60 km — depois parou. A contra-ofensiva aliada (Cem Dias, agosto–novembro) desfez as posições alemãs. Greve geral na Alemanha, revoltas navais (Kiel), abdicação de Guilherme II. Armistício em 11 de novembro de 1918, às 11h — 1.500 mortos nas últimas 6 horas.",
-      "importancia": "A Alemanha não foi militarmente derrotada em seu território — o exército recuou em ordem. Isto alimentou a 'lenda da punhalada pelas costas' (Dolchstoßlegende): a Alemanha havia sido traída internamente pelos judeus e socialistas, não derrotada no campo. Hitler acreditou nisso — e construiu o nazismo sobre esta ficção."
+      "importancia": "A Alemanha não foi militarmente derrotada em seu território — o exército recuou em ordem. Isto alimentou a 'lenda da punhalada pelas costas' (Dolchstoßlegende): a Alemanha havia sido traída internamente pelos judeus e socialistas, não derrotada no campo. Hitler acreditou nisso — e construiu o nazismo sobre esta ficção.",
+      "nome_en": "1918: Collapse and Armistice",
+      "nome_es": "1918: Colapso y Armisticio"
     },
     {
       "id": "fo1",

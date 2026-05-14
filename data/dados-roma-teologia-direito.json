@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "As XII Tábuas (c.450 a.C.) foram a primeira codificação escrita do direito romano — resposta plebeana às arbitrariedades dos patrícios que aplicavam a lei oral. Codificaram direito de família, propriedade, delitos, contratos. O ius gentium (direito das nações) regulava relações com estrangeiros — precursor do direito internacional.",
-      "importancia": "O direito romano foi o maior legado de Roma à civilização ocidental — mais duradouro que o latim ou a engenharia. Os princípios de presunção de inocência, contraditório, distinção entre direito público e privado foram transmitidos através do Corpus Iuris Civilis e fundamentam os sistemas jurídicos europeus até hoje."
+      "importancia": "O direito romano foi o maior legado de Roma à civilização ocidental — mais duradouro que o latim ou a engenharia. Os princípios de presunção de inocência, contraditório, distinção entre direito público e privado foram transmitidos através do Corpus Iuris Civilis e fundamentam os sistemas jurídicos europeus até hoje.",
+      "nome_en": "The Twelve Tables and Republican Law (450 BC)",
+      "nome_es": "Las XII Tablas y el Derecho Republicano (450 a.C.)"
     },
     {
       "id": "rdir-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "O Imperador Justiniano I ordenou a compilação de todo o direito romano em quatro obras: Instituta (manual), Digesta (textos dos juristas clássicos), Codex (leis imperiais), Novellae (novas leis). Obra de Triboniano e comissão de juristas — 1 milhão de palavras. Redescoberto em Bolonha no séc. XI, tornou-se a base do ensino jurídico europeu.",
-      "importancia": "O Corpus Iuris Civilis foi o DNA jurídico da Europa continental. Todos os sistemas de direito civil (Romano-Germânico) — França, Alemanha, Espanha, Portugal, Brasil — descendem diretamente dele. O common law inglês é a grande exceção, mas mesmo ele absorveu muitos princípios romanos."
+      "importancia": "O Corpus Iuris Civilis foi o DNA jurídico da Europa continental. Todos os sistemas de direito civil (Romano-Germânico) — França, Alemanha, Espanha, Portugal, Brasil — descendem diretamente dele. O common law inglês é a grande exceção, mas mesmo ele absorveu muitos princípios romanos.",
+      "nome_en": "Justinian's Corpus Iuris Civilis (529–534)",
+      "nome_es": "Corpus Iuris Civilis de Justiniano (529–534)"
     },
     {
       "id": "rdir-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.75,
       "descricao": "O período clássico da jurisprudência romana (sécs. I-III d.C.) produziu os grandes juristas: Gaio (Institutiones — base do ensino jurídico), Papiniano (considerado o maior de todos), Ulpiano (prolífico, 80% do Digesta), Paulo. Eles criaram conceitos fundamentais: bona fides, dolus, actio, exceptio, persona.",
-      "importancia": "A distinção romana entre direito público (Estado) e privado (particulares), entre jus strictum e aequitas, entre propriedade e posse — são as ferramentas com que o mundo jurídico ocidental ainda opera. O conceito de 'pessoa jurídica' (universitas) é invenção romana."
+      "importancia": "A distinção romana entre direito público (Estado) e privado (particulares), entre jus strictum e aequitas, entre propriedade e posse — são as ferramentas com que o mundo jurídico ocidental ainda opera. O conceito de 'pessoa jurídica' (universitas) é invenção romana.",
+      "nome_en": "Roman Jurists: Gaius, Ulpian, Papinian",
+      "nome_es": "Juristas Romanos: Gayo, Ulpiano, Papiniano"
     },
     {
       "id": "rdir-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "A redescoberta do Digesta em Bolonha (c.1070) desencadeou a revolução jurídica medieval: Irnerius e os Glosadores comentaram o texto romano. Universidades de Bolonha, Paris, Oxford formaram juristas. O direito canônico da Igreja incorporou o romano. O Code Napoléon (1804) sistematizou-o para a modernidade e se espalhou por toda a Europa.",
-      "importancia": "Quando Napoleão disse que seu maior legado era o Code Civil, reconhecia que estava transmitindo Roma ao mundo moderno. O Code Napoléon foi adotado ou influenciou diretamente os códigos civis de mais de 60 países — incluindo o Brasil de 1916 e 2002."
+      "importancia": "Quando Napoleão disse que seu maior legado era o Code Civil, reconhecia que estava transmitindo Roma ao mundo moderno. O Code Napoléon foi adotado ou influenciou diretamente os códigos civis de mais de 60 países — incluindo o Brasil de 1916 e 2002.",
+      "nome_en": "Roman Legal Legacy in Modern Europe",
+      "nome_es": "Legado Jurídico Romano en la Europa Moderna"
     },
     {
       "id": "rtd1",

@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "O Nacional-Socialismo combinava três ideias centrais: 1. Racismo biológico: hierarquia de raças, 'arianos' no topo, judeus como 'anti-raça' parasitária. 2. Lebensraum (espaço vital): a Alemanha precisava conquistar o Leste eslavo para colonização. 3. Führerprinzip: o Líder encarna a vontade do povo, acima das leis. O Mein Kampf (1925) enunciou tudo isso com clareza total — e foi ignorado como fantasia.",
-      "importancia": "O nazismo não era uma forma extrema de conservadorismo — era uma ideologia radicalmente nova que combinava modernidade tecnológica com primitivismo racial. Sua peculiaridade: prometia ser ao mesmo tempo revolucionário (contra a 'plutocracia judaica') e restaurador (contra a 'decadência de Weimar'). A promessa impossível que resolvia todas as tensões."
+      "importancia": "O nazismo não era uma forma extrema de conservadorismo — era uma ideologia radicalmente nova que combinava modernidade tecnológica com primitivismo racial. Sua peculiaridade: prometia ser ao mesmo tempo revolucionário (contra a 'plutocracia judaica') e restaurador (contra a 'decadência de Weimar'). A promessa impossível que resolvia todas as tensões.",
+      "nome_en": "Nazi Ideology: Race, Living Space and Leadership",
+      "nome_es": "La Ideología Nazi: Raza, Espacio Vital y Liderazgo"
     },
     {
       "id": "naz-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Hitler consolidou o poder após a morte de Hindenburg (1934): tornou-se Führer. SS (Himmler) e Gestapo construíram o Estado de terror: primeiros campos de concentração (Dachau, 1933 — para opositores políticos). Goebbels controlava toda a mídia. Leis de Nuremberg (1935): judeus privados da cidadania. Olimpíadas de Berlim (1936) — fachada de normalidade. Noite dos Cristais (novembro 1938).",
-      "importancia": "O Estado Nazi foi o estudo de caso mais estudado de totalitarismo moderno. Hannah Arendt (As Origens do Totalitarismo, 1951) e Hannah Arendt (A Banalidade do Mal, 1963) analisaram como pessoas comuns perpetraram crimes extraordinários seguindo ordens em burocracias funcionais."
+      "importancia": "O Estado Nazi foi o estudo de caso mais estudado de totalitarismo moderno. Hannah Arendt (As Origens do Totalitarismo, 1951) e Hannah Arendt (A Banalidade do Mal, 1963) analisaram como pessoas comuns perpetraram crimes extraordinários seguindo ordens em burocracias funcionais.",
+      "nome_en": "The Nazi State: Terror, Propaganda and Conformity (1933–1939)",
+      "nome_es": "El Estado Nazi: Terror, Propaganda y Conformidad (1933–1939)"
     },
     {
       "id": "naz-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "A decisão de exterminar sistematicamente os judeus europeus foi tomada por etapas: Einsatzgruppen na URSS (1941) mataram 1,5 milhões por fuzilamento. Conferência de Wannsee (janeiro 1942): coordenação burocrática da 'Solução Final'. Campos de extermínio (Auschwitz-Birkenau, Treblinka, Sobibor, Belzec, Chelmno, Majdanek): câmaras de gás industriais. 6 milhões de judeus mortos — 2/3 dos judeus europeus.",
-      "importancia": "O Holocausto foi único na história: o único caso de genocídio industrial sistemático, organizado pelo Estado como projeto nacional, levado a cabo com precisão burocrática. Não foi uma explosão de ódio — foi planejado, orçado e executado enquanto a Alemanha perdia a guerra. A pergunta 'como foi possível?' permanece central para compreender a natureza humana."
+      "importancia": "O Holocausto foi único na história: o único caso de genocídio industrial sistemático, organizado pelo Estado como projeto nacional, levado a cabo com precisão burocrática. Não foi uma explosão de ódio — foi planejado, orçado e executado enquanto a Alemanha perdia a guerra. A pergunta 'como foi possível?' permanece central para compreender a natureza humana.",
+      "nome_en": "The Final Solution: The Holocaust (1941–1945)",
+      "nome_es": "La Solución Final: El Holocausto (1941–1945)"
     },
     {
       "id": "naz-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Hitler testou a resolução ocidental progressivamente: Remilitarização da Renânia (1936 — sem resistência), Anschluss da Áustria (março 1938 — sem resistência), Conferência de Munique (setembro 1938): Chamberlain e Daladier entregaram os Sudetos em troca de 'paz para o nosso tempo'. Ocupação da Tchecoslováquia (março 1939 — quebra de promessa). Pacto Molotov-Ribbentrop (agosto 1939). Invasão da Polônia: guerra.",
-      "importancia": "Munique tornou-se sinônimo de 'apaziguamento': ceder a um agressor aumenta seu apetite. Mas a política de Chamberlain não era ingenuidade — era o cálculo racional de uma Grã-Bretanha não-rearmada, com a memória de 1916. O erro foi não rearmar mais rápido, não tentar a paz."
+      "importancia": "Munique tornou-se sinônimo de 'apaziguamento': ceder a um agressor aumenta seu apetite. Mas a política de Chamberlain não era ingenuidade — era o cálculo racional de uma Grã-Bretanha não-rearmada, com a memória de 1916. O erro foi não rearmar mais rápido, não tentar a paz.",
+      "nome_en": "Nazi Expansion: From Austria to Prague (1936–1939)",
+      "nome_es": "La Expansión Nazi: De Austria a Praga (1936–1939)"
     },
     {
       "id": "naz1",

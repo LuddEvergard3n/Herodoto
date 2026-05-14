@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "Mikhail Gorbachev assumiu em 1985 com dois programas: Glasnost (transparência — liberdade de imprensa e crítica) e Perestroika (reestruturação econômica). O problema: a abertura política acelerou as demandas que a reestruturação econômica não conseguia satisfazer. Chernobyl (1986): o acidente nuclear e a cobertura da imprensa livre demonstraram simultaneamente a incompetência soviética e o valor da glasnost.",
-      "importancia": "Gorbachev queria reformar o comunismo, não acabar com ele. Mas descobriu o que Lenin havia entendido ao contrário: não se pode democratizar parcialmente um sistema totalitário — ou você vai até o fim ou o sistema colapsa. Gorbachev foi o mais corajoso e o mais trágico dos líderes soviéticos."
+      "importancia": "Gorbachev queria reformar o comunismo, não acabar com ele. Mas descobriu o que Lenin havia entendido ao contrário: não se pode democratizar parcialmente um sistema totalitário — ou você vai até o fim ou o sistema colapsa. Gorbachev foi o mais corajoso e o mais trágico dos líderes soviéticos.",
+      "nome_en": "Gorbachev: Glasnost, Perestroika and the Impossible Reform (1985–1989)",
+      "nome_es": "Gorbachov: Glásnost, Perestroika y la Reforma Imposible (1985–1989)"
     },
     {
       "id": "urss-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "Em 1989, os regimes comunistas da Europa Oriental colapsaram em meses: Polônia (eleições livres, junho), Hungria (abertura da fronteira com a Áustria, maio — 13.000 alemães orientais fugiram), RDA (Muro caído, novembro), Tchecoslováquia (Revolução de Veludo, novembro — Václav Havel presidente), Bulgária, Romênia (Ceaușescu fuzilado, dezembro). Sem intervenção soviética.",
-      "importancia": "1989 foi o único ano da história em que uma série de revoluções simultâneas triunfou quase sem violência. O paradoxo: quanto mais o sistema havia aberto (Hungria, Tchecoslováquia), mais pacífica foi a transição; onde mais resistiu (Romênia), houve sangue. A violência foi proporcional à resistência do regime."
+      "importancia": "1989 foi o único ano da história em que uma série de revoluções simultâneas triunfou quase sem violência. O paradoxo: quanto mais o sistema havia aberto (Hungria, Tchecoslováquia), mais pacífica foi a transição; onde mais resistiu (Romênia), houve sangue. A violência foi proporcional à resistência do regime.",
+      "nome_en": "1989: The Miraculous Year",
+      "nome_es": "1989: El Año Milagroso"
     },
     {
       "id": "urss-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Em agosto de 1991, conservadores do Partido tentaram um golpe para salvar a URSS: colocaram Gorbachev em prisão doméstica na Crimeia. Boris Ieltsin resistiu no Parlamento russo. O golpe fracassou em 3 dias. Mas acelerou o colapso: as repúblicas soviéticas declararam independência em cascata. Em 25 de dezembro de 1991, Gorbachev renunciou. A bandeira soviética desceu sobre o Kremlin pela última vez.",
-      "importancia": "O fim da URSS não foi conquistado do exterior — foi uma implosão interna. Os EUA e a NATO não 'venceram' a Guerra Fria no sentido de derrotar militarmente a URSS: ela colapsou sob o peso de suas próprias contradições econômicas, nacionais e políticas. Esta distinção é importante para compreender o ressentimento russo que alimenta Putin."
+      "importancia": "O fim da URSS não foi conquistado do exterior — foi uma implosão interna. Os EUA e a NATO não 'venceram' a Guerra Fria no sentido de derrotar militarmente a URSS: ela colapsou sob o peso de suas próprias contradições econômicas, nacionais e políticas. Esta distinção é importante para compreender o ressentimento russo que alimenta Putin.",
+      "nome_en": "The August Coup and the End of the USSR (1991)",
+      "nome_es": "El Golpe de Agosto y el Fin de la URSS (1991)"
     },
     {
       "id": "urss-004",
@@ -43,7 +49,9 @@
       "regiao": "Global",
       "peso": 0.85,
       "descricao": "Francis Fukuyama declarou o 'Fim da História' (1992): a vitória da democracia liberal e do capitalismo era irreversível. A NATO expandiu-se para o Leste: Polônia, Hungria, República Checa (1999), países bálticos (2004). Boris Ieltsin entregou o poder a Vladimir Putin em 31 de dezembro de 1999. A Rússia percorreu o caminho da democracia liberal ao autoritarismo nacionalista em menos de 15 anos.",
-      "importancia": "O 'Fim da História' durou exatamente 9 anos: a invasão russa da Geórgia (2008) sinalizou o fim da ilusão. A invasão da Ucrânia (2022) encerrou definitivamente a era pós-Guerra Fria. A história não terminou — apenas fez uma pausa."
+      "importancia": "O 'Fim da História' durou exatamente 9 anos: a invasão russa da Geórgia (2008) sinalizou o fim da ilusão. A invasão da Ucrânia (2022) encerrou definitivamente a era pós-Guerra Fria. A história não terminou — apenas fez uma pausa.",
+      "nome_en": "The Post-1991 World: 'End of History' and Its Refutations",
+      "nome_es": "El Mundo Post-1991: 'Fin de la Historia' y sus Desmentidos"
     },
     {
       "id": "du1",

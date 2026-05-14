@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "A Reforma de Lutero desencadeou expectativas radicais entre os camponeses: os 'Doze Artigos' de Memmingen (1525) pediam fim da servidão, escolha de pastores, redução de dízimos. Lutero inicialmente simpático, depois condenou a revolta — 'Contra as hordas assassinas dos camponeses'. Mais de 100.000 camponeses mortos. Thomas Müntzer, líder radical, executado.",
-      "importancia": "A resposta de Lutero à Guerra dos Camponeses definiu o caráter político do Luteranismo: reforma da Igreja, não da ordem social. A Reforma Radical — Anabatistas, Thomas Müntzer — foi esmagada. Este momento explica por que a Reforma luterana foi conservadora social e politicamente, aliando-se aos príncipes contra o povo."
+      "importancia": "A resposta de Lutero à Guerra dos Camponeses definiu o caráter político do Luteranismo: reforma da Igreja, não da ordem social. A Reforma Radical — Anabatistas, Thomas Müntzer — foi esmagada. Este momento explica por que a Reforma luterana foi conservadora social e politicamente, aliando-se aos príncipes contra o povo.",
+      "nome_en": "German Peasants' War (1524–1525)",
+      "nome_es": "Guerra de los Campesinos Alemanes (1524–1525)"
     },
     {
       "id": "gr-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Oito guerras civis em 36 anos destruíram a França: Massacre de Vassy (1562, início), Massacre de São Bartolomeu (1572 — 10.000+ mortos), Liga Católica vs. Huguenotes. Henrique III assassinado. Henrique de Navarra tornou-se Henrique IV após abjurar o protestantismo ('Paris bem vale uma missa'). Édito de Nantes (1598): coexistência.",
-      "importancia": "As guerras de religião francesas esgotaram a nação — e produziram pensadores políticos cruciais: Jean Bodin (soberania absoluta), Michel de Montaigne (ceticismo relativista), os Politiques (a razão de Estado acima da fé). Estas ideias foram precursoras do Estado laico e da tolerância religiosa como princípio político."
+      "importancia": "As guerras de religião francesas esgotaram a nação — e produziram pensadores políticos cruciais: Jean Bodin (soberania absoluta), Michel de Montaigne (ceticismo relativista), os Politiques (a razão de Estado acima da fé). Estas ideias foram precursoras do Estado laico e da tolerância religiosa como princípio político.",
+      "nome_en": "Wars of Religion in France (1562–1598)",
+      "nome_es": "Guerras de Religión en Francia (1562–1598)"
     },
     {
       "id": "gr-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Os Países Baixos calvinistas se rebelaram contra Felipe II da Espanha (católico, absoluto). Guilherme de Orange liderou a resistência. As Províncias Unidas (norte) tornaram-se independentes de facto; o sul (Bélgica atual) permaneceu espanhol. O Tratado de Vestfália (1648) reconheceu a independência holandesa após 80 anos de guerra.",
-      "importancia": "A República das Províncias Unidas foi o primeiro Estado moderno dominado por uma burguesia comercial: tolerância religiosa relativa, imprensa livre, banco central, bolsa de valores. O século XVII holandês é o laboratório do capitalismo moderno — e o refúgio de Descartes, Spinoza, Locke e Bayle."
+      "importancia": "A República das Províncias Unidas foi o primeiro Estado moderno dominado por uma burguesia comercial: tolerância religiosa relativa, imprensa livre, banco central, bolsa de valores. O século XVII holandês é o laboratório do capitalismo moderno — e o refúgio de Descartes, Spinoza, Locke e Bayle.",
+      "nome_en": "Dutch Revolt (1568–1648)",
+      "nome_es": "Revuelta de los Países Bajos (1568–1648)"
     },
     {
       "id": "gr-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "Última e mais destrutiva das guerras de religião europeias. Começou como conflito confessional na Boêmia (Defenestração de Praga, 1618), tornou-se guerra geopolítica. Fases: boêmia, dinamarquesa, sueca, francesa. A Alemanha perdeu 25-40% da população. O Tratado de Vestfália (1648) encerrou a guerra e criou o sistema de Estados soberanos.",
-      "importancia": "O Tratado de Vestfália é o certidão de nascimento do sistema internacional moderno: soberania estatal, não-interferência nos assuntos internos, equilíbrio de poder. O princípio cuius regio eius religio foi abandonado — cada príncipe não mais impunha sua fé aos súditos. O secularismo político nasceu do esgotamento religioso."
+      "importancia": "O Tratado de Vestfália é o certidão de nascimento do sistema internacional moderno: soberania estatal, não-interferência nos assuntos internos, equilíbrio de poder. O princípio cuius regio eius religio foi abandonado — cada príncipe não mais impunha sua fé aos súditos. O secularismo político nasceu do esgotamento religioso.",
+      "nome_en": "Thirty Years' War (1618–1648)",
+      "nome_es": "Guerra de los Treinta Años (1618–1648)"
     },
     {
       "id": "gr1",

@@ -1,0 +1,172 @@
+{
+  "periodo": "História da Medicina: Do Feiticeiro ao Genoma",
+  "entidades": [
+    {
+      "id": "med-001",
+      "nome": "Medicina Antiga: Egito, Mesopotâmia e Grécia (3000–400 a.C.)",
+      "nome_en": "Ancient Medicine: Egypt, Mesopotamia and Greece (3000–400 BC)",
+      "nome_es": "Medicina Antigua: Egipto, Mesopotamia y Grecia (3000–400 a.C.)",
+      "tipo": "intellectual",
+      "ano_inicio": -3000,
+      "ano_fim": -400,
+      "seculo": -30,
+      "continente": "oriente_medio",
+      "importancia": 4,
+      "descricao": "O Papiro de Ebers (1550 a.C.) contém 700 remédios egípcios — mistura de empirismo real e magia ritual. Hipócrates (460–370 a.C.) separou medicina de superstição: doenças têm causas naturais, não divinas. O Juramento Hipocrático codificou a ética médica. Galeno de Pérgamo (130–210 d.C.) sistematizou a anatomia — e seu erro sobre a circulação do sangue persistiu por 1.400 anos.",
+      "descricao_en": "The Ebers Papyrus (1550 BC) contains 700 Egyptian remedies — a mix of real empiricism and ritual magic. Hippocrates (460–370 BC) separated medicine from superstition: diseases have natural, not divine causes. The Hippocratic Oath codified medical ethics. Galen of Pergamon (130–210 AD) systematized anatomy — and his error about blood circulation persisted for 1,400 years.",
+      "descricao_es": "El Papiro de Ebers (1550 a.C.) contiene 700 remedios egipcios — mezcla de empirismo real y magia ritual. Hipócrates (460–370 a.C.) separó la medicina de la superstición: las enfermedades tienen causas naturales, no divinas. El Juramento Hipocrático codificó la ética médica. Galeno de Pérgamo (130–210 d.C.) sistematizó la anatomía — y su error sobre la circulación de la sangre persistió 1.400 años."
+    },
+    {
+      "id": "med-002",
+      "nome": "Ibn Sina e a Medicina Islâmica: O Canon da Medicina (980–1037)",
+      "nome_en": "Ibn Sina and Islamic Medicine: The Canon of Medicine (980–1037)",
+      "nome_es": "Ibn Sina y la Medicina Islámica: El Canon de Medicina (980–1037)",
+      "tipo": "intellectual",
+      "ano_inicio": 980,
+      "ano_fim": 1100,
+      "seculo": 10,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "O Canon da Medicina de Ibn Sina (Avicena) foi o livro médico mais usado no mundo por 600 anos — nas universidades europeias até o século XVII. Enquanto a Europa medieval recuava para a medicina religiosa, o mundo islâmico preservou Galeno, Hipócrates e Aristóteles, adicionou quarentena, hospitais especializados (bimaristans) e a ideia de que certas doenças se transmitem pelo ar e pela água.",
+      "descricao_en": "Ibn Sina's (Avicenna's) Canon of Medicine was the most used medical textbook in the world for 600 years — in European universities until the 17th century. While medieval Europe retreated to religious medicine, the Islamic world preserved Galen, Hippocrates and Aristotle, and added quarantine, specialized hospitals (bimaristans) and the idea that certain diseases spread through air and water.",
+      "descricao_es": "El Canon de Medicina de Ibn Sina (Avicena) fue el libro médico más utilizado en el mundo durante 600 años — en las universidades europeas hasta el siglo XVII. Mientras la Europa medieval retrocedía hacia la medicina religiosa, el mundo islámico preservó a Galeno, Hipócrates y Aristóteles, y añadió la cuarentena, hospitales especializados (bimaristanes) y la idea de que ciertas enfermedades se transmiten por el aire y el agua."
+    },
+    {
+      "id": "med-003",
+      "nome": "A Revolução Anatômica: Vesalius e Harvey (1543–1628)",
+      "nome_en": "The Anatomical Revolution: Vesalius and Harvey (1543–1628)",
+      "nome_es": "La Revolución Anatómica: Vesalio y Harvey (1543–1628)",
+      "tipo": "intellectual",
+      "ano_inicio": 1543,
+      "ano_fim": 1628,
+      "seculo": 16,
+      "continente": "europa",
+      "importancia": 5,
+      "descricao": "Andreas Vesalius dissecou cadáveres humanos e publicou De Humani Corporis Fabrica (1543) — mostrando que Galeno estava errado em dezenas de pontos. William Harvey demonstrou em 1628 que o sangue circula em circuito fechado bombeado pelo coração, destruindo 1.400 anos de teoria galénica. Ambos sofreram oposição da Igreja e da academia. A anatomia moderna é o fundamento de toda medicina cirúrgica.",
+      "descricao_en": "Andreas Vesalius dissected human corpses and published De Humani Corporis Fabrica (1543) — showing Galen was wrong on dozens of points. William Harvey demonstrated in 1628 that blood circulates in a closed circuit pumped by the heart, destroying 1,400 years of Galenic theory. Both faced opposition from the Church and academy. Modern anatomy is the foundation of all surgical medicine.",
+      "descricao_es": "Andreas Vesalio diseccionó cadáveres humanos y publicó De Humani Corporis Fabrica (1543) — mostrando que Galeno estaba equivocado en docenas de puntos. William Harvey demostró en 1628 que la sangre circula en un circuito cerrado bombeado por el corazón, destruyendo 1.400 años de teoría galénica. Ambos enfrentaron la oposición de la Iglesia y la academia. La anatomía moderna es el fundamento de toda la medicina quirúrgica."
+    },
+    {
+      "id": "med-004",
+      "nome": "Jenner, a Vacinação e o Fim da Varíola (1796–1980)",
+      "nome_en": "Jenner, Vaccination and the End of Smallpox (1796–1980)",
+      "nome_es": "Jenner, la Vacunación y el Fin de la Viruela (1796–1980)",
+      "tipo": "technological",
+      "ano_inicio": 1796,
+      "ano_fim": 1980,
+      "seculo": 18,
+      "continente": "europa",
+      "importancia": 5,
+      "descricao": "Edward Jenner observou que ordenhadoras que contraíam varíola bovina nunca pegavam varíola humana. Em 1796, inoculou um menino de 8 anos com o vírus bovino — e depois expôs ao vírus humano: nada aconteceu. A vacinação foi a tecnologia médica mais eficaz da história. A varíola, que matou 300–500 milhões de pessoas no século XX, foi erradicada em 1980 — a única doença humana totalmente eliminada. O debate moderno sobre vacinas é incompreensível sem compreender o que elas substituíram.",
+      "descricao_en": "Edward Jenner observed that milkmaids who contracted cowpox never caught smallpox. In 1796, he inoculated an 8-year-old boy with the bovine virus — then exposed him to the human virus: nothing happened. Vaccination was the most effective medical technology in history. Smallpox, which killed 300–500 million people in the 20th century, was eradicated in 1980 — the only human disease completely eliminated. The modern debate about vaccines is incomprehensible without understanding what they replaced.",
+      "descricao_es": "Edward Jenner observó que las ordeñadoras que contraían viruela bovina nunca contraían viruela humana. En 1796, inoculó a un niño de 8 años con el virus bovino — y luego lo expuso al virus humano: nada ocurrió. La vacunación fue la tecnología médica más eficaz de la historia. La viruela, que mató 300–500 millones de personas en el siglo XX, fue erradicada en 1980 — la única enfermedad humana completamente eliminada. El debate moderno sobre las vacunas es incomprensible sin entender lo que reemplazaron."
+    },
+    {
+      "id": "med-005",
+      "nome": "Pasteur, Koch e a Teoria dos Germes (1857–1900)",
+      "nome_en": "Pasteur, Koch and Germ Theory (1857–1900)",
+      "nome_es": "Pasteur, Koch y la Teoría de los Gérmenes (1857–1900)",
+      "tipo": "intellectual",
+      "ano_inicio": 1857,
+      "ano_fim": 1900,
+      "seculo": 19,
+      "continente": "europa",
+      "importancia": 5,
+      "descricao": "Louis Pasteur refutou a geração espontânea, desenvolveu a pasteurização e criou vacinas para raiva e antraz. Robert Koch identificou o bacilo da tuberculose (1882) e o Vibrio cholerae (1883), estabelecendo os postulados que definem a relação entre micróbio e doença. Joseph Lister aplicou antissépticos em cirurgias — reduzindo a mortalidade pós-operatória de 50% para 15%. Em 50 anos, a medicina passou de arte artesanal a ciência experimental. A maioria das doenças que matavam metade das crianças antes dos 5 anos tornou-se tratável.",
+      "descricao_en": "Louis Pasteur refuted spontaneous generation, developed pasteurization and created vaccines for rabies and anthrax. Robert Koch identified the tuberculosis bacillus (1882) and Vibrio cholerae (1883), establishing the postulates defining the relationship between microbe and disease. Joseph Lister applied antiseptics in surgery — reducing post-operative mortality from 50% to 15%. In 50 years, medicine went from artisanal art to experimental science. Most diseases that killed half of children under 5 became treatable.",
+      "descricao_es": "Louis Pasteur refutó la generación espontánea, desarrolló la pasteurización y creó vacunas para la rabia y el ántrax. Robert Koch identificó el bacilo de la tuberculosis (1882) y el Vibrio cholerae (1883), estableciendo los postulados que definen la relación entre microbio y enfermedad. Joseph Lister aplicó antisépticos en cirugías — reduciendo la mortalidad postoperatoria del 50% al 15%. En 50 años, la medicina pasó de arte artesanal a ciencia experimental. La mayoría de las enfermedades que mataban a la mitad de los niños antes de los 5 años se volvió tratable."
+    },
+    {
+      "id": "med-006",
+      "nome": "Fleming, os Antibióticos e a Era de Ouro da Medicina (1928–1970)",
+      "nome_en": "Fleming, Antibiotics and the Golden Age of Medicine (1928–1970)",
+      "nome_es": "Fleming, los Antibióticos y la Edad de Oro de la Medicina (1928–1970)",
+      "tipo": "technological",
+      "ano_inicio": 1928,
+      "ano_fim": 1970,
+      "seculo": 20,
+      "continente": "europa",
+      "importancia": 5,
+      "descricao": "Alexander Fleming observou em 1928 que um fungo matava bactérias ao redor — e não publicou. Howard Florey e Ernst Chain desenvolveram a penicilina em 1940, salvando soldados na Segunda Guerra. Em 30 anos, doenças que matavam com certeza (pneumonia, sífilis, tuberculose) tornaram-se curáveis. A expectativa de vida média mundial passou de 47 anos em 1950 para 70 em 2000 — a maior variação em tão curto período da história humana. E já emergem as superbactérias resistentes: o uso excessivo de antibióticos pode inverter tudo isso.",
+      "descricao_en": "Alexander Fleming observed in 1928 that a fungus was killing surrounding bacteria — and didn't publish. Howard Florey and Ernst Chain developed penicillin in 1940, saving soldiers in World War II. In 30 years, diseases that killed with certainty (pneumonia, syphilis, tuberculosis) became curable. Average global life expectancy went from 47 in 1950 to 70 in 2000 — the greatest variation in such a short period in human history. And antibiotic-resistant superbugs are already emerging: overuse of antibiotics may reverse all of this.",
+      "descricao_es": "Alexander Fleming observó en 1928 que un hongo mataba las bacterias cercanas — y no publicó. Howard Florey y Ernst Chain desarrollaron la penicilina en 1940, salvando soldados en la Segunda Guerra Mundial. En 30 años, enfermedades que mataban con certeza (neumonía, sífilis, tuberculosis) se volvieron curables. La esperanza de vida media mundial pasó de 47 años en 1950 a 70 en 2000 — la mayor variación en tan corto período de la historia humana. Y ya emergen las superbacterias resistentes: el uso excesivo de antibióticos puede revertir todo esto."
+    },
+    {
+      "id": "med-007",
+      "nome": "Medicina Colonial: Corpo, Raça e Poder (1500–1950)",
+      "nome_en": "Colonial Medicine: Body, Race and Power (1500–1950)",
+      "nome_es": "Medicina Colonial: Cuerpo, Raza y Poder (1500–1950)",
+      "tipo": "social",
+      "ano_inicio": 1500,
+      "ano_fim": 1950,
+      "seculo": 16,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "A medicina foi instrumento colonial tanto quanto o canhão. Experiências médicas não consentidas em populações escravizadas e colonizadas (J. Marion Sims operou mulheres escravizadas sem anestesia para desenvolver a ginecologia moderna). A 'ciência racial' do século XIX usou craniometria e teorias evolucionistas para justificar hierarquias raciais. A malária protegeu a África da colonização por séculos — e a quinina que curou os colonizadores veio dos Andes. O controle de epidemias nas colônias servia para manter a força de trabalho produtiva, não para salvar vidas.",
+      "descricao_en": "Medicine was a colonial instrument as much as the cannon. Non-consensual medical experiments on enslaved and colonized populations (J. Marion Sims operated on enslaved women without anesthesia to develop modern gynecology). 19th-century 'racial science' used craniometry and evolutionary theories to justify racial hierarchies. Malaria protected Africa from colonization for centuries — and the quinine that cured colonizers came from the Andes. Epidemic control in colonies served to keep the labor force productive, not to save lives.",
+      "descricao_es": "La medicina fue un instrumento colonial tanto como el cañón. Experimentos médicos no consentidos en poblaciones esclavizadas y colonizadas (J. Marion Sims operó a mujeres esclavizadas sin anestesia para desarrollar la ginecología moderna). La 'ciencia racial' del siglo XIX usó craniometría y teorías evolutivas para justificar jerarquías raciales. La malaria protegió a África de la colonización durante siglos — y la quinina que curó a los colonizadores vino de los Andes. El control de epidemias en las colonias servía para mantener productiva la fuerza de trabajo, no para salvar vidas."
+    },
+    {
+      "id": "med-008",
+      "nome": "Genoma, Edição Genética e o Futuro da Medicina (1953–presente)",
+      "nome_en": "Genome, Genetic Editing and the Future of Medicine (1953–present)",
+      "nome_es": "Genoma, Edición Genética y el Futuro de la Medicina (1953–presente)",
+      "tipo": "technological",
+      "ano_inicio": 1953,
+      "ano_fim": 2024,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 4,
+      "descricao": "Watson, Crick e Franklin descobriram a estrutura do DNA em 1953. O Projeto Genoma Humano (1990–2003) sequenciou os 3 bilhões de pares de base do genoma humano. O CRISPR-Cas9 (2012) permite editar genes com precisão sem precedente — já curou formas de anemia falciforme, pode eliminar doenças hereditárias, e levanta questões sem precedente: bebês editados geneticamente, seleção de características, a fronteira entre tratamento e aperfeiçoamento. A medicina do século XXI é inseparável da ética: quem pode ser curado, o que pode ser modificado, quem controla as patentes.",
+      "descricao_en": "Watson, Crick and Franklin discovered the structure of DNA in 1953. The Human Genome Project (1990–2003) sequenced the 3 billion base pairs of the human genome. CRISPR-Cas9 (2012) allows gene editing with unprecedented precision — it has already cured forms of sickle cell anemia, can eliminate hereditary diseases, and raises unprecedented questions: genetically edited babies, selection of traits, the boundary between treatment and enhancement. 21st-century medicine is inseparable from ethics: who can be cured, what can be modified, who controls the patents.",
+      "descricao_es": "Watson, Crick y Franklin descubrieron la estructura del ADN en 1953. El Proyecto Genoma Humano (1990–2003) secuenció los 3.000 millones de pares de bases del genoma humano. El CRISPR-Cas9 (2012) permite editar genes con precisión sin precedentes — ya ha curado formas de anemia falciforme, puede eliminar enfermedades hereditarias, y plantea preguntas sin precedentes: bebés editados genéticamente, selección de características, la frontera entre tratamiento y mejoramiento. La medicina del siglo XXI es inseparable de la ética: quién puede ser curado, qué puede ser modificado, quién controla las patentes."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "med-001",
+      "destino": "med-002",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "med-002",
+      "destino": "med-003",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "med-003",
+      "destino": "med-005",
+      "tipo": "causal"
+    },
+    {
+      "origem": "med-004",
+      "destino": "med-005",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "med-005",
+      "destino": "med-006",
+      "tipo": "causal"
+    },
+    {
+      "origem": "med-005",
+      "destino": "med-007",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "med-006",
+      "destino": "med-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "med-007",
+      "destino": "med-008",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "med-001",
+      "destino": "med-007",
+      "tipo": "tematica"
+    }
+  ]
+}

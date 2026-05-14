@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Em 50 anos, 26 imperadores 'legítimos' governaram Roma — quase todos assassinados. O Império fragmentou-se: Império Gálico no Ocidente (260-274), Reino de Palmira no Oriente. Invasões simultâneas: alamanos e francos no Reno, godos no Danúbio, sassânidas na Síria. Galeno foi capturado pelo Rei Sapor I — humilhação sem precedente.",
-      "importancia": "A Crise do Terceiro Século foi o momento em que Roma quase morreu. O que a salvou foi a resiliência institucional e dois imperadores excepcionais: Aureliano (270-275), que reunificou o Império, e Diocleciano (284-305), que o reorganizou completamente."
+      "importancia": "A Crise do Terceiro Século foi o momento em que Roma quase morreu. O que a salvou foi a resiliência institucional e dois imperadores excepcionais: Aureliano (270-275), que reunificou o Império, e Diocleciano (284-305), que o reorganizou completamente.",
+      "nome_en": "Military Anarchy (235–284)",
+      "nome_es": "Anarquía Militar (235–284)"
     },
     {
       "id": "r3c-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Diocleciano reconheceu que um único homem não podia defender um Império de 5.000 km. Criou a Tetrarquia (305): dois Augustos e dois Césares, cada um responsável por uma região. Reformou o exército, a fiscalidade e a burocracia. Última grande perseguição aos cristãos (303-311). Abdicou voluntariamente — único Imperador a fazê-lo.",
-      "importancia": "A Tetrarquia foi engenhosa mas instável — colapso imediato com a morte de Constâncio Cloro (306). Mas as reformas de Diocleciano salvaram o Império por mais dois séculos: separou a carreira civil da militar, criou uma burocracia profissional, dobrou o tamanho do exército."
+      "importancia": "A Tetrarquia foi engenhosa mas instável — colapso imediato com a morte de Constâncio Cloro (306). Mas as reformas de Diocleciano salvaram o Império por mais dois séculos: separou a carreira civil da militar, criou uma burocracia profissional, dobrou o tamanho do exército.",
+      "nome_en": "Diocletian and the Tetrarchy (284–305)",
+      "nome_es": "Diocleciano y la Tetrarquía (284–305)"
     },
     {
       "id": "r3c-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "Constantino I venceu a guerra civil na Ponte Mílvia (312) — atribuindo a vitória ao símbolo cristão Chi-Rho. Edito de Milão (313): tolerância religiosa. Concílio de Niceia (325): definiu o Credo cristão. Fundou Constantinopla (330) como nova capital oriental. Batizou-se no leito de morte.",
-      "importancia": "A conversão de Constantino foi o evento mais consequente da história europeia: transformou uma seita perseguida de 10% da população no suporte ideológico do Império. Sem Constantino, o cristianismo poderia ter permanecido uma das muitas religiões mistéricas que desapareceram."
+      "importancia": "A conversão de Constantino foi o evento mais consequente da história europeia: transformou uma seita perseguida de 10% da população no suporte ideológico do Império. Sem Constantino, o cristianismo poderia ter permanecido uma das muitas religiões mistéricas que desapareceram.",
+      "nome_en": "Constantine and the Christianization of the Empire (306–337)",
+      "nome_es": "Constantino y la Cristianización del Imperio (306–337)"
     },
     {
       "id": "r3c-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Teodósio I foi o último imperador a governar um Império Romano unificado. Em 380, o Edito de Tessalônica tornou o Cristianismo Niceno a religião oficial do Estado. Em 394, proibiu os Jogos Olímpicos (vistos como pagãos). Morreu em 395 dividindo o Império entre seus dois filhos — divisão que seria permanente.",
-      "importancia": "Teodósio transformou o Estado Romano num Estado Cristão: proibiu os cultos pagãos, fechou templos, destruiu o Serapeum de Alexandria. Criou a fórmula 'cristandade' como sinônimo de civilização ocidental que duraria mil anos."
+      "importancia": "Teodósio transformou o Estado Romano num Estado Cristão: proibiu os cultos pagãos, fechou templos, destruiu o Serapeum de Alexandria. Criou a fórmula 'cristandade' como sinônimo de civilização ocidental que duraria mil anos.",
+      "nome_en": "Theodosius and the Final Division of the Empire (379–395)",
+      "nome_es": "Teodosio y la División Final del Imperio (379–395)"
     },
     {
       "id": "rt1",

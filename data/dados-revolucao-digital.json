@@ -1,0 +1,197 @@
+{
+  "periodo": "Revolução Digital e a Internet (1945–presente)",
+  "entidades": [
+    {
+      "id": "dig-001",
+      "nome": "As Origens: ENIAC, Turing e o Computador (1936–1960)",
+      "nome_en": "The Origins: ENIAC, Turing and the Computer (1936–1960)",
+      "nome_es": "Los Orígenes: ENIAC, Turing y la Computadora (1936–1960)",
+      "tipo": "technological",
+      "ano_inicio": 1936,
+      "ano_fim": 1960,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "Alan Turing publicou em 1936 o paper que fundou a ciência da computação — e em 1940 quebrou o código Enigma nazista, encurtando a Segunda Guerra em dois anos. O ENIAC (1945), primeiro computador eletrônico de uso geral, pesava 27 toneladas e ocupava uma sala inteira. A IBM dominou os anos 1950 com mainframes vendidos a governos e corporações. Turing, perseguido pelo governo britânico por ser gay, foi condenado a castração química em 1952 e morreu em 1954 — possivelmente suicídio. O pai da computação não viveu para ver o que criou.",
+      "descricao_en": "Alan Turing published in 1936 the paper that founded computer science — and in 1940 broke the Nazi Enigma code, shortening World War II by two years. ENIAC (1945), the first general-purpose electronic computer, weighed 27 tons and filled an entire room. IBM dominated the 1950s with mainframes sold to governments and corporations. Turing, persecuted by the British government for being gay, was sentenced to chemical castration in 1952 and died in 1954 — possibly suicide. The father of computing did not live to see what he created.",
+      "descricao_es": "Alan Turing publicó en 1936 el artículo que fundó la informática — y en 1940 descifró el código Enigma nazi, acortando la Segunda Guerra Mundial en dos años. El ENIAC (1945), primera computadora electrónica de uso general, pesaba 27 toneladas y ocupaba una sala entera. IBM dominó los años 1950 con mainframes vendidos a gobiernos y corporaciones. Turing, perseguido por el gobierno británico por ser gay, fue condenado a castración química en 1952 y murió en 1954 — posiblemente suicidio. El padre de la informática no vivió para ver lo que creó."
+    },
+    {
+      "id": "dig-002",
+      "nome": "ARPANET e a Arquitetura da Internet (1969–1991)",
+      "nome_en": "ARPANET and the Architecture of the Internet (1969–1991)",
+      "nome_es": "ARPANET y la Arquitectura de Internet (1969–1991)",
+      "tipo": "technological",
+      "ano_inicio": 1969,
+      "ano_fim": 1991,
+      "seculo": 20,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "A ARPANET, financiada pelo Departamento de Defesa americano em 1969, conectou pela primeira vez quatro universidades. A ideia central era uma rede descentralizada sem nó central que pudesse sobreviver a um ataque nuclear — paradoxo: a tecnologia mais democratizante da história nasceu da paranoia da Guerra Fria. O protocolo TCP/IP (1974, Vint Cerf e Bob Kahn) definiu a linguagem comum da internet. Tim Berners-Lee inventou a World Wide Web no CERN em 1991 — e recusou patentear, tornando-a de domínio público. Uma das decisões mais consequentes da história tecnológica.",
+      "descricao_en": "ARPANET, funded by the US Department of Defense in 1969, connected four universities for the first time. The central idea was a decentralized network without a central node that could survive a nuclear attack — paradox: the most democratizing technology in history was born from Cold War paranoia. The TCP/IP protocol (1974, Vint Cerf and Bob Kahn) defined the internet's common language. Tim Berners-Lee invented the World Wide Web at CERN in 1991 — and refused to patent it, making it public domain. One of the most consequential decisions in technological history.",
+      "descricao_es": "ARPANET, financiada por el Departamento de Defensa americano en 1969, conectó cuatro universidades por primera vez. La idea central era una red descentralizada sin nodo central que pudiera sobrevivir a un ataque nuclear — paradoja: la tecnología más democratizadora de la historia nació de la paranoia de la Guerra Fría. El protocolo TCP/IP (1974, Vint Cerf y Bob Kahn) definió el lenguaje común de internet. Tim Berners-Lee inventó la World Wide Web en el CERN en 1991 — y se negó a patentarla, convirtiéndola en dominio público. Una de las decisiones más trascendentales de la historia tecnológica."
+    },
+    {
+      "id": "dig-003",
+      "nome": "O PC e a Democratização da Computação (1975–1995)",
+      "nome_en": "The PC and the Democratization of Computing (1975–1995)",
+      "nome_es": "La PC y la Democratización de la Computación (1975–1995)",
+      "tipo": "technological",
+      "ano_inicio": 1975,
+      "ano_fim": 1995,
+      "seculo": 20,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "Em 1975, Bill Gates e Paul Allen fundaram a Microsoft para fornecer software ao Altair 8800 — o primeiro microcomputador pessoal. Steve Jobs e Steve Wozniak lançaram o Apple II em 1977 e o Macintosh em 1984, com interface gráfica que tornou o computador acessível a não-programadores. O IBM PC (1981) com MS-DOS padronizou a arquitetura que ainda existe. Em 1995, Windows 95 + navegador + e-mail tornaram a internet acessível a qualquer pessoa com linha telefônica. Em 20 anos, o computador passou de máquina de sala de controle nuclear a objeto doméstico.",
+      "descricao_en": "In 1975, Bill Gates and Paul Allen founded Microsoft to provide software for the Altair 8800 — the first personal microcomputer. Steve Jobs and Steve Wozniak launched the Apple II in 1977 and the Macintosh in 1984, with a graphical interface that made computers accessible to non-programmers. The IBM PC (1981) with MS-DOS standardized the architecture that still exists today. In 1995, Windows 95 + browser + email made the internet accessible to anyone with a phone line. In 20 years, the computer went from nuclear control room machine to household object.",
+      "descricao_es": "En 1975, Bill Gates y Paul Allen fundaron Microsoft para proveer software al Altair 8800 — la primera microcomputadora personal. Steve Jobs y Steve Wozniak lanzaron el Apple II en 1977 y el Macintosh en 1984, con interfaz gráfica que hizo la computadora accesible a no-programadores. El IBM PC (1981) con MS-DOS estandarizó la arquitectura que aún existe. En 1995, Windows 95 + navegador + correo electrónico hicieron internet accesible para cualquier persona con línea telefónica. En 20 años, la computadora pasó de máquina de sala de control nuclear a objeto doméstico."
+    },
+    {
+      "id": "dig-004",
+      "nome": "A Bolha Ponto-Com: Euforia, Crash e Aprendizado (1995–2002)",
+      "nome_en": "The Dot-Com Bubble: Euphoria, Crash and Learning (1995–2002)",
+      "nome_es": "La Burbuja Puntocom: Euforia, Crash y Aprendizaje (1995–2002)",
+      "tipo": "economic",
+      "ano_inicio": 1995,
+      "ano_fim": 2002,
+      "seculo": 20,
+      "continente": "americas",
+      "importancia": 4,
+      "descricao": "Entre 1995 e 2000, investidores despejaram trilhões em empresas de internet sem receita, lucro ou modelo de negócio — bastava ter '.com' no nome. O Nasdaq subiu 400% e depois colapsou 78% entre março de 2000 e outubro de 2002. Pets.com, Webvan, Kozmo.com — empresas que valiam bilhões e não existiam dois anos depois. Mas o crash selecionou os sobreviventes: Amazon, Google (lançado 1998), eBay. As fibras ópticas instaladas durante a euforia permaneceram — e viabilizaram a internet banda larga dos anos 2000. A bolha destruiu fortunas mas construiu a infraestrutura do mundo digital.",
+      "descricao_en": "Between 1995 and 2000, investors poured trillions into internet companies without revenue, profit or business model — having '.com' in the name was enough. The Nasdaq rose 400% and then collapsed 78% between March 2000 and October 2002. Pets.com, Webvan, Kozmo.com — companies worth billions that didn't exist two years later. But the crash selected the survivors: Amazon, Google (launched 1998), eBay. The fiber optic cables installed during the euphoria remained — and enabled broadband internet in the 2000s. The bubble destroyed fortunes but built the infrastructure of the digital world.",
+      "descricao_es": "Entre 1995 y 2000, los inversores volcaron billones en empresas de internet sin ingresos, beneficios ni modelo de negocio — bastaba tener '.com' en el nombre. El Nasdaq subió un 400% y luego colapsó un 78% entre marzo de 2000 y octubre de 2002. Pets.com, Webvan, Kozmo.com — empresas que valían miles de millones y no existían dos años después. Pero el crash seleccionó a los supervivientes: Amazon, Google (lanzado en 1998), eBay. Los cables de fibra óptica instalados durante la euforia permanecieron — y viabilizaron internet de banda ancha en los años 2000. La burbuja destruyó fortunas pero construyó la infraestructura del mundo digital."
+    },
+    {
+      "id": "dig-005",
+      "nome": "A Web 2.0 e as Redes Sociais: Todos Produtores (2004–2012)",
+      "nome_en": "Web 2.0 and Social Media: Everyone a Producer (2004–2012)",
+      "nome_es": "La Web 2.0 y las Redes Sociales: Todos Productores (2004–2012)",
+      "tipo": "social",
+      "ano_inicio": 2004,
+      "ano_fim": 2012,
+      "seculo": 21,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "Facebook (2004), YouTube (2005), Twitter (2006), iPhone (2007), WhatsApp (2009), Instagram (2010) — em menos de uma década, a internet passou de meio de consulta para meio de produção. Qualquer pessoa com smartphone tornou-se editora, jornalista, criadora de conteúdo. A Primavera Árabe (2011) foi chamada de 'Revolução do Twitter' — e depois mostrou que mobilização sem organização não cria democracia. A Wikipedia (2001) foi o experimento mais bem-sucedido de inteligência coletiva da história. Dois bilhões de pessoas online em 2012 — número impensável uma geração antes.",
+      "descricao_en": "Facebook (2004), YouTube (2005), Twitter (2006), iPhone (2007), WhatsApp (2009), Instagram (2010) — in less than a decade, the internet went from a consultation medium to a production medium. Anyone with a smartphone became a publisher, journalist, content creator. The Arab Spring (2011) was called the 'Twitter Revolution' — and then showed that mobilization without organization doesn't create democracy. Wikipedia (2001) was the most successful experiment in collective intelligence in history. Two billion people online in 2012 — a number unthinkable a generation earlier.",
+      "descricao_es": "Facebook (2004), YouTube (2005), Twitter (2006), iPhone (2007), WhatsApp (2009), Instagram (2010) — en menos de una década, internet pasó de medio de consulta a medio de producción. Cualquier persona con smartphone se convirtió en editora, periodista, creadora de contenidos. La Primavera Árabe (2011) fue llamada la 'Revolución de Twitter' — y luego mostró que la movilización sin organización no crea democracia. Wikipedia (2001) fue el experimento de inteligencia colectiva más exitoso de la historia. Dos mil millones de personas en línea en 2012 — un número impensable una generación antes."
+    },
+    {
+      "id": "dig-006",
+      "nome": "Vigilância, Privacidade e Snowden (2013)",
+      "nome_en": "Surveillance, Privacy and Snowden (2013)",
+      "nome_es": "Vigilancia, Privacidad y Snowden (2013)",
+      "tipo": "political",
+      "ano_inicio": 2013,
+      "ano_fim": 2016,
+      "seculo": 21,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "Em junho de 2013, Edward Snowden revelou ao Guardian e ao Washington Post que a NSA americana monitorava sistematicamente as comunicações de bilhões de pessoas — incluindo líderes aliados como Angela Merkel. O PRISM, o XKeyscore, o acesso direto aos servidores de Google, Facebook e Apple. Snowden, processado por espionagem, refugiou-se na Rússia. O debate que abriu permanece irresolvido: o que é privacidade na era digital? Quem pode acessar os dados de quem? Os governos que criticaram a China pela vigilância faziam o mesmo em escala global. A revelação mudou permanentemente a relação entre cidadãos, empresas de tecnologia e estados.",
+      "descricao_en": "In June 2013, Edward Snowden revealed to The Guardian and The Washington Post that the American NSA was systematically monitoring the communications of billions of people — including allied leaders like Angela Merkel. PRISM, XKeyscore, direct access to Google, Facebook and Apple servers. Snowden, charged with espionage, took refuge in Russia. The debate he opened remains unresolved: what is privacy in the digital age? Who can access whose data? The governments that criticized China for surveillance were doing the same on a global scale. The revelation permanently changed the relationship between citizens, technology companies and states.",
+      "descricao_es": "En junio de 2013, Edward Snowden reveló al Guardian y al Washington Post que la NSA americana monitoreaba sistemáticamente las comunicaciones de miles de millones de personas — incluidos líderes aliados como Angela Merkel. El PRISM, el XKeyscore, el acceso directo a los servidores de Google, Facebook y Apple. Snowden, procesado por espionaje, se refugió en Rusia. El debate que abrió permanece irresuelto: ¿qué es la privacidad en la era digital? ¿Quién puede acceder a los datos de quién? Los gobiernos que criticaban a China por la vigilancia hacían lo mismo a escala global. La revelación cambió permanentemente la relación entre ciudadanos, empresas tecnológicas y estados."
+    },
+    {
+      "id": "dig-007",
+      "nome": "Desinformação, Cambridge Analytica e a Democracia em Crise (2016–presente)",
+      "nome_en": "Disinformation, Cambridge Analytica and Democracy in Crisis (2016–present)",
+      "nome_es": "Desinformación, Cambridge Analytica y la Democracia en Crisis (2016–presente)",
+      "tipo": "political",
+      "ano_inicio": 2016,
+      "ano_fim": 2024,
+      "seculo": 21,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "A Cambridge Analytica colheu dados de 87 milhões de perfis do Facebook sem consentimento para criar microtargeting político — usada nas eleições americanas de 2016 e no Brexit. O relatório Mueller documentou a interferência russa via desinformação nas redes sociais. Em 2018, o CEO do Facebook admitiu ao Senado americano que sua plataforma foi usada para dividir sociedades. Os algoritmos de maximização de engajamento recompensam conteúdo que provoca raiva. A questão não é se as redes sociais influenciam a política — é que nenhuma democracia construiu ainda um marco regulatório adequado para a velocidade com que isso acontece.",
+      "descricao_en": "Cambridge Analytica harvested data from 87 million Facebook profiles without consent to create political microtargeting — used in the 2016 US elections and Brexit. The Mueller Report documented Russian interference through social media disinformation. In 2018, Facebook's CEO admitted to the US Senate that his platform was used to divide societies. Engagement-maximizing algorithms reward content that provokes anger. The question is not whether social media influences politics — it is that no democracy has yet built an adequate regulatory framework for the speed at which this happens.",
+      "descricao_es": "Cambridge Analytica recopiló datos de 87 millones de perfiles de Facebook sin consentimiento para crear microtargeting político — utilizado en las elecciones americanas de 2016 y el Brexit. El informe Mueller documentó la interferencia rusa a través de desinformación en redes sociales. En 2018, el CEO de Facebook admitió ante el Senado americano que su plataforma fue usada para dividir sociedades. Los algoritmos de maximización del engagement recompensan el contenido que provoca ira. La pregunta no es si las redes sociales influyen en la política — es que ninguna democracia ha construido aún un marco regulatorio adecuado para la velocidad con que esto ocurre."
+    },
+    {
+      "id": "dig-008",
+      "nome": "Inteligência Artificial: A Segunda Grande Ruptura (2012–presente)",
+      "nome_en": "Artificial Intelligence: The Second Great Rupture (2012–present)",
+      "nome_es": "Inteligencia Artificial: La Segunda Gran Ruptura (2012–presente)",
+      "tipo": "technological",
+      "ano_inicio": 2012,
+      "ano_fim": 2024,
+      "seculo": 21,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "O deep learning — redes neurais com múltiplas camadas treinadas em enormes volumes de dados — transformou a IA de promessa em realidade a partir de 2012 (AlexNet). AlphaGo derrotou o campeão mundial de Go em 2016 — jogo considerado intratável para máquinas. GPT-3 (2020) e ChatGPT (2022) demonstraram que modelos de linguagem podem escrever, raciocinar e criar. A questão não é mais se a IA vai transformar o mercado de trabalho — é quão rápido e quais profissões sobrevivem. A IA levanta questões que a humanidade nunca enfrentou: o que é criatividade? O que é autoria? O que é inteligência?",
+      "descricao_en": "Deep learning — neural networks with multiple layers trained on enormous volumes of data — transformed AI from promise to reality starting in 2012 (AlexNet). AlphaGo defeated the world Go champion in 2016 — a game considered intractable for machines. GPT-3 (2020) and ChatGPT (2022) demonstrated that language models can write, reason and create. The question is no longer whether AI will transform the labor market — it is how fast and which professions survive. AI raises questions humanity has never faced: what is creativity? What is authorship? What is intelligence?",
+      "descricao_es": "El aprendizaje profundo — redes neuronales con múltiples capas entrenadas en enormes volúmenes de datos — transformó la IA de promesa en realidad a partir de 2012 (AlexNet). AlphaGo derrotó al campeón mundial de Go en 2016 — juego considerado intratable para máquinas. GPT-3 (2020) y ChatGPT (2022) demostraron que los modelos de lenguaje pueden escribir, razonar y crear. La pregunta ya no es si la IA va a transformar el mercado laboral — es cuán rápido y qué profesiones sobreviven. La IA plantea preguntas que la humanidad nunca ha enfrentado: ¿qué es la creatividad? ¿Qué es la autoría? ¿Qué es la inteligencia?"
+    },
+    {
+      "id": "dig-009",
+      "nome": "A Revolução Digital como Evento Histórico: O Que Muda de Verdade",
+      "nome_en": "The Digital Revolution as a Historical Event: What Really Changes",
+      "nome_es": "La Revolución Digital como Evento Histórico: Lo que Realmente Cambia",
+      "tipo": "intellectual",
+      "ano_inicio": 1991,
+      "ano_fim": 2024,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "Historiadores comparam a Revolução Digital à imprensa de Gutenberg (1450): ambas democratizaram a produção e circulação de informação, desafiaram autoridades estabelecidas e foram seguidas de décadas de instabilidade política. Gutenberg viabilizou a Reforma Protestante — e as Guerras de Religião. A internet viabilizou a Primavera Árabe, o ISIS e Trump. O que muda de verdade: a velocidade da informação (segundos versus décadas), a escala (global versus regional), e a reversão da hierarquia editorial (qualquer um publica). O que não muda: humanos continuam sendo humanos — com os mesmos vieses, medos e desejos que sempre tiveram.",
+      "descricao_en": "Historians compare the Digital Revolution to Gutenberg's printing press (1450): both democratized the production and circulation of information, challenged established authorities and were followed by decades of political instability. Gutenberg enabled the Protestant Reformation — and the Wars of Religion. The internet enabled the Arab Spring, ISIS and Trump. What really changes: the speed of information (seconds versus decades), the scale (global versus regional), and the reversal of editorial hierarchy (anyone publishes). What doesn't change: humans continue to be human — with the same biases, fears and desires they always had.",
+      "descricao_es": "Los historiadores comparan la Revolución Digital a la imprenta de Gutenberg (1450): ambas democratizaron la producción y circulación de información, desafiaron autoridades establecidas y fueron seguidas de décadas de inestabilidad política. Gutenberg posibilitó la Reforma Protestante — y las Guerras de Religión. Internet posibilitó la Primavera Árabe, el ISIS y Trump. Lo que realmente cambia: la velocidad de la información (segundos versus décadas), la escala (global versus regional), y la inversión de la jerarquía editorial (cualquiera publica). Lo que no cambia: los humanos siguen siendo humanos — con los mismos sesgos, miedos y deseos que siempre tuvieron."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "dig-001",
+      "destino": "dig-002",
+      "tipo": "causal"
+    },
+    {
+      "origem": "dig-002",
+      "destino": "dig-003",
+      "tipo": "causal"
+    },
+    {
+      "origem": "dig-003",
+      "destino": "dig-004",
+      "tipo": "causal"
+    },
+    {
+      "origem": "dig-004",
+      "destino": "dig-005",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "dig-005",
+      "destino": "dig-006",
+      "tipo": "causal"
+    },
+    {
+      "origem": "dig-005",
+      "destino": "dig-007",
+      "tipo": "causal"
+    },
+    {
+      "origem": "dig-006",
+      "destino": "dig-007",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "dig-003",
+      "destino": "dig-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "dig-007",
+      "destino": "dig-009",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "dig-008",
+      "destino": "dig-009",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "dig-001",
+      "destino": "dig-009",
+      "tipo": "tematica"
+    }
+  ]
+}

@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "Napoleão Bonaparte deu um golpe em 18 Brumário (novembro 1799) encerrando o Diretório. Como Primeiro Cônsul depois Imperador (1804), concentrou todos os poderes. Reformas estruturais: Código Civil (1804), Banco da França, liceus, Concordata com o Papa, prefeituras. Coroou-se a si mesmo na Notre-Dame em presença de Pio VII.",
-      "importancia": "Napoleão foi o maior legislador do mundo moderno: o Code Civil napoleônico está na base dos sistemas jurídicos de mais de 60 países. Ao mesmo tempo, encerrou a República e restaurou o princípio monárquico sob forma imperial — a Revolução Francesa gerou seu próprio César."
+      "importancia": "Napoleão foi o maior legislador do mundo moderno: o Code Civil napoleônico está na base dos sistemas jurídicos de mais de 60 países. Ao mesmo tempo, encerrou a República e restaurou o princípio monárquico sob forma imperial — a Revolução Francesa gerou seu próprio César.",
+      "nome_en": "Rise of Napoleon: From 18 Brumaire to the Empire (1799–1804)",
+      "nome_es": "Ascenso de Napoleón: Del 18 Brumario al Imperio (1799–1804)"
     },
     {
       "id": "npe-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Austerlitz (1805): a batalha perfeita — 73.000 franceses destroem 85.000 austro-russos. Iéna (1806): Prússia destruída em um dia. Friedland (1807): Rússia derrotada — Tratado de Tilsit, Alexandre I e Napoleão dividem a Europa. Wagram (1809): Áustria novamente submetida. No auge: Napoleão controlava direta ou indiretamente toda a Europa continental exceto a Grã-Bretanha.",
-      "importancia": "O sistema napoleônico transformou a Europa mesmo onde foi derrotado: aboliu o feudalismo, introduziu o Código Civil, criou burocracias profissionais, suprimiu ordens religiosas. Os povos que resistiram a Napoleão (espanhóis, russos, prussianos) fizeram-no invocando o nacionalismo — a arma que Napoleão havia criado sem querer."
+      "importancia": "O sistema napoleônico transformou a Europa mesmo onde foi derrotado: aboliu o feudalismo, introduziu o Código Civil, criou burocracias profissionais, suprimiu ordens religiosas. Os povos que resistiram a Napoleão (espanhóis, russos, prussianos) fizeram-no invocando o nacionalismo — a arma que Napoleão havia criado sem querer.",
+      "nome_en": "The Grand Army and the European Campaigns (1805–1812)",
+      "nome_es": "La Grande Armée y las Campañas Europeas (1805–1812)"
     },
     {
       "id": "npe-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "A invasão da Rússia (1812) foi o erro fatal: 600.000 homens cruzaram o Niemen em junho, 100.000 voltaram em dezembro. Moscou abandonada e incendiada pelos russos. O frio, as distâncias, a tática de terra arrasada destruíram o Grande Exército. Lipsia ('Batalha das Nações', 1813): coalizão de toda a Europa. Paris tomada (1814). Ilha de Elba. Cem Dias. Waterloo (18 junho 1815). Santa Helena.",
-      "importancia": "A derrota napoleônica provou que mesmo o maior gênio militar da história pode ser derrotado pelo clima, pelas distâncias e pela determinação nacional. Hitler repetiria o mesmo erro 130 anos depois — e os historiadores militares citam Napoleon como exemplo canônico do perigo de invadir a Rússia."
+      "importancia": "A derrota napoleônica provou que mesmo o maior gênio militar da história pode ser derrotado pelo clima, pelas distâncias e pela determinação nacional. Hitler repetiria o mesmo erro 130 anos depois — e os historiadores militares citam Napoleon como exemplo canônico do perigo de invadir a Rússia.",
+      "nome_en": "The Russian Campaign and the Fall (1812–1815)",
+      "nome_es": "La Campaña de Rusia y la Caída (1812–1815)"
     },
     {
       "id": "npe-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "O Congresso de Viena tentou restaurar o Ancien Régime, mas o mundo napoleônico era irreversível: o Código Civil permaneceu; os Estados tampão criados por Napoleão (Confederação Renana, Reino da Vestfália) plantaram a semente da Alemanha unificada; o mapa europeu foi redesenhado por princípios nacionais; a ideia de que um 'homem de mérito' pode chegar ao topo inspirou gerações.",
-      "importancia": "Napoleão criou o nacionalismo moderno ao mesmo tempo que tentava suprimi-lo: ao humilhar a Prússia, gerou os reformadores prussianos (Stein, Scharnhorst) que criaram o Estado moderno. Ao ocupar a Espanha, gerou a guerrilha que deu o nome à táctica. Ao levar o Código Civil à Itália, plantou o Risorgimento."
+      "importancia": "Napoleão criou o nacionalismo moderno ao mesmo tempo que tentava suprimi-lo: ao humilhar a Prússia, gerou os reformadores prussianos (Stein, Scharnhorst) que criaram o Estado moderno. Ao ocupar a Espanha, gerou a guerrilha que deu o nome à táctica. Ao levar o Código Civil à Itália, plantou o Risorgimento.",
+      "nome_en": "Napoleonic Legacy: The World Napoleon Created",
+      "nome_es": "Legado Napoleónico: El Mundo que Napoleón Creó"
     },
     {
       "id": "nap1",

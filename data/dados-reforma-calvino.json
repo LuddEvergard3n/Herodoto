@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Zuínglio reformou Zurique independentemente de Lutero: aboliu imagens, celibato, missa latina; simplificou o culto radicalmente. Divergiu de Lutero sobre a Eucaristia (Colóquio de Marburgo, 1529): Lutero insistia na presença real de Cristo; Zuínglio via o sacramento como memorial simbólico. Morreu em batalha contra os cantões católicos (Kappel, 1531).",
-      "importancia": "A divergência Lutero-Zuínglio sobre a Eucaristia impediu a unificação do protestantismo alemão e suíço — consequência política enorme: os princípios protestantes alemães recusaram a aliança com os suíços. O protestantismo nasceu dividido e nunca se reunificou."
+      "importancia": "A divergência Lutero-Zuínglio sobre a Eucaristia impediu a unificação do protestantismo alemão e suíço — consequência política enorme: os princípios protestantes alemães recusaram a aliança com os suíços. O protestantismo nasceu dividido e nunca se reunificou.",
+      "nome_en": "Ulrich Zwingli and the Reformation of Zurich (1519–1531)",
+      "nome_es": "Ulrico Zuinglio y la Reforma de Zúrich (1519–1531)"
     },
     {
       "id": "calv-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Calvino fugiu da França e instalou-se em Genebra (1541), transformando-a numa república teocrática: o Consistório supervisionava a moral pública, proibia danças e teatro, exilava dissidentes. A doutrina da Predestinação: Deus elegeu desde a eternidade quem seria salvo ou condenado — o homem não pode mudar seu destino. Miguel Serveto queimado por heresia (1553).",
-      "importancia": "O Calvinismo foi o protestantismo que construiu o mundo moderno: Max Weber argumentou que a 'ética protestante' (trabalho diligente como sinal de eleição, acumulação como virtude) foi a base psicológica do capitalismo. O Calvinismo espalhou-se pela Holanda, Escócia, Hungria, América do Norte — produzindo culturas radicalmente diferentes do luteranismo."
+      "importancia": "O Calvinismo foi o protestantismo que construiu o mundo moderno: Max Weber argumentou que a 'ética protestante' (trabalho diligente como sinal de eleição, acumulação como virtude) foi a base psicológica do capitalismo. O Calvinismo espalhou-se pela Holanda, Escócia, Hungria, América do Norte — produzindo culturas radicalmente diferentes do luteranismo.",
+      "nome_en": "John Calvin and Theocratic Geneva (1536–1564)",
+      "nome_es": "Juan Calvino y la Ginebra Teocrática (1536–1564)"
     },
     {
       "id": "calv-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "O calvinismo francês (Huguenotes) cresceu rapidamente — 10% da população, mas concentrado na nobreza e burguesia. Resultado: as Guerras de Religião Francesas (1562-1598). Massacre de São Bartolomeu (24 agosto 1572): 3.000-30.000 protestantes mortos em 3 dias. Henrique de Navarra (huguenote) converteu-se ao catolicismo para tornar-se Henrique IV; Édito de Nantes (1598): tolerância.",
-      "importancia": "O Massacre de São Bartolomeu foi o maior choque das guerras de religião europeias — e mudou a política europeia: a rainha inglesa Elizabeth I percebeu que não podia confiar em alianças com a França católica. A revogação do Édito de Nantes por Luís XIV (1685) forçou 200.000 huguenotes a emigrar — levando capital e habilidades para Holanda, Prússia e Inglaterra."
+      "importancia": "O Massacre de São Bartolomeu foi o maior choque das guerras de religião europeias — e mudou a política europeia: a rainha inglesa Elizabeth I percebeu que não podia confiar em alianças com a França católica. A revogação do Édito de Nantes por Luís XIV (1685) forçou 200.000 huguenotes a emigrar — levando capital e habilidades para Holanda, Prússia e Inglaterra.",
+      "nome_en": "Huguenots in France: The Reformation in Catholic Land (1559–1598)",
+      "nome_es": "Hugonotes en Francia: La Reforma en Tierra Católica (1559–1598)"
     },
     {
       "id": "calv-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "John Knox levou o Calvinismo à Escócia (1560) — criando o presbiterianismo com governo eclesiástico sem bispos. Na Inglaterra, os Puritanos queriam 'purificar' a Igreja Anglicana de elementos católicos. Após conflito com Carlos I, emigraram para a América (Mayflower, 1620) ou revolucionaram a Inglaterra com Cromwell (1640s). Países Baixos calvinistas construíram o primeiro capitalismo moderno.",
-      "importancia": "O Calvinismo no mundo atlântico foi a força que moldou os EUA, Holanda e parte da Grã-Bretanha. A democracia congregacional das igrejas calvinistas — cada comunidade se autogoverna, elege seus líderes — foi precursora do governo representativo americano."
+      "importancia": "O Calvinismo no mundo atlântico foi a força que moldou os EUA, Holanda e parte da Grã-Bretanha. A democracia congregacional das igrejas calvinistas — cada comunidade se autogoverna, elege seus líderes — foi precursora do governo representativo americano.",
+      "nome_en": "Puritans and Presbyterians: Calvin in the Atlantic World (1560–1650)",
+      "nome_es": "Puritanos y Presbiterianos: Calvino en el Mundo Atlántico (1560–1650)"
     },
     {
       "id": "rc1x",

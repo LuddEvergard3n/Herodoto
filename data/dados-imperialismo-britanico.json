@@ -10,7 +10,9 @@
       "regiao": "Global",
       "peso": 0.85,
       "descricao": "A Companhia das Índias Orientais Britânica (1600) foi o instrumento central: empresa privada com poderes soberanos, exército e administração. No século XVIII, o Império se construiu derrotando a França em três guerras (Guerra dos Sete Anos, 1756-63 — a 'primeira guerra mundial' — decisiva): Canadá, Índia, domínio dos mares. A Grã-Bretanha emergiu como única superpotência colonial.",
-      "importancia": "A Guerra dos Sete Anos é o evento mais subestimado da história: decidiu que a América do Norte seria anglófona (não francófona) e que a Índia seria britânica (não francesa). O mundo anglófono do século XX — EUA incluídos — é consequência direta desta guerra."
+      "importancia": "A Guerra dos Sete Anos é o evento mais subestimado da história: decidiu que a América do Norte seria anglófona (não francófona) e que a Índia seria britânica (não francesa). O mundo anglófono do século XX — EUA incluídos — é consequência direta desta guerra.",
+      "nome_en": "Building the Empire: Trade, Companies and Conquest (1600–1800)",
+      "nome_es": "Construcción del Imperio: Comercio, Compañías y Conquista (1600–1800)"
     },
     {
       "id": "imb-002",
@@ -21,7 +23,9 @@
       "regiao": "Global",
       "peso": 0.85,
       "descricao": "Após Napoleão, a Grã-Bretanha era a única superpotência: controlava os mares, produzia metade do ferro e aço do mundo, financiava ferrovias em todos os continentes. A Royal Navy suprimiu o tráfico de escravos (paradoxalmente, após ser o país que mais o havia praticado). O livre-comércio como doutrina imperial: abrir mercados alheios pela força se necessário (Guerras do Ópio na China, 1839-42, 1856-60).",
-      "importancia": "A 'Pax Britannica' foi a primeira ordem global hegemônica: um único poder garantia a segurança dos mares e das rotas comerciais. Os EUA do pós-1945 estudaram o modelo britânico — e criaram a 'Pax Americana' nos mesmos moldes: base naval global, moeda de reserva, livre-comércio imposto."
+      "importancia": "A 'Pax Britannica' foi a primeira ordem global hegemônica: um único poder garantia a segurança dos mares e das rotas comerciais. Os EUA do pós-1945 estudaram o modelo britânico — e criaram a 'Pax Americana' nos mesmos moldes: base naval global, moeda de reserva, livre-comércio imposto.",
+      "nome_en": "Pax Britannica: Industrialization, Free Trade and Hegemony (1815–1870)",
+      "nome_es": "Pax Britannica: Industrialización, Libre Comercio y Hegemonía (1815–1870)"
     },
     {
       "id": "imb-003",
@@ -32,7 +36,9 @@
       "regiao": "Global",
       "peso": 0.85,
       "descricao": "A Rainha Vitória foi proclamada Imperatriz da Índia em 1876. No auge (1920): 35,5 milhões de km², 458 milhões de pessoas — 20% da população mundial. A ideologia: 'fardo do homem branco' (Kipling) — dever de civilizar. Abolição do sati na Índia, ferrovias, telégrafo, codificação do direito. E: extração sistemática de recursos, imposto do sal, destruição da indústria têxtil indiana, famines artificiais.",
-      "importancia": "O debate sobre o balanço do Império Britânico — benéfico ou parasitário? — nunca foi resolvido e é politicamente inflamado. Shashi Tharoor (Era Britânica Boa) e Niall Ferguson (Império como globalizador) chegam a conclusões opostas com os mesmos dados. A questão central: pode-se separar os benefícios (ferrovias, direito, língua) dos custos (exploração, desindustrialização, famines)?"
+      "importancia": "O debate sobre o balanço do Império Britânico — benéfico ou parasitário? — nunca foi resolvido e é politicamente inflamado. Shashi Tharoor (Era Britânica Boa) e Niall Ferguson (Império como globalizador) chegam a conclusões opostas com os mesmos dados. A questão central: pode-se separar os benefícios (ferrovias, direito, língua) dos custos (exploração, desindustrialização, famines)?",
+      "nome_en": "The Victorian Empire: India, Africa and the Civilizing Mission (1858–1901)",
+      "nome_es": "El Imperio Victoriano: India, África y la Misión Civilizadora (1858–1901)"
     },
     {
       "id": "imb-004",
@@ -43,7 +49,9 @@
       "regiao": "Global",
       "peso": 0.8,
       "descricao": "A Primeira Guerra foi o início do fim: a Grã-Bretanha endividou-se com os EUA, o Império tornou-se economicamente insustentável. A Segunda Guerra acelerou: os EUA exigiram descolonização. Independência da Índia e Paquistão (1947). Crise de Suez (1956): os EUA forçaram a retirada britânica — fim do status de potência global. Descolonização acelerada nos anos 60. Hong Kong entregue à China (1997).",
-      "importancia": "Suez 1956 foi o momento em que a Grã-Bretanha compreendeu que era uma potência de segunda linha que precisava da aprovação americana para agir. A 'relação especial' com os EUA que os britânicos cultivam desde então é em parte a compensação psicológica pela perda do Império — um substituto para a grandeza perdida."
+      "importancia": "Suez 1956 foi o momento em que a Grã-Bretanha compreendeu que era uma potência de segunda linha que precisava da aprovação americana para agir. A 'relação especial' com os EUA que os britânicos cultivam desde então é em parte a compensação psicológica pela perda do Império — um substituto para a grandeza perdida.",
+      "nome_en": "Decline and Deimperialization (1918–1997)",
+      "nome_es": "Declive y Desimperialización (1918–1997)"
     },
     {
       "id": "ib1x",

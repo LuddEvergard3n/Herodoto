@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Os Carolíngios substituíram a dinastia Merovíngia como poder real dos Francos. Carlos Martel (714-741), Maiordomo do Palácio, deteve a expansão islâmica em Poitiers/Tours (732) — batalha que a tradição europeia chamou de salvação da cristandade, embora a historiografia moderna questione sua importância estratégica. Seu neto seria Carlomagno.",
-      "importancia": "A batalha de Poitiers tornou-se um mito fundador da identidade europeia cristã versus islâmica — usado e reusado na política do século XX e XXI. Carlos Martel introduziu a cavalaria pesada armada com estribo como força decisiva, pagando-a com terras eclesiásticas — nascimento do feudalismo militar."
+      "importancia": "A batalha de Poitiers tornou-se um mito fundador da identidade europeia cristã versus islâmica — usado e reusado na política do século XX e XXI. Carlos Martel introduziu a cavalaria pesada armada com estribo como força decisiva, pagando-a com terras eclesiásticas — nascimento do feudalismo militar.",
+      "nome_en": "Rise of the Carolingians and Charles Martel",
+      "nome_es": "Ascenso de los Carolingios y Carlos Martel"
     },
     {
       "id": "clm-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.75,
       "descricao": "Pepino III (o Breve) depôs o último Merovíngio com a bênção do Papa Zacarias (751) — primeiro caso de um papa legitimando um golpe de estado. Em troca, Pepino doou ao Papa o Exarcado de Ravena, conquistado dos Lombardos: nascimento do Estado Papal. A Doação de Pepino criou o poder temporal do papado que duraria mil anos.",
-      "importancia": "A aliança Papa-Carolíngios foi o fundamento do poder medieval europeu: os reis precisavam da legitimação religiosa; o Papa precisava de proteção militar. Esta interdependência — e seus conflitos — moldou a história europeia da Investidura ao Concílio de Trento."
+      "importancia": "A aliança Papa-Carolíngios foi o fundamento do poder medieval europeu: os reis precisavam da legitimação religiosa; o Papa precisava de proteção militar. Esta interdependência — e seus conflitos — moldou a história europeia da Investidura ao Concílio de Trento.",
+      "nome_en": "Pepin the Short and the Pope-Carolingian Alliance",
+      "nome_es": "Pipino el Breve y la Alianza Papa-Carolingios"
     },
     {
       "id": "clm-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "Carlos I (Carlomagno) expandiu o reino Franco em 30 anos de guerra: Saxônia (772-804, conversão forçada ao cristianismo), Bavária, Lombardia, Espanha (fracasso em Saragoça — Roland morreu em Roncevales), Avares do Danúbio. Na véspera de Natal de 800, o Papa Leão III coroou-o Imperador dos Romanos em São Pedro.",
-      "importancia": "A coroação de 800 foi o ato político mais consequente da Europa medieval: ressuscitou a ideia imperial ocidental e criou a rivalidade entre Papa e Imperador que definiria a política europeia por cinco séculos. Carlomagno é reivindicado por França e Alemanha como 'Pai da Europa'."
+      "importancia": "A coroação de 800 foi o ato político mais consequente da Europa medieval: ressuscitou a ideia imperial ocidental e criou a rivalidade entre Papa e Imperador que definiria a política europeia por cinco séculos. Carlomagno é reivindicado por França e Alemanha como 'Pai da Europa'.",
+      "nome_en": "Charlemagne: Conquests and Renovatio Imperii (768–814)",
+      "nome_es": "Carlomagno: Conquistas y Renovatio Imperii (768–814)"
     },
     {
       "id": "clm-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Carlomagno reuniu em Aachen os melhores intelectuais da Europa: Alcuíno de York (educação), Paulo Diácono (história lombarda), Einhard (biógrafo). Estabeleceu escolas em cada mosteiro e catedral, padronizou a escrita (minúscula carolíngia — ancestral de nossa letra atual), o latim litúrgico, pesos e medidas.",
-      "importancia": "O Renascimento Carolíngio salvou uma enorme quantidade de textos clássicos que só existem em cópias carolíngias. A minúscula carolíngia foi a fonte direta do tipo romano que os humanistas renascentistas 'redescobrirão' como 'letra antiga' — e que você está lendo agora."
+      "importancia": "O Renascimento Carolíngio salvou uma enorme quantidade de textos clássicos que só existem em cópias carolíngias. A minúscula carolíngia foi a fonte direta do tipo romano que os humanistas renascentistas 'redescobrirão' como 'letra antiga' — e que você está lendo agora.",
+      "nome_en": "Carolingian Renaissance: Alcuin and Cultural Reform",
+      "nome_es": "Renacimiento Carolingio: Alcuino y la Reforma Cultural"
     },
     {
       "id": "clm-005",
@@ -54,7 +62,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Os três filhos de Luís, o Piedoso (filho de Carlomagno), dividiram o Império pelo Tratado de Verdun (843): Lotário ficou com a faixa central (Lotaríngia), Luís com a Germania, Carlos com a Gália. Esta divisão é o ancestral direto da divisão entre França e Alemanha — e Lotaríngia (Alsácia-Lorena) seria pomo de discórdia até 1945.",
-      "importancia": "O Tratado de Verdun foi talvez o documento geopolítico mais importante da história europeia: criou as nações-embrião que se tornariam França, Alemanha e Itália. A língua franca dos dois lados do Reno divergiu a partir daí — os juramentos de Strasbourg (842) são o mais antigo texto em francês e alemão antigas."
+      "importancia": "O Tratado de Verdun foi talvez o documento geopolítico mais importante da história europeia: criou as nações-embrião que se tornariam França, Alemanha e Itália. A língua franca dos dois lados do Reno divergiu a partir daí — os juramentos de Strasbourg (842) são o mais antigo texto em francês e alemão antigas.",
+      "nome_en": "Division of the Empire: Treaty of Verdun (843)",
+      "nome_es": "División del Imperio: Tratado de Verdún (843)"
     },
     {
       "id": "car1",

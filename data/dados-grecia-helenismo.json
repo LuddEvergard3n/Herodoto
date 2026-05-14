@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Morte de Alexandre (323 a.C.) sem herdeiro capaz desencadeou as Guerras dos Diádocos (sucessores). Três grandes reinos surgiram: Ptolemaico (Egito), Selêucida (Oriente) e Macedônio (Antígonidas). Cada um mesclou cultura grega com tradições locais — helenismo como fenômeno de fusão.",
-      "importancia": "O período helenístico não foi o ocaso da Grécia, mas sua expansão máxima: a língua grega (koiné) tornou-se o latim da Antiguidade, falada do Mediterrâneo à Índia. O Novo Testamento seria escrito em grego helenístico 300 anos depois."
+      "importancia": "O período helenístico não foi o ocaso da Grécia, mas sua expansão máxima: a língua grega (koiné) tornou-se o latim da Antiguidade, falada do Mediterrâneo à Índia. O Novo Testamento seria escrito em grego helenístico 300 anos depois.",
+      "nome_en": "Division of the Empire after Alexander (323 BC)",
+      "nome_es": "División del Imperio tras Alejandro (323 a.C.)"
     },
     {
       "id": "ghl-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Fundada por Alexandre em 331 a.C. no delta do Nilo, Alexandria tornou-se a maior cidade do mundo mediterrâneo com 500.000 habitantes. A Biblioteca de Alexandria reuniu até 700.000 rolos — o maior acervo do mundo antigo. O Farol (uma das Sete Maravilhas) orientava navios a 50 km.",
-      "importancia": "Alexandria simboliza a síntese helenística: gregos, egípcios, judeus, persas e orientais convivendo, traduzindo, debatendo. A Septuaginta (Bíblia em grego) foi produzida aqui para os judeus da diáspora que já não liam hebraico."
+      "importancia": "Alexandria simboliza a síntese helenística: gregos, egípcios, judeus, persas e orientais convivendo, traduzindo, debatendo. A Septuaginta (Bíblia em grego) foi produzida aqui para os judeus da diáspora que já não liam hebraico.",
+      "nome_en": "Alexandria: Capital of the Hellenistic World",
+      "nome_es": "Alejandría: Capital del Mundo Helenístico"
     },
     {
       "id": "ghl-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Euclides sistematizou a geometria nos Elementos (c.300 a.C.) — o livro mais reeditado da história após a Bíblia. Arquimedes calculou pi, inventou a bomba de parafuso e projetou máquinas de guerra. Eratóstenes mediu a circunferência da Terra com erro de 1%.",
-      "importancia": "A ciência helenística foi a primeira tradição científica sistemática — não apenas observação, mas demonstração lógica e quantificação. Hipárco catalogou 850 estrelas e calculou a precessão dos equinócios 2.000 anos antes de Newton."
+      "importancia": "A ciência helenística foi a primeira tradição científica sistemática — não apenas observação, mas demonstração lógica e quantificação. Hipárco catalogou 850 estrelas e calculou a precessão dos equinócios 2.000 anos antes de Newton.",
+      "nome_en": "Hellenistic Science: Euclid, Archimedes, Eratosthenes",
+      "nome_es": "Ciencia Helenística: Euclides, Arquímedes, Eratóstenes"
     },
     {
       "id": "ghl-004",
@@ -43,7 +49,9 @@
       "regiao": "MiddleEast",
       "peso": 0.75,
       "descricao": "Seleuco I fundou o maior dos reinos helenísticos: da Anatólia ao Punjab. Mantinha cidades gregas como Selêucia no Tigre (rivalizando Babilônia). Perdeu gradualmente os territórios orientais — Pártia e Bactria tornaram-se independentes; o leste foi cedido a Chandragupta Maurya em troca de elefantes de guerra.",
-      "importancia": "O Império Selêucida foi a ponte entre o mundo grego e o persa-oriental. A Bactria (atual Afeganistão) produziu o reino greco-bactriano — cidades gregas com iconografia budista, exemplo extremo da fusão helenística."
+      "importancia": "O Império Selêucida foi a ponte entre o mundo grego e o persa-oriental. A Bactria (atual Afeganistão) produziu o reino greco-bactriano — cidades gregas com iconografia budista, exemplo extremo da fusão helenística.",
+      "nome_en": "Seleucid Kingdom: From Syria to India",
+      "nome_es": "Reino Seléucida: De Siria a la India"
     },
     {
       "id": "ghl-005",
@@ -54,7 +62,9 @@
       "regiao": "Africa",
       "peso": 0.8,
       "descricao": "Os Ptolomeus (descendentes de Ptolomeu I, general de Alexandre) governaram o Egito por 275 anos. Mantiveram os faraós como fachada religiosa enquanto governavam como reis gregos. Cleópatra VII foi a única de toda a dinastia a aprender egípcio. A batalha de Actium (31 a.C.) entregou o Egito a Roma.",
-      "importancia": "O Egito Ptolomaico foi o mais rico dos reinos helenísticos — controlava o comércio do Mediterrâneo oriental e o trigo que alimentava Roma. A fusão dos cultos (Serápis: Osíris + Zeus) exemplifica o sincretismo religioso que caracterizou o helenismo."
+      "importancia": "O Egito Ptolomaico foi o mais rico dos reinos helenísticos — controlava o comércio do Mediterrâneo oriental e o trigo que alimentava Roma. A fusão dos cultos (Serápis: Osíris + Zeus) exemplifica o sincretismo religioso que caracterizou o helenismo.",
+      "nome_en": "Ptolemies and Hellenistic Egypt",
+      "nome_es": "Los Ptolomeos y el Egipto Helenístico"
     },
     {
       "id": "ghl-006",
@@ -65,7 +75,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Com a polis em crise, a filosofia voltou-se para a ética individual. Zenão de Cítio fundou o Estoicismo (c.300 a.C.): viver segundo a razão, aceitar o destino, dever cívico universal. Epicuro: a felicidade é ausência de dor e medo — retire-se da política. Pirro de Élis: nada pode ser conhecido com certeza — suspenda o julgamento.",
-      "importancia": "O Estoicismo tornou-se a filosofia dominante do mundo romano (Marco Aurélio, Sêneca, Epicteto) e influenciou o pensamento cristão. A ideia estoica de logos universal e cosmopolitismo — 'sou cidadão do mundo' — foi radicalmente nova na Antiguidade."
+      "importancia": "O Estoicismo tornou-se a filosofia dominante do mundo romano (Marco Aurélio, Sêneca, Epicteto) e influenciou o pensamento cristão. A ideia estoica de logos universal e cosmopolitismo — 'sou cidadão do mundo' — foi radicalmente nova na Antiguidade.",
+      "nome_en": "Hellenistic Philosophy: Stoicism, Epicureanism, Skepticism",
+      "nome_es": "Filosofía Helenística: Estoicismo, Epicureísmo, Escepticismo"
     },
     {
       "id": "ghl-007",
@@ -76,7 +88,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Roma avançou progressivamente sobre o mundo helenístico: Macedônia derrotada em 168 a.C. (Pidna), Grécia tornada província em 146 a.C. (destruição de Corinto no mesmo ano que Cartago), reino selêucida enfraquecido. Apenas o Egito ptolomaico sobreviveu como Estado independente — até Actium (31 a.C.).",
-      "importancia": "A conquista romana do mundo helenístico completou a circulação: Roma absorveu a cultura grega enquanto a espalhava ainda mais amplamente. Horácio: 'Graecia capta ferum victorem cepit' — a Grécia capturada capturou seu feroz vencedor."
+      "importancia": "A conquista romana do mundo helenístico completou a circulação: Roma absorveu a cultura grega enquanto a espalhava ainda mais amplamente. Horácio: 'Graecia capta ferum victorem cepit' — a Grécia capturada capturou seu feroz vencedor.",
+      "nome_en": "The Hellenistic Collapse and the Expansion of Rome",
+      "nome_es": "El Colapso Helenístico y la Expansión de Roma"
     },
     {
       "id": "gh1",

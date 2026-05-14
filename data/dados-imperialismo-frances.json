@@ -10,7 +10,9 @@
       "regiao": "Africa",
       "peso": 0.8,
       "descricao": "Carlos X invadiu a Argélia em 1830 — originalmente para distrair da crise política interna. A 'pacificação' durou 17 anos: Abdelkader resistiu até 1847 com uma guerrilha que o general Bugeaud combateu com massacres e fumaça (enfumades) de tribos em cavernas. A Argélia foi declarada 'departamento' francês — não colônia — e colonizada por europeus (pieds-noirs).",
-      "importancia": "A conquista da Argélia foi o modelo do colonialismo francês e o laboratório das técnicas de contra-insurgência (Bugeaud) que a França usaria no Vietnã e outros. A guerra de independência argelina (1954-62) foi também o espelho: as mesmas técnicas — tortura, 'pacificação', campos de internamento — tornaram-se internacionalmente denunciadas quando usadas contra europeus."
+      "importancia": "A conquista da Argélia foi o modelo do colonialismo francês e o laboratório das técnicas de contra-insurgência (Bugeaud) que a França usaria no Vietnã e outros. A guerra de independência argelina (1954-62) foi também o espelho: as mesmas técnicas — tortura, 'pacificação', campos de internamento — tornaram-se internacionalmente denunciadas quando usadas contra europeus.",
+      "nome_en": "The Conquest of Algeria (1830–1871)",
+      "nome_es": "La Conquista de Argelia (1830–1871)"
     },
     {
       "id": "ifr-002",
@@ -21,7 +23,9 @@
       "regiao": "Global",
       "peso": 0.75,
       "descricao": "Napoleão III expandiu o Império francês: Indochina (Cochinchina anexada 1859), Camboja (protetorado 1863), intervenção no México (Maximiliano I, 1863-67 — fracasso). Guerra da Crimeia aliada com a Grã-Bretanha (1853-56): prestígio diplomático mas custo enorme. Participação na unificação italiana (batalhas de Magenta e Solferino). Sedan (1870): capturado por Bismarck — fim do Segundo Império.",
-      "importancia": "Napoleão III é um caso de política exterior permanentemente desequilibrada: ambições globais sem recursos para sustentá-las. Mas a Indochina francesa que ele fundou (Vietnã, Laos, Camboja) custaria 1 milhão de mortos à França entre 1946 e 1954 — e 58.000 americanos entre 1965 e 1975."
+      "importancia": "Napoleão III é um caso de política exterior permanentemente desequilibrada: ambições globais sem recursos para sustentá-las. Mas a Indochina francesa que ele fundou (Vietnã, Laos, Camboja) custaria 1 milhão de mortos à França entre 1946 e 1954 — e 58.000 americanos entre 1965 e 1975.",
+      "nome_en": "The Second Empire and Napoleon III's Imperialism (1852–1870)",
+      "nome_es": "El Segundo Imperio y el Imperialismo de Napoleón III (1852–1870)"
     },
     {
       "id": "ifr-003",
@@ -32,7 +36,9 @@
       "regiao": "Global",
       "peso": 0.8,
       "descricao": "A Terceira República expandiu enormemente o Império: Jules Ferry ('expansão colonial é necessidade econômica'). África Ocidental Francesa e África Equatorial (Senegal, Mali, Costa do Marfim, Congo, Níger). Marrocos (protetorado 1912). Indochina consolidada (1887). Madagáscar (1896). No auge: 10 milhões de km², 50 milhões de habitantes — o segundo maior império colonial.",
-      "importancia": "O imperialismo republicano francês foi paradoxal: uma república que pregava liberdade, igualdade e fraternidade negava estes valores às suas colônias. A 'missão civilizadora' francesa era mais assimilacionista que o modelo britânico (cidadania francesa como objetivo teórico) — mas na prática igualmente exploratória."
+      "importancia": "O imperialismo republicano francês foi paradoxal: uma república que pregava liberdade, igualdade e fraternidade negava estes valores às suas colônias. A 'missão civilizadora' francesa era mais assimilacionista que o modelo britânico (cidadania francesa como objetivo teórico) — mas na prática igualmente exploratória.",
+      "nome_en": "The Third Republic and the Colonial Empire (1880–1914)",
+      "nome_es": "La Tercera República y el Imperio Colonial (1880–1914)"
     },
     {
       "id": "ifr-004",
@@ -43,7 +49,9 @@
       "regiao": "Global",
       "peso": 0.8,
       "descricao": "A França resistiu mais à descolonização que a Grã-Bretanha: Indochina (Guerra de 1946-54 — Dien Bien Phu, derrota humilhante); Argélia (1954-62 — 300.000 mortos, tortura, colunistas do exército tentaram golpe em 1961). De Gaulle negociou a independência argelina (Evian, 1962) — e sobreviveu a 30 tentativas de assassinato pelo OAS. A África subsaariana independente nos anos 1960 com laços mantidos (Françafrique).",
-      "importancia": "A guerra da Argélia foi o trauma fundador da França contemporânea: dividiu a esquerda entre anticolonialismo e solidariedade com os pieds-noirs, produziu a crise que trouxe De Gaulle ao poder (1958) e criou a Quinta República. As cicatrizes — memória da tortura, identidade dos harkis — são ainda politicamente vivas na França de 2023."
+      "importancia": "A guerra da Argélia foi o trauma fundador da França contemporânea: dividiu a esquerda entre anticolonialismo e solidariedade com os pieds-noirs, produziu a crise que trouxe De Gaulle ao poder (1958) e criou a Quinta República. As cicatrizes — memória da tortura, identidade dos harkis — são ainda politicamente vivas na França de 2023.",
+      "nome_en": "Decolonization and the Independence of French Colonies (1944–1962)",
+      "nome_es": "Descolonización y la Independencia de las Colonias Francesas (1944–1962)"
     },
     {
       "id": "if1x",

@@ -1,0 +1,92 @@
+{
+  "periodo": "Oceania Contemporânea: Independência, Identidade e Crise Climática",
+  "entidades": [
+    {
+      "id": "ocn-001",
+      "nome": "Descolonização do Pacífico (1962–1980)",
+      "nome_en": "Decolonization of the Pacific (1962–1980)",
+      "nome_es": "Descolonización del Pacífico (1962–1980)",
+      "tipo": "political",
+      "ano_inicio": 1962,
+      "ano_fim": 1980,
+      "seculo": 20,
+      "continente": "oceania",
+      "importancia": 4,
+      "descricao": "A descolonização do Pacífico foi tardia e incompleta. Samoa tornou-se independente em 1962 (primeiro país polinésio). Nauru (1968), Tonga (1970), Fiji (1970), Papua Nova Guiné (1975), Ilhas Salomão (1978), Kiribati e Tuvalu (1979), Vanuatu (1980). Muitos territórios permanecem sob controle francês (Polinésia Francesa, Nova Caledônia), americano (Guam, Samoa Americana, Ilhas Marianas) ou neozelandês. A New Caledônia votou três vezes (2018, 2020, 2021) pela permanência na França — mas os kanaks indígenas votam majoritariamente pela independência.",
+      "descricao_en": "Decolonization of the Pacific was late and incomplete. Samoa became independent in 1962 (first Polynesian country). Nauru (1968), Tonga (1970), Fiji (1970), Papua New Guinea (1975), Solomon Islands (1978), Kiribati and Tuvalu (1979), Vanuatu (1980). Many territories remain under French (French Polynesia, New Caledonia), American (Guam, American Samoa, Mariana Islands) or New Zealand control. New Caledonia voted three times (2018, 2020, 2021) to remain with France — but indigenous Kanak people vote predominantly for independence.",
+      "descricao_es": "La descolonización del Pacífico fue tardía e incompleta. Samoa se independizó en 1962 (primer país polinesio). Nauru (1968), Tonga (1970), Fiyi (1970), Papúa Nueva Guinea (1975), Islas Salomón (1978), Kiribati y Tuvalu (1979), Vanuatu (1980). Muchos territorios permanecen bajo control francés (Polinesia Francesa, Nueva Caledonia), americano (Guam, Samoa Americana, Islas Marianas) o neozelandés. Nueva Caledonia votó tres veces (2018, 2020, 2021) por permanecer en Francia — pero los kanak indígenas votan mayoritariamente por la independencia."
+    },
+    {
+      "id": "ocn-002",
+      "nome": "A Crise Climática e o Pacífico: Países que Podem Desaparecer",
+      "nome_en": "The Climate Crisis and the Pacific: Countries That May Disappear",
+      "nome_es": "La Crisis Climática y el Pacífico: Países que Pueden Desaparecer",
+      "tipo": "social",
+      "ano_inicio": 1990,
+      "ano_fim": 2100,
+      "seculo": 20,
+      "continente": "oceania",
+      "importancia": 5,
+      "descricao": "Tuvalu, Kiribati e as Maldivas são países que podem deixar de existir neste século devido ao aumento do nível do mar causado pelas mudanças climáticas. O ponto mais alto de Tuvalu tem 4,5 metros. Seus 11.000 habitantes já negociam a compra de terras na Nova Zelândia e Fiji. Em 2023, Tuvalu assinou um tratado histórico com a Austrália garantindo residência a todos os seus cidadãos caso a ilha se torne inabitável. Países que produziram menos de 0,01% das emissões globais de CO₂ pagarão com a existência nacional pelos países que produziram o resto.",
+      "descricao_en": "Tuvalu, Kiribati and the Maldives are countries that may cease to exist this century due to rising sea levels caused by climate change. Tuvalu's highest point is 4.5 meters. Its 11,000 inhabitants are already negotiating land purchases in New Zealand and Fiji. In 2023, Tuvalu signed a historic treaty with Australia guaranteeing residency to all its citizens if the island becomes uninhabitable. Countries that produced less than 0.01% of global CO₂ emissions will pay with their national existence for the countries that produced the rest.",
+      "descricao_es": "Tuvalu, Kiribati y las Maldivas son países que pueden dejar de existir en este siglo debido al aumento del nivel del mar causado por el cambio climático. El punto más alto de Tuvalu tiene 4,5 metros. Sus 11.000 habitantes ya negocian la compra de tierras en Nueva Zelanda y Fiyi. En 2023, Tuvalu firmó un tratado histórico con Australia garantizando residencia a todos sus ciudadanos si la isla se vuelve inhabitable. Países que produjeron menos del 0,01% de las emisiones globales de CO₂ pagarán con su existencia nacional por los países que produjeron el resto."
+    },
+    {
+      "id": "ocn-003",
+      "nome": "Renascimento Cultural Indígena: Da Waka à Política",
+      "nome_en": "Indigenous Cultural Renaissance: From Waka to Politics",
+      "nome_es": "Renacimiento Cultural Indígena: De la Waka a la Política",
+      "tipo": "cultural",
+      "ano_inicio": 1970,
+      "ano_fim": 2024,
+      "seculo": 20,
+      "continente": "oceania",
+      "importancia": 4,
+      "descricao": "Desde os anos 1970, um poderoso renascimento cultural indígena transformou a Oceania. Na Nova Zelândia, o maori tornou-se língua oficial (1987) e o haka é reconhecido globalmente pelos All Blacks. O movimento Te Kohanga Reo ('ninho linguístico', 1982) salvou a língua maori da extinção. Na Austrália, artistas como Albert Namatjira e Emily Kngwarreye levaram a arte aborígene aos maiores museus do mundo. Em toda a Polinésia, a navegação tradicional foi revivida: o Hokule'a, canoa construída com técnicas tradicionais, circunavegou o globo entre 2013 e 2017.",
+      "descricao_en": "Since the 1970s, a powerful indigenous cultural renaissance has transformed Oceania. In New Zealand, Māori became an official language (1987) and the haka is globally recognized through the All Blacks. The Te Kōhanga Reo movement ('language nest', 1982) saved the Māori language from extinction. In Australia, artists like Albert Namatjira and Emily Kngwarreye brought Aboriginal art to the world's greatest museums. Throughout Polynesia, traditional navigation was revived: the Hokule'a, a canoe built with traditional techniques, circumnavigated the globe between 2013 and 2017.",
+      "descricao_es": "Desde los años 1970, un poderoso renacimiento cultural indígena transformó Oceanía. En Nueva Zelanda, el māori se convirtió en lengua oficial (1987) y el haka es reconocido globalmente por los All Blacks. El movimiento Te Kōhanga Reo ('nido lingüístico', 1982) salvó la lengua māori de la extinción. En Australia, artistas como Albert Namatjira y Emily Kngwarreye llevaron el arte aborigen a los mayores museos del mundo. En toda la Polinesia, la navegación tradicional fue revivida: el Hokule'a, canoa construida con técnicas tradicionales, circunnavegó el globo entre 2013 y 2017."
+    },
+    {
+      "id": "ocn-004",
+      "nome": "A Austrália Como Potência Regional e suas Contradições",
+      "nome_en": "Australia as a Regional Power and Its Contradictions",
+      "nome_es": "Australia como Potencia Regional y sus Contradicciones",
+      "tipo": "political",
+      "ano_inicio": 1901,
+      "ano_fim": 2024,
+      "seculo": 20,
+      "continente": "oceania",
+      "importancia": 4,
+      "descricao": "A Austrália federou seus estados em 1901, mas a 'Política da Austrália Branca' excluiu imigrantes não-europeus até 1973. É hoje uma das economias mais ricas e multiculturais do mundo — e ao mesmo tempo o país com a maior taxa de encarceramento indígena do mundo (aborígenes são 3% da população mas 28% dos presos). A questão da república versus monarquia e o debate sobre um tratado formal com os povos indígenas permanecem irresolvidos. Em 2023, um referendo sobre criar um Conselho Aborígene consultivo na Constituição foi rejeitado por 60% dos australianos.",
+      "descricao_en": "Australia federated its states in 1901, but the 'White Australia Policy' excluded non-European immigrants until 1973. It is today one of the wealthiest and most multicultural economies in the world — and at the same time the country with the highest indigenous incarceration rate in the world (Aboriginal peoples are 3% of the population but 28% of prisoners). The question of republic versus monarchy and the debate on a formal treaty with indigenous peoples remain unresolved. In 2023, a referendum on creating an Aboriginal consultative council in the Constitution was rejected by 60% of Australians.",
+      "descricao_es": "Australia federó sus estados en 1901, pero la 'Política de Australia Blanca' excluyó a los inmigrantes no europeos hasta 1973. Es hoy una de las economías más ricas y multiculturales del mundo — y al mismo tiempo el país con la mayor tasa de encarcelamiento indígena del mundo (los aborígenes son el 3% de la población pero el 28% de los presos). La cuestión de la república versus la monarquía y el debate sobre un tratado formal con los pueblos indígenas permanecen irresueltos. En 2023, un referéndum sobre crear un Consejo Aborigen consultivo en la Constitución fue rechazado por el 60% de los australianos."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ocn-001",
+      "destino": "ocn-002",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "ocn-001",
+      "destino": "ocn-003",
+      "tipo": "causal"
+    },
+    {
+      "origem": "ocn-002",
+      "destino": "ocn-003",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "ocn-003",
+      "destino": "ocn-004",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "ocn-001",
+      "destino": "ocn-004",
+      "tipo": "tematica"
+    }
+  ]
+}

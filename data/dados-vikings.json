@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "O saque de Lindisfarne (793) inaugurou a Era Viking. Nórdicos escandinavos — noruegueses, dinamarqueses e suecos — expandiram-se por toda a Europa por 250 anos. Causas debatidas: superpopulação, primogenitura, melhora na construção naval (drakkar), colapso do poder carolíngio que deixou costas desprotegidas.",
-      "importancia": "Os Vikings foram simultaneamente os terror da Europa medieval e seus mercadores, exploradores e colonizadores mais audaciosos. Chegaram à América do Norte 500 anos antes de Colombo (Leif Eriksson, c.1000) e ao Oriente Médio pelos rios russos."
+      "importancia": "Os Vikings foram simultaneamente os terror da Europa medieval e seus mercadores, exploradores e colonizadores mais audaciosos. Chegaram à América do Norte 500 anos antes de Colombo (Leif Eriksson, c.1000) e ao Oriente Médio pelos rios russos.",
+      "nome_en": "The Viking Age: Origins and Causes of Expansion (793–900)",
+      "nome_es": "La Era Vikinga: Orígenes y Causas de la Expansión (793–900)"
     },
     {
       "id": "vik-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Suecos (chamados Varegues ou Rus) penetraram os rios da Europa Oriental — Dnieper, Volga — chegando a Constantinopla e ao Caspio. Fundaram Novgorod (c.860) e Quieve (882) — núcleo do futuro Estado russo. Comerciavam escravos, peles e âmbar por seda e prata islâmica. A Guarda Varegue tornou-se a elite militar de Bizâncio.",
-      "importancia": "O nome 'Rússia' deriva provavelmente de 'Rus', o nome dado pelos eslavos aos nórdicos. A fundação de Kiev pelos Varegues é um dos debates históricos mais politizados da Europa Oriental — relevante para o conflito russo-ucraniano contemporâneo."
+      "importancia": "O nome 'Rússia' deriva provavelmente de 'Rus', o nome dado pelos eslavos aos nórdicos. A fundação de Kiev pelos Varegues é um dos debates históricos mais politizados da Europa Oriental — relevante para o conflito russo-ucraniano contemporâneo.",
+      "nome_en": "Eastern Routes: Varangians and the Foundation of Russia",
+      "nome_es": "Rutas Orientales: Varegos y la Fundación de Rusia"
     },
     {
       "id": "vik-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Noruegueses colonizaram Islândia (c.870) e Groenlândia (Erik, o Vermelho, 985). Leif Eriksson chegou à América do Norte c.1000 — Vinland, provavelmente a costa canadiana (L'Anse aux Meadows, Newfoundland, confirmado por arqueologia). A colônia americana não durou — conflito com nativos e isolamento.",
-      "importancia": "A chegada viking à América é o primeiro contato documentado entre o Velho e o Novo Mundo. Por que não continuaram? Provavelmente porque não tinham os agentes de mortandade — a varíola — que tornaram a conquista europeia dos séculos XV-XVI tão devastadora."
+      "importancia": "A chegada viking à América é o primeiro contato documentado entre o Velho e o Novo Mundo. Por que não continuaram? Provavelmente porque não tinham os agentes de mortandade — a varíola — que tornaram a conquista europeia dos séculos XV-XVI tão devastadora.",
+      "nome_en": "North Atlantic Colonization: Iceland, Greenland, America",
+      "nome_es": "Colonización del Atlántico Norte: Islandia, Groenlandia, América"
     },
     {
       "id": "vik-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Carlos III da França concedeu a Normandia ao chefe viking Rollo (911) em troca de defesa da costa. Os descendentes (Normandos) assimilaram a língua francesa e a religião cristã em uma geração, mas mantiveram ferocidade militar. Guilherme, o Conquistador, invadiu a Inglaterra em 1066 (Hastings) — transformando a língua inglesa para sempre.",
-      "importancia": "Os Normandos foram os grandes conquistadores do século XI: Guilherme na Inglaterra, Roberto Guiscardo na Itália do Sul e Sicília, Boemundo na Primeira Cruzada. Um povo de piratas escandinavos tornou-se a elite guerreira mais eficaz da Europa medieval em três gerações."
+      "importancia": "Os Normandos foram os grandes conquistadores do século XI: Guilherme na Inglaterra, Roberto Guiscardo na Itália do Sul e Sicília, Boemundo na Primeira Cruzada. Um povo de piratas escandinavos tornou-se a elite guerreira mais eficaz da Europa medieval em três gerações.",
+      "nome_en": "Normans: From Pirates to Conquerors (911–1066)",
+      "nome_es": "Normandos: De Piratas a Conquistadores (911–1066)"
     },
     {
       "id": "vik-005",
@@ -54,7 +62,9 @@
       "regiao": "Europe",
       "peso": 0.75,
       "descricao": "A religião nórdica tinha deuses humanizados: Odin (sabedoria, guerra, morte), Thor (trovão, protetor), Freyr (fertilidade), Loki (engano). Valhalla: os guerreiros mortos em combate banqueteavam com Odin. As Sagas islandesas (sécs. XIII-XIV) preservaram a tradição oral: Eddas de Snorri Sturluson. A conversão ao Cristianismo ocorreu progressivamente 950-1050.",
-      "importancia": "A mitologia nórdica sobreviveu melhor do que qualquer outra tradição germânica — graças ao isolamento da Islândia. Os nomes dos dias da semana em inglês preservam os deuses nórdicos: Tuesday (Tyr), Wednesday (Wotan/Odin), Thursday (Thor), Friday (Freya)."
+      "importancia": "A mitologia nórdica sobreviveu melhor do que qualquer outra tradição germânica — graças ao isolamento da Islândia. Os nomes dos dias da semana em inglês preservam os deuses nórdicos: Tuesday (Tyr), Wednesday (Wotan/Odin), Thursday (Thor), Friday (Freya).",
+      "nome_en": "Viking Culture and Religion: Saga, Odin and the End of the Era",
+      "nome_es": "Cultura y Religión Vikinga: Saga, Odín y el Fin de la Era"
     },
     {
       "id": "vik1",

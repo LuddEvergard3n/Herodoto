@@ -1,0 +1,112 @@
+{
+  "periodo": "América Central: História e Conflito (1821–presente)",
+  "entidades": [
+    {
+      "id": "amc-001",
+      "nome": "A Federação Centro-Americana e sua Dissolução (1823–1840)",
+      "nome_en": "The Central American Federation and Its Dissolution (1823–1840)",
+      "nome_es": "La Federación Centroamericana y su Disolución (1823–1840)",
+      "tipo": "political",
+      "ano_inicio": 1823,
+      "ano_fim": 1840,
+      "seculo": 19,
+      "continente": "americas",
+      "importancia": 4,
+      "descricao": "Após a independência da Espanha (1821), a América Central tentou unir-se como Províncias Unidas da América Central. O projeto durou 17 anos antes de fragmentar-se em Guatemala, El Salvador, Honduras, Nicarágua e Costa Rica — cada um com elites locais que preferiram o poder regional ao projeto federal. A fragmentação determinou um século de instabilidade política: repúblicas de elite agrária, golpes militares frequentes e extrema dependência econômica de uma ou duas commodities (café, bananas). A Federação que não aconteceu é o contrafactual que assombra a política centro-americana até hoje.",
+      "descricao_en": "After independence from Spain (1821), Central America attempted to unite as the United Provinces of Central America. The project lasted 17 years before fragmenting into Guatemala, El Salvador, Honduras, Nicaragua and Costa Rica — each with local elites who preferred regional power over the federal project. The fragmentation determined a century of political instability: agrarian elite republics, frequent military coups and extreme economic dependence on one or two commodities (coffee, bananas). The Federation that didn't happen is the counterfactual that haunts Central American politics to this day.",
+      "descricao_es": "Tras la independencia de España (1821), Centroamérica intentó unirse como Provincias Unidas de Centroamérica. El proyecto duró 17 años antes de fragmentarse en Guatemala, El Salvador, Honduras, Nicaragua y Costa Rica — cada uno con élites locales que prefirieron el poder regional al proyecto federal. La fragmentación determinó un siglo de inestabilidad política: repúblicas de élite agraria, frecuentes golpes militares y extrema dependencia económica de una o dos materias primas (café, bananas). La Federación que no ocurrió es el contrafáctico que acecha a la política centroamericana hasta hoy."
+    },
+    {
+      "id": "amc-002",
+      "nome": "As Repúblicas de Banana: UFC e o Imperialismo Americano (1870–1954)",
+      "nome_en": "The Banana Republics: UFC and American Imperialism (1870–1954)",
+      "nome_es": "Las Repúblicas Bananeras: UFC y el Imperialismo Americano (1870–1954)",
+      "tipo": "economic",
+      "ano_inicio": 1870,
+      "ano_fim": 1954,
+      "seculo": 19,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "A United Fruit Company (UFC, fundada 1899) tornou-se o Estado dentro do Estado em Guatemala, Honduras, Panamá e Costa Rica: controlava ferrovias, portos, comunicações e terras — mais território do que muitos países europeus. O escritor O. Henry cunhou o termo 'república de banana' para descrever esses países clientelistas da UFC. Em 1954, a CIA derrubou o governo eleito de Jacobo Árbenz na Guatemala porque ele ousou nacionalizar terras ociosas da UFC — numa operação (PBSUCCESS) que o próprio governo americano classificou por décadas. A Guatemala mergulhou numa guerra civil de 36 anos que matou 200.000 pessoas.",
+      "descricao_en": "The United Fruit Company (UFC, founded 1899) became a state within a state in Guatemala, Honduras, Panama and Costa Rica: it controlled railways, ports, communications and land — more territory than many European countries. Writer O. Henry coined the term 'banana republic' to describe these UFC client states. In 1954, the CIA overthrew the elected government of Jacobo Árbenz in Guatemala because he dared to nationalize idle UFC land — in an operation (PBSUCCESS) that the US government classified for decades. Guatemala plunged into a 36-year civil war that killed 200,000 people.",
+      "descricao_es": "La United Fruit Company (UFC, fundada en 1899) se convirtió en un Estado dentro del Estado en Guatemala, Honduras, Panamá y Costa Rica: controlaba ferrocarriles, puertos, comunicaciones y tierras — más territorio que muchos países europeos. El escritor O. Henry acuñó el término 'república bananera' para describir estos países clientes de la UFC. En 1954, la CIA derrocó al gobierno electo de Jacobo Árbenz en Guatemala porque se atrevió a nationalizar tierras ociosas de la UFC — en una operación (PBSUCCESS) que el propio gobierno americano clasificó durante décadas. Guatemala se hundió en una guerra civil de 36 años que mató a 200.000 personas."
+    },
+    {
+      "id": "amc-003",
+      "nome": "Revolução Sandinista na Nicarágua (1979) e a Guerra dos Contras",
+      "nome_en": "Sandinista Revolution in Nicaragua (1979) and the Contra War",
+      "nome_es": "Revolución Sandinista en Nicaragua (1979) y la Guerra de los Contras",
+      "tipo": "political",
+      "ano_inicio": 1979,
+      "ano_fim": 1990,
+      "seculo": 20,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "Em 1979, a Frente Sandinista de Libertação Nacional derrubou a ditadura de Somoza — família que governava a Nicarágua como propriedade privada há 43 anos. O governo Reagan financiou ilegalmente os Contra (mercenários anti-sandinistas) com dinheiro da venda secreta de armas ao Irã — o escândalo Irã-Contra (1986). O Congresso americano havia proibido o financiamento. A Nicarágua levou o caso à Corte Internacional de Justiça — e ganhou. Os EUA ignoraram a decisão. A revolução sandinista alfabetizou 400.000 pessoas em um ano e depois foi desgastada pela guerra. Daniel Ortega, o líder sandinista, tornou-se décadas depois o ditador que a revolução havia prometido derrubar.",
+      "descricao_en": "In 1979, the Sandinista National Liberation Front overthrew the Somoza dictatorship — a family that had governed Nicaragua as private property for 43 years. The Reagan administration illegally funded the Contras (anti-Sandinista mercenaries) with money from the secret sale of arms to Iran — the Iran-Contra scandal (1986). The US Congress had prohibited funding. Nicaragua took the case to the International Court of Justice — and won. The US ignored the decision. The Sandinista revolution literated 400,000 people in one year and was then worn down by war. Daniel Ortega, the Sandinista leader, became decades later the dictator the revolution had promised to overthrow.",
+      "descricao_es": "En 1979, el Frente Sandinista de Liberación Nacional derrocó la dictadura de Somoza — familia que gobernaba Nicaragua como propiedad privada desde hacía 43 años. El gobierno Reagan financió ilegalmente a los Contra (mercenarios anti-sandinistas) con dinero de la venta secreta de armas a Irán — el escándalo Irán-Contra (1986). El Congreso americano había prohibido la financiación. Nicaragua llevó el caso a la Corte Internacional de Justicia — y ganó. EE.UU. ignoró la decisión. La revolución sandinista alfabetizó a 400.000 personas en un año y luego fue desgastada por la guerra. Daniel Ortega, el líder sandinista, se convirtió décadas después en el dictador que la revolución había prometido derrocar."
+    },
+    {
+      "id": "amc-004",
+      "nome": "El Salvador e Guatemala: Guerras Civis e Genocídio (1960–1996)",
+      "nome_en": "El Salvador and Guatemala: Civil Wars and Genocide (1960–1996)",
+      "nome_es": "El Salvador y Guatemala: Guerras Civiles y Genocidio (1960–1996)",
+      "tipo": "war",
+      "ano_inicio": 1960,
+      "ano_fim": 1996,
+      "seculo": 20,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "Guatemala viveu guerra civil de 1960 a 1996 (36 anos, 200.000 mortos, 83% dos quais indígenas maias). Em 1981–1983, o general Ríos Montt conduziu operações de terra arrasada contra comunidades indígenas — classificadas por tribunais guatemaltecos como genocídio em 2013. Em El Salvador, a guerra civil (1979–1992) incluiu o assassinato do Arcebispo Óscar Romero em missa (1980) e o massacre de El Mozote (1981, 900 civis). Os esquadrões da morte operavam com apoio americano. As verdades reveladas pelas Comissões da Verdade nos anos 1990 nunca foram plenamente reconhecidas pelos exércitos envolvidos.",
+      "descricao_en": "Guatemala experienced civil war from 1960 to 1996 (36 years, 200,000 dead, 83% of whom were Mayan indigenous people). In 1981–1983, General Ríos Montt conducted scorched-earth operations against indigenous communities — classified by Guatemalan courts as genocide in 2013. In El Salvador, the civil war (1979–1992) included the assassination of Archbishop Óscar Romero during Mass (1980) and the El Mozote massacre (1981, 900 civilians). Death squads operated with American support. The truths revealed by Truth Commissions in the 1990s were never fully acknowledged by the armies involved.",
+      "descricao_es": "Guatemala vivió guerra civil de 1960 a 1996 (36 años, 200.000 muertos, el 83% de los cuales eran indígenas mayas). En 1981–1983, el general Ríos Montt condujo operaciones de tierra arrasada contra comunidades indígenas — clasificadas por tribunales guatemaltecos como genocidio en 2013. En El Salvador, la guerra civil (1979–1992) incluyó el asesinato del Arzobispo Óscar Romero durante la misa (1980) y la masacre de El Mozote (1981, 900 civiles). Los escuadrones de la muerte operaban con apoyo americano. Las verdades reveladas por las Comisiones de la Verdad en los años 1990 nunca fueron reconocidas plenamente por los ejércitos involucrados."
+    },
+    {
+      "id": "amc-005",
+      "nome": "A Crise das Caravanas: Violência, Emigração e o Muro (2014–presente)",
+      "nome_en": "The Caravan Crisis: Violence, Emigration and the Wall (2014–present)",
+      "nome_es": "La Crisis de las Caravanas: Violencia, Emigración y el Muro (2014–presente)",
+      "tipo": "social",
+      "ano_inicio": 2014,
+      "ano_fim": 2024,
+      "seculo": 21,
+      "continente": "americas",
+      "importancia": 4,
+      "descricao": "O 'Triângulo do Norte' — Guatemala, Honduras, El Salvador — é hoje uma das regiões mais violentas do mundo fora de zonas de guerra. As maras (gangues Mara Salvatrucha e Barrio 18) controlam territórios inteiros. As raízes: a deportação em massa de imigrantes centro-americanos dos EUA nos anos 1990 que levou consigo a cultura das gangues de Los Angeles; a destruição das estruturas comunitárias pelas guerras civis; e décadas de impunidade dos exércitos financiados pelos EUA. As caravanas de migrantes que tentam chegar aos EUA são o legado directo de décadas de política externa americana na região.",
+      "descricao_en": "The 'Northern Triangle' — Guatemala, Honduras, El Salvador — is today one of the most violent regions in the world outside active war zones. Maras (Mara Salvatrucha and Barrio 18 gangs) control entire territories. The roots: mass deportation of Central American immigrants from the US in the 1990s that brought with it Los Angeles gang culture; the destruction of community structures by civil wars; and decades of impunity for US-funded armies. The migrant caravans attempting to reach the US are the direct legacy of decades of American foreign policy in the region.",
+      "descricao_es": "El 'Triángulo del Norte' — Guatemala, Honduras, El Salvador — es hoy una de las regiones más violentas del mundo fuera de zonas de guerra activa. Las maras (Mara Salvatrucha y Barrio 18) controlan territorios enteros. Las raíces: la deportación masiva de inmigrantes centroamericanos de EE.UU. en los años 1990 que llevó consigo la cultura de las pandillas de Los Ángeles; la destrucción de las estructuras comunitarias por las guerras civiles; y décadas de impunidad de los ejércitos financiados por EE.UU. Las caravanas de migrantes que intentan llegar a EE.UU. son el legado directo de décadas de política exterior americana en la región."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "amc-001",
+      "destino": "amc-002",
+      "tipo": "causal"
+    },
+    {
+      "origem": "amc-002",
+      "destino": "amc-003",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "amc-002",
+      "destino": "amc-004",
+      "tipo": "causal"
+    },
+    {
+      "origem": "amc-003",
+      "destino": "amc-004",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "amc-004",
+      "destino": "amc-005",
+      "tipo": "causal"
+    },
+    {
+      "origem": "amc-003",
+      "destino": "amc-005",
+      "tipo": "causal"
+    }
+  ]
+}

@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Quando Carlos VI morreu sem herdeiro masculino, sua filha Maria Teresa herdou os domínios Habsburgos. Frederico II da Prússia invadiu imediatamente a Silésia (a região mais rica). A 'Pragmática Sanção' que deveria garantir a herança feminina foi ignorada. Oito anos de guerra: Maria Teresa manteve tudo exceto a Silésia, perdida definitivamente. Liga das princesas (Áustria, França, Rússia) vs. Prússia e Grã-Bretanha.",
-      "importancia": "A perda da Silésia foi a humilhação que definiu a política austríaca por um século: recuperá-la tornou-se obsessão. A 'Renversement des alliances' (1756): a Áustria aliou-se à França (inimigos históricos) para tentar recuperar a Silésia na Guerra dos Sete Anos — e fracassou de novo. A Prússia manteve a Silésia e emergiu como grande potência."
+      "importancia": "A perda da Silésia foi a humilhação que definiu a política austríaca por um século: recuperá-la tornou-se obsessão. A 'Renversement des alliances' (1756): a Áustria aliou-se à França (inimigos históricos) para tentar recuperar a Silésia na Guerra dos Sete Anos — e fracassou de novo. A Prússia manteve a Silésia e emergiu como grande potência.",
+      "nome_en": "War of Austrian Succession (1740–1748)",
+      "nome_es": "La Guerra de Sucesión Austriaca (1740–1748)"
     },
     {
       "id": "apt-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Frederico II (o Grande) foi o mais ambivalente dos déspotas esclarecidos: amigo de Voltaire e filósofo (tocava flauta, escrevia em francês), mas construiu o Estado militar prussiano mais eficiente da Europa. 'Sou o primeiro servidor do Estado.' Reformou a justiça (abolição da tortura), tolerância religiosa, mas manteve a servidão dos camponeses e o exército como eixo do Estado.",
-      "importancia": "A Prússia de Frederico criou o modelo do Estado moderno eficiente e militarizado que Weber chamaria de 'burocracia racional'. A combinação prussiana de disciplina, eficiência administrativa e legalidade formal tornou-se o padrão que o Império Alemão de Bismarck e Guilherme II intensificou — com resultados catastróficos no século XX."
+      "importancia": "A Prússia de Frederico criou o modelo do Estado moderno eficiente e militarizado que Weber chamaria de 'burocracia racional'. A combinação prussiana de disciplina, eficiência administrativa e legalidade formal tornou-se o padrão que o Império Alemão de Bismarck e Guilherme II intensificou — com resultados catastróficos no século XX.",
+      "nome_en": "Frederick II of Prussia: The Model Enlightened Despot (1740–1786)",
+      "nome_es": "Federico II de Prusia: El Déspota Ilustrado Modelo (1740–1786)"
     },
     {
       "id": "apt-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Maria Teresa modernizou a administração habsburga após as guerras: centralização, burocracia profissional, escola obrigatória (1774), reforma agrária parcial. José II (1780-90) foi mais radical: aboliu a servidão, tolerância para protestantes e judeus (Edito de Tolerância 1781), dissolveu mosteiros, subordinou a Igreja ao Estado. As reformas foram tão radicais que geraram resistência e foram parcialmente revertidas.",
-      "importancia": "O experimento josefino demonstrou os limites do despotismo esclarecido: o reformador que não constrói consenso vê suas reformas revertidas ao morrer. José II aboliu a servidão da Hungria — mas os nobres húngaros resistiram e a servidão foi reintroduzida. A reforma 'de cima' sem participação social tem vida útil limitada."
+      "importancia": "O experimento josefino demonstrou os limites do despotismo esclarecido: o reformador que não constrói consenso vê suas reformas revertidas ao morrer. José II aboliu a servidão da Hungria — mas os nobres húngaros resistiram e a servidão foi reintroduzida. A reforma 'de cima' sem participação social tem vida útil limitada.",
+      "nome_en": "Maria Theresa and Joseph II: Habsburg Reform (1740–1790)",
+      "nome_es": "María Teresa y José II: Reforma Habsburga (1740–1790)"
     },
     {
       "id": "apt-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "O Congresso de Viena criou a Confederação Germânica (1815): 38 estados sob presidência austríaca mas com crescente poder prussiano. Conflito central: quem lideraria a Alemanha unificada? 'Grande Alemanha' (com a Áustria multinacional) vs. 'Pequena Alemanha' (só estados alemães, sob a Prússia). A batalha de Sadowa/Königgrätz (1866): a Prússia derrotou a Áustria em 7 semanas, expulsando-a definitivamente da política alemã.",
-      "importancia": "A exclusão da Áustria da Alemanha em 1866 foi uma das mais consequentes decisões geopolíticas do século XIX: criou a Áustria-Hungria como potência balkânica em vez de líder alemão, e colocou a Prússia militarista no centro da questão alemã. O assassinato de Franz Ferdinand em Sarajevo (1914) foi a consequência distante deste reposicionamento."
+      "importancia": "A exclusão da Áustria da Alemanha em 1866 foi uma das mais consequentes decisões geopolíticas do século XIX: criou a Áustria-Hungria como potência balkânica em vez de líder alemão, e colocou a Prússia militarista no centro da questão alemã. O assassinato de Franz Ferdinand em Sarajevo (1914) foi a consequência distante deste reposicionamento.",
+      "nome_en": "The German Question: Austria vs. Prussia (1815–1866)",
+      "nome_es": "La Cuestión Alemana: Austria vs. Prusia (1815–1866)"
     },
     {
       "id": "ap1",

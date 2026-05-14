@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Benito Mussolini, ex-socialista, fundou os Fasci di Combattimento (1919): camisas negras, violência squadrista contra socialistas e sindicatos. O 'biennio rosso' (1919-20) — greves e ocupações de fábricas — aterrava a burguesia e a classe média. A 'Marcha sobre Roma' (outubro 1922): ameaça de golpe; o Rei Vítor Emanuel III chamou Mussolini ao poder em vez de usar o exército.",
-      "importancia": "O fascismo italiano foi o modelo original — de que o nazismo aprendeu táticas, linguagem e estética. Mussolini chegou ao poder 11 anos antes de Hitler — e por via constitucional, como Hitler. A 'Marcha sobre Roma' nunca foi um golpe real: foi um blefe que funcionou porque o establishment preferiu Mussolini à revolução socialista."
+      "importancia": "O fascismo italiano foi o modelo original — de que o nazismo aprendeu táticas, linguagem e estética. Mussolini chegou ao poder 11 anos antes de Hitler — e por via constitucional, como Hitler. A 'Marcha sobre Roma' nunca foi um golpe real: foi um blefe que funcionou porque o establishment preferiu Mussolini à revolução socialista.",
+      "nome_en": "Mussolini and the March on Rome (1919–1922)",
+      "nome_es": "Mussolini y la Marcha sobre Roma (1919–1922)"
     },
     {
       "id": "fas-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Mussolini construiu a ditadura por etapas (1922-1926): imprensa censurada, partidos opostos dissolvidos, Legge Fascistissime. O Estado Corporativo substituiu sindicatos por corporações onde patrões e empregados 'colaboravam' sob tutela estatal — terceira via entre capitalismo e socialismo. Tratados de Latrão (1929): reconciliação com a Igreja Católica — o Papa reconhecia o Estado italiano; Mussolini reconhecia o Vaticano.",
-      "importancia": "O Corporativismo fascista italiano influenciou regimes em toda a Europa e América Latina — incluindo o Estado Novo de Salazar e o getulismo brasileiro. A ideia de um Estado que arbitra entre capital e trabalho acima de classes e partidos teve apelo duradouro nas sociedades que viam a democracia liberal como fraca."
+      "importancia": "O Corporativismo fascista italiano influenciou regimes em toda a Europa e América Latina — incluindo o Estado Novo de Salazar e o getulismo brasileiro. A ideia de um Estado que arbitra entre capital e trabalho acima de classes e partidos teve apelo duradouro nas sociedades que viam a democracia liberal como fraca.",
+      "nome_en": "The Fascist State: Duce, Corporatism and Church (1922–1935)",
+      "nome_es": "El Estado Fascista: Duce, Corporativismo e Iglesia (1922–1935)"
     },
     {
       "id": "fas-003",
@@ -32,7 +36,9 @@
       "regiao": "Africa",
       "peso": 0.8,
       "descricao": "Mussolini invadiu a Etiópia (1935-36) com 500.000 soldados, aviação e gás mostarda — o único país africano independente. A Liga das Nações impôs sanções ineficazes. O Imperador Haile Selassie apelou à Liga: 'É minha vez hoje. Amanhã será a vossa.' A intervenção italiana na Guerra Civil Espanhola (1936-39) ao lado de Franco — aviação e 75.000 soldados.",
-      "importancia": "A conquista da Etiópia foi o momento em que a Liga das Nações provou ser impotente — e em que as democracias provaram não ter vontade de defender a ordem internacional. O discurso de Selassie foi ignorado; Etiópia foi entregue. O apaziguamento começou em Addis Abeba, não em Munique."
+      "importancia": "A conquista da Etiópia foi o momento em que a Liga das Nações provou ser impotente — e em que as democracias provaram não ter vontade de defender a ordem internacional. O discurso de Selassie foi ignorado; Etiópia foi entregue. O apaziguamento começou em Addis Abeba, não em Munique.",
+      "nome_en": "Fascist Imperialism: Ethiopia and Spain (1935–1936)",
+      "nome_es": "Imperialismo Fascista: Etiopía y España (1935–1936)"
     },
     {
       "id": "fas-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.75,
       "descricao": "A Itália entrou na guerra em junho 1940, apostando numa vitória rápida alemã. Desastre: derrotada na Grécia, Norte da África, URSS. Os Aliados invadiram a Sicília (julho 1943). O Grão Conselho Fascista depôs Mussolini (25 julho). Armistício com os Aliados (setembro). Mussolini resgatado pelos alemães — República de Saló: fantoche nazista no Norte. Capturado por partisans, fuzilado em 28 abril 1945.",
-      "importancia": "A queda da Itália demonstrou que os regimes fascistas eram frágeis quando as vitórias militares cessavam — eram construídos sobre o mito da invincibilidade, não sobre consentimento genuíno. A resistência italiana (partisans) e a memória da Resistência tornaram-se o mito fundador da República italiana do pós-guerra."
+      "importancia": "A queda da Itália demonstrou que os regimes fascistas eram frágeis quando as vitórias militares cessavam — eram construídos sobre o mito da invincibilidade, não sobre consentimento genuíno. A resistência italiana (partisans) e a memória da Resistência tornaram-se o mito fundador da República italiana do pós-guerra.",
+      "nome_en": "Italy in World War II and the Fall of Mussolini (1940–1945)",
+      "nome_es": "Italia en la Segunda Guerra y la Caída de Mussolini (1940–1945)"
     },
     {
       "id": "fi1",

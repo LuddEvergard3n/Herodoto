@@ -1,0 +1,182 @@
+{
+  "periodo": "África do Sul: Do Apartheid à Democracia (1910–presente)",
+  "entidades": [
+    {
+      "id": "aps-001",
+      "nome": "Raízes do Apartheid: Colonialismo Britânico e Afrikaners (1652–1948)",
+      "nome_en": "Roots of Apartheid: British Colonialism and Afrikaners (1652–1948)",
+      "nome_es": "Raíces del Apartheid: Colonialismo Británico y Afrikáners (1652–1948)",
+      "tipo": "political",
+      "ano_inicio": 1652,
+      "ano_fim": 1948,
+      "seculo": 17,
+      "continente": "africa",
+      "importancia": 4,
+      "descricao": "Os holandeses colonizaram o Cabo em 1652. Seus descendentes — os afrikaners (ou bôeres) — desenvolveram uma identidade própria, uma língua (o afrikaans) e uma teologia calvinista que justificava a separação racial como vontade divina. As Guerras Anglo-Bôeres (1899–1902) foram vencidas pela Grã-Bretanha, que unificou a África do Sul em 1910 — mas deixou o poder local nas mãos da minoria branca. A Lei das Terras (1913) reservou 87% do território para brancos. Em 1948, o Partido Nacional afrikaner venceu as eleições com a plataforma do apartheid ('separação' em afrikaans) e o institucionalizou como sistema legal completo.",
+      "descricao_en": "The Dutch colonized the Cape in 1652. Their descendants — the Afrikaners (or Boers) — developed their own identity, language (Afrikaans) and a Calvinist theology that justified racial separation as divine will. The Anglo-Boer Wars (1899–1902) were won by Britain, which unified South Africa in 1910 — but left local power in white minority hands. The Land Act (1913) reserved 87% of the territory for whites. In 1948, the Afrikaner National Party won elections on the apartheid ('separation' in Afrikaans) platform and institutionalized it as a complete legal system.",
+      "descricao_es": "Los holandeses colonizaron el Cabo en 1652. Sus descendientes — los afrikáners (o bóers) — desarrollaron su propia identidad, lengua (el afrikáans) y una teología calvinista que justificaba la separación racial como voluntad divina. Las Guerras Anglo-Bóer (1899–1902) fueron ganadas por Gran Bretaña, que unificó Sudáfrica en 1910 — pero dejó el poder local en manos de la minoría blanca. La Ley de Tierras (1913) reservó el 87% del territorio para los blancos. En 1948, el Partido Nacional afrikáner ganó las elecciones con la plataforma del apartheid ('separación' en afrikáans) y lo institucionalizó como sistema legal completo."
+    },
+    {
+      "id": "aps-002",
+      "nome": "O Sistema do Apartheid: Leis, Passes e Bantustões",
+      "nome_en": "The Apartheid System: Laws, Passes and Bantustans",
+      "nome_es": "El Sistema del Apartheid: Leyes, Pases y Bantustanes",
+      "tipo": "social",
+      "ano_inicio": 1948,
+      "ano_fim": 1990,
+      "seculo": 20,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "O apartheid foi um dos sistemas de controle racial mais elaborados da história. Classificou cada pessoa em quatro categorias (branco, mestiço, indiano, negro) com direitos completamente diferentes. O Pass Book (caderneta de identificação) controlava onde negros podiam trabalhar, morar e circular — quem não o carregasse era preso. Os bantustões eram 'pátrias' fictícias onde a população negra era forçada a viver, tornando-os teoricamente estrangeiros em seu próprio país. Praias, hospitais, bancos, escolas, ônibus — tudo segregado. O salário médio de um trabalhador negro era 20% do de um branco.",
+      "descricao_en": "Apartheid was one of the most elaborate systems of racial control in history. It classified every person into four categories (white, coloured, Indian, black) with completely different rights. The Pass Book controlled where Black people could work, live and move — those who didn't carry it were arrested. Bantustans were fictional 'homelands' where the black population was forced to live, making them theoretically foreigners in their own country. Beaches, hospitals, benches, schools, buses — all segregated. The average wage of a Black worker was 20% of a white worker's.",
+      "descricao_es": "El apartheid fue uno de los sistemas de control racial más elaborados de la historia. Clasificó a cada persona en cuatro categorías (blanco, mestizo, indio, negro) con derechos completamente diferentes. El Pass Book (libreta de identificación) controlaba dónde podían trabajar, vivir y circular los negros — quien no lo llevara era detenido. Los bantustanes eran 'patrias' ficticias donde la población negra era forzada a vivir, convirtiéndolos teóricamente en extranjeros en su propio país. Playas, hospitales, bancos, escuelas, autobuses — todo segregado. El salario medio de un trabajador negro era el 20% del de un blanco."
+    },
+    {
+      "id": "aps-003",
+      "nome": "O ANC e a Resistência: De Gandhi a Mandela",
+      "nome_en": "The ANC and the Resistance: From Gandhi to Mandela",
+      "nome_es": "El ANC y la Resistencia: De Gandhi a Mandela",
+      "tipo": "political",
+      "ano_inicio": 1912,
+      "ano_fim": 1964,
+      "seculo": 20,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "O Congresso Nacional Africano (ANC) foi fundado em 1912 — o mais antigo partido político da África subsaariana. Mahatma Gandhi desenvolveu sua filosofia de resistência não-violenta (satyagraha) na África do Sul antes de aplicá-la na Índia. O Massacre de Sharpeville (março 1960): a polícia matou 69 manifestantes desarmados que protestavam contra as leis do passe. O governo baniu o ANC. Nelson Mandela e Oliver Tambo fundaram a Umkhonto we Sizwe ('Lança da Nação') para luta armada. Em 1964, Mandela foi condenado a prisão perpétua em Robben Island. Tinha 46 anos.",
+      "descricao_en": "The African National Congress (ANC) was founded in 1912 — the oldest political party in sub-Saharan Africa. Mahatma Gandhi developed his philosophy of non-violent resistance (satyagraha) in South Africa before applying it in India. The Sharpeville Massacre (March 1960): police killed 69 unarmed protesters demonstrating against the pass laws. The government banned the ANC. Nelson Mandela and Oliver Tambo founded Umkhonto we Sizwe ('Spear of the Nation') for armed struggle. In 1964, Mandela was sentenced to life imprisonment on Robben Island. He was 46 years old.",
+      "descricao_es": "El Congreso Nacional Africano (ANC) fue fundado en 1912 — el partido político más antiguo del África subsahariana. Mahatma Gandhi desarrolló su filosofía de resistencia no violenta (satyagraha) en Sudáfrica antes de aplicarla en India. La Masacre de Sharpeville (marzo 1960): la policía mató a 69 manifestantes desarmados que protestaban contra las leyes del pase. El gobierno prohibió el ANC. Nelson Mandela y Oliver Tambo fundaron Umkhonto we Sizwe ('Lanza de la Nación') para la lucha armada. En 1964, Mandela fue condenado a cadena perpetua en Robben Island. Tenía 46 años."
+    },
+    {
+      "id": "aps-004",
+      "nome": "Soweto 1976: A Geração que Recusou a Submissão",
+      "nome_en": "Soweto 1976: The Generation That Refused Submission",
+      "nome_es": "Soweto 1976: La Generación que Rechazó la Sumisión",
+      "tipo": "social",
+      "ano_inicio": 1976,
+      "ano_fim": 1977,
+      "seculo": 20,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "Em 16 de junho de 1976, estudantes negros de Soweto marcharam contra a imposição do afrikaans (língua dos opressores) como língua de ensino. A polícia abriu fogo. Hector Pieterson, 13 anos, tornou-se o rosto da repressão — a fotografia de Sam Nzima com seu corpo sendo carregado deu a volta ao mundo. O levante de Soweto matou mais de 500 jovens e radicalizou uma geração inteira. Steve Biko, líder do Movimento de Consciência Negra, foi preso e assassinado pela polícia em setembro de 1977. A brutalidade chocou o mundo e acelerou as campanhas internacionais de boicote.",
+      "descricao_en": "On June 16, 1976, Black students in Soweto marched against the imposition of Afrikaans (the oppressors' language) as the language of instruction. Police opened fire. Hector Pieterson, 13 years old, became the face of repression — Sam Nzima's photograph of his body being carried went around the world. The Soweto uprising killed more than 500 young people and radicalized an entire generation. Steve Biko, leader of the Black Consciousness Movement, was arrested and killed by police in September 1977. The brutality shocked the world and accelerated international boycott campaigns.",
+      "descricao_es": "El 16 de junio de 1976, estudiantes negros de Soweto marcharon contra la imposición del afrikáans (lengua de los opresores) como lengua de enseñanza. La policía abrió fuego. Hector Pieterson, de 13 años, se convirtió en el rostro de la represión — la fotografía de Sam Nzima con su cuerpo siendo cargado dio la vuelta al mundo. El levantamiento de Soweto mató a más de 500 jóvenes y radicalizó a toda una generación. Steve Biko, líder del Movimiento de Conciencia Negra, fue detenido y asesinado por la policía en septiembre de 1977. La brutalidad impactó al mundo y aceleró las campañas internacionales de boicot."
+    },
+    {
+      "id": "aps-005",
+      "nome": "Boicote Internacional: Isolamento como Arma (1960–1990)",
+      "nome_en": "International Boycott: Isolation as a Weapon (1960–1990)",
+      "nome_es": "Boicot Internacional: El Aislamiento como Arma (1960–1990)",
+      "tipo": "political",
+      "ano_inicio": 1960,
+      "ano_fim": 1990,
+      "seculo": 20,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "A campanha internacional de isolamento da África do Sul foi um dos movimentos de solidariedade mais eficazes da história. Sanções econômicas, embargo de armas da ONU (1977), exclusão dos Jogos Olímpicos, boicote cultural (músicos que se recusavam a tocar no Sun City), desinvestimento de universidades e fundos de pensão americanos. Margaret Thatcher e Ronald Reagan opuseram-se às sanções — chamavam o ANC de organização terrorista. O movimento anti-apartheid foi liderado por igrejas, sindicatos e estudantes no mundo todo. As sanções foram determinantes para forçar a negociação: o rand sul-africano colapsou em 1985 após os bancos americanos recusarem renovar empréstimos.",
+      "descricao_en": "The international campaign to isolate South Africa was one of the most effective solidarity movements in history. Economic sanctions, UN arms embargo (1977), exclusion from the Olympics, cultural boycott (musicians refusing to play at Sun City), divestment from American universities and pension funds. Margaret Thatcher and Ronald Reagan opposed sanctions — they called the ANC a terrorist organization. The anti-apartheid movement was led by churches, unions and students worldwide. The sanctions were decisive in forcing negotiation: the South African rand collapsed in 1985 after American banks refused to renew loans.",
+      "descricao_es": "La campaña internacional de aislamiento de Sudáfrica fue uno de los movimientos de solidaridad más eficaces de la historia. Sanciones económicas, embargo de armas de la ONU (1977), exclusión de los Juegos Olímpicos, boicot cultural (músicos que se negaban a actuar en Sun City), desinversión de universidades y fondos de pensiones americanos. Margaret Thatcher y Ronald Reagan se opusieron a las sanciones — llamaban al ANC organización terrorista. El movimiento antiapartheid fue liderado por iglesias, sindicatos y estudiantes en todo el mundo. Las sanciones fueron determinantes para forzar la negociación: el rand sudafricano colapsó en 1985 tras la negativa de los bancos americanos a renovar préstamos."
+    },
+    {
+      "id": "aps-006",
+      "nome": "Mandela Livre e a Negociação do Impossível (1990–1994)",
+      "nome_en": "Mandela Free and the Negotiation of the Impossible (1990–1994)",
+      "nome_es": "Mandela Libre y la Negociación de lo Imposible (1990–1994)",
+      "tipo": "political",
+      "ano_inicio": 1990,
+      "ano_fim": 1994,
+      "seculo": 20,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "F.W. de Klerk libertou Mandela em 11 de fevereiro de 1990 — após 27 anos. A negociação entre o ANC e o governo branco foi um milagre político: ambos sabiam que a guerra civil seria catastrófica. Mandela, que poderia ter saído da prisão cheio de ódio, escolheu a reconciliação — mas sem abrir mão da justiça. As eleições de abril de 1994 foram as primeiras com sufrágio universal na história sul-africana. Mandela ganhou com 62%. De Klerk foi seu vice. Em 1993 ambos ganharam o Nobel da Paz. A transição foi chamada de 'milagre sul-africano' — mas a desigualdade econômica permaneceu quase intacta.",
+      "descricao_en": "F.W. de Klerk freed Mandela on February 11, 1990 — after 27 years. The negotiation between the ANC and the white government was a political miracle: both knew civil war would be catastrophic. Mandela, who could have emerged from prison full of hatred, chose reconciliation — but without abandoning justice. The April 1994 elections were the first with universal suffrage in South African history. Mandela won with 62%. De Klerk was his deputy. In 1993 both won the Nobel Peace Prize. The transition was called the 'South African miracle' — but economic inequality remained almost intact.",
+      "descricao_es": "F.W. de Klerk liberó a Mandela el 11 de febrero de 1990 — tras 27 años. La negociación entre el ANC y el gobierno blanco fue un milagro político: ambos sabían que la guerra civil sería catastrófica. Mandela, que podría haber salido de la prisión lleno de odio, eligió la reconciliación — pero sin renunciar a la justicia. Las elecciones de abril de 1994 fueron las primeras con sufragio universal en la historia sudafricana. Mandela ganó con el 62%. De Klerk fue su vicepresidente. En 1993 ambos ganaron el Nobel de la Paz. La transición fue llamada el 'milagro sudafricano' — pero la desigualdad económica permaneció casi intacta."
+    },
+    {
+      "id": "aps-007",
+      "nome": "A Comissão da Verdade e Reconciliação (1996–1998)",
+      "nome_en": "The Truth and Reconciliation Commission (1996–1998)",
+      "nome_es": "La Comisión de Verdad y Reconciliación (1996–1998)",
+      "tipo": "political",
+      "ano_inicio": 1996,
+      "ano_fim": 1998,
+      "seculo": 20,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "Presidida pelo Arcebispo Desmond Tutu, a Comissão da Verdade e Reconciliação (TRC) foi uma alternativa aos julgamentos de Nuremberg: em vez de punição, oferecia anistia em troca de confissão pública e completa de crimes políticos. As audiências foram transmitidas ao vivo — sul-africanos ouviram pela primeira vez os detalhes das torturas, assassinatos e desaparecimentos cometidos pelo regime. O modelo tornou-se referência global para justiça de transição. Mas foi criticado pela esquerda por não responsabilizar criminalmente os perpetradores, e pela direita por reabrir feridas. Tutu chamou o processo de 'ubuntu' — a humanidade de cada um depende da humanidade de todos.",
+      "descricao_en": "Chaired by Archbishop Desmond Tutu, the Truth and Reconciliation Commission (TRC) was an alternative to Nuremberg-style trials: instead of punishment, it offered amnesty in exchange for full public confession of political crimes. The hearings were broadcast live — South Africans heard for the first time the details of the torture, murders and disappearances committed by the regime. The model became a global reference for transitional justice. But it was criticized by the left for not holding perpetrators criminally accountable, and by the right for reopening wounds. Tutu called the process 'ubuntu' — each person's humanity depends on everyone's humanity.",
+      "descricao_es": "Presidida por el Arzobispo Desmond Tutu, la Comisión de Verdad y Reconciliación (CVR) fue una alternativa a los juicios de Núremberg: en vez de castigo, ofrecía amnistía a cambio de confesión pública y completa de crímenes políticos. Las audiencias fueron transmitidas en vivo — los sudafricanos escucharon por primera vez los detalles de las torturas, asesinatos y desapariciones cometidos por el régimen. El modelo se convirtió en referencia global para la justicia de transición. Pero fue criticado por la izquierda por no responsabilizar penalmente a los perpetradores, y por la derecha por reabrir heridas. Tutu llamó al proceso 'ubuntu' — la humanidad de cada uno depende de la humanidad de todos."
+    },
+    {
+      "id": "aps-008",
+      "nome": "A África do Sul Pós-Apartheid: O Milagre Inacabado",
+      "nome_en": "Post-Apartheid South Africa: The Unfinished Miracle",
+      "nome_es": "Sudáfrica Postspartheid: El Milagro Inacabado",
+      "tipo": "social",
+      "ano_inicio": 1994,
+      "ano_fim": 2024,
+      "seculo": 20,
+      "continente": "africa",
+      "importancia": 5,
+      "descricao": "Trinta anos após o fim do apartheid, a África do Sul é o país mais desigual do mundo (Coeficiente Gini de 0,63). A maioria negra ganhou direitos políticos mas não econômicos: 55% vivem abaixo da linha de pobreza, o desemprego atinge 33%. A corrupção do ANC — especialmente no governo Jacob Zuma ('state capture', 2009–2018) — destruiu instituições e a confiança pública. A criminalidade é das mais altas do mundo. E ao mesmo tempo: a África do Sul tem a Constituição mais progressista do planeta, o sistema jurídico mais independente da África, universidades de classe mundial, e uma sociedade civil combativa. O apartheid acabou; sua sombra econômica, não.",
+      "descricao_en": "Thirty years after the end of apartheid, South Africa is the most unequal country in the world (Gini coefficient of 0.63). The black majority gained political but not economic rights: 55% live below the poverty line, unemployment reaches 33%. ANC corruption — especially under Jacob Zuma's government ('state capture', 2009–2018) — destroyed institutions and public trust. Crime rates are among the world's highest. And at the same time: South Africa has the most progressive Constitution on the planet, the most independent judicial system in Africa, world-class universities, and a combative civil society. Apartheid ended; its economic shadow did not.",
+      "descricao_es": "Treinta años después del fin del apartheid, Sudáfrica es el país más desigual del mundo (Coeficiente Gini de 0,63). La mayoría negra ganó derechos políticos pero no económicos: el 55% vive bajo la línea de pobreza, el desempleo alcanza el 33%. La corrupción del ANC — especialmente en el gobierno de Jacob Zuma ('captura del Estado', 2009–2018) — destruyó instituciones y la confianza pública. La criminalidad es de las más altas del mundo. Y al mismo tiempo: Sudáfrica tiene la Constitución más progresista del planeta, el sistema judicial más independiente de África, universidades de clase mundial, y una sociedad civil combativa. El apartheid terminó; su sombra económica, no."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "aps-001",
+      "destino": "aps-002",
+      "tipo": "causal"
+    },
+    {
+      "origem": "aps-001",
+      "destino": "aps-003",
+      "tipo": "causal"
+    },
+    {
+      "origem": "aps-002",
+      "destino": "aps-003",
+      "tipo": "causal"
+    },
+    {
+      "origem": "aps-002",
+      "destino": "aps-004",
+      "tipo": "causal"
+    },
+    {
+      "origem": "aps-003",
+      "destino": "aps-004",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "aps-004",
+      "destino": "aps-005",
+      "tipo": "causal"
+    },
+    {
+      "origem": "aps-003",
+      "destino": "aps-005",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "aps-005",
+      "destino": "aps-006",
+      "tipo": "causal"
+    },
+    {
+      "origem": "aps-006",
+      "destino": "aps-007",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "aps-006",
+      "destino": "aps-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "aps-007",
+      "destino": "aps-008",
+      "tipo": "tematica"
+    }
+  ]
+}

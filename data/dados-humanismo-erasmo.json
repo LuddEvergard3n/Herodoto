@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Petrarca (1304-1374) foi o primeiro humanista: redescobriu Cícero, valoriu o latim clássico como modelo, criticou a Escolástica medieval. Os humanistas propunham os Studia Humanitatis (gramática, retórica, poesia, história, filosofia moral) como formação do homem virtuoso. Leonardo Bruni traduziu Aristóteles diretamente do grego. Lorenzo Valla demonstrou a falsidade da Doação de Constantino por filologia.",
-      "importancia": "O Humanismo foi a revolução intelectual que tornou o Renascimento possível: ao voltar às fontes gregas e latinas originais (ad fontes), os humanistas descobriram que a tradição medieval havia deformado os textos. Esta crítica filológica foi depois aplicada à Bíblia — e produziu Erasmo e a Reforma Protestante."
+      "importancia": "O Humanismo foi a revolução intelectual que tornou o Renascimento possível: ao voltar às fontes gregas e latinas originais (ad fontes), os humanistas descobriram que a tradição medieval havia deformado os textos. Esta crítica filológica foi depois aplicada à Bíblia — e produziu Erasmo e a Reforma Protestante.",
+      "nome_en": "Renaissance Humanism: Petrarch to the 15th Century",
+      "nome_es": "Humanismo Renacentista: Petrarca al Siglo XV"
     },
     {
       "id": "hum-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Erasmo foi o maior intelectual europeu do Renascimento Norte: Elogio da Loucura (1511 — sátira à Igreja e à sociedade escrita em 7 dias como presente a Thomas More), Adágios (colecção de provérbios greco-latinos), edição crítica do Novo Testamento grego (1516 — base de Lutero). Correspondência com todos os grandes da Europa. Criticou a Igreja sem abandoná-la — 'cristão, não luterano'.",
-      "importancia": "Erasmo preparou o terreno para Lutero — mas recusou a ruptura. A frase se tornou famosa: 'Erasmo pôs o ovo que Lutero chocou.' A sua recusa em aderir à Reforma tornou-o suspeito para ambos os lados: condenado pelo Index depois de sua morte. Sua visão de reforma pacífica, intelectual e interior da Igreja foi esmagada entre duas intransigências."
+      "importancia": "Erasmo preparou o terreno para Lutero — mas recusou a ruptura. A frase se tornou famosa: 'Erasmo pôs o ovo que Lutero chocou.' A sua recusa em aderir à Reforma tornou-o suspeito para ambos os lados: condenado pelo Index depois de sua morte. Sua visão de reforma pacífica, intelectual e interior da Igreja foi esmagada entre duas intransigências.",
+      "nome_en": "Erasmus of Rotterdam: The Prince of Humanists (1466–1536)",
+      "nome_es": "Erasmo de Róterdam: El Príncipe de los Humanistas (1466–1536)"
     },
     {
       "id": "hum-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Thomas More foi o humanista inglês mais importante: amigo íntimo de Erasmo, chancellour de Henrique VIII. Utopia (1516): descrição de uma ilha imaginária sem propriedade privada, com tolerância religiosa e eutanásia — crítica oblíqua à Inglaterra de Henrique VIII. Recusou-se a reconhecer o divórcio de Henrique VIII e o rei como cabeça da Igreja inglesa. Decapitado em 1535. Canonizado em 1935.",
-      "importancia": "A Utopia inventou um gênero literário e político: a crítica social através de uma sociedade imaginária ideal. A palavra 'utopia' (lugar nenhum em grego) entrou em todas as línguas. More é também o mártir da consciência individual contra o poder do Estado — o mesmo princípio que Lutero invocou, com More do lado oposto."
+      "importancia": "A Utopia inventou um gênero literário e político: a crítica social através de uma sociedade imaginária ideal. A palavra 'utopia' (lugar nenhum em grego) entrou em todas as línguas. More é também o mártir da consciência individual contra o poder do Estado — o mesmo princípio que Lutero invocou, com More do lado oposto.",
+      "nome_en": "Thomas More and Utopia (1478–1535)",
+      "nome_es": "Tomás Moro y la Utopía (1478–1535)"
     },
     {
       "id": "hum-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Giovanni Pico della Mirandola foi o prodígio do humanismo filosófico italiano: propôs 900 teses para debate público em Roma (proibidas pelo Papa). Oratio de Hominis Dignitate (1486 — 'Discurso sobre a Dignidade do Homem'): o homem é único porque não tem natureza fixa — pode tornar-se bestial ou divino, é livre para se construir. Tentou sintetizar platonismo, aristotelismo, cabala e neoplatonismo.",
-      "importancia": "O 'Discurso sobre a Dignidade do Homem' é considerado o manifesto do humanismo renascentista: a ideia de que o homem é o único ser que se define a si mesmo — não tem essência fixa, é pura potencialidade. Esta ideia, secularizada, tornou-se o fundamento do liberalismo, do existencialismo e dos direitos humanos modernos."
+      "importancia": "O 'Discurso sobre a Dignidade do Homem' é considerado o manifesto do humanismo renascentista: a ideia de que o homem é o único ser que se define a si mesmo — não tem essência fixa, é pura potencialidade. Esta ideia, secularizada, tornou-se o fundamento do liberalismo, do existencialismo e dos direitos humanos modernos.",
+      "nome_en": "Pico della Mirandola and Philosophical Humanism (1463–1494)",
+      "nome_es": "Pico della Mirandola y el Humanismo Filosófico (1463–1494)"
     },
     {
       "id": "hum1",

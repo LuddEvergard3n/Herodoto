@@ -1,8 +1,8 @@
 # PWA e Service Worker — Documentação
 
 **Ficheiros:** `sw.js`, `manifest.json`  
-**Versão:** Heródoto v7.43  
-**Cache atual:** `herodoto-v7-40`
+**Versão:** Heródoto v7.56  
+**Cache atual:** `herodoto-v7-56`
 
 ---
 
@@ -43,8 +43,8 @@ Service Worker com duas caches separadas:
 
 | Cache | Nome | Estratégia |
 |---|---|---|
-| Assets estáticos | `herodoto-v7-40-static` | Cache-First |
-| Dados JSON | `herodoto-v7-40-data` | Network-First |
+| Assets estáticos | `herodoto-v7-56-static` | Cache-First |
+| Dados JSON | `herodoto-v7-56-data` | Network-First |
 
 ---
 

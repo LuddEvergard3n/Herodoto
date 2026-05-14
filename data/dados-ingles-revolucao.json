@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Carlos I acreditava no direito divino dos reis e governou 11 anos sem convocar o Parlamento (Personal Rule, 1629-1640). Quando tentou impor o Livro de Oração anglicano à Escócia calvinista, a revolta escocesa forçou-o a convocar o Parlamento por necessidade financeira. O Parlamento aproveitou para impor limitações. Em agosto de 1642, Carlos levantou seu estandarte em Nottingham — guerra civil.",
-      "importancia": "A guerra civil inglesa foi sobre uma questão que o século XVII não conseguia resolver: quem detém a soberania suprema — o rei ou o Parlamento? A resposta inglesa (supremacia parlamentar) foi diferente da francesa (absolutismo real) e das duas derivariam destinos nacionais muito diferentes."
+      "importancia": "A guerra civil inglesa foi sobre uma questão que o século XVII não conseguia resolver: quem detém a soberania suprema — o rei ou o Parlamento? A resposta inglesa (supremacia parlamentar) foi diferente da francesa (absolutismo real) e das duas derivariam destinos nacionais muito diferentes.",
+      "nome_en": "Charles I and the Constitutional Crisis (1625–1642)",
+      "nome_es": "Carlos I y la Crisis Constitucional (1625–1642)"
     },
     {
       "id": "ing-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Duas guerras civis. O Novo Modelo de Exército de Cromwell (cavalaria disciplinada, infantaria profissional) venceu em Naseby (1645). Carlos capturado, fugiu, tentou negociar com escoceses — considerado traidor. Cromwell purgou o Parlamento (Pride's Purge, 1648). O 'Rump Parliament' julgou e condenou Carlos I. Em 30 de janeiro de 1649, Carlos I foi decapitado em Whitehall — primeira execução pública de um rei europeu.",
-      "importancia": "A execução de Carlos I chocou a Europa: tornava 'o rei' não mais sagrado mas responsável perante a lei e o povo. Locke e os teóricos do contrato social desenvolveram a ideia: o rei que viola o contrato perde sua legitimidade. Cem anos depois, Luís XVI subia ao cadafalso pelo mesmo raciocínio."
+      "importancia": "A execução de Carlos I chocou a Europa: tornava 'o rei' não mais sagrado mas responsável perante a lei e o povo. Locke e os teóricos do contrato social desenvolveram a ideia: o rei que viola o contrato perde sua legitimidade. Cem anos depois, Luís XVI subia ao cadafalso pelo mesmo raciocínio.",
+      "nome_en": "Civil War and the Execution of the King (1642–1649)",
+      "nome_es": "Guerra Civil y la Ejecución del Rey (1642–1649)"
     },
     {
       "id": "ing-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "A República (Commonwealth) durou 4 anos; Cromwell dissolveu o Parlamento (1653) e governou como Lord Protetor — ditadura militar com roupagem republicana. Reconquistou a Irlanda com brutalidade (massacres de Drogheda e Wexford). Navegação Act (1651): protecionismo naval que desafiou a Holanda. Morreu em 1658; seu filho Richard abdicou. O Parlamento restaurou a monarquia (Carlos II, 1660).",
-      "importancia": "Cromwell proveu o paradoxo que todas as revoluções repetem: o líder que derruba o tirano torna-se tirano. Mas o Protetorado estabeleceu precedentes: liberdade religiosa para protestantes (e para os judeus, readmitidos na Inglaterra por Cromwell após 350 anos), poder naval, expansão comercial."
+      "importancia": "Cromwell proveu o paradoxo que todas as revoluções repetem: o líder que derruba o tirano torna-se tirano. Mas o Protetorado estabeleceu precedentes: liberdade religiosa para protestantes (e para os judeus, readmitidos na Inglaterra por Cromwell após 350 anos), poder naval, expansão comercial.",
+      "nome_en": "Commonwealth and Cromwell's Protectorate (1649–1660)",
+      "nome_es": "Commonwealth y el Protectorado de Cromwell (1649–1660)"
     },
     {
       "id": "ing-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "Jaime II (católico) assustou a elite protestante. Parlamentares convidaram Guilherme de Orange (holandês, casado com Maria, filha protestante de Jaime) a invadir a Inglaterra. Jaime fugiu sem luta (1688). Guilherme III e Maria II reinaram sob o Bill of Rights (1689): Parlamento convocado regularmente, impostos aprovados pelo Parlamento, proibição de exército permanente sem aprovação parlamentar.",
-      "importancia": "O Bill of Rights de 1689 é o documento fundador da monarquia constitucional britânica e precursor direto da Declaração de Direitos americana de 1791. A 'Revolução Gloriosa' foi chamada 'gloriosa' porque foi quase sem sangue — e porque os ingleses nunca mais precisaram repetir o trauma de 1649."
+      "importancia": "O Bill of Rights de 1689 é o documento fundador da monarquia constitucional britânica e precursor direto da Declaração de Direitos americana de 1791. A 'Revolução Gloriosa' foi chamada 'gloriosa' porque foi quase sem sangue — e porque os ingleses nunca mais precisaram repetir o trauma de 1649.",
+      "nome_en": "Glorious Revolution and the Bill of Rights (1688–1689)",
+      "nome_es": "Revolución Gloriosa y la Declaración de Derechos (1688–1689)"
     },
     {
       "id": "ir1",

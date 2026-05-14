@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Eduardo III reivindicou o trono francês como neto de Filipe IV. Guerra intermitente por 116 anos. Batalhas de Crécy (1346) e Poitiers (1356): o arco longo galês desmontou a cavalaria francesa — tecnologia decisiva. Agincourt (1415): Henrique V com 6.000 homens destruiu 30.000 franceses. O Tratado de Brétigny (1360) cedeu um terço da França à Inglaterra.",
-      "importancia": "A Guerra dos Cem Anos construiu o sentimento nacional francês e inglês. As derrotas humilhantes da cavalaria francesa pela infantaria e arqueiros ingleses foram o fim do ideal da cavalaria como força militar decisiva — e o início do exército profissional moderno."
+      "importancia": "A Guerra dos Cem Anos construiu o sentimento nacional francês e inglês. As derrotas humilhantes da cavalaria francesa pela infantaria e arqueiros ingleses foram o fim do ideal da cavalaria como força militar decisiva — e o início do exército profissional moderno.",
+      "nome_en": "Origins and Early English Victories (1337–1360)",
+      "nome_es": "Orígenes y Primeras Victorias Inglesas (1337–1360)"
     },
     {
       "id": "gca-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Em 1429, a França estava em colapso: os ingleses ocupavam Paris e avançavam no Loire. Uma camponesa de 17 anos de Domrémy convenceu o Delfim Carlos a deixá-la liderar o exército. Joana libertou Orléans em 9 dias (maio 1429), conduziu Carlos VII à coroação em Reims. Capturada pelos Borgonheses, vendida aos ingleses, queimada em Ruão (maio 1431) por heresia.",
-      "importancia": "Joana D'Arc é o caso histórico mais perturbador de gênio militar emergindo de origem impossível. Sua reabilitação (1456) e canonização (1920) transformaram-na em símbolo nacional francês — invocada por todas as facções políticas, da esquerda republicana à direita fascista."
+      "importancia": "Joana D'Arc é o caso histórico mais perturbador de gênio militar emergindo de origem impossível. Sua reabilitação (1456) e canonização (1920) transformaram-na em símbolo nacional francês — invocada por todas as facções políticas, da esquerda republicana à direita fascista.",
+      "nome_en": "Joan of Arc and the French Turnaround (1429–1431)",
+      "nome_es": "Juana de Arco y el Giro Francés (1429–1431)"
     },
     {
       "id": "gca-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.75,
       "descricao": "A monarquia francesa reformou seu exército: artilharia como arma decisiva (irmãos Bureau). Batalha de Castillon (1453): primeira batalha europeia decidida pela artilharia — fim do domínio da cavalaria. Os ingleses foram expulsos da França exceto Calais (retida até 1558). O mesmo ano: queda de Constantinopla para os Turcos Otomanos.",
-      "importancia": "O fim da Guerra dos Cem Anos consolidou a monarquia nacional francesa centralizada e marcou o início do fim do feudalismo militar. A artilharia que venceu Castillon tornou os castelos medievais obsoletos em uma geração — mudança tecnológica que reconfigurou o poder europeu."
+      "importancia": "O fim da Guerra dos Cem Anos consolidou a monarquia nacional francesa centralizada e marcou o início do fim do feudalismo militar. A artilharia que venceu Castillon tornou os castelos medievais obsoletos em uma geração — mudança tecnológica que reconfigurou o poder europeu.",
+      "nome_en": "The End of the War and the Expulsion of the English (1450–1453)",
+      "nome_es": "El Fin de la Guerra y la Expulsión de los Ingleses (1450–1453)"
     },
     {
       "id": "gca-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.75,
       "descricao": "O Ducado da Borgonha, aliado dos ingleses, tornou-se o maior poder do século XV: Carlos, o Temerário, rivaliza com Luís XI de França. A Guerra dos Cem Anos criou identidades nacionais distintas: os ingleses perderam seus territórios continentais mas ganharam uma identidade insular. A França emergiu com uma monarquia mais forte e um território coeso.",
-      "importancia": "A Guerra dos Cem Anos é, juntamente com a Peste Negra, o evento que mais claramente separa a Alta Idade Média (1000-1300) da Baixa Idade Média e Renascimento. Quando termina em 1453, a imprensa de Gutenberg está para ser inventada — e o mundo medieval está prestes a acabar."
+      "importancia": "A Guerra dos Cem Anos é, juntamente com a Peste Negra, o evento que mais claramente separa a Alta Idade Média (1000-1300) da Baixa Idade Média e Renascimento. Quando termina em 1453, a imprensa de Gutenberg está para ser inventada — e o mundo medieval está prestes a acabar.",
+      "nome_en": "Consequences: Burgundy, National Formation and the End of the Middle Ages",
+      "nome_es": "Consecuencias: Borgoña, Formación Nacional y el Fin Medieval"
     },
     {
       "id": "gca1",

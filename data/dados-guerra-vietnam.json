@@ -1,0 +1,217 @@
+{
+  "periodo": "Guerra do Vietnam (1955–1975)",
+  "entidades": [
+    {
+      "id": "viet-001",
+      "nome": "O Vietnam antes da Guerra: Colonialismo Francês e Resistência (1858–1954)",
+      "nome_en": "Vietnam before the War: French Colonialism and Resistance (1858–1954)",
+      "nome_es": "Vietnam antes de la Guerra: Colonialismo Francés y Resistencia (1858–1954)",
+      "tipo": "political",
+      "ano_inicio": 1858,
+      "ano_fim": 1954,
+      "seculo": 19,
+      "continente": "asia",
+      "importancia": 4,
+      "descricao": "A França colonizou a Indochina entre 1858 e 1885, criando um sistema de exploração de borracha, arroz e minerais com trabalho forçado. Ho Chi Minh fundou o Partido Comunista Indochinês em 1930. A ocupação japonesa durante a Segunda Guerra (1940–1945) enfraqueceu a autoridade francesa e revelou que o colonialismo não era invencível. Em 1945, Ho Chi Minh declarou a independência citando a Declaração de Independência americana — e os EUA apoiaram brevemente o Vietnam antes de escolher apoiar a França.",
+      "descricao_en": "France colonized Indochina between 1858 and 1885, creating a system of rubber, rice and mineral exploitation with forced labor. Ho Chi Minh founded the Indochinese Communist Party in 1930. The Japanese occupation during World War II (1940–1945) weakened French authority and revealed that colonialism was not invincible. In 1945, Ho Chi Minh declared independence quoting the American Declaration of Independence — and the US briefly supported Vietnam before choosing to back France.",
+      "descricao_es": "Francia colonizó Indochina entre 1858 y 1885, creando un sistema de explotación de caucho, arroz y minerales con trabajo forzado. Ho Chi Minh fundó el Partido Comunista Indochino en 1930. La ocupación japonesa durante la Segunda Guerra (1940–1945) debilitó la autoridad francesa y reveló que el colonialismo no era invencible. En 1945, Ho Chi Minh declaró la independencia citando la Declaración de Independencia americana — y EE.UU. apoyó brevemente a Vietnam antes de optar por apoyar a Francia."
+    },
+    {
+      "id": "viet-002",
+      "nome": "Dien Bien Phu e o Fim do Colonialismo Francês (1954)",
+      "nome_en": "Dien Bien Phu and the End of French Colonialism (1954)",
+      "nome_es": "Dien Bien Phu y el Fin del Colonialismo Francés (1954)",
+      "tipo": "war",
+      "ano_inicio": 1954,
+      "ano_fim": 1954,
+      "seculo": 20,
+      "continente": "asia",
+      "importancia": 5,
+      "descricao": "Em maio de 1954, o exército vietnamita sob comando do general Giap cercou e destruiu a guarnição francesa em Dien Bien Phu — a maior derrota de um exército colonial europeu na Ásia. O choque foi global: provou que guerrilheiros asiáticos podiam derrotar potências ocidentais. Os Acordos de Genebra dividiram o Vietnam ao longo do paralelo 17: norte comunista (Ho Chi Minh) e sul não-comunista (Ngo Dinh Diem). A divisão era para ser temporária, com eleições em 1956 — que nunca aconteceram.",
+      "descricao_en": "In May 1954, the Vietnamese army under General Giap surrounded and destroyed the French garrison at Dien Bien Phu — the greatest defeat of a European colonial army in Asia. The shock was global: it proved that Asian guerrillas could defeat Western powers. The Geneva Accords divided Vietnam along the 17th parallel: communist north (Ho Chi Minh) and non-communist south (Ngo Dinh Diem). The division was meant to be temporary, with elections in 1956 — which never happened.",
+      "descricao_es": "En mayo de 1954, el ejército vietnamita bajo el mando del general Giap rodeó y destruyó la guarnición francesa en Dien Bien Phu — la mayor derrota de un ejército colonial europeo en Asia. El impacto fue global: demostró que los guerrilleros asiáticos podían derrotar a las potencias occidentales. Los Acuerdos de Ginebra dividieron Vietnam a lo largo del paralelo 17: norte comunista (Ho Chi Minh) y sur no comunista (Ngo Dinh Diem). La división era temporal, con elecciones en 1956 — que nunca ocurrieron."
+    },
+    {
+      "id": "viet-003",
+      "nome": "A Teoria do Dominó e a Escalada Americana (1955–1964)",
+      "nome_en": "The Domino Theory and American Escalation (1955–1964)",
+      "nome_es": "La Teoría del Dominó y la Escalada Americana (1955–1964)",
+      "tipo": "political",
+      "ano_inicio": 1955,
+      "ano_fim": 1964,
+      "seculo": 20,
+      "continente": "asia",
+      "importancia": 5,
+      "descricao": "A 'teoria do dominó' de Eisenhower sustentava que se o Vietnam do Sul caísse ao comunismo, o mesmo ocorreria com Laos, Camboja, Tailândia, Birmânia — e talvez a Índia. Os EUA enviaram assessores militares, financiaram o regime de Diem (católico numa nação budista, corrupto, repressivo) e ignoraram os Acordos de Genebra. Em 1963, a CIA aprovou o golpe que assassinou Diem. Em agosto de 1964, o incidente do Golfo de Tonkin — provavelmente fabricado — deu a Johnson a autorização do Congresso para escalar a guerra.",
+      "descricao_en": "Eisenhower's 'domino theory' held that if South Vietnam fell to communism, so would Laos, Cambodia, Thailand, Burma — and perhaps India. The US sent military advisers, funded the Diem regime (Catholic in a Buddhist nation, corrupt, repressive) and ignored the Geneva Accords. In 1963, the CIA approved the coup that killed Diem. In August 1964, the Gulf of Tonkin incident — probably fabricated — gave Johnson congressional authorization to escalate the war.",
+      "descricao_es": "La 'teoría del dominó' de Eisenhower sostenía que si Vietnam del Sur caía al comunismo, lo mismo ocurriría con Laos, Camboya, Tailandia, Birmania — y quizás India. EE.UU. envió asesores militares, financió el régimen de Diem (católico en una nación budista, corrupto, represivo) e ignoró los Acuerdos de Ginebra. En 1963, la CIA aprobó el golpe que asesinó a Diem. En agosto de 1964, el incidente del Golfo de Tonkín — probablemente fabricado — le dio a Johnson la autorización del Congreso para escalar la guerra."
+    },
+    {
+      "id": "viet-004",
+      "nome": "A Guerra no Terreno: Napalm, Agente Laranja e Guerrilha (1965–1968)",
+      "nome_en": "The War on the Ground: Napalm, Agent Orange and Guerrilla (1965–1968)",
+      "nome_es": "La Guerra en el Terreno: Napalm, Agente Naranja y Guerrilla (1965–1968)",
+      "tipo": "war",
+      "ano_inicio": 1965,
+      "ano_fim": 1968,
+      "seculo": 20,
+      "continente": "asia",
+      "importancia": 5,
+      "descricao": "O pico do envolvimento americano: 543.000 soldados no Vietnam em 1969. Os EUA despejaram mais bombas no Vietnam do que em toda a Segunda Guerra Mundial. O napalm e o Agente Laranja — herbicida que contaminava solo e causava câncer e malformações congênitas — destruíram florestas e aldeias. A estratégia de 'busca e destruição' do general Westmoreland dependia de 'body count' como métrica de sucesso — o que incentivou o massacre de civis como forma de inflar os números.",
+      "descricao_en": "The peak of American involvement: 543,000 soldiers in Vietnam in 1969. The US dropped more bombs on Vietnam than in all of World War II. Napalm and Agent Orange — a herbicide that contaminated soil and caused cancer and birth defects — destroyed forests and villages. General Westmoreland's 'search and destroy' strategy depended on 'body count' as a metric of success — which incentivized the massacre of civilians as a way to inflate the numbers.",
+      "descricao_es": "El pico de la participación americana: 543.000 soldados en Vietnam en 1969. EE.UU. lanzó más bombas sobre Vietnam que en toda la Segunda Guerra Mundial. El napalm y el Agente Naranja — herbicida que contaminaba el suelo y causaba cáncer y malformaciones congénitas — destruyeron bosques y aldeas. La estrategia de 'búsqueda y destrucción' del general Westmoreland dependía del 'conteo de cuerpos' como métrica de éxito — lo que incentivó la masacre de civiles para inflar los números."
+    },
+    {
+      "id": "viet-005",
+      "nome": "Ofensiva do Tet (janeiro 1968): A Guerra Que os EUA Perderam na TV",
+      "nome_en": "Tet Offensive (January 1968): The War the US Lost on TV",
+      "nome_es": "Ofensiva del Tet (enero 1968): La Guerra que EE.UU. Perdió en la TV",
+      "tipo": "war",
+      "ano_inicio": 1968,
+      "ano_fim": 1968,
+      "seculo": 20,
+      "continente": "asia",
+      "importancia": 5,
+      "descricao": "Em 30 de janeiro de 1968, durante o Tet (Ano Novo lunar), o Viet Cong e o Exército do Norte atacaram simultaneamente 100 cidades do Vietnam do Sul, incluindo a embaixada americana em Saigon. Militarmente foi repelido com pesadas baixas norte-vietnamitas. Politicamente foi devastador para os EUA: o jornalista Walter Cronkite, o 'homem mais confiável da América', declarou ao vivo que a guerra estava em impasse. Johnson foi ao ar logo depois — e decidiu não disputar a reeleição.",
+      "descricao_en": "On January 30, 1968, during Tet (Lunar New Year), the Viet Cong and North Vietnamese Army simultaneously attacked 100 cities in South Vietnam, including the US embassy in Saigon. Militarily it was repelled with heavy North Vietnamese casualties. Politically it was devastating for the US: journalist Walter Cronkite, 'the most trusted man in America', declared on live television that the war was at a stalemate. Johnson went on air shortly after — and decided not to seek re-election.",
+      "descricao_es": "El 30 de enero de 1968, durante el Tet (Año Nuevo lunar), el Viet Cong y el Ejército del Norte atacaron simultáneamente 100 ciudades de Vietnam del Sur, incluyendo la embajada estadounidense en Saigón. Militarmente fue repelido con pesadas bajas norvietnamitas. Políticamente fue devastador para EE.UU.: el periodista Walter Cronkite, 'el hombre más confiable de América', declaró en vivo que la guerra estaba en punto muerto. Johnson salió al aire poco después — y decidió no buscar la reelección."
+    },
+    {
+      "id": "viet-006",
+      "nome": "O Movimento Antibelicista e a Crise da Sociedade Americana",
+      "nome_en": "The Anti-War Movement and the Crisis of American Society",
+      "nome_es": "El Movimiento Antibelicista y la Crisis de la Sociedad Americana",
+      "tipo": "social",
+      "ano_inicio": 1965,
+      "ano_fim": 1975,
+      "seculo": 20,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "O Vietnam criou a maior divisão social nos EUA desde a Guerra Civil. O serviço militar obrigatório (draft) recaía desproporcionalmente sobre negros e pobres — os ricos encontravam isenções universitárias. O Massacre de My Lai (1968, 504 civis mortos, encobrimento por um ano), as Fotografias de Nick Ut (menina queimada por napalm, 1972), e os Pentagon Papers (1971, revelando mentiras sistemáticas do governo) destruíram a credibilidade oficial. Quatro estudantes foram mortos pela Guarda Nacional em Kent State em 1970.",
+      "descricao_en": "Vietnam created the greatest social division in the US since the Civil War. Mandatory military service (draft) fell disproportionately on Black Americans and the poor — the wealthy found college deferments. The My Lai Massacre (1968, 504 civilians killed, covered up for a year), Nick Ut's photographs (napalm girl, 1972), and the Pentagon Papers (1971, revealing systematic government lies) destroyed official credibility. Four students were killed by the National Guard at Kent State in 1970.",
+      "descricao_es": "Vietnam creó la mayor división social en EE.UU. desde la Guerra Civil. El servicio militar obligatorio (draft) recaía desproporcionadamente sobre negros y pobres — los ricos encontraban exenciones universitarias. La Masacre de My Lai (1968, 504 civiles muertos, encubierta por un año), las fotografías de Nick Ut (niña quemada por napalm, 1972), y los Pentagon Papers (1971, revelando mentiras sistemáticas del gobierno) destruyeron la credibilidad oficial. Cuatro estudiantes fueron muertos por la Guardia Nacional en Kent State en 1970."
+    },
+    {
+      "id": "viet-007",
+      "nome": "Nixon, Kissinger e a 'Vietnamização' (1969–1973)",
+      "nome_en": "Nixon, Kissinger and 'Vietnamization' (1969–1973)",
+      "nome_es": "Nixon, Kissinger y la 'Vietnamización' (1969–1973)",
+      "tipo": "political",
+      "ano_inicio": 1969,
+      "ano_fim": 1973,
+      "seculo": 20,
+      "continente": "americas",
+      "importancia": 4,
+      "descricao": "Nixon prometeu 'paz com honra' e adotou a 'Vietnamização' — transferir o combate gradualmente para o exército sul-vietnamita enquanto retirava tropas americanas. Ao mesmo tempo, expandiu secretamente a guerra para o Camboja e o Laos, bombardeando países neutros. Os Acordos de Paris (janeiro 1973) retiraram as tropas americanas — mas não encerraram a guerra. O acordo foi um disfarce para uma saída que Kissinger admitiu nas memórias: os EUA precisavam de um 'intervalo decente' antes da inevitável derrota.",
+      "descricao_en": "Nixon promised 'peace with honor' and adopted 'Vietnamization' — gradually transferring combat to the South Vietnamese army while withdrawing US troops. At the same time, he secretly expanded the war to Cambodia and Laos, bombing neutral countries. The Paris Peace Accords (January 1973) withdrew US troops — but did not end the war. The agreement was a cover for an exit that Kissinger admitted in memoirs: the US needed a 'decent interval' before the inevitable defeat.",
+      "descricao_es": "Nixon prometió 'paz con honor' y adoptó la 'Vietnamización' — transferir gradualmente el combate al ejército survietnamita mientras retiraba tropas estadounidenses. Al mismo tiempo, expandió secretamente la guerra a Camboya y Laos, bombardeando países neutrales. Los Acuerdos de París (enero 1973) retiraron las tropas americanas — pero no terminaron la guerra. El acuerdo fue una tapadera para una salida que Kissinger admitió en sus memorias: EE.UU. necesitaba un 'intervalo decente' antes de la derrota inevitable."
+    },
+    {
+      "id": "viet-008",
+      "nome": "A Queda de Saigon (30 de abril de 1975)",
+      "nome_en": "The Fall of Saigon (April 30, 1975)",
+      "nome_es": "La Caída de Saigón (30 de abril de 1975)",
+      "tipo": "political",
+      "ano_inicio": 1975,
+      "ano_fim": 1975,
+      "seculo": 20,
+      "continente": "asia",
+      "importancia": 5,
+      "descricao": "Em 30 de abril de 1975, os tanques norte-vietnamitas derrubaram os portões do Palácio da Independência em Saigon. Helicópteros americanos evacuavam colaboradores do telhado da embaixada enquanto multidões tentavam embarcar. A imagem — helicóptero no telhado, pessoas penduradas — tornou-se símbolo do fracasso do poder americano. 58.220 soldados americanos morreram. Estimativas de mortos vietnamitas: 2 a 3 milhões de civis e combatentes do Norte e Sul. O custo financeiro: 168 bilhões de dólares (equivalente a mais de 1 trilhão em valores atuais).",
+      "descricao_en": "On April 30, 1975, North Vietnamese tanks crashed through the gates of the Independence Palace in Saigon. American helicopters evacuated collaborators from the embassy rooftop while crowds tried to board. The image — helicopter on the roof, people hanging on — became a symbol of the failure of American power. 58,220 American soldiers died. Estimates of Vietnamese deaths: 2 to 3 million civilians and combatants from North and South. The financial cost: 168 billion dollars (equivalent to over 1 trillion in current values).",
+      "descricao_es": "El 30 de abril de 1975, los tanques norvietnamitas derribaron las puertas del Palacio de la Independencia en Saigón. Los helicópteros americanos evacuaban colaboradores desde el techo de la embajada mientras multitudes intentaban embarcar. La imagen — helicóptero en el techo, personas colgando — se convirtió en símbolo del fracaso del poder americano. 58.220 soldados americanos murieron. Estimaciones de muertos vietnamitas: 2 a 3 millones de civiles y combatientes del Norte y del Sur. El costo financiero: 168 mil millones de dólares (equivalente a más de 1 billón en valores actuales)."
+    },
+    {
+      "id": "viet-009",
+      "nome": "Camboja: O Genocídio dos Khmers Vermelhos (1975–1979)",
+      "nome_en": "Cambodia: The Khmer Rouge Genocide (1975–1979)",
+      "nome_es": "Camboya: El Genocidio de los Jemeres Rojos (1975–1979)",
+      "tipo": "social",
+      "ano_inicio": 1975,
+      "ano_fim": 1979,
+      "seculo": 20,
+      "continente": "asia",
+      "importancia": 5,
+      "descricao": "O caos causado pelos bombardeios americanos no Camboja facilitou a ascensão dos Khmers Vermelhos de Pol Pot. Entre 1975 e 1979, o regime esvaziou as cidades, aboliu a moeda, destruiu escolas e hospitais e executou médicos, professores e óculos como símbolos de 'contaminação burguesa'. Aproximadamente 1,7 a 2,2 milhões de pessoas morreram — 25% da população cambojana. Foi o Vietnam, ironicamente, que pôs fim ao genocídio invadindo o Camboja em 1979.",
+      "descricao_en": "The chaos caused by American bombing in Cambodia facilitated the rise of Pol Pot's Khmer Rouge. Between 1975 and 1979, the regime emptied the cities, abolished currency, destroyed schools and hospitals and executed doctors, teachers and eyeglasses as symbols of 'bourgeois contamination'. Approximately 1.7 to 2.2 million people died — 25% of the Cambodian population. It was Vietnam, ironically, that ended the genocide by invading Cambodia in 1979.",
+      "descricao_es": "El caos causado por los bombardeos americanos en Camboya facilitó el ascenso de los Jemeres Rojos de Pol Pot. Entre 1975 y 1979, el régimen vació las ciudades, abolió la moneda, destruyó escuelas y hospitales y ejecutó médicos, maestros y anteojos como símbolos de 'contaminación burguesa'. Aproximadamente 1,7 a 2,2 millones de personas murieron — el 25% de la población camboyana. Fue Vietnam, irónicamente, quien puso fin al genocidio invadiendo Camboya en 1979."
+    },
+    {
+      "id": "viet-010",
+      "nome": "O Legado: Síndrome do Vietnam e o Mundo Pós-Guerra",
+      "nome_en": "The Legacy: Vietnam Syndrome and the Post-War World",
+      "nome_es": "El Legado: Síndrome de Vietnam y el Mundo Posguerra",
+      "tipo": "intellectual",
+      "ano_inicio": 1975,
+      "ano_fim": 2024,
+      "seculo": 20,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "A 'Síndrome do Vietnam' — relutância americana em envolver-se em guerras terrestres na Ásia — moldou a política externa dos EUA por décadas. O Vietnam reunificado tornou-se comunista mas, em 1986, lançou o Doi Moi (renovação econômica), abrindo o mercado — ironia histórica: o país que resistiu ao capitalismo americano adotou o capitalismo. O Memorial Vietnam em Washington (1982), com 58.220 nomes gravados em mármore negro, é o monumento mais visitado da capital americana — e ainda divide opiniões sobre se a guerra foi erro ou traição.",
+      "descricao_en": "The 'Vietnam Syndrome' — American reluctance to engage in land wars in Asia — shaped US foreign policy for decades. Reunified Vietnam became communist but in 1986 launched Doi Moi (economic renovation), opening the market — historical irony: the country that resisted American capitalism adopted capitalism. The Vietnam Memorial in Washington (1982), with 58,220 names engraved in black marble, is the most visited monument in the American capital — and still divides opinion on whether the war was a mistake or a betrayal.",
+      "descricao_es": "El 'Síndrome de Vietnam' — la reluctancia americana a involucrarse en guerras terrestres en Asia — moldeó la política exterior de EE.UU. durante décadas. El Vietnam reunificado se volvió comunista pero en 1986 lanzó el Doi Moi (renovación económica), abriendo el mercado — ironía histórica: el país que resistió el capitalismo americano adoptó el capitalismo. El Memorial Vietnam en Washington (1982), con 58.220 nombres grabados en mármol negro, es el monumento más visitado de la capital americana — y todavía divide opiniones sobre si la guerra fue un error o una traición."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "viet-001",
+      "destino": "viet-002",
+      "tipo": "causal"
+    },
+    {
+      "origem": "viet-002",
+      "destino": "viet-003",
+      "tipo": "causal"
+    },
+    {
+      "origem": "viet-003",
+      "destino": "viet-004",
+      "tipo": "causal"
+    },
+    {
+      "origem": "viet-003",
+      "destino": "viet-005",
+      "tipo": "causal"
+    },
+    {
+      "origem": "viet-004",
+      "destino": "viet-006",
+      "tipo": "causal"
+    },
+    {
+      "origem": "viet-005",
+      "destino": "viet-006",
+      "tipo": "causal"
+    },
+    {
+      "origem": "viet-005",
+      "destino": "viet-007",
+      "tipo": "causal"
+    },
+    {
+      "origem": "viet-006",
+      "destino": "viet-007",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "viet-007",
+      "destino": "viet-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "viet-007",
+      "destino": "viet-009",
+      "tipo": "causal"
+    },
+    {
+      "origem": "viet-008",
+      "destino": "viet-010",
+      "tipo": "causal"
+    },
+    {
+      "origem": "viet-009",
+      "destino": "viet-010",
+      "tipo": "tematica"
+    }
+  ]
+}

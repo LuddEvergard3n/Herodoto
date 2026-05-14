@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "A Segunda República (1931) trouxe reformas radicais: redistribuição de terras, laicização das escolas, autonomia catalã e basca. A polarização foi imediata: a direita (Igreja, latifundiários, exército) vs. a esquerda (socialistas, anarquistas, comunistas, liberais). A Frente Popular ganhou as eleições de fevereiro 1936. Em julho, a sublevação militar de Franco começou em Marrocos.",
-      "importancia": "A Guerra Civil Espanhola foi o ensaio geral da Segunda Guerra Mundial: fascismo vs. democracia-socialismo, com a URSS e as Brigadas Internacionais de um lado, Alemanha e Itália do outro. As democracias ocidentais optaram pela 'não-intervenção' — entregando a República à derrota."
+      "importancia": "A Guerra Civil Espanhola foi o ensaio geral da Segunda Guerra Mundial: fascismo vs. democracia-socialismo, com a URSS e as Brigadas Internacionais de um lado, Alemanha e Itália do outro. As democracias ocidentais optaram pela 'não-intervenção' — entregando a República à derrota.",
+      "nome_en": "The Spanish Republic and Polarization (1931–1936)",
+      "nome_es": "La República Española y la Polarización (1931–1936)"
     },
     {
       "id": "gce-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "A guerra tornou-se proxy internacional: Alemanha (Legião Condor — Guernica, 26 abril 1937) e Itália apoiaram Franco. URSS enviou conselheiros, tanques e aviões para a República — mas controlou politicamente o PCE e perseguiu anarquistas e trotskistas (assassinato de Andrés Nin). 35.000 voluntários das Brigadas Internacionais de 50 países lutaram pela República.",
-      "importancia": "O bombardeio de Guernica pela Luftwaffe foi o primeiro ataque aéreo sistemático a uma cidade civil na história europeia — e Picasso o imortalizou. A pintura 'Guernica' tornou-se o símbolo mais poderoso do anti-fascismo e do horror da guerra contra civis."
+      "importancia": "O bombardeio de Guernica pela Luftwaffe foi o primeiro ataque aéreo sistemático a uma cidade civil na história europeia — e Picasso o imortalizou. A pintura 'Guernica' tornou-se o símbolo mais poderoso do anti-fascismo e do horror da guerra contra civis.",
+      "nome_en": "International Intervention: Brigades, Hitler and Stalin",
+      "nome_es": "Intervención Internacional: Brigadas, Hitler y Stalin"
     },
     {
       "id": "gce-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Madrid caiu em março de 1939. 500.000 republicanos fugiram para a França — campos de concentração, depois deportados para campos nazistas. O regime franquista: Estado católico, partido único (Movimiento), repressão (30.000-150.000 executados no pós-guerra). Franco sobreviveu a Hitler e Mussolini mantendo a Espanha neutra na Segunda Guerra. Morreu em 1975 — a Espanha democratizou-se após sua morte.",
-      "importancia": "O Franquismo foi o fascismo bem-sucedido: durou 40 anos, sobreviveu à guerra que destruiu seus aliados, e entregou a Espanha à democracia de forma relativamente pacífica ('Transição'). O modelo espanhol de reconciliação — Lei da Anistia de 1977, 'pacto de esquecimento' — influenciou transições democráticas na América Latina, mas também criou feridas que reabriram no século XXI."
+      "importancia": "O Franquismo foi o fascismo bem-sucedido: durou 40 anos, sobreviveu à guerra que destruiu seus aliados, e entregou a Espanha à democracia de forma relativamente pacífica ('Transição'). O modelo espanhol de reconciliação — Lei da Anistia de 1977, 'pacto de esquecimento' — influenciou transições democráticas na América Latina, mas também criou feridas que reabriram no século XXI.",
+      "nome_en": "Franco's Victory and Francoism (1939–1975)",
+      "nome_es": "La Victoria de Franco y el Franquismo (1939–1975)"
     },
     {
       "id": "gce-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.75,
       "descricao": "A Guerra Civil Espanhola produziu a maior literatura de testemunho do século XX: George Orwell (Homage to Catalonia), Ernest Hemingway (Por Quem os Sinos Dobram), André Malraux (A Esperança). As valas comuns de Franco só foram abertas nos anos 2000. Em 2022, o governo exumou os restos de Franco do Valle de los Caídos — debate sobre a memória histórica ainda aberto.",
-      "importancia": "A questão da memória da Guerra Civil Espanhola — quem tem direito a lamentar, quem foi vítima, quem foi culpado — é o debate político mais vivo da Espanha contemporânea. A Lei da Memória Histórica (2022) é a tentativa mais recente de confrontar um passado que o 'pacto de esquecimento' de 1977 tentou enterrar."
+      "importancia": "A questão da memória da Guerra Civil Espanhola — quem tem direito a lamentar, quem foi vítima, quem foi culpado — é o debate político mais vivo da Espanha contemporânea. A Lei da Memória Histórica (2022) é a tentativa mais recente de confrontar um passado que o 'pacto de esquecimento' de 1977 tentou enterrar.",
+      "nome_en": "The Memory of the Spanish Civil War",
+      "nome_es": "La Memoria de la Guerra Civil Española"
     },
     {
       "id": "gce1",

@@ -1,7 +1,7 @@
 # Modos de Visualização — Documentação
 
 **Módulos:** `js/guided-mode.js`, `js/timeline.js`, `js/personagens.js`, `js/compare.js`, `js/questions.js`  
-**Versão:** Heródoto v7.43
+**Versão:** Heródoto v7.56
 
 ---
 
@@ -123,7 +123,7 @@ Botão de perguntas na toolbar.
 - Pontuação acumulada por sessão
 
 ### Estrutura das perguntas
-As perguntas são organizadas em **grupos temáticos** (58 grupos, 248 questões na versão atual). Cada grupo é associado a um conjunto de datasets.
+As perguntas são organizadas em **grupos temáticos** (66 grupos, 307 questões na versão atual). Cada grupo é associado a um conjunto de datasets.
 
 ### API
 ```js

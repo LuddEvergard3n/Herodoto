@@ -1,0 +1,182 @@
+{
+  "periodo": "Revolução Iraniana e a República Islâmica (1953–presente)",
+  "entidades": [
+    {
+      "id": "iran-001",
+      "nome": "Mossadegh e o Golpe de 1953: A Ferida Original",
+      "nome_en": "Mossadegh and the 1953 Coup: The Original Wound",
+      "nome_es": "Mossadegh y el Golpe de 1953: La Herida Original",
+      "tipo": "political",
+      "ano_inicio": 1951,
+      "ano_fim": 1953,
+      "seculo": 20,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "Em 1951, o primeiro-ministro eleito Mohammad Mossadegh nacionalizou o petróleo iraniano — até então controlado pela Anglo-Iranian Oil Company (hoje BP). Em agosto de 1953, a CIA e o MI6 orquestraram o golpe que o derrubou (Operação Ajax/Boot) e reinstalaram o Xá Mohammad Reza Pahlavi como governante absoluto. A CIA admitiu o envolvimento apenas em 2013. Para o Irã, 1953 é o ponto zero: a prova de que a democracia iraniana foi destruída pelo Ocidente. Toda a retórica antiamericana da Revolução de 1979 tem raiz aqui.",
+      "descricao_en": "In 1951, elected Prime Minister Mohammad Mossadegh nationalized Iranian oil — until then controlled by the Anglo-Iranian Oil Company (now BP). In August 1953, the CIA and MI6 orchestrated the coup that overthrew him (Operation Ajax/Boot) and reinstalled Shah Mohammad Reza Pahlavi as absolute ruler. The CIA only admitted involvement in 2013. For Iran, 1953 is ground zero: proof that Iranian democracy was destroyed by the West. All anti-American rhetoric of the 1979 Revolution is rooted here.",
+      "descricao_es": "En 1951, el primer ministro electo Mohammad Mossadegh nacionalizó el petróleo iraní — hasta entonces controlado por la Anglo-Iranian Oil Company (hoy BP). En agosto de 1953, la CIA y el MI6 orquestaron el golpe que lo derrocó (Operación Ajax/Boot) y reinstalaron al Sha Mohammad Reza Pahlavi como gobernante absoluto. La CIA solo admitió su participación en 2013. Para Irán, 1953 es el punto cero: la prueba de que la democracia iraní fue destruida por Occidente. Toda la retórica antiamericana de la Revolución de 1979 tiene raíz aquí."
+    },
+    {
+      "id": "iran-002",
+      "nome": "O Xá e a Revolução Branca: Modernização sem Democracia (1963–1977)",
+      "nome_en": "The Shah and the White Revolution: Modernization without Democracy (1963–1977)",
+      "nome_es": "El Sha y la Revolución Blanca: Modernización sin Democracia (1963–1977)",
+      "tipo": "political",
+      "ano_inicio": 1963,
+      "ano_fim": 1977,
+      "seculo": 20,
+      "continente": "oriente_medio",
+      "importancia": 4,
+      "descricao": "A 'Revolução Branca' do Xá Pahlavi (1963) incluiu reforma agrária, direito de voto para mulheres e industrialização acelerada com petrodólares. O Irã de 1977 tinha universidades, mulheres sem véu, discotecas em Teerã e era o principal aliado americano no Oriente Médio. Mas a SAVAK — polícia secreta formada com ajuda da CIA e Mossad — torturava e eliminava qualquer oposição. A modernização era real; a liberdade, inexistente. Khomeini, exilado no Iraque e depois na França, transmitia suas prédicas gravadas em cassetes contrabandeados para dentro do país.",
+      "descricao_en": "The Shah Pahlavi's 'White Revolution' (1963) included land reform, women's voting rights and accelerated industrialization with petrodollars. Iran in 1977 had universities, unveiled women, discotheques in Tehran and was the main US ally in the Middle East. But SAVAK — the secret police formed with CIA and Mossad help — tortured and eliminated any opposition. Modernization was real; freedom, nonexistent. Khomeini, exiled in Iraq then France, broadcast his sermons recorded on cassettes smuggled into the country.",
+      "descricao_es": "La 'Revolución Blanca' del Sha Pahlavi (1963) incluyó reforma agraria, derecho al voto para las mujeres e industrialización acelerada con petrodólares. El Irán de 1977 tenía universidades, mujeres sin velo, discotecas en Teherán y era el principal aliado americano en Oriente Medio. Pero la SAVAK — policía secreta formada con ayuda de la CIA y el Mossad — torturaba y eliminaba cualquier oposición. La modernización era real; la libertad, inexistente. Jomeini, exiliado en Irak y luego en Francia, transmitía sus prédicas grabadas en casetes introducidos de contrabando en el país."
+    },
+    {
+      "id": "iran-003",
+      "nome": "A Revolução de 1979: Uma Coalizão que se Devorou",
+      "nome_en": "The 1979 Revolution: A Coalition That Devoured Itself",
+      "nome_es": "La Revolución de 1979: Una Coalición que se Devoró",
+      "tipo": "political",
+      "ano_inicio": 1978,
+      "ano_fim": 1979,
+      "seculo": 20,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "A Revolução Iraniana não foi apenas islâmica: foi uma coalizão de marxistas, liberais, nacionalistas, feministas e clérigos unidos contra o Xá. O Aiatolá Khomeini, 76 anos, voltou do exílio em Paris em fevereiro de 1979 para uma multidão de milhões. Em meses, os aliados laicos foram sistematicamente eliminados: fuzilamentos em massa, fechamento de partidos, imposição do véu obrigatório. O que emergiu foi o conceito inédito de 'Velayat-e Faqih' (governo do jurista islâmico) — uma teocracia com elementos republicanos, sem precedente histórico.",
+      "descricao_en": "The Iranian Revolution was not only Islamic: it was a coalition of Marxists, liberals, nationalists, feminists and clerics united against the Shah. Ayatollah Khomeini, 76 years old, returned from exile in Paris in February 1979 to millions. Within months, secular allies were systematically eliminated: mass executions, closure of parties, imposition of mandatory veil. What emerged was the unprecedented concept of 'Velayat-e Faqih' (rule of the Islamic jurist) — a theocracy with republican elements, without historical precedent.",
+      "descricao_es": "La Revolución Iraní no fue solo islámica: fue una coalición de marxistas, liberales, nacionalistas, feministas y clérigos unidos contra el Sha. El Ayatolá Jomeini, de 76 años, regresó del exilio en París en febrero de 1979 ante millones de personas. En meses, los aliados laicos fueron sistemáticamente eliminados: fusilamientos masivos, cierre de partidos, imposición del velo obligatorio. Lo que emergió fue el concepto inédito de 'Velayat-e Faqih' (gobierno del jurista islámico) — una teocracia con elementos republicanos, sin precedente histórico."
+    },
+    {
+      "id": "iran-004",
+      "nome": "A Crise dos Reféns: 444 Dias que Mudaram o Mundo (1979–1981)",
+      "nome_en": "The Hostage Crisis: 444 Days That Changed the World (1979–1981)",
+      "nome_es": "La Crisis de Rehenes: 444 Días que Cambiaron el Mundo (1979–1981)",
+      "tipo": "political",
+      "ano_inicio": 1979,
+      "ano_fim": 1981,
+      "seculo": 20,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "Em novembro de 1979, estudantes iranianos tomaram a Embaixada Americana em Teerã e fizeram 52 diplomatas reféns por 444 dias. A crise humilhou Jimmy Carter, que perdeu a eleição para Reagan em parte por causa disso, e cimentou a hostilidade EUA-Irã que dura até hoje. Os reféns foram libertados minutos após Reagan tomar posse — em circunstâncias que sugerem negociações secretas (o 'Acordo de outubro' ainda é debatido). A crise introduziu o termo 'terrorismo' no vocabulário político americano e redefiniu a política externa dos EUA no Oriente Médio.",
+      "descricao_en": "In November 1979, Iranian students seized the US Embassy in Tehran and held 52 diplomats hostage for 444 days. The crisis humiliated Jimmy Carter, who lost the election to Reagan partly because of it, and cemented the US-Iran hostility that persists to this day. The hostages were freed minutes after Reagan was inaugurated — in circumstances suggesting secret negotiations (the 'October Surprise' is still debated). The crisis introduced the term 'terrorism' to American political vocabulary and redefined US foreign policy in the Middle East.",
+      "descricao_es": "En noviembre de 1979, estudiantes iraníes tomaron la Embajada Americana en Teherán y retuvieron como rehenes a 52 diplomáticos durante 444 días. La crisis humilló a Jimmy Carter, quien perdió la elección ante Reagan en parte por eso, y cimentó la hostilidad EE.UU.-Irán que persiste hasta hoy. Los rehenes fueron liberados minutos después de que Reagan tomara posesión — en circunstancias que sugieren negociaciones secretas (el 'Acuerdo de octubre' todavía se debate). La crisis introdujo el término 'terrorismo' en el vocabulario político americano y redefinió la política exterior de EE.UU. en Oriente Medio."
+    },
+    {
+      "id": "iran-005",
+      "nome": "A Guerra Irã-Iraque (1980–1988): A Guerra que o Ocidente Armou dos Dois Lados",
+      "nome_en": "The Iran-Iraq War (1980–1988): The War the West Armed from Both Sides",
+      "nome_es": "La Guerra Irán-Irak (1980–1988): La Guerra que Occidente Armó de Ambos Lados",
+      "tipo": "war",
+      "ano_inicio": 1980,
+      "ano_fim": 1988,
+      "seculo": 20,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "Saddam Hussein invadiu o Irã em setembro de 1980 com apoio implícito americano — os EUA queriam ambos os países enfraquecidos. A guerra durou oito anos, matou entre 500.000 e 1 milhão de pessoas e terminou sem vencedor. O Iraque usou armas químicas (gás mostarda, sarin) contra iranianos e contra os próprios curdos iraquianos (Massacre de Halabja, 1988, 5.000 mortos) — com conhecimento e tolerância ocidental. Os EUA forneceram inteligência ao Iraque enquanto vendiam armas ao Irã (Irã-Contras). A guerra consolidou o regime revolucionário iraniano ao criar um inimigo externo.",
+      "descricao_en": "Saddam Hussein invaded Iran in September 1980 with implicit American support — the US wanted both countries weakened. The war lasted eight years, killed between 500,000 and 1 million people and ended without a winner. Iraq used chemical weapons (mustard gas, sarin) against Iranians and against its own Kurdish population (Halabja Massacre, 1988, 5,000 dead) — with Western knowledge and tolerance. The US provided intelligence to Iraq while selling arms to Iran (Iran-Contra). The war consolidated the Iranian revolutionary regime by creating an external enemy.",
+      "descricao_es": "Saddam Hussein invadió Irán en septiembre de 1980 con apoyo implícito americano — EE.UU. quería ambos países debilitados. La guerra duró ocho años, mató entre 500.000 y 1 millón de personas y terminó sin vencedor. Irak usó armas químicas (gas mostaza, sarín) contra iraníes y contra sus propios kurdos (Masacre de Halabja, 1988, 5.000 muertos) — con conocimiento y tolerancia occidental. EE.UU. proporcionó inteligencia a Irak mientras vendía armas a Irán (Irán-Contra). La guerra consolidó el régimen revolucionario iraní al crear un enemigo externo."
+    },
+    {
+      "id": "iran-006",
+      "nome": "O Programa Nuclear e o Jogo das Sanções (2002–presente)",
+      "nome_en": "The Nuclear Program and the Sanctions Game (2002–present)",
+      "nome_es": "El Programa Nuclear y el Juego de las Sanciones (2002–presente)",
+      "tipo": "political",
+      "ano_inicio": 2002,
+      "ano_fim": 2024,
+      "seculo": 21,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "Em 2002, revelou-se que o Irã construía instalações nucleares secretas. O debate até hoje: o Irã quer a bomba, ou quer a capacidade de fazê-la (o chamado 'screwdriver's turn')? O Acordo de Viena (JCPOA, 2015) limitou o programa nuclear em troca do levantamento de sanções — Obama o assinou, Trump o abandonou em 2018, Biden tentou renegociá-lo sem sucesso. O Irã expandiu seu programa. Israel realizou ataques (Stuxnet, assassinatos de cientistas). As sanções empobreceram a população sem mudar o regime. A questão nuclear iraniana é o nó mais perigoso da geopolítica contemporânea.",
+      "descricao_en": "In 2002, it was revealed that Iran was building secret nuclear facilities. The debate continues: does Iran want the bomb, or the ability to make one (the so-called 'screwdriver's turn')? The Vienna Agreement (JCPOA, 2015) limited the nuclear program in exchange for lifting sanctions — Obama signed it, Trump abandoned it in 2018, Biden tried to renegotiate without success. Iran expanded its program. Israel conducted attacks (Stuxnet, assassinations of scientists). Sanctions impoverished the population without changing the regime. The Iranian nuclear question is the most dangerous knot in contemporary geopolitics.",
+      "descricao_es": "En 2002, se reveló que Irán construía instalaciones nucleares secretas. El debate hasta hoy: ¿Irán quiere la bomba, o quiere la capacidad de fabricarla (el llamado 'giro del destornillador')? El Acuerdo de Viena (JCPOA, 2015) limitó el programa nuclear a cambio del levantamiento de sanciones — Obama lo firmó, Trump lo abandonó en 2018, Biden intentó renegociarlo sin éxito. Irán expandió su programa. Israel realizó ataques (Stuxnet, asesinatos de científicos). Las sanciones empobrecieron a la población sin cambiar el régimen. La cuestión nuclear iraní es el nudo más peligroso de la geopolítica contemporánea."
+    },
+    {
+      "id": "iran-007",
+      "nome": "Mulher, Vida, Liberdade: O Movimento de 2022",
+      "nome_en": "Woman, Life, Freedom: The 2022 Movement",
+      "nome_es": "Mujer, Vida, Libertad: El Movimiento de 2022",
+      "tipo": "social",
+      "ano_inicio": 2022,
+      "ano_fim": 2024,
+      "seculo": 21,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "Em setembro de 2022, Mahsa Amini, 22 anos, morreu sob custódia da polícia moral após ser detida por usar o véu 'incorretamente'. O que se seguiu foi o maior movimento de contestação desde a revolução: mulheres queimando véus em praça pública, jovens enfrentando a Guarda Revolucionária, o slogan curdo 'Jin, Jiyan, Azadî' (Mulher, Vida, Liberdade) ecoando pelo mundo. O regime reprimiu com mais de 500 mortos e 15.000 presos. Mas pela primeira vez desde 1979, mulheres iranianas circulam sem véu em espaços públicos em desafio aberto — e a questão do véu tornou-se símbolo de uma contestação muito mais ampla ao modelo teocrático.",
+      "descricao_en": "In September 2022, Mahsa Amini, 22 years old, died in custody of the morality police after being detained for wearing her veil 'incorrectly'. What followed was the largest protest movement since the revolution: women burning veils in public squares, youth confronting the Revolutionary Guard, the Kurdish slogan 'Jin, Jiyan, Azadî' (Woman, Life, Freedom) echoing around the world. The regime repressed with more than 500 dead and 15,000 arrested. But for the first time since 1979, Iranian women circulate without veils in public spaces in open defiance — and the veil question became a symbol of a much broader challenge to the theocratic model.",
+      "descricao_es": "En septiembre de 2022, Mahsa Amini, de 22 años, murió bajo custodia de la policía moral tras ser detenida por llevar el velo 'incorrectamente'. Lo que siguió fue el mayor movimiento de contestación desde la revolución: mujeres quemando velos en plazas públicas, jóvenes enfrentando a la Guardia Revolucionaria, el eslogan kurdo 'Jin, Jiyan, Azadî' (Mujer, Vida, Libertad) resonando por el mundo. El régimen reprimió con más de 500 muertos y 15.000 detenidos. Pero por primera vez desde 1979, las mujeres iraníes circulan sin velo en espacios públicos en desafío abierto — y la cuestión del velo se convirtió en símbolo de un desafío mucho más amplio al modelo teocrático."
+    },
+    {
+      "id": "iran-008",
+      "nome": "O Irã como Potência Regional: Hezbolá, Hamas e o Eixo da Resistência",
+      "nome_en": "Iran as Regional Power: Hezbollah, Hamas and the Axis of Resistance",
+      "nome_es": "Irán como Potencia Regional: Hezbolá, Hamas y el Eje de la Resistencia",
+      "tipo": "political",
+      "ano_inicio": 1982,
+      "ano_fim": 2024,
+      "seculo": 20,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "Desde 1979, o Irã constrói uma rede de influência regional através de grupos armados: o Hezbolá no Líbano (fundado 1982, hoje estado dentro do estado), o Hamas em Gaza, os Houthis no Iêmen, milícias xiitas no Iraque e na Síria. O 'Eixo da Resistência' é a estratégia iraniana de projetar poder sem conflito direto — guerra por procuração permanente. O conflito Gaza de 2023-2024 ativou toda a rede simultaneamente. O Irã é simultaneamente um estado revolucionário exportador de ideologia e uma potência regional pragmática calculando influência — e a distinção entre os dois é o que torna sua política externa tão difícil de interpretar.",
+      "descricao_en": "Since 1979, Iran has built a regional influence network through armed groups: Hezbollah in Lebanon (founded 1982, now a state within the state), Hamas in Gaza, Houthis in Yemen, Shiite militias in Iraq and Syria. The 'Axis of Resistance' is Iran's strategy of projecting power without direct conflict — permanent proxy war. The 2023-2024 Gaza conflict activated the entire network simultaneously. Iran is simultaneously a revolutionary state exporting ideology and a pragmatic regional power calculating influence — and the distinction between the two is what makes its foreign policy so difficult to interpret.",
+      "descricao_es": "Desde 1979, Irán construye una red de influencia regional a través de grupos armados: Hezbolá en Líbano (fundado en 1982, hoy estado dentro del estado), Hamas en Gaza, los hutíes en Yemen, milicias chiítas en Irak y Siria. El 'Eje de la Resistencia' es la estrategia iraní de proyectar poder sin conflicto directo — guerra por procuración permanente. El conflicto de Gaza de 2023-2024 activó toda la red simultáneamente. Irán es simultáneamente un estado revolucionario exportador de ideología y una potencia regional pragmática calculando influencia — y la distinción entre los dos es lo que hace su política exterior tan difícil de interpretar."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "iran-001",
+      "destino": "iran-002",
+      "tipo": "causal"
+    },
+    {
+      "origem": "iran-001",
+      "destino": "iran-003",
+      "tipo": "causal"
+    },
+    {
+      "origem": "iran-002",
+      "destino": "iran-003",
+      "tipo": "causal"
+    },
+    {
+      "origem": "iran-003",
+      "destino": "iran-004",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "iran-003",
+      "destino": "iran-005",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "iran-003",
+      "destino": "iran-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "iran-004",
+      "destino": "iran-005",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "iran-005",
+      "destino": "iran-006",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "iran-006",
+      "destino": "iran-007",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "iran-006",
+      "destino": "iran-008",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "iran-007",
+      "destino": "iran-008",
+      "tipo": "tematica"
+    }
+  ]
+}

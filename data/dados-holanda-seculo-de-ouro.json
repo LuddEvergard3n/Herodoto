@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "A União de Utrecht (1579) e a Declaração de Independência (Ato de Abjuração, 1581) criaram a República das Sete Províncias Unidas — sem rei, governada pelos Estates-General e pelos Statthalders (capitães gerais). Amsterdã tornou-se o centro financeiro mundial: Bolsa de Valores (1602), Banco de Amsterdã (1609), ações da Companhia das Índias Orientais (VOC) cotadas publicamente.",
-      "importancia": "A República Holandesa foi o primeiro Estado moderno dominado por uma classe mercantil urbana — não por aristocracia fundiária ou monarquia. Sua Bolsa de Valores foi o embrião do capitalismo financeiro moderno. A tolerância religiosa relativa atraiu huguenotes, judeus sefarditas, dissidentes ingleses — e com eles, capital e talento."
+      "importancia": "A República Holandesa foi o primeiro Estado moderno dominado por uma classe mercantil urbana — não por aristocracia fundiária ou monarquia. Sua Bolsa de Valores foi o embrião do capitalismo financeiro moderno. A tolerância religiosa relativa atraiu huguenotes, judeus sefarditas, dissidentes ingleses — e com eles, capital e talento.",
+      "nome_en": "The Dutch Republic: Foundation and Structure (1581–1650)",
+      "nome_es": "La República de las Provincias Unidas: Fundación y Estructura (1581–1650)"
     },
     {
       "id": "hol-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "A Companhia das Índias Orientais Neerlandesa (VOC) foi a primeira empresa a emitir ações ao público (1602) e a ter um conselho de administração separado dos acionistas. Em seu auge controlava metade do comércio global de especiarias, tinha exércitos e armadas próprias, cunhava moeda, declarava guerra. Maior empresa da história em valor ajustado à inflação.",
-      "importancia": "A VOC inventou o capitalismo corporativo moderno: separação entre propriedade (acionistas) e gestão (diretores), responsabilidade limitada, mercado secundário de ações. A tulipa mania de 1637 (primeiros futuros financeiros) e o subsequente colapso foi a primeira bolha especulativa documentada."
+      "importancia": "A VOC inventou o capitalismo corporativo moderno: separação entre propriedade (acionistas) e gestão (diretores), responsabilidade limitada, mercado secundário de ações. A tulipa mania de 1637 (primeiros futuros financeiros) e o subsequente colapso foi a primeira bolha especulativa documentada.",
+      "nome_en": "VOC: The First Multinational Corporation (1602–1799)",
+      "nome_es": "VOC: La Primera Corporación Multinacional (1602–1799)"
     },
     {
       "id": "hol-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "O Século de Ouro holandês produziu a maior concentração de pintores geniais fora da Itália renascentista: Rembrandt van Rijn (autorretratos, retratos coletivos — A Ronda Noturna), Vermeer (luz interior doméstica — A Moça com Brinco de Pérola), Frans Hals, Jacob van Ruisdael. Arte financiada pela burguesia — não pela Igreja ou aristocracia — representa cenas domésticas, paisagens, naturezas-mortas.",
-      "importancia": "A arte holandesa do século XVII foi a primeira arte burguesa da história: seu cliente era o comerciante, seu tema era a vida cotidiana, sua linguagem era o realismo. Esta ruptura com o patronato religioso e aristocrático antecipou a democratização da arte que o século XIX concluiria."
+      "importancia": "A arte holandesa do século XVII foi a primeira arte burguesa da história: seu cliente era o comerciante, seu tema era a vida cotidiana, sua linguagem era o realismo. Esta ruptura com o patronato religioso e aristocrático antecipou a democratização da arte que o século XIX concluiria.",
+      "nome_en": "Art and Culture: Rembrandt, Vermeer and Bourgeois Painting (1600–1680)",
+      "nome_es": "Arte y Cultura: Rembrandt, Vermeer y la Pintura Burguesa (1600–1680)"
     },
     {
       "id": "hol-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Hugo Grotius (1583-1645): pai do direito internacional — Mare Liberum (os mares são livres), De Jure Belli ac Pacis (direito de guerra). Baruch Spinoza (1632-1677): Deus e Natureza são a mesma substância (Deus sive Natura), livre-arbítrio é ilusão, a Bíblia deve ser lida historicamente — excomungado pela sinagoga amsterdã. René Descartes refugiado em Amsterdã.",
-      "importancia": "A Holanda do século XVII foi o laboratório intelectual da Europa: tolerância relativa permitia publicar o que era impossível em França ou Espanha. Locke escreveu em Amsterdã seus ensaios sobre tolerância. Grotius fundou o direito internacional precisamente porque a Holanda, como potência comercial, precisava de regras para navegar entre impérios hostis."
+      "importancia": "A Holanda do século XVII foi o laboratório intelectual da Europa: tolerância relativa permitia publicar o que era impossível em França ou Espanha. Locke escreveu em Amsterdã seus ensaios sobre tolerância. Grotius fundou o direito internacional precisamente porque a Holanda, como potência comercial, precisava de regras para navegar entre impérios hostis.",
+      "nome_en": "Spinoza, Grotius and Dutch Thought (1580–1700)",
+      "nome_es": "Spinoza, Grocio y el Pensamiento Holandés (1580–1700)"
     },
     {
       "id": "hso1",

@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Em maio de 1945, a Europa estava destruída: 40-55 milhões de mortos, 60 milhões de deslocados, cidades arrasadas (Berlim, Dresden, Varsóvia, Coventry), indústria paralisada, fome generalizada. Berlim: 4 zonas de ocupação (EUA, URSS, Grã-Bretanha, França). As populações alemãs foram expulsas da Polônia, Tchecoslováquia, Hungria — 12-14 milhões de pessoas em meses.",
-      "importancia": "A devastação de 1945 foi a tabula rasa que tornou possível a reconstrução europeia: as elites que haviam resistido à reforma antes da guerra tinham sido destruídas. O Estado de Bem-Estar europeu foi possível porque a guerra havia eliminado as resistências à redistribuição — não apesar da destruição, mas por causa dela."
+      "importancia": "A devastação de 1945 foi a tabula rasa que tornou possível a reconstrução europeia: as elites que haviam resistido à reforma antes da guerra tinham sido destruídas. O Estado de Bem-Estar europeu foi possível porque a guerra havia eliminado as resistências à redistribuição — não apesar da destruição, mas por causa dela.",
+      "nome_en": "The Continent in Ruins: Europe 1945",
+      "nome_es": "El Continente en Ruinas: Europa 1945"
     },
     {
       "id": "epg-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "O Plano Marshall (1948-52): 13,3 bilhões de dólares americanos para a reconstrução da Europa Ocidental — a maior transferência voluntária de riqueza entre nações da história até então. Condicionado à cooperação econômica (OECE) e ao afastamento dos comunistas dos governos. A URSS recusou e proibiu os países do bloco oriental de aceitar. Resulatado: Europa Ocidental recuperou o nível pré-guerra em 4 anos.",
-      "importancia": "O Plano Marshall foi ao mesmo tempo generosidade genuína e estratégia da Guerra Fria: economias prosperosas seriam imunes ao comunismo. O contraste com Versalhes (1919) foi deliberado — desta vez, os vencidos seriam reconstruídos, não punidos. A Alemanha Ocidental tornou-se o maior beneficiário relativo."
+      "importancia": "O Plano Marshall foi ao mesmo tempo generosidade genuína e estratégia da Guerra Fria: economias prosperosas seriam imunes ao comunismo. O contraste com Versalhes (1919) foi deliberado — desta vez, os vencidos seriam reconstruídos, não punidos. A Alemanha Ocidental tornou-se o maior beneficiário relativo.",
+      "nome_en": "Marshall Plan and Western Reconstruction (1947–1952)",
+      "nome_es": "Plan Marshall y la Reconstrucción Occidental (1947–1952)"
     },
     {
       "id": "epg-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "A Alemanha Ocidental cresceu 8% ao ano na década de 1950: a 'economia social de mercado' de Ludwig Erhard combinou livre mercado com forte proteção social. Reforma monetária (junho 1948): o Deutsche Mark substituiu o Reichsmark inflacionado — preços de volta ao normal em semanas. Desemprego de 10% (1950) → pleno emprego (1960). De país destruído a maior economia europeia em 15 anos.",
-      "importancia": "O Wirtschaftswunder foi o milagre que fundou a democracia alemã pós-guerra: a Grundgesetz (Lei Fundamental, 1949) era liberal e sólida, mas o que converteu os alemães à democracia foi a prosperidade. Adenauer entendeu: antes de educar a nação para a democracia, havia que enchê-la de geladeiras."
+      "importancia": "O Wirtschaftswunder foi o milagre que fundou a democracia alemã pós-guerra: a Grundgesetz (Lei Fundamental, 1949) era liberal e sólida, mas o que converteu os alemães à democracia foi a prosperidade. Adenauer entendeu: antes de educar a nação para a democracia, havia que enchê-la de geladeiras.",
+      "nome_en": "The German Economic Miracle: Wirtschaftswunder (1948–1970)",
+      "nome_es": "El Milagro Económico Alemán: Wirtschaftswunder (1948–1970)"
     },
     {
       "id": "epg-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Os Julgamentos de Nuremberg (1945-46) julgaram 24 líderes nazistas — 12 condenados à morte. A desnazificação americana foi ambiciosa mas superficial: 3,6 milhões de questionários, mas a maioria dos burocratas, juízes e professores nazistas manteve seus cargos. O 'Wirtschaftswunder' foi construído em parte por ex-nazis. Só nos anos 60 a sociedade alemã confrontou seriamente o passado.",
-      "importancia": "A desnazificação incompleta deixou sequelas profundas: a geração de 68 alemã rebelou-se precisamente contra pais e professores que 'não tinham nada a ver com aquilo'. A Lei Fundamental alemã e a cultura política do 'Nunca mais' alemão são a resposta mais sólida da história à pergunta 'como evitar a repetição'."
+      "importancia": "A desnazificação incompleta deixou sequelas profundas: a geração de 68 alemã rebelou-se precisamente contra pais e professores que 'não tinham nada a ver com aquilo'. A Lei Fundamental alemã e a cultura política do 'Nunca mais' alemão são a resposta mais sólida da história à pergunta 'como evitar a repetição'.",
+      "nome_en": "Nuremberg, Denazification and the Confrontation with the Past",
+      "nome_es": "Núremberg, Desnazificación y la Confrontación con el Pasado"
     },
     {
       "id": "epg1",

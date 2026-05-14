@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Churchill cunhou a expressão 'Cortina de Ferro' em Fulton, Missouri (março 1946). Entre 1945-48, a URSS instalou regimes comunistas na Europa Oriental por via eleitoral manipulada ou golpe (Tchecoslováquia, fevereiro 1948). Bloqueio de Berlim (junho 1948 – maio 1949): URSS bloqueou os acessos terrestres a Berlim Ocidental — ponte aérea aliada (277.000 voos) frustrou o bloqueio. NATO (abril 1949).",
-      "importancia": "Berlim tornou-se o símbolo da Guerra Fria: cidade dividida no coração da Europa, onde as duas superpotências se confrontavam diretamente. Cada crise de Berlim (1948, 1958-61) era um teste de vontade que nenhum lado podia vencer sem risco de guerra nuclear."
+      "importancia": "Berlim tornou-se o símbolo da Guerra Fria: cidade dividida no coração da Europa, onde as duas superpotências se confrontavam diretamente. Cada crise de Berlim (1948, 1958-61) era um teste de vontade que nenhum lado podia vencer sem risco de guerra nuclear.",
+      "nome_en": "The Iron Curtain: Division of Europe (1945–1949)",
+      "nome_es": "El Telón de Acero: División de Europa (1945–1949)"
     },
     {
       "id": "gfe-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Revolta de Berlim Oriental (junho 1953): trabalhadores protestaram contra aumento de cotas de produção — esmagada por tanques soviéticos. Revolução Húngara (outubro-novembro 1956): Imre Nagy anunciou saída do Pacto de Varsóvia — 200.000 soldados soviéticos, 2.500 húngaros mortos, Nagy executado. Primavera de Praga (1968): Dubček propôs 'socialismo de rosto humano' — Operação Danúbio esmagou em agosto.",
-      "importancia": "Cada intervenção soviética matou o comunismo como utopia para uma geração: 1956 foi o ano em que os intelectuais europeus de esquerda abandonaram o Partido Comunista em massa. 1968 foi o ano em que os que tinham ficado após 1956 saíram. A 'Doutrina Brejnev' — a URSS tinha direito de intervir para proteger o socialismo — foi a sentença de morte do comunismo europeu."
+      "importancia": "Cada intervenção soviética matou o comunismo como utopia para uma geração: 1956 foi o ano em que os intelectuais europeus de esquerda abandonaram o Partido Comunista em massa. 1968 foi o ano em que os que tinham ficado após 1956 saíram. A 'Doutrina Brejnev' — a URSS tinha direito de intervir para proteger o socialismo — foi a sentença de morte do comunismo europeu.",
+      "nome_en": "Crushed Revolutions: Berlin 1953, Hungary 1956, Prague 1968",
+      "nome_es": "Revoluciones Aplastadas: Berlín 1953, Hungría 1956, Praga 1968"
     },
     {
       "id": "gfe-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "O Muro de Berlim foi erguido na noite de 12-13 agosto 1961 — para parar a fuga de 3,5 milhões de alemães orientais desde 1945. 155 km de muros, valas, arames, torres de vigilância. 140-200 mortes tentando atravessar. John Kennedy: 'Ich bin ein Berliner' (1963). Mikhail Gorbachev recusou-se a usar força. Na noite de 9 novembro 1989, a RDA anunciou abertura das fronteiras — multidões derrubaram o Muro.",
-      "importancia": "A queda do Muro de Berlim foi o momento mais importante da segunda metade do século XX europeu. Aconteceu não por força militar mas porque o regime deixou de ter legitimidade e Gorbachev recusou enviar tanques como Brejnev havia feito. A 'Revolução de Veludo' mostrou que regimes sem legitimidade caem quando o medo desaparece."
+      "importancia": "A queda do Muro de Berlim foi o momento mais importante da segunda metade do século XX europeu. Aconteceu não por força militar mas porque o regime deixou de ter legitimidade e Gorbachev recusou enviar tanques como Brejnev havia feito. A 'Revolução de Veludo' mostrou que regimes sem legitimidade caem quando o medo desaparece.",
+      "nome_en": "The Berlin Wall: Construction and Fall (1961–1989)",
+      "nome_es": "El Muro de Berlín: Construcción y Caída (1961–1989)"
     },
     {
       "id": "gfe-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Solidarność (Solidariedade) foi o primeiro sindicato independente do bloco soviético: fundado em Gdańsk (agosto 1980) pelos estaleiros, liderado por Lech Wałęsa. Em 16 meses, 10 milhões de membros — quase 1/3 da Polónia adulta. Lei Marcial (dezembro 1981): General Jaruzelski suspendeu Solidarność. Mas o movimento sobreviveu clandestinamente. As eleições de 1989 marcaram o início do fim.",
-      "importancia": "Solidarność foi a prova de que o bloco soviético podia ser desafiado de dentro — não apenas pela força exterior. O papel de João Paulo II (papa polonês) em fortalecer a resistência cultural e moral foi central. A transição pacífica polonesa de 1989 foi o modelo para todas as demais revoluções de veludo."
+      "importancia": "Solidarność foi a prova de que o bloco soviético podia ser desafiado de dentro — não apenas pela força exterior. O papel de João Paulo II (papa polonês) em fortalecer a resistência cultural e moral foi central. A transição pacífica polonesa de 1989 foi o modelo para todas as demais revoluções de veludo.",
+      "nome_en": "Solidarity and the Resistance of the Eastern Bloc (1980–1989)",
+      "nome_es": "Solidaridad y la Resistencia del Bloque Oriental (1980–1989)"
     },
     {
       "id": "gfe1",

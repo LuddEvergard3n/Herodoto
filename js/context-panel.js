@@ -1,5 +1,5 @@
 /**
- * CONTEXT PANEL — HERÓDOTO v7.17
+ * CONTEXT PANEL — HERÓDOTO v7.56
  * Painel lateral dinâmico "Contexto do Evento"
  * Ativado ao clicar em um nó do grafo.
  *
@@ -9,6 +9,11 @@
  *   3. No mundo, ao mesmo tempo — OUTRAS regiões, sobreposição temporal
  *      Usa window.todosOsDados para buscar em TODOS os dados carregados.
  */
+
+import {
+  aiAtivado, aiPronto, aiCarregando, aiOptIn, aiOptOut,
+  inicializarAI, analisarEntidade, renderBannerAI, renderBotaoAI
+} from './ai.js';
 
 const MAX_DESC_CHARS = 200;
 
@@ -289,7 +294,113 @@ export function showContextPanel(entidade, allEntidades) {
     renderWorldBlock(BLOCK_LABELS.worldSync[l]   || BLOCK_LABELS.worldSync.pt,   worldSync,   body);
   }
 
+  // ── Secção de IA ─────────────────────────────────
+  _renderAISection(body, entidade, allEntidades, l);
+
   panel.classList.remove('hidden');
+}
+
+// ── Secção de IA no painel ────────────────────────
+function _renderAISection(body, entidade, allEntidades, lang) {
+  const wrapper = document.createElement('div');
+  wrapper.className = 'cp-ai-section';
+  body.appendChild(wrapper);
+
+  if (!window.navigator.gpu) {
+    // WebGPU indisponível — silêncio total
+    return;
+  }
+
+  if (!aiAtivado()) {
+    // Mostrar banner de opt-in
+    wrapper.innerHTML = renderBannerAI(lang);
+    const btnAtivar = wrapper.querySelector('#ai-btn-ativar');
+    const btnNao    = wrapper.querySelector('#ai-btn-nao');
+    if (btnNao) btnNao.addEventListener('click', () => wrapper.remove());
+    if (btnAtivar) btnAtivar.addEventListener('click', async () => {
+      aiOptIn();
+      wrapper.innerHTML = _renderCarregando(lang);
+      await _carregarEAnalisar(wrapper, entidade, allEntidades, lang);
+    });
+    return;
+  }
+
+  // IA activada — mostrar botão ou analisar directamente
+  wrapper.innerHTML = renderBotaoAI(lang);
+  const btn = wrapper.querySelector('#ai-analisar-btn');
+  if (!btn) return;
+
+  btn.addEventListener('click', async () => {
+    if (aiCarregando()) return;
+    wrapper.innerHTML = _renderCarregando(lang);
+    await _carregarEAnalisar(wrapper, entidade, allEntidades, lang);
+  });
+
+  // Se já estiver pronto, analisar automaticamente
+  if (aiPronto()) {
+    wrapper.innerHTML = _renderCarregando(lang);
+    _carregarEAnalisar(wrapper, entidade, allEntidades, lang);
+  }
+}
+
+function _renderCarregando(lang) {
+  const msg = { pt: 'A carregar modelo de IA…', en: 'Loading AI model…', es: 'Cargando modelo de IA…' };
+  return `<div class="ai-loading">
+    <div class="ai-spinner"></div>
+    <span>${msg[lang] || msg.pt}</span>
+    <div class="ai-progress-bar"><div class="ai-progress-fill" id="ai-progress-fill" style="width:0%"></div></div>
+  </div>`;
+}
+
+async function _carregarEAnalisar(wrapper, entidade, allEntidades, lang) {
+  const result = await inicializarAI((pct, txt) => {
+    const fill = wrapper.querySelector('#ai-progress-fill');
+    if (fill) fill.style.width = pct + '%';
+  });
+
+  if (!result.ok) {
+    const erros = {
+      webgpu:   { pt: 'WebGPU não disponível neste browser. Use Chrome 113+ ou Edge 113+.',
+                  en: 'WebGPU not available. Use Chrome 113+ or Edge 113+.',
+                  es: 'WebGPU no disponible. Use Chrome 113+ o Edge 113+.' },
+      error:    { pt: 'Falha ao carregar o modelo. Tente novamente.',
+                  en: 'Failed to load model. Please try again.',
+                  es: 'Error al cargar el modelo. Inténtelo de nuevo.' },
+      loading:  { pt: 'Modelo ainda a carregar, aguarde…',
+                  en: 'Model still loading, please wait…',
+                  es: 'El modelo aún se está cargando, espere…' },
+    };
+    const e = erros[result.reason] || erros.error;
+    wrapper.innerHTML = `<p class="ai-error">${e[lang] || e.pt}</p>`;
+    return;
+  }
+
+  // Recolher entidades relacionadas da lista carregada
+  const relacionadas = allEntidades
+    .filter(e => e.id !== entidade.id)
+    .filter(e => {
+      const overlap = e.ano_inicio <= (entidade.ano_fim || entidade.ano_inicio) &&
+                      (e.ano_fim || e.ano_inicio) >= entidade.ano_inicio;
+      return overlap;
+    })
+    .slice(0, 6);
+
+  const label = { pt: '✦ Análise pedagógica', en: '✦ Pedagogical analysis', es: '✦ Análisis pedagógico' };
+  wrapper.innerHTML = `<p class="ai-section-label">${label[lang] || label.pt}</p>
+    <p class="ai-thinking">${{ pt:'A pensar…', en:'Thinking…', es:'Pensando…' }[lang] || 'A pensar…'}</p>`;
+
+  const resposta = await analisarEntidade(entidade, relacionadas, lang);
+  if (resposta) {
+    wrapper.innerHTML = `<p class="ai-section-label">${label[lang] || label.pt}</p>
+      <div class="ai-resposta">${resposta.replace(/\n/g, '<br>')}</div>
+      <button class="ai-desativar-btn" id="ai-desativar-btn">
+        ${{ pt:'Desativar IA', en:'Disable AI', es:'Desactivar IA' }[lang] || 'Desativar IA'}
+      </button>`;
+    const btnDes = wrapper.querySelector('#ai-desativar-btn');
+    if (btnDes) btnDes.addEventListener('click', () => { aiOptOut(); wrapper.remove(); });
+  } else {
+    wrapper.innerHTML = `<p class="ai-error">${{ pt:'Sem resposta. Tente novamente.', en:'No response. Try again.', es:'Sin respuesta. Inténtelo de nuevo.' }[lang]}</p>`;
+  }
 }
 
 export function initContextPanel() {

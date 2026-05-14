@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "John Locke foi o filósofo político mais influente do mundo moderno anglófono. Ensaio sobre o Entendimento Humano (1689): a mente é tabula rasa, todo conhecimento vem da experiência — fundamento do empirismo. Dois Tratados sobre o Governo (1689): o governo deriva do consentimento dos governados; o povo tem direito de resistir a governos tirânicos. Carta sobre a Tolerância: separação Igreja-Estado.",
-      "importancia": "Locke está na base das três revoluções liberais: Revolução Gloriosa (1688), Independência Americana ('vida, liberdade e busca da felicidade' é paráfrase de Locke), Revolução Francesa. A ideia de que a propriedade privada é um direito natural precedente ao Estado moldou o liberalismo econômico clássico e persiste no constitucionalismo americano."
+      "importancia": "Locke está na base das três revoluções liberais: Revolução Gloriosa (1688), Independência Americana ('vida, liberdade e busca da felicidade' é paráfrase de Locke), Revolução Francesa. A ideia de que a propriedade privada é um direito natural precedente ao Estado moldou o liberalismo econômico clássico e persiste no constitucionalismo americano.",
+      "nome_en": "John Locke: Empiricism and Natural Rights (1632–1704)",
+      "nome_es": "John Locke: Empirismo y Derechos Naturales (1632–1704)"
     },
     {
       "id": "ilb-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "David Hume levou o empirismo às suas conclusões mais perturbadoras: não podemos conhecer a causalidade (apenas regularidade), o eu é uma ficção (um feixe de percepções), a razão é escrava das paixões, os milagres são improváveis por definição. O Tratado da Natureza Humana (1739) e os Diálogos sobre a Religião Natural (1779, póstumo) foram obras seminais.",
-      "importancia": "Hume 'despertou Kant de seu sono dogmático' — a resposta de Kant ao ceticismo humeano gerou o Idealismo Alemão. O impacto de Hume sobre a epistemologia, a filosofia da religião e a teoria da causalidade é incalculável. O problema da indução — nunca podemos provar que o passado prevê o futuro — é ainda central na filosofia da ciência."
+      "importancia": "Hume 'despertou Kant de seu sono dogmático' — a resposta de Kant ao ceticismo humeano gerou o Idealismo Alemão. O impacto de Hume sobre a epistemologia, a filosofia da religião e a teoria da causalidade é incalculável. O problema da indução — nunca podemos provar que o passado prevê o futuro — é ainda central na filosofia da ciência.",
+      "nome_en": "David Hume: Radical Skepticism (1711–1776)",
+      "nome_es": "David Hume: El Escepticismo Radical (1711–1776)"
     },
     {
       "id": "ilb-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "Adam Smith publicou A Riqueza das Nações (1776) — fundação da economia política moderna. Divisão do trabalho (fábrica de alfinetes). A 'mão invisível': indivíduos perseguindo interesse próprio produzem bem coletivo sem intenção. Crítica ao mercantilismo. Livre-comércio como base da prosperidade. Teoria do valor-trabalho. A Teoria dos Sentimentos Morais (1759) explorava as bases morais do mercado.",
-      "importancia": "A Riqueza das Nações foi publicada no mesmo ano da Declaração de Independência Americana — 1776 como ano fundador do mundo moderno. Smith é o pai do liberalismo econômico mas também crítico feroz do poder das corporações e dos empresários que conspiravam contra o público. O 'Smith thatcheriano' é uma leitura seletiva."
+      "importancia": "A Riqueza das Nações foi publicada no mesmo ano da Declaração de Independência Americana — 1776 como ano fundador do mundo moderno. Smith é o pai do liberalismo econômico mas também crítico feroz do poder das corporações e dos empresários que conspiravam contra o público. O 'Smith thatcheriano' é uma leitura seletiva.",
+      "nome_en": "Adam Smith and the Foundation of Political Economy (1723–1790)",
+      "nome_es": "Adam Smith y la Fundación de la Economía Política (1723–1790)"
     },
     {
       "id": "ilb-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.75,
       "descricao": "A Escócia do século XVIII produziu um florescimento intelectual desproporcional: além de Hume e Smith, Francis Hutcheson (sentido moral), Adam Ferguson (Ensaio sobre a História da Sociedade Civil — fundação da sociologia), James Watt (máquina a vapor — tecnologia iluminista). As universidades escocesas (Edimburgo, Glasgow) eram as mais avançadas da Europa.",
-      "importancia": "O Iluminismo escocês foi mais prático e sociológico que o francês: preocupava-se com como as sociedades funcionam, como a moralidade emerge da interação social, como a ciência pode melhorar a condição humana. Esta tradição utilitária influenciou diretamente Bentham, Mill e o reformismo britânico do século XIX."
+      "importancia": "O Iluminismo escocês foi mais prático e sociológico que o francês: preocupava-se com como as sociedades funcionam, como a moralidade emerge da interação social, como a ciência pode melhorar a condição humana. Esta tradição utilitária influenciou diretamente Bentham, Mill e o reformismo britânico do século XIX.",
+      "nome_en": "Scottish Enlightenment: Ferguson, Hutcheson and Civil Society",
+      "nome_es": "Ilustración Escocesa: Ferguson, Hutcheson y la Sociedad Civil"
     },
     {
       "id": "ib1",

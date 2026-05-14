@@ -1,0 +1,187 @@
+{
+  "periodo": "Rota da Seda (206 a.C. – 1453 d.C.)",
+  "entidades": [
+    {
+      "id": "seda-001",
+      "nome": "A Rota da Seda: Mito e Realidade",
+      "nome_en": "The Silk Road: Myth and Reality",
+      "nome_es": "La Ruta de la Seda: Mito y Realidad",
+      "tipo": "economic",
+      "ano_inicio": -206,
+      "ano_fim": 1453,
+      "seculo": -2,
+      "continente": "asia",
+      "importancia": 5,
+      "descricao": "O nome 'Rota da Seda' foi inventado pelo geógrafo alemão Ferdinand von Richthofen em 1877 — os mercadores da Antiguidade não a chamavam assim e raramente percorriam todo o trajeto. Era uma rede de rotas terrestres e marítimas interligadas, não uma estrada única. A seda era apenas um dos produtos: viajavam também especiarias, vidro, ouro, cavalos, papel, pólvora, doenças e religiões.",
+      "descricao_en": "The name 'Silk Road' was invented by German geographer Ferdinand von Richthofen in 1877 — ancient merchants did not call it that and rarely traveled the entire route. It was a network of interconnected land and sea routes, not a single road. Silk was just one of the products: also traveling were spices, glass, gold, horses, paper, gunpowder, diseases and religions.",
+      "descricao_es": "El nombre 'Ruta de la Seda' fue inventado por el geógrafo alemán Ferdinand von Richthofen en 1877 — los mercaderes de la Antigüedad no la llamaban así y raramente recorrían todo el trayecto. Era una red de rutas terrestres y marítimas interconectadas, no un único camino. La seda era solo uno de los productos: también viajaban especias, vidrio, oro, caballos, papel, pólvora, enfermedades y religiones."
+    },
+    {
+      "id": "seda-002",
+      "nome": "Origens: Han e Parta (206 a.C. – 220 d.C.)",
+      "nome_en": "Origins: Han and Parthian (206 BC – 220 AD)",
+      "nome_es": "Orígenes: Han y Parto (206 a.C. – 220 d.C.)",
+      "tipo": "political",
+      "ano_inicio": -206,
+      "ano_fim": 220,
+      "seculo": -2,
+      "continente": "asia",
+      "importancia": 4,
+      "descricao": "O imperador Han Wudi enviou Zhang Qian ao oeste em 138 a.C. para negociar alianças contra os Xiongnu — e descobriu rotas comerciais que chegavam ao Mediterrâneo. Roma e a China nunca se encontraram diretamente: entre elas estava o Império Parta, que controlava os entrepostos e lucrava com a intermediação. A seda chinesa chegava a Roma sem que romanos soubessem de onde vinha — acreditavam que crescia em árvores.",
+      "descricao_en": "Emperor Han Wudi sent Zhang Qian westward in 138 BC to negotiate alliances against the Xiongnu — and discovered trade routes reaching the Mediterranean. Rome and China never met directly: between them was the Parthian Empire, which controlled the trading posts and profited from intermediation. Chinese silk reached Rome without Romans knowing where it came from — they believed it grew on trees.",
+      "descricao_es": "El emperador Han Wudi envió a Zhang Qian al oeste en 138 a.C. para negociar alianzas contra los Xiongnu — y descubrió rutas comerciales que llegaban al Mediterráneo. Roma y China nunca se encontraron directamente: entre ellas estaba el Imperio Parto, que controlaba los emporios y lucraba con la intermediación. La seda china llegaba a Roma sin que los romanos supieran de dónde venía — creían que crecía en árboles."
+    },
+    {
+      "id": "seda-003",
+      "nome": "A Era de Ouro: Império Sassânida e Bizâncio (224–651)",
+      "nome_en": "The Golden Age: Sassanid Empire and Byzantium (224–651)",
+      "nome_es": "La Época de Oro: Imperio Sasánida y Bizancio (224–651)",
+      "tipo": "economic",
+      "ano_inicio": 224,
+      "ano_fim": 651,
+      "seculo": 3,
+      "continente": "oriente_medio",
+      "importancia": 4,
+      "descricao": "Os Sassânidas persas (224–651) substituíram os Partas como controladores da rota central e desenvolveram o comércio a nível sem precedentes. Bizâncio, herdeira de Roma no Mediterrâneo Oriental, era o terminal ocidental. Em 552, dois monges nestorianos contrabandearam ovos de bicho-da-seda de Bizâncio — quebrando o monopólio chinês da seda para sempre e transformando o equilíbrio econômico da rota.",
+      "descricao_en": "The Persian Sassanids (224–651) replaced the Parthians as controllers of the central route and developed trade to unprecedented levels. Byzantium, heir of Rome in the Eastern Mediterranean, was the western terminal. In 552, two Nestorian monks smuggled silkworm eggs out of Byzantium — breaking the Chinese silk monopoly forever and transforming the economic balance of the route.",
+      "descricao_es": "Los sasánidas persas (224–651) reemplazaron a los partos como controladores de la ruta central y desarrollaron el comercio a niveles sin precedentes. Bizancio, heredera de Roma en el Mediterráneo Oriental, era el terminal occidental. En 552, dos monjes nestorianos sacaron de contrabando huevos de gusano de seda de Bizancio — rompiendo el monopolio chino de la seda para siempre y transformando el equilibrio económico de la ruta."
+    },
+    {
+      "id": "seda-004",
+      "nome": "O Islã e a Integração das Rotas (632–1000)",
+      "nome_en": "Islam and the Integration of Routes (632–1000)",
+      "nome_es": "El Islam y la Integración de las Rutas (632–1000)",
+      "tipo": "cultural",
+      "ano_inicio": 632,
+      "ano_fim": 1000,
+      "seculo": 7,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "A expansão islâmica do século VII unificou sob um único sistema político e jurídico a maior parte das rotas da seda terrestres — do Mediterrâneo à Índia. O árabe tornou-se a língua franca do comércio. Bagdá, fundada em 762, tornou-se o nó central da rede global. Mercadores muçulmanos não apenas comerciavam: levavam o Islã ao Sudeste Asiático, à África Subsaariana e à China — sem conquista militar.",
+      "descricao_en": "The Islamic expansion of the 7th century unified most of the overland Silk Roads under a single political and legal system — from the Mediterranean to India. Arabic became the lingua franca of trade. Baghdad, founded in 762, became the central hub of the global network. Muslim merchants did not merely trade: they brought Islam to Southeast Asia, Sub-Saharan Africa and China — without military conquest.",
+      "descricao_es": "La expansión islámica del siglo VII unificó bajo un único sistema político y jurídico la mayor parte de las rutas de la seda terrestres — del Mediterráneo a India. El árabe se convirtió en la lengua franca del comercio. Bagdad, fundada en 762, se convirtió en el nodo central de la red global. Los mercaderes musulmanes no solo comerciaban: llevaban el Islam al Sudeste Asiático, al África Subsahariana y a China — sin conquista militar."
+    },
+    {
+      "id": "seda-005",
+      "nome": "A Pax Mongolica: A Rota em seu Apogeu (1206–1368)",
+      "nome_en": "The Pax Mongolica: The Route at Its Peak (1206–1368)",
+      "nome_es": "La Pax Mongólica: La Ruta en su Apogeo (1206–1368)",
+      "tipo": "political",
+      "ano_inicio": 1206,
+      "ano_fim": 1368,
+      "seculo": 13,
+      "continente": "asia",
+      "importancia": 5,
+      "descricao": "O Império Mongol, no século XIII, criou pela primeira vez na história uma zona política unificada da China ao Mar Negro. A Pax Mongolica permitiu que mercadores viajassem em relativa segurança da Europa à China — foi neste contexto que Marco Polo fez sua viagem (1271–1295). O volume de comércio e de intercâmbio cultural atingiu o nível mais alto da história pré-moderna. E foi também por esta rota que a Peste Negra se expandiu pelo Eurásia.",
+      "descricao_en": "The Mongol Empire in the 13th century created for the first time in history a unified political zone from China to the Black Sea. The Pax Mongolica allowed merchants to travel in relative safety from Europe to China — it was in this context that Marco Polo made his journey (1271–1295). The volume of trade and cultural exchange reached the highest level in pre-modern history. And it was also along this route that the Black Death spread across Eurasia.",
+      "descricao_es": "El Imperio Mongol en el siglo XIII creó por primera vez en la historia una zona política unificada de China al Mar Negro. La Pax Mongólica permitió a los mercaderes viajar con relativa seguridad de Europa a China — fue en este contexto que Marco Polo realizó su viaje (1271–1295). El volumen de comercio e intercambio cultural alcanzó el nivel más alto de la historia premoderna. Y fue también por esta ruta que la Peste Negra se expandió por Eurasia."
+    },
+    {
+      "id": "seda-006",
+      "nome": "O que Viajava Além da Seda: Religião, Tecnologia, Doença",
+      "nome_en": "What Traveled Beyond Silk: Religion, Technology, Disease",
+      "nome_es": "Lo que Viajaba Más Allá de la Seda: Religión, Tecnología, Enfermedad",
+      "tipo": "cultural",
+      "ano_inicio": -100,
+      "ano_fim": 1400,
+      "seculo": -1,
+      "continente": "asia",
+      "importancia": 5,
+      "descricao": "O Budismo viajou da Índia à China pela rota. O Islamismo viajou da Arábia ao Sudeste Asiático pelos portos marítimos. O papel, a bússola e a pólvora viajaram da China à Europa. O vidro viajou de Roma ao Oriente. Pêssegos e espinafre foram de leste a oeste; uvas e alho de oeste a leste. E a Peste Negra viajou pelos mercadores mongóis de forma invisível. A Rota da Seda é o maior vetor de globalização da pré-modernidade.",
+      "descricao_en": "Buddhism traveled from India to China along the route. Islam traveled from Arabia to Southeast Asia through maritime ports. Paper, the compass and gunpowder traveled from China to Europe. Glass traveled from Rome to the East. Peaches and spinach went from east to west; grapes and garlic from west to east. And the Black Death traveled invisibly through Mongol merchants. The Silk Road is the greatest vector of pre-modern globalization.",
+      "descricao_es": "El budismo viajó de India a China por la ruta. El islam viajó de Arabia al Sudeste Asiático por los puertos marítimos. El papel, la brújula y la pólvora viajaron de China a Europa. El vidrio viajó de Roma a Oriente. Los melocotones y las espinacas fueron de este a oeste; las uvas y el ajo de oeste a este. Y la Peste Negra viajó invisiblemente a través de los mercaderes mongoles. La Ruta de la Seda es el mayor vector de globalización premoderna."
+    },
+    {
+      "id": "seda-007",
+      "nome": "Samarcanda, Dunhuang e os Centros da Rota",
+      "nome_en": "Samarkand, Dunhuang and the Route's Centers",
+      "nome_es": "Samarcanda, Dunhuang y los Centros de la Ruta",
+      "tipo": "cultural",
+      "ano_inicio": 100,
+      "ano_fim": 1400,
+      "seculo": 2,
+      "continente": "asia",
+      "importancia": 4,
+      "descricao": "Samarcanda (atual Uzbequistão) era a encruzilhada onde as rotas norte, central e sul se encontravam — cidade de mercadores sogdianos que falavam a língua franca da rota. Dunhuang (oeste da China) era o portão de entrada para o deserto de Gobi, com as Grutas de Mogao: 492 grutas escavadas na rocha com pinturas e manuscritos budistas que documentam 1.000 anos de troca cultural. A diversidade da rota era mais a norma do que a exceção.",
+      "descricao_en": "Samarkand (present-day Uzbekistan) was the crossroads where the northern, central and southern routes met — a city of Sogdian merchants who spoke the route's lingua franca. Dunhuang (western China) was the gateway to the Gobi desert, with the Mogao Caves: 492 rock-cut caves with Buddhist paintings and manuscripts documenting 1,000 years of cultural exchange. Diversity along the route was the norm rather than the exception.",
+      "descricao_es": "Samarcanda (actual Uzbekistán) era la encrucijada donde se encontraban las rutas norte, central y sur — una ciudad de mercaderes sogdianos que hablaban la lengua franca de la ruta. Dunhuang (oeste de China) era la puerta de entrada al desierto de Gobi, con las Grutas de Mogao: 492 grutas excavadas en la roca con pinturas y manuscritos budistas que documentan 1.000 años de intercambio cultural. La diversidad a lo largo de la ruta era la norma más que la excepción."
+    },
+    {
+      "id": "seda-008",
+      "nome": "O Fim da Rota: As Navegações Europeias (1453–1500)",
+      "nome_en": "The End of the Route: European Navigations (1453–1500)",
+      "nome_es": "El Fin de la Ruta: Las Navegaciones Europeas (1453–1500)",
+      "tipo": "economic",
+      "ano_inicio": 1453,
+      "ano_fim": 1498,
+      "seculo": 15,
+      "continente": "europa",
+      "importancia": 4,
+      "descricao": "A queda de Constantinopla (1453) não fechou a Rota da Seda — esse é um mito escolar. Os otomanos eram comerciantes habilidosos que mantiveram as rotas abertas. O que encerrou a primazia das rotas terrestres foi Vasco da Gama chegar à Índia pelo mar em 1498: a rota marítima era mais barata, mais segura e não dependia de intermediários. O comércio global não desapareceu — apenas mudou de tecnologia.",
+      "descricao_en": "The fall of Constantinople (1453) did not close the Silk Road — that is a school myth. The Ottomans were skilled merchants who kept the routes open. What ended the primacy of overland routes was Vasco da Gama reaching India by sea in 1498: the maritime route was cheaper, safer and did not depend on intermediaries. Global trade did not disappear — it simply changed its technology.",
+      "descricao_es": "La caída de Constantinopla (1453) no cerró la Ruta de la Seda — ese es un mito escolar. Los otomanos eran hábiles comerciantes que mantuvieron las rutas abiertas. Lo que terminó con la primacía de las rutas terrestres fue Vasco de Gama llegar a India por mar en 1498: la ruta marítima era más barata, más segura y no dependía de intermediarios. El comercio global no desapareció — simplemente cambió de tecnología."
+    },
+    {
+      "id": "seda-009",
+      "nome": "A Nova Rota da Seda: O Projeto Belt and Road (2013–)",
+      "nome_en": "The New Silk Road: The Belt and Road Initiative (2013–)",
+      "nome_es": "La Nueva Ruta de la Seda: La Iniciativa Belt and Road (2013–)",
+      "tipo": "political",
+      "ano_inicio": 2013,
+      "ano_fim": 2024,
+      "seculo": 21,
+      "continente": "asia",
+      "importancia": 4,
+      "descricao": "Em 2013, Xi Jinping anunciou o Belt and Road Initiative — investimento chinês de trilhões de dólares em ferrovias, portos e infraestrutura da Ásia à África e Europa. A evocação histórica é deliberada: a China como centro de uma rede global de dependências econômicas, reencenando a Pax Mongolica com tecnologia do século XXI. Críticos falam em 'diplomacia da armadilha de dívida'; defensores veem desenvolvimento. O debate é parte da disputa sino-americana pelo século XXI.",
+      "descricao_en": "In 2013, Xi Jinping announced the Belt and Road Initiative — Chinese investment of trillions of dollars in railways, ports and infrastructure from Asia to Africa and Europe. The historical evocation is deliberate: China as the center of a global network of economic dependencies, re-enacting the Pax Mongolica with 21st-century technology. Critics speak of 'debt trap diplomacy'; supporters see development. The debate is part of the Sino-American contest for the 21st century.",
+      "descricao_es": "En 2013, Xi Jinping anunció la Iniciativa Belt and Road — inversión china de billones de dólares en ferrocarriles, puertos e infraestructura de Asia a África y Europa. La evocación histórica es deliberada: China como centro de una red global de dependencias económicas, reescenificando la Pax Mongólica con tecnología del siglo XXI. Los críticos hablan de 'diplomacia de la trampa de deuda'; los defensores ven desarrollo. El debate es parte de la disputa sino-americana por el siglo XXI."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "seda-001",
+      "destino": "seda-002",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "seda-002",
+      "destino": "seda-003",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "seda-003",
+      "destino": "seda-004",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "seda-004",
+      "destino": "seda-005",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "seda-005",
+      "destino": "seda-006",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "seda-001",
+      "destino": "seda-006",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "seda-001",
+      "destino": "seda-007",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "seda-005",
+      "destino": "seda-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "seda-008",
+      "destino": "seda-009",
+      "tipo": "tematica"
+    }
+  ]
+}

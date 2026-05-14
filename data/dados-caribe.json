@@ -1,0 +1,87 @@
+{
+  "periodo": "O Caribe: Mar das Revoluções (1492–presente)",
+  "entidades": [
+    {
+      "id": "car-001",
+      "nome": "Cuba Colonial e a Guerra de Independência (1868–1898)",
+      "nome_en": "Colonial Cuba and the War of Independence (1868–1898)",
+      "nome_es": "Cuba Colonial y la Guerra de Independencia (1868–1898)",
+      "tipo": "political",
+      "ano_inicio": 1868,
+      "ano_fim": 1898,
+      "seculo": 19,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "Cuba foi a última colônia espanhola nas Américas. A Guerra dos Dez Anos (1868–1878) falhou; a definitiva começou em 1895 com José Martí — poeta, jornalista e estrategista da independência, morto em combate no primeiro mês. Os EUA declararam guerra à Espanha em 1898 (Guerra Hispano-Americana), derrotaram-na em meses e assumiram o controle de Cuba, Porto Rico, Filipinas e Guam. A Emenda Platt (1901) proibiu Cuba de fazer tratados sem autorização americana, deu aos EUA o direito de intervir militarmente e concedeu a base naval de Guantánamo — 'arrendada' por valor nominal e mantida até hoje contra a vontade cubana.",
+      "descricao_en": "Cuba was the last Spanish colony in the Americas. The Ten Years' War (1868–1878) failed; the definitive war began in 1895 with José Martí — poet, journalist and strategist of independence, killed in combat in the first month. The US declared war on Spain in 1898 (Spanish-American War), defeated it in months and assumed control of Cuba, Puerto Rico, Philippines and Guam. The Platt Amendment (1901) prohibited Cuba from making treaties without American authorization, gave the US the right to intervene militarily and granted the naval base at Guantánamo — 'leased' for a nominal value and held to this day against Cuban will.",
+      "descricao_es": "Cuba fue la última colonia española en las Américas. La Guerra de los Diez Años (1868–1878) fracasó; la definitiva comenzó en 1895 con José Martí — poeta, periodista y estratega de la independencia, muerto en combate el primer mes. EE.UU. declaró la guerra a España en 1898 (Guerra Hispano-Americana), la derrotó en meses y asumió el control de Cuba, Puerto Rico, Filipinas y Guam. La Enmienda Platt (1901) prohibió a Cuba celebrar tratados sin autorización americana, dio a EE.UU. el derecho a intervenir militarmente y concedió la base naval de Guantánamo — 'arrendada' por valor nominal y mantenida hasta hoy contra la voluntad cubana."
+    },
+    {
+      "id": "car-002",
+      "nome": "Revolução Cubana e a Crise dos Mísseis (1959–1962)",
+      "nome_en": "Cuban Revolution and the Missile Crisis (1959–1962)",
+      "nome_es": "Revolución Cubana y la Crisis de los Misiles (1959–1962)",
+      "tipo": "political",
+      "ano_inicio": 1959,
+      "ano_fim": 1962,
+      "seculo": 20,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "Fidel Castro e Che Guevara derrubaram Batista em 1959. Kennedy tentou invadir Cuba com exilados treinados pela CIA na Baía dos Porcos (1961) — fiasco total. A URSS instalou mísseis nucleares em Cuba em resposta; Kennedy bloqueou a ilha. Durante 13 dias (outubro 1962), o mundo esteve mais próximo da guerra nuclear do que em qualquer outro momento. Khrushchev retirou os mísseis em troca da promessa americana de não invadir Cuba e retirar mísseis da Turquia (negociação secreta). A Crise dos Mísseis foi resolvida por diplomacia direta entre as cúpulas — e pela coragem de um oficial soviético (Vasili Arkhipov) que se recusou a autorizar um torpedo nuclear quando o submarino soviético foi atacado.",
+      "descricao_en": "Fidel Castro and Che Guevara overthrew Batista in 1959. Kennedy attempted to invade Cuba with CIA-trained exiles at the Bay of Pigs (1961) — a complete fiasco. The USSR installed nuclear missiles in Cuba in response; Kennedy blockaded the island. For 13 days (October 1962), the world was closer to nuclear war than at any other moment. Khrushchev withdrew the missiles in exchange for the American promise not to invade Cuba and withdraw missiles from Turkey (secret negotiation). The Missile Crisis was resolved by direct diplomacy between the leaderships — and by the courage of a Soviet officer (Vasili Arkhipov) who refused to authorize a nuclear torpedo when the Soviet submarine was attacked.",
+      "descricao_es": "Fidel Castro y el Che Guevara derrocaron a Batista en 1959. Kennedy intentó invadir Cuba con exiliados entrenados por la CIA en Bahía de Cochinos (1961) — un fiasco total. La URSS instaló misiles nucleares en Cuba en respuesta; Kennedy bloqueó la isla. Durante 13 días (octubre 1962), el mundo estuvo más cerca de la guerra nuclear que en cualquier otro momento. Jruschov retiró los misiles a cambio de la promesa americana de no invadir Cuba y retirar misiles de Turquía (negociación secreta). La Crisis de los Misiles fue resuelta por diplomacia directa entre las cúpulas — y por el valor de un oficial soviético (Vasili Arjipov) que se negó a autorizar un torpedo nuclear cuando el submarino soviético fue atacado."
+    },
+    {
+      "id": "car-003",
+      "nome": "Jamaica, Trinidad e o Caribe Anglófono: Da Escravidão à Independência",
+      "nome_en": "Jamaica, Trinidad and the Anglophone Caribbean: From Slavery to Independence",
+      "nome_es": "Jamaica, Trinidad y el Caribe Anglófono: De la Esclavitud a la Independencia",
+      "tipo": "social",
+      "ano_inicio": 1655,
+      "ano_fim": 1970,
+      "seculo": 17,
+      "continente": "americas",
+      "importancia": 4,
+      "descricao": "O Caribe anglófono foi o coração do sistema escravagista britânico: Jamaica e Barbados produziram açúcar com trabalho escravo africano durante 200 anos. A abolição britânica (1834) não foi gratuita — os escravizadores receberam £20 milhões de indenização (equivalente a 40% do orçamento anual britânico) enquanto os escravizados não receberam nada. A Grã-Bretanha terminou de pagar essa dívida em 2015. Marcus Garvey (Jamaica, 1887–1940) fundou o movimento pan-africano e a primeira grande organização negra de massa nos EUA. A independência chegou nos anos 1960 (Jamaica 1962, Trinidad 1962, Barbados 1966) — mas a desigualdade económica estrutural permaneceu.",
+      "descricao_en": "The Anglophone Caribbean was the heart of the British slave system: Jamaica and Barbados produced sugar with African enslaved labor for 200 years. British abolition (1834) was not free — enslavers received £20 million in compensation (equivalent to 40% of the annual British budget) while the enslaved received nothing. Britain finished paying that debt in 2015. Marcus Garvey (Jamaica, 1887–1940) founded the Pan-African movement and the first great Black mass organization in the US. Independence arrived in the 1960s (Jamaica 1962, Trinidad 1962, Barbados 1966) — but structural economic inequality remained.",
+      "descricao_es": "El Caribe anglófono fue el corazón del sistema esclavista británico: Jamaica y Barbados produjeron azúcar con trabajo esclavo africano durante 200 años. La abolición británica (1834) no fue gratuita — los esclavizadores recibieron 20 millones de libras en indemnización (equivalente al 40% del presupuesto anual británico) mientras los esclavizados no recibieron nada. Gran Bretaña terminó de pagar esa deuda en 2015. Marcus Garvey (Jamaica, 1887–1940) fundó el movimiento panafricano y la primera gran organización negra de masas en EE.UU. La independencia llegó en los años 1960 (Jamaica 1962, Trinidad 1962, Barbados 1966) — pero la desigualdad económica estructural permaneció."
+    },
+    {
+      "id": "car-004",
+      "nome": "O Caribe Hoje: Turismo, Dívida e Vulnerabilidade Climática",
+      "nome_en": "The Caribbean Today: Tourism, Debt and Climate Vulnerability",
+      "nome_es": "El Caribe Hoy: Turismo, Deuda y Vulnerabilidad Climática",
+      "tipo": "economic",
+      "ano_inicio": 1980,
+      "ano_fim": 2024,
+      "seculo": 20,
+      "continente": "americas",
+      "importancia": 3,
+      "descricao": "O Caribe pós-independência tornou-se dependente do turismo — uma indústria que reproduz a relação colonial: trabalhadores locais servindo turistas ricos, lucros repatriados para cadeias internacionais, praias privadas vedadas aos moradores. O Furacão Maria (2017) destruiu 90% da infraestrutura de Porto Rico — que, como colônia americana, não pôde declarar falência nem reestruturar sua dívida de 72 bilhões de dólares. Haiti, o país mais pobre das Américas, pagou durante 122 anos (1825–1947) uma 'indenização' à França pela perda de seus escravizados — e continua sendo o país mais devastado pela colonização. A crise climática ameaça submergir ilhas inteiras.",
+      "descricao_en": "The post-independence Caribbean became dependent on tourism — an industry that reproduces the colonial relationship: local workers serving wealthy tourists, profits repatriated to international chains, private beaches closed to residents. Hurricane Maria (2017) destroyed 90% of Puerto Rico's infrastructure — which, as an American colony, could not declare bankruptcy or restructure its $72 billion debt. Haiti, the poorest country in the Americas, paid for 122 years (1825–1947) an 'indemnity' to France for the loss of its enslaved people — and remains the country most devastated by colonization. Climate change threatens to submerge entire islands.",
+      "descricao_es": "El Caribe posindependencia se volvió dependiente del turismo — una industria que reproduce la relación colonial: trabajadores locales sirviendo a turistas ricos, beneficios repatriados a cadenas internacionales, playas privadas vedadas a los residentes. El huracán María (2017) destruyó el 90% de la infraestructura de Puerto Rico — que, como colonia americana, no pudo declarar la quiebra ni reestructurar su deuda de 72.000 millones de dólares. Haití, el país más pobre de las Américas, pagó durante 122 años (1825–1947) una 'indemnización' a Francia por la pérdida de sus esclavizados — y sigue siendo el país más devastado por la colonización. El cambio climático amenaza con sumergir islas enteras."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "car-001",
+      "destino": "car-002",
+      "tipo": "causal"
+    },
+    {
+      "origem": "car-003",
+      "destino": "car-004",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "car-001",
+      "destino": "car-003",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "car-002",
+      "destino": "car-004",
+      "tipo": "tematica"
+    }
+  ]
+}

@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "A Confederação Germânica (38 Estados) era dominada pela Áustria mas a Prússia crescia industrialmente. O Zollverein (União Aduaneira Prussiana, 1834) integrou economicamente a Alemanha sem a Áustria. O fracasso de Frankfurt (1848) provou que a unificação não viria do parlamento. Em 1862, Guilherme I nomeou Otto von Bismarck ministro-presidente da Prússia.",
-      "importancia": "O Zollverein foi mais decisivo para a unificação alemã do que qualquer batalha: ao criar um mercado único, criou interesses econômicos comuns que tornavam a unidade política inevitável. Marx observou corretamente: a burguesia alemã foi unificada pelo mercado antes de ser unificada pelo Estado."
+      "importancia": "O Zollverein foi mais decisivo para a unificação alemã do que qualquer batalha: ao criar um mercado único, criou interesses econômicos comuns que tornavam a unidade política inevitável. Marx observou corretamente: a burguesia alemã foi unificada pelo mercado antes de ser unificada pelo Estado.",
+      "nome_en": "Prussia and the German Question (1815–1862)",
+      "nome_es": "Prusia y la Cuestión Alemana (1815–1862)"
     },
     {
       "id": "ald-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "Bismarck usou três guerras cirúrgicas: 1. Dinamarca (1864): Schleswig-Holstein conquistado em conjunto com Áustria. 2. Áustria (1866): Sadowa/Königgrätz em 7 semanas — Áustria excluída da Alemanha, Prússia domina o Norte. 3. França (1870-71): Sedan — Napoleão III capturado; Paris sitiada; o Império Alemão proclamado em Versalhes (18 jan 1871) enquanto Paris resistia.",
-      "importancia": "A proclamação do Império Alemão em Versalhes foi uma humilhação deliberada para a França — e plantou a semente da guerra de revanche que viria em 1914. Bismarck foi o maior estadista europeu do século XIX: resolveu a questão alemã sem guerra geral europeia, mantendo a Rússia neutra e isolando a França."
+      "importancia": "A proclamação do Império Alemão em Versalhes foi uma humilhação deliberada para a França — e plantou a semente da guerra de revanche que viria em 1914. Bismarck foi o maior estadista europeu do século XIX: resolveu a questão alemã sem guerra geral europeia, mantendo a Rússia neutra e isolando a França.",
+      "nome_en": "Bismarck: The Three Wars of Unification (1864–1871)",
+      "nome_es": "Bismarck: Las Tres Guerras de la Unificación (1864–1871)"
     },
     {
       "id": "ald-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Bismarck governou o Império Alemão por 19 anos como Chanceler, manipulando partidos, alianças e crises. Kulturkampf (1871-78): conflito com a Igreja Católica — tentativa de subordinar o catolicismo ao Estado. Leis Anti-Socialistas (1878-90): proibição do SPD. Paradoxalmente: Bismarck introduziu o primeiro sistema de previdência social do mundo (1883-89) para tirar o tapete dos socialistas.",
-      "importancia": "As leis sociais de Bismarck — seguro de saúde (1883), acidentes de trabalho (1884), aposentadoria (1889) — foram o modelo do Estado de bem-estar social europeu do século XX. O autoritário mais eficaz do século XIX construiu o Estado providência que os social-democratas do século XX expandiriam."
+      "importancia": "As leis sociais de Bismarck — seguro de saúde (1883), acidentes de trabalho (1884), aposentadoria (1889) — foram o modelo do Estado de bem-estar social europeu do século XX. O autoritário mais eficaz do século XIX construiu o Estado providência que os social-democratas do século XX expandiriam.",
+      "nome_en": "The Second Reich: Bismarck in Power (1871–1890)",
+      "nome_es": "El Segundo Reich: Bismarck en el Poder (1871–1890)"
     },
     {
       "id": "ald-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Guilherme II demitiu Bismarck em 1890 e assumiu controle pessoal da política alemã: Weltpolitik (política mundial), construção de uma frota naval de alto mar (desafiando a Grã-Bretanha), crises marroquinas (1905, 1911). A Tríplice Aliança (Alemanha, Áustria, Itália) vs. Tríplice Entente (França, Rússia, Grã-Bretanha) polarizou a Europa. A crise de julho de 1914 encontrou um sistema pronto para explodir.",
-      "importancia": "O debate sobre a 'culpa' da Primeira Guerra começa aqui: Guilherme II apostou que sua ousadia intimaria as potências a recuarem (como em 1905 e 1911). Desta vez errou. A tese de Fritz Fischer (1961) — que a Alemanha planejou deliberadamente a guerra — reabriu uma controvérsia historiográfica que dura até hoje."
+      "importancia": "O debate sobre a 'culpa' da Primeira Guerra começa aqui: Guilherme II apostou que sua ousadia intimaria as potências a recuarem (como em 1905 e 1911). Desta vez errou. A tese de Fritz Fischer (1961) — que a Alemanha planejou deliberadamente a guerra — reabriu uma controvérsia historiográfica que dura até hoje.",
+      "nome_en": "Wilhelm II and the Path to War (1890–1914)",
+      "nome_es": "Guillermo II y el Camino hacia la Guerra (1890–1914)"
     },
     {
       "id": "ua1",

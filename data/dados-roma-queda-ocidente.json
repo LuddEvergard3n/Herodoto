@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Os Hunos, cavaleiros das estepes asiáticas, chegaram à Europa c.370 e destruíram o reino Ostrogodo. Os Visigodos, pressionados, pediram refúgio dentro do Império Romano (376). Mal tratados pelas autoridades romanas, rebelaram-se: batalha de Adrianópolis (378) — morte do Imperador Valente, primeira grande derrota romana para 'bárbaros' em campo aberto.",
-      "importancia": "Adrianópolis foi o momento em que Roma percebeu que os bárbaros podiam derrotá-la em batalha campal. O processo que se seguiu foi de acomodação crescente: bárbaros como aliados (foederati), depois como generais, finalmente como reis de facto dentro das fronteiras romanas."
+      "importancia": "Adrianópolis foi o momento em que Roma percebeu que os bárbaros podiam derrotá-la em batalha campal. O processo que se seguiu foi de acomodação crescente: bárbaros como aliados (foederati), depois como generais, finalmente como reis de facto dentro das fronteiras romanas.",
+      "nome_en": "Huns and the Great Migration of Peoples (370–420)",
+      "nome_es": "Hunos y la Gran Migración de los Pueblos (370–420)"
     },
     {
       "id": "rqo-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Atila unificou as tribos hunas e aterrorizou a Europa por duas décadas. Invadiu os Bálcãs e exigiu tributo do Império Oriental. Em 451, cruzou o Reno com 500.000 guerreiros — derrotado na Batalha dos Campos Cataláunicos (coalizão romano-visigoda). Em 452, invadiu a Itália mas recuou — possivelmente por pestilência. Morreu em 453 em sua noite de núpcias.",
-      "importancia": "Atila tornou-se o arquétipo do conquistador bárbaro no imaginário ocidental — mas sua morte desintegrou o Império Huno imediatamente. A reunião com o Papa Leão I (452) que o teria convencido a recuar criou o mito do poder espiritual da Igreja sobre os bárbaros."
+      "importancia": "Atila tornou-se o arquétipo do conquistador bárbaro no imaginário ocidental — mas sua morte desintegrou o Império Huno imediatamente. A reunião com o Papa Leão I (452) que o teria convencido a recuar criou o mito do poder espiritual da Igreja sobre os bárbaros.",
+      "nome_en": "Attila and the Scourge of God (434–453)",
+      "nome_es": "Atila y el Flagelo de Dios (434–453)"
     },
     {
       "id": "rqo-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Após saques de Roma (Visigodos em 410, Vândalos em 455), o Ocidente tornou-se uma série de reinos germânicos com imperadores-fantoche. Em 476, Odoacro, chefe hérulo, depôs o jovem Rômulo Augústulo e não nomeou sucessor — enviou as insígnias imperiais para Constantinopla. Data convencional do 'fim de Roma'.",
-      "importancia": "A data 476 é convencional: contemporâneos não a perceberam como fim de uma época. O Império do Oriente continuou por mais mil anos como Bizâncio. A questão historiográfica permanece aberta: Roma 'caiu' ou 'transformou-se'? Edward Gibbon vs. Peter Heather vs. Bryan Ward-Perkins."
+      "importancia": "A data 476 é convencional: contemporâneos não a perceberam como fim de uma época. O Império do Oriente continuou por mais mil anos como Bizâncio. A questão historiográfica permanece aberta: Roma 'caiu' ou 'transformou-se'? Edward Gibbon vs. Peter Heather vs. Bryan Ward-Perkins.",
+      "nome_en": "Romulus Augustulus and the Fall of Western Rome (476)",
+      "nome_es": "Rómulo Augústulo y la Caída de Roma Occidental (476)"
     },
     {
       "id": "rqo-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.75,
       "descricao": "No lugar do Ocidente Romano surgiram: Ostrogodos na Itália (Teodorico), Visigodos na Hispânia, Francos na Gália (Clóvis, convertido ao catolicismo em 496), Burgúndios, Vândalos no Norte da África, Anglos e Saxões na Britânia. Todos mantiveram inicialmente as estruturas administrativas romanas — menos ruptura do que parece.",
-      "importancia": "A sobrevivência do latim, do direito romano e da Igreja Católica como instituição garantiu que os reinos germânicos se 'romanizassem' rapidamente. O bispo de Roma (Papa) emergiu como autoridade espiritual e, em alguns casos, política sobre toda a cristandade ocidental."
+      "importancia": "A sobrevivência do latim, do direito romano e da Igreja Católica como instituição garantiu que os reinos germânicos se 'romanizassem' rapidamente. O bispo de Roma (Papa) emergiu como autoridade espiritual e, em alguns casos, política sobre toda a cristandade ocidental.",
+      "nome_en": "Romano-Germanic Kingdoms (476–600)",
+      "nome_es": "Reinos Romano-Germánicos (476–600)"
     },
     {
       "id": "rq1",

@@ -1,0 +1,187 @@
+{
+  "periodo": "A Idade Axial (800–200 a.C.)",
+  "entidades": [
+    {
+      "id": "axl-001",
+      "nome": "O Conceito de Idade Axial: Karl Jaspers (1949)",
+      "nome_en": "The Concept of Axial Age: Karl Jaspers (1949)",
+      "nome_es": "El Concepto de Edad Axial: Karl Jaspers (1949)",
+      "tipo": "intellectual",
+      "ano_inicio": -800,
+      "ano_fim": -200,
+      "seculo": -8,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "Em 1949, o filósofo alemão Karl Jaspers observou algo perturbador: entre 800 e 200 a.C., em quatro regiões do mundo sem contato entre si — Grécia, Israel, Índia e China — emergiu simultaneamente um novo modo de pensar. Pela primeira vez, humanos começaram a refletir sobre si mesmos, a questionar as tradições, a formular ética universal. Buda, Confúcio, os profetas hebreus e os pré-socráticos são contemporâneos. Por quê?",
+      "descricao_en": "In 1949, German philosopher Karl Jaspers observed something disturbing: between 800 and 200 BC, in four regions of the world without contact with each other — Greece, Israel, India and China — a new way of thinking emerged simultaneously. For the first time, humans began to reflect on themselves, question traditions, and formulate universal ethics. Buddha, Confucius, the Hebrew prophets and the pre-Socratics are contemporaries. Why?",
+      "descricao_es": "En 1949, el filósofo alemán Karl Jaspers observó algo perturbador: entre 800 y 200 a.C., en cuatro regiones del mundo sin contacto entre sí — Grecia, Israel, India y China — emergió simultáneamente un nuevo modo de pensar. Por primera vez, los humanos comenzaron a reflexionar sobre sí mismos, cuestionar las tradiciones y formular ética universal. Buda, Confucio, los profetas hebreos y los presocráticos son contemporáneos. ¿Por qué?"
+    },
+    {
+      "id": "axl-002",
+      "nome": "Grécia: Dos Mitos ao Logos (600–400 a.C.)",
+      "nome_en": "Greece: From Myth to Logos (600–400 BC)",
+      "nome_es": "Grecia: Del Mito al Logos (600–400 a.C.)",
+      "tipo": "intellectual",
+      "ano_inicio": -600,
+      "ano_fim": -400,
+      "seculo": -6,
+      "continente": "europa",
+      "importancia": 5,
+      "descricao": "Tales de Mileto (624–546 a.C.) foi o primeiro a buscar uma explicação natural — e não mítica — para os fenômenos. Heráclito, Pitágoras, Parmênides e depois Sócrates, Platão e Aristóteles construíram o edifício da filosofia ocidental. A transição do mythos ao logos — do relato sagrado para a argumentação racional — é um dos saltos mais significativos da história do pensamento. Sócrates preferiu morrer a abrir mão do questionamento.",
+      "descricao_en": "Thales of Miletus (624–546 BC) was the first to seek a natural — not mythical — explanation for phenomena. Heraclitus, Pythagoras, Parmenides and then Socrates, Plato and Aristotle built the edifice of Western philosophy. The transition from mythos to logos — from sacred narrative to rational argument — is one of the most significant leaps in the history of thought. Socrates preferred to die rather than give up questioning.",
+      "descricao_es": "Tales de Mileto (624–546 a.C.) fue el primero en buscar una explicación natural — y no mítica — para los fenómenos. Heráclito, Pitágoras, Parménides y luego Sócrates, Platón y Aristóteles construyeron el edificio de la filosofía occidental. La transición del mythos al logos — del relato sagrado a la argumentación racional — es uno de los saltos más significativos de la historia del pensamiento. Sócrates prefirió morir antes que renunciar al cuestionamiento."
+    },
+    {
+      "id": "axl-003",
+      "nome": "Índia: Buda e Mahavira — A Revolução da Interioridade",
+      "nome_en": "India: Buddha and Mahavira — The Revolution of Interiority",
+      "nome_es": "India: Buda y Mahavira — La Revolución de la Interioridad",
+      "tipo": "religious",
+      "ano_inicio": -563,
+      "ano_fim": -400,
+      "seculo": -6,
+      "continente": "asia",
+      "importancia": 5,
+      "descricao": "Sidarta Gautama (563–483 a.C.) abandonou o palácio e a riqueza para questionar o sofrimento humano — e fundou o Budismo. Contemporâneo seu, Mahavira fundou o Jainismo. Ambos rejeitaram a autoridade dos Vedas e do sistema de castas brâmane, propondo que a libertação espiritual dependia de ações e consciência individuais, não de rituais e nascimento. É uma revolução moral radical: o ser humano como responsável pelo próprio destino.",
+      "descricao_en": "Siddhartha Gautama (563–483 BC) abandoned the palace and wealth to question human suffering — and founded Buddhism. His contemporary Mahavira founded Jainism. Both rejected the authority of the Vedas and the Brahmin caste system, proposing that spiritual liberation depended on individual actions and consciousness, not rituals and birth. It is a radical moral revolution: the human being as responsible for their own destiny.",
+      "descricao_es": "Siddharta Gautama (563–483 a.C.) abandonó el palacio y la riqueza para cuestionar el sufrimiento humano — y fundó el budismo. Su contemporáneo Mahavira fundó el jainismo. Ambos rechazaron la autoridad de los Vedas y el sistema de castas brahmán, proponiendo que la liberación espiritual dependía de acciones y conciencia individuales, no de rituales y nacimiento. Es una revolución moral radical: el ser humano como responsable de su propio destino."
+    },
+    {
+      "id": "axl-004",
+      "nome": "China: Confúcio, Laozi e as Cem Escolas (551–300 a.C.)",
+      "nome_en": "China: Confucius, Laozi and the Hundred Schools (551–300 BC)",
+      "nome_es": "China: Confucio, Laozi y las Cien Escuelas (551–300 a.C.)",
+      "tipo": "intellectual",
+      "ano_inicio": -551,
+      "ano_fim": -300,
+      "seculo": -6,
+      "continente": "asia",
+      "importancia": 5,
+      "descricao": "No período de fragmentação política das Guerras entre Estados (481–221 a.C.), a China produziu seu maior florescimento intelectual: Confúcio (551–479) sistematizou a ética social e política; Laozi fundou o Taoísmo; Mozi propôs o amor universal; Mencio desenvolveu a bondade inata; os Legalistas criaram a teoria do Estado racional. O paradoxo: a crise política gerou pensamento político excepcional — cada escola propunha uma solução diferente para o caos.",
+      "descricao_en": "In the period of political fragmentation of the Warring States (481–221 BC), China produced its greatest intellectual flowering: Confucius (551–479) systematized social and political ethics; Laozi founded Taoism; Mozi proposed universal love; Mencius developed innate goodness; the Legalists created the theory of the rational state. The paradox: political crisis generated exceptional political thought — each school proposed a different solution to chaos.",
+      "descricao_es": "En el período de fragmentación política de los Estados Combatientes (481–221 a.C.), China produjo su mayor florecimiento intelectual: Confucio (551–479) sistematizó la ética social y política; Laozi fundó el taoísmo; Mozi propuso el amor universal; Mencio desarrolló la bondad innata; los legalistas crearon la teoría del Estado racional. La paradoja: la crisis política generó pensamiento político excepcional — cada escuela proponía una solución diferente al caos."
+    },
+    {
+      "id": "axl-005",
+      "nome": "Israel: Os Profetas e a Ética Universal (750–500 a.C.)",
+      "nome_en": "Israel: The Prophets and Universal Ethics (750–500 BC)",
+      "nome_es": "Israel: Los Profetas y la Ética Universal (750–500 a.C.)",
+      "tipo": "religious",
+      "ano_inicio": -750,
+      "ano_fim": -500,
+      "seculo": -8,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "Amós, Oséias, Isaías, Jeremias, Ezequiel — os profetas hebreus do século VIII ao VI a.C. introduziram algo radicalmente novo: a ideia de que Deus julga não apenas rituais, mas justiça social. A religião deixou de ser apenas culto e sacrifício para tornar-se ética. A destruição de Jerusalém (587 a.C.) e o Exílio babilônico transformaram o judaísmo tribal num monoteísmo universalista — a base das três religiões abraâmicas que definem metade da religiosidade mundial.",
+      "descricao_en": "Amos, Hosea, Isaiah, Jeremiah, Ezekiel — the Hebrew prophets from the 8th to 6th centuries BC introduced something radically new: the idea that God judges not just rituals, but social justice. Religion ceased to be merely cult and sacrifice and became ethics. The destruction of Jerusalem (587 BC) and the Babylonian Exile transformed tribal Judaism into universalist monotheism — the foundation of the three Abrahamic religions that define half of world religiosity.",
+      "descricao_es": "Amós, Oseas, Isaías, Jeremías, Ezequiel — los profetas hebreos del siglo VIII al VI a.C. introdujeron algo radicalmente nuevo: la idea de que Dios juzga no solo rituales, sino justicia social. La religión dejó de ser solo culto y sacrificio para convertirse en ética. La destrucción de Jerusalén (587 a.C.) y el Exilio babilónico transformaron el judaísmo tribal en monoteísmo universalista — la base de las tres religiones abrahámicas que definen la mitad de la religiosidad mundial."
+    },
+    {
+      "id": "axl-006",
+      "nome": "Pérsia: Zaratustra e o Primeiro Dualismo Moral",
+      "nome_en": "Persia: Zarathustra and the First Moral Dualism",
+      "nome_es": "Persia: Zaratustra y el Primer Dualismo Moral",
+      "tipo": "religious",
+      "ano_inicio": -1000,
+      "ano_fim": -600,
+      "seculo": -10,
+      "continente": "oriente_medio",
+      "importancia": 4,
+      "descricao": "Zaratustra (data incerta: 1500–600 a.C.) fundou o Zoroastrismo, a primeira religião monoteísta da história — anterior ao monoteísmo hebreu consolidado. Introduziu o dualismo cósmico: Ahura Mazda (bem) versus Ahriman (mal), o livre-arbítrio humano, o julgamento após a morte, o paraíso e o inferno. Todas essas ideias influenciaram o judaísmo tardio durante o Exílio babilônico — e por ele chegaram ao Cristianismo e ao Islã.",
+      "descricao_en": "Zarathustra (uncertain date: 1500–600 BC) founded Zoroastrianism, the first monotheistic religion in history — prior to consolidated Hebrew monotheism. He introduced cosmic dualism: Ahura Mazda (good) versus Ahriman (evil), human free will, judgment after death, paradise and hell. All these ideas influenced late Judaism during the Babylonian Exile — and through it reached Christianity and Islam.",
+      "descricao_es": "Zaratustra (fecha incierta: 1500–600 a.C.) fundó el zoroastrismo, la primera religión monoteísta de la historia — anterior al monoteísmo hebreo consolidado. Introdujo el dualismo cósmico: Ahura Mazda (bien) versus Ahriman (mal), el libre albedrío humano, el juicio tras la muerte, el paraíso y el infierno. Todas estas ideas influyeron en el judaísmo tardío durante el Exilio babilónico — y a través de él llegaron al cristianismo y al islam."
+    },
+    {
+      "id": "axl-007",
+      "nome": "Por Que Tudo ao Mesmo Tempo? As Hipóteses",
+      "nome_en": "Why Everything at the Same Time? The Hypotheses",
+      "nome_es": "¿Por Qué Todo al Mismo Tiempo? Las Hipótesis",
+      "tipo": "intellectual",
+      "ano_inicio": -800,
+      "ano_fim": -200,
+      "seculo": -8,
+      "continente": "global",
+      "importancia": 4,
+      "descricao": "Várias hipóteses tentam explicar a simultaneidade axial: (1) O ferro — a metalurgia do ferro democratizou ferramentas e armas, desestruturando hierarquias antigas; (2) A moeda — o dinheiro abstrato exigiu pensamento abstrato; (3) A crise — todas as regiões viviam fragmentação política que gerava reflexão sobre ordem e justiça; (4) A escrita madura — o alfabeto grego, o chinês clássico, o sânscrito e o hebraico permitiram fixar e transmitir pensamento complexo. Nenhuma hipótese é conclusiva — o mistério permanece.",
+      "descricao_en": "Several hypotheses attempt to explain axial simultaneity: (1) Iron — iron metallurgy democratized tools and weapons, disrupting ancient hierarchies; (2) Currency — abstract money required abstract thinking; (3) Crisis — all regions experienced political fragmentation that generated reflection on order and justice; (4) Mature writing — the Greek alphabet, classical Chinese, Sanskrit and Hebrew allowed complex thought to be fixed and transmitted. No hypothesis is conclusive — the mystery remains.",
+      "descricao_es": "Varias hipótesis intentan explicar la simultaneidad axial: (1) El hierro — la metalurgia del hierro democratizó herramientas y armas, desestructurando jerarquías antiguas; (2) La moneda — el dinero abstracto exigió pensamiento abstracto; (3) La crisis — todas las regiones vivían fragmentación política que generaba reflexión sobre orden y justicia; (4) La escritura madura — el alfabeto griego, el chino clásico, el sánscrito y el hebreo permitieron fijar y transmitir pensamiento complejo. Ninguna hipótesis es concluyente — el misterio permanece."
+    },
+    {
+      "id": "axl-008",
+      "nome": "O Legado Axial: O Mundo que Ainda Vivemos",
+      "nome_en": "The Axial Legacy: The World We Still Live In",
+      "nome_es": "El Legado Axial: El Mundo en que Todavía Vivimos",
+      "tipo": "intellectual",
+      "ano_inicio": -200,
+      "ano_fim": 2024,
+      "seculo": -2,
+      "continente": "global",
+      "importancia": 5,
+      "descricao": "As tradições axiais ainda definem o mundo: budismo, confucionismo, hinduísmo, judaísmo, zoroastrismo, e indiretamente o islamismo e o cristianismo (nascidos de tradições axiais). A filosofia ocidental ainda debate Platão e Aristóteles. Os direitos humanos têm raízes na ética axial da dignidade universal. Karen Armstrong, em 'The Great Transformation' (2006), argumenta que o impulso axial foi essencialmente a descoberta da compaixão como princípio ético — e que sua redescoberta é a tarefa de cada geração.",
+      "descricao_en": "Axial traditions still define the world: Buddhism, Confucianism, Hinduism, Judaism, Zoroastrianism, and indirectly Islam and Christianity (born from axial traditions). Western philosophy still debates Plato and Aristotle. Human rights have roots in the axial ethics of universal dignity. Karen Armstrong, in 'The Great Transformation' (2006), argues that the axial impulse was essentially the discovery of compassion as an ethical principle — and that its rediscovery is the task of every generation.",
+      "descricao_es": "Las tradiciones axiales todavía definen el mundo: budismo, confucianismo, hinduismo, judaísmo, zoroastrismo, e indirectamente el islamismo y el cristianismo (nacidos de tradiciones axiales). La filosofía occidental todavía debate a Platón y Aristóteles. Los derechos humanos tienen raíces en la ética axial de la dignidad universal. Karen Armstrong, en 'The Great Transformation' (2006), argumenta que el impulso axial fue esencialmente el descubrimiento de la compasión como principio ético — y que su redescubrimiento es la tarea de cada generación."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "axl-001",
+      "destino": "axl-002",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "axl-001",
+      "destino": "axl-003",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "axl-001",
+      "destino": "axl-004",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "axl-001",
+      "destino": "axl-005",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "axl-001",
+      "destino": "axl-006",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "axl-001",
+      "destino": "axl-007",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "axl-006",
+      "destino": "axl-005",
+      "tipo": "causal"
+    },
+    {
+      "origem": "axl-002",
+      "destino": "axl-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "axl-003",
+      "destino": "axl-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "axl-004",
+      "destino": "axl-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "axl-005",
+      "destino": "axl-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "axl-007",
+      "destino": "axl-008",
+      "tipo": "tematica"
+    }
+  ]
+}

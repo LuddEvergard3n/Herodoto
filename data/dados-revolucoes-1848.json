@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Em fevereiro de 1848, Paris explodiu: Luís Filipe abdicou, Segunda República proclamada. Em semanas: Viena, Berlim, Milão, Veneza, Budapeste, Praga, Roma — toda a Europa continental em revolta. Causas convergentes: crise econômica de 1846-47 (colheitas fracas, fome, desemprego industrial), ascensão da burguesia liberal bloqueada politicamente, nacionalismos suprimidos pelo sistema Metternich.",
-      "importancia": "1848 foi a maior onda revolucionária simultânea da história europeia — e a maior derrota: até 1849, todas as revoluções foram esmagadas. Marx escreveu o Manifesto Comunista em fevereiro de 1848, convicto de que a revolução havia chegado. O fracasso de 1848 o forçou a repensar o tempo histórico."
+      "importancia": "1848 foi a maior onda revolucionária simultânea da história europeia — e a maior derrota: até 1849, todas as revoluções foram esmagadas. Marx escreveu o Manifesto Comunista em fevereiro de 1848, convicto de que a revolução havia chegado. O fracasso de 1848 o forçou a repensar o tempo histórico.",
+      "nome_en": "The Spring of Nations: Causes and Outbreak",
+      "nome_es": "La Primavera de los Pueblos: Causas y Detonación"
     },
     {
       "id": "r48-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "A Assembleia de Frankfurt reuniu intelectuais e liberais alemães para criar uma constituição alemã unificada. Debate central: 'Grande Alemanha' (com a Áustria multinacional) ou 'Pequena Alemanha' (sem a Áustria, sob a Prússia). Ofereceram a coroa imperial a Frederico Guilherme IV da Prússia — que a recusou ('coroa do esgoto'). A Prússia esmagou as revoltas com tropas.",
-      "importancia": "A derrota da Assembleia de Frankfurt encerrou a possibilidade de unificação alemã por vias liberais-parlamentares. A unificação que veio (1871) seria 'de cima', pela guerra e pela força prussiana — com consequências enormes para o caráter do Estado alemão resultante."
+      "importancia": "A derrota da Assembleia de Frankfurt encerrou a possibilidade de unificação alemã por vias liberais-parlamentares. A unificação que veio (1871) seria 'de cima', pela guerra e pela força prussiana — com consequências enormes para o caráter do Estado alemão resultante.",
+      "nome_en": "The German Revolution and the Frankfurt Assembly (1848–1849)",
+      "nome_es": "La Revolución Alemana y la Asamblea de Fráncfort (1848–1849)"
     },
     {
       "id": "r48-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Lajos Kossuth liderou a revolução húngara contra os Habsburgos: parlamento, abolição da servidão, igualdade jurídica. O Império Habsburgo mobilizou sérvios e croatas contra os húngaros (dividindo os oprimidos). Fernando José I pediu ajuda ao Czar Nicolau I: 200.000 soldados russos esmagaram a revolução. Kossuth fugiu; 13 generais húngaros foram executados.",
-      "importancia": "A intervenção russa de 1849 foi o maior aviso do que seria o papel da Rússia no Leste Europeu: gendarme da ordem reacionária, esmaga revoluções dos vizinhos. O padrão repetiria em 1956 (Hungria) e 1968 (Checoslováquia). Kossuth no exílio tornou-se herói da causa liberal europeia."
+      "importancia": "A intervenção russa de 1849 foi o maior aviso do que seria o papel da Rússia no Leste Europeu: gendarme da ordem reacionária, esmaga revoluções dos vizinhos. O padrão repetiria em 1956 (Hungria) e 1968 (Checoslováquia). Kossuth no exílio tornou-se herói da causa liberal europeia.",
+      "nome_en": "The Hungarian Revolution and Russian Intervention (1848–1849)",
+      "nome_es": "La Revolución Húngara y la Intervención Rusa (1848–1849)"
     },
     {
       "id": "r48-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Todas as revoluções de 1848 fracassaram a curto prazo. Mas a longo prazo: a servidão foi abolida em toda a Europa Central e Oriental; as constituições promulgadas foram retiradas mas o princípio não foi esquecido; os trabalhadores radicalizaram-se com o fracasso (nascimento do socialismo moderno); os liberais moderados, assustados pela mobilização operária, passaram a preferir a ordem à liberdade.",
-      "importancia": "1848 foi o ponto de viragem em que a história deixou de virar — mas o giro veio mais tarde. A reconfiguração da Europa entre 1860 e 1871 (unificações italiana e alemã) foi feita pelos Estados, não pelos povos — e pelos métodos que 1848 havia recusado: sangue e ferro, na fórmula de Bismarck."
+      "importancia": "1848 foi o ponto de viragem em que a história deixou de virar — mas o giro veio mais tarde. A reconfiguração da Europa entre 1860 e 1871 (unificações italiana e alemã) foi feita pelos Estados, não pelos povos — e pelos métodos que 1848 havia recusado: sangue e ferro, na fórmula de Bismarck.",
+      "nome_en": "Legacy of 1848: The Revolution That Changed Everything by Failing",
+      "nome_es": "Legado de 1848: La Revolución que lo Cambió Todo al Fracasar"
     },
     {
       "id": "r48a",

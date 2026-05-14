@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "A Segunda Revolução Industrial transformou a Europa: eletricidade (Edison, Siemens), química (BASF, Bayer), aço (Krupp, Carnegie), petróleo (Rockefeller, Shell), automóvel (Benz, 1885), avião (Wright, 1903). Berlim cresceu de 800.000 (1870) para 2 milhões (1910); Paris passou de 1,8 para 2,9 milhões. Ferrovias conectaram cada canto do continente.",
-      "importancia": "A Belle Époque foi o mundo que a Primeira Guerra destruiu — e que toda a nostalgia europeia do século XX lamentou. Foi também o mundo da desigualdade extrema, do imperialismo brutal, do antissemitismo virulento e das tensões sociais que tornaram a guerra não apenas possível mas, para muitos, desejável."
+      "importancia": "A Belle Époque foi o mundo que a Primeira Guerra destruiu — e que toda a nostalgia europeia do século XX lamentou. Foi também o mundo da desigualdade extrema, do imperialismo brutal, do antissemitismo virulento e das tensões sociais que tornaram a guerra não apenas possível mas, para muitos, desejável.",
+      "nome_en": "The Great Transformation: Industrialization and Urbanization (1870–1914)",
+      "nome_es": "La Gran Transformación: Industrialización y Urbanización (1870–1914)"
     },
     {
       "id": "bel-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Paris como capital cultural do mundo: Impressionismo (Monet, Renoir, Degas), Pós-Impressionismo (Van Gogh, Cézanne, Gauguin), Art Nouveau, Cinema (Lumière, 1895). Viena como capital intelectual: Freud e a psicanálise (A Interpretação dos Sonhos, 1900), Mahler e Schönberg, Klimt e Egon Schiele, Schnitzler e Hofmannsthal, Wittgenstein e o Círculo de Viena.",
-      "importancia": "A Viena de 1900 foi o laboratório das ideias que definiram o século XX: psicanálise, atonalismo, expressionismo, filosofia analítica. Karl Kraus observou: 'em Viena, a rua está sendo destruída e todos estão escrevendo sobre ela'. O colapso do Império Habsburgo em 1918 dispersou este florescimento por toda a Europa e América."
+      "importancia": "A Viena de 1900 foi o laboratório das ideias que definiram o século XX: psicanálise, atonalismo, expressionismo, filosofia analítica. Karl Kraus observou: 'em Viena, a rua está sendo destruída e todos estão escrevendo sobre ela'. O colapso do Império Habsburgo em 1918 dispersou este florescimento por toda a Europa e América.",
+      "nome_en": "Culture: Impressionism, Modernism and Freud's Vienna",
+      "nome_es": "Cultura: Impresionismo, Modernismo y la Viena de Freud"
     },
     {
       "id": "bel-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "A Belle Époque era um vulcão sob a superfície elegante. Sufragistas britânicas (Emmeline Pankhurst, WSPU): campanhas de desobediência civil, prisões, greves de fome. II Internacional Socialista (1889): solidariedade proletária internacional. Anarquismo: assassinatos de dirigentes (Presidente francês Carnot, 1894; Imperatriz Elisabeth da Áustria, 1898; Rei Umberto da Itália, 1900). Caso Dreyfus (1894-1906): antissemitismo no coração da República.",
-      "importancia": "O Caso Dreyfus dividiu a França em dois campos irreconciliáveis e teve uma consequência imprevista: Theodor Herzl, cobrindo o caso para um jornal vienense, concluiu que os judeus nunca seriam seguros na Europa e fundou o Sionismo (1896). A linha de Dreyfus ao Estado de Israel é curta."
+      "importancia": "O Caso Dreyfus dividiu a França em dois campos irreconciliáveis e teve uma consequência imprevista: Theodor Herzl, cobrindo o caso para um jornal vienense, concluiu que os judeus nunca seriam seguros na Europa e fundou o Sionismo (1896). A linha de Dreyfus ao Estado de Israel é curta.",
+      "nome_en": "Social Tensions: Suffragettes, Socialists and Anarchists",
+      "nome_es": "Tensiones Sociales: Sufragistas, Socialistas y Anarquistas"
     },
     {
       "id": "bel-004",
@@ -43,7 +49,9 @@
       "regiao": "Africa",
       "peso": 0.85,
       "descricao": "A Conferência de Berlim (1884-85) dividiu a África entre as potências europeias — sem consultar africanos. Em 30 anos, 90% do continente foi colonizado. Bélgica no Congo (Leopoldo II: 10 milhões de mortos); Grã-Bretanha (do Cairo ao Cabo); França (Marrocos à Indochina); Alemanha (Namíbia — genocídio dos Herero, 1904-08). A 'missão civilizadora' como ideologia.",
-      "importancia": "O genocídio dos Herero (1904-08) foi o primeiro genocídio do século XX — perpetrado pela Alemanha. Hannah Arendt argumentou que as técnicas de dominação racial desenvolvidas nas colônias africanas foram depois importadas para a Europa. O Holocausto como consequência do imperialismo colonial."
+      "importancia": "O genocídio dos Herero (1904-08) foi o primeiro genocídio do século XX — perpetrado pela Alemanha. Hannah Arendt argumentou que as técnicas de dominação racial desenvolvidas nas colônias africanas foram depois importadas para a Europa. O Holocausto como consequência do imperialismo colonial.",
+      "nome_en": "Imperialism and the Scramble for Africa (1884–1914)",
+      "nome_es": "Imperialismo y el Reparto de África (1884–1914)"
     },
     {
       "id": "be1",

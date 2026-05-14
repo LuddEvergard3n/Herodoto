@@ -1,7 +1,7 @@
 # Plano de Aula — Documentação
 
 **Arquivo:** `plano-aula.html`  
-**Versão introduzida:** v7.43  
+**Versão introduzida:** v7.56  
 **Tipo:** Ferramenta auxiliar para professores — gerador de plano de aula estruturado em conformidade com a BNCC
 
 ---

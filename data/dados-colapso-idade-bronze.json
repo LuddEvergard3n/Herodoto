@@ -1,0 +1,172 @@
+{
+  "periodo": "Colapso da Idade do Bronze (~1200–1150 a.C.)",
+  "entidades": [
+    {
+      "id": "cab-001",
+      "nome": "O Sistema-Mundo da Idade do Bronze Tardia",
+      "nome_en": "The Late Bronze Age World-System",
+      "nome_es": "El Sistema-Mundo de la Edad del Bronce Tardía",
+      "tipo": "economic",
+      "ano_inicio": -1400,
+      "ano_fim": -1200,
+      "seculo": -14,
+      "continente": "oriente_medio",
+      "importancia": 4,
+      "descricao": "Por dois séculos, um sistema de trocas internacionais sofisticado conectava Egito, Hatti (Hititas), Micenas, Ugarit, Chipre, Babilônia e Assíria. Trocavam-se estanho, cobre, linho, grão, marfim, cavalos e artesanato de luxo. Era um mundo globalizado — e por isso frágil.",
+      "descricao_en": "For two centuries, a sophisticated international exchange system connected Egypt, Hatti (Hittites), Mycenae, Ugarit, Cyprus, Babylon and Assyria. They traded tin, copper, linen, grain, ivory, horses and luxury crafts. It was a globalized world — and therefore fragile.",
+      "descricao_es": "Durante dos siglos, un sofisticado sistema de intercambio internacional conectaba Egipto, Hatti (hititas), Micenas, Ugarit, Chipre, Babilonia y Asiria. Se intercambiaban estaño, cobre, lino, grano, marfil, caballos y artesanía de lujo. Era un mundo globalizado — y por eso frágil."
+    },
+    {
+      "id": "cab-002",
+      "nome": "Os Povos do Mar: Invasores Misteriosos",
+      "nome_en": "The Sea Peoples: Mysterious Invaders",
+      "nome_es": "Los Pueblos del Mar: Invasores Misteriosos",
+      "tipo": "war",
+      "ano_inicio": -1207,
+      "ano_fim": -1177,
+      "seculo": -12,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "Nas inscrições egípcias, Ramsés III descreve hordas que 'nenhuma terra resistiu' — os Povos do Mar. Destruíram Ugarit, varreram os Hititas, invadiram o Egito (1177 a.C.). Mas quem eram? Minoanos fugindo de colapso? Micênicos? Povos da Anatólia? Filisteus? A identidade permanece um dos maiores mistérios da arqueologia.",
+      "descricao_en": "In Egyptian inscriptions, Ramesses III describes hordes that 'no land withstood' — the Sea Peoples. They destroyed Ugarit, swept away the Hittites, invaded Egypt (1177 BC). But who were they? Minoans fleeing collapse? Mycenaeans? Anatolian peoples? Philistines? Their identity remains one of archaeology's greatest mysteries.",
+      "descricao_es": "En las inscripciones egipcias, Ramsés III describe hordas que 'ninguna tierra resistió' — los Pueblos del Mar. Destruyeron Ugarit, barrieron a los hititas, invadieron Egipto (1177 a.C.). ¿Pero quiénes eran? ¿Minoicos huyendo del colapso? ¿Micénicos? ¿Pueblos de Anatolia? ¿Filisteos? La identidad sigue siendo uno de los mayores misterios de la arqueología."
+    },
+    {
+      "id": "cab-003",
+      "nome": "Queda de Micenas e o Fim da Grécia Heládica",
+      "nome_en": "Fall of Mycenae and the End of Helladic Greece",
+      "nome_es": "Caída de Micenas y el Fin de la Grecia Heládica",
+      "tipo": "political",
+      "ano_inicio": -1200,
+      "ano_fim": -1100,
+      "seculo": -12,
+      "continente": "europa",
+      "importancia": 5,
+      "descricao": "Os palácios micênicos — Micenas, Tirinto, Pilos, Tebas — foram destruídos ou abandonados entre 1200 e 1150 a.C. A escrita Linear B desapareceu. A população grega caiu 50–75%. Seguiram-se os 'Séculos Obscuros' (1100–800 a.C.), sem escrita, sem monumentos, sem comércio de longa distância — até Homero e o renascimento arcaico.",
+      "descricao_en": "The Mycenaean palaces — Mycenae, Tiryns, Pylos, Thebes — were destroyed or abandoned between 1200 and 1150 BC. Linear B writing disappeared. The Greek population fell by 50–75%. The 'Dark Ages' followed (1100–800 BC), without writing, without monuments, without long-distance trade — until Homer and the archaic renaissance.",
+      "descricao_es": "Los palacios micénicos — Micenas, Tirinto, Pilos, Tebas — fueron destruidos o abandonados entre 1200 y 1150 a.C. La escritura Lineal B desapareció. La población griega cayó un 50–75%. Siguieron los 'Siglos Oscuros' (1100–800 a.C.), sin escritura, sin monumentos, sin comercio de larga distancia — hasta Homero y el renacimiento arcaico."
+    },
+    {
+      "id": "cab-004",
+      "nome": "Destruição do Império Hitita",
+      "nome_en": "Destruction of the Hittite Empire",
+      "nome_es": "Destrucción del Imperio Hitita",
+      "tipo": "political",
+      "ano_inicio": -1200,
+      "ano_fim": -1180,
+      "seculo": -12,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "Em 1200 a.C., o Império Hitita — que havia derrotado o Egito em Kadesh (1274 a.C.) e dividido o Oriente Próximo como superpotência — desapareceu em menos de uma geração. A capital Hattusa foi incendiada e nunca reocupada. As causas: invasões externas, fome, revolta interna ou colapso da rede comercial? Provavelmente todos.",
+      "descricao_en": "In 1200 BC, the Hittite Empire — which had defeated Egypt at Kadesh (1274 BC) and divided the Near East as a superpower — disappeared in less than a generation. The capital Hattusa was burned and never reoccupied. The causes: external invasions, famine, internal revolt or collapse of the trade network? Probably all.",
+      "descricao_es": "En 1200 a.C., el Imperio Hitita — que había derrotado a Egipto en Kadesh (1274 a.C.) y dividido el Oriente Próximo como superpotencia — desapareció en menos de una generación. La capital Hattusa fue incendiada y nunca reocupada. Las causas: invasiones externas, hambre, revuelta interna o colapso de la red comercial. Probablemente todas."
+    },
+    {
+      "id": "cab-005",
+      "nome": "Ugarit: A Cidade que Enviou uma Carta e Nunca Recebeu Resposta",
+      "nome_en": "Ugarit: The City That Sent a Letter and Never Received a Reply",
+      "nome_es": "Ugarit: La Ciudad que Envió una Carta y Nunca Recibió Respuesta",
+      "tipo": "cultural",
+      "ano_inicio": -1185,
+      "ano_fim": -1185,
+      "seculo": -12,
+      "continente": "oriente_medio",
+      "importancia": 4,
+      "descricao": "Ugarit (atual Síria) era o centro comercial do Mediterrâneo Oriental. Arqueólogos encontraram uma carta não enviada: o rei pede socorro urgente ao rei de Chipre — os inimigos já estão nos arredores. A carta nunca foi enviada. A cidade foi destruída, seus habitantes mortos ou dispersos. O forno onde os tabletes de argila estavam secando preservou-os por 3.200 anos.",
+      "descricao_en": "Ugarit (present-day Syria) was the commercial center of the Eastern Mediterranean. Archaeologists found an unsent letter: the king urgently requests help from the king of Cyprus — the enemies are already at the outskirts. The letter was never sent. The city was destroyed, its inhabitants killed or dispersed. The kiln where clay tablets were drying preserved them for 3,200 years.",
+      "descricao_es": "Ugarit (actual Siria) era el centro comercial del Mediterráneo Oriental. Los arqueólogos encontraron una carta no enviada: el rey pide socorro urgente al rey de Chipre — los enemigos ya están en los alrededores. La carta nunca fue enviada. La ciudad fue destruida, sus habitantes muertos o dispersos. El horno donde se secaban las tablillas de arcilla las preservó durante 3.200 años."
+    },
+    {
+      "id": "cab-006",
+      "nome": "Causas Debatidas: Clima, Fome, Epidemia, Guerra",
+      "nome_en": "Debated Causes: Climate, Famine, Epidemic, War",
+      "nome_es": "Causas Debatidas: Clima, Hambre, Epidemia, Guerra",
+      "tipo": "intellectual",
+      "ano_inicio": -1200,
+      "ano_fim": -1150,
+      "seculo": -12,
+      "continente": "oriente_medio",
+      "importancia": 4,
+      "descricao": "Quatro teorias principais: (1) Mudança climática — seca prolongada de 1200 a 1150 a.C. comprovada por análise de pólen e anéis de árvore; (2) Povos do Mar — migração em massa desestabilizando a periferia e depois o centro; (3) Revoltas internas — sistema palacial de bronze dependia de trabalho coercitivo; (4) Colapso sistémico em cascata — cada elemento frágil ao falhar arrastava os outros. Eric Cline (2014) argumenta pela combinação de todos.",
+      "descricao_en": "Four main theories: (1) Climate change — prolonged drought from 1200 to 1150 BC proven by pollen analysis and tree rings; (2) Sea Peoples — mass migration destabilizing the periphery then the center; (3) Internal revolts — the bronze palace system depended on coercive labor; (4) Cascading systemic collapse — each fragile element when failing dragged down others. Eric Cline (2014) argues for a combination of all.",
+      "descricao_es": "Cuatro teorías principales: (1) Cambio climático — sequía prolongada de 1200 a 1150 a.C. comprobada por análisis de polen y anillos de árboles; (2) Pueblos del Mar — migración masiva desestabilizando la periferia y luego el centro; (3) Revueltas internas — el sistema palacial de bronce dependía del trabajo coercitivo; (4) Colapso sistémico en cascada — cada elemento frágil al fallar arrastraba a los otros. Eric Cline (2014) argumenta por la combinación de todos."
+    },
+    {
+      "id": "cab-007",
+      "nome": "O Egito Sobrevive — Mas Encolhe",
+      "nome_en": "Egypt Survives — But Shrinks",
+      "nome_es": "Egipto Sobrevive — Pero se Contrae",
+      "tipo": "political",
+      "ano_inicio": -1177,
+      "ano_fim": -1069,
+      "seculo": -12,
+      "continente": "africa",
+      "importancia": 3,
+      "descricao": "Único grande poder a sobreviver ao colapso, o Egito repeliu os Povos do Mar em batalhas terrestres e navais (Ramsés III, 1177 a.C.). Mas sobreviveu diminuído: perdeu Canaã, Nubia, e entrou no Terceiro Período Intermediário (1069 a.C.) — fragmentação política, faraós sem poder real, sacerdotes governando Tebas. A civilização faraônica continuaria por 900 anos, mas nunca voltaria à grandeza do Novo Império.",
+      "descricao_en": "The only great power to survive the collapse, Egypt repelled the Sea Peoples in land and naval battles (Ramesses III, 1177 BC). But it survived diminished: it lost Canaan, Nubia, and entered the Third Intermediate Period (1069 BC) — political fragmentation, pharaohs without real power, priests governing Thebes. Pharaonic civilization would continue for 900 years, but never return to the grandeur of the New Kingdom.",
+      "descricao_es": "El único gran poder en sobrevivir al colapso, Egipto repelió a los Pueblos del Mar en batallas terrestres y navales (Ramsés III, 1177 a.C.). Pero sobrevivió disminuido: perdió Canaán, Nubia, y entró en el Tercer Período Intermedio (1069 a.C.) — fragmentación política, faraones sin poder real, sacerdotes gobernando Tebas. La civilización faraónica continuaría durante 900 años, pero nunca volvería a la grandeza del Imperio Nuevo."
+    },
+    {
+      "id": "cab-008",
+      "nome": "O Que Emergiu das Ruínas: Fenícios, Gregos, Israelitas",
+      "nome_en": "What Emerged from the Ruins: Phoenicians, Greeks, Israelites",
+      "nome_es": "Lo Que Emergió de las Ruinas: Fenicios, Griegos, Israelitas",
+      "tipo": "cultural",
+      "ano_inicio": -1100,
+      "ano_fim": -800,
+      "seculo": -11,
+      "continente": "oriente_medio",
+      "importancia": 5,
+      "descricao": "O colapso destruiu os impérios — mas libertou os povos da periferia. Os Fenícios, sem concorrência palaciana, tornaram-se os maiores comerciantes e navegadores do Mediterrâneo e inventaram o alfabeto que usamos hoje. Os gregos dos Séculos Obscuros reinventaram sua cultura e produziram Homero. Os israelitas consolidaram o monoteísmo. Dos escombros da Idade do Bronze emergiu o mundo que conhecemos.",
+      "descricao_en": "The collapse destroyed empires — but freed peripheral peoples. The Phoenicians, without palace competition, became the greatest traders and navigators of the Mediterranean and invented the alphabet we use today. The Greeks of the Dark Ages reinvented their culture and produced Homer. The Israelites consolidated monotheism. From the rubble of the Bronze Age emerged the world we know.",
+      "descricao_es": "El colapso destruyó imperios — pero liberó a los pueblos de la periferia. Los fenicios, sin competencia palaciana, se convirtieron en los mayores comerciantes y navegantes del Mediterráneo e inventaron el alfabeto que usamos hoy. Los griegos de los Siglos Oscuros reinventaron su cultura y produjeron a Homero. Los israelitas consolidaron el monoteísmo. De los escombros de la Edad del Bronce emergió el mundo que conocemos."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "cab-001",
+      "destino": "cab-002",
+      "tipo": "causal"
+    },
+    {
+      "origem": "cab-001",
+      "destino": "cab-006",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "cab-002",
+      "destino": "cab-003",
+      "tipo": "causal"
+    },
+    {
+      "origem": "cab-002",
+      "destino": "cab-004",
+      "tipo": "causal"
+    },
+    {
+      "origem": "cab-002",
+      "destino": "cab-005",
+      "tipo": "causal"
+    },
+    {
+      "origem": "cab-004",
+      "destino": "cab-007",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "cab-006",
+      "destino": "cab-003",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "cab-003",
+      "destino": "cab-008",
+      "tipo": "causal"
+    },
+    {
+      "origem": "cab-007",
+      "destino": "cab-008",
+      "tipo": "causal"
+    }
+  ]
+}

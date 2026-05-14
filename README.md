@@ -16,13 +16,13 @@ O projeto cobre a história mundial desde os primeiros hominídeos (~3,3 milhõe
 
 ---
 
-## Estado Atual (v7.41)
+## Estado Atual (v7.56)
 
 | Métrica | Valor |
 |---|---|
-| Datasets (arquivos JSON) | **306** |
-| Entidades históricas | **2.644** |
-| Perguntas Geradoras | **248** em **58 grupos** |
+| Datasets (arquivos JSON) | **324** |
+| Entidades históricas | **2.550** |
+| Perguntas Geradoras | **307** em **66 grupos** |
 | Idiomas | PT / EN / ES |
 | Arquivos de fontes | **38 temas** |
 | Fontes bibliográficas | **≈ 500** (primárias, secundárias, terciárias) |
@@ -54,7 +54,7 @@ O projeto cobre a história mundial desde os primeiros hominídeos (~3,3 milhõe
 - **Comparação** — modo lado-a-lado de dois eventos históricos
 - **Cadeia causal** — percorre relações de causalidade/evolução em 2 níveis a partir de qualquer nó
 - **Cadeia de consequências** — encadeamento prospectivo a partir de um evento
-- **Perguntas Geradoras** — 248 questões históricas em 58 grupos que selecionam e renderizam datasets automaticamente
+- **Perguntas Geradoras** — 307 questões históricas em 66 grupos que selecionam e renderizam datasets automaticamente
 - **Modo Guiado** — narrativa estruturada com foco num nó, altura dinâmica e abertura automática de painéis
 
 ### Personalidades
@@ -100,7 +100,7 @@ O projeto cobre a história mundial desde os primeiros hominídeos (~3,3 milhõe
 
 **Temáticos transversais:** quilombos, povos indígenas, escravidão colonial, missões jesuíticas, guerra do Paraguai, inconfidência, independência, ciclos econômicos, cultura-arte, economia-social, redemocratização
 
-### Europa — Cobertura Expandida (v7.30)
+### Europa — Cobertura Expandida (v7.56)
 
 | Período | Datasets |
 |---|---|
@@ -159,12 +159,12 @@ herodoto/
 ├── js/
 │   ├── main.js                       # Inicialização e orquestração
 │   ├── graph.js                      # Motor D3.js force-directed
-│   ├── timeline.js                   # Linha do tempo SVG + ALL_DATASETS (303 entradas)
+│   ├── timeline.js                   # Linha do tempo SVG + ALL_DATASETS (324 entradas)
 │   ├── data.js                       # Carregamento e normalização de dados
 │   ├── filtros.js                    # Lógica de filtros semânticos
 │   ├── search.js                     # Busca textual global
 │   ├── compare.js                    # Modo comparação de eventos
-│   ├── questions.js                  # 248 perguntas em 58 grupos
+│   ├── questions.js                  # 307 perguntas em 66 grupos
 │   ├── causal-chain.js               # Cadeia de causas
 │   ├── consequence-chain.js          # Cadeia de consequências
 │   ├── context-panel.js              # Painel lateral de contexto
@@ -173,12 +173,12 @@ herodoto/
 │   ├── guided-mode.js                # Modo guiado com narrativas
 │   ├── personagens.js                # Módulo de personalidades
 │   ├── geo-layer.js                  # Camada geográfica
-│   ├── dataset-labels.js             # 306 rótulos trilingues
+│   ├── dataset-labels.js             # 324 rótulos trilingues
 │   ├── i18n.js                       # Internacionalização PT/EN/ES
 │   └── utils.js                      # Utilitários
 ├── data/
 │   ├── dados-brasil-01-povos-originarios.json
-│   ├── ...                           # 303 arquivos JSON no total (≥8 entidades cada)
+│   ├── ...                           # 324 arquivos JSON no total (≥8 entidades cada)
 │   └── dados-personagens-*.json      # 18 coleções de personalidades
 ├── fontes/
 │   ├── fontes-pre-historia.json
@@ -188,7 +188,7 @@ herodoto/
 └── tests/
     ├── runner.js                     # Runner CLI (node tests/runner.js)
     ├── assert.js                     # Biblioteca de asserções zero-dependência
-    ├── test-data-integrity.js        # Valida todos os 303 JSONs
+    ├── test-data-integrity.js        # Valida todos os 324 JSONs
     ├── test-dataset-registry.js      # Verifica ALL_DATASETS e labels
     ├── test-historical-consistency.js # Datas, bias, cobertura regional
     ├── test-personagens.js           # Valida 18 coleções de personalidades

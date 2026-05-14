@@ -1,0 +1,127 @@
+{
+  "periodo": "América do Sul: Independências, Ditaduras e Democracia (1810–presente)",
+  "entidades": [
+    {
+      "id": "ams-001",
+      "nome": "Simón Bolívar e a Libertação da América do Sul (1810–1830)",
+      "nome_en": "Simón Bolívar and the Liberation of South America (1810–1830)",
+      "nome_es": "Simón Bolívar y la Liberación de América del Sur (1810–1830)",
+      "tipo": "political",
+      "ano_inicio": 1810,
+      "ano_fim": 1830,
+      "seculo": 19,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "Simón Bolívar liderou a independência da Venezuela, Colômbia, Equador, Peru e Bolívia — o maior projeto de libertação territorial das Américas. Sonhava com uma Grande Colômbia unificada e propôs uma confederação de repúblicas hispano-americanas (Congresso do Panamá, 1826). Fracassou: as elites locais preferiram repúblicas separadas onde pudessem controlar o poder. Morreu em 1830 com 47 anos, tuberculoso e decepcionado: 'Aqueles que serviram à revolução araram o mar'. Mas o continente que ajudou a libertar continua invocando seu nome.",
+      "descricao_en": "Simón Bolívar led the independence of Venezuela, Colombia, Ecuador, Peru and Bolivia — the largest territorial liberation project in the Americas. He dreamed of a unified Gran Colombia and proposed a confederation of Hispanic American republics (Congress of Panama, 1826). He failed: local elites preferred separate republics where they could control power. He died in 1830 at 47, tubercular and disappointed: 'Those who served the revolution plowed the sea.' But the continent he helped liberate continues invoking his name.",
+      "descricao_es": "Simón Bolívar lideró la independencia de Venezuela, Colombia, Ecuador, Perú y Bolivia — el mayor proyecto de liberación territorial de las Américas. Soñaba con una Gran Colombia unificada y propuso una confederación de repúblicas hispanoamericanas (Congreso de Panamá, 1826). Fracasó: las élites locales prefirieron repúblicas separadas donde pudieran controlar el poder. Murió en 1830 con 47 años, tuberculoso y decepcionado: 'Los que han servido a la revolución han arado en el mar'. Pero el continente que ayudó a liberar sigue invocando su nombre."
+    },
+    {
+      "id": "ams-002",
+      "nome": "San Martín e o Cone Sul: Argentina, Chile e Peru (1810–1824)",
+      "nome_en": "San Martín and the Southern Cone: Argentina, Chile and Peru (1810–1824)",
+      "nome_es": "San Martín y el Cono Sur: Argentina, Chile y Perú (1810–1824)",
+      "tipo": "political",
+      "ano_inicio": 1810,
+      "ano_fim": 1824,
+      "seculo": 19,
+      "continente": "americas",
+      "importancia": 4,
+      "descricao": "José de San Martín libertou a Argentina (1816), cruzou os Andes com um exército para libertar o Chile (1818) e chegou por mar ao Peru para completar a independência do continente (1821). O encontro de Guayaquil (1822) entre San Martín e Bolívar — do qual nenhum relato completo existe — resultou na retirada de San Martín da política: um dos gestos de autoabdicação mais notáveis da história militar. San Martín morreu no exílio na França. Bolívar completou a libertação do Peru e fundou a Bolívia.",
+      "descricao_en": "José de San Martín liberated Argentina (1816), crossed the Andes with an army to liberate Chile (1818) and arrived by sea in Peru to complete the continent's independence (1821). The Guayaquil meeting (1822) between San Martín and Bolívar — of which no complete account exists — resulted in San Martín's withdrawal from politics: one of the most notable acts of self-abnegation in military history. San Martín died in exile in France. Bolívar completed Peru's liberation and founded Bolivia.",
+      "descricao_es": "José de San Martín liberó Argentina (1816), cruzó los Andes con un ejército para liberar Chile (1818) y llegó por mar a Perú para completar la independencia del continente (1821). El encuentro de Guayaquil (1822) entre San Martín y Bolívar — del que no existe ningún relato completo — resultó en la retirada de San Martín de la política: uno de los gestos de autoabdicación más notables de la historia militar. San Martín murió en el exilio en Francia. Bolívar completó la liberación de Perú y fundó Bolivia."
+    },
+    {
+      "id": "ams-003",
+      "nome": "O Século das Guerras: Guerra do Pacífico, Chaco e Fronteiras (1864–1935)",
+      "nome_en": "The Century of Wars: War of the Pacific, Chaco and Borders (1864–1935)",
+      "nome_es": "El Siglo de las Guerras: Guerra del Pacífico, Chaco y Fronteras (1864–1935)",
+      "tipo": "war",
+      "ano_inicio": 1864,
+      "ano_fim": 1935,
+      "seculo": 19,
+      "continente": "americas",
+      "importancia": 4,
+      "descricao": "Após a independência, a América do Sul travou guerras pela definição de fronteiras. A Guerra do Pacífico (1879–1883): Chile derrotou Peru e Bolívia, tomou Antofagasta e deixou a Bolívia sem litoral — rancor que persiste até hoje. A Guerra da Tríplice Aliança (1864–1870): Brasil, Argentina e Uruguai destruíram o Paraguai — que perdeu 60–70% da população masculina. A Guerra do Chaco (1932–1935): Bolívia e Paraguai disputaram o Chaco, que se supunha rico em petróleo (não era). 100.000 mortos por uma fronteira no deserto.",
+      "descricao_en": "After independence, South America fought wars over border definition. The War of the Pacific (1879–1883): Chile defeated Peru and Bolivia, took Antofagasta and left Bolivia landlocked — a grievance that persists to this day. The Paraguayan War (1864–1870): Brazil, Argentina and Uruguay destroyed Paraguay — which lost 60–70% of its male population. The Chaco War (1932–1935): Bolivia and Paraguay disputed the Chaco, supposedly rich in oil (it wasn't). 100,000 dead over a desert border.",
+      "descricao_es": "Tras la independencia, América del Sur libró guerras por la definición de fronteras. La Guerra del Pacífico (1879–1883): Chile derrotó a Perú y Bolivia, tomó Antofagasta y dejó a Bolivia sin litoral — un rencor que persiste hasta hoy. La Guerra de la Triple Alianza (1864–1870): Brasil, Argentina y Uruguay destruyeron Paraguay — que perdió el 60–70% de su población masculina. La Guerra del Chaco (1932–1935): Bolivia y Paraguay disputaron el Chaco, supuestamente rico en petróleo (no lo era). 100.000 muertos por una frontera en el desierto."
+    },
+    {
+      "id": "ams-004",
+      "nome": "Populismos e Desenvolvimentismos: Perón, Velasco e CEPAL (1940–1970)",
+      "nome_en": "Populisms and Developmentalism: Perón, Velasco and CEPAL (1940–1970)",
+      "nome_es": "Populismos y Desarrollismos: Perón, Velasco y la CEPAL (1940–1970)",
+      "tipo": "political",
+      "ano_inicio": 1940,
+      "ano_fim": 1970,
+      "seculo": 20,
+      "continente": "americas",
+      "importancia": 4,
+      "descricao": "Juan Perón (Argentina, 1946–1955 e 1973–1974) criou o peronismo — movimento operário de massa com elementos de nacionalismo, anti-imperialismo e corporativismo, que ainda divide a Argentina. A CEPAL (Comissão Económica para a América Latina, 1948) desenvolveu a teoria da dependência: os países periféricos se especializam em commodities enquanto o centro industrial absorve o valor. Velasco Alvarado (Peru, 1968–1975) fez uma revolução militar de esquerda — reforma agrária, nacionalizações — sem partido político. Modelos diferentes de tentar sair do subdesenvolvimento; todos com resultados contraditórios.",
+      "descricao_en": "Juan Perón (Argentina, 1946–1955 and 1973–1974) created Peronism — a mass labor movement combining nationalism, anti-imperialism and corporatism, which still divides Argentina. CEPAL (Economic Commission for Latin America, 1948) developed dependency theory: peripheral countries specialize in commodities while the industrial center absorbs the value. Velasco Alvarado (Peru, 1968–1975) led a left-wing military revolution — agrarian reform, nationalizations — without a political party. Different models of trying to escape underdevelopment; all with contradictory results.",
+      "descricao_es": "Juan Perón (Argentina, 1946–1955 y 1973–1974) creó el peronismo — movimiento obrero de masas con elementos de nacionalismo, antiimperialismo y corporativismo, que todavía divide a Argentina. La CEPAL (Comisión Económica para América Latina, 1948) desarrolló la teoría de la dependencia: los países periféricos se especializan en materias primas mientras el centro industrial absorbe el valor. Velasco Alvarado (Perú, 1968–1975) hizo una revolución militar de izquierda — reforma agraria, nacionalizaciones — sin partido político. Modelos diferentes de intentar salir del subdesarrollo; todos con resultados contradictorios."
+    },
+    {
+      "id": "ams-005",
+      "nome": "Ditaduras Militares e a Operação Condor (1964–1990)",
+      "nome_en": "Military Dictatorships and Operation Condor (1964–1990)",
+      "nome_es": "Dictaduras Militares y la Operación Cóndor (1964–1990)",
+      "tipo": "political",
+      "ano_inicio": 1964,
+      "ano_fim": 1990,
+      "seculo": 20,
+      "continente": "americas",
+      "importancia": 5,
+      "descricao": "Doze países sul-americanos viveram ditaduras militares entre 1964 e 1990. A Operação Condor (1975) foi uma rede de cooperação entre as ditaduras para perseguir e assassinar dissidentes através das fronteiras — com apoio logístico americano via Kissinger e CIA. Argentina (1976–1983): 30.000 desaparecidos. Chile (1973–1990): Pinochet derrotou Salvador Allende em golpe apoiado pela CIA; 3.000 mortos e torturados. Uruguai, Bolívia, Paraguai, Brasil — todos coordenados. As Mães da Praça de Maio (Argentina) tornaram-se símbolo global da resistência ao terrorismo de Estado.",
+      "descricao_en": "Twelve South American countries experienced military dictatorships between 1964 and 1990. Operation Condor (1975) was a cooperation network among the dictatorships to persecute and assassinate dissidents across borders — with American logistical support via Kissinger and the CIA. Argentina (1976–1983): 30,000 disappeared. Chile (1973–1990): Pinochet defeated Salvador Allende in a CIA-backed coup; 3,000 killed and tortured. Uruguay, Bolivia, Paraguay, Brazil — all coordinated. The Mothers of Plaza de Mayo (Argentina) became a global symbol of resistance to state terrorism.",
+      "descricao_es": "Doce países sudamericanos vivieron dictaduras militares entre 1964 y 1990. La Operación Cóndor (1975) fue una red de cooperación entre las dictaduras para perseguir y asesinar disidentes a través de las fronteras — con apoyo logístico americano a través de Kissinger y la CIA. Argentina (1976–1983): 30.000 desaparecidos. Chile (1973–1990): Pinochet derrotó a Salvador Allende en un golpe apoyado por la CIA; 3.000 muertos y torturados. Uruguay, Bolivia, Paraguay, Brasil — todos coordinados. Las Madres de Plaza de Mayo (Argentina) se convirtieron en símbolo global de la resistencia al terrorismo de Estado."
+    },
+    {
+      "id": "ams-006",
+      "nome": "Redemocratização e a América do Sul Contemporânea (1985–presente)",
+      "nome_en": "Redemocratization and Contemporary South America (1985–present)",
+      "nome_es": "Redemocratización y la América del Sur Contemporánea (1985–presente)",
+      "tipo": "political",
+      "ano_inicio": 1985,
+      "ano_fim": 2024,
+      "seculo": 20,
+      "continente": "americas",
+      "importancia": 4,
+      "descricao": "A redemocratização da América do Sul entre 1983 (Argentina) e 1990 (Chile) trouxe eleições — e economias devastadas pela dívida e pelo neoliberalismo dos anos 1990. A 'maré rosa' dos anos 2000 (Chávez, Lula, Kirchner, Correa, Evo Morales, Mujica) virou para a direita nos anos 2010, e depois oscilou novamente. A Venezuela de Chávez transformou-se num Estado colapso sob Maduro — 7 milhões de refugiados. A América do Sul é a região mais desigual do mundo e também a que mais avançou em direitos sociais nas últimas décadas. Essa contradição define a política regional.",
+      "descricao_en": "South America's redemocratization between 1983 (Argentina) and 1990 (Chile) brought elections — and economies devastated by debt and 1990s neoliberalism. The 'pink tide' of the 2000s (Chávez, Lula, Kirchner, Correa, Evo Morales, Mujica) turned right in the 2010s, then oscillated again. Chávez's Venezuela transformed into a collapsed state under Maduro — 7 million refugees. South America is the most unequal region in the world and also the one that has advanced most in social rights in recent decades. This contradiction defines regional politics.",
+      "descricao_es": "La redemocratización de América del Sur entre 1983 (Argentina) y 1990 (Chile) trajo elecciones — y economías devastadas por la deuda y el neoliberalismo de los años 1990. La 'marea rosa' de los años 2000 (Chávez, Lula, Kirchner, Correa, Evo Morales, Mujica) viró a la derecha en los años 2010, y luego osciló de nuevo. La Venezuela de Chávez se transformó en un Estado colapsado bajo Maduro — 7 millones de refugiados. América del Sur es la región más desigual del mundo y también la que más ha avanzado en derechos sociales en las últimas décadas. Esta contradicción define la política regional."
+    }
+  ],
+  "relacoes": [
+    {
+      "origem": "ams-001",
+      "destino": "ams-002",
+      "tipo": "tematica"
+    },
+    {
+      "origem": "ams-001",
+      "destino": "ams-003",
+      "tipo": "causal"
+    },
+    {
+      "origem": "ams-002",
+      "destino": "ams-003",
+      "tipo": "causal"
+    },
+    {
+      "origem": "ams-003",
+      "destino": "ams-004",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "ams-004",
+      "destino": "ams-005",
+      "tipo": "sequencial"
+    },
+    {
+      "origem": "ams-005",
+      "destino": "ams-006",
+      "tipo": "causal"
+    }
+  ]
+}

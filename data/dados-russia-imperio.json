@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Pedro I transformou a Rússia à força: Grande Embaixada (1697-98) — viajou incógnito à Europa para aprender tecnologia e administração. Reformas: novo exército e marinha com oficiais estrangeiros, burocracia modernizada, nobreza obrigada a servir ao Estado, Sankt Petersburgo fundada (1703) como janela para a Ocidente. A barba dos nobres cortada à força. O calendário juliano substituído pelo gregoriano. Grande Guerra do Norte: derrotou a Suécia em Poltava (1709).",
-      "importancia": "Pedro o Grande criou a tensão que definiria a história russa pelos três séculos seguintes: modernização forçada pelo Estado vs. resistência cultural profunda. A questão 'a Rússia é Europa ou Ásia?' — iniciada com Pedro — ainda estrutura o debate identitário russo. Putin olha para Pedro como modelo."
+      "importancia": "Pedro o Grande criou a tensão que definiria a história russa pelos três séculos seguintes: modernização forçada pelo Estado vs. resistência cultural profunda. A questão 'a Rússia é Europa ou Ásia?' — iniciada com Pedro — ainda estrutura o debate identitário russo. Putin olha para Pedro como modelo.",
+      "nome_en": "Peter the Great: Forced Westernization (1682–1725)",
+      "nome_es": "Pedro el Grande: La Occidentalización Forzada (1682–1725)"
     },
     {
       "id": "rim-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Catarina II (princesa alemã que derrubou seu marido Pedro III) expandiu o Império para o Sul e Oeste: partilhas da Polônia (1772, 1793, 1795 — com Prússia e Áustria), conquista da Crimeia e acesso ao Mar Negro. Correspondência com Voltaire e Diderot — 'déspota iluminado'. Revolta de Pugachev (1773-75): maior revolta camponesa antes de 1917. Colonização da Ucrânia (Nova Rússia).",
-      "importancia": "Catarina é paradoxal: iluminista nos escritos, autocrática na prática; libertou os nobres da serviço compulsório mas endureceu a servidão dos camponeses. A colonização da Crimeia e da Ucrânia por Catarina está diretamente na raiz dos conflitos atuais — Putin citou-a explicitamente ao justificar a anexação da Crimeia em 2014."
+      "importancia": "Catarina é paradoxal: iluminista nos escritos, autocrática na prática; libertou os nobres da serviço compulsório mas endureceu a servidão dos camponeses. A colonização da Crimeia e da Ucrânia por Catarina está diretamente na raiz dos conflitos atuais — Putin citou-a explicitamente ao justificar a anexação da Crimeia em 2014.",
+      "nome_en": "Catherine the Great and the Imperial Apex (1762–1796)",
+      "nome_es": "Catalina la Grande y el Apogeo Imperial (1762–1796)"
     },
     {
       "id": "rim-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Alexandre I: reformista e depois reacionário; venceu Napoleão mas criou a Santa Aliança repressiva. Decabristas (1825): primeira revolta da inteligência liberal — esmagada. Nicolau I: reação total. Alexandre II: reformas — Emancipação dos Servos (1861); mas assassinado em 1881 por niilistas. A Rússia industrial e urbana crescia mas a autocracia resistia qualquer partilha de poder.",
-      "importancia": "A Emancipação dos Servos de 1861 foi a reforma mais importante da história russa — liberou 23 milhões de pessoas da servidão. Mas foi feita de forma que preservou o poder dos latifundiários: os ex-servos ficaram com menos terra, pagando resgate durante 49 anos. Esta reforma incompleta criou o proletariado rural que faria a Revolução de 1917."
+      "importancia": "A Emancipação dos Servos de 1861 foi a reforma mais importante da história russa — liberou 23 milhões de pessoas da servidão. Mas foi feita de forma que preservou o poder dos latifundiários: os ex-servos ficaram com menos terra, pagando resgate durante 49 anos. Esta reforma incompleta criou o proletariado rural que faria a Revolução de 1917.",
+      "nome_en": "19th-Century Russia: Reform and Reaction (1801–1881)",
+      "nome_es": "El Siglo XIX Ruso: Reforma y Reacción (1801–1881)"
     },
     {
       "id": "rim-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "A Rússia expandiu-se em todas as direções: Cáucaso (guerras contra Chechenos e Circassianos, 1817-1864), Ásia Central (Bukhara, Samarcanda, Tashkent — 1860-85), Extremo Oriente (Vladivostok, 1860). A 'Grande Jogo' com a Grã-Bretanha pela Ásia Central. Guerra da Crimeia (1853-56): derrota humilhante frente a França, Grã-Bretanha e Otomanos — revelou o atraso tecnológico russo. Guerra Russo-Japonesa (1904-05): segunda derrota humilhante.",
-      "importancia": "As derrotas russas na Criméia (1856) e contra o Japão (1905) funcionaram como aceleradores de reforma: cada humilhação produzia convulsão interna. A Revolução de 1905, provocada pela derrota japonesa, forçou Nicolau II a conceder o Manifesto de Outubro e a Duma. A Revolução de 1917 veio após a catástrofe da Primeira Guerra."
+      "importancia": "As derrotas russas na Criméia (1856) e contra o Japão (1905) funcionaram como aceleradores de reforma: cada humilhação produzia convulsão interna. A Revolução de 1905, provocada pela derrota japonesa, forçou Nicolau II a conceder o Manifesto de Outubro e a Duma. A Revolução de 1917 veio após a catástrofe da Primeira Guerra.",
+      "nome_en": "Russian Imperialism and the Eastern Question (1815–1914)",
+      "nome_es": "Imperialismo Ruso y la Cuestión Oriental (1815–1914)"
     },
     {
       "id": "ri1",

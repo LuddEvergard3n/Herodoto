@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "A Iugoslávia de Tito havia mantido unidas seis repúblicas e várias etnias pelo equilíbrio entre nacionalismos, pela não-alienha com a URSS e pelo carisma pessoal de Tito (morto em 1980). Com o fim do comunismo, Eslovênia e Croácia declararam independência em junho 1991. O exército federal atacou ambas — retirou-se da Eslovênia em 10 dias; lutou pela Croácia por meses. A Iugoslávia começou a desintegrar-se.",
-      "importancia": "A dissolução da Iugoslávia foi o teste que a Europa unida falhou: a CEE reconheceu prematuramente Croácia e Eslovênia (seguindo a Alemanha) sem garantias de proteção às minorias, acelerando a espiral de violência. 'A hora da Europa chegou' — disse o ministro luxemburguês Poos. A Europa falharia em todas as horas seguintes."
+      "importancia": "A dissolução da Iugoslávia foi o teste que a Europa unida falhou: a CEE reconheceu prematuramente Croácia e Eslovênia (seguindo a Alemanha) sem garantias de proteção às minorias, acelerando a espiral de violência. 'A hora da Europa chegou' — disse o ministro luxemburguês Poos. A Europa falharia em todas as horas seguintes.",
+      "nome_en": "Dissolution of Yugoslavia (1991)",
+      "nome_es": "La Disolución de Yugoslavia (1991)"
     },
     {
       "id": "bal-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "A guerra na Bósnia (1992-95) foi a mais mortífera na Europa desde 1945: 100.000 mortos, 2,2 milhões de deslocados, 'limpeza étnica' sistemática pelos sérvios bósnios de Karadžić e Mladić. Srebrenica (julho 1995): 8.372 muçulmanos bosnios executados em 3 dias — classificado como genocídio pelo Tribunal Internacional. A ONU não interveio. A NATO bombardeou os sérvios (agosto 1995). Dayton: paz.",
-      "importancia": "Srebrenica foi o genocídio no coração da Europa, 50 anos após o Holocausto e o 'Nunca mais'. O fracasso da ONU e da Europa demonstrou que a 'responsabilidade de proteger' era letra morta sem vontade política e força militar. Bill Clinton disse que seu maior arrependimento foi não ter intervindo antes."
+      "importancia": "Srebrenica foi o genocídio no coração da Europa, 50 anos após o Holocausto e o 'Nunca mais'. O fracasso da ONU e da Europa demonstrou que a 'responsabilidade de proteger' era letra morta sem vontade política e força militar. Bill Clinton disse que seu maior arrependimento foi não ter intervindo antes.",
+      "nome_en": "Bosnian War and the Srebrenica Genocide (1992–1995)",
+      "nome_es": "Guerra de Bosnia y el Genocidio de Srebrenica (1992–1995)"
     },
     {
       "id": "bal-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Kosovo era uma província da Sérvia com 90% de população albanesa. A repressão sérvia levou ao surgimento do UCK (Exército de Libertação do Kosovo). A NATO bombardeou a Sérvia por 78 dias (março-junho 1999) sem mandato da ONU (Rússia vetaria) — a primeira guerra da NATO sem resolução do Conselho de Segurança. Milošević retirou-se. Kosovo sob administração da ONU. Independência em 2008.",
-      "importancia": "A intervenção da NATO no Kosovo criou o precedente da 'intervenção humanitária' sem mandato da ONU: o Ocidente autoproclamou-se árbitro da proteção de minorias, ignorando a soberania estatal. A Rússia nunca aceitou este precedente — e citou Kosovo para justificar suas ações na Ucrânia em 2014 e 2022."
+      "importancia": "A intervenção da NATO no Kosovo criou o precedente da 'intervenção humanitária' sem mandato da ONU: o Ocidente autoproclamou-se árbitro da proteção de minorias, ignorando a soberania estatal. A Rússia nunca aceitou este precedente — e citou Kosovo para justificar suas ações na Ucrânia em 2014 e 2022.",
+      "nome_en": "Kosovo and the NATO Intervention (1998–1999)",
+      "nome_es": "Kosovo y la Intervención de la OTAN (1998–1999)"
     },
     {
       "id": "bal-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.75,
       "descricao": "O TPIJ (Tribunal Penal Internacional para a ex-Iugoslávia, 1993-2017) foi o primeiro tribunal criminal internacional desde Nuremberg. Julgou 161 acusados, condenou 90. Casos emblemáticos: Milošević (morreu antes da sentença, 2006), Karadžić (40 anos), Mladić (prisão perpétua). Primeira condenação internacional por genocídio desde 1948. Precedente para o TPI permanente (1998).",
-      "importancia": "O TPIJ estabeleceu que líderes de Estado podem ser julgados por crimes de guerra e genocídio. O princípio parece óbvio — mas só foi efetivado em 1993, 45 anos após Nuremberg. A existência do TPI permanente mudou o cálculo de ditadores: Karadžić e Mladić passaram 15 anos fugindo sabendo que a prescrição não existe para genocídio."
+      "importancia": "O TPIJ estabeleceu que líderes de Estado podem ser julgados por crimes de guerra e genocídio. O princípio parece óbvio — mas só foi efetivado em 1993, 45 anos após Nuremberg. A existência do TPI permanente mudou o cálculo de ditadores: Karadžić e Mladić passaram 15 anos fugindo sabendo que a prescrição não existe para genocídio.",
+      "nome_en": "International Criminal Tribunal for the Former Yugoslavia and Transitional Justice",
+      "nome_es": "Tribunal Penal Internacional para la Ex Yugoslavia y Justicia Transicional"
     },
     {
       "id": "bg1",

@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "Kant é o maior filósofo da modernidade. Crítica da Razão Pura (1781): não conhecemos as coisas em si (noumena), apenas como nos aparecem (fenômenos) — o sujeito estrutura a experiência. Crítica da Razão Prática (1788): o Imperativo Categórico — 'Age como se a máxima de tua ação devesse ser lei universal'. Crítica do Juízo (1790). O artigo 'O que é o Iluminismo?' (1784): 'Sapere aude!' — Ousa saber!",
-      "importancia": "Kant realizou na filosofia o que Copérnico fez na astronomia: inverteu a relação sujeito-objeto. Todo o pensamento posterior — idealismo alemão, fenomenologia, existencialismo, hermenêutica — é uma resposta a Kant. Seu conceito de paz perpétua antecipou a ONU e o direito internacional contemporâneo."
+      "importancia": "Kant realizou na filosofia o que Copérnico fez na astronomia: inverteu a relação sujeito-objeto. Todo o pensamento posterior — idealismo alemão, fenomenologia, existencialismo, hermenêutica — é uma resposta a Kant. Seu conceito de paz perpétua antecipou a ONU e o direito internacional contemporâneo.",
+      "nome_en": "Immanuel Kant: The Copernican Revolution of Philosophy (1724–1804)",
+      "nome_es": "Immanuel Kant: La Revolución Copernicana de la Filosofía (1724–1804)"
     },
     {
       "id": "ilA-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Lessing foi o crítico literário e dramaturgo mais influente do Aufklärung alemão. Nathan, o Sábio (1779): peça em que um judeu, um cristão e um muçulmano são igualmente honestos — defesa da tolerância religiosa numa Alemanha mais atrasada que a Holanda. A Educação da Humanidade (1780): a história como processo de aprendizagem moral progressiva da espécie.",
-      "importancia": "Nathan, o Sábio foi proibido e só encenado 17 anos após a morte de Lessing — mas tornou-se uma das peças mais representadas na Alemanha. Sua parabola dos três anéis (as três religiões abraâmicas como variantes de uma verdade) continua sendo invocada em debates sobre diálogo inter-religioso."
+      "importancia": "Nathan, o Sábio foi proibido e só encenado 17 anos após a morte de Lessing — mas tornou-se uma das peças mais representadas na Alemanha. Sua parabola dos três anéis (as três religiões abraâmicas como variantes de uma verdade) continua sendo invocada em debates sobre diálogo inter-religioso.",
+      "nome_en": "Gotthold Lessing: Tolerance and Religious Criticism (1729–1781)",
+      "nome_es": "Gotthold Lessing: Tolerancia y Crítica Religiosa (1729–1781)"
     },
     {
       "id": "ilA-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Schiller foi o dramaturgo e poeta do idealismo alemão: Os Ladrões (1781 — jovem que se rebela contra a injustiça), Dom Carlos (1787), Maria Stuart (1800), Guilherme Tell (1804). A Ode à Alegria (1785) — musicada por Beethoven na Nona Sinfonia e adotada como hino europeu. Junto com Goethe, fundou o Classicismo de Weimar.",
-      "importancia": "A 'Alegria, bela centelha divina' que Beethoven imortalizou era originalmente sobre a libertação pela alegria e fraternidade humana. A escolha do hino europeu foi o reconhecimento de que a criatividade artística e filosófica alemã foram tão importantes para a identidade europeia quanto Napoleão e Bismarck."
+      "importancia": "A 'Alegria, bela centelha divina' que Beethoven imortalizou era originalmente sobre a libertação pela alegria e fraternidade humana. A escolha do hino europeu foi o reconhecimento de que a criatividade artística e filosófica alemã foram tão importantes para a identidade europeia quanto Napoleão e Bismarck.",
+      "nome_en": "Friedrich Schiller: Freedom and Human Dignity (1759–1805)",
+      "nome_es": "Friedrich Schiller: Libertad y Dignidad Humana (1759–1805)"
     },
     {
       "id": "ilA-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "Goethe foi o último Renaissance man europeu: poeta (Fausto, Werther, Wilhelm Meister), cientista (morfologia das plantas, teoria das cores — polêmica com Newton), administrador do Ducado de Weimar. Fausto (Parte I: 1808, Parte II: 1832): o drama total do desejo humano ilimitado e suas consequências — a obra literária mais comentada da língua alemã.",
-      "importancia": "O Fausto é o mito moderno por excelência: o homem que vende a alma ao diabo em troca do conhecimento absoluto. A figura de Faust tornou-se metáfora do projeto moderno — ciência, tecnologia, poder sem limites morais — que o século XX levaria às suas conclusões mais terríveis."
+      "importancia": "O Fausto é o mito moderno por excelência: o homem que vende a alma ao diabo em troca do conhecimento absoluto. A figura de Faust tornou-se metáfora do projeto moderno — ciência, tecnologia, poder sem limites morais — que o século XX levaria às suas conclusões mais terríveis.",
+      "nome_en": "Johann Wolfgang von Goethe: The Polymath of Weimar (1749–1832)",
+      "nome_es": "Johann Wolfgang von Goethe: El Polímata de Weimar (1749–1832)"
     },
     {
       "id": "ial1",

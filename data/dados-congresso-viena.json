@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "As potências vitoriosas (Áustria, Prússia, Rússia, Grã-Bretanha, França) reuniram-se em Viena sob a presidência de Metternich para redesenhar a Europa. Princípios: legitimidade (restaurar dinastias legítimas), equilíbrio de poder (nenhuma potência dominante), compensações territoriais. Resultado: criação da Confederação Germânica (38 Estados), restauração dos Bourbons em França, expansão da Prússia.",
-      "importancia": "O Congresso de Viena foi o primeiro experimento de ordem internacional multilateral — e funcionou: a Europa não teve guerra geral por 99 anos (até 1914). Henry Kissinger estudou Metternich como modelo de estabilidade internacional. A 'Paz dos Cem Anos' que se seguiu foi possível pelo equilíbrio cuidadosamente construído em Viena."
+      "importancia": "O Congresso de Viena foi o primeiro experimento de ordem internacional multilateral — e funcionou: a Europa não teve guerra geral por 99 anos (até 1914). Henry Kissinger estudou Metternich como modelo de estabilidade internacional. A 'Paz dos Cem Anos' que se seguiu foi possível pelo equilíbrio cuidadosamente construído em Viena.",
+      "nome_en": "The Congress of Vienna (1814–1815)",
+      "nome_es": "El Congreso de Viena (1814–1815)"
     },
     {
       "id": "cvi-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "Klemens von Metternich, chanceler austríaco, foi o arquiteto da ordem pós-napoleônica: Santa Aliança (Áustria, Prússia, Rússia) para sufocar revoluções. Intervenções: Itália (1820-21), Espanha (1823). Conferências de Aachen, Troppau, Laibach, Verona — concerto europeu de potências. Censura sistemática, redes de espiões, supressão da imprensa liberal.",
-      "importancia": "O 'sistema Metternich' teve sucesso relativo por 33 anos — mas suprimia sintomas sem curar causas. A ascensão da burguesia, o crescimento das cidades industriais, a disseminação das ideias liberais tornavam inevitável o confronto. Quando veio, em 1848, foi simultâneo em toda a Europa."
+      "importancia": "O 'sistema Metternich' teve sucesso relativo por 33 anos — mas suprimia sintomas sem curar causas. A ascensão da burguesia, o crescimento das cidades industriais, a disseminação das ideias liberais tornavam inevitável o confronto. Quando veio, em 1848, foi simultâneo em toda a Europa.",
+      "nome_en": "Metternich and the Restoration System (1815–1848)",
+      "nome_es": "Metternich y el Sistema de la Restauración (1815–1848)"
     },
     {
       "id": "cvi-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "O Romantismo nasceu como reação ao racionalismo iluminista e à industrialização: valorização da emoção, da natureza, do passado medieval, das tradições populares. Byron, Shelley, Keats (Grã-Bretanha); Goethe, Hölderlin, Novalis (Alemanha); Vítor Hugo, Lamartine (França); Mazzini (Itália). Os Irmãos Grimm coletaram contos populares; Herder teorizou o Volksgeist (espírito do povo).",
-      "importancia": "O Romantismo foi o pai do Nacionalismo moderno: ao valorizar a língua, os contos, as tradições e a história de cada povo como expressão de sua alma única, criou a base ideológica das revoluções nacionais de 1830-1848. A ideia de que cada nação tem um 'caráter' único e um destino histórico é invenção romântica."
+      "importancia": "O Romantismo foi o pai do Nacionalismo moderno: ao valorizar a língua, os contos, as tradições e a história de cada povo como expressão de sua alma única, criou a base ideológica das revoluções nacionais de 1830-1848. A ideia de que cada nação tem um 'caráter' único e um destino histórico é invenção romântica.",
+      "nome_en": "Romanticism as Reaction: Nation, People and Feeling (1800–1850)",
+      "nome_es": "Romanticismo como Reacción: Nación, Pueblo y Sentimiento (1800–1850)"
     },
     {
       "id": "cvi-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "Três ondas revolucionárias varreram a Europa antes de 1848: 1820 (Espanha, Portugal, Nápoles, Piemonte — esmagadas por intervenção); 1830 (Revolução de Julho na França substitui Carlos X por Luís Filipe; Bélgica independente; Polônia em revolta — esmagada pela Rússia). A Independência Grega (1821-1829) foi a exceção: apoio das potências contra o Império Otomano.",
-      "importancia": "A independência grega foi o primeiro sucesso do nacionalismo europeu — e foi obtida graças ao filhellenismo europeu (Byron morreu em Missolonghi). O padrão estabelecido foi o das potências europeias intervindo em nome de cristãos sob domínio otomano — padrão que repetiria até a Primeira Guerra."
+      "importancia": "A independência grega foi o primeiro sucesso do nacionalismo europeu — e foi obtida graças ao filhellenismo europeu (Byron morreu em Missolonghi). O padrão estabelecido foi o das potências europeias intervindo em nome de cristãos sob domínio otomano — padrão que repetiria até a Primeira Guerra.",
+      "nome_en": "Revolutionary Waves: 1820, 1830 and Greece (1820–1831)",
+      "nome_es": "Oleadas Revolucionarias: 1820, 1830 y Grecia (1820–1831)"
     },
     {
       "id": "cv1",

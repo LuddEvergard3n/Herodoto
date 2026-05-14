@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "A Yersinia pestis chegou à Europa pelos portos sicilianos em outubro de 1347 — em navios genoveses vindos do Mar Negro. Em 18 meses espalhou-se por toda a Europa. Três formas: bubônica (bubões nos nódulos linfáticos, mortalidade 30-75%), pneumônica (pulmões, quase 100% fatal), septicêmica (sangue, 100% fatal). Cidades perderam 50-70% da população.",
-      "importancia": "A Peste Negra matou entre 30 e 60% da população europeia em 5 anos — 25 a 50 milhões de pessoas. Nenhum evento na história europeia matou proporcionalmente tanto em tão pouco tempo. O impacto psicológico foi tão intenso quanto o demográfico: a 'Dança da Morte' e o culto das relíquias exprimem um novo relacionamento com a mortalidade."
+      "importancia": "A Peste Negra matou entre 30 e 60% da população europeia em 5 anos — 25 a 50 milhões de pessoas. Nenhum evento na história europeia matou proporcionalmente tanto em tão pouco tempo. O impacto psicológico foi tão intenso quanto o demográfico: a 'Dança da Morte' e o culto das relíquias exprimem um novo relacionamento com a mortalidade.",
+      "nome_en": "The Black Death Reaches Europe (1347–1348)",
+      "nome_es": "La Llegada de la Peste Negra a Europa (1347–1348)"
     },
     {
       "id": "pest-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "A inexplicabilidade da pestilência (nenhuma teoria médica disponível era útil) gerou respostas desesperadas: Flagelantes percorriam a Europa açoitando-se publicamente para aplacar Deus. Judeus foram massacrados em centenas de cidades acusados de envenenar poços (Estrasburgo, 1349: 2.000 queimados). Médicos nada podiam fazer — e sabiam disso.",
-      "importancia": "As perseguições aos judeus durante a Peste documentam como crises extremas produzem bodes expiatórios. A resposta médica — quarentena (Veneza, 40 dias: quarantina) e cordões sanitários — foi a primeira resposta de saúde pública moderna, mais eficaz que qualquer tratamento."
+      "importancia": "As perseguições aos judeus durante a Peste documentam como crises extremas produzem bodes expiatórios. A resposta médica — quarentena (Veneza, 40 dias: quarantina) e cordões sanitários — foi a primeira resposta de saúde pública moderna, mais eficaz que qualquer tratamento.",
+      "nome_en": "Responses to the Epidemic: Flagellants, Persecutions and Physicians",
+      "nome_es": "Respuestas a la Epidemia: Flagelantes, Persecuciones y Médicos"
     },
     {
       "id": "pest-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.85,
       "descricao": "A Europa levou 150 anos para recuperar a população pré-pestilência. Imediato: escassez de mão-de-obra, aumento dos salários, mobilidade social — camponeses podiam negociar condições. Senhores feudais tentaram legislar salários máximos (Estatuto dos Trabalhadores, Inglaterra, 1351). Cidades recobraram mais rápido que campos.",
-      "importancia": "A Peste Negra acelerou o fim do feudalismo: quando 1/3 dos servos morreu, os sobreviventes descobriram poder de negociação. Os levantes camponeses do século XIV (Jacquerie na França 1358, Revolta dos Camponeses ingleses 1381) não teriam ocorrido sem a reconfiguração pós-peste."
+      "importancia": "A Peste Negra acelerou o fim do feudalismo: quando 1/3 dos servos morreu, os sobreviventes descobriram poder de negociação. Os levantes camponeses do século XIV (Jacquerie na França 1358, Revolta dos Camponeses ingleses 1381) não teriam ocorrido sem a reconfiguração pós-peste.",
+      "nome_en": "Demographic and Economic Consequences (1350–1420)",
+      "nome_es": "Consecuencias Demográficas y Económicas (1350–1420)"
     },
     {
       "id": "pest-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.8,
       "descricao": "A Peste reconfigurou a cultura europeia: Boccaccio escreveu o Decameron (1353) com jovens refugiados da Peste narrando histórias — nascimento da prosa literária italiana moderna. A 'Dança da Morte' (Danse Macabre) tornou-se motivo ubíquo: a morte leva papas, reis e camponeses sem distinção. Proliferação de cultos a santos intercessores.",
-      "importancia": "A democratização da morte pela Peste — que não respeitava hierarquias sociais — contribuiu para questionar a autoridade da Igreja (que não tinha explicação nem cura) e a legitimidade da ordem social estabelecida. Alguns historiadores veem a Peste como precondição da Reforma Protestante."
+      "importancia": "A democratização da morte pela Peste — que não respeitava hierarquias sociais — contribuiu para questionar a autoridade da Igreja (que não tinha explicação nem cura) e a legitimidade da ordem social estabelecida. Alguns historiadores veem a Peste como precondição da Reforma Protestante.",
+      "nome_en": "Cultural Transformations: Art, Religion and Literature",
+      "nome_es": "Transformaciones Culturales: Arte, Religión y Literatura"
     },
     {
       "id": "pb1",

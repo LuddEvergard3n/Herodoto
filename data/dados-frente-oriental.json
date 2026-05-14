@@ -10,7 +10,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "Em 22 de junho de 1941, 3,8 milhões de soldados alemães e aliados cruzaram as fronteiras soviéticas em 3 grupos de exércitos — o maior exército já mobilizado na história. Stalin ignorou 84 avisos de inteligência. Em 3 semanas: 600.000 prisioneiros soviéticos. Kiev cercada (setembro): 665.000 prisioneiros. Até dezembro, o exército alemão chegou a 20 km de Moscou.",
-      "importancia": "Barbarossa foi a maior aposta militar da história — e fracassou por 50 km: Moscou não caiu. O erro de Hitler foi o mesmo de Napoleão: a escala do espaço russo, o inverno e a determinação soviética derrotaram o que parecia imbatível. Os primeiros meses de Barbarossa custaram à URSS 4,5 milhões de baixas — e ela sobreviveu."
+      "importancia": "Barbarossa foi a maior aposta militar da história — e fracassou por 50 km: Moscou não caiu. O erro de Hitler foi o mesmo de Napoleão: a escala do espaço russo, o inverno e a determinação soviética derrotaram o que parecia imbatível. Os primeiros meses de Barbarossa custaram à URSS 4,5 milhões de baixas — e ela sobreviveu.",
+      "nome_en": "Operation Barbarossa: The Largest Invasion in History (June 1941)",
+      "nome_es": "Operación Barbarroja: La Mayor Invasión de la Historia (junio 1941)"
     },
     {
       "id": "fori-002",
@@ -21,7 +23,9 @@
       "regiao": "Europe",
       "peso": 0.95,
       "descricao": "A Batalha de Stalingrado foi a maior e mais mortífera da Segunda Guerra: 2 milhões de baixas (1,1 milhão soviéticos, 800.000 alemães e aliados do Eixo). 6ª Armada do General Paulus cercada pela Operação Uranus (novembro 1942). Hitler proibiu a retirada. 91.000 soldados renderam-se em fevereiro 1943 — incluindo 24 generais. Paulus foi o primeiro marechal de campo alemão a se render.",
-      "importancia": "Stalingrado foi o ponto de viragem psicológico da guerra: até ali a Wehrmacht parecia invencível; depois, qualquer resultado parecia possível. Os soviéticos capturaram Paulus ao vivo — e ele cooperou na propaganda anti-nazi. 5.000 dos 91.000 prisioneiros voltariam para a Alemanha após a guerra."
+      "importancia": "Stalingrado foi o ponto de viragem psicológico da guerra: até ali a Wehrmacht parecia invencível; depois, qualquer resultado parecia possível. Os soviéticos capturaram Paulus ao vivo — e ele cooperou na propaganda anti-nazi. 5.000 dos 91.000 prisioneiros voltariam para a Alemanha após a guerra.",
+      "nome_en": "Stalingrad: The Turning Point (August 1942–February 1943)",
+      "nome_es": "Stalingrado: El Punto de Inflexión (agosto 1942–febrero 1943)"
     },
     {
       "id": "fori-003",
@@ -32,7 +36,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "A Frente Oriental foi uma guerra de extermínio diferente das outras: a Wehrmacht executou os Comissários Políticos soviéticos (Befehl-Kommissarbefehl), deixou 3,3 milhões de prisioneiros de guerra soviéticos morrerem de fome (58% de mortalidade vs. 4% no Ocidente). Os Einsatzgruppen seguiam o exército fuzilando judeus, comunistas e 'inimigos raciais'. Leningrado sitiada 872 dias: 1 milhão de civis mortos de fome.",
-      "importancia": "A distinção entre a guerra 'limpa' na Frente Ocidental e a guerra de extermínio no Leste é historicamente crucial mas politicamente contestada. A Wehrmacht — não apenas as SS — foi cumplice dos crimes de guerra no Leste. Esta realidade foi sistematicamente negada pela Alemanha pós-guerra e só confrontada na exposição de 1995-2004 sobre os crimes da Wehrmacht."
+      "importancia": "A distinção entre a guerra 'limpa' na Frente Ocidental e a guerra de extermínio no Leste é historicamente crucial mas politicamente contestada. A Wehrmacht — não apenas as SS — foi cumplice dos crimes de guerra no Leste. Esta realidade foi sistematicamente negada pela Alemanha pós-guerra e só confrontada na exposição de 1995-2004 sobre os crimes da Wehrmacht.",
+      "nome_en": "The War of Extermination: War Crimes in the USSR",
+      "nome_es": "La Guerra de Exterminio: Crímenes de Guerra en la URSS"
     },
     {
       "id": "fori-004",
@@ -43,7 +49,9 @@
       "regiao": "Europe",
       "peso": 0.9,
       "descricao": "A URSS perdeu 27 milhões de pessoas na Segunda Guerra (8,7 milhões de militares, 18 milhões de civis) — 80% de todas as baixas alemãs foram na Frente Oriental. Kursk (julho 1943): maior batalha de tanques da história — vitória soviética. A partir de 1943, ofensiva soviética ininterrupta: Bielorrússia, Polônia, Berlim (2 de maio de 1945: bandeira soviética no Reichstag).",
-      "importancia": "A URSS venceu a Segunda Guerra — este fato foi sistematicamente minimizado pela narrativa ocidental da Guerra Fria. 80% das divisões alemãs combateram no Leste durante toda a guerra. O 'Dia da Vitória' (9 de maio) que os russos celebram com mais intensidade que qualquer outra data é compreensível: foi o maior sacrifício nacional da história moderna."
+      "importancia": "A URSS venceu a Segunda Guerra — este fato foi sistematicamente minimizado pela narrativa ocidental da Guerra Fria. 80% das divisões alemãs combateram no Leste durante toda a guerra. O 'Dia da Vitória' (9 de maio) que os russos celebram com mais intensidade que qualquer outra data é compreensível: foi o maior sacrifício nacional da história moderna.",
+      "nome_en": "The USSR's Role: 27 Million Dead and Victory",
+      "nome_es": "El Papel de la URSS: 27 Millones de Muertos y la Victoria"
     },
     {
       "id": "fro1",
