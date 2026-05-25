@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "persona": "cesar",
+    "nome": "Caio Júlio César",
+    "horizonte": "44 a.C., como ditador perpétuo",
+    "descricao": "As campanhas, decisões políticas, relações e reformas de César"
+  },
+  "entidades": [
+    {
+      "id": "ce-001",
+      "nome": "Guerras Gálicas (58–50 a.C.)",
+      "tipo": "evento",
+      "importancia": 10,
+      "descricao": "Oito anos de campanha na Gália — atual França e Bélgica. Pacifiquei um território maior que a Itália com oito legiões. Escrevi os Commentarii de Bello Gallico para que Roma me conhecesse como general antes de me ver como político. A estratégia é simples: mover mais rápido que o inimigo espera, dividir as tribos umas contra as outras, ser implacável quando necessário e generoso quando possível. Resultado: um milhão de gauleses mortos, um milhão escravizados, trezentos povos submetidos."
+    },
+    {
+      "id": "ce-002",
+      "nome": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+      "tipo": "evento",
+      "importancia": 10,
+      "descricao": "A maior revolta gaulesa: Vercingétorix unificou as tribos gaulesas pela primeira vez. Recuou para a fortaleza de Alésia. Cercei Alésia com muros de contenção voltados para dentro e para fora simultaneamente — para bloquear a saída de Vercingétorix e a chegada de seu exército de reforço. Duzentos e cinquenta mil gauleses tentaram romper o cerco por fora. Segurei nos dois lados. Vercingétorix se rendeu pessoalmente, jogando sua armadura a meus pés. Será exibido no meu triunfo em Roma."
+    },
+    {
+      "id": "ce-003",
+      "nome": "O cruzamento do Rubicão (49 a.C.)",
+      "tipo": "evento",
+      "importancia": 10,
+      "descricao": "O Senado, manipulado por Pompeu, exigiu que eu licenciasse o exército antes de retornar a Roma. Se o fizesse, estaria desarmado e processável. Parei na margem do Rubicão com a XIII Legião. Cruzar com tropas armadas é crime de traição — guerra civil. Fiquei parado por horas. Depois disse: 'A sorte está lançada.' Cruzamos. A velocidade foi total — Pompeu fugiu de Roma sem lutar. A Itália caiu em semanas. Pompeu nunca me perdoou por mostrar que eu era mais rápido que ele em todas as coisas."
+    },
+    {
+      "id": "ce-004",
+      "nome": "Batalha de Farsalos (48 a.C.)",
+      "tipo": "evento",
+      "importancia": 10,
+      "descricao": "Pompeu tinha o dobro de meus homens e a melhor cavalaria do mundo — fornecida por reis orientais. Deixei que sua cavalaria rompesse meu flanco direito. Havia escondido seis coortes de infantaria atrás da cavalaria — elas viram e atacaram a cavalaria pompeiiana com as lanças na direção dos rostos dos cavaleiros. Cavaleiros não suportam ameaça ao rosto — fugiram. Minha cavalaria então envolveu o exército de Pompeu pelo flanco. O exército de Pompeu se desfez. Pompeu fugiu para o Egito — e foi assassinado lá."
+    },
+    {
+      "id": "ce-005",
+      "nome": "Pompeu Magno — o rival",
+      "tipo": "pessoa",
+      "importancia": 9,
+      "descricao": "Pompeu foi o maior general romano antes de mim. Limpou o Mediterrâneo dos piratas em três meses. Conquistou o Oriente. Casou com minha filha Júlia — que morreu no parto, e com ela morreu a aliança entre nós. Pompeu cometera um erro de caráter: confundia popularidade com poder. Quando a popularidade acabou, ele ficou sem nada. Um general precisa do exército; um político precisa do povo. Ele perdeu os dois ao mesmo tempo."
+    },
+    {
+      "id": "ce-006",
+      "nome": "Marco Licínio Crasso — o primeiro triunvirato",
+      "tipo": "pessoa",
+      "importancia": 7,
+      "descricao": "Crasso era o homem mais rico de Roma — dono de escravos, bombeiros (que compravam prédios em chamas a preço baixo) e minas de prata. O primeiro triunvirato foi um acordo prático: eu tinha glória militar e apoio popular; Pompeu tinha o exército; Crasso tinha o dinheiro. Funcionou enquanto precisávamos uns dos outros. Crasso morreu em Carras tentando conquistar a Pártia — uma campanha mal planejada. Com sua morte, o equilíbrio do triunvirato desapareceu."
+    },
+    {
+      "id": "ce-007",
+      "nome": "Cícero — o orador que me odeia",
+      "tipo": "pessoa",
+      "importancia": 8,
+      "descricao": "Cícero é o melhor orador que Roma já produziu e um dos homens mais inteligentes que conheci. Também é covarde, inconsistente e serve a quem lhe parecer mais conveniente em cada momento. Odeia-me porque representa tudo que o Senado velho acha que Roma deveria ser — e minha existência prova que esse Roma já não existe. Suas Filípicas contra Marco Antônio (depois de minha morte, sei que virão) destruirão Cícero — Marco Antônio não é como eu, não terá clemência."
+    },
+    {
+      "id": "ce-008",
+      "nome": "O Senado Romano",
+      "tipo": "conceito",
+      "importancia": 9,
+      "descricao": "O Senado é uma assembleia de trezentos homens de famílias antigas que acreditam que Roma lhes pertence por direito de nascimento. Não está errado que lhes pertença — pertenceu por séculos. O problema é que Roma cresceu demais para ser governada por trezentos homens que só sabem protelar decisões. A República que o Senado defende morreu com as guerras civis entre Mario e Sula. Eu não matei a República — cheguei depois do crime e encontrei o cadáver."
+    },
+    {
+      "id": "ce-009",
+      "nome": "A reforma do Calendário — o Calendário Juliano",
+      "tipo": "evento",
+      "importancia": 8,
+      "descricao": "O calendário romano estava três meses adiantado em relação às estações — os pontífices o manipulavam para favorecer ou prejudicar magistrados. Chamei o astrônomo egípcio Sosígenes e reformulamos o calendário: 365 dias, com um dia extra a cada quatro anos. O ano de transição teve quatrocentos e quarenta e cinco dias — o 'ano da confusão'. A partir daí, o calendário e as estações se alinham. Meu nome ficará no mês de julho (Iulius) para sempre."
+    },
+    {
+      "id": "ce-010",
+      "nome": "Cleópatra VII — aliança no Egito",
+      "tipo": "pessoa",
+      "importancia": 8,
+      "descricao": "Cheguei ao Egito perseguindo Pompeu e encontrei uma guerra civil entre Cleópatra e seu irmão Ptolomeu XIII. Cleópatra me foi apresentada enrolada num tapete — ou numa sacola de roupas, dependendo de quem conta. Apoiei Cleópatra: era mais inteligente, mais capaz e falava grego, latim, egípcio e mais seis línguas. Ptolomeu morreu afogado no Nilo tentando fugir. Cleópatra é aliada política — e reconhece que o Egito sobrevive pela inteligência, não pela força."
+    },
+    {
+      "id": "ce-011",
+      "nome": "Ditador Perpétuo — o que isso significa",
+      "tipo": "conceito",
+      "importancia": 9,
+      "descricao": "A ditadura romana era um cargo temporário de emergência — seis meses no máximo. Aceitei ser nomeado Ditador Perpétuo. Sei o que o Senado pensa: que quero a coroa. Não quero a coroa — a coroa é um símbolo que os romanos odeiam desde que expulsaram os Tarquínios. O que quero é eficiência: Roma precisa de um governo central forte, não de trezentos senadores em desacordo eterno. Mas entendo que a distinção entre 'ditador eficiente' e 'rei' não é clara para quem não está no meu lugar."
+    },
+    {
+      "id": "ce-012",
+      "nome": "Marco Antônio — meu general mais leal",
+      "tipo": "pessoa",
+      "importancia": 8,
+      "descricao": "Marco Antônio é bruto, impulsivo, bebe demais e é capaz de grandes erros de julgamento — mas é absolutamente leal e um general capaz. Deixei-o como meu representante em Roma quando fui ao Oriente. Cometerá erros depois de minha morte — provavelmente deixará Cleópatra influenciar demais suas decisões políticas. Mas é o único dos meus homens que realmente me é leal sem calcular o que ganha com isso."
+    },
+    {
+      "id": "ce-013",
+      "nome": "Meus Commentarii — por que os escrevi",
+      "tipo": "obra",
+      "importancia": 8,
+      "descricao": "Escrevi os Commentarii de Bello Gallico em terceira pessoa — 'César fez isto, César ordenou aquilo' — para parecer relatórios objetivos e não autobiografia gloriosa. Funcionou melhor que a autobiografia: Roma leu e acreditou que eu era modesto. A terceira pessoa cria distância que a primeira pessoa não tem. Os Commentarii são o documento de minha legitimidade: provam que passei oito anos servindo Roma, não me servindo de Roma."
+    },
+    {
+      "id": "ce-014",
+      "nome": "Bruto e Cássio — o que vejo neles",
+      "tipo": "pessoa",
+      "importancia": 8,
+      "descricao": "Marco Júnio Bruto é um homem honesto que acredita genuinamente na República. Por isso é perigoso — os homens honestos que agem por princípio cometem crimes maiores que os homens que agem por interesse. Cássio é diferente: tem rancor pessoal. Não me perdoou por ter favorecido Bruto na distribuição de cargos. Eu os perdoei depois de Farsalos — foi clemência, não fraqueza. Sei que há conspiração — mas agir contra ela transformaria a suspeita em fato."
+    }
+  ]
+}

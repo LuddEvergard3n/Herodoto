@@ -105,6 +105,14 @@
       width:0%;transition:width .3s ease;border-radius:3px;}
     .loading-pct{font-size:.82rem;color:var(--td);}
     .loading-txt{font-size:.76rem;color:var(--td);font-style:italic;max-width:380px;text-align:center;}
+    .loading-tier{font-size:.76rem;color:var(--td);max-width:380px;text-align:center;
+      padding:.35rem .6rem;background:rgba(176,152,112,.12);border:1px solid var(--bo);
+      border-radius:3px;margin-top:.25rem;}
+    .loading-tier strong{color:var(--tp);}
+    .tier-override{font-size:.74rem;color:var(--td);max-width:380px;text-align:center;margin-top:.1rem;}
+    .tier-override button{background:none;border:none;color:var(--la);cursor:pointer;
+      font-size:.74rem;font-family:inherit;text-decoration:underline;padding:0;}
+    .tier-override button:hover{color:var(--oc);}
 
     /* Tela de selecção */
     .select-area{display:none;flex-direction:column;align-items:center;justify-content:center;
@@ -225,12 +233,21 @@
     <!-- Carregamento do modelo -->
     <div class="loading-area" id="loading-area">
       <div class="loading-titulo" id="loading-persona-nome">Carregando…</div>
-      <div class="loading-sub">O modelo de linguagem (<strong>Llama 3.1 8B</strong>) está sendo baixado e carregado na sua GPU. Isso pode levar alguns minutos na primeira vez. Após isso, funciona completamente offline.</div>
+      <div class="loading-sub">O modelo de linguagem está sendo baixado e carregado na sua GPU. Isso pode levar alguns minutos na primeira vez. Após atingir 100%, o modelo compila shaders WebGPU — isso é normal e pode levar mais 1–2 minutos. Após isso, funciona completamente offline.</div>
       <div class="loading-prog-wrap">
         <div class="loading-prog-fill" id="loading-prog-fill"></div>
       </div>
       <div class="loading-pct" id="loading-pct">0%</div>
-      <div class="loading-txt" id="loading-txt">Inicializando…</div>
+      <div class="loading-txt" id="loading-txt">Detectando hardware…</div>
+      <div class="loading-tier" id="loading-tier" style="display:none">
+        Modelo selecionado: <strong id="loading-tier-nome">—</strong>
+        <span id="loading-tier-vram" style="opacity:.7"></span>
+      </div>
+      <div class="tier-override" id="tier-override" style="display:none">
+        GPU fraca ou forte demais?
+        <button id="btn-tier-baixo">Usar modelo leve</button> ·
+        <button id="btn-tier-alto">Usar modelo completo</button>
+      </div>
     </div>
 
     <!-- Selecção de persona -->
@@ -275,6 +292,12 @@ const $loadingNome   = document.getElementById('loading-persona-nome');
 const $loadingFill   = document.getElementById('loading-prog-fill');
 const $loadingPct    = document.getElementById('loading-pct');
 const $loadingTxt    = document.getElementById('loading-txt');
+const $loadingTier   = document.getElementById('loading-tier');
+const $loadingTierNome = document.getElementById('loading-tier-nome');
+const $loadingTierVram = document.getElementById('loading-tier-vram');
+const $tierOverride  = document.getElementById('tier-override');
+const $btnTierBaixo  = document.getElementById('btn-tier-baixo');
+const $btnTierAlto   = document.getElementById('btn-tier-alto');
 const $selectArea    = document.getElementById('select-area');
 const $mensagens     = document.getElementById('mensagens');
 const $inputArea     = document.getElementById('chat-input-area');
@@ -285,6 +308,14 @@ const $btnEnviar     = document.getElementById('btn-enviar');
 if (!navigator.gpu) {
   $webgpuAviso.classList.add('visivel');
   $selectArea.classList.remove('visivel');
+}
+
+// ── Helper: exibir tier detectado na UI ──
+function _mostrarTier(tier) {
+  if (!tier) return;
+  $loadingTierNome.textContent = tier.descricao || tier.modelId;
+  $loadingTierVram.textContent = tier.vramEstimada ? ` (${tier.vramEstimada})` : '';
+  $loadingTier.style.display = 'block';
 }
 
 // ── Render personas ──
@@ -328,11 +359,25 @@ async function seleccionarPersona(id) {
 
   // Carregar modelo se necessário
   if (!modeloPronto()) {
+    // Detectar tier antes do download para mostrar ao usuário
+    $loadingTxt.textContent = 'Detectando hardware…';
+    const tierDetectado = await _detectarTierGPU();
+    _mostrarTier(tierDetectado);
+
+    // Botões de override — permitem forçar um tier diferente
+    let tierForcado = null;
+    $btnTierBaixo.onclick = () => { tierForcado = 'baixo'; _mostrarTier({ tier:'baixo', modelId:'Llama-3.2-3B-Instruct-q4f16_1-MLC', vramEstimada:'~2.0 GB', descricao:'Llama 3.2 3B (GPUs com pouca VRAM)' }); };
+    $btnTierAlto.onclick  = () => { tierForcado = 'alto';  _mostrarTier({ tier:'alto',  modelId:'Llama-3.1-8B-Instruct-q4f32_1-MLC', vramEstimada:'~6.0 GB', descricao:'Llama 3.1 8B (qualidade máxima)' }); };
+    $tierOverride.style.display = 'block';
+
     const res = await carregarModelo((pct, txt) => {
       $loadingFill.style.width = pct + '%';
       $loadingPct.textContent  = pct + '%';
       $loadingTxt.textContent  = txt || '';
-    });
+    }, tierForcado);
+
+    $tierOverride.style.display = 'none';
+
     if (!res.ok) {
       $loadingArea.classList.remove('visivel');
       $selectArea.classList.add('visivel');
