@@ -1,316 +1,139 @@
-# Heródoto
-### Linha do Tempo Interativa e Grafo de Conhecimento Histórico
+# Herodoto
 
-> *«Heródoto de Halicarnasso apresenta aqui os resultados de sua pesquisa, para que o tempo não apague os feitos dos homens.»* — Heródoto, Histórias, c. 440 a.C.
+Interactive history learning platform with a knowledge graph, chronological navigation, and contextual connections across events and periods.
 
----
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![D3.js](https://img.shields.io/badge/D3.js-v7-F9A03C?logo=d3dotjs&logoColor=white)](https://d3js.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![PWA](https://img.shields.io/badge/PWA-Offline-5A0FC8?logo=pwa&logoColor=white)](https://web.dev/explore/progressive-web-apps)
+[![Tests](https://img.shields.io/badge/Tests-112%20passing-2EA44F)](#tests)
 
-## O que é
+> "Herodotus of Halicarnassus presents here the results of his inquiry, so that time may not erase the deeds of humankind." — *Histories*, c. 440 BCE
 
-**Heródoto** é uma ferramenta pedagógica para professores e estudantes de história que combina dois modos principais de visualização:
+## Overview
 
-- **Grafo de conhecimento** — eventos e personalidades históricas como nós interconectados por relações causais, temáticas e cronológicas, renderizado com D3.js force-directed layout
-- **Linha do tempo interativa** — eixo SVG com zoom/pan, filtragem multidimensional, agrupamento visual e navegação por região geográfica
+Herodoto is a browser-based teaching tool for history students and educators. It combines two primary views:
 
-O projeto cobre a história mundial desde os primeiros hominídeos (~3,3 milhões a.C.) até o presente, com ênfase especial no Brasil e na Europa.
+- **Knowledge graph:** historical events and people rendered as connected nodes through causal, thematic, and chronological relationships.
+- **Interactive timeline:** an SVG timeline with zoom, pan, multidimensional filters, regional grouping, and contextual navigation.
 
----
+The dataset spans human history from the earliest hominins to the present, with deeper coverage of Brazil and Europe.
 
-## Estado Atual (v7.56)
+## Current dataset
 
-| Métrica | Valor |
-|---|---|
-| Datasets (arquivos JSON) | **324** |
-| Entidades históricas | **2.550** |
-| Perguntas Geradoras | **307** em **66 grupos** |
-| Idiomas | PT / EN / ES |
-| Arquivos de fontes | **38 temas** |
-| Fontes bibliográficas | **≈ 500** (primárias, secundárias, terciárias) |
-| Testes automatizados | **112 / 112 ✓** |
+| Metric | Value |
+|---|---:|
+| JSON datasets | 324 |
+| Historical entities | 2,550 |
+| Guiding questions | 307 across 66 groups |
+| Languages | Portuguese, English, Spanish |
+| Bibliography topics | 38 |
+| Bibliographic references | Approximately 500 |
+| Automated tests | 112 passing |
 
----
+## Highlights
 
-## Funcionalidades
+- Timeline zoom, horizontal pan, regional navigation, and collapsible rows.
+- Filters for historical era, event type, region, and free-text search.
+- D3 force-directed graph with dataset-aware clustering.
+- Global search across names, descriptions, historiographic importance, and tags.
+- Side-by-side event comparison and two-level causal or consequence chains.
+- Guided narratives and 307 question-driven dataset selections.
+- 236 historical figures across 18 regional and thematic collections.
+- Topic-organized bibliography, teacher guide, help pages, and offline PWA support.
+- Responsive layouts for desktop, tablet, and mobile landscape.
 
-### Linha do Tempo
-- Eixo histórico com escala ajustada para pré-história e história
-- Zoom (`Ctrl+scroll`), pan horizontal (scroll horizontal ou arrasto), navegação vertical entre regiões (scroll)
-- Rows colapsíveis por região: Europa, Oriente Médio, Ásia Oriental, Américas, África, etc.
-- Filtro semântico por era (5 períodos), tipo de evento (11 categorias) e região
-- Busca em tempo real com contagem de resultados
-- Painel lateral de detalhes ao clicar num evento
-- Botão ⊟/⊞ para colapsar/expandir todas as regiões
-- Botão `✕ limpar` para resetar todos os filtros
+## Content coverage
 
-### Grafo de Conhecimento
-- Motor de física com clustering inteligente por dataset
-- Forças de coesão intra-dataset e repulsão inter-dataset
-- Opacidade das arestas variável por intensidade histórica da relação
-- Legenda interativa de tipos (clique para filtrar por categoria)
-- Painel de contexto com descrição, importância historiográfica e tags
+Brazil is organized into 16 chronological periods, from Indigenous peoples before 1500 through the New Republic. Cross-period themes include slavery, quilombos, Indigenous history, Jesuit missions, independence, economic cycles, culture, and redemocratization.
 
-### Módulos Analíticos
-- **Busca global** — pesquisa em nome, descrição, importância e tags de todas as entidades carregadas
-- **Comparação** — modo lado-a-lado de dois eventos históricos
-- **Cadeia causal** — percorre relações de causalidade/evolução em 2 níveis a partir de qualquer nó
-- **Cadeia de consequências** — encadeamento prospectivo a partir de um evento
-- **Perguntas Geradoras** — 307 questões históricas em 66 grupos que selecionam e renderizam datasets automaticamente
-- **Modo Guiado** — narrativa estruturada com foco num nó, altura dinâmica e abertura automática de painéis
+European coverage includes Greece, Rome, the Middle Ages, the Reformation, the Enlightenment, industrialization, the world wars, the Cold War, European integration, contemporary Europe, and Imperial Russia.
 
-### Personalidades
-- 236 figuras históricas em 18 coleções temáticas/regionais
-- Painel dedicado com nascimento, morte, área, cargo e ligações a eventos
-- Filtro por época, região e área de atuação
+World coverage includes the Middle East, Egypt, Islam, India, China, Japan, Korea, Southeast Asia, Africa, Mesoamerica, the Andes, the United States, Latin America, Oceania, and Antarctica.
 
-### Interface
-- Trilíngue: Português / English / Español (troca instantânea)
-- **Página de Fontes** — bibliografia por tema (38 temas, ≈500 obras) com filtro por tipo e busca por autor/obra
-- **Guia do Professor** — filosofia pedagógica, 6 atividades prontas organizadas por nível de ensino, critérios de classificação histórica e limitações da ferramenta
-- **Sobre** — apresentação do projeto, métricas e filosofia
-- **Ajuda** — guia de navegação, atalhos, FAQ e instruções de uso offline
-- Acesso pelas páginas: `fontes.html`, `guia-professor.html`, `sobre.html`, `ajuda.html`
-- PWA: instalável em Android e iOS, funciona offline
-- Responsivo: desktop, tablet e mobile landscape
-- Paleta de pigmentos históricos: lápis-lazúli, cinábrio, ocre, malaquita, púrpura imperial
+## Run locally
 
----
+Open `index.html` in a modern browser. No build step or application server is required.
 
-## Conteúdo
-
-### Brasil — 16 Períodos Cronológicos + Temáticos
-
-| # | Período | Cobertura |
-|---|---|---|
-| 01 | Povos Originários (até 1500) | Paleoíndios, sambaquis, Marajoara, Tupi-Guarani |
-| 02 | Pré-Colonial (1500–1530) | Cabral, pau-brasil, feitorias, ameaça francesa |
-| 03 | Capitanias (1530–1549) | Martim Afonso, engenhos, escravidão indígena |
-| 04 | Governo-Geral (1549–1580) | Nóbrega, Anchieta, Tamoios, fundação do Rio |
-| 05 | União Ibérica e Invasões (1580–1640) | Brasil holandês, Nassau, WIC, tráfico negreiro |
-| 06 | Expansão e Bandeirismo (1640–1700) | Palmares, bandeirantes, missões do Guairá |
-| 07 | Ciclo do Ouro (1700–1808) | Vila Rica, barroco mineiro, Inconfidência, Pombal |
-| 08 | Período Joanino (1808–1821) | Fuga da corte, abertura dos portos, Missão Francesa |
-| 09 | Independência (1821–1831) | 7 de setembro, Constituição de 1824, Confederação do Equador |
-| 10 | Regencial (1831–1840) | Cabanagem, Balaiada, Farroupilha, Revolta dos Malês |
-| 11 | Segundo Reinado (1840–1889) | D. Pedro II, Guerra do Paraguai, abolição, imigração |
-| 12 | República Velha (1889–1930) | Café-com-leite, Canudos, greve de 1917, tenentismo |
-| 13 | Era Vargas (1930–1945) | Revolução de 1930, Estado Novo, CLT, industrialização |
-| 14 | Populismo (1946–1964) | JK/Brasília, bossa nova, Goulart, reformas de base |
-| 15 | Ditadura Militar (1964–1985) | AI-5, milagre econômico, Araguaia, abertura |
-| 16 | Nova República (1985–presente) | Collor, Plano Real, Lula, Dilma, Bolsonaro |
-
-**Temáticos transversais:** quilombos, povos indígenas, escravidão colonial, missões jesuíticas, guerra do Paraguai, inconfidência, independência, ciclos econômicos, cultura-arte, economia-social, redemocratização
-
-### Europa — Cobertura Expandida (v7.56)
-
-| Período | Datasets |
-|---|---|
-| **Grécia** | Helenismo, reinos sucessores, Alexandria, ciência, estoicismo/epicurismo |
-| **Roma** | Imperadores (Augusto → Antoninos), Crise do III Século, Queda do Ocidente, Direito Romano |
-| **Medieval** | Vikings, Carlomagno/Carolíngios, Peste Negra, Guerra dos Cem Anos, Humanismo |
-| **Reforma** | Calvino/Zuínglio, Contrarreforma (Trento/Jesuítas), Guerras de Religião (1524–1648) |
-| **Era Moderna** | Habsburgos, Luís XIV/Ancien Régime, Revolução Inglesa, Holanda Século de Ouro, Guerra dos 30 Anos/Vestfália, Rivalidade Áustria-Prússia |
-| **Iluminismo** | Francês (Voltaire/Rousseau/Montesquieu), Britânico (Locke/Hume/Smith), Alemão (Kant/Goethe/Schiller) |
-| **Século XIX** | Napoleão, Congresso de Viena, Revoluções de 1848, Unificações italiana e alemã, Belle Époque, Impérios britânico e francês, Industrialização |
-| **Guerras Mundiais** | Frente Ocidental 1914–18, Versalhes, República de Weimar, Nazismo, Fascismo italiano, Guerra Civil Espanhola, Frente Oriental, Holocausto |
-| **Pós-Guerra** | Plano Marshall, Wirtschaftswunder, Nuremberg, União Europeia (CECA → Next Gen), Guerra Fria na Europa, 1968 |
-| **Contemporâneo** | Desintegração da URSS/1989, Guerras dos Bálcãs, Europa contemporânea (Brexit, populismo) |
-| **Rússia** | Império Russo (Pedro I → Nicolau II) |
-
-### Cobertura Mundial
-
-| Região | Destaques |
-|---|---|
-| **Pré-história** | Evolução humana (~3,3Ma), Paleolítico, Neolítico, pré-história europeia e americana |
-| **Oriente Médio** | Suméria, Mesopotâmia, Babilônia, Pérsia, Fenícios, Cartago, Hitititas, Bronze Egeu |
-| **Egito** | Antigo, Médio e Novo Reino, período Tardio, Greco-Romano |
-| **Grécia** | Arcaica, Atenas, Esparta, guerras, filosofia, cultura, Alexandre, Helenismo |
-| **Roma** | República, Imperial, exército, sociedade, cultura, queda, Direito Romano |
-| **Islã** | Fundação e Califas, expansão, fragmentação, Al-Andalus |
-| **Idade Média** | Feudalismo, Cruzadas, Carolíngios, castelos, cidades e universidades |
-| **Índia** | Védica/Maurya, Mogol, medieval-moderna, britânica |
-| **China** | Neolítico, Shang-Zhou, Song, Ming, Qing, Revolução, Mao |
-| **Japão** | Arcaico/Jomon, antigo, feudal/Sengoku, Meiji, moderno |
-| **Coreia** | Antiga, Joseon, moderna |
-| **Sudeste Asiático** | Continental e marítimo |
-| **África** | Norte, oriental, ocidental, centro-sul, reinos africanos, descolonização |
-| **Mesoamérica** | Olmecas, Teotihuacan, Maias, Astecas, Zapotecas, Toltecas |
-| **Andes** | Caral, Wari, Chimú, culturas andinas, Incas |
-| **EUA** | Colônias, fundação, expansão, guerra civil, sécs. XIX–XX, Guerra Fria |
-| **América Latina** | Independências, séc. XX, descolonização |
-| **Antártida** | Descoberta e exploração moderna |
-
----
-
-## Estrutura de Arquivos
-
-```
-herodoto/
-├── index.html                        # Entrada principal
-├── fontes.html                       # Bibliografia histórica (38 temas, ≈500 obras)
-├── guia-professor.html               # Guia pedagógico com 6 atividades
-├── sobre.html                        # Apresentação do projeto
-├── ajuda.html                        # Guia de navegação e FAQ
-├── manifest.json                     # PWA manifest
-├── sw.js                             # Service Worker (offline)
-├── CHANGELOG.md                      # Histórico de versões
-├── css/
-│   ├── base.css                      # Layout, variáveis de cor, tipografia
-│   └── components.css                # Componentes: toolbar, painéis, timeline
-├── js/
-│   ├── main.js                       # Inicialização e orquestração
-│   ├── graph.js                      # Motor D3.js force-directed
-│   ├── timeline.js                   # Linha do tempo SVG + ALL_DATASETS (324 entradas)
-│   ├── data.js                       # Carregamento e normalização de dados
-│   ├── filtros.js                    # Lógica de filtros semânticos
-│   ├── search.js                     # Busca textual global
-│   ├── compare.js                    # Modo comparação de eventos
-│   ├── questions.js                  # 307 perguntas em 66 grupos
-│   ├── causal-chain.js               # Cadeia de causas
-│   ├── consequence-chain.js          # Cadeia de consequências
-│   ├── context-panel.js              # Painel lateral de contexto
-│   ├── context.js                    # Contexto global da aplicação
-│   ├── legend-filter.js              # Legenda interativa de tipos
-│   ├── guided-mode.js                # Modo guiado com narrativas
-│   ├── personagens.js                # Módulo de personalidades
-│   ├── geo-layer.js                  # Camada geográfica
-│   ├── dataset-labels.js             # 324 rótulos trilingues
-│   ├── i18n.js                       # Internacionalização PT/EN/ES
-│   └── utils.js                      # Utilitários
-├── data/
-│   ├── dados-brasil-01-povos-originarios.json
-│   ├── ...                           # 324 arquivos JSON no total (≥8 entidades cada)
-│   └── dados-personagens-*.json      # 18 coleções de personalidades
-├── fontes/
-│   ├── fontes-pre-historia.json
-│   ├── fontes-mesopotamia-oriente-antigo.json
-│   ├── ...                           # 38 arquivos JSON de bibliografia
-│   └── fontes-historiografia.json    # Teoria e metodologia histórica
-└── tests/
-    ├── runner.js                     # Runner CLI (node tests/runner.js)
-    ├── assert.js                     # Biblioteca de asserções zero-dependência
-    ├── test-data-integrity.js        # Valida todos os 324 JSONs
-    ├── test-dataset-registry.js      # Verifica ALL_DATASETS e labels
-    ├── test-historical-consistency.js # Datas, bias, cobertura regional
-    ├── test-personagens.js           # Valida 18 coleções de personalidades
-    └── test-questions.js             # Valida 248 perguntas geradoras
-```
-
----
-
-## Estrutura de Entidade (JSON)
-
-### Entidade histórica
-```json
-{
-  "id": "br15-001",
-  "nome": "O Golpe de 1964",
-  "nome_en": "The 1964 Coup",
-  "nome_es": "El Golpe de 1964",
-  "inicio": 1964,
-  "fim": 1964,
-  "type": "political",
-  "region": "Americas",
-  "tags": ["golpe", "militares", "Goulart", "1964"],
-  "descricao": "...",
-  "descricao_en": "...",
-  "descricao_es": "...",
-  "importancia": "...",
-  "importancia_en": "...",
-  "importancia_es": "..."
-}
-```
-
-### Personalidade
-```json
-{
-  "id": "pg-001",
-  "nome": "Sócrates",
-  "nascimento": -470,
-  "morte": -399,
-  "regiao": "Europe",
-  "area": ["filosofia"],
-  "cargo": "Filósofo",
-  "descricao": "...",
-  "importancia": "...",
-  "eventos": ["grecia-012", "grecia-003"]
-}
-```
-
-**Tipos válidos:** `political` · `war` · `economic` · `cultural` · `religious` · `social` · `technological` · `intellectual` · `prehistoric` · `natural` · `scientific`
-
-**Regiões válidas:** `Europe` · `MiddleEast` · `Mediterranean` · `EastAsia` · `Asia` · `CentralAsia` · `SouthAsia` · `SoutheastAsia` · `Africa` · `Americas` · `NorthAmerica` · `SouthAmerica` · `Mesoamerica` · `Oceania` · `Antarctica` · `Global` · `Multiple` · `Other`
-
----
-
-## Testes Automatizados
+For consistent local asset and service-worker behavior, a small static server is recommended:
 
 ```bash
-# Rodar tudo
+npx http-server .
+```
+
+Then open the local address printed by the server.
+
+## Project structure
+
+```text
+herodoto/
+|-- index.html                 Main application
+|-- fontes.html               Bibliography browser
+|-- guia-professor.html       Teacher guide and activities
+|-- sobre.html                Project overview
+|-- ajuda.html                Navigation guide and FAQ
+|-- manifest.json             PWA manifest
+|-- sw.js                     Offline service worker
+|-- css/                      Layout and component styles
+|-- js/
+|   |-- graph.js              D3 knowledge graph
+|   |-- timeline.js           SVG timeline and dataset registry
+|   |-- data.js               Data loading and normalization
+|   |-- search.js             Global search
+|   |-- compare.js            Event comparison
+|   |-- causal-chain.js       Cause traversal
+|   |-- consequence-chain.js  Consequence traversal
+|   |-- questions.js          Guiding questions
+|   |-- personagens.js        Historical figures
+|   `-- i18n.js               PT, EN, and ES translations
+|-- data/                     Historical datasets
+|-- fontes/                   Bibliographic datasets
+`-- tests/                    Dependency-free Node.js test suite
+```
+
+## Data model
+
+Historical entities use stable IDs, multilingual names and descriptions, dates, event types, regions, tags, historiographic context, and optional end dates. Supported event types include political, military, economic, cultural, religious, social, technological, intellectual, prehistoric, natural, and scientific events.
+
+## Tests
+
+The test runner has no third-party dependencies.
+
+```bash
 node tests/runner.js
-
-# Filtrar por arquivo
-node tests/runner.js data         # test-data-integrity
-node tests/runner.js personagens  # test-personagens
-node tests/runner.js registry     # test-dataset-registry
-node tests/runner.js questions    # test-questions
-node tests/runner.js historical   # test-historical-consistency
-
-# Listar arquivos disponíveis
+node tests/runner.js data
+node tests/runner.js personagens
+node tests/runner.js registry
+node tests/runner.js questions
+node tests/runner.js historical
 node tests/runner.js --list
 ```
 
-| Arquivo de teste | O que valida |
+The suite validates JSON structure, required fields, chronology, global ID uniqueness, dataset registration, translations, regional coverage, historical figures, and guiding-question references.
+
+## Editorial principles
+
+- **Balance:** controversial events present multiple documented perspectives.
+- **Rigor:** the content distinguishes evidence, scholarly debate, and current consensus.
+- **Historiographic classification:** event categories reflect the primary historical nature of each entity.
+- **Teaching accessibility:** every entity includes a factual description and a statement of historical importance.
+- **Multilingual coverage:** interface and core content support Portuguese, English, and Spanish.
+
+## Related educational projects
+
+| Project | Subject |
 |---|---|
-| `test-data-integrity.js` | JSON válido, campos obrigatórios, inicio ≤ fim, IDs únicos globais, tipos/regiões válidos |
-| `test-dataset-registry.js` | ALL_DATASETS sem duplicados/órfãos, labels PT/EN/ES completos |
-| `test-historical-consistency.js` | Série Brasil cronológica, âncoras de data, auditoria de bias, cobertura regional mínima |
-| `test-personagens.js` | 18 coleções, campos obrigatórios, unicidade de ID e nome, nascimento < morte |
-| `test-questions.js` | 248 questões, IDs únicos, todos datasets existem no disco, multilíngue |
+| [Euclides](https://luddevergard3n.github.io/euclides/) | Mathematics |
+| [Quintiliano](https://luddevergard3n.github.io/quintiliano/) | Portuguese language and literature |
+| [Johnson English](https://luddevergard3n.github.io/johnson-english/) | English language learning |
+| [Lavoisier](https://luddevergard3n.github.io/lavoisier/) | Chemistry |
+| [Humboldt](https://luddevergard3n.github.io/humboldt/) | Geography |
 
----
+## Technology
 
-## Princípios Editoriais
-
-- **Equilíbrio** — eventos controversos apresentam múltiplas perspectivas sem tomar partido
-- **Rigor** — distinção explícita entre evidência histórica, debate acadêmico e consenso corrente
-- **Classificação historiográfica** — tipos de evento refletem a natureza histórica primária (ex: Nazismo → `social`; bomba atômica → `technological`)
-- **Acessibilidade pedagógica** — cada entidade tem descrição factual e análise de importância histórica
-- **Trilingismo** — todo conteúdo disponível em PT, EN e ES
-
----
-
-## Uso em Sala de Aula
-
-1. Abrir `index.html` em qualquer navegador moderno (sem servidor necessário)
-2. Selecionar datasets pelo painel lateral ou usar as **Perguntas Geradoras**
-3. Alternar entre **Grafo** e **Linha do Tempo** conforme o objetivo da aula
-4. Clicar em qualquer evento para ver descrição completa e importância historiográfica
-5. Usar **Comparação** para contrastar dois eventos ou períodos
-6. Usar **Cadeia Causal** para explorar causas e consequências de um evento
-7. Usar o **Modo Guiado** para percorrer uma narrativa estruturada
-
----
-
-## Ecossistema
-
-O Heródoto faz parte de uma série de ferramentas pedagógicas de código aberto, cada uma nomeada em homenagem a um pensador que definiu sua disciplina:
-
-| Ferramenta | Disciplina | Link |
-|---|---|---|
-| **Heródoto** *(você está aqui)* | História — grafo de conhecimento e linha do tempo interativa | [luddevergard3n.github.io/Herodoto](https://luddevergard3n.github.io/Herodoto/) |
-| **Euclides** | Matemática — exercícios, provas e revisão | [luddevergard3n.github.io/euclides](https://luddevergard3n.github.io/euclides/) |
-| **Quintiliano** | Língua Portuguesa e Literatura | [luddevergard3n.github.io/quintiliano](https://luddevergard3n.github.io/quintiliano/) |
-| **Johnson English** | Laboratório de Língua Inglesa | [luddevergard3n.github.io/johnson-english](https://luddevergard3n.github.io/johnson-english/) |
-| **Lavoisier** | Laboratório Visual de Química | [luddevergard3n.github.io/lavoisier](https://luddevergard3n.github.io/lavoisier/) |
-| **Humboldt** | Atlas Interativo de Geografia | [luddevergard3n.github.io/humboldt](https://luddevergard3n.github.io/humboldt/) |
-
----
-
-## Tecnologias
-
-- **D3.js** v7 — grafo e simulação de força
-- **SVG nativo** — linha do tempo
-- JavaScript ES6+ puro, sem frameworks
-- CSS custom properties para tema consistente
-- Service Worker para funcionamento offline (PWA)
-- Node.js (apenas para testes — sem dependências de produção)
+- D3.js v7 for the graph and force simulation.
+- Native SVG for the timeline.
+- Vanilla JavaScript ES6+ with no production framework.
+- CSS custom properties for theming.
+- Service Worker and web app manifest for offline PWA behavior.
+- Node.js only for the dependency-free test runner.
