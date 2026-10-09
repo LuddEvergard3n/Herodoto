@@ -139,7 +139,7 @@
       "period": "IronAge"
     },
     {
-      "id": "rr1",
+      "id": "roma-republica-rr1",
       "nome": "Os Gracos e a Crise da República",
       "nome_en": "The Gracchi and the Crisis of the Republic",
       "nome_es": "Los Graco y la Crisis de la República",
@@ -167,7 +167,7 @@
       "dataset": "data/dados-roma-republica.json"
     },
     {
-      "id": "rr2",
+      "id": "roma-republica-rr2",
       "nome": "César: Da Gália ao Rubicão",
       "nome_en": "Caesar: From Gaul to the Rubicon",
       "nome_es": "César: De la Galia al Rubicón",
@@ -195,7 +195,7 @@
       "dataset": "data/dados-roma-republica.json"
     },
     {
-      "id": "rr3",
+      "id": "roma-republica-rr3",
       "nome": "Cipião, Aníbal e as Guerras Púnicas",
       "nome_en": "Scipio, Hannibal and the Punic Wars",
       "nome_es": "Escipión, Aníbal y las Guerras Púnicas",

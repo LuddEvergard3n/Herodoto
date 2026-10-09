@@ -157,7 +157,7 @@
       "dataset": "data/dados-roma-cultura.json"
     },
     {
-      "id": "rc1",
+      "id": "roma-cultura-rc1",
       "nome": "Virgílio e a Literatura Romana",
       "nome_en": "Virgil and Roman Literature",
       "nome_es": "Virgilio y la Literatura Romana",
@@ -185,7 +185,7 @@
       "dataset": "data/dados-roma-cultura.json"
     },
     {
-      "id": "rc2",
+      "id": "roma-cultura-rc2",
       "nome": "Cícero e a Oratória Romana",
       "nome_en": "Cicero and Roman Oratory",
       "nome_es": "Cicerón y la Oratoria Romana",
@@ -213,7 +213,7 @@
       "dataset": "data/dados-roma-cultura.json"
     },
     {
-      "id": "rc3",
+      "id": "roma-cultura-rc3",
       "nome": "O Panteão e a Arquitetura Imperial",
       "nome_en": "The Pantheon and Imperial Architecture",
       "nome_es": "El Panteón y la Arquitectura Imperial",

@@ -157,7 +157,7 @@
       "importancia_es": "Pogromos antisemitas: millones de judíos emigraron a EE.UU. Guerra Ruso-Japonesa (1905): derrota humillante."
     },
     {
-      "id": "rc1x",
+      "id": "russia-czarismo-rc1x",
       "nome": "Ivan, o Terrível: O Primeiro Czar",
       "nome_en": "Ivan the Terrible: The First Tsar",
       "nome_es": "Iván el Terrible: El Primer Zar",
@@ -185,7 +185,7 @@
       "dataset": "data/dados-russia-czarismo.json"
     },
     {
-      "id": "rc2x",
+      "id": "russia-czarismo-rc2x",
       "nome": "Rasputin e o Declínio Romano",
       "nome_en": "Rasputin and the Roman Decline",
       "nome_es": "Rasputín y el Declive Romano",

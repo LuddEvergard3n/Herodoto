@@ -4,7 +4,7 @@
  * Permite uso offline completo após primeira visita.
  */
 
-const CACHE_VERSION = 'herodoto-v7-58';
+const CACHE_VERSION = 'herodoto-v7-59';
 const CACHE_STATIC  = `${CACHE_VERSION}-static`;
 const CACHE_DATA    = `${CACHE_VERSION}-data`;
 

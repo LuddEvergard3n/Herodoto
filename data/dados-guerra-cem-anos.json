@@ -12,7 +12,8 @@
       "descricao": "Eduardo III reivindicou o trono francês como neto de Filipe IV. Guerra intermitente por 116 anos. Batalhas de Crécy (1346) e Poitiers (1356): o arco longo galês desmontou a cavalaria francesa — tecnologia decisiva. Agincourt (1415): Henrique V com 6.000 homens destruiu 30.000 franceses. O Tratado de Brétigny (1360) cedeu um terço da França à Inglaterra.",
       "importancia": "A Guerra dos Cem Anos construiu o sentimento nacional francês e inglês. As derrotas humilhantes da cavalaria francesa pela infantaria e arqueiros ingleses foram o fim do ideal da cavalaria como força militar decisiva — e o início do exército profissional moderno.",
       "nome_en": "Origins and Early English Victories (1337–1360)",
-      "nome_es": "Orígenes y Primeras Victorias Inglesas (1337–1360)"
+      "nome_es": "Orígenes y Primeras Victorias Inglesas (1337–1360)",
+      "type": "war"
     },
     {
       "id": "gca-002",
@@ -25,7 +26,8 @@
       "descricao": "Em 1429, a França estava em colapso: os ingleses ocupavam Paris e avançavam no Loire. Uma camponesa de 17 anos de Domrémy convenceu o Delfim Carlos a deixá-la liderar o exército. Joana libertou Orléans em 9 dias (maio 1429), conduziu Carlos VII à coroação em Reims. Capturada pelos Borgonheses, vendida aos ingleses, queimada em Ruão (maio 1431) por heresia.",
       "importancia": "Joana D'Arc é o caso histórico mais perturbador de gênio militar emergindo de origem impossível. Sua reabilitação (1456) e canonização (1920) transformaram-na em símbolo nacional francês — invocada por todas as facções políticas, da esquerda republicana à direita fascista.",
       "nome_en": "Joan of Arc and the French Turnaround (1429–1431)",
-      "nome_es": "Juana de Arco y el Giro Francés (1429–1431)"
+      "nome_es": "Juana de Arco y el Giro Francés (1429–1431)",
+      "type": "war"
     },
     {
       "id": "gca-003",
@@ -38,7 +40,8 @@
       "descricao": "A monarquia francesa reformou seu exército: artilharia como arma decisiva (irmãos Bureau). Batalha de Castillon (1453): primeira batalha europeia decidida pela artilharia — fim do domínio da cavalaria. Os ingleses foram expulsos da França exceto Calais (retida até 1558). O mesmo ano: queda de Constantinopla para os Turcos Otomanos.",
       "importancia": "O fim da Guerra dos Cem Anos consolidou a monarquia nacional francesa centralizada e marcou o início do fim do feudalismo militar. A artilharia que venceu Castillon tornou os castelos medievais obsoletos em uma geração — mudança tecnológica que reconfigurou o poder europeu.",
       "nome_en": "The End of the War and the Expulsion of the English (1450–1453)",
-      "nome_es": "El Fin de la Guerra y la Expulsión de los Ingleses (1450–1453)"
+      "nome_es": "El Fin de la Guerra y la Expulsión de los Ingleses (1450–1453)",
+      "type": "war"
     },
     {
       "id": "gca-004",
@@ -51,7 +54,8 @@
       "descricao": "O Ducado da Borgonha, aliado dos ingleses, tornou-se o maior poder do século XV: Carlos, o Temerário, rivaliza com Luís XI de França. A Guerra dos Cem Anos criou identidades nacionais distintas: os ingleses perderam seus territórios continentais mas ganharam uma identidade insular. A França emergiu com uma monarquia mais forte e um território coeso.",
       "importancia": "A Guerra dos Cem Anos é, juntamente com a Peste Negra, o evento que mais claramente separa a Alta Idade Média (1000-1300) da Baixa Idade Média e Renascimento. Quando termina em 1453, a imprensa de Gutenberg está para ser inventada — e o mundo medieval está prestes a acabar.",
       "nome_en": "Consequences: Burgundy, National Formation and the End of the Middle Ages",
-      "nome_es": "Consecuencias: Borgoña, Formación Nacional y el Fin Medieval"
+      "nome_es": "Consecuencias: Borgoña, Formación Nacional y el Fin Medieval",
+      "type": "political"
     },
     {
       "id": "gca1",
@@ -61,10 +65,10 @@
       "tipo": "pessoa",
       "inicio": 1412,
       "fim": 1431,
-      "region": "war",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 15,
-      "type": "Medieval",
+      "type": "war",
       "descricao": "Joana d'Arc (1412-1431), filha de camponeses de Domrémy, disse ouvir vozes de São Miguel, Santa Catarina e Santa Margarida. Com 17 anos, convenceu o Delfim Carlos a deixá-la liderar o exército. Levantou o cerco de Orléans (maio 1429), o primeiro exemplo de alguém liderando sem posição nobiliárquica. Carlos VII foi coroado em Reims (julho 1429) graças a ela. Capturada pelos Burgúndios em 1430, vendida aos ingleses, queimada como herege em Ruão (30 maio 1431).",
       "descricao_en": "Joan of Arc (1412–1431), daughter of peasants from Domrémy, said she heard the voices of Saints Michael, Catherine and Margaret. At 17, she convinced the Dauphin Charles to let her lead the army. She lifted the siege of Orléans (May 1429) — the first example of someone leading without noble rank. Charles VII was crowned at Reims (July 1429) thanks to her. Captured by the Burgundians in 1430, sold to the English, burned as a heretic at Rouen (May 30, 1431).",
       "descricao_es": "Juana de Arco (1412–1431), hija de campesinos de Domrémy, dijo oír las voces de San Miguel, Santa Catalina y Santa Margarita. A los 17 años, convenció al Delfín Carlos para que la dejara liderar el ejército. Levantó el asedio de Orléans (mayo de 1429). Carlos VII fue coronado en Reims (julio de 1429) gracias a ella. Capturada por los Borgoñones en 1430, vendida a los ingleses, quemada como hereje en Ruán (30 de mayo de 1431).",
@@ -89,10 +93,10 @@
       "tipo": "evento",
       "inicio": 1314,
       "fim": 1337,
-      "region": "political",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 14,
-      "type": "Medieval",
+      "type": "political",
       "descricao": "Os três filhos de Filipe IV da França morreram sem herdeiros masculinos diretos em 10 anos (1314-1328). Eduardo III da Inglaterra, neto de Filipe IV pela linha feminina, reivindicou o trono francês. A Lei Sálica (aplicada agora à sucessão) excluía a linha feminina. Filipe VI, primo de Filipe IV, foi coroado - e Eduardo III declarou guerra em 1337. A guerra começou por uma crise de sucessão, não por conquista.",
       "descricao_en": "The three sons of Philip IV of France died without direct male heirs within 10 years (1314–1328). Edward III of England, Philip IV's grandson through the female line, claimed the French throne. The Salic Law (applied now to succession) excluded the female line. Philip VI, Philip IV's cousin, was crowned — and Edward III declared war in 1337. The war began over a succession crisis, not direct conquest.",
       "descricao_es": "Los tres hijos de Felipe IV de Francia murieron sin herederos masculinos directos en 10 años (1314–1328). Eduardo III de Inglaterra, nieto de Felipe IV por línea femenina, reclamó el trono francés. La Ley Sálica (aplicada ahora a la sucesión) excluía la línea femenina. Felipe VI, primo de Felipe IV, fue coronado — y Eduardo III declaró guerra en 1337.",
@@ -117,10 +121,10 @@
       "tipo": "evento",
       "inicio": 1415,
       "fim": 1415,
-      "region": "war",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 15,
-      "type": "Medieval",
+      "type": "war",
       "descricao": "A Batalha de Azincourt (25 outubro 1415, Dia de São Crispim) foi a maior vitória inglesa da guerra: Henrique V com 8.000 homens (principalmente arqueiros de longbow) derrotou um exército francês de 30.000-40.000 cavaleiros. O lodo impossibilitou a carga da cavalaria pesada. 6.000 franceses mortos, 100-200 ingleses. Henrique V tornou-se herói national e Shakespeare o imortalizou em \"Henrique V\" (1599).",
       "descricao_en": "The Battle of Agincourt (October 25, 1415, St. Crispin's Day) was the greatest English victory of the war: Henry V with 8,000 men (mainly longbow archers) defeated a French army of 30,000–40,000 knights. Mud made the charge of the heavy cavalry impossible. 6,000 French dead, 100–200 English. Henry V became a national hero and Shakespeare immortalized him in \"Henry V\" (1599).",
       "descricao_es": "La Batalla de Azincourt (25 de octubre de 1415, Día de San Crispín) fue la mayor victoria inglesa de la guerra: Enrique V con 8.000 hombres (principalmente arqueros de arco largo) derrotó a un ejército francés de 30.000–40.000 caballeros. El barro hizo imposible la carga de la caballería pesada. 6.000 franceses muertos, 100–200 ingleses. Shakespeare lo inmortalizó en \"Enrique V\" (1599).",
@@ -145,10 +149,10 @@
       "tipo": "evento",
       "inicio": 1450,
       "fim": 1453,
-      "region": "political",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 15,
-      "type": "Medieval",
+      "type": "political",
       "descricao": "A virada francesa começou após a morte de Joana d'Arc: o exército francês reorganizado com artilharia moderna (os irmãos Bureau) reconquistou a Normandia (1450) e Guyenne (1453). A Batalha de Castillon (17 julho 1453) - onde a artilharia francesa destruiu o exército inglês - foi a última. A Inglaterra só manteve Calais (até 1558). A guerra criou o Estado francês centralizado e o senso de identidade nacional francês.",
       "descricao_en": "The French turnaround began after Joan of Arc's death: the reorganized French army with modern artillery (the Bureau brothers) reconquered Normandy (1450) and Guyenne (1453). The Battle of Castillon (July 17, 1453) — where French artillery destroyed the English army — was the last. England kept only Calais (until 1558). The war created the centralized French state and the French sense of national identity.",
       "descricao_es": "El giro francés comenzó después de la muerte de Juana de Arco: el ejército francés reorganizado con artillería moderna (los hermanos Bureau) reconquistó Normandía (1450) y Guyena (1453). La Batalla de Castillon (17 de julio de 1453) — donde la artillería francesa destruyó el ejército inglés — fue la última. Inglaterra solo conservó Calais (hasta 1558).",

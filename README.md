@@ -23,9 +23,9 @@ The dataset spans human history from the earliest hominins to the present, with 
 
 | Metric | Value |
 |---|---:|
-| JSON datasets | 324 |
-| Historical entities | 2,550 |
-| Guiding questions | 307 across 66 groups |
+| JSON datasets | 328 |
+| Historical entities | 2,568 |
+| Guiding questions | 311 across 66 groups |
 | Languages | Portuguese, English, Spanish |
 | Bibliography topics | 38 |
 | Bibliographic references | Approximately 500 |
@@ -38,7 +38,7 @@ The dataset spans human history from the earliest hominins to the present, with 
 - D3 force-directed graph with dataset-aware clustering.
 - Global search across names, descriptions, historiographic importance, and tags.
 - Side-by-side event comparison and two-level causal or consequence chains.
-- Guided narratives and 307 question-driven dataset selections.
+- Guided narratives and 311 question-driven dataset selections.
 - 236 historical figures across 18 regional and thematic collections.
 - Topic-organized bibliography, teacher guide, help pages, and offline PWA support.
 - Responsive layouts for desktop, tablet, and mobile landscape.

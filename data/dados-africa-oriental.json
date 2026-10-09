@@ -1,7 +1,7 @@
 {
   "entidades": [
     {
-      "id": "afo-001",
+      "id": "africa-oriental-afo-001",
       "nome": "Axum e a Rota do Mar Vermelho",
       "nome_en": "Axum and the Red Sea Route",
       "nome_es": "Axum y la Ruta del Mar Rojo",
@@ -27,7 +27,7 @@
       "importancia_es": "Rey Ezana (~325): primer monarca africano en adoptar el cristianismo como religión oficial — antes que la Roma cristiana de Teodosio (380). Obeliscos de granito de hasta 33 metros."
     },
     {
-      "id": "afo-002",
+      "id": "africa-oriental-afo-002",
       "nome": "Suaíle e o Comércio do Índico",
       "nome_en": "Swahili and the Indian Ocean Trade",
       "nome_es": "Swahili y el Comercio del Océano Índico",
@@ -223,8 +223,8 @@
   ],
   "relacoes": [
     {
-      "origem": "afo-001",
-      "destino": "afo-002",
+      "origem": "africa-oriental-afo-001",
+      "destino": "africa-oriental-afo-002",
       "tipo": "evolucao",
       "intensidade": 0.5,
       "descricao": "A rota comercial do Mar Vermelho de Axum precede e conecta-se à expansão suaíle no Índico"

@@ -140,7 +140,7 @@
       "period": "RomanEmpire"
     },
     {
-      "id": "ri1x",
+      "id": "roma-imperial-ri1x",
       "nome": "A Pax Romana: 200 Anos de Paz",
       "nome_en": "The Pax Romana: 200 Years of Peace",
       "nome_es": "La Pax Romana: 200 Años de Paz",
@@ -168,7 +168,7 @@
       "dataset": "data/dados-roma-imperial.json"
     },
     {
-      "id": "ri2x",
+      "id": "roma-imperial-ri2x",
       "nome": "O Exército Romano: A Máquina de Guerra",
       "nome_en": "The Roman Army: The War Machine",
       "nome_es": "El Ejército Romano: La Máquina de Guerra",

@@ -160,6 +160,15 @@ const ALL_DATASETS = [
     "data/dados-filosofia-moderna.json",
   // ── Outros ──
   "data/dados-america-latina-sec20.json","data/dados-religioes-mundo.json","data/dados-revolucoes-sec18.json",
+  // ── Coleções complementares ──
+  "data/dados-africa-sul-apartheid.json","data/dados-america-central.json","data/dados-america-sul.json",
+  "data/dados-anos-1990.json","data/dados-caribe.json","data/dados-colapso-idade-bronze.json",
+  "data/dados-guerra-vietnam.json","data/dados-historia-alimentacao.json","data/dados-historia-medicina.json",
+  "data/dados-idade-axial.json","data/dados-movimento-nao-alinhado.json","data/dados-oceania-aborigenes.json",
+  "data/dados-oceania-contemporanea.json","data/dados-oceania-melanesia.json","data/dados-oceania-polinesia.json",
+  "data/dados-pandemias.json","data/dados-pirataria.json","data/dados-primavera-arabe.json",
+  "data/dados-revolucao-digital.json","data/dados-revolucao-iraniana.json","data/dados-rota-seda.json",
+  "data/dados-trafico-transatlantico.json",
 ];
 
 

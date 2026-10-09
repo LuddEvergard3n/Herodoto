@@ -109,7 +109,7 @@
       "importancia_es": "Trump (2017–21 y 2025–): polarización política extrema, asalto al Capitolio (ene 2021)."
     },
     {
-      "id": "eua1",
+      "id": "eua-seculo-xx-eua1",
       "nome": "O New Deal e a Saida da Grande Depressao",
       "nome_en": "The New Deal and the Exit from the Great Depression",
       "nome_es": "El New Deal y la Salida de la Gran Depresión",
@@ -137,7 +137,7 @@
       "dataset": "data/dados-eua-seculo-xx.json"
     },
     {
-      "id": "eua2",
+      "id": "eua-seculo-xx-eua2",
       "nome": "A Segunda Guerra e a Emergencia Americana",
       "nome_en": "The Second World War and American Emergence",
       "nome_es": "La Segunda Guerra Mundial y el Surgimiento Americano",

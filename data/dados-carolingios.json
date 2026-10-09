@@ -7,7 +7,7 @@
   },
   "entidades": [
     {
-      "id": "car-001",
+      "id": "carolingios-car-001",
       "nome": "Clóvis e a Fundação da França Franca",
       "nome_en": "Clovis and the Foundation of Frankish France",
       "nome_es": "Clodoveo y la Fundación de la Francia Franca",
@@ -36,7 +36,7 @@
       "dataset": "data/dados-carolingios.json"
     },
     {
-      "id": "car-002",
+      "id": "carolingios-car-002",
       "nome": "Carlos Magno: Criação do Império Carolíngio",
       "nome_en": "Charlemagne: Creation of the Carolingian Empire",
       "nome_es": "Carlomagno: Creación del Imperio Carolingio",
@@ -65,7 +65,7 @@
       "dataset": "data/dados-carolingios.json"
     },
     {
-      "id": "car-003",
+      "id": "carolingios-car-003",
       "nome": "Renascença Carolíngia: Escolas, Latim e Cultura",
       "nome_en": "Carolingian Renaissance: Schools, Latin and Culture",
       "nome_es": "Renacimiento Carolingio: Escuelas, Latín y Cultura",
@@ -94,7 +94,7 @@
       "dataset": "data/dados-carolingios.json"
     },
     {
-      "id": "car-004",
+      "id": "carolingios-car-004",
       "nome": "Tratado de Verdun (843): O Nascimento dos Países Europeus",
       "nome_en": "Treaty of Verdun (843): The Birth of European Countries",
       "nome_es": "Tratado de Verdún (843): El Nacimiento de los Países Europeos",
@@ -240,28 +240,28 @@
   ],
   "relacoes": [
     {
-      "origem": "car-001",
-      "destino": "car-002",
+      "origem": "carolingios-car-001",
+      "destino": "carolingios-car-002",
       "tipo": "evolucao",
       "intensidade": 0.9,
       "descricao": "Dinastia franca de Clóvis culmina com Carlos Magno"
     },
     {
-      "origem": "car-002",
-      "destino": "car-003",
+      "origem": "carolingios-car-002",
+      "destino": "carolingios-car-003",
       "tipo": "causalidade",
       "intensidade": 0.8,
       "descricao": "Poder imperial promove renascimento cultural"
     },
     {
-      "origem": "car-002",
-      "destino": "car-004",
+      "origem": "carolingios-car-002",
+      "destino": "carolingios-car-004",
       "tipo": "causalidade",
-      "intensidade": 1.0,
+      "intensidade": 1,
       "descricao": "Morte de Luís resulta na divisão de Verdun"
     },
     {
-      "origem": "car-004",
+      "origem": "carolingios-car-004",
       "destino": "car-005",
       "tipo": "paralelo",
       "intensidade": 0.6,

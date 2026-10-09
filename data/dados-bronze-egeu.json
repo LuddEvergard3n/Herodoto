@@ -169,7 +169,7 @@
       "dataset": "data/dados-bronze-egeu.json"
     },
     {
-      "id": "be1",
+      "id": "bronze-egeu-be1",
       "nome": "Micenas e a Civilização Micênica",
       "nome_en": "Mycenae and Mycenaean Civilization",
       "nome_es": "Micenas y la Civilización Micénica",
@@ -197,7 +197,7 @@
       "dataset": "data/dados-bronze-egeu.json"
     },
     {
-      "id": "be2",
+      "id": "bronze-egeu-be2",
       "nome": "Creta e a Civilização Minoica",
       "nome_en": "Crete and Minoan Civilization",
       "nome_es": "Creta y la Civilización Minoica",

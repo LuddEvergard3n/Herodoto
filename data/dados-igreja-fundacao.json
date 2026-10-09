@@ -156,7 +156,7 @@
       "tipo": "pessoa",
       "inicio": 5,
       "fim": 67,
-      "region": "Middle East",
+      "region": "MiddleEast",
       "period": "Ancient",
       "century_start": 1,
       "type": "religious",
@@ -184,7 +184,7 @@
       "tipo": "evento",
       "inicio": 325,
       "fim": 325,
-      "region": "Middle East",
+      "region": "MiddleEast",
       "period": "Ancient",
       "century_start": 4,
       "type": "religious",
@@ -238,7 +238,7 @@
       "origem": "ifc-001",
       "destino": "ifc-002",
       "tipo": "causalidade",
-      "intensidade": 1.0,
+      "intensidade": 1,
       "descricao": "Cristo institui Pedro como líder da Igreja"
     },
     {

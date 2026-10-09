@@ -12,7 +12,8 @@
       "descricao": "Benito Mussolini, ex-socialista, fundou os Fasci di Combattimento (1919): camisas negras, violência squadrista contra socialistas e sindicatos. O 'biennio rosso' (1919-20) — greves e ocupações de fábricas — aterrava a burguesia e a classe média. A 'Marcha sobre Roma' (outubro 1922): ameaça de golpe; o Rei Vítor Emanuel III chamou Mussolini ao poder em vez de usar o exército.",
       "importancia": "O fascismo italiano foi o modelo original — de que o nazismo aprendeu táticas, linguagem e estética. Mussolini chegou ao poder 11 anos antes de Hitler — e por via constitucional, como Hitler. A 'Marcha sobre Roma' nunca foi um golpe real: foi um blefe que funcionou porque o establishment preferiu Mussolini à revolução socialista.",
       "nome_en": "Mussolini and the March on Rome (1919–1922)",
-      "nome_es": "Mussolini y la Marcha sobre Roma (1919–1922)"
+      "nome_es": "Mussolini y la Marcha sobre Roma (1919–1922)",
+      "type": "political"
     },
     {
       "id": "fas-002",
@@ -25,7 +26,8 @@
       "descricao": "Mussolini construiu a ditadura por etapas (1922-1926): imprensa censurada, partidos opostos dissolvidos, Legge Fascistissime. O Estado Corporativo substituiu sindicatos por corporações onde patrões e empregados 'colaboravam' sob tutela estatal — terceira via entre capitalismo e socialismo. Tratados de Latrão (1929): reconciliação com a Igreja Católica — o Papa reconhecia o Estado italiano; Mussolini reconhecia o Vaticano.",
       "importancia": "O Corporativismo fascista italiano influenciou regimes em toda a Europa e América Latina — incluindo o Estado Novo de Salazar e o getulismo brasileiro. A ideia de um Estado que arbitra entre capital e trabalho acima de classes e partidos teve apelo duradouro nas sociedades que viam a democracia liberal como fraca.",
       "nome_en": "The Fascist State: Duce, Corporatism and Church (1922–1935)",
-      "nome_es": "El Estado Fascista: Duce, Corporativismo e Iglesia (1922–1935)"
+      "nome_es": "El Estado Fascista: Duce, Corporativismo e Iglesia (1922–1935)",
+      "type": "political"
     },
     {
       "id": "fas-003",
@@ -38,7 +40,8 @@
       "descricao": "Mussolini invadiu a Etiópia (1935-36) com 500.000 soldados, aviação e gás mostarda — o único país africano independente. A Liga das Nações impôs sanções ineficazes. O Imperador Haile Selassie apelou à Liga: 'É minha vez hoje. Amanhã será a vossa.' A intervenção italiana na Guerra Civil Espanhola (1936-39) ao lado de Franco — aviação e 75.000 soldados.",
       "importancia": "A conquista da Etiópia foi o momento em que a Liga das Nações provou ser impotente — e em que as democracias provaram não ter vontade de defender a ordem internacional. O discurso de Selassie foi ignorado; Etiópia foi entregue. O apaziguamento começou em Addis Abeba, não em Munique.",
       "nome_en": "Fascist Imperialism: Ethiopia and Spain (1935–1936)",
-      "nome_es": "Imperialismo Fascista: Etiopía y España (1935–1936)"
+      "nome_es": "Imperialismo Fascista: Etiopía y España (1935–1936)",
+      "type": "war"
     },
     {
       "id": "fas-004",
@@ -51,7 +54,8 @@
       "descricao": "A Itália entrou na guerra em junho 1940, apostando numa vitória rápida alemã. Desastre: derrotada na Grécia, Norte da África, URSS. Os Aliados invadiram a Sicília (julho 1943). O Grão Conselho Fascista depôs Mussolini (25 julho). Armistício com os Aliados (setembro). Mussolini resgatado pelos alemães — República de Saló: fantoche nazista no Norte. Capturado por partisans, fuzilado em 28 abril 1945.",
       "importancia": "A queda da Itália demonstrou que os regimes fascistas eram frágeis quando as vitórias militares cessavam — eram construídos sobre o mito da invincibilidade, não sobre consentimento genuíno. A resistência italiana (partisans) e a memória da Resistência tornaram-se o mito fundador da República italiana do pós-guerra.",
       "nome_en": "Italy in World War II and the Fall of Mussolini (1940–1945)",
-      "nome_es": "Italia en la Segunda Guerra y la Caída de Mussolini (1940–1945)"
+      "nome_es": "Italia en la Segunda Guerra y la Caída de Mussolini (1940–1945)",
+      "type": "war"
     },
     {
       "id": "fi1",
@@ -61,10 +65,10 @@
       "tipo": "pessoa",
       "inicio": 1883,
       "fim": 1945,
-      "region": "political",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 20,
-      "type": "Modern",
+      "type": "political",
       "descricao": "Benito Mussolini (1883-1945) criou o fascismo como movimento de massa pos-Primeira Guerra. A Marcha sobre Roma (28 outubro 1922) - 30.000 squadristi - forcou o rei Vittorio Emanuele III a nomeá-lo premier. Mussolini nao \"tomou\" Roma - foi convidado ao poder pela monarquia e elites que temiam o comunismo. Em 1926, aboliu os partidos e criou a ditadura. Foi o primeiro fascista a chegar ao poder.",
       "descricao_en": "Benito Mussolini (1883–1945) created fascism as a post-World War I mass movement. The March on Rome (October 28, 1922) — 30,000 squadristi — forced King Vittorio Emanuele III to appoint him premier. Mussolini did not \"take\" Rome — he was invited to power by the monarchy and elites who feared communism. By 1926, he had abolished parties and created a dictatorship. He was the first fascist to come to power.",
       "descricao_es": "Benito Mussolini (1883–1945) creó el fascismo como movimiento de masas de posguerra. La Marcha sobre Roma (28 de octubre de 1922) — 30.000 squadristi — forzó al rey Vittorio Emanuele III a nombrarlo premier. Mussolini no \"tomó\" Roma — fue invitado al poder por la monarquía y las élites que temían el comunismo. En 1926, abolió los partidos y creó la dictadura. Fue el primer fascista en llegar al poder.",
@@ -89,10 +93,10 @@
       "tipo": "evento",
       "inicio": 1935,
       "fim": 1936,
-      "region": "war",
+      "region": "Africa",
       "period": "Africa",
       "century_start": 20,
-      "type": "Modern",
+      "type": "war",
       "descricao": "A invasao italiana da Etiopia (outubro 1935) foi condenada pela Liga das Nacoes - que impôs sancoes economicas insuficientes. A Italia usou gas mostarda e fosgênio contra a populacao civil etiope - o primeiro uso de armas quimicas em grande escala contra civis na Africa. Hailé Selassié discursou na Liga: \"Vos senhores sois a ultima esperanca\". A Liga falhou em agir.",
       "descricao_en": "The Italian invasion of Ethiopia (October 1935) was condemned by the League of Nations — which imposed insufficient economic sanctions. Italy used mustard gas and phosgene against the Ethiopian civilian population — the first large-scale use of chemical weapons against civilians in Africa. Haile Selassie addressed the League: \"You are the last hope.\" The League failed to act.",
       "descricao_es": "La invasión italiana de Etiopía (octubre de 1935) fue condenada por la Liga de las Naciones — que impuso sanciones económicas insuficientes. Italia usó gas mostaza y fosgeno contra la población civil etíope — el primer uso de armas químicas a gran escala contra civiles en África. Hailé Selassié discursó en la Liga: \"Ustedes son la última esperanza\". La Liga no actuó.",
@@ -117,10 +121,10 @@
       "tipo": "evento",
       "inicio": 1939,
       "fim": 1943,
-      "region": "political",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 20,
-      "type": "Modern",
+      "type": "political",
       "descricao": "O Pacto de Aco (22 maio 1939) aliou a Italia fascista e a Alemanha nazi. A Italia entrou na guerra em junho 1940 atacando a Franca ja derrotada (Churchill: \"punhal nas costas\"). As derrotas no Norte da Africa e na Grecia demonstraram a fraqueza militar italiana. Em julho 1943, o Conselho Fascista depôs Mussolini - que foi resgatado por paraquedistas alemães. Executado por partigiani em abril 1945.",
       "descricao_en": "The Pact of Steel (May 22, 1939) allied fascist Italy and Nazi Germany. Italy entered the war in June 1940 attacking already-defeated France (Churchill: \"stab in the back\"). Defeats in North Africa and Greece demonstrated Italian military weakness. In July 1943, the Fascist Council deposed Mussolini — who was rescued by German paratroopers. He was executed by partisans in April 1945.",
       "descricao_es": "El Pacto de Acero (22 de mayo de 1939) alió a la Italia fascista y la Alemania nazi. Italia entró en la guerra en junio de 1940 atacando a la ya derrotada Francia (Churchill: \"puñalada por la espalda\"). Las derrotas en el Norte de África y en Grecia demostraron la debilidad militar italiana. En julio de 1943, el Consejo Fascista depuso a Mussolini — que fue rescatado por paracaidistas alemanes. Fue ejecutado por partisanos en abril de 1945.",
@@ -144,10 +148,10 @@
       "tipo": "evento",
       "inicio": 1943,
       "fim": 1946,
-      "region": "political",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 20,
-      "type": "Modern",
+      "type": "political",
       "descricao": "Apos o armisticio (setembro 1943), a Italia dividiu-se: norte sob ocupacao alema e a Republica de Salo de Mussolini; sul liberado pelos Aliados. Os partigiani (resistencia) lutaram nas montanhas - com forte componente comunista (PCI era o maior partido de resistencia). O referendum de junho 1946 aboliu a monarquia (52,3%) e criou a Republica Italiana. A Constituicao de 1948 e ainda a mais progressiva da Europa.",
       "descricao_en": "After the armistice (September 1943), Italy was divided: the north under German occupation and Mussolini's Republic of Salò; the south liberated by the Allies. The partisans (resistance) fought in the mountains — with a strong communist component (PCI was the largest resistance party). The referendum of June 1946 abolished the monarchy (52.3%) and created the Italian Republic. The 1948 Constitution is still the most progressive in Europe.",
       "descricao_es": "Tras el armisticio (septiembre de 1943), Italia se dividió: el norte bajo ocupación alemana y la República de Salò de Mussolini; el sur liberado por los Aliados. Los partisanos (resistencia) lucharon en las montañas — con un fuerte componente comunista (PCI era el mayor partido de resistencia). El referéndum de junio de 1946 abolió la monarquía (52,3%) y creó la República Italiana. La Constitución de 1948 es todavía la más progresiva de Europa.",

@@ -157,7 +157,7 @@
       "importancia_es": "Santa Anna (México): presidente 11 veces. Pérdida del 55% del territorio mexicano a EE.UU."
     },
     {
-      "id": "ial1",
+      "id": "independencias-america-latina-ial1",
       "nome": "Simón Bolívar: O Libertador",
       "nome_en": "Simon Bolivar: The Liberator",
       "nome_es": "Simón Bolívar: El Libertador",
@@ -185,7 +185,7 @@
       "dataset": "data/dados-independencias-america-latina.json"
     },
     {
-      "id": "ial2",
+      "id": "independencias-america-latina-ial2",
       "nome": "Toussaint Louverture e a Revolução do Haiti",
       "nome_en": "Toussaint Louverture and the Haitian Revolution",
       "nome_es": "Toussaint Louverture y la Revolución Haitiana",

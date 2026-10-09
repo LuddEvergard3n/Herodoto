@@ -82,7 +82,7 @@
       "importancia_es": "Boom de IT (años 1990): Bangalore. India superó a China en población (2023)."
     },
     {
-      "id": "ib1",
+      "id": "india-britanica-ib1",
       "nome": "A Rebeliao dos Cipaios (1857)",
       "nome_en": "The Sepoy Mutiny (1857)",
       "nome_es": "La Rebelión de los Cipayos (1857)",
@@ -110,7 +110,7 @@
       "dataset": "data/dados-india-britanica.json"
     },
     {
-      "id": "ib2",
+      "id": "india-britanica-ib2",
       "nome": "Gandhi e o Movimento de Independencia",
       "nome_en": "Gandhi and the Independence Movement",
       "nome_es": "Gandhi y el Movimiento de Independencia",
@@ -138,7 +138,7 @@
       "dataset": "data/dados-india-britanica.json"
     },
     {
-      "id": "ib3",
+      "id": "india-britanica-ib3",
       "nome": "A Particao da India e Paquistao (1947)",
       "nome_en": "The Partition of India and Pakistan (1947)",
       "nome_es": "La Partición de la India y Pakistán (1947)",
@@ -166,7 +166,7 @@
       "dataset": "data/dados-india-britanica.json"
     },
     {
-      "id": "ib4",
+      "id": "india-britanica-ib4",
       "nome": "A Constituicao Indiana (1950): A Maior Democracia",
       "nome_en": "The Indian Constitution (1950): The Largest Democracy",
       "nome_es": "La Constitución India (1950): La Mayor Democracia",

@@ -190,7 +190,7 @@
       "tipo": "pessoa",
       "inicio": 1137,
       "fim": 1193,
-      "region": "Middle East",
+      "region": "MiddleEast",
       "period": "Medieval",
       "century_start": 12,
       "type": "war",
@@ -251,7 +251,7 @@
       "origem": "cr-002",
       "destino": "cr-003",
       "tipo": "causalidade",
-      "intensidade": 1.0,
+      "intensidade": 1,
       "descricao": "Queda de Jerusalém provoca a Terceira Cruzada"
     },
     {

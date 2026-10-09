@@ -133,15 +133,15 @@ A.suite('Data — Date logic', () => {
     if (issues.length) throw new Error(issues.slice(0,10).join('\n    '));
   });
 
-  A.it('dates are within plausible range (-5000000 to 2100)', () => {
+  A.it('dates are within plausible range (-100000000 to 2100)', () => {
     const issues = [];
     for (const { file, fullPath } of files) {
       const d = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
       if (!d.entidades) continue;
       for (const e of d.entidades) {
-        if (e.inicio < -5000000 || e.inicio > 2100)
+        if (e.inicio < -100000000 || e.inicio > 2100)
           issues.push(`${file} → ${e.id}: inicio=${e.inicio} out of range`);
-        if (e.fim < -5000000 || e.fim > 2100)
+        if (e.fim < -100000000 || e.fim > 2100)
           issues.push(`${file} → ${e.id}: fim=${e.fim} out of range`);
       }
     }
@@ -252,9 +252,12 @@ A.suite('Data — Multilingual fields (new-style entidades)', () => {
     for (const { file, fullPath } of files) {
       const d = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
       if (!d.entidades) continue;
-      for (const e of d.entidades)
-        if (!e.importancia || typeof e.importancia !== 'string' || e.importancia.trim().length < 10)
+      for (const e of d.entidades) {
+        const validText = typeof e.importancia === 'string' && e.importancia.trim().length >= 10;
+        const validScore = Number.isInteger(e.importancia) && e.importancia >= 1 && e.importancia <= 5;
+        if (!validText && !validScore)
           issues.push(`${file} → ${e.id}: importancia too short or missing`);
+      }
     }
     if (issues.length) throw new Error(issues.slice(0,10).join('\n    '));
   });

@@ -157,14 +157,14 @@
       "importancia_es": "Escipión Africano venció en Zama (202 a.C.). Tercera Guerra: 'Cartago debe ser destruida' (Catón)."
     },
     {
-      "id": "cm1",
+      "id": "civilizacoes-mediterraneo-cm1",
       "nome": "Fenícios: Os Comerciantes do Mediterrâneo",
       "nome_en": "Phoenicians: The Merchants of the Mediterranean",
       "nome_es": "Fenicios: Los Comerciantes del Mediterráneo",
       "tipo": "periodo",
       "inicio": -1200,
       "fim": -146,
-      "region": "Middle East",
+      "region": "MiddleEast",
       "period": "Ancient",
       "century_start": 13,
       "type": "economic",
@@ -185,7 +185,7 @@
       "dataset": "data/dados-civilizacoes-mediterraneo.json"
     },
     {
-      "id": "cm2",
+      "id": "civilizacoes-mediterraneo-cm2",
       "nome": "Alexandre Magno e o Mundo Helenístico",
       "nome_en": "Alexander the Great and the Hellenistic World",
       "nome_es": "Alejandro Magno y el Mundo Helenístico",

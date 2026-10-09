@@ -3,6 +3,26 @@
 
 ---
 
+## v7.42 — Integridade dos dados e registro completo
+
+**Correções**
+- Padronizados os aliases históricos de datas, tipos e regiões sem remover os campos legados.
+- IDs de entidades agora são globalmente únicos; relações internas foram atualizadas com os novos IDs.
+- Corrigidas referências de perguntas para datasets existentes e três IDs de perguntas duplicados.
+- Corrigido o intervalo da Biblioteca de Alexandria e oito campos de importância que continham tags.
+
+**Integrações**
+- 22 datasets que já existiam no repositório foram registrados na linha do tempo, na seleção lateral e nos rótulos em português, inglês e espanhol.
+- Cache da PWA atualizado para `v7-59`, garantindo que o GitHub Pages entregue os arquivos estáticos novos.
+
+**Validação**
+- 328 arquivos JSON válidos.
+- 2.568 entidades históricas e 237 personagens.
+- 311 perguntas em 66 grupos.
+- 112 testes aprovados, sem falhas.
+
+---
+
 ## v7.41 — Correção de Bug: Service Worker
 
 **Bug corrigido**

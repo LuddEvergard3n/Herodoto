@@ -12,7 +12,8 @@
       "descricao": "Em 22 de junho de 1941, 3,8 milhões de soldados alemães e aliados cruzaram as fronteiras soviéticas em 3 grupos de exércitos — o maior exército já mobilizado na história. Stalin ignorou 84 avisos de inteligência. Em 3 semanas: 600.000 prisioneiros soviéticos. Kiev cercada (setembro): 665.000 prisioneiros. Até dezembro, o exército alemão chegou a 20 km de Moscou.",
       "importancia": "Barbarossa foi a maior aposta militar da história — e fracassou por 50 km: Moscou não caiu. O erro de Hitler foi o mesmo de Napoleão: a escala do espaço russo, o inverno e a determinação soviética derrotaram o que parecia imbatível. Os primeiros meses de Barbarossa custaram à URSS 4,5 milhões de baixas — e ela sobreviveu.",
       "nome_en": "Operation Barbarossa: The Largest Invasion in History (June 1941)",
-      "nome_es": "Operación Barbarroja: La Mayor Invasión de la Historia (junio 1941)"
+      "nome_es": "Operación Barbarroja: La Mayor Invasión de la Historia (junio 1941)",
+      "type": "war"
     },
     {
       "id": "fori-002",
@@ -25,7 +26,8 @@
       "descricao": "A Batalha de Stalingrado foi a maior e mais mortífera da Segunda Guerra: 2 milhões de baixas (1,1 milhão soviéticos, 800.000 alemães e aliados do Eixo). 6ª Armada do General Paulus cercada pela Operação Uranus (novembro 1942). Hitler proibiu a retirada. 91.000 soldados renderam-se em fevereiro 1943 — incluindo 24 generais. Paulus foi o primeiro marechal de campo alemão a se render.",
       "importancia": "Stalingrado foi o ponto de viragem psicológico da guerra: até ali a Wehrmacht parecia invencível; depois, qualquer resultado parecia possível. Os soviéticos capturaram Paulus ao vivo — e ele cooperou na propaganda anti-nazi. 5.000 dos 91.000 prisioneiros voltariam para a Alemanha após a guerra.",
       "nome_en": "Stalingrad: The Turning Point (August 1942–February 1943)",
-      "nome_es": "Stalingrado: El Punto de Inflexión (agosto 1942–febrero 1943)"
+      "nome_es": "Stalingrado: El Punto de Inflexión (agosto 1942–febrero 1943)",
+      "type": "war"
     },
     {
       "id": "fori-003",
@@ -38,7 +40,8 @@
       "descricao": "A Frente Oriental foi uma guerra de extermínio diferente das outras: a Wehrmacht executou os Comissários Políticos soviéticos (Befehl-Kommissarbefehl), deixou 3,3 milhões de prisioneiros de guerra soviéticos morrerem de fome (58% de mortalidade vs. 4% no Ocidente). Os Einsatzgruppen seguiam o exército fuzilando judeus, comunistas e 'inimigos raciais'. Leningrado sitiada 872 dias: 1 milhão de civis mortos de fome.",
       "importancia": "A distinção entre a guerra 'limpa' na Frente Ocidental e a guerra de extermínio no Leste é historicamente crucial mas politicamente contestada. A Wehrmacht — não apenas as SS — foi cumplice dos crimes de guerra no Leste. Esta realidade foi sistematicamente negada pela Alemanha pós-guerra e só confrontada na exposição de 1995-2004 sobre os crimes da Wehrmacht.",
       "nome_en": "The War of Extermination: War Crimes in the USSR",
-      "nome_es": "La Guerra de Exterminio: Crímenes de Guerra en la URSS"
+      "nome_es": "La Guerra de Exterminio: Crímenes de Guerra en la URSS",
+      "type": "war"
     },
     {
       "id": "fori-004",
@@ -51,7 +54,8 @@
       "descricao": "A URSS perdeu 27 milhões de pessoas na Segunda Guerra (8,7 milhões de militares, 18 milhões de civis) — 80% de todas as baixas alemãs foram na Frente Oriental. Kursk (julho 1943): maior batalha de tanques da história — vitória soviética. A partir de 1943, ofensiva soviética ininterrupta: Bielorrússia, Polônia, Berlim (2 de maio de 1945: bandeira soviética no Reichstag).",
       "importancia": "A URSS venceu a Segunda Guerra — este fato foi sistematicamente minimizado pela narrativa ocidental da Guerra Fria. 80% das divisões alemãs combateram no Leste durante toda a guerra. O 'Dia da Vitória' (9 de maio) que os russos celebram com mais intensidade que qualquer outra data é compreensível: foi o maior sacrifício nacional da história moderna.",
       "nome_en": "The USSR's Role: 27 Million Dead and Victory",
-      "nome_es": "El Papel de la URSS: 27 Millones de Muertos y la Victoria"
+      "nome_es": "El Papel de la URSS: 27 Millones de Muertos y la Victoria",
+      "type": "war"
     },
     {
       "id": "fro1",
@@ -61,10 +65,10 @@
       "tipo": "evento",
       "inicio": 1914,
       "fim": 1918,
-      "region": "war",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 20,
-      "type": "Modern",
+      "type": "war",
       "descricao": "Ao contrário do Ocidente, a Frente Oriental (1914-1918) foi uma guerra de movimento: enormes avanços e recuos sobre territórios de milhões de km2. A Batalha de Tannenberg (agosto 1914): os alemães destruíram 2 exércitos russos, capturando 92.000 prisioneiros. O general russo Samsonov suicidou-se no campo. A Rússia substituía baixas com números - mas a qualidade e o equipamento eram inferiores.",
       "descricao_en": "Unlike the West, the Eastern Front (1914–1918) was a war of movement: enormous advances and retreats across territories of millions of km². The Battle of Tannenberg (August 1914): the Germans destroyed 2 Russian armies, capturing 92,000 prisoners. Russian general Samsonov committed suicide on the field. Russia replaced casualties with numbers — but quality and equipment were inferior.",
       "descricao_es": "A diferencia del Oeste, el Frente Oriental (1914–1918) fue una guerra de movimiento: enormes avances y retrocesos sobre territorios de millones de km². La Batalla de Tannenberg (agosto de 1914): los alemanes destruyeron 2 ejércitos rusos, capturando 92.000 prisioneros. El general ruso Samsonov se suicidó en el campo.",
@@ -89,10 +93,10 @@
       "tipo": "evento",
       "inicio": 1917,
       "fim": 1917,
-      "region": "political",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 20,
-      "type": "Modern",
+      "type": "political",
       "descricao": "Duas revoluções em 1917: Fevereiro (czar Nicolau II abdicou, governo provisório sob Kerensky) e Outubro (Lênin e os bolcheviques tomaram o poder com \"Paz, Terra, Pão\"). A Paz de Brest-Litovsk (março 1918) tirou a Rússia da guerra - cedendo 1/3 do território europeu russo à Alemanha. A revolução bolchevique inspirou comunistas em todo o mundo e assustou governos capitalistas por 70 anos.",
       "descricao_en": "Two revolutions in 1917: February (Tsar Nicholas II abdicated, provisional government under Kerensky) and October (Lenin and the Bolsheviks seized power with \"Peace, Land, Bread\"). The Treaty of Brest-Litovsk (March 1918) took Russia out of the war — ceding 1/3 of European Russian territory to Germany. The Bolshevik revolution inspired communists worldwide and frightened capitalist governments for 70 years.",
       "descricao_es": "Dos revoluciones en 1917: Febrero (el zar Nicolás II abdicó, gobierno provisional bajo Kerensky) y Octubre (Lenin y los bolcheviques tomaron el poder con \"Paz, Tierra, Pan\"). La Paz de Brest-Litovsk (marzo de 1918) sacó a Rusia de la guerra — cediendo 1/3 del territorio europeo ruso a Alemania.",
@@ -116,10 +120,10 @@
       "tipo": "evento",
       "inicio": 1918,
       "fim": 1919,
-      "region": "political",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 20,
-      "type": "Modern",
+      "type": "political",
       "descricao": "O armistício (11 novembro 1918 às 11h11) encerrou a guerra com 17-20 milhões de mortos militares e civis. O Tratado de Versalhes (1919) humilhou a Alemanha: perdeu 13% do território, 10% da população, pagou reparações que só acabaram de pagar em 2010. A \"culpa de guerra\" (artigo 231) foi a semente do nazismo. Wilson propôs os 14 Pontos (autodeterminação dos povos) - e não conseguiu que seu próprio Congresso os ratificasse.",
       "descricao_en": "The armistice (November 11, 1918 at 11:11 am) ended the war with 17–20 million military and civilian dead. The Treaty of Versailles (1919) humiliated Germany: it lost 13% of its territory, 10% of its population, and paid reparations that it only finished paying in 2010. The \"war guilt\" clause (Article 231) was the seed of Nazism. Wilson proposed the 14 Points (self-determination of peoples) — and could not get his own Congress to ratify them.",
       "descricao_es": "El armisticio (11 de noviembre de 1918 a las 11:11) encerró la guerra con 17–20 millones de muertos militares y civiles. El Tratado de Versalles (1919) humilló a Alemania: perdió el 13% de su territorio, el 10% de su población, y pagó reparaciones que solo acabó de pagar en 2010. La \"culpa de guerra\" (artículo 231) fue la semilla del nazismo.",
@@ -144,10 +148,10 @@
       "tipo": "evento",
       "inicio": 1915,
       "fim": 1916,
-      "region": "war",
+      "region": "MiddleEast",
       "period": "Middle East",
       "century_start": 20,
-      "type": "Modern",
+      "type": "war",
       "descricao": "O Genocídio Armênio (1915-1916) ocorreu no contexto da Primeira Guerra, com o Império Otomano aliado da Alemanha. Os Jovens Turcos deportaram os armênios da Anatólia para o deserto sírio em marchas forçadas, com massacre sistemático. 600.000-1,5 milhões mortos. A Alemanha soube e não interveio. A Turquia ainda nega que foi genocídio. 30+ países reconheceram. É o caso mais documentado de negação de genocídio.",
       "descricao_en": "The Armenian Genocide (1915–1916) occurred in the context of the First World War, with the Ottoman Empire allied with Germany. The Young Turks deported Armenians from Anatolia to the Syrian desert in forced marches, with systematic massacre. 600,000–1.5 million dead. Germany knew and did not intervene. Turkey still denies it was genocide. 30+ countries have recognized it. It is the most documented case of genocide denial.",
       "descricao_es": "El Genocidio Armenio (1915–1916) ocurrió en el contexto de la Primera Guerra Mundial, con el Imperio Otomano aliado de Alemania. Los Jóvenes Turcos deportaron a los armenios de Anatolia al desierto sirio en marchas forzadas, con masacre sistemática. 600.000–1,5 millones de muertos. Alemania supo y no intervino. Turquía todavía niega que fue genocidio. Más de 30 países lo han reconocido.",

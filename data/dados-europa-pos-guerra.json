@@ -12,7 +12,8 @@
       "descricao": "Em maio de 1945, a Europa estava destruída: 40-55 milhões de mortos, 60 milhões de deslocados, cidades arrasadas (Berlim, Dresden, Varsóvia, Coventry), indústria paralisada, fome generalizada. Berlim: 4 zonas de ocupação (EUA, URSS, Grã-Bretanha, França). As populações alemãs foram expulsas da Polônia, Tchecoslováquia, Hungria — 12-14 milhões de pessoas em meses.",
       "importancia": "A devastação de 1945 foi a tabula rasa que tornou possível a reconstrução europeia: as elites que haviam resistido à reforma antes da guerra tinham sido destruídas. O Estado de Bem-Estar europeu foi possível porque a guerra havia eliminado as resistências à redistribuição — não apesar da destruição, mas por causa dela.",
       "nome_en": "The Continent in Ruins: Europe 1945",
-      "nome_es": "El Continente en Ruinas: Europa 1945"
+      "nome_es": "El Continente en Ruinas: Europa 1945",
+      "type": "social"
     },
     {
       "id": "epg-002",
@@ -25,7 +26,8 @@
       "descricao": "O Plano Marshall (1948-52): 13,3 bilhões de dólares americanos para a reconstrução da Europa Ocidental — a maior transferência voluntária de riqueza entre nações da história até então. Condicionado à cooperação econômica (OECE) e ao afastamento dos comunistas dos governos. A URSS recusou e proibiu os países do bloco oriental de aceitar. Resulatado: Europa Ocidental recuperou o nível pré-guerra em 4 anos.",
       "importancia": "O Plano Marshall foi ao mesmo tempo generosidade genuína e estratégia da Guerra Fria: economias prosperosas seriam imunes ao comunismo. O contraste com Versalhes (1919) foi deliberado — desta vez, os vencidos seriam reconstruídos, não punidos. A Alemanha Ocidental tornou-se o maior beneficiário relativo.",
       "nome_en": "Marshall Plan and Western Reconstruction (1947–1952)",
-      "nome_es": "Plan Marshall y la Reconstrucción Occidental (1947–1952)"
+      "nome_es": "Plan Marshall y la Reconstrucción Occidental (1947–1952)",
+      "type": "economic"
     },
     {
       "id": "epg-003",
@@ -38,7 +40,8 @@
       "descricao": "A Alemanha Ocidental cresceu 8% ao ano na década de 1950: a 'economia social de mercado' de Ludwig Erhard combinou livre mercado com forte proteção social. Reforma monetária (junho 1948): o Deutsche Mark substituiu o Reichsmark inflacionado — preços de volta ao normal em semanas. Desemprego de 10% (1950) → pleno emprego (1960). De país destruído a maior economia europeia em 15 anos.",
       "importancia": "O Wirtschaftswunder foi o milagre que fundou a democracia alemã pós-guerra: a Grundgesetz (Lei Fundamental, 1949) era liberal e sólida, mas o que converteu os alemães à democracia foi a prosperidade. Adenauer entendeu: antes de educar a nação para a democracia, havia que enchê-la de geladeiras.",
       "nome_en": "The German Economic Miracle: Wirtschaftswunder (1948–1970)",
-      "nome_es": "El Milagro Económico Alemán: Wirtschaftswunder (1948–1970)"
+      "nome_es": "El Milagro Económico Alemán: Wirtschaftswunder (1948–1970)",
+      "type": "economic"
     },
     {
       "id": "epg-004",
@@ -51,7 +54,8 @@
       "descricao": "Os Julgamentos de Nuremberg (1945-46) julgaram 24 líderes nazistas — 12 condenados à morte. A desnazificação americana foi ambiciosa mas superficial: 3,6 milhões de questionários, mas a maioria dos burocratas, juízes e professores nazistas manteve seus cargos. O 'Wirtschaftswunder' foi construído em parte por ex-nazis. Só nos anos 60 a sociedade alemã confrontou seriamente o passado.",
       "importancia": "A desnazificação incompleta deixou sequelas profundas: a geração de 68 alemã rebelou-se precisamente contra pais e professores que 'não tinham nada a ver com aquilo'. A Lei Fundamental alemã e a cultura política do 'Nunca mais' alemão são a resposta mais sólida da história à pergunta 'como evitar a repetição'.",
       "nome_en": "Nuremberg, Denazification and the Confrontation with the Past",
-      "nome_es": "Núremberg, Desnazificación y la Confrontación con el Pasado"
+      "nome_es": "Núremberg, Desnazificación y la Confrontación con el Pasado",
+      "type": "political"
     },
     {
       "id": "epg1",
@@ -61,10 +65,10 @@
       "tipo": "evento",
       "inicio": 1947,
       "fim": 1952,
-      "region": "economic",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 20,
-      "type": "Modern",
+      "type": "economic",
       "descricao": "O Plano Marshall (oficialmente European Recovery Program, 1947-1952) injetou 13 bilhoes de dolares americanos (130 bilhoes em valores atuais) na Europa Ocidental destruida. Objetivos: recuperacao economica E prevencao do comunismo. Resultados: o PIB europeu voltou ao nivel pre-guerra em 1952. A condicao americana: criacao da OECE (precursora da OCDE) para coordenar uso dos fundos - primeiroessa coordenacao economica europeia.",
       "descricao_en": "The Marshall Plan (officially the European Recovery Program, 1947–1952) injected 13 billion US dollars (130 billion in current values) into destroyed Western Europe. Objectives: economic recovery AND prevention of communism. Results: European GDP returned to pre-war levels by 1952. The American condition: creation of the OEEC (precursor to the OECD) to coordinate use of funds — the first European economic coordination.",
       "descricao_es": "El Plan Marshall (oficialmente European Recovery Program, 1947–1952) inyectó 13.000 millones de dólares americanos (130.000 millones en valores actuales) en la Europa Occidental destruida. Objetivos: recuperación económica Y prevención del comunismo. Resultados: el PIB europeo volvió al nivel de preguerra en 1952. La condición americana: creación de la OECE (precursora de la OCDE) para coordinar el uso de los fondos — la primera coordinación económica europea.",
@@ -89,10 +93,10 @@
       "tipo": "evento",
       "inicio": 1949,
       "fim": 1955,
-      "region": "political",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 20,
-      "type": "Modern",
+      "type": "political",
       "descricao": "A OTAN (criada 4 abril 1949) foi a alianca militar mais bem-sucedida da historia: nunca precisou usar o artigo 5 (defesa mutua) - porque sua existencia preveniu o ataque. O Pacto de Varsovia (criado 1955) foi a resposta sovietica. A Europa dividiu-se em dois blocos por 40 anos: 15 paises na OTAN, 7 no Pacto de Varsovia. A \"cortina de ferro\" ia de Stettin a Trieste (Churchill, 1946).",
       "descricao_en": "NATO (created April 4, 1949) was the most successful military alliance in history: it never needed to invoke Article 5 (mutual defense) — because its existence prevented the attack. The Warsaw Pact (created 1955) was the Soviet response. Europe divided into two blocs for 40 years: 15 countries in NATO, 7 in the Warsaw Pact. The \"iron curtain\" ran from Stettin to Trieste (Churchill, 1946).",
       "descricao_es": "La OTAN (creada el 4 de abril de 1949) fue la alianza militar más exitosa de la historia: nunca necesitó invocar el artículo 5 (defensa mutua) — porque su existencia previno el ataque. El Pacto de Varsovia (creado en 1955) fue la respuesta soviética. Europa se dividió en dos bloques durante 40 años: 15 países en la OTAN, 7 en el Pacto de Varsovia.",
@@ -116,10 +120,10 @@
       "tipo": "periodo",
       "inicio": 1945,
       "fim": 1980,
-      "region": "social",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 20,
-      "type": "Modern",
+      "type": "social",
       "descricao": "A Europa pos-guerra criou o mais ambicioso Estado de bem-estar social da historia: NHS britanico (1948), sistema de seguridade social aleman, Securite Sociale francesa. Financiado pelo crescimento excepcional dos \"30 Gloriosos\" (1945-1975): 5% ao ano. A combinacao de capitalismo regulado (economia mista), democracia representativa e welfare state foi chamada de \"terceira via\" entre o liberalismo americano e o comunismo sovietico.",
       "descricao_en": "Post-war Europe created the most ambitious welfare state in history: the British NHS (1948), the German social security system, French Sécurité Sociale. Financed by the exceptional growth of the \"Thirty Glorious Years\" (1945–1975): 5% per year. The combination of regulated capitalism (mixed economy), representative democracy and welfare state was called the \"third way\" between American liberalism and Soviet communism.",
       "descricao_es": "La Europa de posguerra creó el Estado de bienestar social más ambicioso de la historia: NHS británico (1948), sistema de seguridad social alemán, Sécurité Sociale francesa. Financiado por el crecimiento excepcional de los \"Treinta Gloriosos\" (1945–1975): el 5% anual. La combinación de capitalismo regulado (economía mixta), democracia representativa y welfare state fue llamada \"tercera vía\" entre el liberalismo americano y el comunismo soviético.",
@@ -144,10 +148,10 @@
       "tipo": "evento",
       "inicio": 1948,
       "fim": 1990,
-      "region": "economic",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 20,
-      "type": "Modern",
+      "type": "economic",
       "descricao": "O \"Wirtschaftswunder\" (milagre economico alemao) transformou a Alemanha Ocidental de pais destruido em maior economia europeia em 20 anos (1948-1968). Ludwig Erhard criou a \"economia social de mercado\" - capitalismo regulado com protecao social. A reunificacao alemana (1990) absarveu a RDA a custo de 2 trilhoes de euros ao longo de 30 anos - o maior exercicio de transferencia de renda intra-nacional da historia.",
       "descricao_en": "The \"Wirtschaftswunder\" (German economic miracle) transformed West Germany from a destroyed country into the largest European economy in 20 years (1948–1968). Ludwig Erhard created the \"social market economy\" — regulated capitalism with social protection. German reunification (1990) absorbed East Germany at a cost of 2 trillion euros over 30 years — the greatest exercise in intra-national income transfer in history.",
       "descricao_es": "El \"Wirtschaftswunder\" (milagro económico alemán) transformó a Alemania Occidental de país destruido en mayor economía europea en 20 años (1948–1968). Ludwig Erhard creó la \"economía social de mercado\" — capitalismo regulado con protección social. La reunificación alemana (1990) absorbió a la RDA a un costo de 2 billones de euros a lo largo de 30 años — el mayor ejercicio de transferencia de renta intra-nacional de la historia.",

@@ -12,7 +12,8 @@
       "descricao": "As potências vitoriosas (Áustria, Prússia, Rússia, Grã-Bretanha, França) reuniram-se em Viena sob a presidência de Metternich para redesenhar a Europa. Princípios: legitimidade (restaurar dinastias legítimas), equilíbrio de poder (nenhuma potência dominante), compensações territoriais. Resultado: criação da Confederação Germânica (38 Estados), restauração dos Bourbons em França, expansão da Prússia.",
       "importancia": "O Congresso de Viena foi o primeiro experimento de ordem internacional multilateral — e funcionou: a Europa não teve guerra geral por 99 anos (até 1914). Henry Kissinger estudou Metternich como modelo de estabilidade internacional. A 'Paz dos Cem Anos' que se seguiu foi possível pelo equilíbrio cuidadosamente construído em Viena.",
       "nome_en": "The Congress of Vienna (1814–1815)",
-      "nome_es": "El Congreso de Viena (1814–1815)"
+      "nome_es": "El Congreso de Viena (1814–1815)",
+      "type": "political"
     },
     {
       "id": "cvi-002",
@@ -25,7 +26,8 @@
       "descricao": "Klemens von Metternich, chanceler austríaco, foi o arquiteto da ordem pós-napoleônica: Santa Aliança (Áustria, Prússia, Rússia) para sufocar revoluções. Intervenções: Itália (1820-21), Espanha (1823). Conferências de Aachen, Troppau, Laibach, Verona — concerto europeu de potências. Censura sistemática, redes de espiões, supressão da imprensa liberal.",
       "importancia": "O 'sistema Metternich' teve sucesso relativo por 33 anos — mas suprimia sintomas sem curar causas. A ascensão da burguesia, o crescimento das cidades industriais, a disseminação das ideias liberais tornavam inevitável o confronto. Quando veio, em 1848, foi simultâneo em toda a Europa.",
       "nome_en": "Metternich and the Restoration System (1815–1848)",
-      "nome_es": "Metternich y el Sistema de la Restauración (1815–1848)"
+      "nome_es": "Metternich y el Sistema de la Restauración (1815–1848)",
+      "type": "political"
     },
     {
       "id": "cvi-003",
@@ -38,7 +40,8 @@
       "descricao": "O Romantismo nasceu como reação ao racionalismo iluminista e à industrialização: valorização da emoção, da natureza, do passado medieval, das tradições populares. Byron, Shelley, Keats (Grã-Bretanha); Goethe, Hölderlin, Novalis (Alemanha); Vítor Hugo, Lamartine (França); Mazzini (Itália). Os Irmãos Grimm coletaram contos populares; Herder teorizou o Volksgeist (espírito do povo).",
       "importancia": "O Romantismo foi o pai do Nacionalismo moderno: ao valorizar a língua, os contos, as tradições e a história de cada povo como expressão de sua alma única, criou a base ideológica das revoluções nacionais de 1830-1848. A ideia de que cada nação tem um 'caráter' único e um destino histórico é invenção romântica.",
       "nome_en": "Romanticism as Reaction: Nation, People and Feeling (1800–1850)",
-      "nome_es": "Romanticismo como Reacción: Nación, Pueblo y Sentimiento (1800–1850)"
+      "nome_es": "Romanticismo como Reacción: Nación, Pueblo y Sentimiento (1800–1850)",
+      "type": "cultural"
     },
     {
       "id": "cvi-004",
@@ -51,7 +54,8 @@
       "descricao": "Três ondas revolucionárias varreram a Europa antes de 1848: 1820 (Espanha, Portugal, Nápoles, Piemonte — esmagadas por intervenção); 1830 (Revolução de Julho na França substitui Carlos X por Luís Filipe; Bélgica independente; Polônia em revolta — esmagada pela Rússia). A Independência Grega (1821-1829) foi a exceção: apoio das potências contra o Império Otomano.",
       "importancia": "A independência grega foi o primeiro sucesso do nacionalismo europeu — e foi obtida graças ao filhellenismo europeu (Byron morreu em Missolonghi). O padrão estabelecido foi o das potências europeias intervindo em nome de cristãos sob domínio otomano — padrão que repetiria até a Primeira Guerra.",
       "nome_en": "Revolutionary Waves: 1820, 1830 and Greece (1820–1831)",
-      "nome_es": "Oleadas Revolucionarias: 1820, 1830 y Grecia (1820–1831)"
+      "nome_es": "Oleadas Revolucionarias: 1820, 1830 y Grecia (1820–1831)",
+      "type": "political"
     },
     {
       "id": "cv1",
@@ -61,10 +65,10 @@
       "tipo": "evento",
       "inicio": 1792,
       "fim": 1815,
-      "region": "political",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 18,
-      "type": "Modern",
+      "type": "political",
       "descricao": "As guerras napoleonicas (1792-1815) varreram o mapa europeu: o Sacro Imperio Romano destruido (1806), o Imperio Espanhol desestabilizado, os reinos tradicionais reorganizados. Napoleon exportou o Codigo Civil e os principios da Revolucao Francesa: igualdade juridica, fin do feudalismo, liberdade religiosa. Mesmo apos a derrota, os reformas nao foram revertidas completamente.",
       "descricao_en": "The Napoleonic Wars (1792–1815) swept the European map: the Holy Roman Empire destroyed (1806), the Spanish Empire destabilized, traditional kingdoms reorganized. Napoleon exported the Civil Code and the principles of the French Revolution: legal equality, end of feudalism, religious freedom. Even after defeat, the reforms were not completely reversed.",
       "descricao_es": "Las guerras napoleónicas (1792–1815) barrieron el mapa europeo: el Sacro Imperio Romano destruido (1806), el Imperio Español desestabilizado, los reinos tradicionales reorganizados. Napoleón exportó el Código Civil y los principios de la Revolución Francesa: igualdad jurídica, fin del feudalismo, libertad religiosa. Incluso tras la derrota, las reformas no fueron completamente revertidas.",
@@ -88,10 +92,10 @@
       "tipo": "pessoa",
       "inicio": 1773,
       "fim": 1859,
-      "region": "political",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 18,
-      "type": "Modern",
+      "type": "political",
       "descricao": "Clemente de Metternich (1773-1859), ministro austriaco, foi o arquiteto da ordem pos-napoleonica. Seu sistema: aliancas entre monarquias para reprimir revolucoes (interviu na Espanha 1823, nas Napoles 1821), censura e politcia politica, e equilibrio de poder pela negociacao diplomatica. Caiu com a Revolucao de 1848 - e seu sistema com ele. \"Quando a Austria espirra, a Europa pega resfriado.\"",
       "descricao_en": "Klemens von Metternich (1773–1859), Austrian minister, was the architect of the post-Napoleonic order. His system: alliances between monarchies to suppress revolutions (intervened in Spain 1823, Naples 1821), censorship and political police, and balance of power through diplomatic negotiation. He fell with the Revolution of 1848 — and his system with him. \"When Austria sneezes, Europe catches a cold.\"",
       "descricao_es": "Klemens von Metternich (1773–1859), ministro austriaco, fue el arquitecto del orden posnapoleónico. Su sistema: alianzas entre monarquías para reprimir revoluciones (intervino en España 1823, en Nápoles 1821), censura y policía política, y equilibrio de poder por negociación diplomática. Cayó con la Revolución de 1848 — y su sistema con él. \"Cuando Austria estornuda, Europa se resfría.\"",
@@ -116,10 +120,10 @@
       "tipo": "evento",
       "inicio": 1815,
       "fim": 1830,
-      "region": "political",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 19,
-      "type": "Modern",
+      "type": "political",
       "descricao": "A Santa Alianca (Russia, Austria, Prussia, depois UK e Franca) foi o primeiro sistema de segurança coletiva da historia. As Revolucoes de 1820 (Espanha, Napoles, Portugal) foram suprimidas pela intervencao da Alianca. A Revolucao Grega (1821-1829) foi a excecao: o Romanticismo europeu transformou a Grecia em causa internacional, e as potencias reconheceram a independencia grega (1830) contra a vontade de Metternich.",
       "descricao_en": "The Holy Alliance (Russia, Austria, Prussia, later UK and France) was the first collective security system in history. The Revolutions of 1820 (Spain, Naples, Portugal) were suppressed by Alliance intervention. The Greek Revolution (1821–1829) was the exception: European Romanticism turned Greece into an international cause, and the powers recognized Greek independence (1830) against Metternich's wishes.",
       "descricao_es": "La Santa Alianza (Rusia, Austria, Prusia, después UK y Francia) fue el primer sistema de seguridad colectiva de la historia. Las Revoluciones de 1820 (España, Nápoles, Portugal) fueron suprimidas por la intervención de la Alianza. La Revolución Griega (1821–1829) fue la excepción: el Romanticismo europeo transformó a Grecia en causa internacional, y las potencias reconocieron la independencia griega (1830) contra la voluntad de Metternich.",
@@ -144,10 +148,10 @@
       "tipo": "cultural",
       "inicio": 1815,
       "fim": 1871,
-      "region": "cultural",
+      "region": "Europe",
       "period": "Europe",
       "century_start": 19,
-      "type": "Modern",
+      "type": "cultural",
       "descricao": "O Romanticismo politico (Herder, Fichte, Mazzini) criou o conceito de nacao como comunidade de lingua, cultura e historia - nao apenas de sujeitos de um soberano. \"Italia\" era uma expressao geografica (Metternich, 1847); em 1870 era um Estado unificado. \"Alemanha\" era 39 estados em 1815; em 1871 era o Imperio mais poderoso da Europa. O nacionalismo romantico reconfigurou o mapa europeu completamente.",
       "descricao_en": "Political Romanticism (Herder, Fichte, Mazzini) created the concept of the nation as a community of language, culture and history — not just subjects of a sovereign. \"Italy\" was a geographical expression (Metternich, 1847); by 1870 it was a unified State. \"Germany\" was 39 states in 1815; by 1871 it was the most powerful Empire in Europe. Romantic nationalism completely reconfigured the European map.",
       "descricao_es": "El Romanticismo político (Herder, Fichte, Mazzini) creó el concepto de nación como comunidad de lengua, cultura e historia — no solo de súbditos de un soberano. \"Italia\" era una expresión geográfica (Metternich, 1847); en 1870 era un Estado unificado. \"Alemania\" eran 39 estados en 1815; en 1871 era el Imperio más poderoso de Europa. El nacionalismo romántico reconfiguró el mapa europeo completamente.",

@@ -14,7 +14,11 @@
       "importancia": 4,
       "descricao": "O Sudeste Asiático não foi terra vazia antes da chegada europeia. Angkor (Cambodja, 802–1431) foi a maior cidade pré-industrial do mundo, com 1 milhão de habitantes e sistemas de irrigação que alimentavam populações imensas. O Império Majapahit (Java, 1293–1527) controlou o comércio de especiarias de Sumatra às Filipinas. Srivijaya (Sumatra, 650–1377) foi o primeiro grande estado marítimo budista do mundo. Todos mantinham rotas comerciais com China, Índia e Oriente Médio séculos antes dos europeus.",
       "descricao_en": "Southeast Asia was not an empty land before the Europeans arrived. Angkor (Cambodia, 802–1431) was the largest pre-industrial city in the world, with 1 million inhabitants and irrigation systems feeding vast populations. The Majapahit Empire (Java, 1293–1527) controlled the spice trade from Sumatra to the Philippines. Srivijaya (Sumatra, 650–1377) was the first great maritime Buddhist state in the world. All maintained trade routes with China, India and the Middle East centuries before the Europeans.",
-      "descricao_es": "El Sudeste Asiático no era tierra vacía antes de la llegada europea. Angkor (Camboya, 802–1431) fue la mayor ciudad preindustrial del mundo, con 1 millón de habitantes y sistemas de irrigación que alimentaban poblaciones enormes. El Imperio Majapahit (Java, 1293–1527) controlaba el comercio de especias de Sumatra a Filipinas. Srivijaya (Sumatra, 650–1377) fue el primer gran estado marítimo budista del mundo. Todos mantenían rutas comerciales con China, India y Oriente Medio siglos antes de los europeos."
+      "descricao_es": "El Sudeste Asiático no era tierra vacía antes de la llegada europea. Angkor (Camboya, 802–1431) fue la mayor ciudad preindustrial del mundo, con 1 millón de habitantes y sistemas de irrigación que alimentaban poblaciones enormes. El Imperio Majapahit (Java, 1293–1527) controlaba el comercio de especias de Sumatra a Filipinas. Srivijaya (Sumatra, 650–1377) fue el primer gran estado marítimo budista del mundo. Todos mantenían rutas comerciales con China, India y Oriente Medio siglos antes de los europeos.",
+      "inicio": 100,
+      "fim": 1400,
+      "type": "cultural",
+      "region": "Asia"
     },
     {
       "id": "sea-002",
@@ -29,7 +33,11 @@
       "importancia": 5,
       "descricao": "Portugal tomou Malaca em 1511 — o centro do comércio de especiarias. A Holanda expulsou Portugal e dominou as Índias Orientais (Indonésia) por 350 anos. A Grã-Bretanha controlou Birmânia, Malásia e Singapura. A França colonizou a Indochina (Vietnam, Laos, Cambodja) em 1887. A Espanha dominou as Filipinas por 333 anos até 1898, quando os EUA as compraram por 20 milhões de dólares no Tratado de Paris. O único país que escapou foi a Tailândia (Sião) — que serviu de zona-tampão entre britânicos e franceses e fez concessões territoriais para sobreviver.",
       "descricao_en": "Portugal took Malacca in 1511 — the center of the spice trade. The Netherlands expelled Portugal and dominated the East Indies (Indonesia) for 350 years. Britain controlled Burma, Malaysia and Singapore. France colonized Indochina (Vietnam, Laos, Cambodia) in 1887. Spain dominated the Philippines for 333 years until 1898, when the US bought them for 20 million dollars in the Treaty of Paris. The only country to escape was Thailand (Siam) — which served as a buffer zone between the British and French and made territorial concessions to survive.",
-      "descricao_es": "Portugal tomó Malaca en 1511 — el centro del comercio de especias. Los Países Bajos expulsaron a Portugal y dominaron las Indias Orientales (Indonesia) durante 350 años. Gran Bretaña controló Birmania, Malasia y Singapur. Francia colonizó Indochina (Vietnam, Laos, Camboya) en 1887. España dominó Filipinas durante 333 años hasta 1898, cuando EE.UU. las compró por 20 millones de dólares en el Tratado de París. El único país que escapó fue Tailandia (Siam) — que sirvió de zona tampón entre británicos y franceses e hizo concesiones territoriales para sobrevivir."
+      "descricao_es": "Portugal tomó Malaca en 1511 — el centro del comercio de especias. Los Países Bajos expulsaron a Portugal y dominaron las Indias Orientales (Indonesia) durante 350 años. Gran Bretaña controló Birmania, Malasia y Singapur. Francia colonizó Indochina (Vietnam, Laos, Camboya) en 1887. España dominó Filipinas durante 333 años hasta 1898, cuando EE.UU. las compró por 20 millones de dólares en el Tratado de París. El único país que escapó fue Tailandia (Siam) — que sirvió de zona tampón entre británicos y franceses e hizo concesiones territoriales para sobrevivir.",
+      "inicio": 1511,
+      "fim": 1900,
+      "type": "political",
+      "region": "Asia"
     },
     {
       "id": "sea-003",
@@ -44,7 +52,11 @@
       "importancia": 5,
       "descricao": "Em 8 semanas (dezembro 1941–fevereiro 1942), o Japão varreu as potências coloniais europeias do Sudeste Asiático — provou que o domínio branco não era inevitável. Singapura caiu em 8 dias (Churchill chamou de a maior derrota britânica da história). 4–5 milhões de civis morreram de fome e violência na ocupação japonesa da Indonésia, Filipinas e Burma. A ocupação japonesa destruiu o mito da invencibilidade europeia e alimentou os movimentos de independência que explodiram em 1945.",
       "descricao_en": "In 8 weeks (December 1941–February 1942), Japan swept the European colonial powers from Southeast Asia — proving that white domination was not inevitable. Singapore fell in 8 days (Churchill called it the greatest British defeat in history). 4–5 million civilians died of famine and violence during the Japanese occupation of Indonesia, the Philippines and Burma. The Japanese occupation destroyed the myth of European invincibility and fueled the independence movements that exploded in 1945.",
-      "descricao_es": "En 8 semanas (diciembre 1941–febrero 1942), Japón barrió a las potencias coloniales europeas del Sudeste Asiático — demostró que el dominio blanco no era inevitable. Singapur cayó en 8 días (Churchill lo llamó la mayor derrota británica de la historia). 4–5 millones de civiles murieron de hambre y violencia durante la ocupación japonesa de Indonesia, Filipinas y Birmania. La ocupación japonesa destruyó el mito de la invencibilidad europea y alimentó los movimientos de independencia que estallaron en 1945."
+      "descricao_es": "En 8 semanas (diciembre 1941–febrero 1942), Japón barrió a las potencias coloniales europeas del Sudeste Asiático — demostró que el dominio blanco no era inevitable. Singapur cayó en 8 días (Churchill lo llamó la mayor derrota británica de la historia). 4–5 millones de civiles murieron de hambre y violencia durante la ocupación japonesa de Indonesia, Filipinas y Birmania. La ocupación japonesa destruyó el mito de la invencibilidad europea y alimentó los movimientos de independencia que estallaron en 1945.",
+      "inicio": 1941,
+      "fim": 1945,
+      "type": "war",
+      "region": "Asia"
     },
     {
       "id": "sea-004",
@@ -59,7 +71,11 @@
       "importancia": 5,
       "descricao": "A Indonésia declarou independência dois dias após a rendição japonesa (17 agosto 1945) — Sukarno e Hatta leram a proclamação em Jacarta. A Holanda não aceitou e travou uma guerra de reconquista (1945–1949) em que 100.000 indonésios morreram. Os EUA pressionaram pela independência indonésia — precisavam de aliados anticoloniais na Guerra Fria. As Filipinas tornaram-se independentes em 1946. A Birmânia em 1948. A Indochina francesa levaria mais 30 anos e uma guerra devastadora.",
       "descricao_en": "Indonesia declared independence two days after Japan's surrender (August 17, 1945) — Sukarno and Hatta read the proclamation in Jakarta. The Netherlands refused to accept it and waged a reconquest war (1945–1949) in which 100,000 Indonesians died. The US pressured for Indonesian independence — they needed anti-colonial allies in the Cold War. The Philippines became independent in 1946. Burma in 1948. French Indochina would take 30 more years and a devastating war.",
-      "descricao_es": "Indonesia declaró la independencia dos días después de la rendición japonesa (17 agosto 1945) — Sukarno y Hatta leyeron la proclamación en Yakarta. Los Países Bajos no la aceptaron y libraron una guerra de reconquista (1945–1949) en la que murieron 100.000 indonesios. EE.UU. presionó por la independencia indonesia — necesitaban aliados anticoloniales en la Guerra Fría. Filipinas se independizó en 1946. Birmania en 1948. La Indochina francesa tardaría 30 años más y una guerra devastadora."
+      "descricao_es": "Indonesia declaró la independencia dos días después de la rendición japonesa (17 agosto 1945) — Sukarno y Hatta leyeron la proclamación en Yakarta. Los Países Bajos no la aceptaron y libraron una guerra de reconquista (1945–1949) en la que murieron 100.000 indonesios. EE.UU. presionó por la independencia indonesia — necesitaban aliados anticoloniales en la Guerra Fría. Filipinas se independizó en 1946. Birmania en 1948. La Indochina francesa tardaría 30 años más y una guerra devastadora.",
+      "inicio": 1945,
+      "fim": 1948,
+      "type": "political",
+      "region": "Asia"
     },
     {
       "id": "sea-005",
@@ -74,7 +90,11 @@
       "importancia": 4,
       "descricao": "Singapura, expulsa da Federação Malaia em 1965 sem recursos naturais nem água potável própria, tornou-se um dos países mais ricos do mundo em 30 anos sob Lee Kuan Yew — misturando capitalismo de estado, disciplina confuciana e abertura ao investimento estrangeiro. A Tailândia e a Malásia seguiram trajetórias similares. A crise financeira asiática de 1997 colapsou estas economias em meses — e revelou que o 'milagre asiático' dependia de capitais de curto prazo que podiam sair na mesma velocidade com que chegaram.",
       "descricao_en": "Singapore, expelled from the Malaysian Federation in 1965 without natural resources or its own drinking water, became one of the world's richest countries in 30 years under Lee Kuan Yew — mixing state capitalism, Confucian discipline and openness to foreign investment. Thailand and Malaysia followed similar trajectories. The 1997 Asian financial crisis collapsed these economies in months — and revealed that the 'Asian miracle' depended on short-term capital that could leave as fast as it arrived.",
-      "descricao_es": "Singapur, expulsado de la Federación Malaya en 1965 sin recursos naturales ni agua potable propia, se convirtió en uno de los países más ricos del mundo en 30 años bajo Lee Kuan Yew — mezclando capitalismo de estado, disciplina confuciana y apertura a la inversión extranjera. Tailandia y Malasia siguieron trayectorias similares. La crisis financiera asiática de 1997 colapsó estas economías en meses — y reveló que el 'milagro asiático' dependía de capitales a corto plazo que podían salir tan rápido como llegaron."
+      "descricao_es": "Singapur, expulsado de la Federación Malaya en 1965 sin recursos naturales ni agua potable propia, se convirtió en uno de los países más ricos del mundo en 30 años bajo Lee Kuan Yew — mezclando capitalismo de estado, disciplina confuciana y apertura a la inversión extranjera. Tailandia y Malasia siguieron trayectorias similares. La crisis financiera asiática de 1997 colapsó estas economías en meses — y reveló que el 'milagro asiático' dependía de capitales a corto plazo que podían salir tan rápido como llegaron.",
+      "inicio": 1960,
+      "fim": 2000,
+      "type": "economic",
+      "region": "Asia"
     },
     {
       "id": "sea-006",
@@ -89,7 +109,11 @@
       "importancia": 5,
       "descricao": "A Birmânia (Myanmar) sofreu ditadura militar quase ininterrupta desde 1962, com breve abertura democrática (2015–2021) e golpe em fevereiro de 2021. Aung San Suu Kyi ganhou o Nobel da Paz em 1991 presa em prisão domiciliar — e depois autorizou o genocídio dos rohingyas. O Camboja viveu o genocídio Khmer Vermelho (1975–1979) e depois 30 anos de governo de Hun Sen — um ex-comandante Khmer que se tornou o governante mais longevo da Ásia. Timor Leste sobreviveu à ocupação indonésia (1975–1999) com 180.000 mortos e tornou-se independente após referendo supervisionado pela ONU.",
       "descricao_en": "Burma (Myanmar) suffered almost uninterrupted military dictatorship since 1962, with a brief democratic opening (2015–2021) and a coup in February 2021. Aung San Suu Kyi won the Nobel Peace Prize in 1991 while under house arrest — and later authorized the Rohingya genocide. Cambodia experienced the Khmer Rouge genocide (1975–1979) then 30 years of Hun Sen's government — a former Khmer commander who became Asia's longest-ruling leader. East Timor survived the Indonesian occupation (1975–1999) with 180,000 dead and became independent after a UN-supervised referendum.",
-      "descricao_es": "Birmania (Myanmar) sufrió dictadura militar casi ininterrumpida desde 1962, con una breve apertura democrática (2015–2021) y un golpe en febrero de 2021. Aung San Suu Kyi ganó el Nobel de la Paz en 1991 bajo arresto domiciliario — y luego autorizó el genocidio rohinyá. Camboya vivió el genocidio de los Jemeres Rojos (1975–1979) y luego 30 años del gobierno de Hun Sen — un ex comandante Jemer que se convirtió en el gobernante más longevo de Asia. Timor Oriental sobrevivió a la ocupación indonesia (1975–1999) con 180.000 muertos y se independizó tras un referéndum supervisado por la ONU."
+      "descricao_es": "Birmania (Myanmar) sufrió dictadura militar casi ininterrumpida desde 1962, con una breve apertura democrática (2015–2021) y un golpe en febrero de 2021. Aung San Suu Kyi ganó el Nobel de la Paz en 1991 bajo arresto domiciliario — y luego autorizó el genocidio rohinyá. Camboya vivió el genocidio de los Jemeres Rojos (1975–1979) y luego 30 años del gobierno de Hun Sen — un ex comandante Jemer que se convirtió en el gobernante más longevo de Asia. Timor Oriental sobrevivió a la ocupación indonesia (1975–1999) con 180.000 muertos y se independizó tras un referéndum supervisado por la ONU.",
+      "inicio": 1962,
+      "fim": 2024,
+      "type": "political",
+      "region": "Asia"
     }
   ],
   "relacoes": [
