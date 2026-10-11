@@ -9,6 +9,7 @@ const read = file => fs.readFileSync(path.join(root, file), 'utf8');
 const sw = read('sw.js');
 const html = read('index.html');
 const main = read('js/main.js');
+const mobileCss = read('css/mobile-v8.css');
 const index = JSON.parse(read('data/timeline-index.json'));
 
 A.suite('Herodoto V8 — reversible integration', () => {
@@ -23,6 +24,11 @@ A.suite('Herodoto V8 — reversible integration', () => {
     A.ok(html.includes('data-feature="lusophoneDatasetsV8"'));
   });
 
+  A.it('keeps the mobile shell hidden above its breakpoint', () => {
+    A.ok(mobileCss.includes('.mobile-welcome,\n.mobile-bottom-nav,\n.mobile-drawer-close'));
+    A.ok(mobileCss.includes('.mobile-welcome {\n    display: block;'));
+  });
+
   A.it('marks Lusophone index entities for independent fallback', () => {
     const lusophone = index.entities.filter(entity => entity.collection === 'mundo-lusofono-v8');
     A.equal(lusophone.length, 108);
@@ -31,7 +37,7 @@ A.suite('Herodoto V8 — reversible integration', () => {
 
 A.suite('Herodoto V8 — offline shell', () => {
   A.it('uses a V8 cache and resilient installation', () => {
-    A.ok(sw.includes("CACHE_VERSION = 'herodoto-v8-0'"));
+    A.ok(sw.includes("CACHE_VERSION = 'herodoto-v8-0-1'"));
     A.ok(sw.includes('Promise.allSettled'));
   });
 

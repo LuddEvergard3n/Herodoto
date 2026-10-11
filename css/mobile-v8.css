@@ -1,3 +1,9 @@
+.mobile-welcome,
+.mobile-bottom-nav,
+.mobile-drawer-close {
+  display: none;
+}
+
 @media (max-width: 600px) {
   .feature-mobileShellV8 body { padding-bottom: 64px; }
   .feature-mobileShellV8 header { min-height: 58px; padding: 8px 14px; }
@@ -22,6 +28,7 @@
   }
 
   .mobile-welcome {
+    display: block;
     position: absolute; inset: 0; z-index: 30; overflow-y: auto; padding: 28px 18px 36px;
     color: #2a1e0f; background: linear-gradient(150deg, rgba(248,242,226,.98), rgba(226,207,173,.98));
   }
