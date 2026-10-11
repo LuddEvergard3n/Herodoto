@@ -19,6 +19,7 @@ import { applyDatasetLabels } from './dataset-labels.js';
 import { initTimeline } from './timeline.js';
 import { initPersonagens } from './personagens.js';
 import { initCompare } from './compare.js';
+import { applyFeatureState, featureEnabled } from './features.js';
 
 // expose useful functions for debugging / compatibility
 window.getCurrentLang = getCurrentLang;
@@ -48,6 +49,10 @@ async function initApp() {
     return;
   }
   appInitialized = true;
+  applyFeatureState();
+  document.querySelectorAll('[data-feature]').forEach(element => {
+    element.hidden = !featureEnabled(element.dataset.feature);
+  });
   
   console.log('initApp start');
   
