@@ -20,4 +20,13 @@ A.suite('Herodoto 8 — reversible features', () => {
   A.it('keeps Voices behind its independent switch', () => {
     A.ok(index.includes('data-feature="voicesV8"'), 'Voices feature marker missing');
   });
+
+  A.it('loads the reversible mobile shell', () => {
+    const mobile = fs.readFileSync(path.join(__dirname, '..', 'js', 'mobile-shell.js'), 'utf8');
+    const css = fs.readFileSync(path.join(__dirname, '..', 'css', 'mobile-v8.css'), 'utf8');
+    A.ok(index.includes('css/mobile-v8.css'), 'mobile stylesheet missing');
+    A.ok(mobile.includes('mobile-bottom-nav'), 'mobile navigation missing');
+    A.ok(mobile.includes('mobile-drawer-open'), 'filter drawer missing');
+    A.ok(css.includes('@media (max-width: 600px)'), 'mobile breakpoint missing');
+  });
 });

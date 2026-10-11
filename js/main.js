@@ -20,6 +20,7 @@ import { initTimeline } from './timeline.js';
 import { initPersonagens } from './personagens.js';
 import { initCompare } from './compare.js';
 import { applyFeatureState, featureEnabled } from './features.js';
+import { initMobileShell } from './mobile-shell.js';
 
 // expose useful functions for debugging / compatibility
 window.getCurrentLang = getCurrentLang;
@@ -111,6 +112,7 @@ async function initApp() {
   initTimeline();
   initPersonagens();
   initCompare();
+  if (featureEnabled('mobileShellV8')) initMobileShell();
   // Expose dataset label translator for i18n.js
   window._applyDatasetLabels = applyDatasetLabels;
   
