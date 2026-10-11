@@ -22,8 +22,8 @@ A.suite('Timeline V8 — derived indexes', () => {
   });
 
   A.it('index remains a lightweight summary', () => {
-    A.ok(fs.statSync(path.join(root, 'data', 'timeline-index.json')).size < 3_500_000);
-    A.ok(index.entities.every(entity => !Object.hasOwn(entity, 'relations')));
+    A.ok(fs.statSync(path.join(root, 'data', 'timeline-index.json')).size < 4_500_000);
+    A.ok(index.entities.every(entity => Array.isArray(entity.relations) && entity.relations.length <= 6));
   });
 });
 
@@ -42,6 +42,13 @@ A.suite('Timeline V8 — adaptive interface', () => {
     A.ok(mobileSource.includes('visibleCount += 80'));
     A.ok(mobileSource.includes("event.key === 'Escape'"));
     A.ok(mobileSource.includes('returnFocus?.focus()'));
+  });
+
+  A.it('supports region, century and compact relationship navigation', () => {
+    A.ok(mobileSource.includes('tlm-region'));
+    A.ok(mobileSource.includes('tlm-century-filter'));
+    A.ok(mobileSource.includes('tlm-region-group'));
+    A.ok(mobileSource.includes('entity.relations'));
   });
 
   A.it('loads the mobile stylesheet', () => {

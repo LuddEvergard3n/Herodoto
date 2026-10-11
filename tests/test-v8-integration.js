@@ -37,11 +37,11 @@ A.suite('Herodoto V8 — reversible integration', () => {
 
 A.suite('Herodoto V8 — offline shell', () => {
   A.it('uses a V8 cache and resilient installation', () => {
-    A.ok(sw.includes("CACHE_VERSION = 'herodoto-v8-0-1'"));
+    A.ok(/CACHE_VERSION = 'herodoto-v8-0-[0-9]+'/.test(sw));
     A.ok(sw.includes('Promise.allSettled'));
   });
 
   A.it('pre-caches the new local interface modules', () => {
-    for (const asset of ['vozes-historia-v8.html', 'mobile-v8.css', 'timeline-mobile.css', 'voices-grounded.js', 'timeline-index.json']) A.ok(sw.includes(asset));
+    for (const asset of ['vozes-historia-v8.html', 'mobile-v8.css', 'timeline-mobile.css', 'voices-grounded.js', 'timeline-index.json', 'model-manifest.json']) A.ok(sw.includes(asset));
   });
 });

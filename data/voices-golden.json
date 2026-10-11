@@ -1,0 +1,406 @@
+{
+  "version": 1,
+  "generatedFrom": "data/vozes/*.json",
+  "questions": [
+    {
+      "personaId": "herodoto",
+      "question": "O que os registros mostram sobre As Histórias — minha obra?",
+      "expectedEvidenceId": "h-001"
+    },
+    {
+      "personaId": "herodoto",
+      "question": "O que os registros mostram sobre Minha viagem ao Egito?",
+      "expectedEvidenceId": "h-002"
+    },
+    {
+      "personaId": "herodoto",
+      "question": "O que os registros mostram sobre Minha viagem à Pérsia e Babilônia?",
+      "expectedEvidenceId": "h-003"
+    },
+    {
+      "personaId": "herodoto",
+      "question": "O que os registros mostram sobre Minha viagem à Cítia?",
+      "expectedEvidenceId": "h-004"
+    },
+    {
+      "personaId": "herodoto",
+      "question": "O que os registros mostram sobre Guerras Médicas — o grande conflito?",
+      "expectedEvidenceId": "h-005"
+    },
+    {
+      "personaId": "herodoto",
+      "question": "O que os registros mostram sobre Batalha de Maratona (490 a.C.)?",
+      "expectedEvidenceId": "h-006"
+    },
+    {
+      "personaId": "herodoto",
+      "question": "O que os registros mostram sobre Batalha das Termópilas (480 a.C.)?",
+      "expectedEvidenceId": "h-007"
+    },
+    {
+      "personaId": "herodoto",
+      "question": "O que os registros mostram sobre Batalha de Salamina (480 a.C.)?",
+      "expectedEvidenceId": "h-008"
+    },
+    {
+      "personaId": "herodoto",
+      "question": "O que os registros mostram sobre Xerxes, Rei dos Reis da Pérsia?",
+      "expectedEvidenceId": "h-009"
+    },
+    {
+      "personaId": "herodoto",
+      "question": "O que os registros mostram sobre Temístocles de Atenas?",
+      "expectedEvidenceId": "h-010"
+    },
+    {
+      "personaId": "aristoteles",
+      "question": "O que os registros mostram sobre A Academia de Platão — vinte anos como discípulo?",
+      "expectedEvidenceId": "ar-001"
+    },
+    {
+      "personaId": "aristoteles",
+      "question": "O que os registros mostram sobre Platão — meu mestre com quem discordo?",
+      "expectedEvidenceId": "ar-002"
+    },
+    {
+      "personaId": "aristoteles",
+      "question": "O que os registros mostram sobre O Liceu — minha escola em Atenas?",
+      "expectedEvidenceId": "ar-003"
+    },
+    {
+      "personaId": "aristoteles",
+      "question": "O que os registros mostram sobre Alexandre da Macedônia — meu aluno?",
+      "expectedEvidenceId": "ar-004"
+    },
+    {
+      "personaId": "aristoteles",
+      "question": "O que os registros mostram sobre Meu método — a observação como fundamento?",
+      "expectedEvidenceId": "ar-005"
+    },
+    {
+      "personaId": "aristoteles",
+      "question": "O que os registros mostram sobre A Lógica — o organon do pensamento?",
+      "expectedEvidenceId": "ar-006"
+    },
+    {
+      "personaId": "aristoteles",
+      "question": "O que os registros mostram sobre A Ética Nicomáquea — sobre a vida boa?",
+      "expectedEvidenceId": "ar-007"
+    },
+    {
+      "personaId": "aristoteles",
+      "question": "O que os registros mostram sobre A Política — sobre a vida em comunidade?",
+      "expectedEvidenceId": "ar-008"
+    },
+    {
+      "personaId": "aristoteles",
+      "question": "O que os registros mostram sobre Eudaimonia — o florescimento humano?",
+      "expectedEvidenceId": "ar-009"
+    },
+    {
+      "personaId": "aristoteles",
+      "question": "O que os registros mostram sobre Virtude como meio-termo (mesotês)?",
+      "expectedEvidenceId": "ar-010"
+    },
+    {
+      "personaId": "alexandre",
+      "question": "O que os registros mostram sobre Batalha do Granico (334 a.C.) — minha primeira vitória?",
+      "expectedEvidenceId": "al-001"
+    },
+    {
+      "personaId": "alexandre",
+      "question": "O que os registros mostram sobre Batalha de Isso (333 a.C.)?",
+      "expectedEvidenceId": "al-002"
+    },
+    {
+      "personaId": "alexandre",
+      "question": "O que os registros mostram sobre O Nó Górdio?",
+      "expectedEvidenceId": "al-003"
+    },
+    {
+      "personaId": "alexandre",
+      "question": "O que os registros mostram sobre Cerco de Tiro (332 a.C.)?",
+      "expectedEvidenceId": "al-004"
+    },
+    {
+      "personaId": "alexandre",
+      "question": "O que os registros mostram sobre Fundação de Alexandria no Egito (331 a.C.)?",
+      "expectedEvidenceId": "al-005"
+    },
+    {
+      "personaId": "alexandre",
+      "question": "O que os registros mostram sobre Batalha de Gaugamela (331 a.C.) — a decisão do mundo?",
+      "expectedEvidenceId": "al-006"
+    },
+    {
+      "personaId": "alexandre",
+      "question": "O que os registros mostram sobre Dario III — o adversário que nunca me enfrentou?",
+      "expectedEvidenceId": "al-007"
+    },
+    {
+      "personaId": "alexandre",
+      "question": "O que os registros mostram sobre Heféstion — meu companheiro mais próximo?",
+      "expectedEvidenceId": "al-008"
+    },
+    {
+      "personaId": "alexandre",
+      "question": "O que os registros mostram sobre Ptolomeu — meu general e amigo?",
+      "expectedEvidenceId": "al-009"
+    },
+    {
+      "personaId": "alexandre",
+      "question": "O que os registros mostram sobre A Falange Macedônica — minha arma?",
+      "expectedEvidenceId": "al-010"
+    },
+    {
+      "personaId": "cesar",
+      "question": "O que os registros mostram sobre Guerras Gálicas (58–50 a.C.)?",
+      "expectedEvidenceId": "ce-001"
+    },
+    {
+      "personaId": "cesar",
+      "question": "O que os registros mostram sobre Vercingétorix e o Cerco de Alésia (52 a.C.)?",
+      "expectedEvidenceId": "ce-002"
+    },
+    {
+      "personaId": "cesar",
+      "question": "O que os registros mostram sobre O cruzamento do Rubicão (49 a.C.)?",
+      "expectedEvidenceId": "ce-003"
+    },
+    {
+      "personaId": "cesar",
+      "question": "O que os registros mostram sobre Batalha de Farsalos (48 a.C.)?",
+      "expectedEvidenceId": "ce-004"
+    },
+    {
+      "personaId": "cesar",
+      "question": "O que os registros mostram sobre Pompeu Magno — o rival?",
+      "expectedEvidenceId": "ce-005"
+    },
+    {
+      "personaId": "cesar",
+      "question": "O que os registros mostram sobre Marco Licínio Crasso — o primeiro triunvirato?",
+      "expectedEvidenceId": "ce-006"
+    },
+    {
+      "personaId": "cesar",
+      "question": "O que os registros mostram sobre Cícero — o orador que me odeia?",
+      "expectedEvidenceId": "ce-007"
+    },
+    {
+      "personaId": "cesar",
+      "question": "O que os registros mostram sobre O Senado Romano?",
+      "expectedEvidenceId": "ce-008"
+    },
+    {
+      "personaId": "cesar",
+      "question": "O que os registros mostram sobre A reforma do Calendário — o Calendário Juliano?",
+      "expectedEvidenceId": "ce-009"
+    },
+    {
+      "personaId": "cesar",
+      "question": "O que os registros mostram sobre Cleópatra VII — aliança no Egito?",
+      "expectedEvidenceId": "ce-010"
+    },
+    {
+      "personaId": "cleopatra",
+      "question": "O que os registros mostram sobre O Egito que herdei?",
+      "expectedEvidenceId": "cl-001"
+    },
+    {
+      "personaId": "cleopatra",
+      "question": "O que os registros mostram sobre As línguas que falo — minha vantagem?",
+      "expectedEvidenceId": "cl-002"
+    },
+    {
+      "personaId": "cleopatra",
+      "question": "O que os registros mostram sobre Ptolomeu XII Auletes — meu pai?",
+      "expectedEvidenceId": "cl-003"
+    },
+    {
+      "personaId": "cleopatra",
+      "question": "O que os registros mostram sobre Ptolomeu XIII — meu irmão inimigo?",
+      "expectedEvidenceId": "cl-004"
+    },
+    {
+      "personaId": "cleopatra",
+      "question": "O que os registros mostram sobre Júlio César — a aliança que salvou meu reino?",
+      "expectedEvidenceId": "cl-005"
+    },
+    {
+      "personaId": "cleopatra",
+      "question": "O que os registros mostram sobre A Biblioteca de Alexandria?",
+      "expectedEvidenceId": "cl-006"
+    },
+    {
+      "personaId": "cleopatra",
+      "question": "O que os registros mostram sobre Marco Antônio — a aliança política que Roma não entende?",
+      "expectedEvidenceId": "cl-007"
+    },
+    {
+      "personaId": "cleopatra",
+      "question": "O que os registros mostram sobre Octávio — o inimigo que subestimei?",
+      "expectedEvidenceId": "cl-008"
+    },
+    {
+      "personaId": "cleopatra",
+      "question": "O que os registros mostram sobre Ísis — a deusa com quem me identifico?",
+      "expectedEvidenceId": "cl-009"
+    },
+    {
+      "personaId": "cleopatra",
+      "question": "O que os registros mostram sobre O Nilo e a economia do Egito?",
+      "expectedEvidenceId": "cl-010"
+    },
+    {
+      "personaId": "pedro2",
+      "question": "O que os registros mostram sobre Minha coroação aos quatorze anos (1841)?",
+      "expectedEvidenceId": "pe-001"
+    },
+    {
+      "personaId": "pedro2",
+      "question": "O que os registros mostram sobre O Segundo Reinado — o que construí?",
+      "expectedEvidenceId": "pe-002"
+    },
+    {
+      "personaId": "pedro2",
+      "question": "O que os registros mostram sobre A Guerra do Paraguai (1864–1870)?",
+      "expectedEvidenceId": "pe-003"
+    },
+    {
+      "personaId": "pedro2",
+      "question": "O que os registros mostram sobre Lei do Ventre Livre (1871)?",
+      "expectedEvidenceId": "pe-004"
+    },
+    {
+      "personaId": "pedro2",
+      "question": "O que os registros mostram sobre Lei Áurea (1888) — o que sinto sobre ela?",
+      "expectedEvidenceId": "pe-005"
+    },
+    {
+      "personaId": "pedro2",
+      "question": "O que os registros mostram sobre A escravidão no Brasil — minha contradição central?",
+      "expectedEvidenceId": "pe-006"
+    },
+    {
+      "personaId": "pedro2",
+      "question": "O que os registros mostram sobre Os militares e o fim do Império?",
+      "expectedEvidenceId": "pe-007"
+    },
+    {
+      "personaId": "pedro2",
+      "question": "O que os registros mostram sobre Meu exílio em Paris (1889–1891)?",
+      "expectedEvidenceId": "pe-008"
+    },
+    {
+      "personaId": "pedro2",
+      "question": "O que os registros mostram sobre Minha paixão pela ciência e pelos intelectuais?",
+      "expectedEvidenceId": "pe-009"
+    },
+    {
+      "personaId": "pedro2",
+      "question": "O que os registros mostram sobre A monarquia constitucional — o modelo que acredito?",
+      "expectedEvidenceId": "pe-010"
+    },
+    {
+      "personaId": "luisgama",
+      "question": "O que os registros mostram sobre Meu nascimento livre e a venda pelo meu pai?",
+      "expectedEvidenceId": "lg-001"
+    },
+    {
+      "personaId": "luisgama",
+      "question": "O que os registros mostram sobre A chegada a São Paulo como escravo?",
+      "expectedEvidenceId": "lg-002"
+    },
+    {
+      "personaId": "luisgama",
+      "question": "O que os registros mostram sobre Minha alforria e o início da vida como homem livre?",
+      "expectedEvidenceId": "lg-003"
+    },
+    {
+      "personaId": "luisgama",
+      "question": "O que os registros mostram sobre Minha carreira como advogado sem diploma?",
+      "expectedEvidenceId": "lg-004"
+    },
+    {
+      "personaId": "luisgama",
+      "question": "O que os registros mostram sobre Como libertei escravos pelos tribunais?",
+      "expectedEvidenceId": "lg-005"
+    },
+    {
+      "personaId": "luisgama",
+      "question": "O que os registros mostram sobre Lei do Ventre Livre (1871) — o que penso dela?",
+      "expectedEvidenceId": "lg-006"
+    },
+    {
+      "personaId": "luisgama",
+      "question": "O que os registros mostram sobre A Igreja Católica e a escravidão?",
+      "expectedEvidenceId": "lg-007"
+    },
+    {
+      "personaId": "luisgama",
+      "question": "O que os registros mostram sobre Primeiras Trovas Burlescas — minha poesia?",
+      "expectedEvidenceId": "lg-008"
+    },
+    {
+      "personaId": "luisgama",
+      "question": "O que os registros mostram sobre A Gazeta do Povo e o jornalismo abolicionista?",
+      "expectedEvidenceId": "lg-009"
+    },
+    {
+      "personaId": "luisgama",
+      "question": "O que os registros mostram sobre O movimento abolicionista em São Paulo?",
+      "expectedEvidenceId": "lg-010"
+    },
+    {
+      "personaId": "vargas",
+      "question": "O que os registros mostram sobre A Revolução de 1930 — como cheguei ao poder?",
+      "expectedEvidenceId": "va-001"
+    },
+    {
+      "personaId": "vargas",
+      "question": "O que os registros mostram sobre O Estado Novo (1937–1945) — o que foi e o que fiz?",
+      "expectedEvidenceId": "va-002"
+    },
+    {
+      "personaId": "vargas",
+      "question": "O que os registros mostram sobre A CLT — Consolidação das Leis do Trabalho (1943)?",
+      "expectedEvidenceId": "va-003"
+    },
+    {
+      "personaId": "vargas",
+      "question": "O que os registros mostram sobre O salário mínimo?",
+      "expectedEvidenceId": "va-004"
+    },
+    {
+      "personaId": "vargas",
+      "question": "O que os registros mostram sobre A Petrobras (1953) — o petróleo é nosso?",
+      "expectedEvidenceId": "va-005"
+    },
+    {
+      "personaId": "vargas",
+      "question": "O que os registros mostram sobre Carlos Lacerda — meu inimigo mais perigoso?",
+      "expectedEvidenceId": "va-006"
+    },
+    {
+      "personaId": "vargas",
+      "question": "O que os registros mostram sobre A Revolução de 1930 — o tenentismo como base?",
+      "expectedEvidenceId": "va-007"
+    },
+    {
+      "personaId": "vargas",
+      "question": "O que os registros mostram sobre Os militares em 1954 — a pressão atual?",
+      "expectedEvidenceId": "va-008"
+    },
+    {
+      "personaId": "vargas",
+      "question": "O que os registros mostram sobre A industrialização do Brasil — meu projeto?",
+      "expectedEvidenceId": "va-009"
+    },
+    {
+      "personaId": "vargas",
+      "question": "O que os registros mostram sobre A Carta-Testamento — o que deixo escrito?",
+      "expectedEvidenceId": "va-010"
+    }
+  ]
+}

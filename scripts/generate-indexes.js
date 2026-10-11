@@ -15,6 +15,23 @@ for (const file of files) {
   const relative = `data/${file}`;
   const document = JSON.parse(fs.readFileSync(path.join(dataDir, file), 'utf8'));
   const entities = document.entidades || [];
+  const relationsByEntity = new Map();
+  for (const relation of document.relacoes || []) {
+    for (const [entityId, targetId, direction] of [
+      [relation.origem, relation.destino, 'out'],
+      [relation.destino, relation.origem, 'in'],
+    ]) {
+      if (!entityId || !targetId) continue;
+      const relations = relationsByEntity.get(entityId) || [];
+      if (relations.length < 6) relations.push({
+        targetId,
+        direction,
+        type: relation.tipo || 'contexto',
+        description: String(relation.descricao || '').slice(0, 180),
+      });
+      relationsByEntity.set(entityId, relations);
+    }
+  }
   catalog.push({
     id: file.replace(/^dados-|\.json$/g, ''),
     path: relative,
@@ -39,6 +56,7 @@ for (const file of files) {
       tipo: entity.tipo,
       region: entity.region || 'Other',
       tags: Array.isArray(entity.tags) ? entity.tags.slice(0, 8) : [],
+      relations: relationsByEntity.get(entity.id) || [],
     });
   }
 }

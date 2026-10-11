@@ -106,11 +106,11 @@ semanticToggle.addEventListener('click', () => {
     semantic = null;
     setSemanticClient(null);
     semanticToggle.setAttribute('aria-pressed', 'false');
-    semanticToggle.textContent = 'Ativar busca semântica';
+    semanticToggle.textContent = 'Ativar busca semântica (aprox. 118 MB)';
     semanticStatus.textContent = 'Modo lexical local ativo. Nenhuma pergunta sai deste dispositivo.';
     return;
   }
-  semanticStatus.textContent = 'O modelo multilíngue será baixado e armazenado pelo navegador. A primeira consulta pode demorar.';
+  semanticStatus.textContent = 'O modelo multilíngue de aproximadamente 118 MB será baixado e armazenado pelo navegador. A primeira consulta pode demorar.';
   semantic = createSemanticClient(progress => {
     const percent = progress?.progress == null ? '' : ` ${Math.round(progress.progress * 100)}%`;
     semanticStatus.textContent = `Preparando busca semântica.${percent}`;

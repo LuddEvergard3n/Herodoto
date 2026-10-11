@@ -1,5 +1,6 @@
 const MODULE_URL = 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@4.3.1/+esm';
 const MODEL_ID = 'Xenova/multilingual-e5-small';
+const MODEL_REVISION = '761b726dd34fb83930e26aab4e9ac3899aa1fa78';
 
 let extractor = null;
 let cancelled = false;
@@ -22,6 +23,7 @@ async function initialize() {
   env.allowLocalModels = false;
   extractor = await pipeline('feature-extraction', MODEL_ID, {
     dtype: 'q8',
+    revision: MODEL_REVISION,
     progress_callback: progress => postMessage({ type: 'progress', progress }),
   });
 }

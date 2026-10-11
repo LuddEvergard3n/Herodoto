@@ -6,7 +6,7 @@ Interactive history learning platform with a knowledge graph, chronological navi
 [![D3.js](https://img.shields.io/badge/D3.js-v7-F9A03C?logo=d3dotjs&logoColor=white)](https://d3js.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![PWA](https://img.shields.io/badge/PWA-Offline-5A0FC8?logo=pwa&logoColor=white)](https://web.dev/explore/progressive-web-apps)
-[![Tests](https://img.shields.io/badge/Tests-142%20passing-2EA44F)](#tests)
+[![Tests](https://img.shields.io/badge/Tests-145%20passing-2EA44F)](#tests)
 
 > "Herodotus of Halicarnassus presents here the results of his inquiry, so that time may not erase the deeds of humankind." — *Histories*, c. 440 BCE
 
@@ -29,7 +29,7 @@ The dataset spans human history from the earliest hominins to the present, with 
 | Languages | Portuguese, English, Spanish |
 | Bibliography topics | 38 |
 | Bibliographic references | Approximately 500 |
-| Automated tests | 142 passing |
+| Automated tests | 145 passing |
 
 ## Highlights
 
@@ -121,6 +121,15 @@ Regenerate the derived catalog and timeline index after changing datasets:
 ```bash
 node scripts/generate-indexes.js
 ```
+
+Regenerate and run the deterministic Voices retrieval benchmark:
+
+```bash
+node scripts/generate-voices-golden.js
+node scripts/benchmark-voices.js
+```
+
+The optional semantic model is pinned and documented in `data/model-manifest.json`. The lexical engine remains the offline fallback when the model cannot be downloaded or executed.
 
 ## Herodoto 8 and rollback
 

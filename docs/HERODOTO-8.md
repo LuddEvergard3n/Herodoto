@@ -38,6 +38,10 @@ The indexes are disposable and reproducible. Desktop keeps the horizontal SVG re
 
 ## Validation
 
+- The Voices corpus includes 80 deterministic golden questions, ten per persona. `scripts/benchmark-voices.js` must keep the expected evidence in the first five lexical results for at least 85 percent of them.
+- The optional semantic model identity, revision, artifact size and SHA-256 are recorded in `data/model-manifest.json`; failure always falls back to lexical retrieval.
+- The mobile timeline uses the generated compact relationship index and provides type, region and century filters without loading the source JSON files up front.
+
 Run:
 
 ```bash

@@ -1,0 +1,12 @@
+{
+  "id": "Xenova/multilingual-e5-small",
+  "revision": "761b726dd34fb83930e26aab4e9ac3899aa1fa78",
+  "runtime": "@huggingface/transformers@4.3.1",
+  "artifact": "onnx/model_quantized.onnx",
+  "sizeBytes": 118308185,
+  "sha256": "f80102d3f2a1229f387d3c81909990d8945513e347b0eab049f7de3c6f98c193",
+  "license": "MIT",
+  "lastReviewed": "2026-10-11",
+  "optional": true,
+  "fallback": "lexical"
+}

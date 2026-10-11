@@ -4,7 +4,7 @@
  * Permite uso offline completo após primeira visita.
  */
 
-const CACHE_VERSION = 'herodoto-v8-0-1';
+const CACHE_VERSION = 'herodoto-v8-0-2';
 const CACHE_STATIC  = `${CACHE_VERSION}-static`;
 const CACHE_DATA    = `${CACHE_VERSION}-data`;
 
@@ -32,6 +32,7 @@ const STATIC_ASSETS = [
   './js/voices-ui.js',
   './data/dataset-catalog.json',
   './data/timeline-index.json',
+  './data/model-manifest.json',
   './assets/pergaminho.jpg',
   './icons/icon-192.png',
   './icons/icon-512.png',
