@@ -1,3 +1,6 @@
+import { featureEnabled } from './features.js';
+import { openMobileTimeline, closeMobileTimeline } from './timeline-mobile.js';
+
 /**
  * TIMELINE.JS — HERODOTO v7.18
  * ✦ Clustering de eventos próximos
@@ -366,6 +369,16 @@ async function loadAllData() {
   if(allEnts) return allEnts;
   if(loadingP) return loadingP;
   loadingP=(async()=>{
+    if(featureEnabled('timelineV8')) {
+      const response=await fetch('data/timeline-index.json').catch(()=>null);
+      if(response?.ok){
+        const index=await response.json().catch(()=>null);
+        if(index?.entities){
+          allEnts=index.entities.map(e=>({...e,_r:NR(e.region||'Other')}));
+          return allEnts;
+        }
+      }
+    }
     const results=await Promise.all(ALL_DATASETS.map(p=>fetch(p).then(r=>r.ok?r.json():null).catch(()=>null)));
     const seen=new Set(),ents=[];
     for(const d of results){
@@ -874,7 +887,9 @@ function buildPanel(){
 export function initTimeline(){
   buildPanel();
   const btn=document.getElementById('btn-timeline');
-  if(btn)btn.addEventListener('click',openTimeline);
-  window.openTimeline=openTimeline;
-  window.closeTimeline=closeTimeline;
+  const openAdaptiveTimeline=()=>featureEnabled('timelineV8')&&matchMedia('(max-width: 600px)').matches?openMobileTimeline():openTimeline();
+  const closeAdaptiveTimeline=()=>featureEnabled('timelineV8')&&matchMedia('(max-width: 600px)').matches?closeMobileTimeline():closeTimeline();
+  if(btn)btn.addEventListener('click',openAdaptiveTimeline);
+  window.openTimeline=openAdaptiveTimeline;
+  window.closeTimeline=closeAdaptiveTimeline;
 }

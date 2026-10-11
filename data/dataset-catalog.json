@@ -1,0 +1,1973 @@
+{
+  "version": 1,
+  "datasets": [
+    {
+      "id": "1968-europa",
+      "path": "data/dados-1968-europa.json",
+      "title": "1968 europa",
+      "entityCount": 8
+    },
+    {
+      "id": "absolutismo",
+      "path": "data/dados-absolutismo.json",
+      "title": "Absolutismo: Luis XIV, Habsburgos e a Monarquia Absoluta",
+      "entityCount": 8
+    },
+    {
+      "id": "africa-centro-sul",
+      "path": "data/dados-africa-centro-sul.json",
+      "title": "africa centro sul",
+      "entityCount": 8
+    },
+    {
+      "id": "africa-norte",
+      "path": "data/dados-africa-norte.json",
+      "title": "africa norte",
+      "entityCount": 8
+    },
+    {
+      "id": "africa-ocidental",
+      "path": "data/dados-africa-ocidental.json",
+      "title": "africa ocidental",
+      "entityCount": 5
+    },
+    {
+      "id": "africa-oriental",
+      "path": "data/dados-africa-oriental.json",
+      "title": "africa oriental",
+      "entityCount": 8
+    },
+    {
+      "id": "africa-pre-colonial",
+      "path": "data/dados-africa-pre-colonial.json",
+      "title": "africa pre colonial",
+      "entityCount": 8
+    },
+    {
+      "id": "africa-sul-apartheid",
+      "path": "data/dados-africa-sul-apartheid.json",
+      "title": "africa sul apartheid",
+      "entityCount": 8
+    },
+    {
+      "id": "al-andalus",
+      "path": "data/dados-al-andalus.json",
+      "title": "Al-Andalus: O Islao na Peninsula Iberica (711-1492)",
+      "entityCount": 8
+    },
+    {
+      "id": "alemanha-ascensao-hitler",
+      "path": "data/dados-alemanha-ascensao-hitler.json",
+      "title": "alemanha ascensao hitler",
+      "entityCount": 11
+    },
+    {
+      "id": "alemanha-economia-nazista",
+      "path": "data/dados-alemanha-economia-nazista.json",
+      "title": "alemanha economia nazista",
+      "entityCount": 11
+    },
+    {
+      "id": "alemanha-leis-nazistas",
+      "path": "data/dados-alemanha-leis-nazistas.json",
+      "title": "alemanha leis nazistas",
+      "entityCount": 11
+    },
+    {
+      "id": "america-central",
+      "path": "data/dados-america-central.json",
+      "title": "america central",
+      "entityCount": 5
+    },
+    {
+      "id": "america-latina-sec20",
+      "path": "data/dados-america-latina-sec20.json",
+      "title": "america latina sec20",
+      "entityCount": 8
+    },
+    {
+      "id": "america-sul",
+      "path": "data/dados-america-sul.json",
+      "title": "america sul",
+      "entityCount": 6
+    },
+    {
+      "id": "americas-coloniais",
+      "path": "data/dados-americas-coloniais.json",
+      "title": "americas coloniais",
+      "entityCount": 8
+    },
+    {
+      "id": "andes",
+      "path": "data/dados-andes.json",
+      "title": "Andes Pré-Colombianos",
+      "entityCount": 8
+    },
+    {
+      "id": "anos-1990",
+      "path": "data/dados-anos-1990.json",
+      "title": "anos 1990",
+      "entityCount": 10
+    },
+    {
+      "id": "antartica-descoberta",
+      "path": "data/dados-antartica-descoberta.json",
+      "title": "antartica descoberta",
+      "entityCount": 8
+    },
+    {
+      "id": "antartica-moderna",
+      "path": "data/dados-antartica-moderna.json",
+      "title": "antartica moderna",
+      "entityCount": 8
+    },
+    {
+      "id": "arabia-pre-islamica",
+      "path": "data/dados-arabia-pre-islamica.json",
+      "title": "arabia pre islamica",
+      "entityCount": 8
+    },
+    {
+      "id": "arabia-saudita",
+      "path": "data/dados-arabia-saudita.json",
+      "title": "arabia saudita",
+      "entityCount": 8
+    },
+    {
+      "id": "asia-central",
+      "path": "data/dados-asia-central.json",
+      "title": "asia central",
+      "entityCount": 8
+    },
+    {
+      "id": "astecas-expandido",
+      "path": "data/dados-astecas-expandido.json",
+      "title": "Astecas: Império, Tributação, Guerra Florida e Tenochtitlan",
+      "entityCount": 8
+    },
+    {
+      "id": "astecas-imperio",
+      "path": "data/dados-astecas-imperio.json",
+      "title": "Astecas: Tenochtitlan, O Império da Tríplice Aliança e a Conquista",
+      "entityCount": 8
+    },
+    {
+      "id": "austria-prussia",
+      "path": "data/dados-austria-prussia.json",
+      "title": "austria prussia",
+      "entityCount": 8
+    },
+    {
+      "id": "aztecas",
+      "path": "data/dados-aztecas.json",
+      "title": "aztecas",
+      "entityCount": 8
+    },
+    {
+      "id": "balcas-guerras",
+      "path": "data/dados-balcas-guerras.json",
+      "title": "balcas guerras",
+      "entityCount": 8
+    },
+    {
+      "id": "belle-epoque",
+      "path": "data/dados-belle-epoque.json",
+      "title": "belle epoque",
+      "entityCount": 8
+    },
+    {
+      "id": "bizantino-medieval",
+      "path": "data/dados-bizantino-medieval.json",
+      "title": "Bizâncio Medieval",
+      "entityCount": 12
+    },
+    {
+      "id": "brasil-01-povos-originarios",
+      "path": "data/dados-brasil-01-povos-originarios.json",
+      "title": "brasil 01 povos originarios",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-02-pre-colonial",
+      "path": "data/dados-brasil-02-pre-colonial.json",
+      "title": "brasil 02 pre colonial",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-03-capitanias",
+      "path": "data/dados-brasil-03-capitanias.json",
+      "title": "brasil 03 capitanias",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-04-governo-geral",
+      "path": "data/dados-brasil-04-governo-geral.json",
+      "title": "brasil 04 governo geral",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-05-uniao-iberica",
+      "path": "data/dados-brasil-05-uniao-iberica.json",
+      "title": "brasil 05 uniao iberica",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-06-bandeirismo",
+      "path": "data/dados-brasil-06-bandeirismo.json",
+      "title": "brasil 06 bandeirismo",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-07-ciclo-ouro",
+      "path": "data/dados-brasil-07-ciclo-ouro.json",
+      "title": "brasil 07 ciclo ouro",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-08-joanino",
+      "path": "data/dados-brasil-08-joanino.json",
+      "title": "brasil 08 joanino",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-09-independencia",
+      "path": "data/dados-brasil-09-independencia.json",
+      "title": "brasil 09 independencia",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-10-regencial",
+      "path": "data/dados-brasil-10-regencial.json",
+      "title": "brasil 10 regencial",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-11-segundo-reinado",
+      "path": "data/dados-brasil-11-segundo-reinado.json",
+      "title": "brasil 11 segundo reinado",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-12-republica-velha",
+      "path": "data/dados-brasil-12-republica-velha.json",
+      "title": "brasil 12 republica velha",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-13-era-vargas",
+      "path": "data/dados-brasil-13-era-vargas.json",
+      "title": "brasil 13 era vargas",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-14-populismo",
+      "path": "data/dados-brasil-14-populismo.json",
+      "title": "brasil 14 populismo",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-15-ditadura",
+      "path": "data/dados-brasil-15-ditadura.json",
+      "title": "brasil 15 ditadura",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-16-nova-republica",
+      "path": "data/dados-brasil-16-nova-republica.json",
+      "title": "brasil 16 nova republica",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-ciclos-economicos",
+      "path": "data/dados-brasil-ciclos-economicos.json",
+      "title": "brasil ciclos economicos",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-colonial-escravidao",
+      "path": "data/dados-brasil-colonial-escravidao.json",
+      "title": "Brasil Colonial: Escravidão e Resistência",
+      "entityCount": 10
+    },
+    {
+      "id": "brasil-colonial-inicial",
+      "path": "data/dados-brasil-colonial-inicial.json",
+      "title": "Brasil Colonial Inicial",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-colonial-tardio",
+      "path": "data/dados-brasil-colonial-tardio.json",
+      "title": "Brasil Colonial Tardio",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-contemporaneo",
+      "path": "data/dados-brasil-contemporaneo.json",
+      "title": "Brasil Contemporâneo: Lula, FHC e os Dilemas do Desenvolvimento (1994-2020)",
+      "entityCount": 10
+    },
+    {
+      "id": "brasil-cultura-arte",
+      "path": "data/dados-brasil-cultura-arte.json",
+      "title": "brasil cultura arte",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-ditadura",
+      "path": "data/dados-brasil-ditadura.json",
+      "title": "brasil ditadura",
+      "entityCount": 10
+    },
+    {
+      "id": "brasil-economia-social",
+      "path": "data/dados-brasil-economia-social.json",
+      "title": "brasil economia social",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-era-vargas",
+      "path": "data/dados-brasil-era-vargas.json",
+      "title": "Era Vargas: Revolução de 30 ao Suicídio (1930-1954)",
+      "entityCount": 10
+    },
+    {
+      "id": "brasil-guerra-paraguai",
+      "path": "data/dados-brasil-guerra-paraguai.json",
+      "title": "Guerra do Paraguai (1864-1870)",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-imperio-ciencia",
+      "path": "data/dados-brasil-imperio-ciencia.json",
+      "title": "brasil imperio ciencia",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-imperio-figuras",
+      "path": "data/dados-brasil-imperio-figuras.json",
+      "title": "brasil imperio figuras",
+      "entityCount": 9
+    },
+    {
+      "id": "brasil-imperio-infraestrutura",
+      "path": "data/dados-brasil-imperio-infraestrutura.json",
+      "title": "brasil imperio infraestrutura",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-imperio",
+      "path": "data/dados-brasil-imperio.json",
+      "title": "Brasil Império",
+      "entityCount": 10
+    },
+    {
+      "id": "brasil-inconfidencia",
+      "path": "data/dados-brasil-inconfidencia.json",
+      "title": "Inconfidência Mineira e Revoltas Coloniais",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-independencia",
+      "path": "data/dados-brasil-independencia.json",
+      "title": "Independência e Primeiro Reinado (1822-1831)",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-indigenas",
+      "path": "data/dados-brasil-indigenas.json",
+      "title": "brasil indigenas",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-missoes-jesuiticas",
+      "path": "data/dados-brasil-missoes-jesuiticas.json",
+      "title": "Brasil Colonial: Missões Jesuíticas e Ordens Religiosas",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-precolonial",
+      "path": "data/dados-brasil-precolonial.json",
+      "title": "Brasil Pré-Colonial até 1500",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-quilombos",
+      "path": "data/dados-brasil-quilombos.json",
+      "title": "brasil quilombos",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-redemocratizacao",
+      "path": "data/dados-brasil-redemocratizacao.json",
+      "title": "Redemocratização e Nova República (1974-1994)",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-republica-velha",
+      "path": "data/dados-brasil-republica-velha.json",
+      "title": "República Velha: Café com Leite e Política dos Governadores",
+      "entityCount": 8
+    },
+    {
+      "id": "brasil-republica",
+      "path": "data/dados-brasil-republica.json",
+      "title": "Brasil República",
+      "entityCount": 11
+    },
+    {
+      "id": "brasil-revoltas-republica",
+      "path": "data/dados-brasil-revoltas-republica.json",
+      "title": "brasil revoltas republica",
+      "entityCount": 8
+    },
+    {
+      "id": "bronze-egeu",
+      "path": "data/dados-bronze-egeu.json",
+      "title": "Idade do Bronze Egeia: Minoicos e Micênicos",
+      "entityCount": 8
+    },
+    {
+      "id": "califados-islamicos",
+      "path": "data/dados-califados-islamicos.json",
+      "title": "Califados Islâmicos",
+      "entityCount": 12
+    },
+    {
+      "id": "capitalismo",
+      "path": "data/dados-capitalismo.json",
+      "title": "capitalismo",
+      "entityCount": 8
+    },
+    {
+      "id": "caral-andino-antigo",
+      "path": "data/dados-caral-andino-antigo.json",
+      "title": "Caral e as Primeiras Civilizações Andinas",
+      "entityCount": 8
+    },
+    {
+      "id": "caral-culturas-antigas",
+      "path": "data/dados-caral-culturas-antigas.json",
+      "title": "Caral e as Civilizações Andinas Antigas: Origens e Precursores",
+      "entityCount": 8
+    },
+    {
+      "id": "caribe-colonial",
+      "path": "data/dados-caribe-colonial.json",
+      "title": "caribe colonial",
+      "entityCount": 8
+    },
+    {
+      "id": "caribe",
+      "path": "data/dados-caribe.json",
+      "title": "caribe",
+      "entityCount": 4
+    },
+    {
+      "id": "carlomagno",
+      "path": "data/dados-carlomagno.json",
+      "title": "carlomagno",
+      "entityCount": 8
+    },
+    {
+      "id": "carolingios",
+      "path": "data/dados-carolingios.json",
+      "title": "O Império Carolíngio e a Renascença Carolíngia",
+      "entityCount": 8
+    },
+    {
+      "id": "castelos-cavalaria",
+      "path": "data/dados-castelos-cavalaria.json",
+      "title": "Castelos, Cavalaria e a Arte da Guerra Medieval",
+      "entityCount": 8
+    },
+    {
+      "id": "chimu-conquista-peru",
+      "path": "data/dados-chimu-conquista-peru.json",
+      "title": "Chimú, Incas e a Conquista do Peru",
+      "entityCount": 8
+    },
+    {
+      "id": "chimu-wari",
+      "path": "data/dados-chimu-wari.json",
+      "title": "Chimú, Wari e os Predecessores Incas",
+      "entityCount": 8
+    },
+    {
+      "id": "china-antiga",
+      "path": "data/dados-china-antiga.json",
+      "title": "china antiga",
+      "entityCount": 8
+    },
+    {
+      "id": "china-filosofia",
+      "path": "data/dados-china-filosofia.json",
+      "title": "china filosofia",
+      "entityCount": 8
+    },
+    {
+      "id": "china-imperial",
+      "path": "data/dados-china-imperial.json",
+      "title": "china imperial",
+      "entityCount": 12
+    },
+    {
+      "id": "china-mao-revolucao",
+      "path": "data/dados-china-mao-revolucao.json",
+      "title": "Mao: Revolução, Grande Salto e Revolução Cultural",
+      "entityCount": 8
+    },
+    {
+      "id": "china-ming-exploracoes",
+      "path": "data/dados-china-ming-exploracoes.json",
+      "title": "Ming: Zheng He, Grande Muralha e o Grande Isolamento",
+      "entityCount": 8
+    },
+    {
+      "id": "china-ming",
+      "path": "data/dados-china-ming.json",
+      "title": "china ming",
+      "entityCount": 8
+    },
+    {
+      "id": "china-neolitico",
+      "path": "data/dados-china-neolitico.json",
+      "title": "China Neolítica: Yangshao, Longshan, Xia e Shang",
+      "entityCount": 8
+    },
+    {
+      "id": "china-prc",
+      "path": "data/dados-china-prc.json",
+      "title": "china prc",
+      "entityCount": 8
+    },
+    {
+      "id": "china-qin-han",
+      "path": "data/dados-china-qin-han.json",
+      "title": "china qin han",
+      "entityCount": 8
+    },
+    {
+      "id": "china-qing-sociedade",
+      "path": "data/dados-china-qing-sociedade.json",
+      "title": "Qing: Sociedade, Kangxi, Rebeliões e o Século de Humilhação",
+      "entityCount": 8
+    },
+    {
+      "id": "china-qing",
+      "path": "data/dados-china-qing.json",
+      "title": "china qing",
+      "entityCount": 8
+    },
+    {
+      "id": "china-republica",
+      "path": "data/dados-china-republica.json",
+      "title": "china republica",
+      "entityCount": 8
+    },
+    {
+      "id": "china-shang-zhou",
+      "path": "data/dados-china-shang-zhou.json",
+      "title": "China: Filosofia Clássica, Confúcio e as Cem Escolas",
+      "entityCount": 8
+    },
+    {
+      "id": "china-song-ciencia",
+      "path": "data/dados-china-song-ciencia.json",
+      "title": "Song: A Revolução Científica e Tecnológica Medieval Chinesa",
+      "entityCount": 8
+    },
+    {
+      "id": "china-song-yuan",
+      "path": "data/dados-china-song-yuan.json",
+      "title": "china song yuan",
+      "entityCount": 8
+    },
+    {
+      "id": "china-tang",
+      "path": "data/dados-china-tang.json",
+      "title": "china tang",
+      "entityCount": 8
+    },
+    {
+      "id": "china-tres-reinos",
+      "path": "data/dados-china-tres-reinos.json",
+      "title": "china tres reinos",
+      "entityCount": 8
+    },
+    {
+      "id": "ciencia-tecnologia",
+      "path": "data/dados-ciencia-tecnologia.json",
+      "title": "ciencia tecnologia",
+      "entityCount": 8
+    },
+    {
+      "id": "civilizacoes-mediterraneo",
+      "path": "data/dados-civilizacoes-mediterraneo.json",
+      "title": "civilizacoes mediterraneo",
+      "entityCount": 8
+    },
+    {
+      "id": "colapso-idade-bronze",
+      "path": "data/dados-colapso-idade-bronze.json",
+      "title": "colapso idade bronze",
+      "entityCount": 8
+    },
+    {
+      "id": "concilios-ecumenicos",
+      "path": "data/dados-concilios-ecumenicos.json",
+      "title": "Concílios Ecumênicos da Igreja Católica",
+      "entityCount": 10
+    },
+    {
+      "id": "congresso-viena",
+      "path": "data/dados-congresso-viena.json",
+      "title": "congresso viena",
+      "entityCount": 8
+    },
+    {
+      "id": "contrarreforma",
+      "path": "data/dados-contrarreforma.json",
+      "title": "contrarreforma",
+      "entityCount": 8
+    },
+    {
+      "id": "coreia-antiga",
+      "path": "data/dados-coreia-antiga.json",
+      "title": "Coreia Antiga: Gojoseon, Três Reinos e Silla",
+      "entityCount": 8
+    },
+    {
+      "id": "coreia-joseon",
+      "path": "data/dados-coreia-joseon.json",
+      "title": "Joseon: A Dinastia que Moldou a Coreia",
+      "entityCount": 8
+    },
+    {
+      "id": "coreia-moderna",
+      "path": "data/dados-coreia-moderna.json",
+      "title": "Coreia Moderna: Colonização Japonesa, Guerra e Desenvolvimento",
+      "entityCount": 8
+    },
+    {
+      "id": "coreia",
+      "path": "data/dados-coreia.json",
+      "title": "coreia",
+      "entityCount": 8
+    },
+    {
+      "id": "cruzadas-expandido",
+      "path": "data/dados-cruzadas-expandido.json",
+      "title": "Cruzadas: Fé, Guerra, Ordens Militares e Consequências",
+      "entityCount": 8
+    },
+    {
+      "id": "cruzadas",
+      "path": "data/dados-cruzadas.json",
+      "title": "As Cruzadas: Fé, Guerra e Encontro de Civilizações",
+      "entityCount": 8
+    },
+    {
+      "id": "descolonizacao-guerras",
+      "path": "data/dados-descolonizacao-guerras.json",
+      "title": "descolonizacao guerras",
+      "entityCount": 8
+    },
+    {
+      "id": "descolonizacao",
+      "path": "data/dados-descolonizacao.json",
+      "title": "Descolonização",
+      "entityCount": 14
+    },
+    {
+      "id": "desintegracao-urss",
+      "path": "data/dados-desintegracao-urss.json",
+      "title": "desintegracao urss",
+      "entityCount": 8
+    },
+    {
+      "id": "egito-antigo",
+      "path": "data/dados-egito-antigo.json",
+      "title": "Egito Antigo",
+      "entityCount": 14
+    },
+    {
+      "id": "egito-novo-reino",
+      "path": "data/dados-egito-novo-reino.json",
+      "title": "Egito: Novo Reino, Faraós Guerreiros e Cleópatra",
+      "entityCount": 8
+    },
+    {
+      "id": "egito-reinos-antigo-medio",
+      "path": "data/dados-egito-reinos-antigo-medio.json",
+      "title": "Egito: Reino Antigo, Médio e a Civilização dos Faraós",
+      "entityCount": 8
+    },
+    {
+      "id": "egito-reinos",
+      "path": "data/dados-egito-reinos.json",
+      "title": "Egito Antigo: Antigo, Médio e Novo Reino",
+      "entityCount": 8
+    },
+    {
+      "id": "egito-tardio",
+      "path": "data/dados-egito-tardio.json",
+      "title": "Egito Tardio: Assírios, Persas, Alexandre e Cleópatra",
+      "entityCount": 8
+    },
+    {
+      "id": "entreguerras",
+      "path": "data/dados-entreguerras.json",
+      "title": "Período Entreguerras",
+      "entityCount": 8
+    },
+    {
+      "id": "era-moderna",
+      "path": "data/dados-era-moderna.json",
+      "title": "Era Moderna",
+      "entityCount": 12
+    },
+    {
+      "id": "eua-colonias",
+      "path": "data/dados-eua-colonias.json",
+      "title": "EUA: Treze Colônias e a Revolução Americana",
+      "entityCount": 8
+    },
+    {
+      "id": "eua-contemporaneo",
+      "path": "data/dados-eua-contemporaneo.json",
+      "title": "EUA Contemporâneo: Reagan, 11/9, Obama e Polarização",
+      "entityCount": 8
+    },
+    {
+      "id": "eua-expansao-civil",
+      "path": "data/dados-eua-expansao-civil.json",
+      "title": "EUA: Expansão Continental, Escravidão e Guerra Civil",
+      "entityCount": 8
+    },
+    {
+      "id": "eua-fundacao",
+      "path": "data/dados-eua-fundacao.json",
+      "title": "EUA: Colônias, Revolução e a República Fundadora",
+      "entityCount": 8
+    },
+    {
+      "id": "eua-gilded-age",
+      "path": "data/dados-eua-gilded-age.json",
+      "title": "EUA: Industrialização, Gilded Age e Imperialismo",
+      "entityCount": 8
+    },
+    {
+      "id": "eua-guerra-civil",
+      "path": "data/dados-eua-guerra-civil.json",
+      "title": "EUA: Escravidão, Guerra Civil e Reconstrução",
+      "entityCount": 8
+    },
+    {
+      "id": "eua-guerra-fria",
+      "path": "data/dados-eua-guerra-fria.json",
+      "title": "EUA: Guerra Fria, Direitos Civis e Contracultura",
+      "entityCount": 8
+    },
+    {
+      "id": "eua-guerras-mundiais",
+      "path": "data/dados-eua-guerras-mundiais.json",
+      "title": "EUA: Primeira Guerra, Depressão e Segunda Guerra",
+      "entityCount": 8
+    },
+    {
+      "id": "eua-historia",
+      "path": "data/dados-eua-historia.json",
+      "title": "eua historia",
+      "entityCount": 8
+    },
+    {
+      "id": "eua-industrializacao",
+      "path": "data/dados-eua-industrializacao.json",
+      "title": "EUA: Industrialização, Gilded Age e Progressivismo",
+      "entityCount": 8
+    },
+    {
+      "id": "eua-new-deal-guerra-fria",
+      "path": "data/dados-eua-new-deal-guerra-fria.json",
+      "title": "EUA: New Deal, Segunda Guerra e Guerra Fria",
+      "entityCount": 8
+    },
+    {
+      "id": "eua-seculo-xx",
+      "path": "data/dados-eua-seculo-xx.json",
+      "title": "eua seculo xx",
+      "entityCount": 8
+    },
+    {
+      "id": "eua-seculo20",
+      "path": "data/dados-eua-seculo20.json",
+      "title": "Estados Unidos no Século XX: Potência, Direitos e Guerra Fria",
+      "entityCount": 8
+    },
+    {
+      "id": "europa-contemporanea",
+      "path": "data/dados-europa-contemporanea.json",
+      "title": "europa contemporanea",
+      "entityCount": 8
+    },
+    {
+      "id": "europa-medieval-aprofundada",
+      "path": "data/dados-europa-medieval-aprofundada.json",
+      "title": "europa medieval aprofundada",
+      "entityCount": 8
+    },
+    {
+      "id": "europa-pos-guerra",
+      "path": "data/dados-europa-pos-guerra.json",
+      "title": "europa pos guerra",
+      "entityCount": 8
+    },
+    {
+      "id": "evolucao-humana",
+      "path": "data/dados-evolucao-humana.json",
+      "title": "evolucao humana",
+      "entityCount": 10
+    },
+    {
+      "id": "existencialismo",
+      "path": "data/dados-existencialismo.json",
+      "title": "existencialismo",
+      "entityCount": 8
+    },
+    {
+      "id": "expansao-isla",
+      "path": "data/dados-expansao-isla.json",
+      "title": "expansao isla",
+      "entityCount": 8
+    },
+    {
+      "id": "fascismo-italiano",
+      "path": "data/dados-fascismo-italiano.json",
+      "title": "fascismo italiano",
+      "entityCount": 8
+    },
+    {
+      "id": "fenicios-cartago",
+      "path": "data/dados-fenicios-cartago.json",
+      "title": "fenicios cartago",
+      "entityCount": 8
+    },
+    {
+      "id": "filosofia-antiga",
+      "path": "data/dados-filosofia-antiga.json",
+      "title": "filosofia antiga",
+      "entityCount": 11
+    },
+    {
+      "id": "filosofia-medieval",
+      "path": "data/dados-filosofia-medieval.json",
+      "title": "filosofia medieval",
+      "entityCount": 8
+    },
+    {
+      "id": "filosofia-moderna",
+      "path": "data/dados-filosofia-moderna.json",
+      "title": "Filosofia Moderna: Descartes, Locke, Hume e Kant",
+      "entityCount": 8
+    },
+    {
+      "id": "filosofia-racionalismo",
+      "path": "data/dados-filosofia-racionalismo.json",
+      "title": "Filosofia Moderna: Racionalismo, Empirismo e Iluminismo",
+      "entityCount": 8
+    },
+    {
+      "id": "franca-ancien-regime",
+      "path": "data/dados-franca-ancien-regime.json",
+      "title": "franca ancien regime",
+      "entityCount": 8
+    },
+    {
+      "id": "frente-ocidental-1914",
+      "path": "data/dados-frente-ocidental-1914.json",
+      "title": "frente ocidental 1914",
+      "entityCount": 8
+    },
+    {
+      "id": "frente-oriental",
+      "path": "data/dados-frente-oriental.json",
+      "title": "frente oriental",
+      "entityCount": 8
+    },
+    {
+      "id": "grecia-alexandre",
+      "path": "data/dados-grecia-alexandre.json",
+      "title": "Alexandre Magno: Conquistas, Helenismo e Legado",
+      "entityCount": 8
+    },
+    {
+      "id": "grecia-antiga",
+      "path": "data/dados-grecia-antiga.json",
+      "title": "Grécia Antiga",
+      "entityCount": 14
+    },
+    {
+      "id": "grecia-atenas",
+      "path": "data/dados-grecia-atenas.json",
+      "title": "Atenas: Democracia, Péricles e o Século de Ouro",
+      "entityCount": 8
+    },
+    {
+      "id": "grecia-cultura",
+      "path": "data/dados-grecia-cultura.json",
+      "title": "Arte, Ciência e Literatura da Grécia Clássica",
+      "entityCount": 8
+    },
+    {
+      "id": "grecia-esparta",
+      "path": "data/dados-grecia-esparta.json",
+      "title": "Esparta: Licurgo, Agoge e a Máquina de Guerra Grega",
+      "entityCount": 8
+    },
+    {
+      "id": "grecia-filosofia",
+      "path": "data/dados-grecia-filosofia.json",
+      "title": "Filosofia e Ciência da Grécia Antiga",
+      "entityCount": 8
+    },
+    {
+      "id": "grecia-guerras",
+      "path": "data/dados-grecia-guerras.json",
+      "title": "Guerras Greco-Persas e do Peloponeso",
+      "entityCount": 8
+    },
+    {
+      "id": "grecia-helenismo",
+      "path": "data/dados-grecia-helenismo.json",
+      "title": "grecia helenismo",
+      "entityCount": 8
+    },
+    {
+      "id": "guerra-cem-anos",
+      "path": "data/dados-guerra-cem-anos.json",
+      "title": "guerra cem anos",
+      "entityCount": 8
+    },
+    {
+      "id": "guerra-civil-espanhola",
+      "path": "data/dados-guerra-civil-espanhola.json",
+      "title": "guerra civil espanhola",
+      "entityCount": 8
+    },
+    {
+      "id": "guerra-fria-europa",
+      "path": "data/dados-guerra-fria-europa.json",
+      "title": "guerra fria europa",
+      "entityCount": 8
+    },
+    {
+      "id": "guerra-fria",
+      "path": "data/dados-guerra-fria.json",
+      "title": "Guerra Fria",
+      "entityCount": 12
+    },
+    {
+      "id": "guerra-trinta-anos",
+      "path": "data/dados-guerra-trinta-anos.json",
+      "title": "guerra trinta anos",
+      "entityCount": 8
+    },
+    {
+      "id": "guerra-vietnam",
+      "path": "data/dados-guerra-vietnam.json",
+      "title": "guerra vietnam",
+      "entityCount": 10
+    },
+    {
+      "id": "guerras-napoleonicas",
+      "path": "data/dados-guerras-napoleonicas.json",
+      "title": "guerras napoleonicas",
+      "entityCount": 8
+    },
+    {
+      "id": "guerras-religiao",
+      "path": "data/dados-guerras-religiao.json",
+      "title": "guerras religiao",
+      "entityCount": 8
+    },
+    {
+      "id": "habsburgos",
+      "path": "data/dados-habsburgos.json",
+      "title": "habsburgos",
+      "entityCount": 8
+    },
+    {
+      "id": "helenismo-ciencia",
+      "path": "data/dados-helenismo-ciencia.json",
+      "title": "helenismo ciencia",
+      "entityCount": 8
+    },
+    {
+      "id": "historia-alimentacao",
+      "path": "data/dados-historia-alimentacao.json",
+      "title": "historia alimentacao",
+      "entityCount": 9
+    },
+    {
+      "id": "historia-medicina",
+      "path": "data/dados-historia-medicina.json",
+      "title": "historia medicina",
+      "entityCount": 8
+    },
+    {
+      "id": "hitititas-bronze",
+      "path": "data/dados-hitititas-bronze.json",
+      "title": "hitititas bronze",
+      "entityCount": 8
+    },
+    {
+      "id": "holanda-seculo-de-ouro",
+      "path": "data/dados-holanda-seculo-de-ouro.json",
+      "title": "holanda seculo de ouro",
+      "entityCount": 8
+    },
+    {
+      "id": "holocaust",
+      "path": "data/dados-holocaust.json",
+      "title": "holocaust",
+      "entityCount": 8
+    },
+    {
+      "id": "holocausto",
+      "path": "data/dados-holocausto.json",
+      "title": "holocausto",
+      "entityCount": 8
+    },
+    {
+      "id": "humanismo-erasmo",
+      "path": "data/dados-humanismo-erasmo.json",
+      "title": "humanismo erasmo",
+      "entityCount": 8
+    },
+    {
+      "id": "idade-axial",
+      "path": "data/dados-idade-axial.json",
+      "title": "idade axial",
+      "entityCount": 8
+    },
+    {
+      "id": "idade-media-europeia",
+      "path": "data/dados-idade-media-europeia.json",
+      "title": "Idade Média Europeia",
+      "entityCount": 8
+    },
+    {
+      "id": "igreja-ciencia",
+      "path": "data/dados-igreja-ciencia.json",
+      "title": "Igreja, Ciência e os Casos Copérnico, Galileu e Bruno",
+      "entityCount": 8
+    },
+    {
+      "id": "igreja-escravidao",
+      "path": "data/dados-igreja-escravidao.json",
+      "title": "Igreja Católica contra a Escravidão: Bulas e Defesa dos Indígenas",
+      "entityCount": 8
+    },
+    {
+      "id": "igreja-fundacao",
+      "path": "data/dados-igreja-fundacao.json",
+      "title": "Fundação da Igreja Católica",
+      "entityCount": 8
+    },
+    {
+      "id": "igreja-medieval-cultura",
+      "path": "data/dados-igreja-medieval-cultura.json",
+      "title": "Igreja Católica na Idade Média: Arte, Ciência e Cultura",
+      "entityCount": 8
+    },
+    {
+      "id": "iluminismo-alemao",
+      "path": "data/dados-iluminismo-alemao.json",
+      "title": "iluminismo alemao",
+      "entityCount": 8
+    },
+    {
+      "id": "iluminismo-britanico",
+      "path": "data/dados-iluminismo-britanico.json",
+      "title": "iluminismo britanico",
+      "entityCount": 8
+    },
+    {
+      "id": "iluminismo-frances",
+      "path": "data/dados-iluminismo-frances.json",
+      "title": "iluminismo frances",
+      "entityCount": 8
+    },
+    {
+      "id": "iluminismo",
+      "path": "data/dados-iluminismo.json",
+      "title": "iluminismo",
+      "entityCount": 10
+    },
+    {
+      "id": "imperialismo-britanico",
+      "path": "data/dados-imperialismo-britanico.json",
+      "title": "imperialismo britanico",
+      "entityCount": 8
+    },
+    {
+      "id": "imperialismo-colonial",
+      "path": "data/dados-imperialismo-colonial.json",
+      "title": "imperialismo colonial",
+      "entityCount": 8
+    },
+    {
+      "id": "imperialismo-frances",
+      "path": "data/dados-imperialismo-frances.json",
+      "title": "imperialismo frances",
+      "entityCount": 8
+    },
+    {
+      "id": "imperio-otomano",
+      "path": "data/dados-imperio-otomano.json",
+      "title": "imperio otomano",
+      "entityCount": 8
+    },
+    {
+      "id": "incas",
+      "path": "data/dados-incas.json",
+      "title": "incas",
+      "entityCount": 8
+    },
+    {
+      "id": "independencias-america-latina",
+      "path": "data/dados-independencias-america-latina.json",
+      "title": "independencias america latina",
+      "entityCount": 8
+    },
+    {
+      "id": "india-antiga",
+      "path": "data/dados-india-antiga.json",
+      "title": "India Antiga: Vedas, Budismo e o Império Maurya",
+      "entityCount": 8
+    },
+    {
+      "id": "india-britanica",
+      "path": "data/dados-india-britanica.json",
+      "title": "india britanica",
+      "entityCount": 8
+    },
+    {
+      "id": "india-medieval-moderna",
+      "path": "data/dados-india-medieval-moderna.json",
+      "title": "India Medieval e Moderna: Mughals, Colonialismo e Independência",
+      "entityCount": 8
+    },
+    {
+      "id": "india-medieval",
+      "path": "data/dados-india-medieval.json",
+      "title": "india medieval",
+      "entityCount": 8
+    },
+    {
+      "id": "india-mogol",
+      "path": "data/dados-india-mogol.json",
+      "title": "india mogol",
+      "entityCount": 8
+    },
+    {
+      "id": "india-vedica-maurya",
+      "path": "data/dados-india-vedica-maurya.json",
+      "title": "india vedica maurya",
+      "entityCount": 8
+    },
+    {
+      "id": "industrializacao-europa",
+      "path": "data/dados-industrializacao-europa.json",
+      "title": "industrializacao europa",
+      "entityCount": 8
+    },
+    {
+      "id": "ingles-revolucao",
+      "path": "data/dados-ingles-revolucao.json",
+      "title": "ingles revolucao",
+      "entityCount": 8
+    },
+    {
+      "id": "inquisicao",
+      "path": "data/dados-inquisicao.json",
+      "title": "A Santa Inquisição: História e Desmitificação",
+      "entityCount": 8
+    },
+    {
+      "id": "iran-moderno",
+      "path": "data/dados-iran-moderno.json",
+      "title": "iran moderno",
+      "entityCount": 8
+    },
+    {
+      "id": "isla-fragmentacao",
+      "path": "data/dados-isla-fragmentacao.json",
+      "title": "Islã: Fragmentação, Sufismo e Encontro com o Ocidente",
+      "entityCount": 8
+    },
+    {
+      "id": "isla-origens",
+      "path": "data/dados-isla-origens.json",
+      "title": "Islã: Origens, Maomé e os Califados Rashidun",
+      "entityCount": 8
+    },
+    {
+      "id": "islao-fundacao",
+      "path": "data/dados-islao-fundacao.json",
+      "title": "Maome e a Fundacao do Islao (570-632 d.C.)",
+      "entityCount": 8
+    },
+    {
+      "id": "israel-palestina",
+      "path": "data/dados-israel-palestina.json",
+      "title": "israel palestina",
+      "entityCount": 8
+    },
+    {
+      "id": "japao-antigo",
+      "path": "data/dados-japao-antigo.json",
+      "title": "Japão Antigo: Jomon, Yayoi, Kofun e Período Heian",
+      "entityCount": 8
+    },
+    {
+      "id": "japao-arcaico",
+      "path": "data/dados-japao-arcaico.json",
+      "title": "Japão Arcaico: Jōmon, Yayoi, Kofun e Nara",
+      "entityCount": 8
+    },
+    {
+      "id": "japao-feudal",
+      "path": "data/dados-japao-feudal.json",
+      "title": "japao feudal",
+      "entityCount": 8
+    },
+    {
+      "id": "japao-meiji",
+      "path": "data/dados-japao-meiji.json",
+      "title": "Era Meiji: A Modernização do Japão (1868–1912)",
+      "entityCount": 8
+    },
+    {
+      "id": "japao-moderno",
+      "path": "data/dados-japao-moderno.json",
+      "title": "Japão Moderno: Imperialismo, Guerra e Renascimento",
+      "entityCount": 8
+    },
+    {
+      "id": "japao-sengoku",
+      "path": "data/dados-japao-sengoku.json",
+      "title": "Japão: Sengoku, Unificadores e Shogunato Tokugawa",
+      "entityCount": 8
+    },
+    {
+      "id": "japao",
+      "path": "data/dados-japao.json",
+      "title": "japao",
+      "entityCount": 8
+    },
+    {
+      "id": "lutero-reforma",
+      "path": "data/dados-lutero-reforma.json",
+      "title": "Lutero, a Reforma e as Doutrinas Agostinianas",
+      "entityCount": 8
+    },
+    {
+      "id": "mapuches-povos-sul",
+      "path": "data/dados-mapuches-povos-sul.json",
+      "title": "Mapuches, Patagônia e os Povos do Extremo Sul",
+      "entityCount": 8
+    },
+    {
+      "id": "maya-ciencia",
+      "path": "data/dados-maya-ciencia.json",
+      "title": "Maya: Matemática, Astronomia e Sistema de Escrita",
+      "entityCount": 8
+    },
+    {
+      "id": "maya-classico",
+      "path": "data/dados-maya-classico.json",
+      "title": "maya classico",
+      "entityCount": 8
+    },
+    {
+      "id": "maya-expandido",
+      "path": "data/dados-maya-expandido.json",
+      "title": "Civilização Maya: Clássico, Colapso e Pós-Clássico",
+      "entityCount": 8
+    },
+    {
+      "id": "medieval-cidades-universidades",
+      "path": "data/dados-medieval-cidades-universidades.json",
+      "title": "Cidades, Universidades e o Renascimento Comercial Medieval",
+      "entityCount": 8
+    },
+    {
+      "id": "medieval-feudalismo",
+      "path": "data/dados-medieval-feudalismo.json",
+      "title": "Feudalismo e Estrutura Social Medieval",
+      "entityCount": 8
+    },
+    {
+      "id": "mesoamerica",
+      "path": "data/dados-mesoamerica.json",
+      "title": "Mesoamérica Pré-Colombiana",
+      "entityCount": 8
+    },
+    {
+      "id": "mesopotamia-bronze",
+      "path": "data/dados-mesopotamia-bronze.json",
+      "title": "Mesopotâmia: Acádia, Ur III e Babilônia Antiga",
+      "entityCount": 8
+    },
+    {
+      "id": "mesopotamia-classica",
+      "path": "data/dados-mesopotamia-classica.json",
+      "title": "Mesopotâmia Clássica: Babilônia, Assíria e o Mundo Semita",
+      "entityCount": 8
+    },
+    {
+      "id": "mesopotamia-hebreus-fenicios",
+      "path": "data/dados-mesopotamia-hebreus-fenicios.json",
+      "title": "Mesopotâmia: Fenícios, Hebreus e Civilizações Levantinas",
+      "entityCount": 8
+    },
+    {
+      "id": "mesopotamia",
+      "path": "data/dados-mesopotamia.json",
+      "title": "mesopotamia",
+      "entityCount": 14
+    },
+    {
+      "id": "mongois-asia-central",
+      "path": "data/dados-mongois-asia-central.json",
+      "title": "mongois asia central",
+      "entityCount": 8
+    },
+    {
+      "id": "mongois-conquistas",
+      "path": "data/dados-mongois-conquistas.json",
+      "title": "Mongóis: Conquistas, Impérios e Legado",
+      "entityCount": 8
+    },
+    {
+      "id": "mongois-gengis",
+      "path": "data/dados-mongois-gengis.json",
+      "title": "mongois gengis",
+      "entityCount": 8
+    },
+    {
+      "id": "movimento-nao-alinhado",
+      "path": "data/dados-movimento-nao-alinhado.json",
+      "title": "movimento nao alinhado",
+      "entityCount": 7
+    },
+    {
+      "id": "movimentos-arte",
+      "path": "data/dados-movimentos-arte.json",
+      "title": "movimentos arte",
+      "entityCount": 8
+    },
+    {
+      "id": "movimentos-sociais",
+      "path": "data/dados-movimentos-sociais.json",
+      "title": "movimentos sociais",
+      "entityCount": 8
+    },
+    {
+      "id": "nacionalismo-europeu",
+      "path": "data/dados-nacionalismo-europeu.json",
+      "title": "nacionalismo europeu",
+      "entityCount": 8
+    },
+    {
+      "id": "napoleao-europa",
+      "path": "data/dados-napoleao-europa.json",
+      "title": "napoleao europa",
+      "entityCount": 8
+    },
+    {
+      "id": "navegacoes",
+      "path": "data/dados-navegacoes.json",
+      "title": "Grandes Navegações",
+      "entityCount": 10
+    },
+    {
+      "id": "nazismo",
+      "path": "data/dados-nazismo.json",
+      "title": "nazismo",
+      "entityCount": 8
+    },
+    {
+      "id": "oceania-aborigenes",
+      "path": "data/dados-oceania-aborigenes.json",
+      "title": "oceania aborigenes",
+      "entityCount": 6
+    },
+    {
+      "id": "oceania-contemporanea",
+      "path": "data/dados-oceania-contemporanea.json",
+      "title": "oceania contemporanea",
+      "entityCount": 4
+    },
+    {
+      "id": "oceania-melanesia",
+      "path": "data/dados-oceania-melanesia.json",
+      "title": "oceania melanesia",
+      "entityCount": 4
+    },
+    {
+      "id": "oceania-polinesia",
+      "path": "data/dados-oceania-polinesia.json",
+      "title": "oceania polinesia",
+      "entityCount": 7
+    },
+    {
+      "id": "olmecas",
+      "path": "data/dados-olmecas.json",
+      "title": "Olmecas: A Civilização-Mãe da Mesoamérica",
+      "entityCount": 8
+    },
+    {
+      "id": "oriente-medio-moderno",
+      "path": "data/dados-oriente-medio-moderno.json",
+      "title": "oriente medio moderno",
+      "entityCount": 8
+    },
+    {
+      "id": "pandemias",
+      "path": "data/dados-pandemias.json",
+      "title": "pandemias",
+      "entityCount": 9
+    },
+    {
+      "id": "persia-antiga",
+      "path": "data/dados-persia-antiga.json",
+      "title": "persia antiga",
+      "entityCount": 8
+    },
+    {
+      "id": "persia-expandida",
+      "path": "data/dados-persia-expandida.json",
+      "title": "Impérios Persas: Aquemênida, Selêucida, Parta e Sassânida",
+      "entityCount": 8
+    },
+    {
+      "id": "persia-zoroastrismo-cultura",
+      "path": "data/dados-persia-zoroastrismo-cultura.json",
+      "title": "Pérsia: Zoroastrismo, Arte e Contribuições Culturais",
+      "entityCount": 8
+    },
+    {
+      "id": "persia",
+      "path": "data/dados-persia.json",
+      "title": "Pérsia: Aquemênidas, Partas, Sassânidas e Safávidas",
+      "entityCount": 8
+    },
+    {
+      "id": "personagens-africa-oriente",
+      "path": "data/dados-personagens-africa-oriente.json",
+      "title": "personagens africa oriente",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-americas",
+      "path": "data/dados-personagens-americas.json",
+      "title": "personagens americas",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-asia",
+      "path": "data/dados-personagens-asia.json",
+      "title": "personagens asia",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-biblicas",
+      "path": "data/dados-personagens-biblicas.json",
+      "title": "personagens biblicas",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-brasil",
+      "path": "data/dados-personagens-brasil.json",
+      "title": "personagens brasil",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-ciencia-pensamento",
+      "path": "data/dados-personagens-ciencia-pensamento.json",
+      "title": "personagens ciencia pensamento",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-europa-moderna",
+      "path": "data/dados-personagens-europa-moderna.json",
+      "title": "personagens europa moderna",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-filosofia-oriental",
+      "path": "data/dados-personagens-filosofia-oriental.json",
+      "title": "personagens filosofia oriental",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-grecia-roma",
+      "path": "data/dados-personagens-grecia-roma.json",
+      "title": "personagens grecia roma",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-iluminismo-revolucoes",
+      "path": "data/dados-personagens-iluminismo-revolucoes.json",
+      "title": "personagens iluminismo revolucoes",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-medieval",
+      "path": "data/dados-personagens-medieval.json",
+      "title": "personagens medieval",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-mulheres",
+      "path": "data/dados-personagens-mulheres.json",
+      "title": "personagens mulheres",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-oriente-antigo",
+      "path": "data/dados-personagens-oriente-antigo.json",
+      "title": "personagens oriente antigo",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-renascimento-reforma",
+      "path": "data/dados-personagens-renascimento-reforma.json",
+      "title": "personagens renascimento reforma",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-seculo-xix",
+      "path": "data/dados-personagens-seculo-xix.json",
+      "title": "personagens seculo xix",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-seculo-xx-guerras",
+      "path": "data/dados-personagens-seculo-xx-guerras.json",
+      "title": "personagens seculo xx guerras",
+      "entityCount": 0
+    },
+    {
+      "id": "personagens-seculo-xx",
+      "path": "data/dados-personagens-seculo-xx.json",
+      "title": "personagens seculo xx",
+      "entityCount": 0
+    },
+    {
+      "id": "peste-negra",
+      "path": "data/dados-peste-negra.json",
+      "title": "peste negra",
+      "entityCount": 8
+    },
+    {
+      "id": "pirataria",
+      "path": "data/dados-pirataria.json",
+      "title": "pirataria",
+      "entityCount": 8
+    },
+    {
+      "id": "pos-guerra-fria",
+      "path": "data/dados-pos-guerra-fria.json",
+      "title": "Pós-Guerra Fria",
+      "entityCount": 12
+    },
+    {
+      "id": "povos-nativos-norte",
+      "path": "data/dados-povos-nativos-norte.json",
+      "title": "povos nativos norte",
+      "entityCount": 8
+    },
+    {
+      "id": "pre-historia-americas",
+      "path": "data/dados-pre-historia-americas.json",
+      "title": "Primeiros Humanos nas Américas",
+      "entityCount": 8
+    },
+    {
+      "id": "pre-historia-europa",
+      "path": "data/dados-pre-historia-europa.json",
+      "title": "Pré-História Europeia: Megalitismo e Idade dos Metais",
+      "entityCount": 8
+    },
+    {
+      "id": "pre-historia-neolitico",
+      "path": "data/dados-pre-historia-neolitico.json",
+      "title": "Neolítico: Revolução Agrícola e as Primeiras Cidades",
+      "entityCount": 8
+    },
+    {
+      "id": "pre-historia-paleolitico",
+      "path": "data/dados-pre-historia-paleolitico.json",
+      "title": "Paleolítico: Ferramentas, Fogo e Arte Rupestre",
+      "entityCount": 8
+    },
+    {
+      "id": "pre-historia",
+      "path": "data/dados-pre-historia.json",
+      "title": "Pré-História",
+      "entityCount": 8
+    },
+    {
+      "id": "primavera-arabe",
+      "path": "data/dados-primavera-arabe.json",
+      "title": "primavera arabe",
+      "entityCount": 9
+    },
+    {
+      "id": "primeira-guerra",
+      "path": "data/dados-primeira-guerra.json",
+      "title": "Primeira Guerra Mundial",
+      "entityCount": 12
+    },
+    {
+      "id": "queda-roma",
+      "path": "data/dados-queda-roma.json",
+      "title": "queda roma",
+      "entityCount": 8
+    },
+    {
+      "id": "reforma-calvino",
+      "path": "data/dados-reforma-calvino.json",
+      "title": "reforma calvino",
+      "entityCount": 8
+    },
+    {
+      "id": "reforma-protestante",
+      "path": "data/dados-reforma-protestante.json",
+      "title": "reforma protestante",
+      "entityCount": 8
+    },
+    {
+      "id": "reformas-religiosas",
+      "path": "data/dados-reformas-religiosas.json",
+      "title": "Reformas Religiosas",
+      "entityCount": 8
+    },
+    {
+      "id": "reinos-africanos",
+      "path": "data/dados-reinos-africanos.json",
+      "title": "reinos africanos",
+      "entityCount": 8
+    },
+    {
+      "id": "religioes-mundo",
+      "path": "data/dados-religioes-mundo.json",
+      "title": "religioes mundo",
+      "entityCount": 11
+    },
+    {
+      "id": "renascimento-cultural",
+      "path": "data/dados-renascimento-cultural.json",
+      "title": "Renascimento",
+      "entityCount": 8
+    },
+    {
+      "id": "renascimento-italiano",
+      "path": "data/dados-renascimento-italiano.json",
+      "title": "renascimento italiano",
+      "entityCount": 8
+    },
+    {
+      "id": "renascimento-norte",
+      "path": "data/dados-renascimento-norte.json",
+      "title": "Renascimento do Norte: Erasmo, Gutenberg e Arte Flamenga",
+      "entityCount": 8
+    },
+    {
+      "id": "republica-weimar",
+      "path": "data/dados-republica-weimar.json",
+      "title": "republica weimar",
+      "entityCount": 8
+    },
+    {
+      "id": "revolucao-cientifica",
+      "path": "data/dados-revolucao-cientifica.json",
+      "title": "revolucao cientifica",
+      "entityCount": 10
+    },
+    {
+      "id": "revolucao-digital",
+      "path": "data/dados-revolucao-digital.json",
+      "title": "revolucao digital",
+      "entityCount": 9
+    },
+    {
+      "id": "revolucao-francesa",
+      "path": "data/dados-revolucao-francesa.json",
+      "title": "revolucao francesa",
+      "entityCount": 8
+    },
+    {
+      "id": "revolucao-industrial",
+      "path": "data/dados-revolucao-industrial.json",
+      "title": "revolucao industrial",
+      "entityCount": 8
+    },
+    {
+      "id": "revolucao-iraniana",
+      "path": "data/dados-revolucao-iraniana.json",
+      "title": "revolucao iraniana",
+      "entityCount": 8
+    },
+    {
+      "id": "revolucao-russa",
+      "path": "data/dados-revolucao-russa.json",
+      "title": "revolucao russa",
+      "entityCount": 8
+    },
+    {
+      "id": "revolucoes-1848",
+      "path": "data/dados-revolucoes-1848.json",
+      "title": "revolucoes 1848",
+      "entityCount": 8
+    },
+    {
+      "id": "revolucoes-liberais",
+      "path": "data/dados-revolucoes-liberais.json",
+      "title": "Revoluções Liberais e Primavera dos Povos (1820-1871)",
+      "entityCount": 8
+    },
+    {
+      "id": "revolucoes-sec18",
+      "path": "data/dados-revolucoes-sec18.json",
+      "title": "Revoluções Modernas",
+      "entityCount": 8
+    },
+    {
+      "id": "roma-antiga",
+      "path": "data/dados-roma-antiga.json",
+      "title": "Roma Antiga",
+      "entityCount": 8
+    },
+    {
+      "id": "roma-crise-terceiro-seculo",
+      "path": "data/dados-roma-crise-terceiro-seculo.json",
+      "title": "roma crise terceiro seculo",
+      "entityCount": 8
+    },
+    {
+      "id": "roma-cultura",
+      "path": "data/dados-roma-cultura.json",
+      "title": "Cultura, Direito e Legado Romano",
+      "entityCount": 8
+    },
+    {
+      "id": "roma-emperadores",
+      "path": "data/dados-roma-emperadores.json",
+      "title": "roma emperadores",
+      "entityCount": 8
+    },
+    {
+      "id": "roma-exercito",
+      "path": "data/dados-roma-exercito.json",
+      "title": "Roma: Exército, Guerras Púnicas e Expansão Mediterrânea",
+      "entityCount": 8
+    },
+    {
+      "id": "roma-imperial",
+      "path": "data/dados-roma-imperial.json",
+      "title": "roma imperial",
+      "entityCount": 8
+    },
+    {
+      "id": "roma-queda-ocidente",
+      "path": "data/dados-roma-queda-ocidente.json",
+      "title": "roma queda ocidente",
+      "entityCount": 8
+    },
+    {
+      "id": "roma-republica",
+      "path": "data/dados-roma-republica.json",
+      "title": "roma republica",
+      "entityCount": 8
+    },
+    {
+      "id": "roma-sociedade",
+      "path": "data/dados-roma-sociedade.json",
+      "title": "Roma: Sociedade, Lei, Família e Vida Cotidiana",
+      "entityCount": 8
+    },
+    {
+      "id": "roma-teologia-direito",
+      "path": "data/dados-roma-teologia-direito.json",
+      "title": "roma teologia direito",
+      "entityCount": 8
+    },
+    {
+      "id": "rota-seda",
+      "path": "data/dados-rota-seda.json",
+      "title": "rota seda",
+      "entityCount": 9
+    },
+    {
+      "id": "russia-czarismo",
+      "path": "data/dados-russia-czarismo.json",
+      "title": "russia czarismo",
+      "entityCount": 8
+    },
+    {
+      "id": "russia-imperio",
+      "path": "data/dados-russia-imperio.json",
+      "title": "russia imperio",
+      "entityCount": 8
+    },
+    {
+      "id": "russia-pedro-catarina",
+      "path": "data/dados-russia-pedro-catarina.json",
+      "title": "Rússia Imperial: Pedro o Grande e Catarina a Grande",
+      "entityCount": 8
+    },
+    {
+      "id": "seculo-xix",
+      "path": "data/dados-seculo-xix.json",
+      "title": "Século XIX",
+      "entityCount": 8
+    },
+    {
+      "id": "segunda-guerra",
+      "path": "data/dados-segunda-guerra.json",
+      "title": "Segunda Guerra Mundial",
+      "entityCount": 12
+    },
+    {
+      "id": "socialismo-trabalho",
+      "path": "data/dados-socialismo-trabalho.json",
+      "title": "socialismo trabalho",
+      "entityCount": 8
+    },
+    {
+      "id": "sudeste-asiatico-colonial",
+      "path": "data/dados-sudeste-asiatico-colonial.json",
+      "title": "sudeste asiatico colonial",
+      "entityCount": 8
+    },
+    {
+      "id": "sudeste-asiatico-continental",
+      "path": "data/dados-sudeste-asiatico-continental.json",
+      "title": "Sudeste Asiático Continental: Funan, Khmer e Dai Viet",
+      "entityCount": 8
+    },
+    {
+      "id": "sudeste-asiatico-maritimo",
+      "path": "data/dados-sudeste-asiatico-maritimo.json",
+      "title": "Sudeste Asiático Marítimo: Srivijaya, Majapahit e Malaca",
+      "entityCount": 8
+    },
+    {
+      "id": "sudeste-asiatico",
+      "path": "data/dados-sudeste-asiatico.json",
+      "title": "sudeste asiatico",
+      "entityCount": 6
+    },
+    {
+      "id": "sudeste-continental",
+      "path": "data/dados-sudeste-continental.json",
+      "title": "Sudeste Asiático Continental: Angkor, Ayutthaya e Birmânia",
+      "entityCount": 8
+    },
+    {
+      "id": "sumeria-cidades",
+      "path": "data/dados-sumeria-cidades.json",
+      "title": "sumeria cidades",
+      "entityCount": 8
+    },
+    {
+      "id": "sumeria-expandida",
+      "path": "data/dados-sumeria-expandida.json",
+      "title": "Suméria: Civilização, Escrita e Legado",
+      "entityCount": 8
+    },
+    {
+      "id": "sumeria-religiao-legado",
+      "path": "data/dados-sumeria-religiao-legado.json",
+      "title": "Suméria: Religião, Mitos e Legado Civilizacional",
+      "entityCount": 8
+    },
+    {
+      "id": "sumeria",
+      "path": "data/dados-sumeria.json",
+      "title": "Suméria: A Primeira Civilização",
+      "entityCount": 8
+    },
+    {
+      "id": "teotihuacan",
+      "path": "data/dados-teotihuacan.json",
+      "title": "Teotihuacán: A Maior Cidade das Américas Antigas",
+      "entityCount": 8
+    },
+    {
+      "id": "toltecas",
+      "path": "data/dados-toltecas.json",
+      "title": "Toltecas e Chichimecas: Guerreiros, Mitos e o Colapso do Norte",
+      "entityCount": 8
+    },
+    {
+      "id": "trafico-transatlantico",
+      "path": "data/dados-trafico-transatlantico.json",
+      "title": "trafico transatlantico",
+      "entityCount": 10
+    },
+    {
+      "id": "tratado-versalhes",
+      "path": "data/dados-tratado-versalhes.json",
+      "title": "tratado versalhes",
+      "entityCount": 8
+    },
+    {
+      "id": "tupis-guaranis-amazonia",
+      "path": "data/dados-tupis-guaranis-amazonia.json",
+      "title": "Tupis, Guaranis e Civilizações da Amazônia",
+      "entityCount": 8
+    },
+    {
+      "id": "turquia-moderna",
+      "path": "data/dados-turquia-moderna.json",
+      "title": "turquia moderna",
+      "entityCount": 8
+    },
+    {
+      "id": "uniao-europeia",
+      "path": "data/dados-uniao-europeia.json",
+      "title": "uniao europeia",
+      "entityCount": 8
+    },
+    {
+      "id": "unificacao-alemanha",
+      "path": "data/dados-unificacao-alemanha.json",
+      "title": "unificacao alemanha",
+      "entityCount": 8
+    },
+    {
+      "id": "unificacao-italia",
+      "path": "data/dados-unificacao-italia.json",
+      "title": "unificacao italia",
+      "entityCount": 8
+    },
+    {
+      "id": "vikings",
+      "path": "data/dados-vikings.json",
+      "title": "vikings",
+      "entityCount": 8
+    },
+    {
+      "id": "zapotecas-mixtecas",
+      "path": "data/dados-zapotecas-mixtecas.json",
+      "title": "Zapotecas e Mixtecas: Monte Albán e os Señores de las Nubes",
+      "entityCount": 8
+    }
+  ]
+}
