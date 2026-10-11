@@ -6,7 +6,7 @@ Interactive history learning platform with a knowledge graph, chronological navi
 [![D3.js](https://img.shields.io/badge/D3.js-v7-F9A03C?logo=d3dotjs&logoColor=white)](https://d3js.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![PWA](https://img.shields.io/badge/PWA-Offline-5A0FC8?logo=pwa&logoColor=white)](https://web.dev/explore/progressive-web-apps)
-[![Tests](https://img.shields.io/badge/Tests-112%20passing-2EA44F)](#tests)
+[![Tests](https://img.shields.io/badge/Tests-142%20passing-2EA44F)](#tests)
 
 > "Herodotus of Halicarnassus presents here the results of his inquiry, so that time may not erase the deeds of humankind." — *Histories*, c. 440 BCE
 
@@ -23,13 +23,13 @@ The dataset spans human history from the earliest hominins to the present, with 
 
 | Metric | Value |
 |---|---:|
-| JSON datasets | 328 |
-| Historical entities | 2,568 |
+| JSON datasets | 340 |
+| Historical entities | 2,676 |
 | Guiding questions | 311 across 66 groups |
 | Languages | Portuguese, English, Spanish |
 | Bibliography topics | 38 |
 | Bibliographic references | Approximately 500 |
-| Automated tests | 112 passing |
+| Automated tests | 142 passing |
 
 ## Highlights
 
@@ -42,6 +42,9 @@ The dataset spans human history from the earliest hominins to the present, with 
 - 236 historical figures across 18 regional and thematic collections.
 - Topic-organized bibliography, teacher guide, help pages, and offline PWA support.
 - Responsive layouts for desktop, tablet, and mobile landscape.
+- Mobile-first guided entry, bottom navigation, accessible filter drawer, and vertical timeline.
+- Grounded Voices of History with eight personas, lexical retrieval, optional semantic reranking, and visible evidence.
+- Twelve connected datasets on Portugal, Atlantic history, Lusophone Africa, and Timor-Leste.
 
 ## Content coverage
 
@@ -53,9 +56,7 @@ World coverage includes the Middle East, Egypt, Islam, India, China, Japan, Kore
 
 ## Run locally
 
-Open `index.html` in a modern browser. No build step or application server is required.
-
-For consistent local asset and service-worker behavior, a small static server is recommended:
+No build step is required. Use a small static server because ES modules, workers, fetched datasets, and the service worker do not run reliably from a `file://` URL:
 
 ```bash
 npx http-server .
@@ -78,6 +79,10 @@ herodoto/
 |-- js/
 |   |-- graph.js              D3 knowledge graph
 |   |-- timeline.js           SVG timeline and dataset registry
+|   |-- timeline-mobile.js    Semantic vertical timeline for small screens
+|   |-- voices-grounded.js    Deterministic grounded-answer engine
+|   |-- semantic-worker.js    Optional local semantic reranking worker
+|   |-- features.js           Temporary reversible V8 switches
 |   |-- data.js               Data loading and normalization
 |   |-- search.js             Global search
 |   |-- compare.js            Event comparison
@@ -110,6 +115,18 @@ node tests/runner.js --list
 ```
 
 The suite validates JSON structure, required fields, chronology, global ID uniqueness, dataset registration, translations, regional coverage, historical figures, and guiding-question references.
+
+Regenerate the derived catalog and timeline index after changing datasets:
+
+```bash
+node scripts/generate-indexes.js
+```
+
+## Herodoto 8 and rollback
+
+The V8 rollout is isolated on `feat/herodoto-8-mobile-vozes`. Four temporary switches control the mobile shell, Voices, adaptive timeline, and Lusophone datasets. Add `?legacy=1` to the main URL to disable every V8 surface without changing stored preferences.
+
+The safety tag `herodoto-v7.64-pre-revamp` identifies the exact pre-reform commit. Functional checkpoints are independent and can be undone with `git revert <commit>`. No legacy module was removed. See [docs/HERODOTO-8.md](docs/HERODOTO-8.md) for architecture and validation limits.
 
 ## Editorial principles
 

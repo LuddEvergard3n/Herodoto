@@ -3,6 +3,29 @@
 
 ---
 
+## v8.0 — Mobile, Vozes fundamentadas e mundo lusófono
+
+**Experiência**
+- Nova entrada mobile-first com exploração guiada, navegação inferior e gaveta de filtros.
+- Timeline vertical semântica em telas pequenas; timeline horizontal preservada no desktop e no modo legado.
+- Índice cronológico derivado evita carregar todos os datasets para abrir a timeline.
+
+**Vozes da História**
+- Oito personas restauradas com recuperação lexical determinística e evidências visíveis.
+- Busca semântica local opcional em Web Worker; falhas mantêm o modo lexical disponível.
+- Dramatização pedagógica, anacronismo e insuficiência documental identificados na interface.
+
+**Conteúdo**
+- 12 datasets e 108 entidades sobre Portugal, Atlântico, África lusófona e Timor-Leste.
+- Conteúdo em português, inglês e espanhol, com fontes e duas lentes interpretativas por marco.
+
+**Reversibilidade e validação**
+- Quatro flags independentes e retorno integral por `?legacy=1`.
+- Tag de segurança `herodoto-v7.64-pre-revamp` e commits funcionais separados.
+- 340 datasets, 2.676 entidades e 142 verificações automatizadas aprovadas.
+
+---
+
 ## v7.42 — Integridade dos dados e registro completo
 
 **Correções**
