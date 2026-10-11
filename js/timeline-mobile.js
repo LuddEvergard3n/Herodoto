@@ -1,3 +1,5 @@
+import { featureEnabled } from './features.js';
+
 let panel = null;
 let allEntities = null;
 let visibleCount = 80;
@@ -25,7 +27,8 @@ async function loadIndex() {
   if (allEntities) return allEntities;
   const response = await fetch('data/timeline-index.json');
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
-  allEntities = (await response.json()).entities || [];
+  const entities = (await response.json()).entities || [];
+  allEntities = featureEnabled('lusophoneDatasetsV8') ? entities : entities.filter(entity => entity.collection !== 'mundo-lusofono-v8');
   return allEntities;
 }
 

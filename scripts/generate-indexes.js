@@ -27,6 +27,7 @@ for (const file of files) {
     timeline.push({
       id: entity.id,
       datasetId: relative,
+      collection: document.meta?.collection || null,
       nome: entity.nome,
       nome_en: entity.nome_en,
       nome_es: entity.nome_es,

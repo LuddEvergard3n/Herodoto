@@ -37,7 +37,7 @@ const PERSONA_REQUIRED = ['id', 'nome'];
 
 function loadAll() {
   return fs.readdirSync(DATA_DIR)
-    .filter(f => f.endsWith('.json'))
+    .filter(f => /^dados-.*\.json$/.test(f))
     .map(f => ({ file: f, fullPath: path.join(DATA_DIR, f) }));
 }
 

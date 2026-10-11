@@ -4,7 +4,7 @@
  * Permite uso offline completo após primeira visita.
  */
 
-const CACHE_VERSION = 'herodoto-v7-59';
+const CACHE_VERSION = 'herodoto-v8-0';
 const CACHE_STATIC  = `${CACHE_VERSION}-static`;
 const CACHE_DATA    = `${CACHE_VERSION}-data`;
 
@@ -19,8 +19,19 @@ const STATIC_ASSETS = [
   './plano-aula.html',
   './filtros-semanticos.html',
   './vozes-historia.html',
+  './vozes-historia-v8.html',
   './css/base.css',
   './css/components.css',
+  './css/mobile-v8.css',
+  './css/timeline-mobile.css',
+  './css/voices-v8.css',
+  './js/features.js',
+  './js/mobile-shell.js',
+  './js/timeline-mobile.js',
+  './js/voices-grounded.js',
+  './js/voices-ui.js',
+  './data/dataset-catalog.json',
+  './data/timeline-index.json',
   './assets/pergaminho.jpg',
   './icons/icon-192.png',
   './icons/icon-512.png',
@@ -31,7 +42,7 @@ const STATIC_ASSETS = [
 self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE_STATIC)
-      .then(cache => cache.addAll(STATIC_ASSETS))
+      .then(cache => Promise.allSettled(STATIC_ASSETS.map(asset => cache.add(asset))))
       .then(() => self.skipWaiting())
   );
 });

@@ -381,7 +381,8 @@ async function loadAllData() {
       if(response?.ok){
         const index=await response.json().catch(()=>null);
         if(index?.entities){
-          allEnts=index.entities.map(e=>({...e,_r:NR(e.region||'Other')}));
+          const indexed=featureEnabled('lusophoneDatasetsV8')?index.entities:index.entities.filter(e=>e.collection!=='mundo-lusofono-v8');
+          allEnts=indexed.map(e=>({...e,_r:NR(e.region||'Other')}));
           return allEnts;
         }
       }

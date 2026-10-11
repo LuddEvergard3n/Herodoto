@@ -52,7 +52,9 @@ async function initApp() {
   appInitialized = true;
   applyFeatureState();
   document.querySelectorAll('[data-feature]').forEach(element => {
-    element.hidden = !featureEnabled(element.dataset.feature);
+    const enabled = featureEnabled(element.dataset.feature);
+    element.hidden = !enabled;
+    element.querySelectorAll('input, button, select, textarea').forEach(control => { control.disabled = !enabled; });
   });
   
   console.log('initApp start');
