@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "tema": "Estado Novo, Guerra Colonial e Revolução dos Cravos",
+    "theme_en": "Estado Novo, Colonial War and Carnation Revolution",
+    "tema_es": "Estado Novo, Guerra Colonial y Revolución de los Claveles",
+    "lastReviewed": "2026-10-10",
+    "reviewStatus": "reviewed",
+    "evidenceStatus": "mixed",
+    "collection": "mundo-lusofono-v8",
+    "editorialNote": "Síntese plural: combina história política, social e conectada. Datas representam marcos, não processos isolados."
+  },
+  "sources": [
+    {
+      "id": "portugal-parliament",
+      "author": "Assembleia da República",
+      "title": "História do Parlamentarismo Português",
+      "type": "institutional",
+      "url": "https://www.parlamento.pt/Parlamento/Paginas/Historia-Parlamentarismo.aspx",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    },
+    {
+      "id": "antt",
+      "author": "Arquivo Nacional da Torre do Tombo",
+      "title": "Coleções e documentos da história portuguesa",
+      "type": "archive",
+      "url": "https://antt.dglab.gov.pt/",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    }
+  ],
+  "entidades": [
+    {
+      "id": "portugal-estado-novo-cravos-01",
+      "nome": "Constituição do Estado Novo",
+      "nome_en": "Estado Novo Constitution",
+      "nome_es": "Constitución del Estado Novo",
+      "inicio": 1933,
+      "fim": 1933,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Constituição do Estado Novo integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Estado Novo Constitution belongs to the sequence of estado novo, colonial war and carnation revolution and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Constitución del Estado Novo integra la secuencia de estado novo, guerra colonial y revolución de los claveles y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-estado-novo-cravos-01-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-estado-novo-cravos-01-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-estado-novo-cravos-02",
+      "nome": "Criação da Mocidade Portuguesa",
+      "nome_en": "Creation of the Portuguese Youth",
+      "nome_es": "Creación de la Juventud Portuguesa",
+      "inicio": 1936,
+      "fim": 1936,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Criação da Mocidade Portuguesa integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Creation of the Portuguese Youth belongs to the sequence of estado novo, colonial war and carnation revolution and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Creación de la Juventud Portuguesa integra la secuencia de estado novo, guerra colonial y revolución de los claveles y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-estado-novo-cravos-02-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-estado-novo-cravos-02-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-estado-novo-cravos-03",
+      "nome": "Portugal integra a OTAN",
+      "nome_en": "Portugal joins NATO",
+      "nome_es": "Portugal ingresa en la OTAN",
+      "inicio": 1949,
+      "fim": 1949,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Portugal integra a OTAN integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Portugal joins NATO belongs to the sequence of estado novo, colonial war and carnation revolution and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Portugal ingresa en la OTAN integra la secuencia de estado novo, guerra colonial y revolución de los claveles y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-estado-novo-cravos-03-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-estado-novo-cravos-03-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-estado-novo-cravos-04",
+      "nome": "Início da guerra em Angola",
+      "nome_en": "Beginning of the war in Angola",
+      "nome_es": "Inicio de la guerra en Angola",
+      "inicio": 1961,
+      "fim": 1961,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Início da guerra em Angola integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Beginning of the war in Angola belongs to the sequence of estado novo, colonial war and carnation revolution and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Inicio de la guerra en Angola integra la secuencia de estado novo, guerra colonial y revolución de los claveles y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-estado-novo-cravos-04-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-estado-novo-cravos-04-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-estado-novo-cravos-05",
+      "nome": "Início da guerra na Guiné-Bissau",
+      "nome_en": "Beginning of the war in Guinea-Bissau",
+      "nome_es": "Inicio de la guerra en Guinea-Bisáu",
+      "inicio": 1963,
+      "fim": 1963,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Início da guerra na Guiné-Bissau integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Beginning of the war in Guinea-Bissau belongs to the sequence of estado novo, colonial war and carnation revolution and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Inicio de la guerra en Guinea-Bisáu integra la secuencia de estado novo, guerra colonial y revolución de los claveles y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-estado-novo-cravos-05-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-estado-novo-cravos-05-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-estado-novo-cravos-06",
+      "nome": "Início da guerra em Moçambique",
+      "nome_en": "Beginning of the war in Mozambique",
+      "nome_es": "Inicio de la guerra en Mozambique",
+      "inicio": 1964,
+      "fim": 1964,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Início da guerra em Moçambique integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Beginning of the war in Mozambique belongs to the sequence of estado novo, colonial war and carnation revolution and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Inicio de la guerra en Mozambique integra la secuencia de estado novo, guerra colonial y revolución de los claveles y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-estado-novo-cravos-06-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-estado-novo-cravos-06-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-estado-novo-cravos-07",
+      "nome": "Marcelo Caetano substitui Salazar",
+      "nome_en": "Marcelo Caetano succeeds Salazar",
+      "nome_es": "Marcelo Caetano sustituye a Salazar",
+      "inicio": 1968,
+      "fim": 1968,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Marcelo Caetano substitui Salazar integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Marcelo Caetano succeeds Salazar belongs to the sequence of estado novo, colonial war and carnation revolution and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Marcelo Caetano sustituye a Salazar integra la secuencia de estado novo, guerra colonial y revolución de los claveles y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-estado-novo-cravos-07-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-estado-novo-cravos-07-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-estado-novo-cravos-08",
+      "nome": "Revolução dos Cravos",
+      "nome_en": "Carnation Revolution",
+      "nome_es": "Revolución de los Claveles",
+      "inicio": 1974,
+      "fim": 1974,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Revolução dos Cravos integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Carnation Revolution belongs to the sequence of estado novo, colonial war and carnation revolution and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Revolución de los Claveles integra la secuencia de estado novo, guerra colonial y revolución de los claveles y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-estado-novo-cravos-08-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-estado-novo-cravos-08-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-estado-novo-cravos-09",
+      "nome": "Constituição democrática portuguesa",
+      "nome_en": "Portuguese democratic Constitution",
+      "nome_es": "Constitución democrática portuguesa",
+      "inicio": 1976,
+      "fim": 1976,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Constituição democrática portuguesa integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Portuguese democratic Constitution belongs to the sequence of estado novo, colonial war and carnation revolution and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Constitución democrática portuguesa integra la secuencia de estado novo, guerra colonial y revolución de los claveles y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-estado-novo-cravos-09-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-estado-novo-cravos-09-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    }
+  ]
+}

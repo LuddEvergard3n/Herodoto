@@ -109,6 +109,13 @@ const ALL_DATASETS = [
   "data/dados-africa-centro-sul.json","data/dados-africa-norte.json","data/dados-africa-ocidental.json",
   "data/dados-africa-oriental.json","data/dados-africa-pre-colonial.json","data/dados-descolonizacao-guerras.json",
   "data/dados-descolonizacao.json","data/dados-personagens-africa-oriente.json","data/dados-reinos-africanos.json",
+  // ── Mundo Lusófono V8 ──
+  "data/dados-portugal-formacao-medieval.json","data/dados-portugal-expansao-estado-india.json",
+  "data/dados-imperio-atlantico-portugues.json","data/dados-portugal-uniao-iberica-restauracao.json",
+  "data/dados-portugal-reformas-pombalinas.json","data/dados-portugal-liberalismo-republica.json",
+  "data/dados-portugal-estado-novo-cravos.json","data/dados-kongo-angola-precolonial.json",
+  "data/dados-angola-colonial-independencia.json","data/dados-mocambique-historia.json",
+  "data/dados-africa-lusofona-cabral.json","data/dados-timor-leste.json",
   // ── Pré-Colombianos ──
   "data/dados-andes.json","data/dados-astecas-expandido.json","data/dados-astecas-imperio.json",
   "data/dados-aztecas.json","data/dados-caral-andino-antigo.json","data/dados-caral-culturas-antigas.json",

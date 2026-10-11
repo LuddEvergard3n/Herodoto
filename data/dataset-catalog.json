@@ -20,6 +20,12 @@
       "entityCount": 8
     },
     {
+      "id": "africa-lusofona-cabral",
+      "path": "data/dados-africa-lusofona-cabral.json",
+      "title": "Cabo Verde, Guiné-Bissau, São Tomé e Amílcar Cabral",
+      "entityCount": 9
+    },
+    {
       "id": "africa-norte",
       "path": "data/dados-africa-norte.json",
       "title": "africa norte",
@@ -102,6 +108,12 @@
       "path": "data/dados-andes.json",
       "title": "Andes Pré-Colombianos",
       "entityCount": 8
+    },
+    {
+      "id": "angola-colonial-independencia",
+      "path": "data/dados-angola-colonial-independencia.json",
+      "title": "Angola colonial, independência e guerra civil",
+      "entityCount": 9
     },
     {
       "id": "anos-1990",
@@ -1124,6 +1136,12 @@
       "entityCount": 8
     },
     {
+      "id": "imperio-atlantico-portugues",
+      "path": "data/dados-imperio-atlantico-portugues.json",
+      "title": "Império Atlântico, tráfico e escravidão",
+      "entityCount": 9
+    },
+    {
       "id": "imperio-otomano",
       "path": "data/dados-imperio-otomano.json",
       "title": "imperio otomano",
@@ -1268,6 +1286,12 @@
       "entityCount": 8
     },
     {
+      "id": "kongo-angola-precolonial",
+      "path": "data/dados-kongo-angola-precolonial.json",
+      "title": "Reino do Congo e Angola pré-colonial",
+      "entityCount": 9
+    },
+    {
       "id": "lutero-reforma",
       "path": "data/dados-lutero-reforma.json",
       "title": "Lutero, a Reforma e as Doutrinas Agostinianas",
@@ -1338,6 +1362,12 @@
       "path": "data/dados-mesopotamia.json",
       "title": "mesopotamia",
       "entityCount": 14
+    },
+    {
+      "id": "mocambique-historia",
+      "path": "data/dados-mocambique-historia.json",
+      "title": "Moçambique pré-colonial, colonial e independente",
+      "entityCount": 9
     },
     {
       "id": "mongois-asia-central",
@@ -1578,6 +1608,42 @@
       "path": "data/dados-pirataria.json",
       "title": "pirataria",
       "entityCount": 8
+    },
+    {
+      "id": "portugal-estado-novo-cravos",
+      "path": "data/dados-portugal-estado-novo-cravos.json",
+      "title": "Estado Novo, Guerra Colonial e Revolução dos Cravos",
+      "entityCount": 9
+    },
+    {
+      "id": "portugal-expansao-estado-india",
+      "path": "data/dados-portugal-expansao-estado-india.json",
+      "title": "Expansão marítima e Estado da Índia",
+      "entityCount": 9
+    },
+    {
+      "id": "portugal-formacao-medieval",
+      "path": "data/dados-portugal-formacao-medieval.json",
+      "title": "Formação medieval de Portugal",
+      "entityCount": 9
+    },
+    {
+      "id": "portugal-liberalismo-republica",
+      "path": "data/dados-portugal-liberalismo-republica.json",
+      "title": "Liberalismo, monarquia constitucional e Primeira República",
+      "entityCount": 9
+    },
+    {
+      "id": "portugal-reformas-pombalinas",
+      "path": "data/dados-portugal-reformas-pombalinas.json",
+      "title": "Reformas pombalinas",
+      "entityCount": 9
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao",
+      "path": "data/dados-portugal-uniao-iberica-restauracao.json",
+      "title": "União Ibérica e Restauração",
+      "entityCount": 9
     },
     {
       "id": "pos-guerra-fria",
@@ -1908,6 +1974,12 @@
       "path": "data/dados-teotihuacan.json",
       "title": "Teotihuacán: A Maior Cidade das Américas Antigas",
       "entityCount": 8
+    },
+    {
+      "id": "timor-leste",
+      "path": "data/dados-timor-leste.json",
+      "title": "Timor-Leste, ocupação e independência",
+      "entityCount": 9
     },
     {
       "id": "toltecas",

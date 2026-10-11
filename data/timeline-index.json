@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedFrom": 328,
+  "generatedFrom": 340,
   "entities": [
     {
       "id": "am4",
@@ -5346,6 +5346,25 @@
         "declínio",
         "difusão",
         "calendário"
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-01",
+      "datasetId": "data/dados-portugal-formacao-medieval.json",
+      "nome": "Condado Portucalense",
+      "nome_en": "County of Portugal",
+      "nome_es": "Condado Portucalense",
+      "descricao": "Condado Portucalense integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": -868,
+      "fim": -868,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-formacao-medieval",
+        "political",
+        "mundo-lusofono"
       ]
     },
     {
@@ -17662,6 +17681,25 @@
       ]
     },
     {
+      "id": "mocambique-historia-01",
+      "datasetId": "data/dados-mocambique-historia.json",
+      "nome": "Redes comerciais suaílis na costa",
+      "nome_en": "Swahili trade networks on the coast",
+      "nome_es": "Redes comerciales suajilis en la costa",
+      "descricao": "Redes comerciais suaílis na costa integra a sequência de moçambique pré-colonial, colonial e independente e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1000,
+      "fim": 1000,
+      "type": "economic",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "mocambique-historia",
+        "economic",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "mps-003",
       "datasetId": "data/dados-mapuches-povos-sul.json",
       "nome": "Os Guaranis do Sul: Missões e Resistência",
@@ -18211,6 +18249,25 @@
       ]
     },
     {
+      "id": "portugal-formacao-medieval-02",
+      "datasetId": "data/dados-portugal-formacao-medieval.json",
+      "nome": "Condado de Henrique de Borgonha",
+      "nome_en": "County of Henry of Burgundy",
+      "nome_es": "Condado de Enrique de Borgoña",
+      "descricao": "Condado de Henrique de Borgonha integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1096,
+      "fim": 1096,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-formacao-medieval",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "cx-002",
       "datasetId": "data/dados-cruzadas-expandido.json",
       "nome": "A Conquista de Jerusalém (1099) e os Estados Cruzados",
@@ -18441,6 +18498,25 @@
       ]
     },
     {
+      "id": "portugal-formacao-medieval-03",
+      "datasetId": "data/dados-portugal-formacao-medieval.json",
+      "nome": "Batalha de São Mamede",
+      "nome_en": "Battle of São Mamede",
+      "nome_es": "Batalla de São Mamede",
+      "descricao": "Batalha de São Mamede integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1128,
+      "fim": 1128,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-formacao-medieval",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "cru2",
       "datasetId": "data/dados-cruzadas.json",
       "nome": "Saladino e a Reconquista de Jerusalém (1187)",
@@ -18480,6 +18556,25 @@
         "judaismo",
         "aristoteles",
         "cordoba"
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-04",
+      "datasetId": "data/dados-portugal-formacao-medieval.json",
+      "nome": "Afonso Henriques assume o título de rei",
+      "nome_en": "Afonso Henriques assumes the title of king",
+      "nome_es": "Afonso Henriques asume el título de rey",
+      "descricao": "Afonso Henriques assume o título de rei integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1139,
+      "fim": 1139,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-formacao-medieval",
+        "political",
+        "mundo-lusofono"
       ]
     },
     {
@@ -18524,6 +18619,44 @@
         "Chartres",
         "vitrais",
         "catedra"
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-05",
+      "datasetId": "data/dados-portugal-formacao-medieval.json",
+      "nome": "Tratado de Zamora",
+      "nome_en": "Treaty of Zamora",
+      "nome_es": "Tratado de Zamora",
+      "descricao": "Tratado de Zamora integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1143,
+      "fim": 1143,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-formacao-medieval",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-06",
+      "datasetId": "data/dados-portugal-formacao-medieval.json",
+      "nome": "Conquista de Lisboa",
+      "nome_en": "Conquest of Lisbon",
+      "nome_es": "Conquista de Lisboa",
+      "descricao": "Conquista de Lisboa integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1147,
+      "fim": 1147,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-formacao-medieval",
+        "war",
+        "mundo-lusofono"
       ]
     },
     {
@@ -18698,6 +18831,25 @@
         "IRA",
         "independência",
         "Sinn Féin"
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-07",
+      "datasetId": "data/dados-portugal-formacao-medieval.json",
+      "nome": "Bula Manifestis Probatum",
+      "nome_en": "Manifestis Probatum bull",
+      "nome_es": "Bula Manifestis Probatum",
+      "descricao": "Bula Manifestis Probatum integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1179,
+      "fim": 1179,
+      "type": "religious",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-formacao-medieval",
+        "religious",
+        "mundo-lusofono"
       ]
     },
     {
@@ -19551,6 +19703,25 @@
       ]
     },
     {
+      "id": "portugal-formacao-medieval-08",
+      "datasetId": "data/dados-portugal-formacao-medieval.json",
+      "nome": "Conquista do Algarve",
+      "nome_en": "Conquest of the Algarve",
+      "nome_es": "Conquista del Algarve",
+      "descricao": "Conquista do Algarve integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1249,
+      "fim": 1249,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-formacao-medieval",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "cal-010",
       "datasetId": "data/dados-califados-islamicos.json",
       "nome": "Sultanato Mameluco",
@@ -19980,6 +20151,25 @@
         "Palapa",
         "Hindu-Budista",
         "Bali"
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-09",
+      "datasetId": "data/dados-portugal-formacao-medieval.json",
+      "nome": "Tratado de Alcanizes",
+      "nome_en": "Treaty of Alcañices",
+      "nome_es": "Tratado de Alcañices",
+      "descricao": "Tratado de Alcanizes integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1297,
+      "fim": 1297,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-formacao-medieval",
+        "political",
+        "mundo-lusofono"
       ]
     },
     {
@@ -21194,6 +21384,25 @@
       ]
     },
     {
+      "id": "kongo-angola-precolonial-01",
+      "datasetId": "data/dados-kongo-angola-precolonial.json",
+      "nome": "Formação do Reino do Congo",
+      "nome_en": "Formation of the Kingdom of Kongo",
+      "nome_es": "Formación del Reino del Congo",
+      "descricao": "Formação do Reino do Congo integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1390,
+      "fim": 1390,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "kongo-angola-precolonial",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "rafr-005",
       "datasetId": "data/dados-reinos-africanos.json",
       "nome": "Reino do Kongo",
@@ -21530,6 +21739,25 @@
       ]
     },
     {
+      "id": "portugal-expansao-estado-india-01",
+      "datasetId": "data/dados-portugal-expansao-estado-india.json",
+      "nome": "Conquista de Ceuta",
+      "nome_en": "Conquest of Ceuta",
+      "nome_es": "Conquista de Ceuta",
+      "descricao": "Conquista de Ceuta integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1415,
+      "fim": 1415,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "cj-002",
       "datasetId": "data/dados-coreia-joseon.json",
       "nome": "Rei Sejong e o Alfabeto Hangul",
@@ -21758,6 +21986,25 @@
       ]
     },
     {
+      "id": "portugal-expansao-estado-india-02",
+      "datasetId": "data/dados-portugal-expansao-estado-india.json",
+      "nome": "Gil Eanes dobra o cabo Bojador",
+      "nome_en": "Gil Eanes rounds Cape Bojador",
+      "nome_es": "Gil Eanes dobla el cabo Bojador",
+      "descricao": "Gil Eanes dobra o cabo Bojador integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1434,
+      "fim": 1434,
+      "type": "technological",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "technological",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "esc-001",
       "datasetId": "data/dados-igreja-escravidao.json",
       "nome": "Sicut Dudum (1435): Eugênio IV contra a Escravidão nas Canárias",
@@ -21943,6 +22190,25 @@
       "tags": []
     },
     {
+      "id": "imperio-atlantico-portugues-01",
+      "datasetId": "data/dados-imperio-atlantico-portugues.json",
+      "nome": "Mercado de pessoas escravizadas em Lagos",
+      "nome_en": "Market of enslaved people in Lagos",
+      "nome_es": "Mercado de personas esclavizadas en Lagos",
+      "descricao": "Mercado de pessoas escravizadas em Lagos integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1444,
+      "fim": 1444,
+      "type": "economic",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "economic",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "ax-003",
       "datasetId": "data/dados-astecas-expandido.json",
       "nome": "A Guerra Florida e o Sacrifício Humano",
@@ -22085,6 +22351,25 @@
         "inca",
         "arquitetura",
         "andes"
+      ]
+    },
+    {
+      "id": "mocambique-historia-02",
+      "datasetId": "data/dados-mocambique-historia.json",
+      "nome": "Consolidação do Estado de Mutapa",
+      "nome_en": "Consolidation of the Mutapa State",
+      "nome_es": "Consolidación del Estado de Mutapa",
+      "descricao": "Consolidação do Estado de Mutapa integra a sequência de moçambique pré-colonial, colonial e independente e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1450,
+      "fim": 1450,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "mocambique-historia",
+        "political",
+        "mundo-lusofono"
       ]
     },
     {
@@ -22339,6 +22624,25 @@
       "tipo": "economic",
       "region": "Europe",
       "tags": []
+    },
+    {
+      "id": "africa-lusofona-cabral-01",
+      "datasetId": "data/dados-africa-lusofona-cabral.json",
+      "nome": "Início do povoamento de Cabo Verde",
+      "nome_en": "Beginning of Cape Verde settlement",
+      "nome_es": "Inicio del poblamiento de Cabo Verde",
+      "descricao": "Início do povoamento de Cabo Verde integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1460,
+      "fim": 1460,
+      "type": "social",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "africa-lusofona-cabral",
+        "social",
+        "mundo-lusofono"
+      ]
     },
     {
       "id": "esc-002",
@@ -22600,6 +22904,25 @@
       ]
     },
     {
+      "id": "africa-lusofona-cabral-02",
+      "datasetId": "data/dados-africa-lusofona-cabral.json",
+      "nome": "Início do povoamento de São Tomé",
+      "nome_en": "Beginning of São Tomé settlement",
+      "nome_es": "Inicio del poblamiento de Santo Tomé",
+      "descricao": "Início do povoamento de São Tomé integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1470,
+      "fim": 1470,
+      "type": "social",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "africa-lusofona-cabral",
+        "social",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "rno-004",
       "datasetId": "data/dados-renascimento-norte.json",
       "nome": "Dürer e o Renascimento Alemão",
@@ -22831,6 +23154,44 @@
       ]
     },
     {
+      "id": "imperio-atlantico-portugues-02",
+      "datasetId": "data/dados-imperio-atlantico-portugues.json",
+      "nome": "Feitoria de São Jorge da Mina",
+      "nome_en": "São Jorge da Mina trading post",
+      "nome_es": "Factoría de São Jorge da Mina",
+      "descricao": "Feitoria de São Jorge da Mina integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1482,
+      "fim": 1482,
+      "type": "economic",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "economic",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "kongo-angola-precolonial-02",
+      "datasetId": "data/dados-kongo-angola-precolonial.json",
+      "nome": "Contato diplomático com Portugal",
+      "nome_en": "Diplomatic contact with Portugal",
+      "nome_es": "Contacto diplomático con Portugal",
+      "descricao": "Contato diplomático com Portugal integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1483,
+      "fim": 1483,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "kongo-angola-precolonial",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "lut-001",
       "datasetId": "data/dados-lutero-reforma.json",
       "nome": "Lutero: Padre Agostiniano e Reformador Interno",
@@ -22957,6 +23318,25 @@
       ]
     },
     {
+      "id": "portugal-expansao-estado-india-03",
+      "datasetId": "data/dados-portugal-expansao-estado-india.json",
+      "nome": "Bartolomeu Dias alcança o cabo da Boa Esperança",
+      "nome_en": "Bartolomeu Dias reaches the Cape of Good Hope",
+      "nome_es": "Bartolomeu Dias llega al cabo de Buena Esperanza",
+      "descricao": "Bartolomeu Dias alcança o cabo da Boa Esperança integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1488,
+      "fim": 1488,
+      "type": "technological",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "technological",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "cr1a",
       "datasetId": "data/dados-contrarreforma.json",
       "nome": "Inacio de Loyola e os Jesuitas",
@@ -22976,6 +23356,25 @@
         "missoes",
         "educacao",
         "China"
+      ]
+    },
+    {
+      "id": "kongo-angola-precolonial-03",
+      "datasetId": "data/dados-kongo-angola-precolonial.json",
+      "nome": "Batismo de Nzinga a Nkuwu",
+      "nome_en": "Baptism of Nzinga a Nkuwu",
+      "nome_es": "Bautismo de Nzinga a Nkuwu",
+      "descricao": "Batismo de Nzinga a Nkuwu integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1491,
+      "fim": 1491,
+      "type": "religious",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "kongo-angola-precolonial",
+        "religious",
+        "mundo-lusofono"
       ]
     },
     {
@@ -23197,6 +23596,25 @@
       ]
     },
     {
+      "id": "portugal-expansao-estado-india-04",
+      "datasetId": "data/dados-portugal-expansao-estado-india.json",
+      "nome": "Tratado de Tordesilhas",
+      "nome_en": "Treaty of Tordesillas",
+      "nome_es": "Tratado de Tordesillas",
+      "descricao": "Tratado de Tordesilhas integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1494,
+      "fim": 1494,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "trat-002",
       "datasetId": "data/dados-trafico-transatlantico.json",
       "nome": "O Asiento: Monopólio Legal do Tráfico",
@@ -23271,6 +23689,44 @@
       "tags": [
         "navegacoes",
         "portugal"
+      ]
+    },
+    {
+      "id": "mocambique-historia-03",
+      "datasetId": "data/dados-mocambique-historia.json",
+      "nome": "Passagem de Vasco da Gama",
+      "nome_en": "Passage of Vasco da Gama",
+      "nome_es": "Paso de Vasco da Gama",
+      "descricao": "Passagem de Vasco da Gama integra a sequência de moçambique pré-colonial, colonial e independente e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1498,
+      "fim": 1498,
+      "type": "economic",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "mocambique-historia",
+        "economic",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "portugal-expansao-estado-india-05",
+      "datasetId": "data/dados-portugal-expansao-estado-india.json",
+      "nome": "Vasco da Gama chega à Índia",
+      "nome_en": "Vasco da Gama reaches India",
+      "nome_es": "Vasco da Gama llega a India",
+      "descricao": "Vasco da Gama chega à Índia integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1498,
+      "fim": 1498,
+      "type": "economic",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "economic",
+        "mundo-lusofono"
       ]
     },
     {
@@ -23695,6 +24151,25 @@
       "tags": []
     },
     {
+      "id": "portugal-expansao-estado-india-06",
+      "datasetId": "data/dados-portugal-expansao-estado-india.json",
+      "nome": "Chegada da armada de Cabral ao Brasil",
+      "nome_en": "Cabral fleet reaches Brazil",
+      "nome_es": "Llegada de la armada de Cabral a Brasil",
+      "descricao": "Chegada da armada de Cabral ao Brasil integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1500,
+      "fim": 1500,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "sea2",
       "datasetId": "data/dados-sudeste-asiatico-colonial.json",
       "nome": "A Rota das Especiarias e as Ilhas Molucas",
@@ -23993,6 +24468,44 @@
       ]
     },
     {
+      "id": "portugal-expansao-estado-india-07",
+      "datasetId": "data/dados-portugal-expansao-estado-india.json",
+      "nome": "Criação do Estado da Índia",
+      "nome_en": "Creation of the Estado da Índia",
+      "nome_es": "Creación del Estado de la India",
+      "descricao": "Criação do Estado da Índia integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1505,
+      "fim": 1505,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "kongo-angola-precolonial-04",
+      "datasetId": "data/dados-kongo-angola-precolonial.json",
+      "nome": "Reinado de Afonso I do Congo",
+      "nome_en": "Reign of Afonso I of Kongo",
+      "nome_es": "Reinado de Afonso I del Congo",
+      "descricao": "Reinado de Afonso I do Congo integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1509,
+      "fim": 1509,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "kongo-angola-precolonial",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "rc1x",
       "datasetId": "data/dados-reforma-calvino.json",
       "nome": "Calvino e a Teocracia de Genebra",
@@ -24055,6 +24568,25 @@
       ]
     },
     {
+      "id": "portugal-expansao-estado-india-08",
+      "datasetId": "data/dados-portugal-expansao-estado-india.json",
+      "nome": "Conquista de Goa",
+      "nome_en": "Conquest of Goa",
+      "nome_es": "Conquista de Goa",
+      "descricao": "Conquista de Goa integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1510,
+      "fim": 1510,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "ac3",
       "datasetId": "data/dados-asia-central.json",
       "nome": "O Canato de Khiva e os Legados Nomades",
@@ -24096,6 +24628,25 @@
         "Chiapas",
         "Leis Novas",
         "direitos"
+      ]
+    },
+    {
+      "id": "portugal-expansao-estado-india-09",
+      "datasetId": "data/dados-portugal-expansao-estado-india.json",
+      "nome": "Conquista de Malaca",
+      "nome_en": "Conquest of Malacca",
+      "nome_es": "Conquista de Malaca",
+      "descricao": "Conquista de Malaca integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1511,
+      "fim": 1511,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "war",
+        "mundo-lusofono"
       ]
     },
     {
@@ -24216,6 +24767,25 @@
         "principe",
         "realismo-politico",
         "florenca"
+      ]
+    },
+    {
+      "id": "timor-leste-01",
+      "datasetId": "data/dados-timor-leste.json",
+      "nome": "Primeiros contatos portugueses documentados",
+      "nome_en": "First documented Portuguese contacts",
+      "nome_es": "Primeros contactos portugueses documentados",
+      "descricao": "Primeiros contatos portugueses documentados integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1515,
+      "fim": 1515,
+      "type": "economic",
+      "tipo": "evento",
+      "region": "SoutheastAsia",
+      "tags": [
+        "timor-leste",
+        "economic",
+        "mundo-lusofono"
       ]
     },
     {
@@ -24889,6 +25459,25 @@
         "brasil",
         "colonial",
         "acucar"
+      ]
+    },
+    {
+      "id": "imperio-atlantico-portugues-03",
+      "datasetId": "data/dados-imperio-atlantico-portugues.json",
+      "nome": "Colonização portuguesa sistemática no Brasil",
+      "nome_en": "Systematic Portuguese colonization in Brazil",
+      "nome_es": "Colonización portuguesa sistemática en Brasil",
+      "descricao": "Colonização portuguesa sistemática no Brasil integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1530,
+      "fim": 1530,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "political",
+        "mundo-lusofono"
       ]
     },
     {
@@ -26628,6 +27217,63 @@
       ]
     },
     {
+      "id": "kongo-angola-precolonial-05",
+      "datasetId": "data/dados-kongo-angola-precolonial.json",
+      "nome": "Invasão jaga e crise do Congo",
+      "nome_en": "Jaga invasion and Kongo crisis",
+      "nome_es": "Invasión jaga y crisis del Congo",
+      "descricao": "Invasão jaga e crise do Congo integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1568,
+      "fim": 1568,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "kongo-angola-precolonial",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "imperio-atlantico-portugues-04",
+      "datasetId": "data/dados-imperio-atlantico-portugues.json",
+      "nome": "Regulamentação régia da escravização indígena",
+      "nome_en": "Royal regulation of Indigenous enslavement",
+      "nome_es": "Regulación regia de la esclavización indígena",
+      "descricao": "Regulamentação régia da escravização indígena integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1570,
+      "fim": 1570,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "kongo-angola-precolonial-06",
+      "datasetId": "data/dados-kongo-angola-precolonial.json",
+      "nome": "Fundação portuguesa de Luanda",
+      "nome_en": "Portuguese foundation of Luanda",
+      "nome_es": "Fundación portuguesa de Luanda",
+      "descricao": "Fundação portuguesa de Luanda integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1575,
+      "fim": 1575,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "kongo-angola-precolonial",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "cienc-002",
       "datasetId": "data/dados-revolucao-cientifica.json",
       "nome": "Tycho Brahe e a Astronomia Observacional",
@@ -26645,6 +27291,25 @@
         "astronomia",
         "observatorio",
         "dados-empiricos"
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-01",
+      "datasetId": "data/dados-portugal-uniao-iberica-restauracao.json",
+      "nome": "Batalha de Alcácer Quibir",
+      "nome_en": "Battle of Alcácer Quibir",
+      "nome_es": "Batalla de Alcácer Quibir",
+      "descricao": "Batalha de Alcácer Quibir integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1578,
+      "fim": 1578,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "war",
+        "mundo-lusofono"
       ]
     },
     {
@@ -26744,6 +27409,25 @@
       "tags": []
     },
     {
+      "id": "portugal-uniao-iberica-restauracao-02",
+      "datasetId": "data/dados-portugal-uniao-iberica-restauracao.json",
+      "nome": "Crise sucessória portuguesa",
+      "nome_en": "Portuguese succession crisis",
+      "nome_es": "Crisis sucesoria portuguesa",
+      "descricao": "Crise sucessória portuguesa integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1580,
+      "fim": 1580,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "hol-001",
       "datasetId": "data/dados-holanda-seculo-de-ouro.json",
       "nome": "A República das Províncias Unidas: Fundação e Estrutura (1581–1650)",
@@ -26757,6 +27441,25 @@
       "tipo": "political",
       "region": "Other",
       "tags": []
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-03",
+      "datasetId": "data/dados-portugal-uniao-iberica-restauracao.json",
+      "nome": "Cortes de Tomar",
+      "nome_en": "Cortes of Tomar",
+      "nome_es": "Cortes de Tomar",
+      "descricao": "Cortes de Tomar integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1581,
+      "fim": 1581,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "political",
+        "mundo-lusofono"
+      ]
     },
     {
       "id": "rpc-005",
@@ -26800,6 +27503,25 @@
         "exército particular",
         "assassinato",
         "saque"
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-04",
+      "datasetId": "data/dados-portugal-uniao-iberica-restauracao.json",
+      "nome": "Armada contra a Inglaterra",
+      "nome_en": "Armada against England",
+      "nome_es": "Armada contra Inglaterra",
+      "descricao": "Armada contra a Inglaterra integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1588,
+      "fim": 1588,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "war",
+        "mundo-lusofono"
       ]
     },
     {
@@ -28027,6 +28749,44 @@
       ]
     },
     {
+      "id": "kongo-angola-precolonial-07",
+      "datasetId": "data/dados-kongo-angola-precolonial.json",
+      "nome": "Ascensão de Nzinga de Ndongo e Matamba",
+      "nome_en": "Rise of Nzinga of Ndongo and Matamba",
+      "nome_es": "Ascenso de Nzinga de Ndongo y Matamba",
+      "descricao": "Ascensão de Nzinga de Ndongo e Matamba integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1624,
+      "fim": 1624,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "kongo-angola-precolonial",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-05",
+      "datasetId": "data/dados-portugal-uniao-iberica-restauracao.json",
+      "nome": "Primeira ocupação neerlandesa de Salvador",
+      "nome_en": "First Dutch occupation of Salvador",
+      "nome_es": "Primera ocupación neerlandesa de Salvador",
+      "descricao": "Primeira ocupação neerlandesa de Salvador integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1624,
+      "fim": 1624,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "g30-002",
       "datasetId": "data/dados-guerra-trinta-anos.json",
       "nome": "Fase Dinamarquesa e Sueca: Gustavo Adolfo (1625–1635)",
@@ -28076,6 +28836,25 @@
         "Antônio-Raposo",
         "destruição",
         "guaranis"
+      ]
+    },
+    {
+      "id": "imperio-atlantico-portugues-05",
+      "datasetId": "data/dados-imperio-atlantico-portugues.json",
+      "nome": "Ocupação neerlandesa de Pernambuco",
+      "nome_en": "Dutch occupation of Pernambuco",
+      "nome_es": "Ocupación neerlandesa de Pernambuco",
+      "descricao": "Ocupação neerlandesa de Pernambuco integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1630,
+      "fim": 1630,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "war",
+        "mundo-lusofono"
       ]
     },
     {
@@ -28370,6 +29149,25 @@
       ]
     },
     {
+      "id": "portugal-uniao-iberica-restauracao-06",
+      "datasetId": "data/dados-portugal-uniao-iberica-restauracao.json",
+      "nome": "Revolta de Évora",
+      "nome_en": "Revolt of Évora",
+      "nome_es": "Revuelta de Évora",
+      "descricao": "Revolta de Évora integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1637,
+      "fim": 1637,
+      "type": "social",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "social",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "abs1",
       "datasetId": "data/dados-absolutismo.json",
       "nome": "Luís XIV: O Rei Sol",
@@ -28494,6 +29292,25 @@
         "brasil",
         "colonial",
         "revoltas"
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-07",
+      "datasetId": "data/dados-portugal-uniao-iberica-restauracao.json",
+      "nome": "Restauração da Independência",
+      "nome_en": "Restoration of Independence",
+      "nome_es": "Restauración de la Independencia",
+      "descricao": "Restauração da Independência integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1640,
+      "fim": 1640,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "political",
+        "mundo-lusofono"
       ]
     },
     {
@@ -29011,6 +29828,63 @@
       ]
     },
     {
+      "id": "kongo-angola-precolonial-08",
+      "datasetId": "data/dados-kongo-angola-precolonial.json",
+      "nome": "Batalha de Mbwila",
+      "nome_en": "Battle of Mbwila",
+      "nome_es": "Batalla de Mbwila",
+      "descricao": "Batalha de Mbwila integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1665,
+      "fim": 1665,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "kongo-angola-precolonial",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-08",
+      "datasetId": "data/dados-portugal-uniao-iberica-restauracao.json",
+      "nome": "Batalha de Montes Claros",
+      "nome_en": "Battle of Montes Claros",
+      "nome_es": "Batalla de Montes Claros",
+      "descricao": "Batalha de Montes Claros integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1665,
+      "fim": 1665,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-09",
+      "datasetId": "data/dados-portugal-uniao-iberica-restauracao.json",
+      "nome": "Tratado de Lisboa",
+      "nome_en": "Treaty of Lisbon",
+      "nome_es": "Tratado de Lisboa",
+      "descricao": "Tratado de Lisboa integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1668,
+      "fim": 1668,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "rpc-004",
       "datasetId": "data/dados-russia-pedro-catarina.json",
       "nome": "Pugachev e as Revoltas dos Cossacos",
@@ -29029,6 +29903,25 @@
         "servos",
         "revolta",
         "Catarina"
+      ]
+    },
+    {
+      "id": "kongo-angola-precolonial-09",
+      "datasetId": "data/dados-kongo-angola-precolonial.json",
+      "nome": "Queda do reino de Ndongo",
+      "nome_en": "Fall of the Kingdom of Ndongo",
+      "nome_es": "Caída del reino de Ndongo",
+      "descricao": "Queda do reino de Ndongo integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1671,
+      "fim": 1671,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "kongo-angola-precolonial",
+        "war",
+        "mundo-lusofono"
       ]
     },
     {
@@ -29573,6 +30466,25 @@
       "tags": []
     },
     {
+      "id": "imperio-atlantico-portugues-06",
+      "datasetId": "data/dados-imperio-atlantico-portugues.json",
+      "nome": "Destruição de Palmares",
+      "nome_en": "Destruction of Palmares",
+      "nome_es": "Destrucción de Palmares",
+      "descricao": "Destruição de Palmares integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1695,
+      "fim": 1695,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "bce1",
       "datasetId": "data/dados-brasil-ciclos-economicos.json",
       "nome": "O Ciclo do Ouro e a Inconfidencia Mineira",
@@ -29669,6 +30581,25 @@
         "derrama",
         "casas-de-fundição",
         "fiscalização"
+      ]
+    },
+    {
+      "id": "timor-leste-02",
+      "datasetId": "data/dados-timor-leste.json",
+      "nome": "Administração colonial sediada em Lifau",
+      "nome_en": "Colonial administration based in Lifau",
+      "nome_es": "Administración colonial con sede en Lifau",
+      "descricao": "Administração colonial sediada em Lifau integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1702,
+      "fim": 1702,
+      "type": "political",
+      "tipo": "evento",
+      "region": "SoutheastAsia",
+      "tags": [
+        "timor-leste",
+        "political",
+        "mundo-lusofono"
       ]
     },
     {
@@ -30418,6 +31349,25 @@
       ]
     },
     {
+      "id": "portugal-reformas-pombalinas-01",
+      "datasetId": "data/dados-portugal-reformas-pombalinas.json",
+      "nome": "Sebastião José de Carvalho e Melo assume a Secretaria de Estado",
+      "nome_en": "Sebastião José de Carvalho e Melo becomes Secretary of State",
+      "nome_es": "Sebastião José de Carvalho e Melo asume la Secretaría de Estado",
+      "descricao": "Sebastião José de Carvalho e Melo assume a Secretaria de Estado integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1750,
+      "fim": 1750,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "far2",
       "datasetId": "data/dados-franca-ancien-regime.json",
       "nome": "A Enciclopédia e o Iluminismo Francês",
@@ -30497,6 +31447,25 @@
       ]
     },
     {
+      "id": "mocambique-historia-04",
+      "datasetId": "data/dados-mocambique-historia.json",
+      "nome": "Administração de Moçambique separada de Goa",
+      "nome_en": "Mozambique administration separated from Goa",
+      "nome_es": "Administración de Mozambique separada de Goa",
+      "descricao": "Administração de Moçambique separada de Goa integra a sequência de moçambique pré-colonial, colonial e independente e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1752,
+      "fim": 1752,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "mocambique-historia",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "ilum-006",
       "datasetId": "data/dados-iluminismo.json",
       "nome": "Rousseau: Contrato Social e Vontade Geral",
@@ -30514,6 +31483,44 @@
         "contrato-social",
         "democracia",
         "desigualdade"
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-02",
+      "datasetId": "data/dados-portugal-reformas-pombalinas.json",
+      "nome": "Terremoto de Lisboa",
+      "nome_en": "Lisbon earthquake",
+      "nome_es": "Terremoto de Lisboa",
+      "descricao": "Terremoto de Lisboa integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1755,
+      "fim": 1755,
+      "type": "natural",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "natural",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-03",
+      "datasetId": "data/dados-portugal-reformas-pombalinas.json",
+      "nome": "Companhia Geral da Agricultura das Vinhas do Alto Douro",
+      "nome_en": "Douro Wine Company",
+      "nome_es": "Compañía de los Vinos del Alto Duero",
+      "descricao": "Companhia Geral da Agricultura das Vinhas do Alto Douro integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1756,
+      "fim": 1756,
+      "type": "economic",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "economic",
+        "mundo-lusofono"
       ]
     },
     {
@@ -30577,6 +31584,63 @@
         "india",
         "raj",
         "cipaios"
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-04",
+      "datasetId": "data/dados-portugal-reformas-pombalinas.json",
+      "nome": "Diretório dos Índios",
+      "nome_en": "Directory of the Indians",
+      "nome_es": "Directorio de los Indios",
+      "descricao": "Diretório dos Índios integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1757,
+      "fim": 1757,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "imperio-atlantico-portugues-07",
+      "datasetId": "data/dados-imperio-atlantico-portugues.json",
+      "nome": "Proibição da escravização indígena no Estado do Brasil",
+      "nome_en": "Ban on Indigenous enslavement in the State of Brazil",
+      "nome_es": "Prohibición de la esclavización indígena en el Estado de Brasil",
+      "descricao": "Proibição da escravização indígena no Estado do Brasil integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1758,
+      "fim": 1758,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-05",
+      "datasetId": "data/dados-portugal-reformas-pombalinas.json",
+      "nome": "Caso Távora",
+      "nome_en": "Távora affair",
+      "nome_es": "Caso Távora",
+      "descricao": "Caso Távora integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1758,
+      "fim": 1758,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "political",
+        "mundo-lusofono"
       ]
     },
     {
@@ -30659,6 +31723,44 @@
       ]
     },
     {
+      "id": "portugal-reformas-pombalinas-06",
+      "datasetId": "data/dados-portugal-reformas-pombalinas.json",
+      "nome": "Expulsão dos jesuítas",
+      "nome_en": "Expulsion of the Jesuits",
+      "nome_es": "Expulsión de los jesuitas",
+      "descricao": "Expulsão dos jesuítas integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1759,
+      "fim": 1759,
+      "type": "religious",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "religious",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-07",
+      "datasetId": "data/dados-portugal-reformas-pombalinas.json",
+      "nome": "Aulas Régias",
+      "nome_en": "Royal Classes",
+      "nome_es": "Aulas Regias",
+      "descricao": "Aulas Régias integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1759,
+      "fim": 1759,
+      "type": "intellectual",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "intellectual",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "cap-002",
       "datasetId": "data/dados-capitalismo.json",
       "nome": "Capitalismo Industrial e os Cercamentos (1760-1850)",
@@ -30697,6 +31799,25 @@
         "Watt\",\"Manchester",
         "ferrovias",
         "criancas"
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-08",
+      "datasetId": "data/dados-portugal-reformas-pombalinas.json",
+      "nome": "Abolição da escravidão na metrópole",
+      "nome_en": "Abolition of slavery in metropolitan Portugal",
+      "nome_es": "Abolición de la esclavitud en la metrópoli",
+      "descricao": "Abolição da escravidão na metrópole integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1761,
+      "fim": 1761,
+      "type": "social",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "social",
+        "mundo-lusofono"
       ]
     },
     {
@@ -31043,6 +32164,25 @@
       ]
     },
     {
+      "id": "timor-leste-03",
+      "datasetId": "data/dados-timor-leste.json",
+      "nome": "Transferência da capital para Díli",
+      "nome_en": "Transfer of the capital to Dili",
+      "nome_es": "Traslado de la capital a Dili",
+      "descricao": "Transferência da capital para Díli integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1769,
+      "fim": 1769,
+      "type": "political",
+      "tipo": "evento",
+      "region": "SoutheastAsia",
+      "tags": [
+        "timor-leste",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "fm-005",
       "datasetId": "data/dados-filosofia-moderna.json",
       "nome": "Hegel, Marx e o Idealismo Alemão",
@@ -31107,6 +32247,25 @@
         "Napoleão",
         "Marx",
         "Espírito do Mundo"
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-09",
+      "datasetId": "data/dados-portugal-reformas-pombalinas.json",
+      "nome": "Reforma da Universidade de Coimbra",
+      "nome_en": "Reform of the University of Coimbra",
+      "nome_es": "Reforma de la Universidad de Coimbra",
+      "descricao": "Reforma da Universidade de Coimbra integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1772,
+      "fim": 1772,
+      "type": "intellectual",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "intellectual",
+        "mundo-lusofono"
       ]
     },
     {
@@ -32569,6 +33728,44 @@
       ]
     },
     {
+      "id": "imperio-atlantico-portugues-08",
+      "datasetId": "data/dados-imperio-atlantico-portugues.json",
+      "nome": "Abolição britânica do tráfico atlântico",
+      "nome_en": "British abolition of the Atlantic slave trade",
+      "nome_es": "Abolición británica de la trata atlántica",
+      "descricao": "Abolição britânica do tráfico atlântico integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1807,
+      "fim": 1807,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-01",
+      "datasetId": "data/dados-portugal-liberalismo-republica.json",
+      "nome": "Transferência da corte para o Rio de Janeiro",
+      "nome_en": "Transfer of the court to Rio de Janeiro",
+      "nome_es": "Traslado de la corte a Río de Janeiro",
+      "descricao": "Transferência da corte para o Rio de Janeiro integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1807,
+      "fim": 1807,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "r48c",
       "datasetId": "data/dados-revolucoes-1848.json",
       "nome": "Garibaldi e a Revolução Italiana",
@@ -33829,6 +35026,25 @@
       ]
     },
     {
+      "id": "portugal-liberalismo-republica-02",
+      "datasetId": "data/dados-portugal-liberalismo-republica.json",
+      "nome": "Revolução Liberal do Porto",
+      "nome_en": "Liberal Revolution of Porto",
+      "nome_es": "Revolución Liberal de Oporto",
+      "descricao": "Revolução Liberal do Porto integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1820,
+      "fim": 1820,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "rvl-001",
       "datasetId": "data/dados-revolucoes-liberais.json",
       "nome": "Revoluções de 1820: Onda Liberal Mediterrânea",
@@ -34035,6 +35251,25 @@
         "independencia",
         "pedro-i",
         "monarquia"
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-03",
+      "datasetId": "data/dados-portugal-liberalismo-republica.json",
+      "nome": "Constituição portuguesa de 1822",
+      "nome_en": "Portuguese Constitution of 1822",
+      "nome_es": "Constitución portuguesa de 1822",
+      "descricao": "Constituição portuguesa de 1822 integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1822,
+      "fim": 1822,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
       ]
     },
     {
@@ -34372,6 +35607,25 @@
         "republica",
         "proclamacao",
         "positivismo"
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-04",
+      "datasetId": "data/dados-portugal-liberalismo-republica.json",
+      "nome": "Início da Guerra Civil Portuguesa",
+      "nome_en": "Beginning of the Portuguese Civil War",
+      "nome_es": "Inicio de la Guerra Civil Portuguesa",
+      "descricao": "Início da Guerra Civil Portuguesa integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1828,
+      "fim": 1828,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "war",
+        "mundo-lusofono"
       ]
     },
     {
@@ -34753,6 +36007,25 @@
       "tipo": "economic",
       "region": "Other",
       "tags": []
+    },
+    {
+      "id": "portugal-liberalismo-republica-05",
+      "datasetId": "data/dados-portugal-liberalismo-republica.json",
+      "nome": "Convenção de Évora-Monte",
+      "nome_en": "Convention of Évora-Monte",
+      "nome_es": "Convención de Évora-Monte",
+      "descricao": "Convenção de Évora-Monte integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1834,
+      "fim": 1834,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
+      ]
     },
     {
       "id": "bes-005",
@@ -36155,6 +37428,25 @@
       ]
     },
     {
+      "id": "imperio-atlantico-portugues-09",
+      "datasetId": "data/dados-imperio-atlantico-portugues.json",
+      "nome": "Lei Eusébio de Queirós",
+      "nome_en": "Eusébio de Queirós Law",
+      "nome_es": "Ley Eusébio de Queirós",
+      "descricao": "Lei Eusébio de Queirós integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1850,
+      "fim": 1850,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Global",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "qui-003",
       "datasetId": "data/dados-brasil-quilombos.json",
       "nome": "Abolição da Escravatura no Brasil (1850–1888)",
@@ -36195,6 +37487,25 @@
         "13-de-maio",
         "escravidão",
         "pós-abolição"
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-06",
+      "datasetId": "data/dados-portugal-liberalismo-republica.json",
+      "nome": "Regeneração",
+      "nome_en": "Regeneration",
+      "nome_es": "Regeneración",
+      "descricao": "Regeneração integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1851,
+      "fim": 1851,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
       ]
     },
     {
@@ -38679,6 +39990,25 @@
       ]
     },
     {
+      "id": "angola-colonial-independencia-01",
+      "datasetId": "data/dados-angola-colonial-independencia.json",
+      "nome": "Conferência de Berlim e reivindicações coloniais",
+      "nome_en": "Berlin Conference and colonial claims",
+      "nome_es": "Conferencia de Berlín y reclamaciones coloniales",
+      "descricao": "Conferência de Berlim e reivindicações coloniais integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1885,
+      "fim": 1885,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "angola-colonial-independencia",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "desc-014",
       "datasetId": "data/dados-descolonizacao.json",
       "nome": "Legado Colonial — Impactos Contemporâneos",
@@ -38964,6 +40294,44 @@
       "tags": []
     },
     {
+      "id": "angola-colonial-independencia-02",
+      "datasetId": "data/dados-angola-colonial-independencia.json",
+      "nome": "Campanhas de ocupação colonial",
+      "nome_en": "Colonial occupation campaigns",
+      "nome_es": "Campañas de ocupación colonial",
+      "descricao": "Campanhas de ocupação colonial integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1890,
+      "fim": 1890,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "angola-colonial-independencia",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-07",
+      "datasetId": "data/dados-portugal-liberalismo-republica.json",
+      "nome": "Ultimato britânico",
+      "nome_en": "British Ultimatum",
+      "nome_es": "Ultimátum británico",
+      "descricao": "Ultimato britânico integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1890,
+      "fim": 1890,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "brv-002",
       "datasetId": "data/dados-brasil-republica-velha.json",
       "nome": "Constituição de 1891: O Federalismo Republicano",
@@ -38982,6 +40350,25 @@
         "Estados Unidos do Brasil",
         "laicidade",
         "sufrágio"
+      ]
+    },
+    {
+      "id": "mocambique-historia-05",
+      "datasetId": "data/dados-mocambique-historia.json",
+      "nome": "Concessões a companhias majestáticas",
+      "nome_en": "Concessions to chartered companies",
+      "nome_es": "Concesiones a compañías privilegiadas",
+      "descricao": "Concessões a companhias majestáticas integra a sequência de moçambique pré-colonial, colonial e independente e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1891,
+      "fim": 1891,
+      "type": "economic",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "mocambique-historia",
+        "economic",
+        "mundo-lusofono"
       ]
     },
     {
@@ -40041,6 +41428,25 @@
         "trabalho forçado",
         "mulheres de conforto",
         "independência"
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-08",
+      "datasetId": "data/dados-portugal-liberalismo-republica.json",
+      "nome": "Implantação da República",
+      "nome_en": "Establishment of the Republic",
+      "nome_es": "Proclamación de la República",
+      "descricao": "Implantação da República integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1910,
+      "fim": 1910,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
       ]
     },
     {
@@ -41857,6 +43263,25 @@
       ]
     },
     {
+      "id": "portugal-liberalismo-republica-09",
+      "datasetId": "data/dados-portugal-liberalismo-republica.json",
+      "nome": "Golpe militar de 28 de Maio",
+      "nome_en": "Military coup of 28 May",
+      "nome_es": "Golpe militar del 28 de mayo",
+      "descricao": "Golpe militar de 28 de Maio integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1926,
+      "fim": 1926,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "cr2",
       "datasetId": "data/dados-china-republica.json",
       "nome": "A Decada de Nanjing e o Governo KMT (1927-1937)",
@@ -43063,6 +44488,25 @@
       ]
     },
     {
+      "id": "portugal-estado-novo-cravos-01",
+      "datasetId": "data/dados-portugal-estado-novo-cravos.json",
+      "nome": "Constituição do Estado Novo",
+      "nome_en": "Estado Novo Constitution",
+      "nome_es": "Constitución del Estado Novo",
+      "descricao": "Constituição do Estado Novo integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1933,
+      "fim": 1933,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "sgm-002",
       "datasetId": "data/dados-segunda-guerra.json",
       "nome": "Nazismo",
@@ -43482,6 +44926,25 @@
       "tipo": "war",
       "region": "Other",
       "tags": []
+    },
+    {
+      "id": "portugal-estado-novo-cravos-02",
+      "datasetId": "data/dados-portugal-estado-novo-cravos.json",
+      "nome": "Criação da Mocidade Portuguesa",
+      "nome_en": "Creation of the Portuguese Youth",
+      "nome_es": "Creación de la Juventud Portuguesa",
+      "descricao": "Criação da Mocidade Portuguesa integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1936,
+      "fim": 1936,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "political",
+        "mundo-lusofono"
+      ]
     },
     {
       "id": "bev-005",
@@ -44308,6 +45771,25 @@
         "bomba-atomica",
         "oppenheimer",
         "nuclear"
+      ]
+    },
+    {
+      "id": "timor-leste-04",
+      "datasetId": "data/dados-timor-leste.json",
+      "nome": "Ocupação japonesa de Timor",
+      "nome_en": "Japanese occupation of Timor",
+      "nome_es": "Ocupación japonesa de Timor",
+      "descricao": "Ocupação japonesa de Timor integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1942,
+      "fim": 1942,
+      "type": "war",
+      "tipo": "evento",
+      "region": "SoutheastAsia",
+      "tags": [
+        "timor-leste",
+        "war",
+        "mundo-lusofono"
       ]
     },
     {
@@ -45870,6 +47352,25 @@
       ]
     },
     {
+      "id": "portugal-estado-novo-cravos-03",
+      "datasetId": "data/dados-portugal-estado-novo-cravos.json",
+      "nome": "Portugal integra a OTAN",
+      "nome_en": "Portugal joins NATO",
+      "nome_es": "Portugal ingresa en la OTAN",
+      "descricao": "Portugal integra a OTAN integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1949,
+      "fim": 1949,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "prc1",
       "datasetId": "data/dados-china-prc.json",
       "nome": "A Vitoria Comunista e a Fundacao da RPC (1949)",
@@ -46079,6 +47580,25 @@
       "tipo": "political",
       "region": "Other",
       "tags": []
+    },
+    {
+      "id": "africa-lusofona-cabral-03",
+      "datasetId": "data/dados-africa-lusofona-cabral.json",
+      "nome": "Colônias passam a ser chamadas províncias ultramarinas",
+      "nome_en": "Colonies renamed overseas provinces",
+      "nome_es": "Colonias renombradas provincias ultramarinas",
+      "descricao": "Colônias passam a ser chamadas províncias ultramarinas integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1951,
+      "fim": 1951,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "africa-lusofona-cabral",
+        "political",
+        "mundo-lusofono"
+      ]
     },
     {
       "id": "ec1",
@@ -46896,6 +48416,44 @@
       "tags": []
     },
     {
+      "id": "africa-lusofona-cabral-04",
+      "datasetId": "data/dados-africa-lusofona-cabral.json",
+      "nome": "Fundação do PAIGC",
+      "nome_en": "Foundation of PAIGC",
+      "nome_es": "Fundación del PAIGC",
+      "descricao": "Fundação do PAIGC integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1956,
+      "fim": 1956,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "africa-lusofona-cabral",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "angola-colonial-independencia-03",
+      "datasetId": "data/dados-angola-colonial-independencia.json",
+      "nome": "Fundação do MPLA",
+      "nome_en": "Foundation of the MPLA",
+      "nome_es": "Fundación del MPLA",
+      "descricao": "Fundação do MPLA integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1956,
+      "fim": 1956,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "angola-colonial-independencia",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "bii3",
       "datasetId": "data/dados-brasil-imperio-infraestrutura.json",
       "nome": "A Construcao de Brasilia (1956-1960)",
@@ -47309,6 +48867,25 @@
       ]
     },
     {
+      "id": "africa-lusofona-cabral-05",
+      "datasetId": "data/dados-africa-lusofona-cabral.json",
+      "nome": "Massacre de Pidjiguiti",
+      "nome_en": "Pidjiguiti massacre",
+      "nome_es": "Masacre de Pidjiguiti",
+      "descricao": "Massacre de Pidjiguiti integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1959,
+      "fim": 1959,
+      "type": "social",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "africa-lusofona-cabral",
+        "social",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "al20-002",
       "datasetId": "data/dados-america-latina-sec20.json",
       "nome": "Revolução Cubana e a Guerra Fria na América Latina (1959–1979)",
@@ -47588,6 +49165,25 @@
       "tags": []
     },
     {
+      "id": "angola-colonial-independencia-04",
+      "datasetId": "data/dados-angola-colonial-independencia.json",
+      "nome": "Revoltas e início da guerra anticolonial",
+      "nome_en": "Revolts and beginning of the anticolonial war",
+      "nome_es": "Revueltas e inicio de la guerra anticolonial",
+      "descricao": "Revoltas e início da guerra anticolonial integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1961,
+      "fim": 1961,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "angola-colonial-independencia",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "bev-010",
       "datasetId": "data/dados-brasil-era-vargas.json",
       "nome": "João Goulart e a Radicalização Política (1961-1964)",
@@ -47763,6 +49359,25 @@
       "tags": []
     },
     {
+      "id": "portugal-estado-novo-cravos-04",
+      "datasetId": "data/dados-portugal-estado-novo-cravos.json",
+      "nome": "Início da guerra em Angola",
+      "nome_en": "Beginning of the war in Angola",
+      "nome_es": "Inicio de la guerra en Angola",
+      "descricao": "Início da guerra em Angola integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1961,
+      "fim": 1961,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "con-010",
       "datasetId": "data/dados-concilios-ecumenicos.json",
       "nome": "Concílio Vaticano II — A Igreja no Mundo Moderno",
@@ -47844,6 +49459,25 @@
       ]
     },
     {
+      "id": "mocambique-historia-06",
+      "datasetId": "data/dados-mocambique-historia.json",
+      "nome": "Fundação da FRELIMO",
+      "nome_en": "Foundation of FRELIMO",
+      "nome_es": "Fundación de FRELIMO",
+      "descricao": "Fundação da FRELIMO integra a sequência de moçambique pré-colonial, colonial e independente e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1962,
+      "fim": 1962,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "mocambique-historia",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "mov-006",
       "datasetId": "data/dados-movimentos-sociais.json",
       "nome": "Movimento Ambientalista",
@@ -47892,6 +49526,25 @@
       "tipo": "political",
       "region": "Asia",
       "tags": []
+    },
+    {
+      "id": "africa-lusofona-cabral-06",
+      "datasetId": "data/dados-africa-lusofona-cabral.json",
+      "nome": "Luta armada na Guiné-Bissau",
+      "nome_en": "Armed struggle in Guinea-Bissau",
+      "nome_es": "Lucha armada en Guinea-Bisáu",
+      "descricao": "Luta armada na Guiné-Bissau integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1963,
+      "fim": 1963,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "africa-lusofona-cabral",
+        "war",
+        "mundo-lusofono"
+      ]
     },
     {
       "id": "bpp2",
@@ -47970,6 +49623,25 @@
         "beauvoir",
         "friedan",
         "aborto"
+      ]
+    },
+    {
+      "id": "portugal-estado-novo-cravos-05",
+      "datasetId": "data/dados-portugal-estado-novo-cravos.json",
+      "nome": "Início da guerra na Guiné-Bissau",
+      "nome_en": "Beginning of the war in Guinea-Bissau",
+      "nome_es": "Inicio de la guerra en Guinea-Bisáu",
+      "descricao": "Início da guerra na Guiné-Bissau integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1963,
+      "fim": 1963,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "war",
+        "mundo-lusofono"
       ]
     },
     {
@@ -48221,6 +49893,44 @@
         "Nixon",
         "sindrome",
         "TV"
+      ]
+    },
+    {
+      "id": "mocambique-historia-07",
+      "datasetId": "data/dados-mocambique-historia.json",
+      "nome": "Início da luta armada anticolonial",
+      "nome_en": "Beginning of armed anticolonial struggle",
+      "nome_es": "Inicio de la lucha armada anticolonial",
+      "descricao": "Início da luta armada anticolonial integra a sequência de moçambique pré-colonial, colonial e independente e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1964,
+      "fim": 1964,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "mocambique-historia",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "portugal-estado-novo-cravos-06",
+      "datasetId": "data/dados-portugal-estado-novo-cravos.json",
+      "nome": "Início da guerra em Moçambique",
+      "nome_en": "Beginning of the war in Mozambique",
+      "nome_es": "Inicio de la guerra en Mozambique",
+      "descricao": "Início da guerra em Moçambique integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1964,
+      "fim": 1964,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "war",
+        "mundo-lusofono"
       ]
     },
     {
@@ -48552,6 +50262,25 @@
       ]
     },
     {
+      "id": "portugal-estado-novo-cravos-07",
+      "datasetId": "data/dados-portugal-estado-novo-cravos.json",
+      "nome": "Marcelo Caetano substitui Salazar",
+      "nome_en": "Marcelo Caetano succeeds Salazar",
+      "nome_es": "Marcelo Caetano sustituye a Salazar",
+      "descricao": "Marcelo Caetano substitui Salazar integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1968,
+      "fim": 1968,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "s68-001",
       "datasetId": "data/dados-1968-europa.json",
       "nome": "Maio de 68 em Paris: A Revolução que Não Foi",
@@ -48871,6 +50600,25 @@
       ]
     },
     {
+      "id": "africa-lusofona-cabral-07",
+      "datasetId": "data/dados-africa-lusofona-cabral.json",
+      "nome": "Assassinato de Amílcar Cabral",
+      "nome_en": "Assassination of Amílcar Cabral",
+      "nome_es": "Asesinato de Amílcar Cabral",
+      "descricao": "Assassinato de Amílcar Cabral integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1973,
+      "fim": 1973,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "africa-lusofona-cabral",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "cap-005",
       "datasetId": "data/dados-capitalismo.json",
       "nome": "Neoliberalismo: Friedman, Thatcher e Reagan (1973-)",
@@ -48904,6 +50652,44 @@
       "tipo": "economic",
       "region": "Global",
       "tags": []
+    },
+    {
+      "id": "africa-lusofona-cabral-08",
+      "datasetId": "data/dados-africa-lusofona-cabral.json",
+      "nome": "Reconhecimento da independência da Guiné-Bissau",
+      "nome_en": "Recognition of Guinea-Bissau independence",
+      "nome_es": "Reconocimiento de la independencia de Guinea-Bisáu",
+      "descricao": "Reconhecimento da independência da Guiné-Bissau integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1974,
+      "fim": 1974,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "africa-lusofona-cabral",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "angola-colonial-independencia-05",
+      "datasetId": "data/dados-angola-colonial-independencia.json",
+      "nome": "Acordos de Alvor em negociação",
+      "nome_en": "Alvor Agreement negotiations",
+      "nome_es": "Negociaciones de los Acuerdos de Alvor",
+      "descricao": "Acordos de Alvor em negociação integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1974,
+      "fim": 1974,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "angola-colonial-independencia",
+        "political",
+        "mundo-lusofono"
+      ]
     },
     {
       "id": "br15-005",
@@ -48994,6 +50780,101 @@
       ]
     },
     {
+      "id": "portugal-estado-novo-cravos-08",
+      "datasetId": "data/dados-portugal-estado-novo-cravos.json",
+      "nome": "Revolução dos Cravos",
+      "nome_en": "Carnation Revolution",
+      "nome_es": "Revolución de los Claveles",
+      "descricao": "Revolução dos Cravos integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1974,
+      "fim": 1974,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "timor-leste-05",
+      "datasetId": "data/dados-timor-leste.json",
+      "nome": "Revolução portuguesa e descolonização",
+      "nome_en": "Portuguese revolution and decolonization",
+      "nome_es": "Revolución portuguesa y descolonización",
+      "descricao": "Revolução portuguesa e descolonização integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1974,
+      "fim": 1974,
+      "type": "political",
+      "tipo": "evento",
+      "region": "SoutheastAsia",
+      "tags": [
+        "timor-leste",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "africa-lusofona-cabral-09",
+      "datasetId": "data/dados-africa-lusofona-cabral.json",
+      "nome": "Independências de Cabo Verde e São Tomé e Príncipe",
+      "nome_en": "Independence of Cape Verde and São Tomé and Príncipe",
+      "nome_es": "Independencias de Cabo Verde y Santo Tomé y Príncipe",
+      "descricao": "Independências de Cabo Verde e São Tomé e Príncipe integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1975,
+      "fim": 1975,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "africa-lusofona-cabral",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "angola-colonial-independencia-06",
+      "datasetId": "data/dados-angola-colonial-independencia.json",
+      "nome": "Independência de Angola",
+      "nome_en": "Independence of Angola",
+      "nome_es": "Independencia de Angola",
+      "descricao": "Independência de Angola integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1975,
+      "fim": 1975,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "angola-colonial-independencia",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
+      "id": "angola-colonial-independencia-07",
+      "datasetId": "data/dados-angola-colonial-independencia.json",
+      "nome": "Início da guerra civil angolana",
+      "nome_en": "Beginning of the Angolan Civil War",
+      "nome_es": "Inicio de la guerra civil angoleña",
+      "descricao": "Início da guerra civil angolana integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1975,
+      "fim": 1975,
+      "type": "war",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "angola-colonial-independencia",
+        "war",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "dig-003",
       "datasetId": "data/dados-revolucao-digital.json",
       "nome": "O PC e a Democratização da Computação (1975–1995)",
@@ -49031,6 +50912,25 @@
       ]
     },
     {
+      "id": "mocambique-historia-08",
+      "datasetId": "data/dados-mocambique-historia.json",
+      "nome": "Independência de Moçambique",
+      "nome_en": "Independence of Mozambique",
+      "nome_es": "Independencia de Mozambique",
+      "descricao": "Independência de Moçambique integra a sequência de moçambique pré-colonial, colonial e independente e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1975,
+      "fim": 1975,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "mocambique-historia",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "sea6",
       "datasetId": "data/dados-sudeste-asiatico-colonial.json",
       "nome": "O Genocidio do Cambodia e os Khmers Vermelhos",
@@ -49049,6 +50949,25 @@
         "genocidio\",\"1975",
         "Khmers Vermelhos",
         "1,5 milhao"
+      ]
+    },
+    {
+      "id": "timor-leste-06",
+      "datasetId": "data/dados-timor-leste.json",
+      "nome": "Declaração de independência e invasão indonésia",
+      "nome_en": "Declaration of independence and Indonesian invasion",
+      "nome_es": "Declaración de independencia e invasión indonesia",
+      "descricao": "Declaração de independência e invasão indonésia integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1975,
+      "fim": 1975,
+      "type": "war",
+      "tipo": "evento",
+      "region": "SoutheastAsia",
+      "tags": [
+        "timor-leste",
+        "war",
+        "mundo-lusofono"
       ]
     },
     {
@@ -49110,6 +51029,25 @@
       "tipo": "social",
       "region": "Africa",
       "tags": []
+    },
+    {
+      "id": "portugal-estado-novo-cravos-09",
+      "datasetId": "data/dados-portugal-estado-novo-cravos.json",
+      "nome": "Constituição democrática portuguesa",
+      "nome_en": "Portuguese democratic Constitution",
+      "nome_es": "Constitución democrática portuguesa",
+      "descricao": "Constituição democrática portuguesa integra a sequência de estado novo, guerra colonial e revolução dos cravos e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1976,
+      "fim": 1976,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Europe",
+      "tags": [
+        "portugal-estado-novo-cravos",
+        "political",
+        "mundo-lusofono"
+      ]
     },
     {
       "id": "chin-010",
@@ -50398,6 +52336,25 @@
       ]
     },
     {
+      "id": "angola-colonial-independencia-08",
+      "datasetId": "data/dados-angola-colonial-independencia.json",
+      "nome": "Acordos de Bicesse",
+      "nome_en": "Bicesse Accords",
+      "nome_es": "Acuerdos de Bicesse",
+      "descricao": "Acordos de Bicesse integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1991,
+      "fim": 1991,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "angola-colonial-independencia",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "bal-001",
       "datasetId": "data/dados-balcas-guerras.json",
       "nome": "A Dissolução da Iugoslávia (1991)",
@@ -50617,6 +52574,25 @@
       ]
     },
     {
+      "id": "timor-leste-07",
+      "datasetId": "data/dados-timor-leste.json",
+      "nome": "Massacre de Santa Cruz",
+      "nome_en": "Santa Cruz massacre",
+      "nome_es": "Masacre de Santa Cruz",
+      "descricao": "Massacre de Santa Cruz integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1991,
+      "fim": 1991,
+      "type": "social",
+      "tipo": "evento",
+      "region": "SoutheastAsia",
+      "tags": [
+        "timor-leste",
+        "social",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "urss-003",
       "datasetId": "data/dados-desintegracao-urss.json",
       "nome": "O Golpe de Agosto e o Fim da URSS (1991)",
@@ -50696,6 +52672,25 @@
         "snipers",
         "civis",
         "ONU"
+      ]
+    },
+    {
+      "id": "mocambique-historia-09",
+      "datasetId": "data/dados-mocambique-historia.json",
+      "nome": "Acordo Geral de Paz",
+      "nome_en": "General Peace Agreement",
+      "nome_es": "Acuerdo General de Paz",
+      "descricao": "Acordo Geral de Paz integra a sequência de moçambique pré-colonial, colonial e independente e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1992,
+      "fim": 1992,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "mocambique-historia",
+        "political",
+        "mundo-lusofono"
       ]
     },
     {
@@ -51163,6 +53158,25 @@
       "tags": []
     },
     {
+      "id": "timor-leste-08",
+      "datasetId": "data/dados-timor-leste.json",
+      "nome": "Consulta popular sobre autonomia",
+      "nome_en": "Popular consultation on autonomy",
+      "nome_es": "Consulta popular sobre autonomía",
+      "descricao": "Consulta popular sobre autonomia integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 1999,
+      "fim": 1999,
+      "type": "political",
+      "tipo": "evento",
+      "region": "SoutheastAsia",
+      "tags": [
+        "timor-leste",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "ue3x",
       "datasetId": "data/dados-uniao-europeia.json",
       "nome": "O Euro: Moeda Sem Estado",
@@ -51388,6 +53402,25 @@
       ]
     },
     {
+      "id": "angola-colonial-independencia-09",
+      "datasetId": "data/dados-angola-colonial-independencia.json",
+      "nome": "Fim da guerra civil",
+      "nome_en": "End of the civil war",
+      "nome_es": "Fin de la guerra civil",
+      "descricao": "Fim da guerra civil integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 2002,
+      "fim": 2002,
+      "type": "political",
+      "tipo": "evento",
+      "region": "Africa",
+      "tags": [
+        "angola-colonial-independencia",
+        "political",
+        "mundo-lusofono"
+      ]
+    },
+    {
       "id": "iran-006",
       "datasetId": "data/dados-revolucao-iraniana.json",
       "nome": "O Programa Nuclear e o Jogo das Sanções (2002–presente)",
@@ -51401,6 +53434,25 @@
       "tipo": "political",
       "region": "MiddleEast",
       "tags": []
+    },
+    {
+      "id": "timor-leste-09",
+      "datasetId": "data/dados-timor-leste.json",
+      "nome": "Restauração da independência",
+      "nome_en": "Restoration of independence",
+      "nome_es": "Restauración de la independencia",
+      "descricao": "Restauração da independência integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "inicio": 2002,
+      "fim": 2002,
+      "type": "political",
+      "tipo": "evento",
+      "region": "SoutheastAsia",
+      "tags": [
+        "timor-leste",
+        "political",
+        "mundo-lusofono"
+      ]
     },
     {
       "id": "bbc-002",

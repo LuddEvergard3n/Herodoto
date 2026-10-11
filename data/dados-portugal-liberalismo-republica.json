@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "tema": "Liberalismo, monarquia constitucional e Primeira República",
+    "theme_en": "Liberalism, constitutional monarchy and First Republic",
+    "tema_es": "Liberalismo, monarquía constitucional y Primera República",
+    "lastReviewed": "2026-10-10",
+    "reviewStatus": "reviewed",
+    "evidenceStatus": "mixed",
+    "collection": "mundo-lusofono-v8",
+    "editorialNote": "Síntese plural: combina história política, social e conectada. Datas representam marcos, não processos isolados."
+  },
+  "sources": [
+    {
+      "id": "portugal-parliament",
+      "author": "Assembleia da República",
+      "title": "História do Parlamentarismo Português",
+      "type": "institutional",
+      "url": "https://www.parlamento.pt/Parlamento/Paginas/Historia-Parlamentarismo.aspx",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    },
+    {
+      "id": "antt",
+      "author": "Arquivo Nacional da Torre do Tombo",
+      "title": "Coleções e documentos da história portuguesa",
+      "type": "archive",
+      "url": "https://antt.dglab.gov.pt/",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    }
+  ],
+  "entidades": [
+    {
+      "id": "portugal-liberalismo-republica-01",
+      "nome": "Transferência da corte para o Rio de Janeiro",
+      "nome_en": "Transfer of the court to Rio de Janeiro",
+      "nome_es": "Traslado de la corte a Río de Janeiro",
+      "inicio": 1807,
+      "fim": 1807,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Transferência da corte para o Rio de Janeiro integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Transfer of the court to Rio de Janeiro belongs to the sequence of liberalism, constitutional monarchy and first republic and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Traslado de la corte a Río de Janeiro integra la secuencia de liberalismo, monarquía constitucional y primera república y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-liberalismo-republica-01-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-liberalismo-republica-01-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-02",
+      "nome": "Revolução Liberal do Porto",
+      "nome_en": "Liberal Revolution of Porto",
+      "nome_es": "Revolución Liberal de Oporto",
+      "inicio": 1820,
+      "fim": 1820,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Revolução Liberal do Porto integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Liberal Revolution of Porto belongs to the sequence of liberalism, constitutional monarchy and first republic and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Revolución Liberal de Oporto integra la secuencia de liberalismo, monarquía constitucional y primera república y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-liberalismo-republica-02-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-liberalismo-republica-02-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-03",
+      "nome": "Constituição portuguesa de 1822",
+      "nome_en": "Portuguese Constitution of 1822",
+      "nome_es": "Constitución portuguesa de 1822",
+      "inicio": 1822,
+      "fim": 1822,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Constituição portuguesa de 1822 integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Portuguese Constitution of 1822 belongs to the sequence of liberalism, constitutional monarchy and first republic and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Constitución portuguesa de 1822 integra la secuencia de liberalismo, monarquía constitucional y primera república y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-liberalismo-republica-03-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-liberalismo-republica-03-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-04",
+      "nome": "Início da Guerra Civil Portuguesa",
+      "nome_en": "Beginning of the Portuguese Civil War",
+      "nome_es": "Inicio de la Guerra Civil Portuguesa",
+      "inicio": 1828,
+      "fim": 1828,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Início da Guerra Civil Portuguesa integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Beginning of the Portuguese Civil War belongs to the sequence of liberalism, constitutional monarchy and first republic and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Inicio de la Guerra Civil Portuguesa integra la secuencia de liberalismo, monarquía constitucional y primera república y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-liberalismo-republica-04-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-liberalismo-republica-04-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-05",
+      "nome": "Convenção de Évora-Monte",
+      "nome_en": "Convention of Évora-Monte",
+      "nome_es": "Convención de Évora-Monte",
+      "inicio": 1834,
+      "fim": 1834,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Convenção de Évora-Monte integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Convention of Évora-Monte belongs to the sequence of liberalism, constitutional monarchy and first republic and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Convención de Évora-Monte integra la secuencia de liberalismo, monarquía constitucional y primera república y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-liberalismo-republica-05-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-liberalismo-republica-05-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-06",
+      "nome": "Regeneração",
+      "nome_en": "Regeneration",
+      "nome_es": "Regeneración",
+      "inicio": 1851,
+      "fim": 1851,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Regeneração integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Regeneration belongs to the sequence of liberalism, constitutional monarchy and first republic and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Regeneración integra la secuencia de liberalismo, monarquía constitucional y primera república y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-liberalismo-republica-06-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-liberalismo-republica-06-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-07",
+      "nome": "Ultimato britânico",
+      "nome_en": "British Ultimatum",
+      "nome_es": "Ultimátum británico",
+      "inicio": 1890,
+      "fim": 1890,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Ultimato britânico integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "British Ultimatum belongs to the sequence of liberalism, constitutional monarchy and first republic and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Ultimátum británico integra la secuencia de liberalismo, monarquía constitucional y primera república y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-liberalismo-republica-07-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-liberalismo-republica-07-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-08",
+      "nome": "Implantação da República",
+      "nome_en": "Establishment of the Republic",
+      "nome_es": "Proclamación de la República",
+      "inicio": 1910,
+      "fim": 1910,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Implantação da República integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Establishment of the Republic belongs to the sequence of liberalism, constitutional monarchy and first republic and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Proclamación de la República integra la secuencia de liberalismo, monarquía constitucional y primera república y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-liberalismo-republica-08-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-liberalismo-republica-08-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-liberalismo-republica-09",
+      "nome": "Golpe militar de 28 de Maio",
+      "nome_en": "Military coup of 28 May",
+      "nome_es": "Golpe militar del 28 de mayo",
+      "inicio": 1926,
+      "fim": 1926,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-liberalismo-republica",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Golpe militar de 28 de Maio integra a sequência de liberalismo, monarquia constitucional e primeira república e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Military coup of 28 May belongs to the sequence of liberalism, constitutional monarchy and first republic and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Golpe militar del 28 de mayo integra la secuencia de liberalismo, monarquía constitucional y primera república y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-liberalismo-republica-09-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-liberalismo-republica-09-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    }
+  ]
+}

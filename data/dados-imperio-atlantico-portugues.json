@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "tema": "Império Atlântico, tráfico e escravidão",
+    "theme_en": "Atlantic Empire, slave trade and slavery",
+    "tema_es": "Imperio Atlántico, trata y esclavitud",
+    "lastReviewed": "2026-10-10",
+    "reviewStatus": "reviewed",
+    "evidenceStatus": "mixed",
+    "collection": "mundo-lusofono-v8",
+    "editorialNote": "Síntese plural: combina história política, social e conectada. Datas representam marcos, não processos isolados."
+  },
+  "sources": [
+    {
+      "id": "unesco-slave-route",
+      "author": "UNESCO",
+      "title": "Routes of Enslaved Peoples",
+      "type": "institutional",
+      "url": "https://www.unesco.org/en/routes-enslaved-peoples",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    },
+    {
+      "id": "unesco-africa",
+      "author": "UNESCO",
+      "title": "General History of Africa",
+      "type": "academic",
+      "url": "https://www.unesco.org/en/general-history-africa",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    }
+  ],
+  "entidades": [
+    {
+      "id": "imperio-atlantico-portugues-01",
+      "nome": "Mercado de pessoas escravizadas em Lagos",
+      "nome_en": "Market of enslaved people in Lagos",
+      "nome_es": "Mercado de personas esclavizadas en Lagos",
+      "inicio": 1444,
+      "fim": 1444,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "economic",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "economic",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Mercado de pessoas escravizadas em Lagos integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Market of enslaved people in Lagos belongs to the sequence of atlantic empire, slave trade and slavery and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Mercado de personas esclavizadas en Lagos integra la secuencia de imperio atlántico, trata y esclavitud y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "imperio-atlantico-portugues-01-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "imperio-atlantico-portugues-01-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "imperio-atlantico-portugues-02",
+      "nome": "Feitoria de São Jorge da Mina",
+      "nome_en": "São Jorge da Mina trading post",
+      "nome_es": "Factoría de São Jorge da Mina",
+      "inicio": 1482,
+      "fim": 1482,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "economic",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "economic",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Feitoria de São Jorge da Mina integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "São Jorge da Mina trading post belongs to the sequence of atlantic empire, slave trade and slavery and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Factoría de São Jorge da Mina integra la secuencia de imperio atlántico, trata y esclavitud y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "imperio-atlantico-portugues-02-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "imperio-atlantico-portugues-02-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "imperio-atlantico-portugues-03",
+      "nome": "Colonização portuguesa sistemática no Brasil",
+      "nome_en": "Systematic Portuguese colonization in Brazil",
+      "nome_es": "Colonización portuguesa sistemática en Brasil",
+      "inicio": 1530,
+      "fim": 1530,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Colonização portuguesa sistemática no Brasil integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Systematic Portuguese colonization in Brazil belongs to the sequence of atlantic empire, slave trade and slavery and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Colonización portuguesa sistemática en Brasil integra la secuencia de imperio atlántico, trata y esclavitud y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "imperio-atlantico-portugues-03-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "imperio-atlantico-portugues-03-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "imperio-atlantico-portugues-04",
+      "nome": "Regulamentação régia da escravização indígena",
+      "nome_en": "Royal regulation of Indigenous enslavement",
+      "nome_es": "Regulación regia de la esclavización indígena",
+      "inicio": 1570,
+      "fim": 1570,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Regulamentação régia da escravização indígena integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Royal regulation of Indigenous enslavement belongs to the sequence of atlantic empire, slave trade and slavery and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Regulación regia de la esclavización indígena integra la secuencia de imperio atlántico, trata y esclavitud y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "imperio-atlantico-portugues-04-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "imperio-atlantico-portugues-04-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "imperio-atlantico-portugues-05",
+      "nome": "Ocupação neerlandesa de Pernambuco",
+      "nome_en": "Dutch occupation of Pernambuco",
+      "nome_es": "Ocupación neerlandesa de Pernambuco",
+      "inicio": 1630,
+      "fim": 1630,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Ocupação neerlandesa de Pernambuco integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Dutch occupation of Pernambuco belongs to the sequence of atlantic empire, slave trade and slavery and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Ocupación neerlandesa de Pernambuco integra la secuencia de imperio atlántico, trata y esclavitud y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "imperio-atlantico-portugues-05-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "imperio-atlantico-portugues-05-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "imperio-atlantico-portugues-06",
+      "nome": "Destruição de Palmares",
+      "nome_en": "Destruction of Palmares",
+      "nome_es": "Destrucción de Palmares",
+      "inicio": 1695,
+      "fim": 1695,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Destruição de Palmares integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Destruction of Palmares belongs to the sequence of atlantic empire, slave trade and slavery and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Destrucción de Palmares integra la secuencia de imperio atlántico, trata y esclavitud y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "imperio-atlantico-portugues-06-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "imperio-atlantico-portugues-06-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "imperio-atlantico-portugues-07",
+      "nome": "Proibição da escravização indígena no Estado do Brasil",
+      "nome_en": "Ban on Indigenous enslavement in the State of Brazil",
+      "nome_es": "Prohibición de la esclavización indígena en el Estado de Brasil",
+      "inicio": 1758,
+      "fim": 1758,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Proibição da escravização indígena no Estado do Brasil integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Ban on Indigenous enslavement in the State of Brazil belongs to the sequence of atlantic empire, slave trade and slavery and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Prohibición de la esclavización indígena en el Estado de Brasil integra la secuencia de imperio atlántico, trata y esclavitud y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "imperio-atlantico-portugues-07-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "imperio-atlantico-portugues-07-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "imperio-atlantico-portugues-08",
+      "nome": "Abolição britânica do tráfico atlântico",
+      "nome_en": "British abolition of the Atlantic slave trade",
+      "nome_es": "Abolición británica de la trata atlántica",
+      "inicio": 1807,
+      "fim": 1807,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Abolição britânica do tráfico atlântico integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "British abolition of the Atlantic slave trade belongs to the sequence of atlantic empire, slave trade and slavery and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Abolición británica de la trata atlántica integra la secuencia de imperio atlántico, trata y esclavitud y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "imperio-atlantico-portugues-08-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "imperio-atlantico-portugues-08-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "imperio-atlantico-portugues-09",
+      "nome": "Lei Eusébio de Queirós",
+      "nome_en": "Eusébio de Queirós Law",
+      "nome_es": "Ley Eusébio de Queirós",
+      "inicio": 1850,
+      "fim": 1850,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "imperio-atlantico-portugues",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Lei Eusébio de Queirós integra a sequência de império atlântico, tráfico e escravidão e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Eusébio de Queirós Law belongs to the sequence of atlantic empire, slave trade and slavery and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Ley Eusébio de Queirós integra la secuencia de imperio atlántico, trata y esclavitud y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "imperio-atlantico-portugues-09-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "imperio-atlantico-portugues-09-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    }
+  ]
+}

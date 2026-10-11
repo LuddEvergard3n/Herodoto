@@ -36,7 +36,7 @@ function extractLabelKeys() {
 
 // ─── Disk files ──────────────────────────────────────────────────────────────
 function diskFiles() {
-  return fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.json'));
+  return fs.readdirSync(DATA_DIR).filter(f => /^dados-.*\.json$/.test(f));
 }
 
 // ─── Key from filename ───────────────────────────────────────────────────────
@@ -193,7 +193,7 @@ function extractHtmlDatasets() {
 A.suite('Registry — index.html checkboxes', () => {
   const htmlRefs  = extractHtmlDatasets();
   const htmlSet   = new Set(htmlRefs);
-  const onDiskSet = new Set(fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.json')));
+  const onDiskSet = new Set(fs.readdirSync(DATA_DIR).filter(f => /^dados-.*\.json$/.test(f)));
 
   A.it('no duplicate checkboxes in index.html', () => {
     A.arrayUnique(htmlRefs, x => x, 'Duplicate checkbox values in index.html');

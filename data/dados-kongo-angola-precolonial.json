@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "tema": "Reino do Congo e Angola pré-colonial",
+    "theme_en": "Kingdom of Kongo and precolonial Angola",
+    "tema_es": "Reino del Congo y Angola precolonial",
+    "lastReviewed": "2026-10-10",
+    "reviewStatus": "reviewed",
+    "evidenceStatus": "mixed",
+    "collection": "mundo-lusofono-v8",
+    "editorialNote": "Síntese plural: combina história política, social e conectada. Datas representam marcos, não processos isolados."
+  },
+  "sources": [
+    {
+      "id": "unesco-africa",
+      "author": "UNESCO",
+      "title": "General History of Africa",
+      "type": "academic",
+      "url": "https://www.unesco.org/en/general-history-africa",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    },
+    {
+      "id": "un-decolonization",
+      "author": "United Nations",
+      "title": "The United Nations and Decolonization",
+      "type": "institutional",
+      "url": "https://www.un.org/dppa/decolonization/en",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    }
+  ],
+  "entidades": [
+    {
+      "id": "kongo-angola-precolonial-01",
+      "nome": "Formação do Reino do Congo",
+      "nome_en": "Formation of the Kingdom of Kongo",
+      "nome_es": "Formación del Reino del Congo",
+      "inicio": 1390,
+      "fim": 1390,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "kongo-angola-precolonial",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Formação do Reino do Congo integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Formation of the Kingdom of Kongo belongs to the sequence of kingdom of kongo and precolonial angola and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Formación del Reino del Congo integra la secuencia de reino del congo y angola precolonial y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "kongo-angola-precolonial-01-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "kongo-angola-precolonial-01-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "kongo-angola-precolonial-02",
+      "nome": "Contato diplomático com Portugal",
+      "nome_en": "Diplomatic contact with Portugal",
+      "nome_es": "Contacto diplomático con Portugal",
+      "inicio": 1483,
+      "fim": 1483,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "kongo-angola-precolonial",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Contato diplomático com Portugal integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Diplomatic contact with Portugal belongs to the sequence of kingdom of kongo and precolonial angola and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Contacto diplomático con Portugal integra la secuencia de reino del congo y angola precolonial y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "kongo-angola-precolonial-02-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "kongo-angola-precolonial-02-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "kongo-angola-precolonial-03",
+      "nome": "Batismo de Nzinga a Nkuwu",
+      "nome_en": "Baptism of Nzinga a Nkuwu",
+      "nome_es": "Bautismo de Nzinga a Nkuwu",
+      "inicio": 1491,
+      "fim": 1491,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "religious",
+      "tags": [
+        "kongo-angola-precolonial",
+        "religious",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Batismo de Nzinga a Nkuwu integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Baptism of Nzinga a Nkuwu belongs to the sequence of kingdom of kongo and precolonial angola and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Bautismo de Nzinga a Nkuwu integra la secuencia de reino del congo y angola precolonial y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "kongo-angola-precolonial-03-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "kongo-angola-precolonial-03-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "kongo-angola-precolonial-04",
+      "nome": "Reinado de Afonso I do Congo",
+      "nome_en": "Reign of Afonso I of Kongo",
+      "nome_es": "Reinado de Afonso I del Congo",
+      "inicio": 1509,
+      "fim": 1509,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "kongo-angola-precolonial",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Reinado de Afonso I do Congo integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Reign of Afonso I of Kongo belongs to the sequence of kingdom of kongo and precolonial angola and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Reinado de Afonso I del Congo integra la secuencia de reino del congo y angola precolonial y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "kongo-angola-precolonial-04-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "kongo-angola-precolonial-04-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "kongo-angola-precolonial-05",
+      "nome": "Invasão jaga e crise do Congo",
+      "nome_en": "Jaga invasion and Kongo crisis",
+      "nome_es": "Invasión jaga y crisis del Congo",
+      "inicio": 1568,
+      "fim": 1568,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "kongo-angola-precolonial",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Invasão jaga e crise do Congo integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Jaga invasion and Kongo crisis belongs to the sequence of kingdom of kongo and precolonial angola and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Invasión jaga y crisis del Congo integra la secuencia de reino del congo y angola precolonial y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "kongo-angola-precolonial-05-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "kongo-angola-precolonial-05-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "kongo-angola-precolonial-06",
+      "nome": "Fundação portuguesa de Luanda",
+      "nome_en": "Portuguese foundation of Luanda",
+      "nome_es": "Fundación portuguesa de Luanda",
+      "inicio": 1575,
+      "fim": 1575,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "kongo-angola-precolonial",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Fundação portuguesa de Luanda integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Portuguese foundation of Luanda belongs to the sequence of kingdom of kongo and precolonial angola and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Fundación portuguesa de Luanda integra la secuencia de reino del congo y angola precolonial y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "kongo-angola-precolonial-06-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "kongo-angola-precolonial-06-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "kongo-angola-precolonial-07",
+      "nome": "Ascensão de Nzinga de Ndongo e Matamba",
+      "nome_en": "Rise of Nzinga of Ndongo and Matamba",
+      "nome_es": "Ascenso de Nzinga de Ndongo y Matamba",
+      "inicio": 1624,
+      "fim": 1624,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "kongo-angola-precolonial",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Ascensão de Nzinga de Ndongo e Matamba integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Rise of Nzinga of Ndongo and Matamba belongs to the sequence of kingdom of kongo and precolonial angola and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Ascenso de Nzinga de Ndongo y Matamba integra la secuencia de reino del congo y angola precolonial y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "kongo-angola-precolonial-07-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "kongo-angola-precolonial-07-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "kongo-angola-precolonial-08",
+      "nome": "Batalha de Mbwila",
+      "nome_en": "Battle of Mbwila",
+      "nome_es": "Batalla de Mbwila",
+      "inicio": 1665,
+      "fim": 1665,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "kongo-angola-precolonial",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Batalha de Mbwila integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Battle of Mbwila belongs to the sequence of kingdom of kongo and precolonial angola and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Batalla de Mbwila integra la secuencia de reino del congo y angola precolonial y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "kongo-angola-precolonial-08-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "kongo-angola-precolonial-08-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "kongo-angola-precolonial-09",
+      "nome": "Queda do reino de Ndongo",
+      "nome_en": "Fall of the Kingdom of Ndongo",
+      "nome_es": "Caída del reino de Ndongo",
+      "inicio": 1671,
+      "fim": 1671,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "kongo-angola-precolonial",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Queda do reino de Ndongo integra a sequência de reino do congo e angola pré-colonial e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Fall of the Kingdom of Ndongo belongs to the sequence of kingdom of kongo and precolonial angola and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Caída del reino de Ndongo integra la secuencia de reino del congo y angola precolonial y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "kongo-angola-precolonial-09-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "kongo-angola-precolonial-09-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    }
+  ]
+}

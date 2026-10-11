@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "tema": "Cabo Verde, Guiné-Bissau, São Tomé e Amílcar Cabral",
+    "theme_en": "Cape Verde, Guinea-Bissau, São Tomé and Amílcar Cabral",
+    "tema_es": "Cabo Verde, Guinea-Bisáu, Santo Tomé y Amílcar Cabral",
+    "lastReviewed": "2026-10-10",
+    "reviewStatus": "reviewed",
+    "evidenceStatus": "mixed",
+    "collection": "mundo-lusofono-v8",
+    "editorialNote": "Síntese plural: combina história política, social e conectada. Datas representam marcos, não processos isolados."
+  },
+  "sources": [
+    {
+      "id": "unesco-africa",
+      "author": "UNESCO",
+      "title": "General History of Africa",
+      "type": "academic",
+      "url": "https://www.unesco.org/en/general-history-africa",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    },
+    {
+      "id": "un-decolonization",
+      "author": "United Nations",
+      "title": "The United Nations and Decolonization",
+      "type": "institutional",
+      "url": "https://www.un.org/dppa/decolonization/en",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    }
+  ],
+  "entidades": [
+    {
+      "id": "africa-lusofona-cabral-01",
+      "nome": "Início do povoamento de Cabo Verde",
+      "nome_en": "Beginning of Cape Verde settlement",
+      "nome_es": "Inicio del poblamiento de Cabo Verde",
+      "inicio": 1460,
+      "fim": 1460,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "social",
+      "tags": [
+        "africa-lusofona-cabral",
+        "social",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Início do povoamento de Cabo Verde integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Beginning of Cape Verde settlement belongs to the sequence of cape verde, guinea-bissau, são tomé and amílcar cabral and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Inicio del poblamiento de Cabo Verde integra la secuencia de cabo verde, guinea-bisáu, santo tomé y amílcar cabral y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "africa-lusofona-cabral-01-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "africa-lusofona-cabral-01-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "africa-lusofona-cabral-02",
+      "nome": "Início do povoamento de São Tomé",
+      "nome_en": "Beginning of São Tomé settlement",
+      "nome_es": "Inicio del poblamiento de Santo Tomé",
+      "inicio": 1470,
+      "fim": 1470,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "social",
+      "tags": [
+        "africa-lusofona-cabral",
+        "social",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Início do povoamento de São Tomé integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Beginning of São Tomé settlement belongs to the sequence of cape verde, guinea-bissau, são tomé and amílcar cabral and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Inicio del poblamiento de Santo Tomé integra la secuencia de cabo verde, guinea-bisáu, santo tomé y amílcar cabral y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "africa-lusofona-cabral-02-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "africa-lusofona-cabral-02-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "africa-lusofona-cabral-03",
+      "nome": "Colônias passam a ser chamadas províncias ultramarinas",
+      "nome_en": "Colonies renamed overseas provinces",
+      "nome_es": "Colonias renombradas provincias ultramarinas",
+      "inicio": 1951,
+      "fim": 1951,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "africa-lusofona-cabral",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Colônias passam a ser chamadas províncias ultramarinas integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Colonies renamed overseas provinces belongs to the sequence of cape verde, guinea-bissau, são tomé and amílcar cabral and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Colonias renombradas provincias ultramarinas integra la secuencia de cabo verde, guinea-bisáu, santo tomé y amílcar cabral y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "africa-lusofona-cabral-03-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "africa-lusofona-cabral-03-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "africa-lusofona-cabral-04",
+      "nome": "Fundação do PAIGC",
+      "nome_en": "Foundation of PAIGC",
+      "nome_es": "Fundación del PAIGC",
+      "inicio": 1956,
+      "fim": 1956,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "africa-lusofona-cabral",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Fundação do PAIGC integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Foundation of PAIGC belongs to the sequence of cape verde, guinea-bissau, são tomé and amílcar cabral and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Fundación del PAIGC integra la secuencia de cabo verde, guinea-bisáu, santo tomé y amílcar cabral y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "africa-lusofona-cabral-04-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "africa-lusofona-cabral-04-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "africa-lusofona-cabral-05",
+      "nome": "Massacre de Pidjiguiti",
+      "nome_en": "Pidjiguiti massacre",
+      "nome_es": "Masacre de Pidjiguiti",
+      "inicio": 1959,
+      "fim": 1959,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "social",
+      "tags": [
+        "africa-lusofona-cabral",
+        "social",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Massacre de Pidjiguiti integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Pidjiguiti massacre belongs to the sequence of cape verde, guinea-bissau, são tomé and amílcar cabral and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Masacre de Pidjiguiti integra la secuencia de cabo verde, guinea-bisáu, santo tomé y amílcar cabral y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "africa-lusofona-cabral-05-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "africa-lusofona-cabral-05-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "africa-lusofona-cabral-06",
+      "nome": "Luta armada na Guiné-Bissau",
+      "nome_en": "Armed struggle in Guinea-Bissau",
+      "nome_es": "Lucha armada en Guinea-Bisáu",
+      "inicio": 1963,
+      "fim": 1963,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "africa-lusofona-cabral",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Luta armada na Guiné-Bissau integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Armed struggle in Guinea-Bissau belongs to the sequence of cape verde, guinea-bissau, são tomé and amílcar cabral and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Lucha armada en Guinea-Bisáu integra la secuencia de cabo verde, guinea-bisáu, santo tomé y amílcar cabral y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "africa-lusofona-cabral-06-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "africa-lusofona-cabral-06-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "africa-lusofona-cabral-07",
+      "nome": "Assassinato de Amílcar Cabral",
+      "nome_en": "Assassination of Amílcar Cabral",
+      "nome_es": "Asesinato de Amílcar Cabral",
+      "inicio": 1973,
+      "fim": 1973,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "africa-lusofona-cabral",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Assassinato de Amílcar Cabral integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Assassination of Amílcar Cabral belongs to the sequence of cape verde, guinea-bissau, são tomé and amílcar cabral and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Asesinato de Amílcar Cabral integra la secuencia de cabo verde, guinea-bisáu, santo tomé y amílcar cabral y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "africa-lusofona-cabral-07-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "africa-lusofona-cabral-07-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "africa-lusofona-cabral-08",
+      "nome": "Reconhecimento da independência da Guiné-Bissau",
+      "nome_en": "Recognition of Guinea-Bissau independence",
+      "nome_es": "Reconocimiento de la independencia de Guinea-Bisáu",
+      "inicio": 1974,
+      "fim": 1974,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "africa-lusofona-cabral",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Reconhecimento da independência da Guiné-Bissau integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Recognition of Guinea-Bissau independence belongs to the sequence of cape verde, guinea-bissau, são tomé and amílcar cabral and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Reconocimiento de la independencia de Guinea-Bisáu integra la secuencia de cabo verde, guinea-bisáu, santo tomé y amílcar cabral y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "africa-lusofona-cabral-08-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "africa-lusofona-cabral-08-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "africa-lusofona-cabral-09",
+      "nome": "Independências de Cabo Verde e São Tomé e Príncipe",
+      "nome_en": "Independence of Cape Verde and São Tomé and Príncipe",
+      "nome_es": "Independencias de Cabo Verde y Santo Tomé y Príncipe",
+      "inicio": 1975,
+      "fim": 1975,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "africa-lusofona-cabral",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Independências de Cabo Verde e São Tomé e Príncipe integra a sequência de cabo verde, guiné-bissau, são tomé e amílcar cabral e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Independence of Cape Verde and São Tomé and Príncipe belongs to the sequence of cape verde, guinea-bissau, são tomé and amílcar cabral and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Independencias de Cabo Verde y Santo Tomé y Príncipe integra la secuencia de cabo verde, guinea-bisáu, santo tomé y amílcar cabral y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "africa-lusofona-cabral-09-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "africa-lusofona-cabral-09-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    }
+  ]
+}

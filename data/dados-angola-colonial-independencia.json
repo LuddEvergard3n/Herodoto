@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "tema": "Angola colonial, independência e guerra civil",
+    "theme_en": "Colonial Angola, independence and civil war",
+    "tema_es": "Angola colonial, independencia y guerra civil",
+    "lastReviewed": "2026-10-10",
+    "reviewStatus": "reviewed",
+    "evidenceStatus": "mixed",
+    "collection": "mundo-lusofono-v8",
+    "editorialNote": "Síntese plural: combina história política, social e conectada. Datas representam marcos, não processos isolados."
+  },
+  "sources": [
+    {
+      "id": "unesco-africa",
+      "author": "UNESCO",
+      "title": "General History of Africa",
+      "type": "academic",
+      "url": "https://www.unesco.org/en/general-history-africa",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    },
+    {
+      "id": "un-decolonization",
+      "author": "United Nations",
+      "title": "The United Nations and Decolonization",
+      "type": "institutional",
+      "url": "https://www.un.org/dppa/decolonization/en",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    }
+  ],
+  "entidades": [
+    {
+      "id": "angola-colonial-independencia-01",
+      "nome": "Conferência de Berlim e reivindicações coloniais",
+      "nome_en": "Berlin Conference and colonial claims",
+      "nome_es": "Conferencia de Berlín y reclamaciones coloniales",
+      "inicio": 1885,
+      "fim": 1885,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "angola-colonial-independencia",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Conferência de Berlim e reivindicações coloniais integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Berlin Conference and colonial claims belongs to the sequence of colonial angola, independence and civil war and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Conferencia de Berlín y reclamaciones coloniales integra la secuencia de angola colonial, independencia y guerra civil y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "angola-colonial-independencia-01-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "angola-colonial-independencia-01-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "angola-colonial-independencia-02",
+      "nome": "Campanhas de ocupação colonial",
+      "nome_en": "Colonial occupation campaigns",
+      "nome_es": "Campañas de ocupación colonial",
+      "inicio": 1890,
+      "fim": 1890,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "angola-colonial-independencia",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Campanhas de ocupação colonial integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Colonial occupation campaigns belongs to the sequence of colonial angola, independence and civil war and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Campañas de ocupación colonial integra la secuencia de angola colonial, independencia y guerra civil y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "angola-colonial-independencia-02-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "angola-colonial-independencia-02-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "angola-colonial-independencia-03",
+      "nome": "Fundação do MPLA",
+      "nome_en": "Foundation of the MPLA",
+      "nome_es": "Fundación del MPLA",
+      "inicio": 1956,
+      "fim": 1956,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "angola-colonial-independencia",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Fundação do MPLA integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Foundation of the MPLA belongs to the sequence of colonial angola, independence and civil war and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Fundación del MPLA integra la secuencia de angola colonial, independencia y guerra civil y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "angola-colonial-independencia-03-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "angola-colonial-independencia-03-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "angola-colonial-independencia-04",
+      "nome": "Revoltas e início da guerra anticolonial",
+      "nome_en": "Revolts and beginning of the anticolonial war",
+      "nome_es": "Revueltas e inicio de la guerra anticolonial",
+      "inicio": 1961,
+      "fim": 1961,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "angola-colonial-independencia",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Revoltas e início da guerra anticolonial integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Revolts and beginning of the anticolonial war belongs to the sequence of colonial angola, independence and civil war and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Revueltas e inicio de la guerra anticolonial integra la secuencia de angola colonial, independencia y guerra civil y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "angola-colonial-independencia-04-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "angola-colonial-independencia-04-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "angola-colonial-independencia-05",
+      "nome": "Acordos de Alvor em negociação",
+      "nome_en": "Alvor Agreement negotiations",
+      "nome_es": "Negociaciones de los Acuerdos de Alvor",
+      "inicio": 1974,
+      "fim": 1974,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "angola-colonial-independencia",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Acordos de Alvor em negociação integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Alvor Agreement negotiations belongs to the sequence of colonial angola, independence and civil war and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Negociaciones de los Acuerdos de Alvor integra la secuencia de angola colonial, independencia y guerra civil y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "angola-colonial-independencia-05-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "angola-colonial-independencia-05-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "angola-colonial-independencia-06",
+      "nome": "Independência de Angola",
+      "nome_en": "Independence of Angola",
+      "nome_es": "Independencia de Angola",
+      "inicio": 1975,
+      "fim": 1975,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "angola-colonial-independencia",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Independência de Angola integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Independence of Angola belongs to the sequence of colonial angola, independence and civil war and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Independencia de Angola integra la secuencia de angola colonial, independencia y guerra civil y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "angola-colonial-independencia-06-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "angola-colonial-independencia-06-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "angola-colonial-independencia-07",
+      "nome": "Início da guerra civil angolana",
+      "nome_en": "Beginning of the Angolan Civil War",
+      "nome_es": "Inicio de la guerra civil angoleña",
+      "inicio": 1975,
+      "fim": 1975,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "angola-colonial-independencia",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Início da guerra civil angolana integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Beginning of the Angolan Civil War belongs to the sequence of colonial angola, independence and civil war and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Inicio de la guerra civil angoleña integra la secuencia de angola colonial, independencia y guerra civil y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "angola-colonial-independencia-07-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "angola-colonial-independencia-07-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "angola-colonial-independencia-08",
+      "nome": "Acordos de Bicesse",
+      "nome_en": "Bicesse Accords",
+      "nome_es": "Acuerdos de Bicesse",
+      "inicio": 1991,
+      "fim": 1991,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "angola-colonial-independencia",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Acordos de Bicesse integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Bicesse Accords belongs to the sequence of colonial angola, independence and civil war and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Acuerdos de Bicesse integra la secuencia de angola colonial, independencia y guerra civil y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "angola-colonial-independencia-08-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "angola-colonial-independencia-08-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "angola-colonial-independencia-09",
+      "nome": "Fim da guerra civil",
+      "nome_en": "End of the civil war",
+      "nome_es": "Fin de la guerra civil",
+      "inicio": 2002,
+      "fim": 2002,
+      "temporalPrecision": "year",
+      "territorio": "Africa",
+      "region": "Africa",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "angola-colonial-independencia",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-africa",
+        "un-decolonization"
+      ],
+      "descricao": "Fim da guerra civil integra a sequência de angola colonial, independência e guerra civil e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "End of the civil war belongs to the sequence of colonial angola, independence and civil war and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Fin de la guerra civil integra la secuencia de angola colonial, independencia y guerra civil y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "angola-colonial-independencia-09-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "angola-colonial-independencia-09-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    }
+  ]
+}

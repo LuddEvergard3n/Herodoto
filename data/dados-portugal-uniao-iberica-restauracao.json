@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "tema": "União Ibérica e Restauração",
+    "theme_en": "Iberian Union and Restoration",
+    "tema_es": "Unión Ibérica y Restauración",
+    "lastReviewed": "2026-10-10",
+    "reviewStatus": "reviewed",
+    "evidenceStatus": "mixed",
+    "collection": "mundo-lusofono-v8",
+    "editorialNote": "Síntese plural: combina história política, social e conectada. Datas representam marcos, não processos isolados."
+  },
+  "sources": [
+    {
+      "id": "portugal-parliament",
+      "author": "Assembleia da República",
+      "title": "História do Parlamentarismo Português",
+      "type": "institutional",
+      "url": "https://www.parlamento.pt/Parlamento/Paginas/Historia-Parlamentarismo.aspx",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    },
+    {
+      "id": "antt",
+      "author": "Arquivo Nacional da Torre do Tombo",
+      "title": "Coleções e documentos da história portuguesa",
+      "type": "archive",
+      "url": "https://antt.dglab.gov.pt/",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    }
+  ],
+  "entidades": [
+    {
+      "id": "portugal-uniao-iberica-restauracao-01",
+      "nome": "Batalha de Alcácer Quibir",
+      "nome_en": "Battle of Alcácer Quibir",
+      "nome_es": "Batalla de Alcácer Quibir",
+      "inicio": 1578,
+      "fim": 1578,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Batalha de Alcácer Quibir integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Battle of Alcácer Quibir belongs to the sequence of iberian union and restoration and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Batalla de Alcácer Quibir integra la secuencia de unión ibérica y restauración y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-uniao-iberica-restauracao-01-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-uniao-iberica-restauracao-01-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-02",
+      "nome": "Crise sucessória portuguesa",
+      "nome_en": "Portuguese succession crisis",
+      "nome_es": "Crisis sucesoria portuguesa",
+      "inicio": 1580,
+      "fim": 1580,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Crise sucessória portuguesa integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Portuguese succession crisis belongs to the sequence of iberian union and restoration and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Crisis sucesoria portuguesa integra la secuencia de unión ibérica y restauración y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-uniao-iberica-restauracao-02-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-uniao-iberica-restauracao-02-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-03",
+      "nome": "Cortes de Tomar",
+      "nome_en": "Cortes of Tomar",
+      "nome_es": "Cortes de Tomar",
+      "inicio": 1581,
+      "fim": 1581,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Cortes de Tomar integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Cortes of Tomar belongs to the sequence of iberian union and restoration and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Cortes de Tomar integra la secuencia de unión ibérica y restauración y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-uniao-iberica-restauracao-03-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-uniao-iberica-restauracao-03-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-04",
+      "nome": "Armada contra a Inglaterra",
+      "nome_en": "Armada against England",
+      "nome_es": "Armada contra Inglaterra",
+      "inicio": 1588,
+      "fim": 1588,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Armada contra a Inglaterra integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Armada against England belongs to the sequence of iberian union and restoration and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Armada contra Inglaterra integra la secuencia de unión ibérica y restauración y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-uniao-iberica-restauracao-04-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-uniao-iberica-restauracao-04-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-05",
+      "nome": "Primeira ocupação neerlandesa de Salvador",
+      "nome_en": "First Dutch occupation of Salvador",
+      "nome_es": "Primera ocupación neerlandesa de Salvador",
+      "inicio": 1624,
+      "fim": 1624,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Primeira ocupação neerlandesa de Salvador integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "First Dutch occupation of Salvador belongs to the sequence of iberian union and restoration and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Primera ocupación neerlandesa de Salvador integra la secuencia de unión ibérica y restauración y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-uniao-iberica-restauracao-05-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-uniao-iberica-restauracao-05-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-06",
+      "nome": "Revolta de Évora",
+      "nome_en": "Revolt of Évora",
+      "nome_es": "Revuelta de Évora",
+      "inicio": 1637,
+      "fim": 1637,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "social",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "social",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Revolta de Évora integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Revolt of Évora belongs to the sequence of iberian union and restoration and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Revuelta de Évora integra la secuencia de unión ibérica y restauración y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-uniao-iberica-restauracao-06-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-uniao-iberica-restauracao-06-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-07",
+      "nome": "Restauração da Independência",
+      "nome_en": "Restoration of Independence",
+      "nome_es": "Restauración de la Independencia",
+      "inicio": 1640,
+      "fim": 1640,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Restauração da Independência integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Restoration of Independence belongs to the sequence of iberian union and restoration and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Restauración de la Independencia integra la secuencia de unión ibérica y restauración y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-uniao-iberica-restauracao-07-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-uniao-iberica-restauracao-07-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-08",
+      "nome": "Batalha de Montes Claros",
+      "nome_en": "Battle of Montes Claros",
+      "nome_es": "Batalla de Montes Claros",
+      "inicio": 1665,
+      "fim": 1665,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Batalha de Montes Claros integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Battle of Montes Claros belongs to the sequence of iberian union and restoration and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Batalla de Montes Claros integra la secuencia de unión ibérica y restauración y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-uniao-iberica-restauracao-08-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-uniao-iberica-restauracao-08-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-uniao-iberica-restauracao-09",
+      "nome": "Tratado de Lisboa",
+      "nome_en": "Treaty of Lisbon",
+      "nome_es": "Tratado de Lisboa",
+      "inicio": 1668,
+      "fim": 1668,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-uniao-iberica-restauracao",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Tratado de Lisboa integra a sequência de união ibérica e restauração e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Treaty of Lisbon belongs to the sequence of iberian union and restoration and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Tratado de Lisboa integra la secuencia de unión ibérica y restauración y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-uniao-iberica-restauracao-09-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-uniao-iberica-restauracao-09-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    }
+  ]
+}

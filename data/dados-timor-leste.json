@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "tema": "Timor-Leste, ocupação e independência",
+    "theme_en": "Timor-Leste, occupation and independence",
+    "tema_es": "Timor Oriental, ocupación e independencia",
+    "lastReviewed": "2026-10-10",
+    "reviewStatus": "reviewed",
+    "evidenceStatus": "mixed",
+    "collection": "mundo-lusofono-v8",
+    "editorialNote": "Síntese plural: combina história política, social e conectada. Datas representam marcos, não processos isolados."
+  },
+  "sources": [
+    {
+      "id": "un-timor",
+      "author": "United Nations",
+      "title": "United Nations in Timor-Leste",
+      "type": "institutional",
+      "url": "https://timorleste.un.org/en",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    },
+    {
+      "id": "timor-memory",
+      "author": "UNESCO",
+      "title": "On the Birth of a Nation: Turning points",
+      "type": "archive",
+      "url": "https://en.unesco.org/memoryoftheworld/registry/313",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    }
+  ],
+  "entidades": [
+    {
+      "id": "timor-leste-01",
+      "nome": "Primeiros contatos portugueses documentados",
+      "nome_en": "First documented Portuguese contacts",
+      "nome_es": "Primeros contactos portugueses documentados",
+      "inicio": 1515,
+      "fim": 1515,
+      "temporalPrecision": "year",
+      "territorio": "SoutheastAsia",
+      "region": "SoutheastAsia",
+      "tipo": "evento",
+      "type": "economic",
+      "tags": [
+        "timor-leste",
+        "economic",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "un-timor",
+        "timor-memory"
+      ],
+      "descricao": "Primeiros contatos portugueses documentados integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "First documented Portuguese contacts belongs to the sequence of timor-leste, occupation and independence and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Primeros contactos portugueses documentados integra la secuencia de timor oriental, ocupación e independencia y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "timor-leste-01-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "timor-leste-01-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "timor-leste-02",
+      "nome": "Administração colonial sediada em Lifau",
+      "nome_en": "Colonial administration based in Lifau",
+      "nome_es": "Administración colonial con sede en Lifau",
+      "inicio": 1702,
+      "fim": 1702,
+      "temporalPrecision": "year",
+      "territorio": "SoutheastAsia",
+      "region": "SoutheastAsia",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "timor-leste",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "un-timor",
+        "timor-memory"
+      ],
+      "descricao": "Administração colonial sediada em Lifau integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Colonial administration based in Lifau belongs to the sequence of timor-leste, occupation and independence and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Administración colonial con sede en Lifau integra la secuencia de timor oriental, ocupación e independencia y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "timor-leste-02-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "timor-leste-02-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "timor-leste-03",
+      "nome": "Transferência da capital para Díli",
+      "nome_en": "Transfer of the capital to Dili",
+      "nome_es": "Traslado de la capital a Dili",
+      "inicio": 1769,
+      "fim": 1769,
+      "temporalPrecision": "year",
+      "territorio": "SoutheastAsia",
+      "region": "SoutheastAsia",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "timor-leste",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "un-timor",
+        "timor-memory"
+      ],
+      "descricao": "Transferência da capital para Díli integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Transfer of the capital to Dili belongs to the sequence of timor-leste, occupation and independence and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Traslado de la capital a Dili integra la secuencia de timor oriental, ocupación e independencia y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "timor-leste-03-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "timor-leste-03-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "timor-leste-04",
+      "nome": "Ocupação japonesa de Timor",
+      "nome_en": "Japanese occupation of Timor",
+      "nome_es": "Ocupación japonesa de Timor",
+      "inicio": 1942,
+      "fim": 1942,
+      "temporalPrecision": "year",
+      "territorio": "SoutheastAsia",
+      "region": "SoutheastAsia",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "timor-leste",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "un-timor",
+        "timor-memory"
+      ],
+      "descricao": "Ocupação japonesa de Timor integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Japanese occupation of Timor belongs to the sequence of timor-leste, occupation and independence and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Ocupación japonesa de Timor integra la secuencia de timor oriental, ocupación e independencia y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "timor-leste-04-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "timor-leste-04-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "timor-leste-05",
+      "nome": "Revolução portuguesa e descolonização",
+      "nome_en": "Portuguese revolution and decolonization",
+      "nome_es": "Revolución portuguesa y descolonización",
+      "inicio": 1974,
+      "fim": 1974,
+      "temporalPrecision": "year",
+      "territorio": "SoutheastAsia",
+      "region": "SoutheastAsia",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "timor-leste",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "un-timor",
+        "timor-memory"
+      ],
+      "descricao": "Revolução portuguesa e descolonização integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Portuguese revolution and decolonization belongs to the sequence of timor-leste, occupation and independence and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Revolución portuguesa y descolonización integra la secuencia de timor oriental, ocupación e independencia y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "timor-leste-05-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "timor-leste-05-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "timor-leste-06",
+      "nome": "Declaração de independência e invasão indonésia",
+      "nome_en": "Declaration of independence and Indonesian invasion",
+      "nome_es": "Declaración de independencia e invasión indonesia",
+      "inicio": 1975,
+      "fim": 1975,
+      "temporalPrecision": "year",
+      "territorio": "SoutheastAsia",
+      "region": "SoutheastAsia",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "timor-leste",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "un-timor",
+        "timor-memory"
+      ],
+      "descricao": "Declaração de independência e invasão indonésia integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Declaration of independence and Indonesian invasion belongs to the sequence of timor-leste, occupation and independence and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Declaración de independencia e invasión indonesia integra la secuencia de timor oriental, ocupación e independencia y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "timor-leste-06-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "timor-leste-06-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "timor-leste-07",
+      "nome": "Massacre de Santa Cruz",
+      "nome_en": "Santa Cruz massacre",
+      "nome_es": "Masacre de Santa Cruz",
+      "inicio": 1991,
+      "fim": 1991,
+      "temporalPrecision": "year",
+      "territorio": "SoutheastAsia",
+      "region": "SoutheastAsia",
+      "tipo": "evento",
+      "type": "social",
+      "tags": [
+        "timor-leste",
+        "social",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "un-timor",
+        "timor-memory"
+      ],
+      "descricao": "Massacre de Santa Cruz integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Santa Cruz massacre belongs to the sequence of timor-leste, occupation and independence and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Masacre de Santa Cruz integra la secuencia de timor oriental, ocupación e independencia y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "timor-leste-07-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "timor-leste-07-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "timor-leste-08",
+      "nome": "Consulta popular sobre autonomia",
+      "nome_en": "Popular consultation on autonomy",
+      "nome_es": "Consulta popular sobre autonomía",
+      "inicio": 1999,
+      "fim": 1999,
+      "temporalPrecision": "year",
+      "territorio": "SoutheastAsia",
+      "region": "SoutheastAsia",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "timor-leste",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "un-timor",
+        "timor-memory"
+      ],
+      "descricao": "Consulta popular sobre autonomia integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Popular consultation on autonomy belongs to the sequence of timor-leste, occupation and independence and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Consulta popular sobre autonomía integra la secuencia de timor oriental, ocupación e independencia y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "timor-leste-08-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "timor-leste-08-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "timor-leste-09",
+      "nome": "Restauração da independência",
+      "nome_en": "Restoration of independence",
+      "nome_es": "Restauración de la independencia",
+      "inicio": 2002,
+      "fim": 2002,
+      "temporalPrecision": "year",
+      "territorio": "SoutheastAsia",
+      "region": "SoutheastAsia",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "timor-leste",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "un-timor",
+        "timor-memory"
+      ],
+      "descricao": "Restauração da independência integra a sequência de timor-leste, ocupação e independência e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Restoration of independence belongs to the sequence of timor-leste, occupation and independence and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Restauración de la independencia integra la secuencia de timor oriental, ocupación e independencia y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "timor-leste-09-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "timor-leste-09-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    }
+  ]
+}

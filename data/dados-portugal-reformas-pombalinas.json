@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "tema": "Reformas pombalinas",
+    "theme_en": "Pombaline reforms",
+    "tema_es": "Reformas pombalinas",
+    "lastReviewed": "2026-10-10",
+    "reviewStatus": "reviewed",
+    "evidenceStatus": "mixed",
+    "collection": "mundo-lusofono-v8",
+    "editorialNote": "Síntese plural: combina história política, social e conectada. Datas representam marcos, não processos isolados."
+  },
+  "sources": [
+    {
+      "id": "portugal-parliament",
+      "author": "Assembleia da República",
+      "title": "História do Parlamentarismo Português",
+      "type": "institutional",
+      "url": "https://www.parlamento.pt/Parlamento/Paginas/Historia-Parlamentarismo.aspx",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    },
+    {
+      "id": "antt",
+      "author": "Arquivo Nacional da Torre do Tombo",
+      "title": "Coleções e documentos da história portuguesa",
+      "type": "archive",
+      "url": "https://antt.dglab.gov.pt/",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    }
+  ],
+  "entidades": [
+    {
+      "id": "portugal-reformas-pombalinas-01",
+      "nome": "Sebastião José de Carvalho e Melo assume a Secretaria de Estado",
+      "nome_en": "Sebastião José de Carvalho e Melo becomes Secretary of State",
+      "nome_es": "Sebastião José de Carvalho e Melo asume la Secretaría de Estado",
+      "inicio": 1750,
+      "fim": 1750,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Sebastião José de Carvalho e Melo assume a Secretaria de Estado integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Sebastião José de Carvalho e Melo becomes Secretary of State belongs to the sequence of pombaline reforms and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Sebastião José de Carvalho e Melo asume la Secretaría de Estado integra la secuencia de reformas pombalinas y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-reformas-pombalinas-01-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-reformas-pombalinas-01-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-02",
+      "nome": "Terremoto de Lisboa",
+      "nome_en": "Lisbon earthquake",
+      "nome_es": "Terremoto de Lisboa",
+      "inicio": 1755,
+      "fim": 1755,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "natural",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "natural",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Terremoto de Lisboa integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Lisbon earthquake belongs to the sequence of pombaline reforms and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Terremoto de Lisboa integra la secuencia de reformas pombalinas y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-reformas-pombalinas-02-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-reformas-pombalinas-02-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-03",
+      "nome": "Companhia Geral da Agricultura das Vinhas do Alto Douro",
+      "nome_en": "Douro Wine Company",
+      "nome_es": "Compañía de los Vinos del Alto Duero",
+      "inicio": 1756,
+      "fim": 1756,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "economic",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "economic",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Companhia Geral da Agricultura das Vinhas do Alto Douro integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Douro Wine Company belongs to the sequence of pombaline reforms and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Compañía de los Vinos del Alto Duero integra la secuencia de reformas pombalinas y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-reformas-pombalinas-03-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-reformas-pombalinas-03-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-04",
+      "nome": "Diretório dos Índios",
+      "nome_en": "Directory of the Indians",
+      "nome_es": "Directorio de los Indios",
+      "inicio": 1757,
+      "fim": 1757,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Diretório dos Índios integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Directory of the Indians belongs to the sequence of pombaline reforms and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Directorio de los Indios integra la secuencia de reformas pombalinas y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-reformas-pombalinas-04-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-reformas-pombalinas-04-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-05",
+      "nome": "Caso Távora",
+      "nome_en": "Távora affair",
+      "nome_es": "Caso Távora",
+      "inicio": 1758,
+      "fim": 1758,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Caso Távora integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Távora affair belongs to the sequence of pombaline reforms and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Caso Távora integra la secuencia de reformas pombalinas y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-reformas-pombalinas-05-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-reformas-pombalinas-05-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-06",
+      "nome": "Expulsão dos jesuítas",
+      "nome_en": "Expulsion of the Jesuits",
+      "nome_es": "Expulsión de los jesuitas",
+      "inicio": 1759,
+      "fim": 1759,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "religious",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "religious",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Expulsão dos jesuítas integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Expulsion of the Jesuits belongs to the sequence of pombaline reforms and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Expulsión de los jesuitas integra la secuencia de reformas pombalinas y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-reformas-pombalinas-06-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-reformas-pombalinas-06-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-07",
+      "nome": "Aulas Régias",
+      "nome_en": "Royal Classes",
+      "nome_es": "Aulas Regias",
+      "inicio": 1759,
+      "fim": 1759,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "intellectual",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "intellectual",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Aulas Régias integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Royal Classes belongs to the sequence of pombaline reforms and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Aulas Regias integra la secuencia de reformas pombalinas y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-reformas-pombalinas-07-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-reformas-pombalinas-07-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-08",
+      "nome": "Abolição da escravidão na metrópole",
+      "nome_en": "Abolition of slavery in metropolitan Portugal",
+      "nome_es": "Abolición de la esclavitud en la metrópoli",
+      "inicio": 1761,
+      "fim": 1761,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "social",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "social",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Abolição da escravidão na metrópole integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Abolition of slavery in metropolitan Portugal belongs to the sequence of pombaline reforms and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Abolición de la esclavitud en la metrópoli integra la secuencia de reformas pombalinas y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-reformas-pombalinas-08-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-reformas-pombalinas-08-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-reformas-pombalinas-09",
+      "nome": "Reforma da Universidade de Coimbra",
+      "nome_en": "Reform of the University of Coimbra",
+      "nome_es": "Reforma de la Universidad de Coimbra",
+      "inicio": 1772,
+      "fim": 1772,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "intellectual",
+      "tags": [
+        "portugal-reformas-pombalinas",
+        "intellectual",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Reforma da Universidade de Coimbra integra a sequência de reformas pombalinas e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Reform of the University of Coimbra belongs to the sequence of pombaline reforms and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Reforma de la Universidad de Coimbra integra la secuencia de reformas pombalinas y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-reformas-pombalinas-09-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-reformas-pombalinas-09-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    }
+  ]
+}

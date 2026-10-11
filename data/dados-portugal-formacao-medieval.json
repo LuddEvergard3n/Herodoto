@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "tema": "Formação medieval de Portugal",
+    "theme_en": "Medieval formation of Portugal",
+    "tema_es": "Formación medieval de Portugal",
+    "lastReviewed": "2026-10-10",
+    "reviewStatus": "reviewed",
+    "evidenceStatus": "mixed",
+    "collection": "mundo-lusofono-v8",
+    "editorialNote": "Síntese plural: combina história política, social e conectada. Datas representam marcos, não processos isolados."
+  },
+  "sources": [
+    {
+      "id": "portugal-parliament",
+      "author": "Assembleia da República",
+      "title": "História do Parlamentarismo Português",
+      "type": "institutional",
+      "url": "https://www.parlamento.pt/Parlamento/Paginas/Historia-Parlamentarismo.aspx",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    },
+    {
+      "id": "antt",
+      "author": "Arquivo Nacional da Torre do Tombo",
+      "title": "Coleções e documentos da história portuguesa",
+      "type": "archive",
+      "url": "https://antt.dglab.gov.pt/",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    }
+  ],
+  "entidades": [
+    {
+      "id": "portugal-formacao-medieval-01",
+      "nome": "Condado Portucalense",
+      "nome_en": "County of Portugal",
+      "nome_es": "Condado Portucalense",
+      "inicio": -868,
+      "fim": -868,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-formacao-medieval",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Condado Portucalense integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "County of Portugal belongs to the sequence of medieval formation of portugal and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Condado Portucalense integra la secuencia de formación medieval de portugal y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-formacao-medieval-01-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-formacao-medieval-01-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-02",
+      "nome": "Condado de Henrique de Borgonha",
+      "nome_en": "County of Henry of Burgundy",
+      "nome_es": "Condado de Enrique de Borgoña",
+      "inicio": 1096,
+      "fim": 1096,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-formacao-medieval",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Condado de Henrique de Borgonha integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "County of Henry of Burgundy belongs to the sequence of medieval formation of portugal and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Condado de Enrique de Borgoña integra la secuencia de formación medieval de portugal y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-formacao-medieval-02-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-formacao-medieval-02-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-03",
+      "nome": "Batalha de São Mamede",
+      "nome_en": "Battle of São Mamede",
+      "nome_es": "Batalla de São Mamede",
+      "inicio": 1128,
+      "fim": 1128,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-formacao-medieval",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Batalha de São Mamede integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Battle of São Mamede belongs to the sequence of medieval formation of portugal and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Batalla de São Mamede integra la secuencia de formación medieval de portugal y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-formacao-medieval-03-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-formacao-medieval-03-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-04",
+      "nome": "Afonso Henriques assume o título de rei",
+      "nome_en": "Afonso Henriques assumes the title of king",
+      "nome_es": "Afonso Henriques asume el título de rey",
+      "inicio": 1139,
+      "fim": 1139,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-formacao-medieval",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Afonso Henriques assume o título de rei integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Afonso Henriques assumes the title of king belongs to the sequence of medieval formation of portugal and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Afonso Henriques asume el título de rey integra la secuencia de formación medieval de portugal y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-formacao-medieval-04-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-formacao-medieval-04-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-05",
+      "nome": "Tratado de Zamora",
+      "nome_en": "Treaty of Zamora",
+      "nome_es": "Tratado de Zamora",
+      "inicio": 1143,
+      "fim": 1143,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-formacao-medieval",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Tratado de Zamora integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Treaty of Zamora belongs to the sequence of medieval formation of portugal and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Tratado de Zamora integra la secuencia de formación medieval de portugal y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-formacao-medieval-05-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-formacao-medieval-05-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-06",
+      "nome": "Conquista de Lisboa",
+      "nome_en": "Conquest of Lisbon",
+      "nome_es": "Conquista de Lisboa",
+      "inicio": 1147,
+      "fim": 1147,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-formacao-medieval",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Conquista de Lisboa integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Conquest of Lisbon belongs to the sequence of medieval formation of portugal and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Conquista de Lisboa integra la secuencia de formación medieval de portugal y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-formacao-medieval-06-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-formacao-medieval-06-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-07",
+      "nome": "Bula Manifestis Probatum",
+      "nome_en": "Manifestis Probatum bull",
+      "nome_es": "Bula Manifestis Probatum",
+      "inicio": 1179,
+      "fim": 1179,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "religious",
+      "tags": [
+        "portugal-formacao-medieval",
+        "religious",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Bula Manifestis Probatum integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Manifestis Probatum bull belongs to the sequence of medieval formation of portugal and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Bula Manifestis Probatum integra la secuencia de formación medieval de portugal y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-formacao-medieval-07-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-formacao-medieval-07-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-08",
+      "nome": "Conquista do Algarve",
+      "nome_en": "Conquest of the Algarve",
+      "nome_es": "Conquista del Algarve",
+      "inicio": 1249,
+      "fim": 1249,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-formacao-medieval",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Conquista do Algarve integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Conquest of the Algarve belongs to the sequence of medieval formation of portugal and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Conquista del Algarve integra la secuencia de formación medieval de portugal y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-formacao-medieval-08-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-formacao-medieval-08-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-formacao-medieval-09",
+      "nome": "Tratado de Alcanizes",
+      "nome_en": "Treaty of Alcañices",
+      "nome_es": "Tratado de Alcañices",
+      "inicio": 1297,
+      "fim": 1297,
+      "temporalPrecision": "year",
+      "territorio": "Europe",
+      "region": "Europe",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-formacao-medieval",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "portugal-parliament",
+        "antt"
+      ],
+      "descricao": "Tratado de Alcanizes integra a sequência de formação medieval de portugal e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Treaty of Alcañices belongs to the sequence of medieval formation of portugal and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Tratado de Alcañices integra la secuencia de formación medieval de portugal y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-formacao-medieval-09-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-formacao-medieval-09-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    }
+  ]
+}

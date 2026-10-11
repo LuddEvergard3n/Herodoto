@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "tema": "Expansão marítima e Estado da Índia",
+    "theme_en": "Maritime expansion and the Estado da Índia",
+    "tema_es": "Expansión marítima y Estado de la India",
+    "lastReviewed": "2026-10-10",
+    "reviewStatus": "reviewed",
+    "evidenceStatus": "mixed",
+    "collection": "mundo-lusofono-v8",
+    "editorialNote": "Síntese plural: combina história política, social e conectada. Datas representam marcos, não processos isolados."
+  },
+  "sources": [
+    {
+      "id": "unesco-slave-route",
+      "author": "UNESCO",
+      "title": "Routes of Enslaved Peoples",
+      "type": "institutional",
+      "url": "https://www.unesco.org/en/routes-enslaved-peoples",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    },
+    {
+      "id": "unesco-africa",
+      "author": "UNESCO",
+      "title": "General History of Africa",
+      "type": "academic",
+      "url": "https://www.unesco.org/en/general-history-africa",
+      "accessed": "2026-10-10",
+      "scope": "Síntese histórica e documentação primária ou institucional.",
+      "limitations": "A fonte deve ser lida com atenção ao seu recorte institucional e historiográfico."
+    }
+  ],
+  "entidades": [
+    {
+      "id": "portugal-expansao-estado-india-01",
+      "nome": "Conquista de Ceuta",
+      "nome_en": "Conquest of Ceuta",
+      "nome_es": "Conquista de Ceuta",
+      "inicio": 1415,
+      "fim": 1415,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Conquista de Ceuta integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Conquest of Ceuta belongs to the sequence of maritime expansion and the estado da índia and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Conquista de Ceuta integra la secuencia de expansión marítima y estado de la india y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-expansao-estado-india-01-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-expansao-estado-india-01-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-expansao-estado-india-02",
+      "nome": "Gil Eanes dobra o cabo Bojador",
+      "nome_en": "Gil Eanes rounds Cape Bojador",
+      "nome_es": "Gil Eanes dobla el cabo Bojador",
+      "inicio": 1434,
+      "fim": 1434,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "technological",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "technological",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Gil Eanes dobra o cabo Bojador integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Gil Eanes rounds Cape Bojador belongs to the sequence of maritime expansion and the estado da índia and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Gil Eanes dobla el cabo Bojador integra la secuencia de expansión marítima y estado de la india y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-expansao-estado-india-02-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-expansao-estado-india-02-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-expansao-estado-india-03",
+      "nome": "Bartolomeu Dias alcança o cabo da Boa Esperança",
+      "nome_en": "Bartolomeu Dias reaches the Cape of Good Hope",
+      "nome_es": "Bartolomeu Dias llega al cabo de Buena Esperanza",
+      "inicio": 1488,
+      "fim": 1488,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "technological",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "technological",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Bartolomeu Dias alcança o cabo da Boa Esperança integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Bartolomeu Dias reaches the Cape of Good Hope belongs to the sequence of maritime expansion and the estado da índia and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Bartolomeu Dias llega al cabo de Buena Esperanza integra la secuencia de expansión marítima y estado de la india y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-expansao-estado-india-03-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-expansao-estado-india-03-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-expansao-estado-india-04",
+      "nome": "Tratado de Tordesilhas",
+      "nome_en": "Treaty of Tordesillas",
+      "nome_es": "Tratado de Tordesillas",
+      "inicio": 1494,
+      "fim": 1494,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Tratado de Tordesilhas integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Treaty of Tordesillas belongs to the sequence of maritime expansion and the estado da índia and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Tratado de Tordesillas integra la secuencia de expansión marítima y estado de la india y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-expansao-estado-india-04-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-expansao-estado-india-04-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-expansao-estado-india-05",
+      "nome": "Vasco da Gama chega à Índia",
+      "nome_en": "Vasco da Gama reaches India",
+      "nome_es": "Vasco da Gama llega a India",
+      "inicio": 1498,
+      "fim": 1498,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "economic",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "economic",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Vasco da Gama chega à Índia integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Vasco da Gama reaches India belongs to the sequence of maritime expansion and the estado da índia and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Vasco da Gama llega a India integra la secuencia de expansión marítima y estado de la india y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-expansao-estado-india-05-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-expansao-estado-india-05-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-expansao-estado-india-06",
+      "nome": "Chegada da armada de Cabral ao Brasil",
+      "nome_en": "Cabral fleet reaches Brazil",
+      "nome_es": "Llegada de la armada de Cabral a Brasil",
+      "inicio": 1500,
+      "fim": 1500,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Chegada da armada de Cabral ao Brasil integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Cabral fleet reaches Brazil belongs to the sequence of maritime expansion and the estado da índia and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Llegada de la armada de Cabral a Brasil integra la secuencia de expansión marítima y estado de la india y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-expansao-estado-india-06-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-expansao-estado-india-06-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-expansao-estado-india-07",
+      "nome": "Criação do Estado da Índia",
+      "nome_en": "Creation of the Estado da Índia",
+      "nome_es": "Creación del Estado de la India",
+      "inicio": 1505,
+      "fim": 1505,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "political",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "political",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Criação do Estado da Índia integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Creation of the Estado da Índia belongs to the sequence of maritime expansion and the estado da índia and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Creación del Estado de la India integra la secuencia de expansión marítima y estado de la india y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-expansao-estado-india-07-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-expansao-estado-india-07-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-expansao-estado-india-08",
+      "nome": "Conquista de Goa",
+      "nome_en": "Conquest of Goa",
+      "nome_es": "Conquista de Goa",
+      "inicio": 1510,
+      "fim": 1510,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Conquista de Goa integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Conquest of Goa belongs to the sequence of maritime expansion and the estado da índia and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Conquista de Goa integra la secuencia de expansión marítima y estado de la india y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-expansao-estado-india-08-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-expansao-estado-india-08-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    },
+    {
+      "id": "portugal-expansao-estado-india-09",
+      "nome": "Conquista de Malaca",
+      "nome_en": "Conquest of Malacca",
+      "nome_es": "Conquista de Malaca",
+      "inicio": 1511,
+      "fim": 1511,
+      "temporalPrecision": "year",
+      "territorio": "Global",
+      "region": "Global",
+      "tipo": "evento",
+      "type": "war",
+      "tags": [
+        "portugal-expansao-estado-india",
+        "war",
+        "mundo-lusofono"
+      ],
+      "evidenceStatus": "fact",
+      "sourceIds": [
+        "unesco-slave-route",
+        "unesco-africa"
+      ],
+      "descricao": "Conquista de Malaca integra a sequência de expansão marítima e estado da índia e deve ser interpretado em conexão com processos locais, atlânticos e globais.",
+      "descricao_en": "Conquest of Malacca belongs to the sequence of maritime expansion and the estado da índia and should be interpreted through local, Atlantic and global processes.",
+      "descricao_es": "Conquista de Malaca integra la secuencia de expansión marítima y estado de la india y debe interpretarse mediante procesos locales, atlánticos y globales.",
+      "importancia": "O marco ajuda a relacionar instituições, conflitos, circulação de pessoas e disputas de memória sem reduzir a história à administração imperial.",
+      "importancia_en": "This milestone connects institutions, conflicts, human mobility and contested memory without reducing history to imperial administration.",
+      "importancia_es": "Este hito relaciona instituciones, conflictos, movilidad humana y memorias disputadas sin reducir la historia a la administración imperial.",
+      "perspectives": [
+        {
+          "id": "portugal-expansao-estado-india-09-institutional",
+          "label": "Institucional",
+          "note": "Examina decisões, leis e estruturas de poder."
+        },
+        {
+          "id": "portugal-expansao-estado-india-09-social",
+          "label": "Social e local",
+          "note": "Examina agência, resistência e experiências das populações afetadas."
+        }
+      ]
+    }
+  ]
+}
