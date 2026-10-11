@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vozes da História — Heródoto</title>
+  <meta name="description" content="Converse com personagens históricos usando evidências dos datasets do Heródoto.">
+  <link rel="stylesheet" href="css/voices-v8.css">
+</head>
+<body>
+  <a class="skip-link" href="#voice-chat">Ir para a conversa</a>
+  <header class="voice-topbar">
+    <a class="voice-brand" href="index.html">Heródoto</a>
+    <nav aria-label="Navegação principal">
+      <a href="index.html">Explorar</a>
+      <a href="fontes.html">Fontes</a>
+      <a href="ajuda.html">Ajuda</a>
+    </nav>
+  </header>
+
+  <main class="voice-shell">
+    <section class="voice-intro">
+      <p class="eyebrow">Inteligência histórica fundamentada</p>
+      <h1>Vozes da História</h1>
+      <p>Faça perguntas a oito figuras históricas. As respostas usam somente os registros selecionados do Heródoto e identificam suas evidências.</p>
+      <div class="voice-notice">
+        <strong>Importante:</strong> a primeira pessoa é uma dramatização pedagógica, não uma citação histórica.
+      </div>
+    </section>
+
+    <section class="voice-workspace" id="voice-chat">
+      <aside class="persona-panel" aria-label="Personas históricas">
+        <h2>Escolha uma voz</h2>
+        <div id="persona-list" class="persona-list"></div>
+        <button id="semantic-toggle" class="semantic-toggle" type="button" aria-pressed="false">
+          Ativar busca semântica
+        </button>
+        <p id="semantic-status" class="semantic-status">Modo lexical local ativo. Nenhuma pergunta sai deste dispositivo.</p>
+      </aside>
+
+      <section class="conversation" aria-labelledby="conversation-title">
+        <header class="conversation-header">
+          <div>
+            <h2 id="conversation-title">Selecione uma persona</h2>
+            <p id="conversation-period">A conversa será iniciada com os registros pessoais da figura.</p>
+          </div>
+          <button id="new-conversation" type="button" disabled>Nova conversa</button>
+        </header>
+
+        <div id="messages" class="messages" aria-live="polite">
+          <div class="empty-conversation">
+            <strong>Conversa fundamentada</strong>
+            <p>As respostas apresentarão os documentos consultados, o limite histórico e o grau de sustentação.</p>
+          </div>
+        </div>
+
+        <form id="voice-form" class="composer">
+          <label for="voice-input">Pergunte sobre o período vivido pela persona</label>
+          <div class="composer-row">
+            <textarea id="voice-input" rows="2" maxlength="500" disabled placeholder="Ex.: Por que a monarquia brasileira entrou em crise?"></textarea>
+            <button id="send-question" type="submit" disabled>Enviar</button>
+          </div>
+        </form>
+      </section>
+    </section>
+  </main>
+
+  <script type="module" src="js/voices-ui.js"></script>
+</body>
+</html>
