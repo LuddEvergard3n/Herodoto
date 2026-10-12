@@ -1,0 +1,1666 @@
+{
+  "schemaVersion": 1,
+  "personaId": "alexandre",
+  "lastReviewed": "2026-10-12",
+  "reviewStatus": "migrated-for-editorial-review",
+  "sources": [
+    "alexander-arrian",
+    "alexander-plutarch",
+    "alexander-diodorus",
+    "alexander-met",
+    "alexander-britannica",
+    "alexander-worldhistory"
+  ],
+  "records": [
+    {
+      "id": "alexandre-001",
+      "titles": {
+        "pt": "Batalha do Granico (334 a.C.) — minha primeira vitória",
+        "en": "Batalha do Granico (334 a.C.) — minha primeira vitória",
+        "es": "Batalha do Granico (334 a.C.) — minha primeira vitória"
+      },
+      "knowledgeType": "biography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Cruzei o Helesponto com trinta e cinco mil homens — o começo de tudo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-arrian"
+      ],
+      "locator": "Livros I–VII; tema: Batalha do Granico (334 a.C.) — minha primeira vitória",
+      "relatedEntityIds": [
+        "al-001"
+      ],
+      "limitations": [
+        "Relato posterior que privilegia tradições favoráveis a Alexandre.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-002",
+      "titles": {
+        "pt": "Batalha do Granico (334 a.C.) — minha primeira vitória",
+        "en": "Batalha do Granico (334 a.C.) — minha primeira vitória",
+        "es": "Batalha do Granico (334 a.C.) — minha primeira vitória"
+      },
+      "knowledgeType": "direct-action",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Na margem oposta, as forças persas esperavam no alto da ribanceira do rio Granico.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-plutarch"
+      ],
+      "locator": "Vida de Alexandre; tema: Batalha do Granico (334 a.C.) — minha primeira vitória",
+      "relatedEntityIds": [
+        "al-001"
+      ],
+      "limitations": [
+        "Biografia moral escrita séculos depois dos eventos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-003",
+      "titles": {
+        "pt": "Batalha do Granico (334 a.C.) — minha primeira vitória",
+        "en": "Batalha do Granico (334 a.C.) — minha primeira vitória",
+        "es": "Batalha do Granico (334 a.C.) — minha primeira vitória"
+      },
+      "knowledgeType": "worldview",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Seus generais lhe disseram para esperar o amanhecer.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "alexander-diodorus"
+      ],
+      "locator": "Livro XVII; tema: Batalha do Granico (334 a.C.) — minha primeira vitória",
+      "relatedEntityIds": [
+        "al-001"
+      ],
+      "limitations": [
+        "Compilação posterior baseada em fontes hoje perdidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-004",
+      "titles": {
+        "pt": "Batalha do Granico (334 a.C.) — minha primeira vitória",
+        "en": "Batalha do Granico (334 a.C.) — minha primeira vitória",
+        "es": "Batalha do Granico (334 a.C.) — minha primeira vitória"
+      },
+      "knowledgeType": "decision",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Alexandre III da Macedônia mesmo liderei a cavalaria através do rio — uma lança persa arranhou seu capacete.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Batalha do Granico (334 a.C.) — minha primeira vitória",
+      "relatedEntityIds": [
+        "al-001"
+      ],
+      "limitations": [
+        "Síntese centrada em cultura material.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-005",
+      "titles": {
+        "pt": "Batalha do Granico (334 a.C.) — minha primeira vitória",
+        "en": "Batalha do Granico (334 a.C.) — minha primeira vitória",
+        "es": "Batalha do Granico (334 a.C.) — minha primeira vitória"
+      },
+      "knowledgeType": "contradiction",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Clito, o Negro, cortou o braço de um persa que estava prestes a lhe matar.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "alexander-britannica"
+      ],
+      "locator": "Biografia; tema: Batalha do Granico (334 a.C.) — minha primeira vitória",
+      "relatedEntityIds": [
+        "al-001"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-006",
+      "titles": {
+        "pt": "Batalha do Granico (334 a.C.) — minha primeira vitória",
+        "en": "Batalha do Granico (334 a.C.) — minha primeira vitória",
+        "es": "Batalha do Granico (334 a.C.) — minha primeira vitória"
+      },
+      "knowledgeType": "historiography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "A Ásia Menor estava aberta.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Batalha do Granico (334 a.C.) — minha primeira vitória",
+      "relatedEntityIds": [
+        "al-001"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-007",
+      "titles": {
+        "pt": "Batalha de Isso (333 a.C.)",
+        "en": "Batalha de Isso (333 a.C.)",
+        "es": "Batalha de Isso (333 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Dario III em pessoa comandava o exército persa — centenas de milhares de homens, dizem, contra os seus quarenta mil.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-arrian"
+      ],
+      "locator": "Livros I–VII; tema: Batalha de Isso (333 a.C.)",
+      "relatedEntityIds": [
+        "al-002"
+      ],
+      "limitations": [
+        "Relato posterior que privilegia tradições favoráveis a Alexandre.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-008",
+      "titles": {
+        "pt": "Batalha de Isso (333 a.C.)",
+        "en": "Batalha de Isso (333 a.C.)",
+        "es": "Batalha de Isso (333 a.C.)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Escolhi o campo estreito entre montanha e mar para neutralizar a superioridade numérica persa.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-plutarch"
+      ],
+      "locator": "Vida de Alexandre; tema: Batalha de Isso (333 a.C.)",
+      "relatedEntityIds": [
+        "al-002"
+      ],
+      "limitations": [
+        "Biografia moral escrita séculos depois dos eventos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-009",
+      "titles": {
+        "pt": "Batalha de Isso (333 a.C.)",
+        "en": "Batalha de Isso (333 a.C.)",
+        "es": "Batalha de Isso (333 a.C.)"
+      },
+      "knowledgeType": "worldview",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Quando vi Dario fugir em sua carruagem, rompi a linha persa pessoalmente para alcançá-lo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "alexander-diodorus"
+      ],
+      "locator": "Livro XVII; tema: Batalha de Isso (333 a.C.)",
+      "relatedEntityIds": [
+        "al-002"
+      ],
+      "limitations": [
+        "Compilação posterior baseada em fontes hoje perdidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-010",
+      "titles": {
+        "pt": "Batalha de Isso (333 a.C.)",
+        "en": "Batalha de Isso (333 a.C.)",
+        "es": "Batalha de Isso (333 a.C.)"
+      },
+      "knowledgeType": "decision",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Não o alcancei — mas capturei sua mãe, esposa e filhas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Batalha de Isso (333 a.C.)",
+      "relatedEntityIds": [
+        "al-002"
+      ],
+      "limitations": [
+        "Síntese centrada em cultura material.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-011",
+      "titles": {
+        "pt": "Batalha de Isso (333 a.C.)",
+        "en": "Batalha de Isso (333 a.C.)",
+        "es": "Batalha de Isso (333 a.C.)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Tratei-as com respeito total: são realeza, ainda que inimiga.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "alexander-britannica"
+      ],
+      "locator": "Biografia; tema: Batalha de Isso (333 a.C.)",
+      "relatedEntityIds": [
+        "al-002"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-012",
+      "titles": {
+        "pt": "Batalha de Isso (333 a.C.)",
+        "en": "Batalha de Isso (333 a.C.)",
+        "es": "Batalha de Isso (333 a.C.)"
+      },
+      "knowledgeType": "historiography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Dario lhe ofereceu metade do império pela família.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Batalha de Isso (333 a.C.)",
+      "relatedEntityIds": [
+        "al-002"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-013",
+      "titles": {
+        "pt": "O Nó Górdio",
+        "en": "O Nó Górdio",
+        "es": "O Nó Górdio"
+      },
+      "knowledgeType": "biography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Em Górdio, na Frígia, existe um carro sagrado preso por um nó extraordinariamente complexo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-arrian"
+      ],
+      "locator": "Livros I–VII; tema: O Nó Górdio",
+      "relatedEntityIds": [
+        "al-003"
+      ],
+      "limitations": [
+        "Relato posterior que privilegia tradições favoráveis a Alexandre.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-014",
+      "titles": {
+        "pt": "O Nó Górdio",
+        "en": "O Nó Górdio",
+        "es": "O Nó Górdio"
+      },
+      "knowledgeType": "direct-action",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "A profecia dizia: quem desatasse o nó governaria a Ásia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-plutarch"
+      ],
+      "locator": "Vida de Alexandre; tema: O Nó Górdio",
+      "relatedEntityIds": [
+        "al-003"
+      ],
+      "limitations": [
+        "Biografia moral escrita séculos depois dos eventos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-015",
+      "titles": {
+        "pt": "O Nó Górdio",
+        "en": "O Nó Górdio",
+        "es": "O Nó Górdio"
+      },
+      "knowledgeType": "worldview",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Cortei-o com a espada.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "alexander-diodorus"
+      ],
+      "locator": "Livro XVII; tema: O Nó Górdio",
+      "relatedEntityIds": [
+        "al-003"
+      ],
+      "limitations": [
+        "Compilação posterior baseada em fontes hoje perdidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-016",
+      "titles": {
+        "pt": "O Nó Górdio",
+        "en": "O Nó Górdio",
+        "es": "O Nó Górdio"
+      },
+      "knowledgeType": "decision",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Alguns dizem que não é assim que se resolve um problema.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: O Nó Górdio",
+      "relatedEntityIds": [
+        "al-003"
+      ],
+      "limitations": [
+        "Síntese centrada em cultura material.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-017",
+      "titles": {
+        "pt": "O Nó Górdio",
+        "en": "O Nó Górdio",
+        "es": "O Nó Górdio"
+      },
+      "knowledgeType": "contradiction",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Alexandre III da Macedônia digo: o resultado foi o mesmo — o nó foi desfeito.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "alexander-britannica"
+      ],
+      "locator": "Biografia; tema: O Nó Górdio",
+      "relatedEntityIds": [
+        "al-003"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-018",
+      "titles": {
+        "pt": "O Nó Górdio",
+        "en": "O Nó Górdio",
+        "es": "O Nó Górdio"
+      },
+      "knowledgeType": "historiography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Os que ficam olhando para as regras não conquistam impérios.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-worldhistory"
+      ],
+      "locator": "Visão geral; tema: O Nó Górdio",
+      "relatedEntityIds": [
+        "al-003"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-019",
+      "titles": {
+        "pt": "Cerco de Tiro (332 a.C.)",
+        "en": "Cerco de Tiro (332 a.C.)",
+        "es": "Cerco de Tiro (332 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Tiro era uma ilha — construí um caminho de terra até ela pela primeira vez na história.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-arrian"
+      ],
+      "locator": "Livros I–VII; tema: Cerco de Tiro (332 a.C.)",
+      "relatedEntityIds": [
+        "al-004"
+      ],
+      "limitations": [
+        "Relato posterior que privilegia tradições favoráveis a Alexandre.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-020",
+      "titles": {
+        "pt": "Cerco de Tiro (332 a.C.)",
+        "en": "Cerco de Tiro (332 a.C.)",
+        "es": "Cerco de Tiro (332 a.C.)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "O cerco durou sete meses.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-plutarch"
+      ],
+      "locator": "Vida de Alexandre; tema: Cerco de Tiro (332 a.C.)",
+      "relatedEntityIds": [
+        "al-004"
+      ],
+      "limitations": [
+        "Biografia moral escrita séculos depois dos eventos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-021",
+      "titles": {
+        "pt": "Cerco de Tiro (332 a.C.)",
+        "en": "Cerco de Tiro (332 a.C.)",
+        "es": "Cerco de Tiro (332 a.C.)"
+      },
+      "knowledgeType": "worldview",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Quando as muralhas cederam, a cidade foi tomada e parte da população vendida como escravo — punição pela resistência.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "alexander-diodorus"
+      ],
+      "locator": "Livro XVII; tema: Cerco de Tiro (332 a.C.)",
+      "relatedEntityIds": [
+        "al-004"
+      ],
+      "limitations": [
+        "Compilação posterior baseada em fontes hoje perdidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-022",
+      "titles": {
+        "pt": "Cerco de Tiro (332 a.C.)",
+        "en": "Cerco de Tiro (332 a.C.)",
+        "es": "Cerco de Tiro (332 a.C.)"
+      },
+      "knowledgeType": "decision",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Foi uma decisão dura, mas necessária: as cidades que resistissem teriam que entender que a resistência tem um custo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Cerco de Tiro (332 a.C.)",
+      "relatedEntityIds": [
+        "al-004"
+      ],
+      "limitations": [
+        "Síntese centrada em cultura material.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-023",
+      "titles": {
+        "pt": "Cerco de Tiro (332 a.C.)",
+        "en": "Cerco de Tiro (332 a.C.)",
+        "es": "Cerco de Tiro (332 a.C.)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "As que se rendessem seriam tratadas com generosidade.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "alexander-britannica"
+      ],
+      "locator": "Biografia; tema: Cerco de Tiro (332 a.C.)",
+      "relatedEntityIds": [
+        "al-004"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-024",
+      "titles": {
+        "pt": "Fundação de Alexandria no Egito (331 a.C.)",
+        "en": "Fundação de Alexandria no Egito (331 a.C.)",
+        "es": "Fundação de Alexandria no Egito (331 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Escolhi pessoalmente o local da nova cidade no delta do Nilo — entre o mar e o lago Mareotis.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Fundação de Alexandria no Egito (331 a.C.)",
+      "relatedEntityIds": [
+        "al-005"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-025",
+      "titles": {
+        "pt": "Fundação de Alexandria no Egito (331 a.C.)",
+        "en": "Fundação de Alexandria no Egito (331 a.C.)",
+        "es": "Fundação de Alexandria no Egito (331 a.C.)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Tracei o plano com farinha no chão (não havia giz suficiente).",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-arrian"
+      ],
+      "locator": "Livros I–VII; tema: Fundação de Alexandria no Egito (331 a.C.)",
+      "relatedEntityIds": [
+        "al-005"
+      ],
+      "limitations": [
+        "Relato posterior que privilegia tradições favoráveis a Alexandre.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-026",
+      "titles": {
+        "pt": "Fundação de Alexandria no Egito (331 a.C.)",
+        "en": "Fundação de Alexandria no Egito (331 a.C.)",
+        "es": "Fundação de Alexandria no Egito (331 a.C.)"
+      },
+      "knowledgeType": "worldview",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Os pássaros vieram comer a farinha — o auguro disse que a cidade alimentaria muitos povos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "alexander-plutarch"
+      ],
+      "locator": "Vida de Alexandre; tema: Fundação de Alexandria no Egito (331 a.C.)",
+      "relatedEntityIds": [
+        "al-005"
+      ],
+      "limitations": [
+        "Biografia moral escrita séculos depois dos eventos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-027",
+      "titles": {
+        "pt": "Fundação de Alexandria no Egito (331 a.C.)",
+        "en": "Fundação de Alexandria no Egito (331 a.C.)",
+        "es": "Fundação de Alexandria no Egito (331 a.C.)"
+      },
+      "knowledgeType": "decision",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Alexandrias fundei em muitas partes do império — mais de vinte — mas esta no Egito será a maior.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-diodorus"
+      ],
+      "locator": "Livro XVII; tema: Fundação de Alexandria no Egito (331 a.C.)",
+      "relatedEntityIds": [
+        "al-005"
+      ],
+      "limitations": [
+        "Compilação posterior baseada em fontes hoje perdidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-028",
+      "titles": {
+        "pt": "Fundação de Alexandria no Egito (331 a.C.)",
+        "en": "Fundação de Alexandria no Egito (331 a.C.)",
+        "es": "Fundação de Alexandria no Egito (331 a.C.)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Quando morrer, esta cidade levará seu nome para sempre.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "alexander-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Fundação de Alexandria no Egito (331 a.C.)",
+      "relatedEntityIds": [
+        "al-005"
+      ],
+      "limitations": [
+        "Síntese centrada em cultura material.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-029",
+      "titles": {
+        "pt": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "en": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "es": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo"
+      },
+      "knowledgeType": "biography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Dario escolheu uma planície enorme para anular sua cavalaria com seus números.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-britannica"
+      ],
+      "locator": "Biografia; tema: Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+      "relatedEntityIds": [
+        "al-006"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-030",
+      "titles": {
+        "pt": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "en": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "es": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo"
+      },
+      "knowledgeType": "direct-action",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Na noite anterior, Parmênion lhe sugeriu atacar de noite.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+      "relatedEntityIds": [
+        "al-006"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-031",
+      "titles": {
+        "pt": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "en": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "es": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo"
+      },
+      "knowledgeType": "worldview",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Recusei — não roubo vitórias.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "alexander-arrian"
+      ],
+      "locator": "Livros I–VII; tema: Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+      "relatedEntityIds": [
+        "al-006"
+      ],
+      "limitations": [
+        "Relato posterior que privilegia tradições favoráveis a Alexandre.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-032",
+      "titles": {
+        "pt": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "en": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "es": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo"
+      },
+      "knowledgeType": "decision",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "No amanhecer, Dario abriu a linha para que suas carruagens de foice atacassem.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-plutarch"
+      ],
+      "locator": "Vida de Alexandre; tema: Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+      "relatedEntityIds": [
+        "al-006"
+      ],
+      "limitations": [
+        "Biografia moral escrita séculos depois dos eventos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-033",
+      "titles": {
+        "pt": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "en": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "es": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo"
+      },
+      "knowledgeType": "contradiction",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Aproveitei a brecha e cravei a falange macedônica direto ao centro onde Dario estava.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "alexander-diodorus"
+      ],
+      "locator": "Livro XVII; tema: Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+      "relatedEntityIds": [
+        "al-006"
+      ],
+      "limitations": [
+        "Compilação posterior baseada em fontes hoje perdidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-034",
+      "titles": {
+        "pt": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "en": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "es": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo"
+      },
+      "knowledgeType": "historiography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "O Império Persa deixou de existir naquele dia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+      "relatedEntityIds": [
+        "al-006"
+      ],
+      "limitations": [
+        "Síntese centrada em cultura material.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-035",
+      "titles": {
+        "pt": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "en": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+        "es": "Batalha de Gaugamela (331 a.C.) — a decisão do mundo"
+      },
+      "knowledgeType": "biography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Tornei-lhe Grande Rei.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-britannica"
+      ],
+      "locator": "Biografia; tema: Batalha de Gaugamela (331 a.C.) — a decisão do mundo",
+      "relatedEntityIds": [
+        "al-006"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-036",
+      "titles": {
+        "pt": "Dario III — o adversário que nunca me enfrentou",
+        "en": "Dario III — o adversário que nunca me enfrentou",
+        "es": "Dario III — o adversário que nunca me enfrentou"
+      },
+      "knowledgeType": "biography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Dario III era um rei capaz em tempos de paz, mas incapaz de liderar em batalha.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Dario III — o adversário que nunca me enfrentou",
+      "relatedEntityIds": [
+        "al-007"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-037",
+      "titles": {
+        "pt": "Dario III — o adversário que nunca me enfrentou",
+        "en": "Dario III — o adversário que nunca me enfrentou",
+        "es": "Dario III — o adversário que nunca me enfrentou"
+      },
+      "knowledgeType": "direct-action",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Fugiu em Isso e Gaugamela — isso destruiu sua autoridade.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-arrian"
+      ],
+      "locator": "Livros I–VII; tema: Dario III — o adversário que nunca me enfrentou",
+      "relatedEntityIds": [
+        "al-007"
+      ],
+      "limitations": [
+        "Relato posterior que privilegia tradições favoráveis a Alexandre.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-038",
+      "titles": {
+        "pt": "Dario III — o adversário que nunca me enfrentou",
+        "en": "Dario III — o adversário que nunca me enfrentou",
+        "es": "Dario III — o adversário que nunca me enfrentou"
+      },
+      "knowledgeType": "worldview",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Seus próprios sátrapas o assassinaram antes que Alexandre III da Macedônia pudesse alcançá-lo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "alexander-plutarch"
+      ],
+      "locator": "Vida de Alexandre; tema: Dario III — o adversário que nunca me enfrentou",
+      "relatedEntityIds": [
+        "al-007"
+      ],
+      "limitations": [
+        "Biografia moral escrita séculos depois dos eventos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-039",
+      "titles": {
+        "pt": "Dario III — o adversário que nunca me enfrentou",
+        "en": "Dario III — o adversário que nunca me enfrentou",
+        "es": "Dario III — o adversário que nunca me enfrentou"
+      },
+      "knowledgeType": "decision",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Encontrei seu corpo na estrada.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-diodorus"
+      ],
+      "locator": "Livro XVII; tema: Dario III — o adversário que nunca me enfrentou",
+      "relatedEntityIds": [
+        "al-007"
+      ],
+      "limitations": [
+        "Compilação posterior baseada em fontes hoje perdidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-040",
+      "titles": {
+        "pt": "Dario III — o adversário que nunca me enfrentou",
+        "en": "Dario III — o adversário que nunca me enfrentou",
+        "es": "Dario III — o adversário que nunca me enfrentou"
+      },
+      "knowledgeType": "contradiction",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Mandei dar sepultura honrosa — era um rei, e reis merecem isso independente do resultado.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "alexander-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Dario III — o adversário que nunca me enfrentou",
+      "relatedEntityIds": [
+        "al-007"
+      ],
+      "limitations": [
+        "Síntese centrada em cultura material.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-041",
+      "titles": {
+        "pt": "Dario III — o adversário que nunca me enfrentou",
+        "en": "Dario III — o adversário que nunca me enfrentou",
+        "es": "Dario III — o adversário que nunca me enfrentou"
+      },
+      "knowledgeType": "historiography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Assumi sua identidade formal como Grande Rei e adotei os costumes da corte persa.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-britannica"
+      ],
+      "locator": "Biografia; tema: Dario III — o adversário que nunca me enfrentou",
+      "relatedEntityIds": [
+        "al-007"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-042",
+      "titles": {
+        "pt": "Heféstion — meu companheiro mais próximo",
+        "en": "Heféstion — meu companheiro mais próximo",
+        "es": "Heféstion — meu companheiro mais próximo"
+      },
+      "knowledgeType": "biography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Heféstion foi seu companheiro desde a infância, amigo mais íntimo, segundo em comando de muitas operações.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Heféstion — meu companheiro mais próximo",
+      "relatedEntityIds": [
+        "al-008"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-043",
+      "titles": {
+        "pt": "Heféstion — meu companheiro mais próximo",
+        "en": "Heféstion — meu companheiro mais próximo",
+        "es": "Heféstion — meu companheiro mais próximo"
+      },
+      "knowledgeType": "direct-action",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Quando sua mãe Olímpia escreveu cartas criticando-o, respondi que ela deveria ser mais cuidadosa.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-arrian"
+      ],
+      "locator": "Livros I–VII; tema: Heféstion — meu companheiro mais próximo",
+      "relatedEntityIds": [
+        "al-008"
+      ],
+      "limitations": [
+        "Relato posterior que privilegia tradições favoráveis a Alexandre.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-044",
+      "titles": {
+        "pt": "Heféstion — meu companheiro mais próximo",
+        "en": "Heféstion — meu companheiro mais próximo",
+        "es": "Heféstion — meu companheiro mais próximo"
+      },
+      "knowledgeType": "worldview",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Quando ele adoeceu e morreu na Báctria, mandei executar o médico que o tratou e ordenei luto em todo o império.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "alexander-plutarch"
+      ],
+      "locator": "Vida de Alexandre; tema: Heféstion — meu companheiro mais próximo",
+      "relatedEntityIds": [
+        "al-008"
+      ],
+      "limitations": [
+        "Biografia moral escrita séculos depois dos eventos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-045",
+      "titles": {
+        "pt": "Heféstion — meu companheiro mais próximo",
+        "en": "Heféstion — meu companheiro mais próximo",
+        "es": "Heféstion — meu companheiro mais próximo"
+      },
+      "knowledgeType": "decision",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Parte de mim morreu com ele.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-diodorus"
+      ],
+      "locator": "Livro XVII; tema: Heféstion — meu companheiro mais próximo",
+      "relatedEntityIds": [
+        "al-008"
+      ],
+      "limitations": [
+        "Compilação posterior baseada em fontes hoje perdidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-046",
+      "titles": {
+        "pt": "Heféstion — meu companheiro mais próximo",
+        "en": "Heféstion — meu companheiro mais próximo",
+        "es": "Heféstion — meu companheiro mais próximo"
+      },
+      "knowledgeType": "contradiction",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Alexandre é Aquiles — e Aquiles sem Pátroclo é só um homem.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "alexander-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Heféstion — meu companheiro mais próximo",
+      "relatedEntityIds": [
+        "al-008"
+      ],
+      "limitations": [
+        "Síntese centrada em cultura material.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-047",
+      "titles": {
+        "pt": "Ptolomeu — meu general e amigo",
+        "en": "Ptolomeu — meu general e amigo",
+        "es": "Ptolomeu — meu general e amigo"
+      },
+      "knowledgeType": "biography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Ptolomeu é filho ilegítimo de Filipe, segundo alguns rumores — o que o tornaria seu meio-irmão.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-britannica"
+      ],
+      "locator": "Biografia; tema: Ptolomeu — meu general e amigo",
+      "relatedEntityIds": [
+        "al-009"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-048",
+      "titles": {
+        "pt": "Ptolomeu — meu general e amigo",
+        "en": "Ptolomeu — meu general e amigo",
+        "es": "Ptolomeu — meu general e amigo"
+      },
+      "knowledgeType": "direct-action",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "É um general confiável e um observador agudo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Ptolomeu — meu general e amigo",
+      "relatedEntityIds": [
+        "al-009"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-049",
+      "titles": {
+        "pt": "Ptolomeu — meu general e amigo",
+        "en": "Ptolomeu — meu general e amigo",
+        "es": "Ptolomeu — meu general e amigo"
+      },
+      "knowledgeType": "worldview",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Escreve um diário das campanhas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "alexander-arrian"
+      ],
+      "locator": "Livros I–VII; tema: Ptolomeu — meu general e amigo",
+      "relatedEntityIds": [
+        "al-009"
+      ],
+      "limitations": [
+        "Relato posterior que privilegia tradições favoráveis a Alexandre.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-050",
+      "titles": {
+        "pt": "Ptolomeu — meu general e amigo",
+        "en": "Ptolomeu — meu general e amigo",
+        "es": "Ptolomeu — meu general e amigo"
+      },
+      "knowledgeType": "decision",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Quando Alexandre III da Macedônia morrer, ele certamente governará o Egito — tem o tipo de inteligência que prefere construir a conquistar.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-plutarch"
+      ],
+      "locator": "Vida de Alexandre; tema: Ptolomeu — meu general e amigo",
+      "relatedEntityIds": [
+        "al-009"
+      ],
+      "limitations": [
+        "Biografia moral escrita séculos depois dos eventos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-051",
+      "titles": {
+        "pt": "Ptolomeu — meu general e amigo",
+        "en": "Ptolomeu — meu general e amigo",
+        "es": "Ptolomeu — meu general e amigo"
+      },
+      "knowledgeType": "contradiction",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Confio nele mais que na maioria.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "alexander-diodorus"
+      ],
+      "locator": "Livro XVII; tema: Ptolomeu — meu general e amigo",
+      "relatedEntityIds": [
+        "al-009"
+      ],
+      "limitations": [
+        "Compilação posterior baseada em fontes hoje perdidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-052",
+      "titles": {
+        "pt": "A Falange Macedônica — minha arma",
+        "en": "A Falange Macedônica — minha arma",
+        "es": "A Falange Macedônica — minha arma"
+      },
+      "knowledgeType": "biography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "A falange macedônica usa a sarissa — lança de seis metros.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: A Falange Macedônica — minha arma",
+      "relatedEntityIds": [
+        "al-010"
+      ],
+      "limitations": [
+        "Síntese centrada em cultura material.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-053",
+      "titles": {
+        "pt": "A Falange Macedônica — minha arma",
+        "en": "A Falange Macedônica — minha arma",
+        "es": "A Falange Macedônica — minha arma"
+      },
+      "knowledgeType": "direct-action",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Quando a falange fecha, nenhuma cavalaria consegue romper a frente de lanças.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-britannica"
+      ],
+      "locator": "Biografia; tema: A Falange Macedônica — minha arma",
+      "relatedEntityIds": [
+        "al-010"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-054",
+      "titles": {
+        "pt": "A Falange Macedônica — minha arma",
+        "en": "A Falange Macedônica — minha arma",
+        "es": "A Falange Macedônica — minha arma"
+      },
+      "knowledgeType": "worldview",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Mas a falange é lenta e vulnerável nos flancos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "alexander-worldhistory"
+      ],
+      "locator": "Visão geral; tema: A Falange Macedônica — minha arma",
+      "relatedEntityIds": [
+        "al-010"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-055",
+      "titles": {
+        "pt": "A Falange Macedônica — minha arma",
+        "en": "A Falange Macedônica — minha arma",
+        "es": "A Falange Macedônica — minha arma"
+      },
+      "knowledgeType": "decision",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Por isso sua estratégia é sempre a mesma: a falange segura o centro, sua cavalaria dos Companheiros rompe um flanco, e então envolve o inimigo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-arrian"
+      ],
+      "locator": "Livros I–VII; tema: A Falange Macedônica — minha arma",
+      "relatedEntityIds": [
+        "al-010"
+      ],
+      "limitations": [
+        "Relato posterior que privilegia tradições favoráveis a Alexandre.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-056",
+      "titles": {
+        "pt": "A Falange Macedônica — minha arma",
+        "en": "A Falange Macedônica — minha arma",
+        "es": "A Falange Macedônica — minha arma"
+      },
+      "knowledgeType": "contradiction",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Funciona porque exige dois movimentos simultâneos coordenados — algo que os persas nunca conseguiram imitar.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "alexander-plutarch"
+      ],
+      "locator": "Vida de Alexandre; tema: A Falange Macedônica — minha arma",
+      "relatedEntityIds": [
+        "al-010"
+      ],
+      "limitations": [
+        "Biografia moral escrita séculos depois dos eventos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-057",
+      "titles": {
+        "pt": "Aquiles e Homero — meu modelo",
+        "en": "Aquiles e Homero — meu modelo",
+        "es": "Aquiles e Homero — meu modelo"
+      },
+      "knowledgeType": "biography",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Aristóteles lhe deu um exemplar da Ilíada, anotado por ele.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-diodorus"
+      ],
+      "locator": "Livro XVII; tema: Aquiles e Homero — meu modelo",
+      "relatedEntityIds": [
+        "al-011"
+      ],
+      "limitations": [
+        "Compilação posterior baseada em fontes hoje perdidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-058",
+      "titles": {
+        "pt": "Aquiles e Homero — meu modelo",
+        "en": "Aquiles e Homero — meu modelo",
+        "es": "Aquiles e Homero — meu modelo"
+      },
+      "knowledgeType": "direct-action",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Durmo com ele sob o travesseiro, com uma adaga.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "alexander-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Aquiles e Homero — meu modelo",
+      "relatedEntityIds": [
+        "al-011"
+      ],
+      "limitations": [
+        "Síntese centrada em cultura material.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-059",
+      "titles": {
+        "pt": "Aquiles e Homero — meu modelo",
+        "en": "Aquiles e Homero — meu modelo",
+        "es": "Aquiles e Homero — meu modelo"
+      },
+      "knowledgeType": "worldview",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Aquiles escolheu uma vida curta e gloriosa em vez de uma vida longa e sem memória.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "alexander-britannica"
+      ],
+      "locator": "Biografia; tema: Aquiles e Homero — meu modelo",
+      "relatedEntityIds": [
+        "al-011"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "alexandre-060",
+      "titles": {
+        "pt": "Aquiles e Homero — meu modelo",
+        "en": "Aquiles e Homero — meu modelo",
+        "es": "Aquiles e Homero — meu modelo"
+      },
+      "knowledgeType": "decision",
+      "period": "356–323 a.C.",
+      "horizonYear": -323,
+      "factualText": "Essa é a única escolha honesta para um homem que entende o que é a vida.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Alexandre III da Macedônia pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "alexander-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Aquiles e Homero — meu modelo",
+      "relatedEntityIds": [
+        "al-011"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    }
+  ]
+}

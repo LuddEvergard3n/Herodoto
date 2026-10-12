@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "runtime": "@huggingface/transformers@4.3.1",
+  "lastReviewed": "2026-10-12",
+  "models": {
+    "lite": {
+      "id": "onnx-community/SmolLM2-135M-Instruct-ONNX",
+      "revision": "b8a5c0f183b78c55955a5364f610c36668b5e681",
+      "artifact": "onnx/model_q4f16.onnx",
+      "sizeBytes": 117266133,
+      "sha256": "f8737a66e16f03e7408d06a35728dbaf25905d2c44ee1023b4ed9889a44b1ca9",
+      "license": "Apache-2.0",
+      "device": "webgpu",
+      "dtype": "q4f16",
+      "automatic": true,
+      "minimumStorageBytes": 367001600,
+      "recommendedMemoryGb": 4
+    },
+    "enhanced": {
+      "id": "onnx-community/Qwen2.5-0.5B-Instruct-ONNX",
+      "revision": "4b32b4541cf2de9d0c0a85125e8fe8d9943f7982",
+      "artifact": "onnx/model_q4f16.onnx",
+      "sizeBytes": 483003582,
+      "sha256": "6c3a5ea9ac140e4830ed2f5a12f8c20c387e7099b1a04be8d0ad3deb2294aa1d",
+      "license": "Apache-2.0",
+      "device": "webgpu",
+      "dtype": "q4f16",
+      "automatic": false,
+      "minimumStorageBytes": 1073741824,
+      "recommendedMemoryGb": 8
+    }
+  }
+}

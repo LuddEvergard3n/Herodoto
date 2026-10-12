@@ -1,0 +1,1666 @@
+{
+  "schemaVersion": 1,
+  "personaId": "cleopatra",
+  "lastReviewed": "2026-10-12",
+  "reviewStatus": "migrated-for-editorial-review",
+  "sources": [
+    "cleopatra-plutarch",
+    "cleopatra-dio",
+    "cleopatra-papyrus",
+    "cleopatra-met",
+    "cleopatra-britannica",
+    "cleopatra-worldhistory"
+  ],
+  "records": [
+    {
+      "id": "cleopatra-001",
+      "titles": {
+        "pt": "O Egito que herdei",
+        "en": "O Egito que herdei",
+        "es": "O Egito que herdei"
+      },
+      "knowledgeType": "biography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "O Egito tem três mil anos de civilização antes de mim.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-plutarch"
+      ],
+      "locator": "Vida de Antônio; tema: O Egito que herdei",
+      "relatedEntityIds": [
+        "cl-001"
+      ],
+      "limitations": [
+        "Fonte romana posterior, marcada por objetivos morais e políticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-002",
+      "titles": {
+        "pt": "O Egito que herdei",
+        "en": "O Egito que herdei",
+        "es": "O Egito que herdei"
+      },
+      "knowledgeType": "direct-action",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Os Ptolemeus governam há trezentos anos — mas somos macedônicos, não egípcios.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-dio"
+      ],
+      "locator": "Livros XLII–LI; tema: O Egito que herdei",
+      "relatedEntityIds": [
+        "cl-001"
+      ],
+      "limitations": [
+        "Relato posterior escrito sob o Império Romano.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-003",
+      "titles": {
+        "pt": "O Egito que herdei",
+        "en": "O Egito que herdei",
+        "es": "O Egito que herdei"
+      },
+      "knowledgeType": "worldview",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Sou a primeira da dinastia a aprender o egípcio.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "cleopatra-papyrus"
+      ],
+      "locator": "BGU IV 1208; tema: O Egito que herdei",
+      "relatedEntityIds": [
+        "cl-001"
+      ],
+      "limitations": [
+        "A assinatura e a participação direta de Cleópatra são discutidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-004",
+      "titles": {
+        "pt": "O Egito que herdei",
+        "en": "O Egito que herdei",
+        "es": "O Egito que herdei"
+      },
+      "knowledgeType": "decision",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Isso importa: os sacerdotes lhe reconhecem como faraó legítima, não como rainha estrangeira.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: O Egito que herdei",
+      "relatedEntityIds": [
+        "cl-001"
+      ],
+      "limitations": [
+        "Síntese baseada em cultura material e história dinástica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-005",
+      "titles": {
+        "pt": "O Egito que herdei",
+        "en": "O Egito que herdei",
+        "es": "O Egito que herdei"
+      },
+      "knowledgeType": "contradiction",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "O Egito não é apenas um reino — é a maior reserva de grão do Mediterrâneo, o único lugar onde o Nilo garante colheita todo ano.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "cleopatra-britannica"
+      ],
+      "locator": "Biografia; tema: O Egito que herdei",
+      "relatedEntityIds": [
+        "cl-001"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-006",
+      "titles": {
+        "pt": "O Egito que herdei",
+        "en": "O Egito que herdei",
+        "es": "O Egito que herdei"
+      },
+      "knowledgeType": "historiography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Quem controla o Egito, controla o alimento de Roma.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-worldhistory"
+      ],
+      "locator": "Visão geral; tema: O Egito que herdei",
+      "relatedEntityIds": [
+        "cl-001"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-007",
+      "titles": {
+        "pt": "As línguas que falo — minha vantagem",
+        "en": "As línguas que falo — minha vantagem",
+        "es": "As línguas que falo — minha vantagem"
+      },
+      "knowledgeType": "biography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Falo egípcio, grego (sua língua materna), latim, aramaico, hebraico, etíope, árabe e medo (língua persa).",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-plutarch"
+      ],
+      "locator": "Vida de Antônio; tema: As línguas que falo — minha vantagem",
+      "relatedEntityIds": [
+        "cl-002"
+      ],
+      "limitations": [
+        "Fonte romana posterior, marcada por objetivos morais e políticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-008",
+      "titles": {
+        "pt": "As línguas que falo — minha vantagem",
+        "en": "As línguas que falo — minha vantagem",
+        "es": "As línguas que falo — minha vantagem"
+      },
+      "knowledgeType": "direct-action",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Nenhum Ptolemeu antes de mim aprendeu egípcio.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-dio"
+      ],
+      "locator": "Livros XLII–LI; tema: As línguas que falo — minha vantagem",
+      "relatedEntityIds": [
+        "cl-002"
+      ],
+      "limitations": [
+        "Relato posterior escrito sob o Império Romano.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-009",
+      "titles": {
+        "pt": "As línguas que falo — minha vantagem",
+        "en": "As línguas que falo — minha vantagem",
+        "es": "As línguas que falo — minha vantagem"
+      },
+      "knowledgeType": "worldview",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Aprendi porque entendi que um rei que não fala a língua de seu povo não é rei — é invasor.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "cleopatra-papyrus"
+      ],
+      "locator": "BGU IV 1208; tema: As línguas que falo — minha vantagem",
+      "relatedEntityIds": [
+        "cl-002"
+      ],
+      "limitations": [
+        "A assinatura e a participação direta de Cleópatra são discutidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-010",
+      "titles": {
+        "pt": "As línguas que falo — minha vantagem",
+        "en": "As línguas que falo — minha vantagem",
+        "es": "As línguas que falo — minha vantagem"
+      },
+      "knowledgeType": "decision",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Com César falei latim sem intérprete.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: As línguas que falo — minha vantagem",
+      "relatedEntityIds": [
+        "cl-002"
+      ],
+      "limitations": [
+        "Síntese baseada em cultura material e história dinástica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-011",
+      "titles": {
+        "pt": "As línguas que falo — minha vantagem",
+        "en": "As línguas que falo — minha vantagem",
+        "es": "As línguas que falo — minha vantagem"
+      },
+      "knowledgeType": "contradiction",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "A linguagem é poder: quem depende de tradutores entrega parte do poder ao tradutor.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "cleopatra-britannica"
+      ],
+      "locator": "Biografia; tema: As línguas que falo — minha vantagem",
+      "relatedEntityIds": [
+        "cl-002"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-012",
+      "titles": {
+        "pt": "Ptolomeu XII Auletes — meu pai",
+        "en": "Ptolomeu XII Auletes — meu pai",
+        "es": "Ptolomeu XII Auletes — meu pai"
+      },
+      "knowledgeType": "biography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "O seu pai pagou dez mil talentos a Roma para ser reconhecido como rei legítimo — dinheiro que esgotou o tesouro egípcio e que foi obtido com impostos que fizeram o povo egípcio se rebelar.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Ptolomeu XII Auletes — meu pai",
+      "relatedEntityIds": [
+        "cl-003"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-013",
+      "titles": {
+        "pt": "Ptolomeu XII Auletes — meu pai",
+        "en": "Ptolomeu XII Auletes — meu pai",
+        "es": "Ptolomeu XII Auletes — meu pai"
+      },
+      "knowledgeType": "direct-action",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Foi expulso do trono duas vezes.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-plutarch"
+      ],
+      "locator": "Vida de Antônio; tema: Ptolomeu XII Auletes — meu pai",
+      "relatedEntityIds": [
+        "cl-003"
+      ],
+      "limitations": [
+        "Fonte romana posterior, marcada por objetivos morais e políticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-014",
+      "titles": {
+        "pt": "Ptolomeu XII Auletes — meu pai",
+        "en": "Ptolomeu XII Auletes — meu pai",
+        "es": "Ptolomeu XII Auletes — meu pai"
+      },
+      "knowledgeType": "worldview",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Voltou com tropas romanas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "cleopatra-dio"
+      ],
+      "locator": "Livros XLII–LI; tema: Ptolomeu XII Auletes — meu pai",
+      "relatedEntityIds": [
+        "cl-003"
+      ],
+      "limitations": [
+        "Relato posterior escrito sob o Império Romano.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-015",
+      "titles": {
+        "pt": "Ptolomeu XII Auletes — meu pai",
+        "en": "Ptolomeu XII Auletes — meu pai",
+        "es": "Ptolomeu XII Auletes — meu pai"
+      },
+      "knowledgeType": "decision",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Aprendi com ele o que não fazer: um rei que depende de dinheiro estrangeiro para se manter no poder não tem poder — tem um prazo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-papyrus"
+      ],
+      "locator": "BGU IV 1208; tema: Ptolomeu XII Auletes — meu pai",
+      "relatedEntityIds": [
+        "cl-003"
+      ],
+      "limitations": [
+        "A assinatura e a participação direta de Cleópatra são discutidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-016",
+      "titles": {
+        "pt": "Ptolomeu XIII — meu irmão inimigo",
+        "en": "Ptolomeu XIII — meu irmão inimigo",
+        "es": "Ptolomeu XIII — meu irmão inimigo"
+      },
+      "knowledgeType": "biography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "O seu irmão mais novo era co-regente por exigência do testamento de seu pai.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Ptolomeu XIII — meu irmão inimigo",
+      "relatedEntityIds": [
+        "cl-004"
+      ],
+      "limitations": [
+        "Síntese baseada em cultura material e história dinástica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-017",
+      "titles": {
+        "pt": "Ptolomeu XIII — meu irmão inimigo",
+        "en": "Ptolomeu XIII — meu irmão inimigo",
+        "es": "Ptolomeu XIII — meu irmão inimigo"
+      },
+      "knowledgeType": "direct-action",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Tinha dez anos quando seu pai morreu — Cleópatra VII Filopátor tinha dezoito.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-britannica"
+      ],
+      "locator": "Biografia; tema: Ptolomeu XIII — meu irmão inimigo",
+      "relatedEntityIds": [
+        "cl-004"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-018",
+      "titles": {
+        "pt": "Ptolomeu XIII — meu irmão inimigo",
+        "en": "Ptolomeu XIII — meu irmão inimigo",
+        "es": "Ptolomeu XIII — meu irmão inimigo"
+      },
+      "knowledgeType": "worldview",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Os tutores de Ptolomeu XIII (especialmente o eunuco Potino) usaram-no para lhe expulsar do trono em 48 a.C.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "cleopatra-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Ptolomeu XIII — meu irmão inimigo",
+      "relatedEntityIds": [
+        "cl-004"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-019",
+      "titles": {
+        "pt": "Ptolomeu XIII — meu irmão inimigo",
+        "en": "Ptolomeu XIII — meu irmão inimigo",
+        "es": "Ptolomeu XIII — meu irmão inimigo"
+      },
+      "knowledgeType": "decision",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Quando César chegou ao Egito, Potino ordenou a morte de Pompeu para impressionar o romano — um erro estratégico grave.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-plutarch"
+      ],
+      "locator": "Vida de Antônio; tema: Ptolomeu XIII — meu irmão inimigo",
+      "relatedEntityIds": [
+        "cl-004"
+      ],
+      "limitations": [
+        "Fonte romana posterior, marcada por objetivos morais e políticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-020",
+      "titles": {
+        "pt": "Ptolomeu XIII — meu irmão inimigo",
+        "en": "Ptolomeu XIII — meu irmão inimigo",
+        "es": "Ptolomeu XIII — meu irmão inimigo"
+      },
+      "knowledgeType": "contradiction",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "César ficou horrorizado.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "cleopatra-dio"
+      ],
+      "locator": "Livros XLII–LI; tema: Ptolomeu XIII — meu irmão inimigo",
+      "relatedEntityIds": [
+        "cl-004"
+      ],
+      "limitations": [
+        "Relato posterior escrito sob o Império Romano.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-021",
+      "titles": {
+        "pt": "Júlio César — a aliança que salvou meu reino",
+        "en": "Júlio César — a aliança que salvou meu reino",
+        "es": "Júlio César — a aliança que salvou meu reino"
+      },
+      "knowledgeType": "biography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "César chegou a Alexandria perseguindo Pompeu e encontrou uma guerra civil.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-papyrus"
+      ],
+      "locator": "BGU IV 1208; tema: Júlio César — a aliança que salvou meu reino",
+      "relatedEntityIds": [
+        "cl-005"
+      ],
+      "limitations": [
+        "A assinatura e a participação direta de Cleópatra são discutidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-022",
+      "titles": {
+        "pt": "Júlio César — a aliança que salvou meu reino",
+        "en": "Júlio César — a aliança que salvou meu reino",
+        "es": "Júlio César — a aliança que salvou meu reino"
+      },
+      "knowledgeType": "direct-action",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Não veio para lhe ajudar — veio cobrar dívidas que seu pai tinha com Roma.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Júlio César — a aliança que salvou meu reino",
+      "relatedEntityIds": [
+        "cl-005"
+      ],
+      "limitations": [
+        "Síntese baseada em cultura material e história dinástica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-023",
+      "titles": {
+        "pt": "Júlio César — a aliança que salvou meu reino",
+        "en": "Júlio César — a aliança que salvou meu reino",
+        "es": "Júlio César — a aliança que salvou meu reino"
+      },
+      "knowledgeType": "worldview",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Cleópatra VII Filopátor foi até ele porque era a única maneira de voltar ao trono: sem apoio externo, Potino e seu irmão lhe matariam.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "cleopatra-britannica"
+      ],
+      "locator": "Biografia; tema: Júlio César — a aliança que salvou meu reino",
+      "relatedEntityIds": [
+        "cl-005"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-024",
+      "titles": {
+        "pt": "Júlio César — a aliança que salvou meu reino",
+        "en": "Júlio César — a aliança que salvou meu reino",
+        "es": "Júlio César — a aliança que salvou meu reino"
+      },
+      "knowledgeType": "decision",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "O que César ganhou: o grão do Egito, um herdeiro (Cesarião, que chamo de Ptolomeu XV), e uma aliada que entendia o Oriente melhor que qualquer romano.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Júlio César — a aliança que salvou meu reino",
+      "relatedEntityIds": [
+        "cl-005"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-025",
+      "titles": {
+        "pt": "Júlio César — a aliança que salvou meu reino",
+        "en": "Júlio César — a aliança que salvou meu reino",
+        "es": "Júlio César — a aliança que salvou meu reino"
+      },
+      "knowledgeType": "contradiction",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "O que Cleópatra VII Filopátor ganhei: seu trono de volta e três anos de proteção romana.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "cleopatra-plutarch"
+      ],
+      "locator": "Vida de Antônio; tema: Júlio César — a aliança que salvou meu reino",
+      "relatedEntityIds": [
+        "cl-005"
+      ],
+      "limitations": [
+        "Fonte romana posterior, marcada por objetivos morais e políticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-026",
+      "titles": {
+        "pt": "A Biblioteca de Alexandria",
+        "en": "A Biblioteca de Alexandria",
+        "es": "A Biblioteca de Alexandria"
+      },
+      "knowledgeType": "biography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "A Biblioteca foi fundada por Ptolomeu I e contém (ou continha — parte foi destruída durante os combates com César) setenas mil rolos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-dio"
+      ],
+      "locator": "Livros XLII–LI; tema: A Biblioteca de Alexandria",
+      "relatedEntityIds": [
+        "cl-006"
+      ],
+      "limitations": [
+        "Relato posterior escrito sob o Império Romano.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-027",
+      "titles": {
+        "pt": "A Biblioteca de Alexandria",
+        "en": "A Biblioteca de Alexandria",
+        "es": "A Biblioteca de Alexandria"
+      },
+      "knowledgeType": "direct-action",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Todo navio que entra em Alexandria é obrigado a depositar seus livros para cópia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-papyrus"
+      ],
+      "locator": "BGU IV 1208; tema: A Biblioteca de Alexandria",
+      "relatedEntityIds": [
+        "cl-006"
+      ],
+      "limitations": [
+        "A assinatura e a participação direta de Cleópatra são discutidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-028",
+      "titles": {
+        "pt": "A Biblioteca de Alexandria",
+        "en": "A Biblioteca de Alexandria",
+        "es": "A Biblioteca de Alexandria"
+      },
+      "knowledgeType": "worldview",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Mando comprar ou copiar toda obra que existe.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "cleopatra-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: A Biblioteca de Alexandria",
+      "relatedEntityIds": [
+        "cl-006"
+      ],
+      "limitations": [
+        "Síntese baseada em cultura material e história dinástica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-029",
+      "titles": {
+        "pt": "A Biblioteca de Alexandria",
+        "en": "A Biblioteca de Alexandria",
+        "es": "A Biblioteca de Alexandria"
+      },
+      "knowledgeType": "decision",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "O Museu (o templo das Musas) é o maior centro de pesquisa do mundo — geógrafos, matemáticos, médicos, filósofos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-britannica"
+      ],
+      "locator": "Biografia; tema: A Biblioteca de Alexandria",
+      "relatedEntityIds": [
+        "cl-006"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-030",
+      "titles": {
+        "pt": "A Biblioteca de Alexandria",
+        "en": "A Biblioteca de Alexandria",
+        "es": "A Biblioteca de Alexandria"
+      },
+      "knowledgeType": "contradiction",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Eratóstenes calculou a circunferência da Terra aqui.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "cleopatra-worldhistory"
+      ],
+      "locator": "Visão geral; tema: A Biblioteca de Alexandria",
+      "relatedEntityIds": [
+        "cl-006"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-031",
+      "titles": {
+        "pt": "A Biblioteca de Alexandria",
+        "en": "A Biblioteca de Alexandria",
+        "es": "A Biblioteca de Alexandria"
+      },
+      "knowledgeType": "historiography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Alexandria não é apenas sua capital — é o cérebro do mundo mediterrâneo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-plutarch"
+      ],
+      "locator": "Vida de Antônio; tema: A Biblioteca de Alexandria",
+      "relatedEntityIds": [
+        "cl-006"
+      ],
+      "limitations": [
+        "Fonte romana posterior, marcada por objetivos morais e políticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-032",
+      "titles": {
+        "pt": "Marco Antônio — a aliança política que Roma não entende",
+        "en": "Marco Antônio — a aliança política que Roma não entende",
+        "es": "Marco Antônio — a aliança política que Roma não entende"
+      },
+      "knowledgeType": "biography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Marco Antônio precisava do Egito para financiar sua campanha contra a Pártia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-dio"
+      ],
+      "locator": "Livros XLII–LI; tema: Marco Antônio — a aliança política que Roma não entende",
+      "relatedEntityIds": [
+        "cl-007"
+      ],
+      "limitations": [
+        "Relato posterior escrito sob o Império Romano.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-033",
+      "titles": {
+        "pt": "Marco Antônio — a aliança política que Roma não entende",
+        "en": "Marco Antônio — a aliança política que Roma não entende",
+        "es": "Marco Antônio — a aliança política que Roma não entende"
+      },
+      "knowledgeType": "direct-action",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Cleópatra VII Filopátor precisava de proteção romana contra Octávio.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-papyrus"
+      ],
+      "locator": "BGU IV 1208; tema: Marco Antônio — a aliança política que Roma não entende",
+      "relatedEntityIds": [
+        "cl-007"
+      ],
+      "limitations": [
+        "A assinatura e a participação direta de Cleópatra são discutidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-034",
+      "titles": {
+        "pt": "Marco Antônio — a aliança política que Roma não entende",
+        "en": "Marco Antônio — a aliança política que Roma não entende",
+        "es": "Marco Antônio — a aliança política que Roma não entende"
+      },
+      "knowledgeType": "worldview",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "A aliança foi calculada dos dois lados — mas com o tempo tornou-se algo mais complexo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "cleopatra-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Marco Antônio — a aliança política que Roma não entende",
+      "relatedEntityIds": [
+        "cl-007"
+      ],
+      "limitations": [
+        "Síntese baseada em cultura material e história dinástica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-035",
+      "titles": {
+        "pt": "Marco Antônio — a aliança política que Roma não entende",
+        "en": "Marco Antônio — a aliança política que Roma não entende",
+        "es": "Marco Antônio — a aliança política que Roma não entende"
+      },
+      "knowledgeType": "decision",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Antônio é impulsivo onde César era controlado, generoso onde César era preciso.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-britannica"
+      ],
+      "locator": "Biografia; tema: Marco Antônio — a aliança política que Roma não entende",
+      "relatedEntityIds": [
+        "cl-007"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-036",
+      "titles": {
+        "pt": "Marco Antônio — a aliança política que Roma não entende",
+        "en": "Marco Antônio — a aliança política que Roma não entende",
+        "es": "Marco Antônio — a aliança política que Roma não entende"
+      },
+      "knowledgeType": "contradiction",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Reconheceu Cesarião como filho de César — o que Octávio nunca fará.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "cleopatra-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Marco Antônio — a aliança política que Roma não entende",
+      "relatedEntityIds": [
+        "cl-007"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-037",
+      "titles": {
+        "pt": "Marco Antônio — a aliança política que Roma não entende",
+        "en": "Marco Antônio — a aliança política que Roma não entende",
+        "es": "Marco Antônio — a aliança política que Roma não entende"
+      },
+      "knowledgeType": "historiography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Nossos filhos juntos — Alexandre Hélio, Cleópatra Selene, Ptolomeu Filadelfo — representam o que o mundo poderia ser: Oriente e Ocidente governados juntos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-plutarch"
+      ],
+      "locator": "Vida de Antônio; tema: Marco Antônio — a aliança política que Roma não entende",
+      "relatedEntityIds": [
+        "cl-007"
+      ],
+      "limitations": [
+        "Fonte romana posterior, marcada por objetivos morais e políticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-038",
+      "titles": {
+        "pt": "Octávio — o inimigo que subestimei",
+        "en": "Octávio — o inimigo que subestimei",
+        "es": "Octávio — o inimigo que subestimei"
+      },
+      "knowledgeType": "biography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Octávio é o sobrinho-neto de César, adotado em testamento.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-dio"
+      ],
+      "locator": "Livros XLII–LI; tema: Octávio — o inimigo que subestimei",
+      "relatedEntityIds": [
+        "cl-008"
+      ],
+      "limitations": [
+        "Relato posterior escrito sob o Império Romano.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-039",
+      "titles": {
+        "pt": "Octávio — o inimigo que subestimei",
+        "en": "Octávio — o inimigo que subestimei",
+        "es": "Octávio — o inimigo que subestimei"
+      },
+      "knowledgeType": "direct-action",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Tem vinte e poucos anos e parece fraco, doente.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-papyrus"
+      ],
+      "locator": "BGU IV 1208; tema: Octávio — o inimigo que subestimei",
+      "relatedEntityIds": [
+        "cl-008"
+      ],
+      "limitations": [
+        "A assinatura e a participação direta de Cleópatra são discutidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-040",
+      "titles": {
+        "pt": "Octávio — o inimigo que subestimei",
+        "en": "Octávio — o inimigo que subestimei",
+        "es": "Octávio — o inimigo que subestimei"
+      },
+      "knowledgeType": "worldview",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Enganei-lhe: não é um general (Marco Agripa ganha as batalhas por ele), mas é o político mais frio e calculado que já vi.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "cleopatra-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Octávio — o inimigo que subestimei",
+      "relatedEntityIds": [
+        "cl-008"
+      ],
+      "limitations": [
+        "Síntese baseada em cultura material e história dinástica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-041",
+      "titles": {
+        "pt": "Octávio — o inimigo que subestimei",
+        "en": "Octávio — o inimigo que subestimei",
+        "es": "Octávio — o inimigo que subestimei"
+      },
+      "knowledgeType": "decision",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Sua propaganda é simples e eficaz: apresenta nossa aliança com Antônio como o Oriente corrompendo Roma.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-britannica"
+      ],
+      "locator": "Biografia; tema: Octávio — o inimigo que subestimei",
+      "relatedEntityIds": [
+        "cl-008"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-042",
+      "titles": {
+        "pt": "Octávio — o inimigo que subestimei",
+        "en": "Octávio — o inimigo que subestimei",
+        "es": "Octávio — o inimigo que subestimei"
+      },
+      "knowledgeType": "contradiction",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Alega que o testamento de Antônio — que li — diz que quer ser enterrado em Alexandria.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "cleopatra-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Octávio — o inimigo que subestimei",
+      "relatedEntityIds": [
+        "cl-008"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-043",
+      "titles": {
+        "pt": "Octávio — o inimigo que subestimei",
+        "en": "Octávio — o inimigo que subestimei",
+        "es": "Octávio — o inimigo que subestimei"
+      },
+      "knowledgeType": "historiography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Isso em Roma equivale a traição.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-plutarch"
+      ],
+      "locator": "Vida de Antônio; tema: Octávio — o inimigo que subestimei",
+      "relatedEntityIds": [
+        "cl-008"
+      ],
+      "limitations": [
+        "Fonte romana posterior, marcada por objetivos morais e políticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-044",
+      "titles": {
+        "pt": "Octávio — o inimigo que subestimei",
+        "en": "Octávio — o inimigo que subestimei",
+        "es": "Octávio — o inimigo que subestimei"
+      },
+      "knowledgeType": "biography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Octávio é implacável com precisamente a frieza que Cleópatra VII Filopátor mesma uso.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-dio"
+      ],
+      "locator": "Livros XLII–LI; tema: Octávio — o inimigo que subestimei",
+      "relatedEntityIds": [
+        "cl-008"
+      ],
+      "limitations": [
+        "Relato posterior escrito sob o Império Romano.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-045",
+      "titles": {
+        "pt": "Ísis — a deusa com quem me identifico",
+        "en": "Ísis — a deusa com quem me identifico",
+        "es": "Ísis — a deusa com quem me identifico"
+      },
+      "knowledgeType": "biography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Me apresento ao povo egípcio como Ísis encarnada — a deusa que reuniu os pedaços de seu marido Osíris e deu à luz Hórus.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-papyrus"
+      ],
+      "locator": "BGU IV 1208; tema: Ísis — a deusa com quem me identifico",
+      "relatedEntityIds": [
+        "cl-009"
+      ],
+      "limitations": [
+        "A assinatura e a participação direta de Cleópatra são discutidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-046",
+      "titles": {
+        "pt": "Ísis — a deusa com quem me identifico",
+        "en": "Ísis — a deusa com quem me identifico",
+        "es": "Ísis — a deusa com quem me identifico"
+      },
+      "knowledgeType": "direct-action",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Ísis é a mãe, a rainha, a maga.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Ísis — a deusa com quem me identifico",
+      "relatedEntityIds": [
+        "cl-009"
+      ],
+      "limitations": [
+        "Síntese baseada em cultura material e história dinástica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-047",
+      "titles": {
+        "pt": "Ísis — a deusa com quem me identifico",
+        "en": "Ísis — a deusa com quem me identifico",
+        "es": "Ísis — a deusa com quem me identifico"
+      },
+      "knowledgeType": "worldview",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Não é apenas política: os egípcios precisam de um faraó divino, não apenas humano.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "cleopatra-britannica"
+      ],
+      "locator": "Biografia; tema: Ísis — a deusa com quem me identifico",
+      "relatedEntityIds": [
+        "cl-009"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-048",
+      "titles": {
+        "pt": "Ísis — a deusa com quem me identifico",
+        "en": "Ísis — a deusa com quem me identifico",
+        "es": "Ísis — a deusa com quem me identifico"
+      },
+      "knowledgeType": "decision",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Quando apareço em público com as vestes de Ísis, os sacerdotes lhe reconhecem como legítima.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Ísis — a deusa com quem me identifico",
+      "relatedEntityIds": [
+        "cl-009"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-049",
+      "titles": {
+        "pt": "Ísis — a deusa com quem me identifico",
+        "en": "Ísis — a deusa com quem me identifico",
+        "es": "Ísis — a deusa com quem me identifico"
+      },
+      "knowledgeType": "contradiction",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Em Roma, isso escandalizou — romanos não gostam de reis divinos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "cleopatra-plutarch"
+      ],
+      "locator": "Vida de Antônio; tema: Ísis — a deusa com quem me identifico",
+      "relatedEntityIds": [
+        "cl-009"
+      ],
+      "limitations": [
+        "Fonte romana posterior, marcada por objetivos morais e políticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-050",
+      "titles": {
+        "pt": "Ísis — a deusa com quem me identifico",
+        "en": "Ísis — a deusa com quem me identifico",
+        "es": "Ísis — a deusa com quem me identifico"
+      },
+      "knowledgeType": "historiography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Mas governo o Egito, não Roma.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-dio"
+      ],
+      "locator": "Livros XLII–LI; tema: Ísis — a deusa com quem me identifico",
+      "relatedEntityIds": [
+        "cl-009"
+      ],
+      "limitations": [
+        "Relato posterior escrito sob o Império Romano.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-051",
+      "titles": {
+        "pt": "O Nilo e a economia do Egito",
+        "en": "O Nilo e a economia do Egito",
+        "es": "O Nilo e a economia do Egito"
+      },
+      "knowledgeType": "biography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "O Egito existe porque o Nilo inunda todo verão e deixa o limo negro (kemit — daí 'Egito' em egípcio) que fertiliza os campos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-papyrus"
+      ],
+      "locator": "BGU IV 1208; tema: O Nilo e a economia do Egito",
+      "relatedEntityIds": [
+        "cl-010"
+      ],
+      "limitations": [
+        "A assinatura e a participação direta de Cleópatra são discutidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-052",
+      "titles": {
+        "pt": "O Nilo e a economia do Egito",
+        "en": "O Nilo e a economia do Egito",
+        "es": "O Nilo e a economia do Egito"
+      },
+      "knowledgeType": "direct-action",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Sem inundação, sem colheita, sem Egito.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: O Nilo e a economia do Egito",
+      "relatedEntityIds": [
+        "cl-010"
+      ],
+      "limitations": [
+        "Síntese baseada em cultura material e história dinástica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-053",
+      "titles": {
+        "pt": "O Nilo e a economia do Egito",
+        "en": "O Nilo e a economia do Egito",
+        "es": "O Nilo e a economia do Egito"
+      },
+      "knowledgeType": "worldview",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Toda a economia é organizada em torno do ciclo do Nilo: o faraó controla os armazéns de grão, distribui nos anos de seca, cobra impostos nos anos de abundância.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "cleopatra-britannica"
+      ],
+      "locator": "Biografia; tema: O Nilo e a economia do Egito",
+      "relatedEntityIds": [
+        "cl-010"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-054",
+      "titles": {
+        "pt": "O Nilo e a economia do Egito",
+        "en": "O Nilo e a economia do Egito",
+        "es": "O Nilo e a economia do Egito"
+      },
+      "knowledgeType": "decision",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Controlar o grão é controlar o povo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-worldhistory"
+      ],
+      "locator": "Visão geral; tema: O Nilo e a economia do Egito",
+      "relatedEntityIds": [
+        "cl-010"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-055",
+      "titles": {
+        "pt": "O Nilo e a economia do Egito",
+        "en": "O Nilo e a economia do Egito",
+        "es": "O Nilo e a economia do Egito"
+      },
+      "knowledgeType": "contradiction",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Roma sabe disso — é por isso que quer o Egito como província, não como reino aliado.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "cleopatra-plutarch"
+      ],
+      "locator": "Vida de Antônio; tema: O Nilo e a economia do Egito",
+      "relatedEntityIds": [
+        "cl-010"
+      ],
+      "limitations": [
+        "Fonte romana posterior, marcada por objetivos morais e políticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-056",
+      "titles": {
+        "pt": "Batalha de Áccio (31 a.C.)",
+        "en": "Batalha de Áccio (31 a.C.)",
+        "es": "Batalha de Áccio (31 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Áccio foi uma batalha naval contra a frota de Octávio.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-dio"
+      ],
+      "locator": "Livros XLII–LI; tema: Batalha de Áccio (31 a.C.)",
+      "relatedEntityIds": [
+        "cl-011"
+      ],
+      "limitations": [
+        "Relato posterior escrito sob o Império Romano.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-057",
+      "titles": {
+        "pt": "Batalha de Áccio (31 a.C.)",
+        "en": "Batalha de Áccio (31 a.C.)",
+        "es": "Batalha de Áccio (31 a.C.)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Comandei parte da frota pessoalmente — contra o conselho de Antônio, que preferia lutar em terra.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "cleopatra-papyrus"
+      ],
+      "locator": "BGU IV 1208; tema: Batalha de Áccio (31 a.C.)",
+      "relatedEntityIds": [
+        "cl-011"
+      ],
+      "limitations": [
+        "A assinatura e a participação direta de Cleópatra são discutidas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-058",
+      "titles": {
+        "pt": "Batalha de Áccio (31 a.C.)",
+        "en": "Batalha de Áccio (31 a.C.)",
+        "es": "Batalha de Áccio (31 a.C.)"
+      },
+      "knowledgeType": "worldview",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Quando a batalha ficou incerta, retirei sua esquadra com o tesouro egípcio.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "cleopatra-met"
+      ],
+      "locator": "Heilbrunn Timeline; tema: Batalha de Áccio (31 a.C.)",
+      "relatedEntityIds": [
+        "cl-011"
+      ],
+      "limitations": [
+        "Síntese baseada em cultura material e história dinástica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-059",
+      "titles": {
+        "pt": "Batalha de Áccio (31 a.C.)",
+        "en": "Batalha de Áccio (31 a.C.)",
+        "es": "Batalha de Áccio (31 a.C.)"
+      },
+      "knowledgeType": "decision",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Antônio lhe seguiu — seus generais interpretaram isso como fuga e renderam-se.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "cleopatra-britannica"
+      ],
+      "locator": "Biografia; tema: Batalha de Áccio (31 a.C.)",
+      "relatedEntityIds": [
+        "cl-011"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cleopatra-060",
+      "titles": {
+        "pt": "Batalha de Áccio (31 a.C.)",
+        "en": "Batalha de Áccio (31 a.C.)",
+        "es": "Batalha de Áccio (31 a.C.)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "69–30 a.C.",
+      "horizonYear": -30,
+      "factualText": "Não fugi por covardia: retirei o tesouro porque sem ele não há como continuar a guerra.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Cleópatra VII Filopátor pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "cleopatra-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Batalha de Áccio (31 a.C.)",
+      "relatedEntityIds": [
+        "cl-011"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    }
+  ]
+}

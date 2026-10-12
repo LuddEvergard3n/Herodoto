@@ -1,217 +1,181 @@
 /**
- * Grounded Voices engine. It never needs a generative model and returns the
- * evidence used to compose every answer.
+ * Grounded Voices engine. Historical datasets are evidence; a local model may
+ * only rewrite selected evidence and never becomes a historical source.
  */
-import { PERSONAS as LEGACY_PERSONAS } from './vozes.js';
+import {
+  prepareVoiceRuntime, getVoiceRuntimeStatus, cancelVoiceRuntimePreparation,
+  clearVoiceModelCache, generateWithVoiceRuntime,
+} from './voices-runtime.js';
 
-const CUTOFF_YEARS = Object.freeze({
-  herodoto: -425,
-  aristoteles: -322,
-  alexandre: -323,
-  cesar: -44,
-  cleopatra: -30,
-  pedro2: 1891,
-  luisgama: 1882,
-  vargas: 1954,
-});
-
-const STOPWORDS = new Set([
-  'a','o','as','os','de','da','do','das','dos','e','em','um','uma','que','como',
-  'por','para','com','sem','sobre','foi','era','ser','ter','seu','sua','meu','minha',
-  'the','and','of','to','in','was','were','el','la','los','las','del','con','una',
-]);
-
+const STOPWORDS = new Set(['a','o','as','os','de','da','do','das','dos','e','em','um','uma','que','como','por','para','com','sem','sobre','foi','era','ser','ter','seu','sua','the','and','of','to','in','was','were','el','la','los','las','del','con','una']);
 const OPENINGS = Object.freeze({
-  herodoto: 'Assim recolhi em minhas investigações:',
-  aristoteles: 'É necessário distinguir o que sabemos do que apenas supomos:',
-  alexandre: 'Uma decisão só pode ser julgada diante do terreno e das forças disponíveis:',
-  cesar: 'Examinemos os fatos como quem examina uma campanha:',
-  cleopatra: 'Antes de julgar, é preciso reconhecer os interesses de cada poder:',
-  pedro2: 'Convém que eu seja exato, inclusive sobre as contradições do Império:',
-  luisgama: 'Comecemos pela evidência, pois a lei sem realidade é apenas papel:',
-  vargas: 'A política precisa ser medida por seus efeitos concretos sobre o povo:',
+  herodoto: 'Assim recolhi em minhas investigações:', aristoteles: 'É necessário distinguir o que sabemos do que apenas supomos:',
+  alexandre: 'Uma decisão só pode ser julgada diante do terreno e das forças disponíveis:', cesar: 'Examinemos os fatos como quem examina uma campanha:',
+  cleopatra: 'Antes de julgar, é preciso reconhecer os interesses de cada poder:', pedro2: 'Convém que eu seja exato, inclusive sobre as contradições do Império:',
+  luisgama: 'Comecemos pela evidência, pois a lei sem realidade é apenas papel:', vargas: 'A política precisa ser medida por seus efeitos concretos sobre o povo:',
 });
-
 const CLOSINGS = Object.freeze({
-  herodoto: 'Entre versões e testemunhos, qual explicação te parece mais bem sustentada?',
-  aristoteles: 'Que distinção precisas fazer antes de formular uma conclusão?',
-  alexandre: 'Diante dessas condições, que decisão tomarias?',
-  cesar: 'Qual causa consideras decisiva, e que evidência sustenta teu julgamento?',
-  cleopatra: 'Que acordo seria possível sem ignorar a desigualdade entre os envolvidos?',
-  pedro2: 'Como julgar um regime que produziu realizações e preservou injustiças?',
-  luisgama: 'Agora inverte a perspectiva: como esse fato seria vivido por quem não tinha poder?',
-  vargas: 'Quem ganhou proteção, quem pagou o custo e quem permaneceu sem voz?',
+  herodoto: 'Entre versões e testemunhos, qual explicação te parece mais bem sustentada?', aristoteles: 'Que distinção precisas fazer antes de formular uma conclusão?',
+  alexandre: 'Diante dessas condições, que decisão tomarias?', cesar: 'Qual causa consideras decisiva, e que evidência sustenta teu julgamento?',
+  cleopatra: 'Que acordo seria possível sem ignorar a desigualdade entre os envolvidos?', pedro2: 'Como julgar um regime que produziu realizações e preservou injustiças?',
+  luisgama: 'Agora inverte a perspectiva: como esse fato seria vivido por quem não tinha poder?', vargas: 'Quem ganhou proteção, quem pagou o custo e quem permaneceu sem voz?',
 });
 
-const ANACHRONISM_TERMS = Object.freeze({
-  herodoto: ['internet','cristianismo','roma imperial','brasil','segunda guerra','capitalismo'],
-  aristoteles: ['internet','cristianismo','brasil','segunda guerra','capitalismo'],
-  alexandre: ['internet','cristianismo','brasil','segunda guerra'],
-  cesar: ['internet','brasil','segunda guerra','revolução industrial'],
-  cleopatra: ['internet','brasil','segunda guerra','revolução industrial'],
-  pedro2: ['internet','primeira guerra','segunda guerra','getúlio','ditadura de 1964'],
-  luisgama: ['internet','república velha','getúlio','ditadura de 1964'],
-  vargas: ['internet','ditadura de 1964','constituição de 1988','união europeia'],
-});
-
+let catalogsPromise = null;
 let activePersona = null;
 let evidenceCache = [];
-let semanticClient = null;
+let sourceCatalog = new Map();
 
-export const PERSONAS = LEGACY_PERSONAS.map(persona => ({
-  id: persona.id,
-  name: persona.nome,
-  period: persona.periodo,
-  horizon: persona.horizonte,
-  color: persona.cor,
-  personalDataset: persona.jsonPessoal,
-  contextDatasets: [...persona.jsons],
-  reviewStatus: 'reviewed-v8',
-  lastReviewed: '2026-10-10',
-}));
+const normalize = (value = '') => String(value).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+const tokens = value => normalize(value).split(/[^a-z0-9]+/).filter(token => token.length > 1 && !STOPWORDS.has(token));
 
-function normalize(value = '') {
-  return value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+async function fetchJson(path) {
+  const response = await fetch(path);
+  if (!response.ok) throw new Error(`HTTP ${response.status}: ${path}`);
+  return response.json();
 }
 
-function tokens(value) {
-  return normalize(value).split(/[^a-z0-9]+/).filter(token => token.length > 1 && !STOPWORDS.has(token));
+async function loadCatalogs() {
+  if (!catalogsPromise) {
+    catalogsPromise = Promise.all([fetchJson('data/voices-personas.json'), fetchJson('data/voices-sources.json'), fetchJson('data/voices-retrieval-index.json')])
+      .then(([personas, sources, index]) => ({ personas: personas.personas, sources: sources.sources, chunks: index.chunks }));
+  }
+  return catalogsPromise;
 }
 
-function localized(entity, field, language) {
-  if (language === 'en') return entity[`${field}_en`] || entity[field] || '';
-  if (language === 'es') return entity[`${field}_es`] || entity[field] || '';
-  return entity[field] || '';
-}
+export async function getPersonas() { return (await loadCatalogs()).personas; }
 
-function lexicalScore(entity, queryTokens) {
-  const title = normalize(entity.title);
-  const body = normalize(`${entity.description} ${entity.importance} ${entity.tags.join(' ')}`);
-  return queryTokens.reduce((score, token) => {
-    if (title.includes(token)) score += 4;
-    if (body.includes(token)) score += 1;
-    return score;
-  }, entity.personal ? 2 : 0);
+function lexicalScore(chunk, queryTokens) {
+  const title = normalize(chunk.text.split('.')[0]);
+  const body = normalize(`${chunk.text} ${(chunk.keywords || []).join(' ')}`);
+  return queryTokens.reduce((score, token) => score + (title.includes(token) ? 5 : 0) + (body.includes(token) ? 1 : 0), 0);
 }
 
 function detectIntent(question) {
   const text = normalize(question);
   if (/compar|diferenc|semelh/.test(text)) return 'comparison';
+  if (/critic|contradi|controv/.test(text)) return 'controversy';
   if (/por que|porque|causa|motivo/.test(text)) return 'cause';
   if (/consequ|resultado|efeito/.test(text)) return 'consequence';
   if (/opina|acha|pensa|visao/.test(text)) return 'interpretation';
   return 'explanation';
 }
 
-function detectAnachronism(personaId, question) {
+function detectAnachronism(persona, question) {
   const text = normalize(question);
-  const yearMatches = [...text.matchAll(/\b(\d{3,4})\b/g)].map(match => Number(match[1]));
-  const cutoff = CUTOFF_YEARS[personaId];
-  const laterYear = cutoff > 0 && yearMatches.find(year => year > cutoff);
-  const term = (ANACHRONISM_TERMS[personaId] || []).find(item => text.includes(normalize(item)));
+  const years = [...text.matchAll(/\b(\d{3,4})\b/g)].map(match => Number(match[1]));
+  const laterYear = persona.horizonYear > 0 ? years.find(year => year > persona.horizonYear) : null;
+  const term = persona.anachronismTerms.find(item => text.includes(normalize(item)));
   return laterYear || term ? { laterYear, term } : null;
 }
 
-async function loadDataset(path, personal, language) {
-  const response = await fetch(path);
-  if (!response.ok) throw new Error(`HTTP ${response.status}: ${path}`);
-  const data = await response.json();
-  return (data.entidades || []).map((entity, index) => ({
-    id: entity.id || `${path}#${index}`,
-    title: localized(entity, 'nome', language),
-    description: localized(entity, 'descricao', language),
-    importance: localized(entity, 'importancia', language),
-    start: entity.inicio,
-    end: entity.fim,
-    tags: Array.isArray(entity.tags) ? entity.tags : [],
-    datasetId: path,
-    sourceIds: [path],
-    personal,
-  })).filter(entity => entity.title && entity.description);
+function retrieve(question, limit = 8) {
+  const ranked = evidenceCache.map(chunk => ({ ...chunk, lexical: lexicalScore(chunk, tokens(question)) }))
+    .sort((a, b) => b.lexical - a.lexical || a.id.localeCompare(b.id));
+  if (!ranked.some(item => item.lexical > 0)) return [];
+  const selected = [], sourceUse = new Map(), typeUse = new Map();
+  for (const item of ranked) {
+    const sourceId = item.sourceIds[0];
+    const repetition = (sourceUse.get(sourceId) || 0) + (typeUse.get(item.knowledgeType) || 0);
+    if (selected.length < 4 || repetition < 2) {
+      selected.push(item);
+      sourceUse.set(sourceId, (sourceUse.get(sourceId) || 0) + 1);
+      typeUse.set(item.knowledgeType, (typeUse.get(item.knowledgeType) || 0) + 1);
+    }
+    if (selected.length === limit) break;
+  }
+  return selected;
 }
 
-export async function preparePersona(personaId, language = 'pt') {
-  const legacy = LEGACY_PERSONAS.find(item => item.id === personaId);
-  if (!legacy) return { ok: false, reason: 'persona_not_found' };
-  const paths = [legacy.jsonPessoal, ...legacy.jsons];
-  const results = await Promise.allSettled(paths.map((path, index) => loadDataset(path, index === 0, language)));
-  evidenceCache = results.flatMap(result => result.status === 'fulfilled' ? result.value : []);
-  activePersona = legacy;
+function publicEvidence(item) {
   return {
-    ok: evidenceCache.length > 0,
-    persona: PERSONAS.find(item => item.id === personaId),
-    evidenceCount: evidenceCache.length,
-    unavailableDatasets: results.filter(result => result.status === 'rejected').length,
+    id: item.id, title: item.text.split('.')[0], description: item.text,
+    datasetId: 'data/voices-retrieval-index.json', sourceIds: item.sourceIds,
+    sources: item.sourceIds.map(id => sourceCatalog.get(id)).filter(Boolean), locator: item.locator,
+    knowledgeType: item.knowledgeType, claimStatus: item.claimStatus,
   };
 }
 
-export function setSemanticClient(client) {
-  semanticClient = client;
-}
-
-async function retrieve(question, limit = 5) {
-  const queryTokens = tokens(question);
-  const ranked = evidenceCache.map(entity => ({ ...entity, lexical: lexicalScore(entity, queryTokens), semantic: 0 }));
-  if (semanticClient?.rank) {
-    try {
-      const semanticScores = await semanticClient.rank(question, ranked.map(item => `${item.title}. ${item.description}`));
-      ranked.forEach((item, index) => { item.semantic = Number(semanticScores[index]) || 0; });
-    } catch (error) {
-      console.warn('[Vozes] Busca semântica indisponível; usando índice lexical.', error);
-    }
-  }
-  ranked.sort((a, b) => (b.lexical + b.semantic * 4) - (a.lexical + a.semantic * 4));
-  const hasLexicalMatch = ranked.some(item => item.lexical > (item.personal ? 2 : 0));
-  return hasLexicalMatch || semanticClient ? ranked.slice(0, limit) : [];
-}
-
-function compose(persona, question, evidence, intent) {
-  const primary = evidence[0];
-  const secondary = evidence[1];
-  const paragraphs = [OPENINGS[persona.id] || 'Examinemos o que os registros permitem afirmar:'];
-  paragraphs.push(primary.description);
-  if (secondary && secondary.id !== primary.id) paragraphs.push(`Outro registro relacionado acrescenta: ${secondary.description}`);
-  if (intent === 'interpretation' && primary.importance) paragraphs.push(`Uma interpretação registrada é: ${primary.importance}`);
+function compose(persona, evidence, intent) {
+  const paragraphs = [OPENINGS[persona.id] || 'Examinemos o que os registros permitem afirmar:', evidence[0].text];
+  if (evidence[1]?.id !== evidence[0].id) paragraphs.push(`Outro registro relacionado acrescenta: ${evidence[1].text}`);
+  if (intent === 'controversy') paragraphs.push('As fontes não devem ser tratadas como neutras: autoria, data e finalidade alteram o modo de interpretá-las.');
   paragraphs.push(CLOSINGS[persona.id] || 'Que conclusão tiras dessas evidências?');
   return paragraphs.join('\n\n');
 }
 
+function promptMessages(persona, question, evidence, history, strict = false) {
+  const records = evidence.map((item, index) => `[E${index + 1}] ${item.text} Fonte: ${item.sourceIds.join(', ')}; localizador: ${item.locator}.`).join('\n');
+  const recent = history.slice(-4).map(item => `${item.role}: ${String(item.content).slice(0, 400)}`).join('\n');
+  return [
+    { role: 'system', content: `Você redige uma dramatização pedagógica de ${persona.name}. Use somente as evidências fornecidas. Não invente nomes, datas, números, documentos nem citações. Não use aspas. Assinale incerteza e controvérsia. Não alegue conhecer fatos posteriores a ${persona.horizonYear}. Máximo de 180 palavras. Estilo: ${persona.style} Estratégia: ${persona.pedagogicalStrategy}.${strict ? ' Copie apenas fatos explícitos e omita qualquer detalhe duvidoso.' : ''}` },
+    { role: 'user', content: `Pergunta: ${question}\nHistórico curto:\n${recent || 'sem histórico'}\nEvidências:\n${records}` },
+  ];
+}
+
+function unsupportedDetails(text, persona, question, evidence) {
+  const allowed = normalize(`${persona.name} ${question} ${evidence.map(item => item.text).join(' ')}`);
+  const numbers = [...String(text).matchAll(/\b\d+(?:[.,]\d+)?\b/g)].map(match => match[0]);
+  const properNames = [...String(text).matchAll(/\b[A-ZÁÉÍÓÚÂÊÔÃÕÇ][\p{L}-]+(?:\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇ][\p{L}-]+)+/gu)].map(match => match[0]);
+  const quotations = [...String(text).matchAll(/[“"]([^”"]{3,})[”"]/g)].map(match => match[1]);
+  return [...numbers, ...properNames, ...quotations].filter(value => !allowed.includes(normalize(value)));
+}
+
+async function generatedAnswer(persona, question, evidence, history) {
+  const runtime = getVoiceRuntimeStatus();
+  if (runtime.state !== 'ready' || runtime.tier === 'deterministic') return null;
+  for (let attempt = 0; attempt < 2; attempt += 1) {
+    try {
+      const result = await generateWithVoiceRuntime(promptMessages(persona, question, evidence, history, attempt === 1), { temperature: attempt ? 0.2 : 0.55 });
+      const text = result.text.trim();
+      if (text && text.split(/\s+/).length <= 180 && unsupportedDetails(text, persona, question, evidence).length === 0) {
+        return { text, tier: result.tier, status: attempt ? 'regenerated' : 'generated' };
+      }
+    } catch (error) {
+      console.warn('[Vozes] Geração local indisponível; usando compositor determinístico.', error);
+      return null;
+    }
+  }
+  return null;
+}
+
+export async function preparePersona(personaId) {
+  const catalogs = await loadCatalogs();
+  const persona = catalogs.personas.find(item => item.id === personaId);
+  if (!persona) return { ok: false, reason: 'persona_not_found' };
+  sourceCatalog = new Map(catalogs.sources.map(source => [source.id, source]));
+  evidenceCache = catalogs.chunks.filter(chunk => chunk.personaIds.includes(personaId));
+  activePersona = persona;
+  return { ok: evidenceCache.length > 0, persona, evidenceCount: evidenceCache.length, unavailableDatasets: 0 };
+}
+
 export async function answerQuestion({ personaId, question, language = 'pt', conversationHistory = [] }) {
-  if (!question?.trim()) return { text: '', evidence: [], sourceIds: [], confidence: 0, answerMode: 'out_of_scope', limitations: ['empty_question'], suggestedQuestions: [] };
-  if (!activePersona || activePersona.id !== personaId) await preparePersona(personaId, language);
-  if (!activePersona) return { text: '', evidence: [], sourceIds: [], confidence: 0, answerMode: 'out_of_scope', limitations: ['persona_not_found'], suggestedQuestions: [] };
-
-  const anachronism = detectAnachronism(personaId, question);
-  if (anachronism) {
-    return {
-      text: `Esse acontecimento está além do meu horizonte, ${activePersona.horizonte}. Posso compará-lo apenas com experiências e instituições que conheci em meu tempo.`,
-      evidence: [], sourceIds: [], confidence: 1, answerMode: 'anachronism',
-      limitations: ['historical_horizon'], suggestedQuestions: ['Que acontecimentos do seu tempo ajudam a fazer essa comparação?'],
-    };
-  }
-
-  const evidence = await retrieve(question);
-  if (!evidence.length) {
-    return {
-      text: 'Não encontro, entre os registros que me foram confiados, fundamento suficiente para responder com segurança.',
-      evidence: [], sourceIds: [], confidence: 0, answerMode: 'uncertainty',
-      limitations: ['insufficient_evidence'], suggestedQuestions: evidenceCache.slice(0, 3).map(item => item.title),
-    };
-  }
-
+  const runtime = getVoiceRuntimeStatus();
+  const base = { runtimeTier: runtime.tier, generationStatus: 'not_attempted', groundingStatus: 'not_applicable' };
+  if (!question?.trim()) return { ...base, text: '', evidence: [], sourceIds: [], confidence: 0, answerMode: 'out_of_scope', limitations: ['empty_question'], suggestedQuestions: [] };
+  if (!activePersona || activePersona.id !== personaId) await preparePersona(personaId);
+  if (!activePersona) return { ...base, text: '', evidence: [], sourceIds: [], confidence: 0, answerMode: 'out_of_scope', limitations: ['persona_not_found'], suggestedQuestions: [] };
+  const anachronism = detectAnachronism(activePersona, question);
+  if (anachronism) return { ...base, text: `Esse acontecimento está além do horizonte histórico desta persona: ${activePersona.knowledgeCutoff} Posso compará-lo apenas com experiências e instituições conhecidas em seu tempo.`, evidence: [], sourceIds: [], confidence: 1, answerMode: 'anachronism', groundingStatus: 'horizon_enforced', limitations: ['historical_horizon'], suggestedQuestions: ['Que acontecimentos do seu tempo ajudam a fazer essa comparação?'] };
+  const evidence = retrieve(question);
+  if (!evidence.length) return { ...base, text: 'Não encontro, entre os registros que me foram confiados, fundamento suficiente para responder com segurança.', evidence: [], sourceIds: [], confidence: 0, answerMode: 'uncertainty', groundingStatus: 'insufficient_evidence', limitations: ['insufficient_evidence'], suggestedQuestions: evidenceCache.slice(0, 3).map(item => item.text.split('.')[0]) };
   const intent = detectIntent(question);
+  const generated = await generatedAnswer(activePersona, question, evidence, conversationHistory);
   return {
-    text: compose(activePersona, question, evidence, intent),
-    evidence: evidence.map(({ lexical, semantic, ...item }) => item),
-    sourceIds: [...new Set(evidence.flatMap(item => item.sourceIds))],
-    confidence: Math.min(1, 0.45 + evidence[0].lexical * 0.08 + evidence[0].semantic * 0.25),
-    answerMode: intent === 'interpretation' ? 'interpretation' : 'grounded',
-    limitations: ['pedagogical_dramatization', ...(semanticClient ? [] : ['lexical_retrieval'])],
-    suggestedQuestions: evidence.slice(0, 3).map(item => `O que ${item.title} revela sobre esse período?`),
-    conversationLength: conversationHistory.length,
+    text: generated?.text || compose(activePersona, evidence, intent), evidence: evidence.map(publicEvidence),
+    sourceIds: [...new Set(evidence.flatMap(item => item.sourceIds))], confidence: Math.min(1, 0.55 + evidence[0].lexical * 0.04),
+    answerMode: intent === 'controversy' ? 'controversy' : intent === 'comparison' ? 'comparison' : 'grounded',
+    limitations: ['pedagogical_dramatization', ...(generated ? [] : ['deterministic_composer'])],
+    suggestedQuestions: evidence.slice(0, 3).map(item => `O que ${item.text.split('.')[0]} revela sobre esse período?`),
+    conversationLength: conversationHistory.length, runtimeTier: generated?.tier || 'deterministic',
+    generationStatus: generated?.status || (runtime.state === 'ready' ? 'grounding_fallback' : 'deterministic_fallback'),
+    groundingStatus: generated ? 'validated' : 'evidence_bound', language,
   };
 }
 
-export async function generateGroundedAnswer(persona, question, evidence, history) {
-  return compose(persona, question, evidence, detectIntent(question), history);
+export async function generateGroundedAnswer(persona, question, evidence, history = []) {
+  const generated = await generatedAnswer(persona, question, evidence, history);
+  return generated?.text || compose(persona, evidence, detectIntent(question));
 }
+
+export { prepareVoiceRuntime, getVoiceRuntimeStatus, cancelVoiceRuntimePreparation, clearVoiceModelCache };

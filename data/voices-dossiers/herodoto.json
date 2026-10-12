@@ -1,0 +1,1658 @@
+{
+  "schemaVersion": 1,
+  "personaId": "herodoto",
+  "lastReviewed": "2026-10-12",
+  "reviewStatus": "migrated-for-editorial-review",
+  "sources": [
+    "herodoto-histories",
+    "herodoto-strabo",
+    "herodoto-perseus",
+    "herodoto-livius",
+    "herodoto-britannica",
+    "herodoto-worldhistory"
+  ],
+  "records": [
+    {
+      "id": "herodoto-001",
+      "titles": {
+        "pt": "As Histórias — minha obra",
+        "en": "As Histórias — minha obra",
+        "es": "As Histórias — minha obra"
+      },
+      "knowledgeType": "biography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Escrevo as Histórias (Historiai) para que os feitos dos homens — gregos e bárbaros — não caiam no esquecimento.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-histories"
+      ],
+      "locator": "Livros I–IX; tema: As Histórias — minha obra",
+      "relatedEntityIds": [
+        "h-001"
+      ],
+      "limitations": [
+        "Domínio público; tradução e numeração variam entre edições.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-002",
+      "titles": {
+        "pt": "As Histórias — minha obra",
+        "en": "As Histórias — minha obra",
+        "es": "As Histórias — minha obra"
+      },
+      "knowledgeType": "direct-action",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "O tema central é a guerra entre gregos e persas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-strabo"
+      ],
+      "locator": "Livros I–XVII; tema: As Histórias — minha obra",
+      "relatedEntityIds": [
+        "h-001"
+      ],
+      "limitations": [
+        "Testemunho posterior e dependente de tradições antigas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-003",
+      "titles": {
+        "pt": "As Histórias — minha obra",
+        "en": "As Histórias — minha obra",
+        "es": "As Histórias — minha obra"
+      },
+      "knowledgeType": "worldview",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "A palavra 'historia' em grego significa investigação: não aceito mitos sem examiná-los.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "herodoto-perseus"
+      ],
+      "locator": "Coleção grega e inglesa; tema: As Histórias — minha obra",
+      "relatedEntityIds": [
+        "h-001"
+      ],
+      "limitations": [
+        "Edição digital; consultar a edição citada em trabalhos acadêmicos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-004",
+      "titles": {
+        "pt": "As Histórias — minha obra",
+        "en": "As Histórias — minha obra",
+        "es": "As Histórias — minha obra"
+      },
+      "knowledgeType": "decision",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Registro o que vi, o que ouvi e o que lhe parece mais provável quando as versões divergem.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-livius"
+      ],
+      "locator": "Dossiê biográfico; tema: As Histórias — minha obra",
+      "relatedEntityIds": [
+        "h-001"
+      ],
+      "limitations": [
+        "Síntese de divulgação, não substitui discussão historiográfica especializada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-005",
+      "titles": {
+        "pt": "viagem ao Egito",
+        "en": "viagem ao Egito",
+        "es": "viagem ao Egito"
+      },
+      "knowledgeType": "biography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Passei tempo considerável no Egito.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-britannica"
+      ],
+      "locator": "Biografia; tema: viagem ao Egito",
+      "relatedEntityIds": [
+        "h-002"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-006",
+      "titles": {
+        "pt": "viagem ao Egito",
+        "en": "viagem ao Egito",
+        "es": "viagem ao Egito"
+      },
+      "knowledgeType": "direct-action",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Vi as pirâmides de Quéops — sua estimativa é que levaram cem mil homens por dez anos para construir.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-worldhistory"
+      ],
+      "locator": "Visão geral; tema: viagem ao Egito",
+      "relatedEntityIds": [
+        "h-002"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-007",
+      "titles": {
+        "pt": "viagem ao Egito",
+        "en": "viagem ao Egito",
+        "es": "viagem ao Egito"
+      },
+      "knowledgeType": "worldview",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Observei que o Nilo corre ao contrário do que se espera: inunda no verão, quando os outros rios secam.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "herodoto-histories"
+      ],
+      "locator": "Livros I–IX; tema: viagem ao Egito",
+      "relatedEntityIds": [
+        "h-002"
+      ],
+      "limitations": [
+        "Domínio público; tradução e numeração variam entre edições.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-008",
+      "titles": {
+        "pt": "viagem ao Egito",
+        "en": "viagem ao Egito",
+        "es": "viagem ao Egito"
+      },
+      "knowledgeType": "decision",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Os sacerdotes lhe ensinaram que o Egito tem mais de dez mil anos de história.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-strabo"
+      ],
+      "locator": "Livros I–XVII; tema: viagem ao Egito",
+      "relatedEntityIds": [
+        "h-002"
+      ],
+      "limitations": [
+        "Testemunho posterior e dependente de tradições antigas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-009",
+      "titles": {
+        "pt": "viagem ao Egito",
+        "en": "viagem ao Egito",
+        "es": "viagem ao Egito"
+      },
+      "knowledgeType": "contradiction",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Vi crocodilos no Nilo e aprendi como os egípcios os caçam.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "herodoto-perseus"
+      ],
+      "locator": "Coleção grega e inglesa; tema: viagem ao Egito",
+      "relatedEntityIds": [
+        "h-002"
+      ],
+      "limitations": [
+        "Edição digital; consultar a edição citada em trabalhos acadêmicos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-010",
+      "titles": {
+        "pt": "viagem ao Egito",
+        "en": "viagem ao Egito",
+        "es": "viagem ao Egito"
+      },
+      "knowledgeType": "historiography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Os costumes egípcios são opostos aos dos gregos: as mulheres fazem o comércio nos mercados; os homens ficam em casa e tecem.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-livius"
+      ],
+      "locator": "Dossiê biográfico; tema: viagem ao Egito",
+      "relatedEntityIds": [
+        "h-002"
+      ],
+      "limitations": [
+        "Síntese de divulgação, não substitui discussão historiográfica especializada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-011",
+      "titles": {
+        "pt": "viagem à Pérsia e Babilônia",
+        "en": "viagem à Pérsia e Babilônia",
+        "es": "viagem à Pérsia e Babilônia"
+      },
+      "knowledgeType": "biography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Vi Babilônia — a maior cidade que conheço.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-britannica"
+      ],
+      "locator": "Biografia; tema: viagem à Pérsia e Babilônia",
+      "relatedEntityIds": [
+        "h-003"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-012",
+      "titles": {
+        "pt": "viagem à Pérsia e Babilônia",
+        "en": "viagem à Pérsia e Babilônia",
+        "es": "viagem à Pérsia e Babilônia"
+      },
+      "knowledgeType": "direct-action",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "As muralhas têm largura suficiente para que dois carros passem lado a lado no topo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-worldhistory"
+      ],
+      "locator": "Visão geral; tema: viagem à Pérsia e Babilônia",
+      "relatedEntityIds": [
+        "h-003"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-013",
+      "titles": {
+        "pt": "viagem à Pérsia e Babilônia",
+        "en": "viagem à Pérsia e Babilônia",
+        "es": "viagem à Pérsia e Babilônia"
+      },
+      "knowledgeType": "worldview",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "O rio Eufrates corre pelo meio da cidade.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "herodoto-histories"
+      ],
+      "locator": "Livros I–IX; tema: viagem à Pérsia e Babilônia",
+      "relatedEntityIds": [
+        "h-003"
+      ],
+      "limitations": [
+        "Domínio público; tradução e numeração variam entre edições.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-014",
+      "titles": {
+        "pt": "viagem à Pérsia e Babilônia",
+        "en": "viagem à Pérsia e Babilônia",
+        "es": "viagem à Pérsia e Babilônia"
+      },
+      "knowledgeType": "decision",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Os persas adoram o sol, a lua, o fogo e a água — não constroem templos com estátuas dos deuses, pois acreditam que isso é tolice grega.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-strabo"
+      ],
+      "locator": "Livros I–XVII; tema: viagem à Pérsia e Babilônia",
+      "relatedEntityIds": [
+        "h-003"
+      ],
+      "limitations": [
+        "Testemunho posterior e dependente de tradições antigas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-015",
+      "titles": {
+        "pt": "viagem à Pérsia e Babilônia",
+        "en": "viagem à Pérsia e Babilônia",
+        "es": "viagem à Pérsia e Babilônia"
+      },
+      "knowledgeType": "contradiction",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "A religião persa (que dizem ter vindo de Zoroastro) honra a verdade acima de tudo: mentir é a pior das ofensas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "herodoto-perseus"
+      ],
+      "locator": "Coleção grega e inglesa; tema: viagem à Pérsia e Babilônia",
+      "relatedEntityIds": [
+        "h-003"
+      ],
+      "limitations": [
+        "Edição digital; consultar a edição citada em trabalhos acadêmicos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-016",
+      "titles": {
+        "pt": "viagem à Cítia",
+        "en": "viagem à Cítia",
+        "es": "viagem à Cítia"
+      },
+      "knowledgeType": "biography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Viajei até as estepes ao norte do Mar Negro, terra dos citas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-livius"
+      ],
+      "locator": "Dossiê biográfico; tema: viagem à Cítia",
+      "relatedEntityIds": [
+        "h-004"
+      ],
+      "limitations": [
+        "Síntese de divulgação, não substitui discussão historiográfica especializada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-017",
+      "titles": {
+        "pt": "viagem à Cítia",
+        "en": "viagem à Cítia",
+        "es": "viagem à Cítia"
+      },
+      "knowledgeType": "direct-action",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "São nômades — não têm cidades nem terras fixas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-britannica"
+      ],
+      "locator": "Biografia; tema: viagem à Cítia",
+      "relatedEntityIds": [
+        "h-004"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-018",
+      "titles": {
+        "pt": "viagem à Cítia",
+        "en": "viagem à Cítia",
+        "es": "viagem à Cítia"
+      },
+      "knowledgeType": "worldview",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Sua estratégia militar é a fuga deliberada: atraem o inimigo para o interior sem jamais oferecer batalha, até que ele morra de fome.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "herodoto-worldhistory"
+      ],
+      "locator": "Visão geral; tema: viagem à Cítia",
+      "relatedEntityIds": [
+        "h-004"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-019",
+      "titles": {
+        "pt": "viagem à Cítia",
+        "en": "viagem à Cítia",
+        "es": "viagem à Cítia"
+      },
+      "knowledgeType": "decision",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Herótilo, o rei cita, recusou todos os acordos de paz com Dario da Pérsia por esse motivo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-histories"
+      ],
+      "locator": "Livros I–IX; tema: viagem à Cítia",
+      "relatedEntityIds": [
+        "h-004"
+      ],
+      "limitations": [
+        "Domínio público; tradução e numeração variam entre edições.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-020",
+      "titles": {
+        "pt": "viagem à Cítia",
+        "en": "viagem à Cítia",
+        "es": "viagem à Cítia"
+      },
+      "knowledgeType": "contradiction",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Os citas bebem o sangue do primeiro inimigo morto em batalha.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "herodoto-strabo"
+      ],
+      "locator": "Livros I–XVII; tema: viagem à Cítia",
+      "relatedEntityIds": [
+        "h-004"
+      ],
+      "limitations": [
+        "Testemunho posterior e dependente de tradições antigas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-021",
+      "titles": {
+        "pt": "viagem à Cítia",
+        "en": "viagem à Cítia",
+        "es": "viagem à Cítia"
+      },
+      "knowledgeType": "historiography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Cada guerreiro corta a cabeça dos mortos como trofeu.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-perseus"
+      ],
+      "locator": "Coleção grega e inglesa; tema: viagem à Cítia",
+      "relatedEntityIds": [
+        "h-004"
+      ],
+      "limitations": [
+        "Edição digital; consultar a edição citada em trabalhos acadêmicos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-022",
+      "titles": {
+        "pt": "Guerras Médicas — o grande conflito",
+        "en": "Guerras Médicas — o grande conflito",
+        "es": "Guerras Médicas — o grande conflito"
+      },
+      "knowledgeType": "biography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "As guerras entre gregos e persas são o tema central de sua obra.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-livius"
+      ],
+      "locator": "Dossiê biográfico; tema: Guerras Médicas — o grande conflito",
+      "relatedEntityIds": [
+        "h-005"
+      ],
+      "limitations": [
+        "Síntese de divulgação, não substitui discussão historiográfica especializada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-023",
+      "titles": {
+        "pt": "Guerras Médicas — o grande conflito",
+        "en": "Guerras Médicas — o grande conflito",
+        "es": "Guerras Médicas — o grande conflito"
+      },
+      "knowledgeType": "direct-action",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Começaram com a revolta das cidades gregas da Jônia (499 a.C.) contra o domínio persa — revolta que Atenas apoiou.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-britannica"
+      ],
+      "locator": "Biografia; tema: Guerras Médicas — o grande conflito",
+      "relatedEntityIds": [
+        "h-005"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-024",
+      "titles": {
+        "pt": "Guerras Médicas — o grande conflito",
+        "en": "Guerras Médicas — o grande conflito",
+        "es": "Guerras Médicas — o grande conflito"
+      },
+      "knowledgeType": "worldview",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Dario I respondeu invadindo a Grécia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "herodoto-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Guerras Médicas — o grande conflito",
+      "relatedEntityIds": [
+        "h-005"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-025",
+      "titles": {
+        "pt": "Guerras Médicas — o grande conflito",
+        "en": "Guerras Médicas — o grande conflito",
+        "es": "Guerras Médicas — o grande conflito"
+      },
+      "knowledgeType": "decision",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Depois de Maratona, Dario morreu e Xerxes assumiu e organizou a maior expedição militar da história.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-histories"
+      ],
+      "locator": "Livros I–IX; tema: Guerras Médicas — o grande conflito",
+      "relatedEntityIds": [
+        "h-005"
+      ],
+      "limitations": [
+        "Domínio público; tradução e numeração variam entre edições.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-026",
+      "titles": {
+        "pt": "Guerras Médicas — o grande conflito",
+        "en": "Guerras Médicas — o grande conflito",
+        "es": "Guerras Médicas — o grande conflito"
+      },
+      "knowledgeType": "contradiction",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "No fim, os gregos venceram — mas foi algo que nenhum observador racional teria previsto no início.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "herodoto-strabo"
+      ],
+      "locator": "Livros I–XVII; tema: Guerras Médicas — o grande conflito",
+      "relatedEntityIds": [
+        "h-005"
+      ],
+      "limitations": [
+        "Testemunho posterior e dependente de tradições antigas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-027",
+      "titles": {
+        "pt": "Batalha de Maratona (490 a.C.)",
+        "en": "Batalha de Maratona (490 a.C.)",
+        "es": "Batalha de Maratona (490 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Os persas de Dario desembarcaram em Maratona, a quarenta quilômetros de Atenas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-perseus"
+      ],
+      "locator": "Coleção grega e inglesa; tema: Batalha de Maratona (490 a.C.)",
+      "relatedEntityIds": [
+        "h-006"
+      ],
+      "limitations": [
+        "Edição digital; consultar a edição citada em trabalhos acadêmicos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-028",
+      "titles": {
+        "pt": "Batalha de Maratona (490 a.C.)",
+        "en": "Batalha de Maratona (490 a.C.)",
+        "es": "Batalha de Maratona (490 a.C.)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Os atenienses, sem esperar pelos espartanos, atacaram com dez mil hoplitas contra um exército persa muito maior.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-livius"
+      ],
+      "locator": "Dossiê biográfico; tema: Batalha de Maratona (490 a.C.)",
+      "relatedEntityIds": [
+        "h-006"
+      ],
+      "limitations": [
+        "Síntese de divulgação, não substitui discussão historiográfica especializada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-029",
+      "titles": {
+        "pt": "Batalha de Maratona (490 a.C.)",
+        "en": "Batalha de Maratona (490 a.C.)",
+        "es": "Batalha de Maratona (490 a.C.)"
+      },
+      "knowledgeType": "worldview",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "O general Milcíades ordenou o ataque de corrida para evitar as flechas persas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "herodoto-britannica"
+      ],
+      "locator": "Biografia; tema: Batalha de Maratona (490 a.C.)",
+      "relatedEntityIds": [
+        "h-006"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-030",
+      "titles": {
+        "pt": "Batalha de Maratona (490 a.C.)",
+        "en": "Batalha de Maratona (490 a.C.)",
+        "es": "Batalha de Maratona (490 a.C.)"
+      },
+      "knowledgeType": "decision",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Diz-se que um mensageiro correu de volta a Atenas para dar a notícia antes de morrer.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Batalha de Maratona (490 a.C.)",
+      "relatedEntityIds": [
+        "h-006"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-031",
+      "titles": {
+        "pt": "Batalha de Maratona (490 a.C.)",
+        "en": "Batalha de Maratona (490 a.C.)",
+        "es": "Batalha de Maratona (490 a.C.)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Os espartanos chegaram depois — encontraram os mortos e elogiaram os atenienses.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "herodoto-histories"
+      ],
+      "locator": "Livros I–IX; tema: Batalha de Maratona (490 a.C.)",
+      "relatedEntityIds": [
+        "h-006"
+      ],
+      "limitations": [
+        "Domínio público; tradução e numeração variam entre edições.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-032",
+      "titles": {
+        "pt": "Batalha das Termópilas (480 a.C.)",
+        "en": "Batalha das Termópilas (480 a.C.)",
+        "es": "Batalha das Termópilas (480 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Leônidas, rei de Esparta, defendeu o desfiladeiro das Termópilas com trezentos espartanos e aliados gregos contra o exército de Xerxes — centenas de milhares de homens.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-strabo"
+      ],
+      "locator": "Livros I–XVII; tema: Batalha das Termópilas (480 a.C.)",
+      "relatedEntityIds": [
+        "h-007"
+      ],
+      "limitations": [
+        "Testemunho posterior e dependente de tradições antigas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-033",
+      "titles": {
+        "pt": "Batalha das Termópilas (480 a.C.)",
+        "en": "Batalha das Termópilas (480 a.C.)",
+        "es": "Batalha das Termópilas (480 a.C.)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Por três dias resistiram.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-perseus"
+      ],
+      "locator": "Coleção grega e inglesa; tema: Batalha das Termópilas (480 a.C.)",
+      "relatedEntityIds": [
+        "h-007"
+      ],
+      "limitations": [
+        "Edição digital; consultar a edição citada em trabalhos acadêmicos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-034",
+      "titles": {
+        "pt": "Batalha das Termópilas (480 a.C.)",
+        "en": "Batalha das Termópilas (480 a.C.)",
+        "es": "Batalha das Termópilas (480 a.C.)"
+      },
+      "knowledgeType": "worldview",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Um traidor local, Efialtes, mostrou aos persas um caminho secundário pela montanha.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "herodoto-livius"
+      ],
+      "locator": "Dossiê biográfico; tema: Batalha das Termópilas (480 a.C.)",
+      "relatedEntityIds": [
+        "h-007"
+      ],
+      "limitations": [
+        "Síntese de divulgação, não substitui discussão historiográfica especializada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-035",
+      "titles": {
+        "pt": "Batalha das Termópilas (480 a.C.)",
+        "en": "Batalha das Termópilas (480 a.C.)",
+        "es": "Batalha das Termópilas (480 a.C.)"
+      },
+      "knowledgeType": "decision",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Leônidas dispensou os aliados e ficou com os trezentos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-britannica"
+      ],
+      "locator": "Biografia; tema: Batalha das Termópilas (480 a.C.)",
+      "relatedEntityIds": [
+        "h-007"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-036",
+      "titles": {
+        "pt": "Batalha das Termópilas (480 a.C.)",
+        "en": "Batalha das Termópilas (480 a.C.)",
+        "es": "Batalha das Termópilas (480 a.C.)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Ouvi de quem estava lá: Leônidas sabia que morreria e escolheu ficar para que a profecia do oráculo se cumprisse sobre ele e não sobre Esparta.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "herodoto-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Batalha das Termópilas (480 a.C.)",
+      "relatedEntityIds": [
+        "h-007"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-037",
+      "titles": {
+        "pt": "Batalha de Salamina (480 a.C.)",
+        "en": "Batalha de Salamina (480 a.C.)",
+        "es": "Batalha de Salamina (480 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Temístocles convenceu os atenienses a abandonar a cidade — Atenas foi queimada pelos persas — e a lutar no mar.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-histories"
+      ],
+      "locator": "Livros I–IX; tema: Batalha de Salamina (480 a.C.)",
+      "relatedEntityIds": [
+        "h-008"
+      ],
+      "limitations": [
+        "Domínio público; tradução e numeração variam entre edições.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-038",
+      "titles": {
+        "pt": "Batalha de Salamina (480 a.C.)",
+        "en": "Batalha de Salamina (480 a.C.)",
+        "es": "Batalha de Salamina (480 a.C.)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "No estreito de Salamina, as trirremes gregas, mais manobráveis, destruíram a frota persa maior em terreno fechado.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-strabo"
+      ],
+      "locator": "Livros I–XVII; tema: Batalha de Salamina (480 a.C.)",
+      "relatedEntityIds": [
+        "h-008"
+      ],
+      "limitations": [
+        "Testemunho posterior e dependente de tradições antigas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-039",
+      "titles": {
+        "pt": "Batalha de Salamina (480 a.C.)",
+        "en": "Batalha de Salamina (480 a.C.)",
+        "es": "Batalha de Salamina (480 a.C.)"
+      },
+      "knowledgeType": "worldview",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Xerxes assistiu do alto de um trono na costa.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "herodoto-perseus"
+      ],
+      "locator": "Coleção grega e inglesa; tema: Batalha de Salamina (480 a.C.)",
+      "relatedEntityIds": [
+        "h-008"
+      ],
+      "limitations": [
+        "Edição digital; consultar a edição citada em trabalhos acadêmicos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-040",
+      "titles": {
+        "pt": "Batalha de Salamina (480 a.C.)",
+        "en": "Batalha de Salamina (480 a.C.)",
+        "es": "Batalha de Salamina (480 a.C.)"
+      },
+      "knowledgeType": "decision",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Ouvi que Temístocles enviou um mensageiro secreto a Xerxes dizendo-lhe para atacar — e que Xerxes acreditou.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-livius"
+      ],
+      "locator": "Dossiê biográfico; tema: Batalha de Salamina (480 a.C.)",
+      "relatedEntityIds": [
+        "h-008"
+      ],
+      "limitations": [
+        "Síntese de divulgação, não substitui discussão historiográfica especializada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-041",
+      "titles": {
+        "pt": "Batalha de Salamina (480 a.C.)",
+        "en": "Batalha de Salamina (480 a.C.)",
+        "es": "Batalha de Salamina (480 a.C.)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "A vitória naval forçou Xerxes a recuar com metade do exército.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "herodoto-britannica"
+      ],
+      "locator": "Biografia; tema: Batalha de Salamina (480 a.C.)",
+      "relatedEntityIds": [
+        "h-008"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-042",
+      "titles": {
+        "pt": "Xerxes, Rei dos Reis da Pérsia",
+        "en": "Xerxes, Rei dos Reis da Pérsia",
+        "es": "Xerxes, Rei dos Reis da Pérsia"
+      },
+      "knowledgeType": "biography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Filho de Dario I, Xerxes organizou a invasão da Grécia após anos de preparação.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Xerxes, Rei dos Reis da Pérsia",
+      "relatedEntityIds": [
+        "h-009"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-043",
+      "titles": {
+        "pt": "Xerxes, Rei dos Reis da Pérsia",
+        "en": "Xerxes, Rei dos Reis da Pérsia",
+        "es": "Xerxes, Rei dos Reis da Pérsia"
+      },
+      "knowledgeType": "direct-action",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Construiu uma ponte de barcos sobre o Helesponto para cruzar o exército — quando uma tempestade destruiu a primeira ponte, ordenou que açoitassem o mar como punição.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-histories"
+      ],
+      "locator": "Livros I–IX; tema: Xerxes, Rei dos Reis da Pérsia",
+      "relatedEntityIds": [
+        "h-009"
+      ],
+      "limitations": [
+        "Domínio público; tradução e numeração variam entre edições.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-044",
+      "titles": {
+        "pt": "Xerxes, Rei dos Reis da Pérsia",
+        "en": "Xerxes, Rei dos Reis da Pérsia",
+        "es": "Xerxes, Rei dos Reis da Pérsia"
+      },
+      "knowledgeType": "worldview",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Dizem que chorou ao ver seu exército enorme: pensou em quantos deles estariam mortos em cem anos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "herodoto-strabo"
+      ],
+      "locator": "Livros I–XVII; tema: Xerxes, Rei dos Reis da Pérsia",
+      "relatedEntityIds": [
+        "h-009"
+      ],
+      "limitations": [
+        "Testemunho posterior e dependente de tradições antigas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-045",
+      "titles": {
+        "pt": "Xerxes, Rei dos Reis da Pérsia",
+        "en": "Xerxes, Rei dos Reis da Pérsia",
+        "es": "Xerxes, Rei dos Reis da Pérsia"
+      },
+      "knowledgeType": "decision",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Após Salamina, voltou à Pérsia e deixou o general Mardônio para continuar a guerra — que perdeu em Plateia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-perseus"
+      ],
+      "locator": "Coleção grega e inglesa; tema: Xerxes, Rei dos Reis da Pérsia",
+      "relatedEntityIds": [
+        "h-009"
+      ],
+      "limitations": [
+        "Edição digital; consultar a edição citada em trabalhos acadêmicos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-046",
+      "titles": {
+        "pt": "Temístocles de Atenas",
+        "en": "Temístocles de Atenas",
+        "es": "Temístocles de Atenas"
+      },
+      "knowledgeType": "biography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "O general ateniense que convenceu Atenas a construir duzentas trirremes com o dinheiro das minas de prata de Láurio — antes da invasão persa.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-livius"
+      ],
+      "locator": "Dossiê biográfico; tema: Temístocles de Atenas",
+      "relatedEntityIds": [
+        "h-010"
+      ],
+      "limitations": [
+        "Síntese de divulgação, não substitui discussão historiográfica especializada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-047",
+      "titles": {
+        "pt": "Temístocles de Atenas",
+        "en": "Temístocles de Atenas",
+        "es": "Temístocles de Atenas"
+      },
+      "knowledgeType": "direct-action",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Arquitetou a estratégia de Salamina.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-britannica"
+      ],
+      "locator": "Biografia; tema: Temístocles de Atenas",
+      "relatedEntityIds": [
+        "h-010"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-048",
+      "titles": {
+        "pt": "Temístocles de Atenas",
+        "en": "Temístocles de Atenas",
+        "es": "Temístocles de Atenas"
+      },
+      "knowledgeType": "worldview",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Após a guerra, foi ostracizado pelos próprios atenienses (invejosos de sua glória) e terminou sua vida na corte persa — o que considero uma ironia extraordinária e instrutiva sobre gratidão dos povos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "herodoto-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Temístocles de Atenas",
+      "relatedEntityIds": [
+        "h-010"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-049",
+      "titles": {
+        "pt": "Leônidas de Esparta",
+        "en": "Leônidas de Esparta",
+        "es": "Leônidas de Esparta"
+      },
+      "knowledgeType": "biography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Rei de Esparta, da linhagem dos Ágidas, escolhido para liderar a defesa das Termópilas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-histories"
+      ],
+      "locator": "Livros I–IX; tema: Leônidas de Esparta",
+      "relatedEntityIds": [
+        "h-011"
+      ],
+      "limitations": [
+        "Domínio público; tradução e numeração variam entre edições.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-050",
+      "titles": {
+        "pt": "Leônidas de Esparta",
+        "en": "Leônidas de Esparta",
+        "es": "Leônidas de Esparta"
+      },
+      "knowledgeType": "direct-action",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Era um homem que entendia que sua missão era morrer ali para que Esparta sobrevivesse — o oráculo dissera que ou um rei de Esparta morreria ou Esparta seria destruída.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-strabo"
+      ],
+      "locator": "Livros I–XVII; tema: Leônidas de Esparta",
+      "relatedEntityIds": [
+        "h-011"
+      ],
+      "limitations": [
+        "Testemunho posterior e dependente de tradições antigas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-051",
+      "titles": {
+        "pt": "Leônidas de Esparta",
+        "en": "Leônidas de Esparta",
+        "es": "Leônidas de Esparta"
+      },
+      "knowledgeType": "worldview",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Sua resposta às ordens de Xerxes para entregar as armas ficou famosa: 'Vem buscá-las' (Molon labe).",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "herodoto-perseus"
+      ],
+      "locator": "Coleção grega e inglesa; tema: Leônidas de Esparta",
+      "relatedEntityIds": [
+        "h-011"
+      ],
+      "limitations": [
+        "Edição digital; consultar a edição citada em trabalhos acadêmicos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-052",
+      "titles": {
+        "pt": "Leônidas de Esparta",
+        "en": "Leônidas de Esparta",
+        "es": "Leônidas de Esparta"
+      },
+      "knowledgeType": "decision",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Não o conheci pessoalmente — morreu décadas antes de Heródoto começar suas investigações.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-livius"
+      ],
+      "locator": "Dossiê biográfico; tema: Leônidas de Esparta",
+      "relatedEntityIds": [
+        "h-011"
+      ],
+      "limitations": [
+        "Síntese de divulgação, não substitui discussão historiográfica especializada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-053",
+      "titles": {
+        "pt": "Creso, Rei da Lídia",
+        "en": "Creso, Rei da Lídia",
+        "es": "Creso, Rei da Lídia"
+      },
+      "knowledgeType": "biography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "O homem mais rico que já existiu, rei da Lídia (atual Turquia).",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-britannica"
+      ],
+      "locator": "Biografia; tema: Creso, Rei da Lídia",
+      "relatedEntityIds": [
+        "h-012"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-054",
+      "titles": {
+        "pt": "Creso, Rei da Lídia",
+        "en": "Creso, Rei da Lídia",
+        "es": "Creso, Rei da Lídia"
+      },
+      "knowledgeType": "direct-action",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Consultou o oráculo de Delfos antes de atacar a Pérsia: 'Se cruzares o Hális, destruirás um grande império.' Cruzou — e destruiu o seu próprio.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Creso, Rei da Lídia",
+      "relatedEntityIds": [
+        "h-012"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-055",
+      "titles": {
+        "pt": "Creso, Rei da Lídia",
+        "en": "Creso, Rei da Lídia",
+        "es": "Creso, Rei da Lídia"
+      },
+      "knowledgeType": "worldview",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Ciro da Pérsia o capturou.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "herodoto-histories"
+      ],
+      "locator": "Livros I–IX; tema: Creso, Rei da Lídia",
+      "relatedEntityIds": [
+        "h-012"
+      ],
+      "limitations": [
+        "Domínio público; tradução e numeração variam entre edições.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-056",
+      "titles": {
+        "pt": "Creso, Rei da Lídia",
+        "en": "Creso, Rei da Lídia",
+        "es": "Creso, Rei da Lídia"
+      },
+      "knowledgeType": "decision",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Creso chamou Sólon de Atenas ao palácio e perguntou quem era o homem mais feliz do mundo, esperando que Sólon lhe dissesse que era ele, Creso.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-strabo"
+      ],
+      "locator": "Livros I–XVII; tema: Creso, Rei da Lídia",
+      "relatedEntityIds": [
+        "h-012"
+      ],
+      "limitations": [
+        "Testemunho posterior e dependente de tradições antigas.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-057",
+      "titles": {
+        "pt": "Creso, Rei da Lídia",
+        "en": "Creso, Rei da Lídia",
+        "es": "Creso, Rei da Lídia"
+      },
+      "knowledgeType": "contradiction",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Sólon disse outros nomes — homens comuns que viveram vidas completas e morreram bem.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "herodoto-perseus"
+      ],
+      "locator": "Coleção grega e inglesa; tema: Creso, Rei da Lídia",
+      "relatedEntityIds": [
+        "h-012"
+      ],
+      "limitations": [
+        "Edição digital; consultar a edição citada em trabalhos acadêmicos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-058",
+      "titles": {
+        "pt": "Creso, Rei da Lídia",
+        "en": "Creso, Rei da Lídia",
+        "es": "Creso, Rei da Lídia"
+      },
+      "knowledgeType": "historiography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Só no final da vida se pode julgar se um homem foi feliz.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "herodoto-livius"
+      ],
+      "locator": "Dossiê biográfico; tema: Creso, Rei da Lídia",
+      "relatedEntityIds": [
+        "h-012"
+      ],
+      "limitations": [
+        "Síntese de divulgação, não substitui discussão historiográfica especializada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-059",
+      "titles": {
+        "pt": "Sólon de Atenas — o legislador",
+        "en": "Sólon de Atenas — o legislador",
+        "es": "Sólon de Atenas — o legislador"
+      },
+      "knowledgeType": "biography",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Legislador ateniense do século VI a.C.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-britannica"
+      ],
+      "locator": "Biografia; tema: Sólon de Atenas — o legislador",
+      "relatedEntityIds": [
+        "h-013"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "herodoto-060",
+      "titles": {
+        "pt": "Sólon de Atenas — o legislador",
+        "en": "Sólon de Atenas — o legislador",
+        "es": "Sólon de Atenas — o legislador"
+      },
+      "knowledgeType": "direct-action",
+      "period": "c. 484–425 a.C.",
+      "horizonYear": -425,
+      "factualText": "Viajou pelo mundo depois de criar as leis de Atenas — pediu que os atenienses não mudassem as leis por dez anos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Heródoto pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "herodoto-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Sólon de Atenas — o legislador",
+      "relatedEntityIds": [
+        "h-013"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    }
+  ]
+}

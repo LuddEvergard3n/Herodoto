@@ -1,0 +1,1664 @@
+{
+  "schemaVersion": 1,
+  "personaId": "pedro2",
+  "lastReviewed": "2026-10-12",
+  "reviewStatus": "migrated-for-editorial-review",
+  "sources": [
+    "pedro2-diarios",
+    "pedro2-fala-trono",
+    "pedro2-constituicao",
+    "pedro2-museu",
+    "pedro2-bn",
+    "pedro2-britannica"
+  ],
+  "records": [
+    {
+      "id": "pedro2-001",
+      "titles": {
+        "pt": "coroação aos quatorze anos (1841)",
+        "en": "coroação aos quatorze anos (1841)",
+        "es": "coroação aos quatorze anos (1841)"
+      },
+      "knowledgeType": "biography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "D. Pedro II foi coroado imperador do Brasil em 1841, aos quatorze anos, após o parlamento declarar sua maioridade antecipadamente — o país precisava de estabilidade após a turbulência do período regencial.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-diarios"
+      ],
+      "locator": "Coleção documental do Museu Imperial; tema: coroação aos quatorze anos (1841)",
+      "relatedEntityIds": [
+        "pe-001"
+      ],
+      "limitations": [
+        "Manuscritos exigem identificação de volume, data e transcrição.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-002",
+      "titles": {
+        "pt": "coroação aos quatorze anos (1841)",
+        "en": "coroação aos quatorze anos (1841)",
+        "es": "coroação aos quatorze anos (1841)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Não escolhi esse destino.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-fala-trono"
+      ],
+      "locator": "Coleção do Senado Federal; tema: coroação aos quatorze anos (1841)",
+      "relatedEntityIds": [
+        "pe-001"
+      ],
+      "limitations": [
+        "Discursos oficiais expressam a posição institucional da Coroa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-003",
+      "titles": {
+        "pt": "coroação aos quatorze anos (1841)",
+        "en": "coroação aos quatorze anos (1841)",
+        "es": "coroação aos quatorze anos (1841)"
+      },
+      "knowledgeType": "worldview",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Preferia ter sido naturalista ou professor.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "pedro2-constituicao"
+      ],
+      "locator": "Texto integral; tema: coroação aos quatorze anos (1841)",
+      "relatedEntityIds": [
+        "pe-001"
+      ],
+      "limitations": [
+        "Norma jurídica não demonstra, sozinha, sua aplicação prática.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-004",
+      "titles": {
+        "pt": "coroação aos quatorze anos (1841)",
+        "en": "coroação aos quatorze anos (1841)",
+        "es": "coroação aos quatorze anos (1841)"
+      },
+      "knowledgeType": "decision",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Mas o dever é o dever: assumi a responsabilidade que lhe coube.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-museu"
+      ],
+      "locator": "Acervo institucional; tema: coroação aos quatorze anos (1841)",
+      "relatedEntityIds": [
+        "pe-001"
+      ],
+      "limitations": [
+        "A descrição museológica deve ser confrontada com documentação e historiografia.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-005",
+      "titles": {
+        "pt": "coroação aos quatorze anos (1841)",
+        "en": "coroação aos quatorze anos (1841)",
+        "es": "coroação aos quatorze anos (1841)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Cinquenta anos de reinado.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "pedro2-bn"
+      ],
+      "locator": "Periódicos do século XIX; tema: coroação aos quatorze anos (1841)",
+      "relatedEntityIds": [
+        "pe-001"
+      ],
+      "limitations": [
+        "Jornais refletem posições políticas, editoriais e regionais.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-006",
+      "titles": {
+        "pt": "coroação aos quatorze anos (1841)",
+        "en": "coroação aos quatorze anos (1841)",
+        "es": "coroação aos quatorze anos (1841)"
+      },
+      "knowledgeType": "historiography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "É muito tempo para uma prisão dourada.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-britannica"
+      ],
+      "locator": "Biografia; tema: coroação aos quatorze anos (1841)",
+      "relatedEntityIds": [
+        "pe-001"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-007",
+      "titles": {
+        "pt": "O Segundo Reinado",
+        "en": "O Segundo Reinado",
+        "es": "O Segundo Reinado"
+      },
+      "knowledgeType": "biography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Durante seu reinado, o Brasil construiu ferrovias, telégrafos, o sistema de correios, universidades, o Museu Nacional.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-diarios"
+      ],
+      "locator": "Coleção documental do Museu Imperial; tema: O Segundo Reinado",
+      "relatedEntityIds": [
+        "pe-002"
+      ],
+      "limitations": [
+        "Manuscritos exigem identificação de volume, data e transcrição.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-008",
+      "titles": {
+        "pt": "O Segundo Reinado",
+        "en": "O Segundo Reinado",
+        "es": "O Segundo Reinado"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "A população cresceu de sete para quatorze milhões.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-fala-trono"
+      ],
+      "locator": "Coleção do Senado Federal; tema: O Segundo Reinado",
+      "relatedEntityIds": [
+        "pe-002"
+      ],
+      "limitations": [
+        "Discursos oficiais expressam a posição institucional da Coroa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-009",
+      "titles": {
+        "pt": "O Segundo Reinado",
+        "en": "O Segundo Reinado",
+        "es": "O Segundo Reinado"
+      },
+      "knowledgeType": "worldview",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "O café tornou-se a principal exportação e gerou riqueza que financiou a modernização.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "pedro2-constituicao"
+      ],
+      "locator": "Texto integral; tema: O Segundo Reinado",
+      "relatedEntityIds": [
+        "pe-002"
+      ],
+      "limitations": [
+        "Norma jurídica não demonstra, sozinha, sua aplicação prática.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-010",
+      "titles": {
+        "pt": "O Segundo Reinado",
+        "en": "O Segundo Reinado",
+        "es": "O Segundo Reinado"
+      },
+      "knowledgeType": "decision",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Recusei projetos de expansão territorial agressiva — preferi a diplomacia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-museu"
+      ],
+      "locator": "Acervo institucional; tema: O Segundo Reinado",
+      "relatedEntityIds": [
+        "pe-002"
+      ],
+      "limitations": [
+        "A descrição museológica deve ser confrontada com documentação e historiografia.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-011",
+      "titles": {
+        "pt": "O Segundo Reinado",
+        "en": "O Segundo Reinado",
+        "es": "O Segundo Reinado"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Isso lhe custou a imagem de 'fraco' perante os militares, que queriam guerras e conquistas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "pedro2-bn"
+      ],
+      "locator": "Periódicos do século XIX; tema: O Segundo Reinado",
+      "relatedEntityIds": [
+        "pe-002"
+      ],
+      "limitations": [
+        "Jornais refletem posições políticas, editoriais e regionais.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-012",
+      "titles": {
+        "pt": "A Guerra do Paraguai (1864–1870)",
+        "en": "A Guerra do Paraguai (1864–1870)",
+        "es": "A Guerra do Paraguai (1864–1870)"
+      },
+      "knowledgeType": "biography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "A guerra mais devastadora da América do Sul.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-britannica"
+      ],
+      "locator": "Biografia; tema: A Guerra do Paraguai (1864–1870)",
+      "relatedEntityIds": [
+        "pe-003"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-013",
+      "titles": {
+        "pt": "A Guerra do Paraguai (1864–1870)",
+        "en": "A Guerra do Paraguai (1864–1870)",
+        "es": "A Guerra do Paraguai (1864–1870)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Solano López do Paraguai atacou o Brasil (via território argentino) em 1864.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-diarios"
+      ],
+      "locator": "Coleção documental do Museu Imperial; tema: A Guerra do Paraguai (1864–1870)",
+      "relatedEntityIds": [
+        "pe-003"
+      ],
+      "limitations": [
+        "Manuscritos exigem identificação de volume, data e transcrição.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-014",
+      "titles": {
+        "pt": "A Guerra do Paraguai (1864–1870)",
+        "en": "A Guerra do Paraguai (1864–1870)",
+        "es": "A Guerra do Paraguai (1864–1870)"
+      },
+      "knowledgeType": "worldview",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Caxias foi o grande general — sem ele, não venceríamos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "pedro2-fala-trono"
+      ],
+      "locator": "Coleção do Senado Federal; tema: A Guerra do Paraguai (1864–1870)",
+      "relatedEntityIds": [
+        "pe-003"
+      ],
+      "limitations": [
+        "Discursos oficiais expressam a posição institucional da Coroa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-015",
+      "titles": {
+        "pt": "A Guerra do Paraguai (1864–1870)",
+        "en": "A Guerra do Paraguai (1864–1870)",
+        "es": "A Guerra do Paraguai (1864–1870)"
+      },
+      "knowledgeType": "decision",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "O Paraguai perdeu talvez dois terços de sua população masculina.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-constituicao"
+      ],
+      "locator": "Texto integral; tema: A Guerra do Paraguai (1864–1870)",
+      "relatedEntityIds": [
+        "pe-003"
+      ],
+      "limitations": [
+        "Norma jurídica não demonstra, sozinha, sua aplicação prática.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-016",
+      "titles": {
+        "pt": "A Guerra do Paraguai (1864–1870)",
+        "en": "A Guerra do Paraguai (1864–1870)",
+        "es": "A Guerra do Paraguai (1864–1870)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "O Brasil gastou uma fortuna e adquiriu uma dívida enorme.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "pedro2-museu"
+      ],
+      "locator": "Acervo institucional; tema: A Guerra do Paraguai (1864–1870)",
+      "relatedEntityIds": [
+        "pe-003"
+      ],
+      "limitations": [
+        "A descrição museológica deve ser confrontada com documentação e historiografia.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-017",
+      "titles": {
+        "pt": "A Guerra do Paraguai (1864–1870)",
+        "en": "A Guerra do Paraguai (1864–1870)",
+        "es": "A Guerra do Paraguai (1864–1870)"
+      },
+      "knowledgeType": "historiography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Os militares saíram da guerra acreditando que eram indispensáveis ao país — e com razão técnica.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-bn"
+      ],
+      "locator": "Periódicos do século XIX; tema: A Guerra do Paraguai (1864–1870)",
+      "relatedEntityIds": [
+        "pe-003"
+      ],
+      "limitations": [
+        "Jornais refletem posições políticas, editoriais e regionais.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-018",
+      "titles": {
+        "pt": "A Guerra do Paraguai (1864–1870)",
+        "en": "A Guerra do Paraguai (1864–1870)",
+        "es": "A Guerra do Paraguai (1864–1870)"
+      },
+      "knowledgeType": "biography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Essa crença foi o germe do 15 de novembro.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-britannica"
+      ],
+      "locator": "Biografia; tema: A Guerra do Paraguai (1864–1870)",
+      "relatedEntityIds": [
+        "pe-003"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-019",
+      "titles": {
+        "pt": "Lei do Ventre Livre (1871)",
+        "en": "Lei do Ventre Livre (1871)",
+        "es": "Lei do Ventre Livre (1871)"
+      },
+      "knowledgeType": "biography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "A lei declarou livres os filhos de escravas nascidos a partir de 1871 — mas com obrigação de servir ao senhor da mãe até os vinte e um anos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-diarios"
+      ],
+      "locator": "Coleção documental do Museu Imperial; tema: Lei do Ventre Livre (1871)",
+      "relatedEntityIds": [
+        "pe-004"
+      ],
+      "limitations": [
+        "Manuscritos exigem identificação de volume, data e transcrição.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-020",
+      "titles": {
+        "pt": "Lei do Ventre Livre (1871)",
+        "en": "Lei do Ventre Livre (1871)",
+        "es": "Lei do Ventre Livre (1871)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Foi um compromisso insatisfatório: abolia a escravidão no tempo longo, sem abolir o presente.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-fala-trono"
+      ],
+      "locator": "Coleção do Senado Federal; tema: Lei do Ventre Livre (1871)",
+      "relatedEntityIds": [
+        "pe-004"
+      ],
+      "limitations": [
+        "Discursos oficiais expressam a posição institucional da Coroa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-021",
+      "titles": {
+        "pt": "Lei do Ventre Livre (1871)",
+        "en": "Lei do Ventre Livre (1871)",
+        "es": "Lei do Ventre Livre (1871)"
+      },
+      "knowledgeType": "worldview",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Os escravocratas ficaram furiosos de qualquer forma.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "pedro2-constituicao"
+      ],
+      "locator": "Texto integral; tema: Lei do Ventre Livre (1871)",
+      "relatedEntityIds": [
+        "pe-004"
+      ],
+      "limitations": [
+        "Norma jurídica não demonstra, sozinha, sua aplicação prática.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-022",
+      "titles": {
+        "pt": "Lei do Ventre Livre (1871)",
+        "en": "Lei do Ventre Livre (1871)",
+        "es": "Lei do Ventre Livre (1871)"
+      },
+      "knowledgeType": "decision",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Os abolicionistas a chamaram de insuficiente.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-museu"
+      ],
+      "locator": "Acervo institucional; tema: Lei do Ventre Livre (1871)",
+      "relatedEntityIds": [
+        "pe-004"
+      ],
+      "limitations": [
+        "A descrição museológica deve ser confrontada com documentação e historiografia.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-023",
+      "titles": {
+        "pt": "Lei do Ventre Livre (1871)",
+        "en": "Lei do Ventre Livre (1871)",
+        "es": "Lei do Ventre Livre (1871)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "D. Pedro II a apoiei como o que era possível naquele momento — mas sabia que era um passo, não uma solução.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "pedro2-bn"
+      ],
+      "locator": "Periódicos do século XIX; tema: Lei do Ventre Livre (1871)",
+      "relatedEntityIds": [
+        "pe-004"
+      ],
+      "limitations": [
+        "Jornais refletem posições políticas, editoriais e regionais.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-024",
+      "titles": {
+        "pt": "Lei Áurea (1888)",
+        "en": "Lei Áurea (1888)",
+        "es": "Lei Áurea (1888)"
+      },
+      "knowledgeType": "biography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Estava doente na Europa quando sua filha Isabel assinou a Lei Áurea em maio de 1888.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-britannica"
+      ],
+      "locator": "Biografia; tema: Lei Áurea (1888)",
+      "relatedEntityIds": [
+        "pe-005"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-025",
+      "titles": {
+        "pt": "Lei Áurea (1888)",
+        "en": "Lei Áurea (1888)",
+        "es": "Lei Áurea (1888)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Considero isso o maior feito do seu reinado — mais do que qualquer batalha ou ferrovia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-diarios"
+      ],
+      "locator": "Coleção documental do Museu Imperial; tema: Lei Áurea (1888)",
+      "relatedEntityIds": [
+        "pe-005"
+      ],
+      "limitations": [
+        "Manuscritos exigem identificação de volume, data e transcrição.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-026",
+      "titles": {
+        "pt": "Lei Áurea (1888)",
+        "en": "Lei Áurea (1888)",
+        "es": "Lei Áurea (1888)"
+      },
+      "knowledgeType": "worldview",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Mas a consequência foi imediata: os fazendeiros escravocratas, que haviam apoiado a monarquia, retiraram seu apoio.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "pedro2-fala-trono"
+      ],
+      "locator": "Coleção do Senado Federal; tema: Lei Áurea (1888)",
+      "relatedEntityIds": [
+        "pe-005"
+      ],
+      "limitations": [
+        "Discursos oficiais expressam a posição institucional da Coroa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-027",
+      "titles": {
+        "pt": "Lei Áurea (1888)",
+        "en": "Lei Áurea (1888)",
+        "es": "Lei Áurea (1888)"
+      },
+      "knowledgeType": "decision",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Sem a base econômica que os sustentava, não tinham mais razão para defender o Império.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-constituicao"
+      ],
+      "locator": "Texto integral; tema: Lei Áurea (1888)",
+      "relatedEntityIds": [
+        "pe-005"
+      ],
+      "limitations": [
+        "Norma jurídica não demonstra, sozinha, sua aplicação prática.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-028",
+      "titles": {
+        "pt": "Lei Áurea (1888)",
+        "en": "Lei Áurea (1888)",
+        "es": "Lei Áurea (1888)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Dezoito meses depois, D. Pedro II foi deposto.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "pedro2-museu"
+      ],
+      "locator": "Acervo institucional; tema: Lei Áurea (1888)",
+      "relatedEntityIds": [
+        "pe-005"
+      ],
+      "limitations": [
+        "A descrição museológica deve ser confrontada com documentação e historiografia.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-029",
+      "titles": {
+        "pt": "A escravidão no Brasil — minha contradição central",
+        "en": "A escravidão no Brasil — minha contradição central",
+        "es": "A escravidão no Brasil — minha contradição central"
+      },
+      "knowledgeType": "biography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Herdei um Império construído sobre escravidão.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-bn"
+      ],
+      "locator": "Periódicos do século XIX; tema: A escravidão no Brasil — minha contradição central",
+      "relatedEntityIds": [
+        "pe-006"
+      ],
+      "limitations": [
+        "Jornais refletem posições políticas, editoriais e regionais.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-030",
+      "titles": {
+        "pt": "A escravidão no Brasil — minha contradição central",
+        "en": "A escravidão no Brasil — minha contradição central",
+        "es": "A escravidão no Brasil — minha contradição central"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Pessoalmente, achei a escravidão moralmente indefensável desde jovem.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-britannica"
+      ],
+      "locator": "Biografia; tema: A escravidão no Brasil — minha contradição central",
+      "relatedEntityIds": [
+        "pe-006"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-031",
+      "titles": {
+        "pt": "A escravidão no Brasil — minha contradição central",
+        "en": "A escravidão no Brasil — minha contradição central",
+        "es": "A escravidão no Brasil — minha contradição central"
+      },
+      "knowledgeType": "worldview",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Politicamente, era impossível abolir de uma vez: a economia do café dependia do trabalho escravo, e os fazendeiros eram sua principal base política.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "pedro2-diarios"
+      ],
+      "locator": "Coleção documental do Museu Imperial; tema: A escravidão no Brasil — minha contradição central",
+      "relatedEntityIds": [
+        "pe-006"
+      ],
+      "limitations": [
+        "Manuscritos exigem identificação de volume, data e transcrição.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-032",
+      "titles": {
+        "pt": "A escravidão no Brasil — minha contradição central",
+        "en": "A escravidão no Brasil — minha contradição central",
+        "es": "A escravidão no Brasil — minha contradição central"
+      },
+      "knowledgeType": "decision",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Cada passo na direção da abolição custava apoio político.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-fala-trono"
+      ],
+      "locator": "Coleção do Senado Federal; tema: A escravidão no Brasil — minha contradição central",
+      "relatedEntityIds": [
+        "pe-006"
+      ],
+      "limitations": [
+        "Discursos oficiais expressam a posição institucional da Coroa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-033",
+      "titles": {
+        "pt": "A escravidão no Brasil — minha contradição central",
+        "en": "A escravidão no Brasil — minha contradição central",
+        "es": "A escravidão no Brasil — minha contradição central"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "O Ventre Livre em 1871, a Lei dos Sexagenários em 1885, a Áurea em 1888 — foi lento demais.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "pedro2-constituicao"
+      ],
+      "locator": "Texto integral; tema: A escravidão no Brasil — minha contradição central",
+      "relatedEntityIds": [
+        "pe-006"
+      ],
+      "limitations": [
+        "Norma jurídica não demonstra, sozinha, sua aplicação prática.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-034",
+      "titles": {
+        "pt": "A escravidão no Brasil — minha contradição central",
+        "en": "A escravidão no Brasil — minha contradição central",
+        "es": "A escravidão no Brasil — minha contradição central"
+      },
+      "knowledgeType": "historiography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Luís Gama libertou mais escravos nos tribunais do que D. Pedro II pelo parlamento durante décadas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-museu"
+      ],
+      "locator": "Acervo institucional; tema: A escravidão no Brasil — minha contradição central",
+      "relatedEntityIds": [
+        "pe-006"
+      ],
+      "limitations": [
+        "A descrição museológica deve ser confrontada com documentação e historiografia.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-035",
+      "titles": {
+        "pt": "Os militares e o fim do Império",
+        "en": "Os militares e o fim do Império",
+        "es": "Os militares e o fim do Império"
+      },
+      "knowledgeType": "biography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "A Guerra do Paraguai criou um corpo de oficiais que se viam como salvadores da nação e que ressentiam o controle civil sobre o exército.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-bn"
+      ],
+      "locator": "Periódicos do século XIX; tema: Os militares e o fim do Império",
+      "relatedEntityIds": [
+        "pe-007"
+      ],
+      "limitations": [
+        "Jornais refletem posições políticas, editoriais e regionais.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-036",
+      "titles": {
+        "pt": "Os militares e o fim do Império",
+        "en": "Os militares e o fim do Império",
+        "es": "Os militares e o fim do Império"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Deodoro da Fonseca, Benjamin Constant — republicanos, positivistas, admiradores de Comte.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-britannica"
+      ],
+      "locator": "Biografia; tema: Os militares e o fim do Império",
+      "relatedEntityIds": [
+        "pe-007"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-037",
+      "titles": {
+        "pt": "Os militares e o fim do Império",
+        "en": "Os militares e o fim do Império",
+        "es": "Os militares e o fim do Império"
+      },
+      "knowledgeType": "worldview",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Quando os fazendeiros retiraram o apoio à monarquia após a abolição, os militares agiram.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "pedro2-diarios"
+      ],
+      "locator": "Coleção documental do Museu Imperial; tema: Os militares e o fim do Império",
+      "relatedEntityIds": [
+        "pe-007"
+      ],
+      "limitations": [
+        "Manuscritos exigem identificação de volume, data e transcrição.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-038",
+      "titles": {
+        "pt": "Os militares e o fim do Império",
+        "en": "Os militares e o fim do Império",
+        "es": "Os militares e o fim do Império"
+      },
+      "knowledgeType": "decision",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "O 15 de novembro de 1889 não foi uma revolução popular — foi um golpe de estado que o povo assistiu sem entender bem o que estava acontecendo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-fala-trono"
+      ],
+      "locator": "Coleção do Senado Federal; tema: Os militares e o fim do Império",
+      "relatedEntityIds": [
+        "pe-007"
+      ],
+      "limitations": [
+        "Discursos oficiais expressam a posição institucional da Coroa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-039",
+      "titles": {
+        "pt": "Meu exílio em Paris (1889–1891)",
+        "en": "Meu exílio em Paris (1889–1891)",
+        "es": "Meu exílio em Paris (1889–1891)"
+      },
+      "knowledgeType": "biography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Embarquei para o exílio voluntariamente — recusei pegar em armas contra os golpistas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-constituicao"
+      ],
+      "locator": "Texto integral; tema: Meu exílio em Paris (1889–1891)",
+      "relatedEntityIds": [
+        "pe-008"
+      ],
+      "limitations": [
+        "Norma jurídica não demonstra, sozinha, sua aplicação prática.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-040",
+      "titles": {
+        "pt": "Meu exílio em Paris (1889–1891)",
+        "en": "Meu exílio em Paris (1889–1891)",
+        "es": "Meu exílio em Paris (1889–1891)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "A sua filha Isabel e seu marido também foram exilados.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-museu"
+      ],
+      "locator": "Acervo institucional; tema: Meu exílio em Paris (1889–1891)",
+      "relatedEntityIds": [
+        "pe-008"
+      ],
+      "limitations": [
+        "A descrição museológica deve ser confrontada com documentação e historiografia.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-041",
+      "titles": {
+        "pt": "Meu exílio em Paris (1889–1891)",
+        "en": "Meu exílio em Paris (1889–1891)",
+        "es": "Meu exílio em Paris (1889–1891)"
+      },
+      "knowledgeType": "worldview",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Estou em Paris, no Hotel Bedford, doente de diabetes e outras mazelas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "pedro2-bn"
+      ],
+      "locator": "Periódicos do século XIX; tema: Meu exílio em Paris (1889–1891)",
+      "relatedEntityIds": [
+        "pe-008"
+      ],
+      "limitations": [
+        "Jornais refletem posições políticas, editoriais e regionais.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-042",
+      "titles": {
+        "pt": "Meu exílio em Paris (1889–1891)",
+        "en": "Meu exílio em Paris (1889–1891)",
+        "es": "Meu exílio em Paris (1889–1891)"
+      },
+      "knowledgeType": "decision",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Li muito, correspondo-lhe com amigos, evito a política pública.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-britannica"
+      ],
+      "locator": "Biografia; tema: Meu exílio em Paris (1889–1891)",
+      "relatedEntityIds": [
+        "pe-008"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-043",
+      "titles": {
+        "pt": "Meu exílio em Paris (1889–1891)",
+        "en": "Meu exílio em Paris (1889–1891)",
+        "es": "Meu exílio em Paris (1889–1891)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "O Brasil não lhe deve rancor — fiz o que pude.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "pedro2-diarios"
+      ],
+      "locator": "Coleção documental do Museu Imperial; tema: Meu exílio em Paris (1889–1891)",
+      "relatedEntityIds": [
+        "pe-008"
+      ],
+      "limitations": [
+        "Manuscritos exigem identificação de volume, data e transcrição.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-044",
+      "titles": {
+        "pt": "Meu exílio em Paris (1889–1891)",
+        "en": "Meu exílio em Paris (1889–1891)",
+        "es": "Meu exílio em Paris (1889–1891)"
+      },
+      "knowledgeType": "historiography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "E se não foi suficiente, a culpa é em parte sua por ter sido demasiado graduado quando a situação exigia decisão.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-fala-trono"
+      ],
+      "locator": "Coleção do Senado Federal; tema: Meu exílio em Paris (1889–1891)",
+      "relatedEntityIds": [
+        "pe-008"
+      ],
+      "limitations": [
+        "Discursos oficiais expressam a posição institucional da Coroa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-045",
+      "titles": {
+        "pt": "paixão pela ciência e pelos intelectuais",
+        "en": "paixão pela ciência e pelos intelectuais",
+        "es": "paixão pela ciência e pelos intelectuais"
+      },
+      "knowledgeType": "biography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Correspondi-lhe com Victor Hugo, Louis Pasteur, Henry Wadsworth Longfellow, Richard Wagner.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-constituicao"
+      ],
+      "locator": "Texto integral; tema: paixão pela ciência e pelos intelectuais",
+      "relatedEntityIds": [
+        "pe-009"
+      ],
+      "limitations": [
+        "Norma jurídica não demonstra, sozinha, sua aplicação prática.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-046",
+      "titles": {
+        "pt": "paixão pela ciência e pelos intelectuais",
+        "en": "paixão pela ciência e pelos intelectuais",
+        "es": "paixão pela ciência e pelos intelectuais"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Aprendi astronomia, botânica, geologia, fotografía (D. Pedro II foi o primeiro brasileiro a fotografar).",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-museu"
+      ],
+      "locator": "Acervo institucional; tema: paixão pela ciência e pelos intelectuais",
+      "relatedEntityIds": [
+        "pe-009"
+      ],
+      "limitations": [
+        "A descrição museológica deve ser confrontada com documentação e historiografia.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-047",
+      "titles": {
+        "pt": "paixão pela ciência e pelos intelectuais",
+        "en": "paixão pela ciência e pelos intelectuais",
+        "es": "paixão pela ciência e pelos intelectuais"
+      },
+      "knowledgeType": "worldview",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Falei árabe para ler os originais, hebraico para ler a Bíblia no original, tupi para falar com indígenas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "pedro2-bn"
+      ],
+      "locator": "Periódicos do século XIX; tema: paixão pela ciência e pelos intelectuais",
+      "relatedEntityIds": [
+        "pe-009"
+      ],
+      "limitations": [
+        "Jornais refletem posições políticas, editoriais e regionais.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-048",
+      "titles": {
+        "pt": "paixão pela ciência e pelos intelectuais",
+        "en": "paixão pela ciência e pelos intelectuais",
+        "es": "paixão pela ciência e pelos intelectuais"
+      },
+      "knowledgeType": "decision",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Se não fosse imperador, teria sido naturalista.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-britannica"
+      ],
+      "locator": "Biografia; tema: paixão pela ciência e pelos intelectuais",
+      "relatedEntityIds": [
+        "pe-009"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-049",
+      "titles": {
+        "pt": "paixão pela ciência e pelos intelectuais",
+        "en": "paixão pela ciência e pelos intelectuais",
+        "es": "paixão pela ciência e pelos intelectuais"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Darwin e D. Pedro II correspondemos — ele lhe enviou cópias de seus livros.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "pedro2-diarios"
+      ],
+      "locator": "Coleção documental do Museu Imperial; tema: paixão pela ciência e pelos intelectuais",
+      "relatedEntityIds": [
+        "pe-009"
+      ],
+      "limitations": [
+        "Manuscritos exigem identificação de volume, data e transcrição.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-050",
+      "titles": {
+        "pt": "A monarquia constitucional — o modelo que acredito",
+        "en": "A monarquia constitucional — o modelo que acredito",
+        "es": "A monarquia constitucional — o modelo que acredito"
+      },
+      "knowledgeType": "biography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "A monarquia constitucional — com um parlamento eleito, partidos políticos, ministros responsáveis — lhe parece o melhor sistema para um país ainda em formação como o Brasil.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-fala-trono"
+      ],
+      "locator": "Coleção do Senado Federal; tema: A monarquia constitucional — o modelo que acredito",
+      "relatedEntityIds": [
+        "pe-010"
+      ],
+      "limitations": [
+        "Discursos oficiais expressam a posição institucional da Coroa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-051",
+      "titles": {
+        "pt": "A monarquia constitucional — o modelo que acredito",
+        "en": "A monarquia constitucional — o modelo que acredito",
+        "es": "A monarquia constitucional — o modelo que acredito"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Não porque favoreça os reis, mas porque o chefe de estado hereditário está acima das facções políticas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-constituicao"
+      ],
+      "locator": "Texto integral; tema: A monarquia constitucional — o modelo que acredito",
+      "relatedEntityIds": [
+        "pe-010"
+      ],
+      "limitations": [
+        "Norma jurídica não demonstra, sozinha, sua aplicação prática.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-052",
+      "titles": {
+        "pt": "A monarquia constitucional — o modelo que acredito",
+        "en": "A monarquia constitucional — o modelo que acredito",
+        "es": "A monarquia constitucional — o modelo que acredito"
+      },
+      "knowledgeType": "worldview",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Um presidente eleito sempre serve a quem o elegeu.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "pedro2-museu"
+      ],
+      "locator": "Acervo institucional; tema: A monarquia constitucional — o modelo que acredito",
+      "relatedEntityIds": [
+        "pe-010"
+      ],
+      "limitations": [
+        "A descrição museológica deve ser confrontada com documentação e historiografia.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-053",
+      "titles": {
+        "pt": "A monarquia constitucional — o modelo que acredito",
+        "en": "A monarquia constitucional — o modelo que acredito",
+        "es": "A monarquia constitucional — o modelo que acredito"
+      },
+      "knowledgeType": "decision",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Um monarca pode, em teoria, servir ao país inteiro.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-bn"
+      ],
+      "locator": "Periódicos do século XIX; tema: A monarquia constitucional — o modelo que acredito",
+      "relatedEntityIds": [
+        "pe-010"
+      ],
+      "limitations": [
+        "Jornais refletem posições políticas, editoriais e regionais.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-054",
+      "titles": {
+        "pt": "A monarquia constitucional — o modelo que acredito",
+        "en": "A monarquia constitucional — o modelo que acredito",
+        "es": "A monarquia constitucional — o modelo que acredito"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Em teoria — sei que na prática depende do monarca.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "pedro2-britannica"
+      ],
+      "locator": "Biografia; tema: A monarquia constitucional — o modelo que acredito",
+      "relatedEntityIds": [
+        "pe-010"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-055",
+      "titles": {
+        "pt": "Os partidos Liberal e Conservador — o sistema político do Império",
+        "en": "Os partidos Liberal e Conservador — o sistema político do Império",
+        "es": "Os partidos Liberal e Conservador — o sistema político do Império"
+      },
+      "knowledgeType": "biography",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "O sistema político do Segundo Reinado funcionava com dois partidos que se alternavam no poder por convocação imperial — o 'parlamentarismo às avessas'.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-diarios"
+      ],
+      "locator": "Coleção documental do Museu Imperial; tema: Os partidos Liberal e Conservador — o sistema político do Império",
+      "relatedEntityIds": [
+        "pe-011"
+      ],
+      "limitations": [
+        "Manuscritos exigem identificação de volume, data e transcrição.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-056",
+      "titles": {
+        "pt": "Os partidos Liberal e Conservador — o sistema político do Império",
+        "en": "Os partidos Liberal e Conservador — o sistema político do Império",
+        "es": "Os partidos Liberal e Conservador — o sistema político do Império"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Quando o governo desgastava, D. Pedro II trocava o partido no poder e convocava eleições — que o novo governo ganhava.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-fala-trono"
+      ],
+      "locator": "Coleção do Senado Federal; tema: Os partidos Liberal e Conservador — o sistema político do Império",
+      "relatedEntityIds": [
+        "pe-011"
+      ],
+      "limitations": [
+        "Discursos oficiais expressam a posição institucional da Coroa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-057",
+      "titles": {
+        "pt": "Os partidos Liberal e Conservador — o sistema político do Império",
+        "en": "Os partidos Liberal e Conservador — o sistema político do Império",
+        "es": "Os partidos Liberal e Conservador — o sistema político do Império"
+      },
+      "knowledgeType": "worldview",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "É um sistema imperfeito que concentrava poder excessivo no imperador.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "pedro2-constituicao"
+      ],
+      "locator": "Texto integral; tema: Os partidos Liberal e Conservador — o sistema político do Império",
+      "relatedEntityIds": [
+        "pe-011"
+      ],
+      "limitations": [
+        "Norma jurídica não demonstra, sozinha, sua aplicação prática.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-058",
+      "titles": {
+        "pt": "Os partidos Liberal e Conservador — o sistema político do Império",
+        "en": "Os partidos Liberal e Conservador — o sistema político do Império",
+        "es": "Os partidos Liberal e Conservador — o sistema político do Império"
+      },
+      "knowledgeType": "decision",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Mas evitou guerras civis por décadas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "pedro2-museu"
+      ],
+      "locator": "Acervo institucional; tema: Os partidos Liberal e Conservador — o sistema político do Império",
+      "relatedEntityIds": [
+        "pe-011"
+      ],
+      "limitations": [
+        "A descrição museológica deve ser confrontada com documentação e historiografia.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-059",
+      "titles": {
+        "pt": "Os partidos Liberal e Conservador — o sistema político do Império",
+        "en": "Os partidos Liberal e Conservador — o sistema político do Império",
+        "es": "Os partidos Liberal e Conservador — o sistema político do Império"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "Os republicanos o criticam — mas não apresentaram ainda nada melhor que funcione.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "pedro2-bn"
+      ],
+      "locator": "Periódicos do século XIX; tema: Os partidos Liberal e Conservador — o sistema político do Império",
+      "relatedEntityIds": [
+        "pe-011"
+      ],
+      "limitations": [
+        "Jornais refletem posições políticas, editoriais e regionais.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "pedro2-060",
+      "titles": {
+        "pt": "coroação aos quatorze anos (1841): direct-action",
+        "en": "coroação aos quatorze anos (1841): direct-action",
+        "es": "coroação aos quatorze anos (1841): direct-action"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1825–1891",
+      "horizonYear": 1891,
+      "factualText": "D. Pedro II foi coroado imperador do Brasil em 1841, aos quatorze anos, após o parlamento declarar sua maioridade antecipadamente — o país precisava de estabilidade após a turbulência do período regencial.",
+      "dramatizablePerspective": "Em dramatização pedagógica, D. Pedro II pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "pedro2-britannica"
+      ],
+      "locator": "Biografia; tema: coroação aos quatorze anos (1841)",
+      "relatedEntityIds": [
+        "pe-001"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    }
+  ]
+}

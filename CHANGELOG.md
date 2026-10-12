@@ -3,6 +3,18 @@
 
 ---
 
+## v8.1 — Vozes generativas fundamentadas
+
+- Catálogo externo e validado para as oito personas.
+- Dossiês reversíveis com 480 registros derivados e 48 fontes abertas ou de domínio público.
+- Índice lexical regenerável e conjunto dourado ampliado para 160 perguntas.
+- SmolLM2-135M-Instruct leve e Qwen2.5-0.5B-Instruct avançado como redatores locais opcionais em Web Worker.
+- Condições explícitas para download automático, progresso, cancelamento e limpeza do cache.
+- Validador de datas, números, nomes e citações com uma regeneração restrita e fallback determinístico.
+- Nenhuma obra protegida, caminho da biblioteca local, conversa ou dado pessoal integra os arquivos publicados.
+
+---
+
 ## v8.0 — Mobile, Vozes fundamentadas e mundo lusófono
 
 **Experiência**

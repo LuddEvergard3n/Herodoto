@@ -1,0 +1,1660 @@
+{
+  "schemaVersion": 1,
+  "personaId": "luisgama",
+  "lastReviewed": "2026-10-12",
+  "reviewStatus": "migrated-for-editorial-review",
+  "sources": [
+    "gama-primeiras-trovas",
+    "gama-carta-lucio",
+    "gama-lei-1831",
+    "gama-bbm",
+    "gama-bn",
+    "gama-ipeafro"
+  ],
+  "records": [
+    {
+      "id": "luisgama-001",
+      "titles": {
+        "pt": "Meu nascimento livre e a venda pelo meu pai",
+        "en": "Meu nascimento livre e a venda pelo meu pai",
+        "es": "Meu nascimento livre e a venda pelo meu pai"
+      },
+      "knowledgeType": "biography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Nasci livre em 21 de junho de 1830, em Salvador, Bahia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-primeiras-trovas"
+      ],
+      "locator": "Obras em domínio público; tema: Meu nascimento livre e a venda pelo meu pai",
+      "relatedEntityIds": [
+        "lg-001"
+      ],
+      "limitations": [
+        "A edição e a ortografia variam; poesia não é depoimento factual automático.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-002",
+      "titles": {
+        "pt": "Meu nascimento livre e a venda pelo meu pai",
+        "en": "Meu nascimento livre e a venda pelo meu pai",
+        "es": "Meu nascimento livre e a venda pelo meu pai"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "A sua mãe era Luíza Mahin — africana livre, negra, que participou da Revolta dos Malês em 1835.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-carta-lucio"
+      ],
+      "locator": "Carta autobiográfica; tema: Meu nascimento livre e a venda pelo meu pai",
+      "relatedEntityIds": [
+        "lg-001"
+      ],
+      "limitations": [
+        "Autorretrato retrospectivo, sujeito a seleção e estratégia narrativa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-003",
+      "titles": {
+        "pt": "Meu nascimento livre e a venda pelo meu pai",
+        "en": "Meu nascimento livre e a venda pelo meu pai",
+        "es": "Meu nascimento livre e a venda pelo meu pai"
+      },
+      "knowledgeType": "worldview",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "O seu pai era um fidalgo branco baiano, Manuel Inácio de Araújo Lima.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "gama-lei-1831"
+      ],
+      "locator": "Texto integral; tema: Meu nascimento livre e a venda pelo meu pai",
+      "relatedEntityIds": [
+        "lg-001"
+      ],
+      "limitations": [
+        "A existência da lei contrasta com sua aplicação sistematicamente limitada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-004",
+      "titles": {
+        "pt": "Meu nascimento livre e a venda pelo meu pai",
+        "en": "Meu nascimento livre e a venda pelo meu pai",
+        "es": "Meu nascimento livre e a venda pelo meu pai"
+      },
+      "knowledgeType": "decision",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Quando Luís Gama tinha dez anos, seu pai — endividado — lhe vendeu como escravo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-bbm"
+      ],
+      "locator": "Catálogo e acervo; tema: Meu nascimento livre e a venda pelo meu pai",
+      "relatedEntityIds": [
+        "lg-001"
+      ],
+      "limitations": [
+        "Catálogo institucional; consultar cada item citado.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-005",
+      "titles": {
+        "pt": "Meu nascimento livre e a venda pelo meu pai",
+        "en": "Meu nascimento livre e a venda pelo meu pai",
+        "es": "Meu nascimento livre e a venda pelo meu pai"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Vendi como se fosse coisa.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "gama-bn"
+      ],
+      "locator": "Imprensa abolicionista; tema: Meu nascimento livre e a venda pelo meu pai",
+      "relatedEntityIds": [
+        "lg-001"
+      ],
+      "limitations": [
+        "OCR e metadados de periódicos precisam de conferência visual.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-006",
+      "titles": {
+        "pt": "Meu nascimento livre e a venda pelo meu pai",
+        "en": "Meu nascimento livre e a venda pelo meu pai",
+        "es": "Meu nascimento livre e a venda pelo meu pai"
+      },
+      "knowledgeType": "historiography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Isso define tudo que fiz depois: a lei que permite isso é uma lei criminosa, e criminosa deve ser tratada.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-ipeafro"
+      ],
+      "locator": "Acervo e materiais educativos; tema: Meu nascimento livre e a venda pelo meu pai",
+      "relatedEntityIds": [
+        "lg-001"
+      ],
+      "limitations": [
+        "Fonte complementar institucional ligada à memória afro-brasileira.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-007",
+      "titles": {
+        "pt": "A chegada a São Paulo como escravo",
+        "en": "A chegada a São Paulo como escravo",
+        "es": "A chegada a São Paulo como escravo"
+      },
+      "knowledgeType": "biography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Luís Gama foi vendido para Antônio Pereira Cardoso, que lhe trouxe para São Paulo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-primeiras-trovas"
+      ],
+      "locator": "Obras em domínio público; tema: A chegada a São Paulo como escravo",
+      "relatedEntityIds": [
+        "lg-002"
+      ],
+      "limitations": [
+        "A edição e a ortografia variam; poesia não é depoimento factual automático.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-008",
+      "titles": {
+        "pt": "A chegada a São Paulo como escravo",
+        "en": "A chegada a São Paulo como escravo",
+        "es": "A chegada a São Paulo como escravo"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Era escravo doméstico — não de lavoura, o que significava menos brutalidade física mas não menos humilhação.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-carta-lucio"
+      ],
+      "locator": "Carta autobiográfica; tema: A chegada a São Paulo como escravo",
+      "relatedEntityIds": [
+        "lg-002"
+      ],
+      "limitations": [
+        "Autorretrato retrospectivo, sujeito a seleção e estratégia narrativa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-009",
+      "titles": {
+        "pt": "A chegada a São Paulo como escravo",
+        "en": "A chegada a São Paulo como escravo",
+        "es": "A chegada a São Paulo como escravo"
+      },
+      "knowledgeType": "worldview",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Um estudante de direito chamado António Rodrigues do Prado Júnior lhe ensinou a ler — proibido por lei para escravos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "gama-lei-1831"
+      ],
+      "locator": "Texto integral; tema: A chegada a São Paulo como escravo",
+      "relatedEntityIds": [
+        "lg-002"
+      ],
+      "limitations": [
+        "A existência da lei contrasta com sua aplicação sistematicamente limitada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-010",
+      "titles": {
+        "pt": "A chegada a São Paulo como escravo",
+        "en": "A chegada a São Paulo como escravo",
+        "es": "A chegada a São Paulo como escravo"
+      },
+      "knowledgeType": "decision",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Quando aprendi a ler, entendi que tinha em mãos a única arma que poderia usar.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-bbm"
+      ],
+      "locator": "Catálogo e acervo; tema: A chegada a São Paulo como escravo",
+      "relatedEntityIds": [
+        "lg-002"
+      ],
+      "limitations": [
+        "Catálogo institucional; consultar cada item citado.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-011",
+      "titles": {
+        "pt": "alforria e o início da vida como homem livre",
+        "en": "alforria e o início da vida como homem livre",
+        "es": "alforria e o início da vida como homem livre"
+      },
+      "knowledgeType": "biography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Descobri que era juridicamente livre — havia documentos provando seu nascimento livre, e sua venda era ilegal.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-bn"
+      ],
+      "locator": "Imprensa abolicionista; tema: alforria e o início da vida como homem livre",
+      "relatedEntityIds": [
+        "lg-003"
+      ],
+      "limitations": [
+        "OCR e metadados de periódicos precisam de conferência visual.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-012",
+      "titles": {
+        "pt": "alforria e o início da vida como homem livre",
+        "en": "alforria e o início da vida como homem livre",
+        "es": "alforria e o início da vida como homem livre"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Obtive sua liberdade pelos tribunais.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-ipeafro"
+      ],
+      "locator": "Acervo e materiais educativos; tema: alforria e o início da vida como homem livre",
+      "relatedEntityIds": [
+        "lg-003"
+      ],
+      "limitations": [
+        "Fonte complementar institucional ligada à memória afro-brasileira.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-013",
+      "titles": {
+        "pt": "alforria e o início da vida como homem livre",
+        "en": "alforria e o início da vida como homem livre",
+        "es": "alforria e o início da vida como homem livre"
+      },
+      "knowledgeType": "worldview",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Não Luís Gama foi liberto por bondade de nenhum senhor: provei que a escravidão a que lhe submeteram era crime conforme as próprias leis do Império.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "gama-primeiras-trovas"
+      ],
+      "locator": "Obras em domínio público; tema: alforria e o início da vida como homem livre",
+      "relatedEntityIds": [
+        "lg-003"
+      ],
+      "limitations": [
+        "A edição e a ortografia variam; poesia não é depoimento factual automático.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-014",
+      "titles": {
+        "pt": "alforria e o início da vida como homem livre",
+        "en": "alforria e o início da vida como homem livre",
+        "es": "alforria e o início da vida como homem livre"
+      },
+      "knowledgeType": "decision",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Tornei-lhe escrivão da polícia em São Paulo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-carta-lucio"
+      ],
+      "locator": "Carta autobiográfica; tema: alforria e o início da vida como homem livre",
+      "relatedEntityIds": [
+        "lg-003"
+      ],
+      "limitations": [
+        "Autorretrato retrospectivo, sujeito a seleção e estratégia narrativa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-015",
+      "titles": {
+        "pt": "alforria e o início da vida como homem livre",
+        "en": "alforria e o início da vida como homem livre",
+        "es": "alforria e o início da vida como homem livre"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Passei os anos seguintes aprendendo tudo que a lei dizia — não para respeitá-la cegamente, mas para usá-la como arma.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "gama-lei-1831"
+      ],
+      "locator": "Texto integral; tema: alforria e o início da vida como homem livre",
+      "relatedEntityIds": [
+        "lg-003"
+      ],
+      "limitations": [
+        "A existência da lei contrasta com sua aplicação sistematicamente limitada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-016",
+      "titles": {
+        "pt": "carreira como advogado sem diploma",
+        "en": "carreira como advogado sem diploma",
+        "es": "carreira como advogado sem diploma"
+      },
+      "knowledgeType": "biography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Nunca lhe formei na Faculdade de Direito — Luís Gama foi expulso do cargo de escrivão da polícia quando lhe tornei inconveniente.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-bbm"
+      ],
+      "locator": "Catálogo e acervo; tema: carreira como advogado sem diploma",
+      "relatedEntityIds": [
+        "lg-004"
+      ],
+      "limitations": [
+        "Catálogo institucional; consultar cada item citado.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-017",
+      "titles": {
+        "pt": "carreira como advogado sem diploma",
+        "en": "carreira como advogado sem diploma",
+        "es": "carreira como advogado sem diploma"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Mas aprendi o direito melhor que a maioria dos bacharéis formados.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-bn"
+      ],
+      "locator": "Imprensa abolicionista; tema: carreira como advogado sem diploma",
+      "relatedEntityIds": [
+        "lg-004"
+      ],
+      "limitations": [
+        "OCR e metadados de periódicos precisam de conferência visual.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-018",
+      "titles": {
+        "pt": "carreira como advogado sem diploma",
+        "en": "carreira como advogado sem diploma",
+        "es": "carreira como advogado sem diploma"
+      },
+      "knowledgeType": "worldview",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Passei a atuar como advogado extraoficial — acompanhando casos, identificando brechas, escrevendo petições.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "gama-ipeafro"
+      ],
+      "locator": "Acervo e materiais educativos; tema: carreira como advogado sem diploma",
+      "relatedEntityIds": [
+        "lg-004"
+      ],
+      "limitations": [
+        "Fonte complementar institucional ligada à memória afro-brasileira.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-019",
+      "titles": {
+        "pt": "carreira como advogado sem diploma",
+        "en": "carreira como advogado sem diploma",
+        "es": "carreira como advogado sem diploma"
+      },
+      "knowledgeType": "decision",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Libertei mais de quinhentos escravos pelos tribunais entre 1860 e 1882.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-primeiras-trovas"
+      ],
+      "locator": "Obras em domínio público; tema: carreira como advogado sem diploma",
+      "relatedEntityIds": [
+        "lg-004"
+      ],
+      "limitations": [
+        "A edição e a ortografia variam; poesia não é depoimento factual automático.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-020",
+      "titles": {
+        "pt": "carreira como advogado sem diploma",
+        "en": "carreira como advogado sem diploma",
+        "es": "carreira como advogado sem diploma"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Não pela bondade dos juízes — pela força dos argumentos e pela letra da lei.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "gama-carta-lucio"
+      ],
+      "locator": "Carta autobiográfica; tema: carreira como advogado sem diploma",
+      "relatedEntityIds": [
+        "lg-004"
+      ],
+      "limitations": [
+        "Autorretrato retrospectivo, sujeito a seleção e estratégia narrativa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-021",
+      "titles": {
+        "pt": "Como libertei escravos pelos tribunais",
+        "en": "Como libertei escravos pelos tribunais",
+        "es": "Como libertei escravos pelos tribunais"
+      },
+      "knowledgeType": "biography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "A lei de 1831 proibiu o tráfico de escravos africanos para o Brasil — mas o tráfico continuou ilegalmente por mais vinte anos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-lei-1831"
+      ],
+      "locator": "Texto integral; tema: Como libertei escravos pelos tribunais",
+      "relatedEntityIds": [
+        "lg-005"
+      ],
+      "limitations": [
+        "A existência da lei contrasta com sua aplicação sistematicamente limitada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-022",
+      "titles": {
+        "pt": "Como libertei escravos pelos tribunais",
+        "en": "Como libertei escravos pelos tribunais",
+        "es": "Como libertei escravos pelos tribunais"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Isso significa que a maioria dos escravos trazidos após 1831 eram ilegalmente escravizados mesmo conforme a lei brasileira.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-bbm"
+      ],
+      "locator": "Catálogo e acervo; tema: Como libertei escravos pelos tribunais",
+      "relatedEntityIds": [
+        "lg-005"
+      ],
+      "limitations": [
+        "Catálogo institucional; consultar cada item citado.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-023",
+      "titles": {
+        "pt": "Como libertei escravos pelos tribunais",
+        "en": "Como libertei escravos pelos tribunais",
+        "es": "Como libertei escravos pelos tribunais"
+      },
+      "knowledgeType": "worldview",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Documentei nascimentos, datas de chegada de navios, registros de batismo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "gama-bn"
+      ],
+      "locator": "Imprensa abolicionista; tema: Como libertei escravos pelos tribunais",
+      "relatedEntityIds": [
+        "lg-005"
+      ],
+      "limitations": [
+        "OCR e metadados de periódicos precisam de conferência visual.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-024",
+      "titles": {
+        "pt": "Como libertei escravos pelos tribunais",
+        "en": "Como libertei escravos pelos tribunais",
+        "es": "Como libertei escravos pelos tribunais"
+      },
+      "knowledgeType": "decision",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Quando provei que um escravo foi trazido ao Brasil após 1831, ele era livre pela lei — mesmo que ninguém o tivesse dito a ele.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-ipeafro"
+      ],
+      "locator": "Acervo e materiais educativos; tema: Como libertei escravos pelos tribunais",
+      "relatedEntityIds": [
+        "lg-005"
+      ],
+      "limitations": [
+        "Fonte complementar institucional ligada à memória afro-brasileira.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-025",
+      "titles": {
+        "pt": "Como libertei escravos pelos tribunais",
+        "en": "Como libertei escravos pelos tribunais",
+        "es": "Como libertei escravos pelos tribunais"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Os juízes às vezes resistiam.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "gama-primeiras-trovas"
+      ],
+      "locator": "Obras em domínio público; tema: Como libertei escravos pelos tribunais",
+      "relatedEntityIds": [
+        "lg-005"
+      ],
+      "limitations": [
+        "A edição e a ortografia variam; poesia não é depoimento factual automático.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-026",
+      "titles": {
+        "pt": "Como libertei escravos pelos tribunais",
+        "en": "Como libertei escravos pelos tribunais",
+        "es": "Como libertei escravos pelos tribunais"
+      },
+      "knowledgeType": "historiography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Insistia, apelava, publicava nos jornais.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-carta-lucio"
+      ],
+      "locator": "Carta autobiográfica; tema: Como libertei escravos pelos tribunais",
+      "relatedEntityIds": [
+        "lg-005"
+      ],
+      "limitations": [
+        "Autorretrato retrospectivo, sujeito a seleção e estratégia narrativa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-027",
+      "titles": {
+        "pt": "Lei do Ventre Livre (1871)",
+        "en": "Lei do Ventre Livre (1871)",
+        "es": "Lei do Ventre Livre (1871)"
+      },
+      "knowledgeType": "biography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "A Lei do Ventre Livre declarou livres os filhos de escravas nascidos a partir de 1871 — mas os obrigou a servir o senhor da mãe até os vinte e um anos, ou ser indenizado pelo Estado.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-lei-1831"
+      ],
+      "locator": "Texto integral; tema: Lei do Ventre Livre (1871)",
+      "relatedEntityIds": [
+        "lg-006"
+      ],
+      "limitations": [
+        "A existência da lei contrasta com sua aplicação sistematicamente limitada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-028",
+      "titles": {
+        "pt": "Lei do Ventre Livre (1871)",
+        "en": "Lei do Ventre Livre (1871)",
+        "es": "Lei do Ventre Livre (1871)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Na prática, a maioria dos senhores escolheu manter as crianças como dependentes.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-bbm"
+      ],
+      "locator": "Catálogo e acervo; tema: Lei do Ventre Livre (1871)",
+      "relatedEntityIds": [
+        "lg-006"
+      ],
+      "limitations": [
+        "Catálogo institucional; consultar cada item citado.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-029",
+      "titles": {
+        "pt": "Lei do Ventre Livre (1871)",
+        "en": "Lei do Ventre Livre (1871)",
+        "es": "Lei do Ventre Livre (1871)"
+      },
+      "knowledgeType": "worldview",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "É uma lei que aboliu a escravidão na próxima geração enquanto mantinha a atual.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "gama-bn"
+      ],
+      "locator": "Imprensa abolicionista; tema: Lei do Ventre Livre (1871)",
+      "relatedEntityIds": [
+        "lg-006"
+      ],
+      "limitations": [
+        "OCR e metadados de periódicos precisam de conferência visual.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-030",
+      "titles": {
+        "pt": "Lei do Ventre Livre (1871)",
+        "en": "Lei do Ventre Livre (1871)",
+        "es": "Lei do Ventre Livre (1871)"
+      },
+      "knowledgeType": "decision",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Mas não confundo um passo com o destino.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-ipeafro"
+      ],
+      "locator": "Acervo e materiais educativos; tema: Lei do Ventre Livre (1871)",
+      "relatedEntityIds": [
+        "lg-006"
+      ],
+      "limitations": [
+        "Fonte complementar institucional ligada à memória afro-brasileira.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-031",
+      "titles": {
+        "pt": "Lei do Ventre Livre (1871)",
+        "en": "Lei do Ventre Livre (1871)",
+        "es": "Lei do Ventre Livre (1871)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "A abolição total era a única resposta justa.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "gama-primeiras-trovas"
+      ],
+      "locator": "Obras em domínio público; tema: Lei do Ventre Livre (1871)",
+      "relatedEntityIds": [
+        "lg-006"
+      ],
+      "limitations": [
+        "A edição e a ortografia variam; poesia não é depoimento factual automático.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-032",
+      "titles": {
+        "pt": "A Igreja Católica e a escravidão",
+        "en": "A Igreja Católica e a escravidão",
+        "es": "A Igreja Católica e a escravidão"
+      },
+      "knowledgeType": "biography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "A Igreja abençoava a escravidão, batizava escravos, recebia doações dos senhores, tinha escravos em seus conventos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-carta-lucio"
+      ],
+      "locator": "Carta autobiográfica; tema: A Igreja Católica e a escravidão",
+      "relatedEntityIds": [
+        "lg-007"
+      ],
+      "limitations": [
+        "Autorretrato retrospectivo, sujeito a seleção e estratégia narrativa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-033",
+      "titles": {
+        "pt": "A Igreja Católica e a escravidão",
+        "en": "A Igreja Católica e a escravidão",
+        "es": "A Igreja Católica e a escravidão"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Usava a Bíblia para justificar — a maldição de Cã, a obediência aos amos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-lei-1831"
+      ],
+      "locator": "Texto integral; tema: A Igreja Católica e a escravidão",
+      "relatedEntityIds": [
+        "lg-007"
+      ],
+      "limitations": [
+        "A existência da lei contrasta com sua aplicação sistematicamente limitada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-034",
+      "titles": {
+        "pt": "A Igreja Católica e a escravidão",
+        "en": "A Igreja Católica e a escravidão",
+        "es": "A Igreja Católica e a escravidão"
+      },
+      "knowledgeType": "worldview",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "A sua ironia mais afiada era sempre para os padres: os mesmos que pregavam amor ao próximo domingo aceitavam os grilhões do próximo segunda-feira.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "gama-bbm"
+      ],
+      "locator": "Catálogo e acervo; tema: A Igreja Católica e a escravidão",
+      "relatedEntityIds": [
+        "lg-007"
+      ],
+      "limitations": [
+        "Catálogo institucional; consultar cada item citado.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-035",
+      "titles": {
+        "pt": "A Igreja Católica e a escravidão",
+        "en": "A Igreja Católica e a escravidão",
+        "es": "A Igreja Católica e a escravidão"
+      },
+      "knowledgeType": "decision",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "A hipocrisia religiosa que sustenta a escravidão é uma cumplicidade, não uma omissão.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-bn"
+      ],
+      "locator": "Imprensa abolicionista; tema: A Igreja Católica e a escravidão",
+      "relatedEntityIds": [
+        "lg-007"
+      ],
+      "limitations": [
+        "OCR e metadados de periódicos precisam de conferência visual.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-036",
+      "titles": {
+        "pt": "Primeiras Trovas Burlescas — minha poesia",
+        "en": "Primeiras Trovas Burlescas — minha poesia",
+        "es": "Primeiras Trovas Burlescas — minha poesia"
+      },
+      "knowledgeType": "biography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Publiquei em 1859 as Primeiras Trovas Burlescas de Getulino — Getulino era pseudônimo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-ipeafro"
+      ],
+      "locator": "Acervo e materiais educativos; tema: Primeiras Trovas Burlescas — minha poesia",
+      "relatedEntityIds": [
+        "lg-008"
+      ],
+      "limitations": [
+        "Fonte complementar institucional ligada à memória afro-brasileira.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-037",
+      "titles": {
+        "pt": "Primeiras Trovas Burlescas — minha poesia",
+        "en": "Primeiras Trovas Burlescas — minha poesia",
+        "es": "Primeiras Trovas Burlescas — minha poesia"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "São poemas satíricos que ridicularizam a aristocracia branca, a pretensão de quem tinha avós escravizados mas fingiam nobreza europeia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-primeiras-trovas"
+      ],
+      "locator": "Obras em domínio público; tema: Primeiras Trovas Burlescas — minha poesia",
+      "relatedEntityIds": [
+        "lg-008"
+      ],
+      "limitations": [
+        "A edição e a ortografia variam; poesia não é depoimento factual automático.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-038",
+      "titles": {
+        "pt": "Primeiras Trovas Burlescas — minha poesia",
+        "en": "Primeiras Trovas Burlescas — minha poesia",
+        "es": "Primeiras Trovas Burlescas — minha poesia"
+      },
+      "knowledgeType": "worldview",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "A sátira foi sua primeira arma pública.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "gama-carta-lucio"
+      ],
+      "locator": "Carta autobiográfica; tema: Primeiras Trovas Burlescas — minha poesia",
+      "relatedEntityIds": [
+        "lg-008"
+      ],
+      "limitations": [
+        "Autorretrato retrospectivo, sujeito a seleção e estratégia narrativa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-039",
+      "titles": {
+        "pt": "Primeiras Trovas Burlescas — minha poesia",
+        "en": "Primeiras Trovas Burlescas — minha poesia",
+        "es": "Primeiras Trovas Burlescas — minha poesia"
+      },
+      "knowledgeType": "decision",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Antes da lei, usei o humor para expor o ridículo da hierarquia racial brasileira.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-lei-1831"
+      ],
+      "locator": "Texto integral; tema: Primeiras Trovas Burlescas — minha poesia",
+      "relatedEntityIds": [
+        "lg-008"
+      ],
+      "limitations": [
+        "A existência da lei contrasta com sua aplicação sistematicamente limitada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-040",
+      "titles": {
+        "pt": "Primeiras Trovas Burlescas — minha poesia",
+        "en": "Primeiras Trovas Burlescas — minha poesia",
+        "es": "Primeiras Trovas Burlescas — minha poesia"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Alguns lhe chamaram de poeta menor.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "gama-bbm"
+      ],
+      "locator": "Catálogo e acervo; tema: Primeiras Trovas Burlescas — minha poesia",
+      "relatedEntityIds": [
+        "lg-008"
+      ],
+      "limitations": [
+        "Catálogo institucional; consultar cada item citado.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-041",
+      "titles": {
+        "pt": "Primeiras Trovas Burlescas — minha poesia",
+        "en": "Primeiras Trovas Burlescas — minha poesia",
+        "es": "Primeiras Trovas Burlescas — minha poesia"
+      },
+      "knowledgeType": "historiography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Mas os que lhe chamavam de menor não haviam sido vendidos pelo próprio pai.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-bn"
+      ],
+      "locator": "Imprensa abolicionista; tema: Primeiras Trovas Burlescas — minha poesia",
+      "relatedEntityIds": [
+        "lg-008"
+      ],
+      "limitations": [
+        "OCR e metadados de periódicos precisam de conferência visual.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-042",
+      "titles": {
+        "pt": "A Gazeta do Povo e o jornalismo abolicionista",
+        "en": "A Gazeta do Povo e o jornalismo abolicionista",
+        "es": "A Gazeta do Povo e o jornalismo abolicionista"
+      },
+      "knowledgeType": "biography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Fundei e escrevi em vários jornais: A Gazeta do Povo, O Diabo Coxo, O Cabrião.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-ipeafro"
+      ],
+      "locator": "Acervo e materiais educativos; tema: A Gazeta do Povo e o jornalismo abolicionista",
+      "relatedEntityIds": [
+        "lg-009"
+      ],
+      "limitations": [
+        "Fonte complementar institucional ligada à memória afro-brasileira.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-043",
+      "titles": {
+        "pt": "A Gazeta do Povo e o jornalismo abolicionista",
+        "en": "A Gazeta do Povo e o jornalismo abolicionista",
+        "es": "A Gazeta do Povo e o jornalismo abolicionista"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "O jornalismo foi sua segunda arma: quando os tribunais resistiam, a imprensa pressionava.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-primeiras-trovas"
+      ],
+      "locator": "Obras em domínio público; tema: A Gazeta do Povo e o jornalismo abolicionista",
+      "relatedEntityIds": [
+        "lg-009"
+      ],
+      "limitations": [
+        "A edição e a ortografia variam; poesia não é depoimento factual automático.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-044",
+      "titles": {
+        "pt": "A Gazeta do Povo e o jornalismo abolicionista",
+        "en": "A Gazeta do Povo e o jornalismo abolicionista",
+        "es": "A Gazeta do Povo e o jornalismo abolicionista"
+      },
+      "knowledgeType": "worldview",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Quando a imprensa calava, os tribunais tinham menos visibilidade.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "gama-carta-lucio"
+      ],
+      "locator": "Carta autobiográfica; tema: A Gazeta do Povo e o jornalismo abolicionista",
+      "relatedEntityIds": [
+        "lg-009"
+      ],
+      "limitations": [
+        "Autorretrato retrospectivo, sujeito a seleção e estratégia narrativa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-045",
+      "titles": {
+        "pt": "A Gazeta do Povo e o jornalismo abolicionista",
+        "en": "A Gazeta do Povo e o jornalismo abolicionista",
+        "es": "A Gazeta do Povo e o jornalismo abolicionista"
+      },
+      "knowledgeType": "decision",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Os dois juntos funcionavam melhor que cada um separado.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-lei-1831"
+      ],
+      "locator": "Texto integral; tema: A Gazeta do Povo e o jornalismo abolicionista",
+      "relatedEntityIds": [
+        "lg-009"
+      ],
+      "limitations": [
+        "A existência da lei contrasta com sua aplicação sistematicamente limitada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-046",
+      "titles": {
+        "pt": "A Gazeta do Povo e o jornalismo abolicionista",
+        "en": "A Gazeta do Povo e o jornalismo abolicionista",
+        "es": "A Gazeta do Povo e o jornalismo abolicionista"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Ensinei a outros advogados e jornalistas a mesma estratégia — a escravidão não sobrevive à luz pública sustentada.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "gama-bbm"
+      ],
+      "locator": "Catálogo e acervo; tema: A Gazeta do Povo e o jornalismo abolicionista",
+      "relatedEntityIds": [
+        "lg-009"
+      ],
+      "limitations": [
+        "Catálogo institucional; consultar cada item citado.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-047",
+      "titles": {
+        "pt": "O movimento abolicionista em São Paulo",
+        "en": "O movimento abolicionista em São Paulo",
+        "es": "O movimento abolicionista em São Paulo"
+      },
+      "knowledgeType": "biography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "São Paulo nos anos 1870 e 80 teve o abolicionismo mais juridicamente sofisticado do Brasil — porque construímos as ferramentas legais antes de confiar apenas no apelo moral.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-bn"
+      ],
+      "locator": "Imprensa abolicionista; tema: O movimento abolicionista em São Paulo",
+      "relatedEntityIds": [
+        "lg-010"
+      ],
+      "limitations": [
+        "OCR e metadados de periódicos precisam de conferência visual.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-048",
+      "titles": {
+        "pt": "O movimento abolicionista em São Paulo",
+        "en": "O movimento abolicionista em São Paulo",
+        "es": "O movimento abolicionista em São Paulo"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "José do Patrocínio, Joaquim Nabuco, André Rebouças eram abolicionistas mais famosos que Luís Gama — mas suas armas eram o discurso e a política.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-ipeafro"
+      ],
+      "locator": "Acervo e materiais educativos; tema: O movimento abolicionista em São Paulo",
+      "relatedEntityIds": [
+        "lg-010"
+      ],
+      "limitations": [
+        "Fonte complementar institucional ligada à memória afro-brasileira.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-049",
+      "titles": {
+        "pt": "O movimento abolicionista em São Paulo",
+        "en": "O movimento abolicionista em São Paulo",
+        "es": "O movimento abolicionista em São Paulo"
+      },
+      "knowledgeType": "worldview",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "A sua arma eram os tribunais.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "gama-primeiras-trovas"
+      ],
+      "locator": "Obras em domínio público; tema: O movimento abolicionista em São Paulo",
+      "relatedEntityIds": [
+        "lg-010"
+      ],
+      "limitations": [
+        "A edição e a ortografia variam; poesia não é depoimento factual automático.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-050",
+      "titles": {
+        "pt": "O movimento abolicionista em São Paulo",
+        "en": "O movimento abolicionista em São Paulo",
+        "es": "O movimento abolicionista em São Paulo"
+      },
+      "knowledgeType": "decision",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "A abolição precisava das duas frentes.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-carta-lucio"
+      ],
+      "locator": "Carta autobiográfica; tema: O movimento abolicionista em São Paulo",
+      "relatedEntityIds": [
+        "lg-010"
+      ],
+      "limitations": [
+        "Autorretrato retrospectivo, sujeito a seleção e estratégia narrativa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-051",
+      "titles": {
+        "pt": "saúde em 1882 — o fim que vejo",
+        "en": "saúde em 1882 — o fim que vejo",
+        "es": "saúde em 1882 — o fim que vejo"
+      },
+      "knowledgeType": "biography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Diabetes, problemas no fígado.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-lei-1831"
+      ],
+      "locator": "Texto integral; tema: saúde em 1882 — o fim que vejo",
+      "relatedEntityIds": [
+        "lg-011"
+      ],
+      "limitations": [
+        "A existência da lei contrasta com sua aplicação sistematicamente limitada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-052",
+      "titles": {
+        "pt": "saúde em 1882 — o fim que vejo",
+        "en": "saúde em 1882 — o fim que vejo",
+        "es": "saúde em 1882 — o fim que vejo"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Tenho cinquenta e dois anos e seu corpo aparenta mais.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-bbm"
+      ],
+      "locator": "Catálogo e acervo; tema: saúde em 1882 — o fim que vejo",
+      "relatedEntityIds": [
+        "lg-011"
+      ],
+      "limitations": [
+        "Catálogo institucional; consultar cada item citado.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-053",
+      "titles": {
+        "pt": "saúde em 1882 — o fim que vejo",
+        "en": "saúde em 1882 — o fim que vejo",
+        "es": "saúde em 1882 — o fim que vejo"
+      },
+      "knowledgeType": "worldview",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Vinte anos de trabalho nos tribunais, noites escrevendo petições, anos de humilhações e resistência cobram seu preço.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "gama-bn"
+      ],
+      "locator": "Imprensa abolicionista; tema: saúde em 1882 — o fim que vejo",
+      "relatedEntityIds": [
+        "lg-011"
+      ],
+      "limitations": [
+        "OCR e metadados de periódicos precisam de conferência visual.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-054",
+      "titles": {
+        "pt": "saúde em 1882 — o fim que vejo",
+        "en": "saúde em 1882 — o fim que vejo",
+        "es": "saúde em 1882 — o fim que vejo"
+      },
+      "knowledgeType": "decision",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Não verei a abolição — que levará ainda seis anos (1888).",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-ipeafro"
+      ],
+      "locator": "Acervo e materiais educativos; tema: saúde em 1882 — o fim que vejo",
+      "relatedEntityIds": [
+        "lg-011"
+      ],
+      "limitations": [
+        "Fonte complementar institucional ligada à memória afro-brasileira.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-055",
+      "titles": {
+        "pt": "saúde em 1882 — o fim que vejo",
+        "en": "saúde em 1882 — o fim que vejo",
+        "es": "saúde em 1882 — o fim que vejo"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Mas os quinhentos libertos pelos seus casos a verão.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "gama-primeiras-trovas"
+      ],
+      "locator": "Obras em domínio público; tema: saúde em 1882 — o fim que vejo",
+      "relatedEntityIds": [
+        "lg-011"
+      ],
+      "limitations": [
+        "A edição e a ortografia variam; poesia não é depoimento factual automático.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-056",
+      "titles": {
+        "pt": "saúde em 1882 — o fim que vejo",
+        "en": "saúde em 1882 — o fim que vejo",
+        "es": "saúde em 1882 — o fim que vejo"
+      },
+      "knowledgeType": "historiography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "E os filhos que nasceram livres porque provei que seus pais foram ilegalmente escravizados a verão.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-carta-lucio"
+      ],
+      "locator": "Carta autobiográfica; tema: saúde em 1882 — o fim que vejo",
+      "relatedEntityIds": [
+        "lg-011"
+      ],
+      "limitations": [
+        "Autorretrato retrospectivo, sujeito a seleção e estratégia narrativa.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-057",
+      "titles": {
+        "pt": "A lei como arma — minha filosofia",
+        "en": "A lei como arma — minha filosofia",
+        "es": "A lei como arma — minha filosofia"
+      },
+      "knowledgeType": "biography",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Não acredito que a lei é justa por ser lei.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-lei-1831"
+      ],
+      "locator": "Texto integral; tema: A lei como arma — minha filosofia",
+      "relatedEntityIds": [
+        "lg-012"
+      ],
+      "limitations": [
+        "A existência da lei contrasta com sua aplicação sistematicamente limitada.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-058",
+      "titles": {
+        "pt": "A lei como arma — minha filosofia",
+        "en": "A lei como arma — minha filosofia",
+        "es": "A lei como arma — minha filosofia"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "Acredito que a lei pode ser usada contra ela mesma quando a lei é injusta.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "gama-bbm"
+      ],
+      "locator": "Catálogo e acervo; tema: A lei como arma — minha filosofia",
+      "relatedEntityIds": [
+        "lg-012"
+      ],
+      "limitations": [
+        "Catálogo institucional; consultar cada item citado.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-059",
+      "titles": {
+        "pt": "A lei como arma — minha filosofia",
+        "en": "A lei como arma — minha filosofia",
+        "es": "A lei como arma — minha filosofia"
+      },
+      "knowledgeType": "worldview",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "A lei que permitiu sua venda era crime segundo a própria lei — Luís Gama apenas mostrei a contradição ao juiz.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "gama-bn"
+      ],
+      "locator": "Imprensa abolicionista; tema: A lei como arma — minha filosofia",
+      "relatedEntityIds": [
+        "lg-012"
+      ],
+      "limitations": [
+        "OCR e metadados de periódicos precisam de conferência visual.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "luisgama-060",
+      "titles": {
+        "pt": "A lei como arma — minha filosofia",
+        "en": "A lei como arma — minha filosofia",
+        "es": "A lei como arma — minha filosofia"
+      },
+      "knowledgeType": "decision",
+      "period": "1830–1882",
+      "horizonYear": 1882,
+      "factualText": "O escravo que não conhece a lei está desarmado.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Luís Gama pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "gama-ipeafro"
+      ],
+      "locator": "Acervo e materiais educativos; tema: A lei como arma — minha filosofia",
+      "relatedEntityIds": [
+        "lg-012"
+      ],
+      "limitations": [
+        "Fonte complementar institucional ligada à memória afro-brasileira.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    }
+  ]
+}

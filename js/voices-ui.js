@@ -1,20 +1,21 @@
-import { PERSONAS, preparePersona, answerQuestion, setSemanticClient } from './voices-grounded.js';
-import { createSemanticClient } from './semantic-client.js';
+import {
+  getPersonas, preparePersona, answerQuestion, prepareVoiceRuntime,
+  getVoiceRuntimeStatus, cancelVoiceRuntimePreparation, clearVoiceModelCache,
+} from './voices-grounded.js';
+import { onVoiceRuntimeStatus } from './voices-runtime.js';
 
-const list = document.getElementById('persona-list');
-const title = document.getElementById('conversation-title');
-const period = document.getElementById('conversation-period');
-const messages = document.getElementById('messages');
-const form = document.getElementById('voice-form');
-const input = document.getElementById('voice-input');
-const send = document.getElementById('send-question');
-const reset = document.getElementById('new-conversation');
-const semanticToggle = document.getElementById('semantic-toggle');
-const semanticStatus = document.getElementById('semantic-status');
+const elements = {
+  list: document.getElementById('persona-list'), title: document.getElementById('conversation-title'),
+  period: document.getElementById('conversation-period'), messages: document.getElementById('messages'),
+  form: document.getElementById('voice-form'), input: document.getElementById('voice-input'),
+  send: document.getElementById('send-question'), reset: document.getElementById('new-conversation'),
+  lite: document.getElementById('lite-runtime'), enhanced: document.getElementById('enhanced-runtime'),
+  cancel: document.getElementById('cancel-runtime'), clear: document.getElementById('clear-runtime'),
+  progress: document.getElementById('runtime-progress'), runtimeStatus: document.getElementById('runtime-status'),
+};
 
 let selected = null;
 let history = [];
-let semantic = null;
 
 function addMessage(kind, text, result = null) {
   const article = document.createElement('article');
@@ -29,96 +30,116 @@ function addMessage(kind, text, result = null) {
     summary.textContent = `Evidências utilizadas (${result.evidence.length})`;
     meta.appendChild(summary);
     const notice = document.createElement('p');
-    notice.textContent = `Modo: ${result.answerMode}. Confiança: ${Math.round(result.confidence * 100)}%. Texto em primeira pessoa: dramatização pedagógica.`;
+    notice.textContent = `Modo: ${result.answerMode}. Runtime: ${result.runtimeTier}. Grounding: ${result.groundingStatus}. Confiança: ${Math.round(result.confidence * 100)}%. A primeira pessoa é dramatização pedagógica.`;
     meta.appendChild(notice);
     const evidenceList = document.createElement('ol');
     evidenceList.className = 'evidence-list';
     result.evidence.forEach(item => {
       const li = document.createElement('li');
-      li.textContent = `${item.title} — ${item.datasetId}`;
+      const source = item.sources?.[0];
+      li.textContent = `${item.title} — ${source ? `${source.author}, ${source.title}` : item.datasetId}${item.locator ? `; ${item.locator}` : ''}`;
       evidenceList.appendChild(li);
     });
     meta.appendChild(evidenceList);
     article.appendChild(meta);
   }
-  messages.appendChild(article);
-  messages.scrollTop = messages.scrollHeight;
+  elements.messages.appendChild(article);
+  elements.messages.scrollTop = elements.messages.scrollHeight;
 }
 
 async function selectPersona(persona) {
   selected = persona;
   history = [];
-  title.textContent = persona.name;
-  period.textContent = `${persona.period} — horizonte: ${persona.horizon}`;
-  input.disabled = true;
-  send.disabled = true;
-  messages.innerHTML = '<div class="empty-conversation"><strong>Preparando os registros...</strong></div>';
+  elements.title.textContent = persona.name;
+  elements.period.textContent = `${persona.period} — ${persona.knowledgeCutoff}`;
+  elements.input.disabled = true;
+  elements.send.disabled = true;
+  elements.messages.innerHTML = '<div class="empty-conversation"><strong>Preparando os registros...</strong></div>';
   const result = await preparePersona(persona.id);
-  messages.innerHTML = '';
+  elements.messages.innerHTML = '';
   if (!result.ok) {
     addMessage('persona', 'Não foi possível carregar os registros desta persona. Tente novamente.');
     return;
   }
-  addMessage('persona', `Estou pronto para conversar a partir de ${result.evidenceCount} registros históricos. Pergunte-me sobre acontecimentos e decisões do meu tempo.`);
-  input.disabled = false;
-  send.disabled = false;
-  reset.disabled = false;
-  input.focus();
+  addMessage('persona', `Estou pronto para conversar a partir de ${result.evidenceCount} registros fundamentados. Pergunte sobre acontecimentos, decisões e contradições do meu tempo.`);
+  elements.input.disabled = false;
+  elements.send.disabled = false;
+  elements.reset.disabled = false;
+  elements.input.focus();
   document.querySelectorAll('.persona-card').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.id === persona.id)));
 }
 
-PERSONAS.forEach(persona => {
-  const button = document.createElement('button');
-  button.type = 'button';
-  button.className = 'persona-card';
-  button.dataset.id = persona.id;
-  button.setAttribute('aria-pressed', 'false');
-  const name = document.createElement('strong');
-  name.textContent = persona.name;
-  const date = document.createElement('span');
-  date.textContent = persona.period;
-  button.append(name, date);
-  button.addEventListener('click', () => selectPersona(persona));
-  list.appendChild(button);
+function runtimeLabel(status) {
+  if (status.state === 'loading') return `Baixando e preparando ${status.tier}: ${Math.round(status.progress * 100)}%. Você pode continuar navegando.`;
+  if (status.state === 'ready' && status.tier !== 'deterministic') return `Modelo ${status.tier} pronto e armazenado no cache deste navegador.`;
+  if (status.state === 'manual') return `Download automático não iniciado: ${status.error}. Use a preparação manual em uma conexão adequada.`;
+  if (status.state === 'error') return `Modelo local indisponível: ${status.error}. O compositor determinístico continua ativo.`;
+  if (status.state === 'cancelled') return 'Preparação cancelada. O compositor determinístico continua ativo.';
+  return 'Compositor determinístico ativo. Nenhuma pergunta sai deste dispositivo.';
+}
+
+onVoiceRuntimeStatus(status => {
+  elements.runtimeStatus.textContent = runtimeLabel(status);
+  elements.progress.hidden = status.state !== 'loading';
+  elements.progress.value = status.progress;
+  elements.cancel.hidden = status.state !== 'loading';
+  elements.lite.disabled = status.state === 'loading';
+  elements.enhanced.disabled = status.state === 'loading';
 });
 
-form.addEventListener('submit', async event => {
+async function prepareTier(tier) {
+  try {
+    await prepareVoiceRuntime({ preferredTier: tier, automatic: false });
+  } catch (error) {
+    elements.runtimeStatus.textContent = `Não foi possível preparar o modelo: ${error.message}. O modo determinístico permanece ativo.`;
+  }
+}
+
+elements.lite.addEventListener('click', () => prepareTier('lite'));
+elements.enhanced.addEventListener('click', () => prepareTier('enhanced'));
+elements.cancel.addEventListener('click', cancelVoiceRuntimePreparation);
+elements.clear.addEventListener('click', async () => {
+  const count = await clearVoiceModelCache();
+  elements.runtimeStatus.textContent = count ? 'Cache local dos modelos removido.' : 'Nenhum cache de modelo reconhecido foi encontrado.';
+});
+
+elements.form.addEventListener('submit', async event => {
   event.preventDefault();
-  const question = input.value.trim();
+  const question = elements.input.value.trim();
   if (!selected || !question) return;
-  input.value = '';
-  input.disabled = true;
-  send.disabled = true;
+  elements.input.value = '';
+  elements.input.disabled = true;
+  elements.send.disabled = true;
   addMessage('user', question);
   const result = await answerQuestion({ personaId: selected.id, question, conversationHistory: history });
   history.push({ role: 'user', content: question }, { role: 'assistant', content: result.text });
   addMessage('persona', result.text, result);
-  input.disabled = false;
-  send.disabled = false;
-  input.focus();
+  elements.input.disabled = false;
+  elements.send.disabled = false;
+  elements.input.focus();
 });
 
-reset.addEventListener('click', () => selected && selectPersona(selected));
+elements.reset.addEventListener('click', () => selected && selectPersona(selected));
 
-semanticToggle.addEventListener('click', () => {
-  if (semantic) {
-    semantic.destroy();
-    semantic = null;
-    setSemanticClient(null);
-    semanticToggle.setAttribute('aria-pressed', 'false');
-    semanticToggle.textContent = 'Ativar busca semântica (aprox. 118 MB)';
-    semanticStatus.textContent = 'Modo lexical local ativo. Nenhuma pergunta sai deste dispositivo.';
-    return;
-  }
-  semanticStatus.textContent = 'O modelo multilíngue de aproximadamente 118 MB será baixado e armazenado pelo navegador. A primeira consulta pode demorar.';
-  semantic = createSemanticClient(progress => {
-    const percent = progress?.progress == null ? '' : ` ${Math.round(progress.progress * 100)}%`;
-    semanticStatus.textContent = `Preparando busca semântica.${percent}`;
+async function renderPersonas() {
+  const personas = await getPersonas();
+  personas.forEach(persona => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'persona-card';
+    button.dataset.id = persona.id;
+    button.setAttribute('aria-pressed', 'false');
+    const name = document.createElement('strong');
+    name.textContent = persona.name;
+    const date = document.createElement('span');
+    date.textContent = persona.period;
+    button.append(name, date);
+    button.addEventListener('click', () => selectPersona(persona));
+    elements.list.appendChild(button);
   });
-  setSemanticClient(semantic);
-  semanticToggle.setAttribute('aria-pressed', 'true');
-  semanticToggle.textContent = 'Desativar busca semântica';
-});
+}
 
-const params = new URLSearchParams(location.search);
-if (params.get('legacy') === '1') location.replace('vozes-historia.html?legacy=1');
+if (new URLSearchParams(location.search).get('legacy') === '1') location.replace('vozes-historia.html?legacy=1');
+else renderPersonas().catch(error => addMessage('persona', `Falha ao carregar o catálogo: ${error.message}`));
+
+if (getVoiceRuntimeStatus().state === 'idle') elements.runtimeStatus.textContent = runtimeLabel(getVoiceRuntimeStatus());

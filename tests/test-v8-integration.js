@@ -37,7 +37,7 @@ A.suite('Herodoto V8 — reversible integration', () => {
 
 A.suite('Herodoto V8 — offline shell', () => {
   A.it('uses a V8 cache and resilient installation', () => {
-    A.ok(/CACHE_VERSION = 'herodoto-v8-0-[0-9]+'/.test(sw));
+    A.ok(/CACHE_VERSION = 'herodoto-v8-[0-9]+-[0-9]+'/.test(sw));
     A.ok(sw.includes('Promise.allSettled'));
   });
 

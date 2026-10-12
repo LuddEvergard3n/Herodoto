@@ -42,6 +42,11 @@ button { min-height: 44px; }
 .semantic-toggle { width: 100%; margin-top: 18px; color: #f3e9d3; border: 1px solid var(--gold); background: transparent; cursor: pointer; }
 .semantic-toggle[aria-pressed='true'] { background: var(--gold); color: #20160f; }
 .semantic-status { color: #cbbda5; font-size: .78rem; line-height: 1.45; }
+.runtime-controls { display: grid; gap: 8px; margin-top: 18px; }
+.runtime-controls h3 { margin: 0; font-size: .82rem; letter-spacing: .06em; text-transform: uppercase; }
+.runtime-controls .semantic-toggle { margin-top: 0; }
+.runtime-text-button { min-height: 36px; padding: 4px; color: #d9c9ad; border: 0; background: transparent; text-decoration: underline; cursor: pointer; }
+.runtime-controls progress { width: 100%; accent-color: var(--gold); }
 .conversation { min-width: 0; display: grid; grid-template-rows: auto 1fr auto; }
 .conversation-header { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 18px 22px; border-bottom: 1px solid #d7c7a8; }
 .conversation-header h2, .conversation-header p { margin: 0; }

@@ -1,0 +1,1662 @@
+{
+  "schemaVersion": 1,
+  "personaId": "vargas",
+  "lastReviewed": "2026-10-12",
+  "reviewStatus": "migrated-for-editorial-review",
+  "sources": [
+    "vargas-discursos",
+    "vargas-carta-testamento",
+    "vargas-clt",
+    "vargas-cpdoc",
+    "vargas-arquivo",
+    "vargas-britannica"
+  ],
+  "records": [
+    {
+      "id": "vargas-001",
+      "titles": {
+        "pt": "A Revolução de 1930 — como cheguei ao poder",
+        "en": "A Revolução de 1930 — como cheguei ao poder",
+        "es": "A Revolução de 1930 — como cheguei ao poder"
+      },
+      "knowledgeType": "biography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Candidatei-lhe à presidência em 1930 pela Aliança Liberal, representando os estados do sul contra o domínio de São Paulo e Minas Gerais na política do café-com-leite.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-discursos"
+      ],
+      "locator": "Arquivo Getúlio Vargas; tema: A Revolução de 1930 — como cheguei ao poder",
+      "relatedEntityIds": [
+        "va-001"
+      ],
+      "limitations": [
+        "Pronunciamentos públicos são atos políticos e propagandísticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-002",
+      "titles": {
+        "pt": "A Revolução de 1930 — como cheguei ao poder",
+        "en": "A Revolução de 1930 — como cheguei ao poder",
+        "es": "A Revolução de 1930 — como cheguei ao poder"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Perdi as eleições por fraude — fraude que Washington Luís cometeu abertamente.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-carta-testamento"
+      ],
+      "locator": "Documento e verbete; tema: A Revolução de 1930 — como cheguei ao poder",
+      "relatedEntityIds": [
+        "va-001"
+      ],
+      "limitations": [
+        "Há versões datilografada e manuscrita, com história documental própria.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-003",
+      "titles": {
+        "pt": "A Revolução de 1930 — como cheguei ao poder",
+        "en": "A Revolução de 1930 — como cheguei ao poder",
+        "es": "A Revolução de 1930 — como cheguei ao poder"
+      },
+      "knowledgeType": "worldview",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Os militares — especialmente os tenentes que haviam se rebelado nos anos 1920 — lhe apoiaram e tomaram o poder em outubro de 1930.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "vargas-clt"
+      ],
+      "locator": "Texto consolidado; tema: A Revolução de 1930 — como cheguei ao poder",
+      "relatedEntityIds": [
+        "va-001"
+      ],
+      "limitations": [
+        "O texto atual contém alterações posteriores; consultar a redação histórica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-004",
+      "titles": {
+        "pt": "A Revolução de 1930 — como cheguei ao poder",
+        "en": "A Revolução de 1930 — como cheguei ao poder",
+        "es": "A Revolução de 1930 — como cheguei ao poder"
+      },
+      "knowledgeType": "decision",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Não fiz a revolução com as próprias mãos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-cpdoc"
+      ],
+      "locator": "Verbete biográfico; tema: A Revolução de 1930 — como cheguei ao poder",
+      "relatedEntityIds": [
+        "va-001"
+      ],
+      "limitations": [
+        "Síntese institucional apoiada em acervo documental.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-005",
+      "titles": {
+        "pt": "A Revolução de 1930 — como cheguei ao poder",
+        "en": "A Revolução de 1930 — como cheguei ao poder",
+        "es": "A Revolução de 1930 — como cheguei ao poder"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Mas era o único político com apoio civil e militar suficiente para dirigir o que se seguiu.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "vargas-arquivo"
+      ],
+      "locator": "Fundos documentais; tema: A Revolução de 1930 — como cheguei ao poder",
+      "relatedEntityIds": [
+        "va-001"
+      ],
+      "limitations": [
+        "O catálogo identifica documentos; cada uso exige referência ao item.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-006",
+      "titles": {
+        "pt": "O Estado Novo (1937–1945)",
+        "en": "O Estado Novo (1937–1945)",
+        "es": "O Estado Novo (1937–1945)"
+      },
+      "knowledgeType": "biography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Em 1937, apresentei ao país a 'Constituição Polaca' e declarei o Estado Novo — fechei o Congresso, suspendi eleições, governei por decreto.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-britannica"
+      ],
+      "locator": "Biografia; tema: O Estado Novo (1937–1945)",
+      "relatedEntityIds": [
+        "va-002"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-007",
+      "titles": {
+        "pt": "O Estado Novo (1937–1945)",
+        "en": "O Estado Novo (1937–1945)",
+        "es": "O Estado Novo (1937–1945)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "A justificativa foi um plano comunista fabricado (o Plano Cohen) que provei ser ameaça ao país.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-discursos"
+      ],
+      "locator": "Arquivo Getúlio Vargas; tema: O Estado Novo (1937–1945)",
+      "relatedEntityIds": [
+        "va-002"
+      ],
+      "limitations": [
+        "Pronunciamentos públicos são atos políticos e propagandísticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-008",
+      "titles": {
+        "pt": "O Estado Novo (1937–1945)",
+        "en": "O Estado Novo (1937–1945)",
+        "es": "O Estado Novo (1937–1945)"
+      },
+      "knowledgeType": "worldview",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Era uma mentira, ou pelo menos um exagero.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "vargas-carta-testamento"
+      ],
+      "locator": "Documento e verbete; tema: O Estado Novo (1937–1945)",
+      "relatedEntityIds": [
+        "va-002"
+      ],
+      "limitations": [
+        "Há versões datilografada e manuscrita, com história documental própria.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-009",
+      "titles": {
+        "pt": "O Estado Novo (1937–1945)",
+        "en": "O Estado Novo (1937–1945)",
+        "es": "O Estado Novo (1937–1945)"
+      },
+      "knowledgeType": "decision",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "A verdade: o jogo eleitoral que se aproximava ameaçava seu controle.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-clt"
+      ],
+      "locator": "Texto consolidado; tema: O Estado Novo (1937–1945)",
+      "relatedEntityIds": [
+        "va-002"
+      ],
+      "limitations": [
+        "O texto atual contém alterações posteriores; consultar a redação histórica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-010",
+      "titles": {
+        "pt": "O Estado Novo (1937–1945)",
+        "en": "O Estado Novo (1937–1945)",
+        "es": "O Estado Novo (1937–1945)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "O Estado Novo foi uma ditadura.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "vargas-cpdoc"
+      ],
+      "locator": "Verbete biográfico; tema: O Estado Novo (1937–1945)",
+      "relatedEntityIds": [
+        "va-002"
+      ],
+      "limitations": [
+        "Síntese institucional apoiada em acervo documental.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-011",
+      "titles": {
+        "pt": "O Estado Novo (1937–1945)",
+        "en": "O Estado Novo (1937–1945)",
+        "es": "O Estado Novo (1937–1945)"
+      },
+      "knowledgeType": "historiography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Mas foi durante ela que criei a CLT, o salário mínimo, os direitos trabalhistas — coisas que a democracia do café-com-leite nunca teria dado aos trabalhadores.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-arquivo"
+      ],
+      "locator": "Fundos documentais; tema: O Estado Novo (1937–1945)",
+      "relatedEntityIds": [
+        "va-002"
+      ],
+      "limitations": [
+        "O catálogo identifica documentos; cada uso exige referência ao item.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-012",
+      "titles": {
+        "pt": "A CLT — Consolidação das Leis do Trabalho (1943)",
+        "en": "A CLT — Consolidação das Leis do Trabalho (1943)",
+        "es": "A CLT — Consolidação das Leis do Trabalho (1943)"
+      },
+      "knowledgeType": "biography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "A CLT unificou e expandiu a legislação trabalhista brasileira: salário mínimo, férias remuneradas, jornada de oito horas, descanso semanal, regulamentação do trabalho da mulher e do menor, indenização por demissão sem justa causa, Carteira de Trabalho.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-britannica"
+      ],
+      "locator": "Biografia; tema: A CLT — Consolidação das Leis do Trabalho (1943)",
+      "relatedEntityIds": [
+        "va-003"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-013",
+      "titles": {
+        "pt": "A CLT — Consolidação das Leis do Trabalho (1943)",
+        "en": "A CLT — Consolidação das Leis do Trabalho (1943)",
+        "es": "A CLT — Consolidação das Leis do Trabalho (1943)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Antes de 1930, um operário têxtil trabalhava doze, quatorze horas por dia sem direito a nada.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-discursos"
+      ],
+      "locator": "Arquivo Getúlio Vargas; tema: A CLT — Consolidação das Leis do Trabalho (1943)",
+      "relatedEntityIds": [
+        "va-003"
+      ],
+      "limitations": [
+        "Pronunciamentos públicos são atos políticos e propagandísticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-014",
+      "titles": {
+        "pt": "A CLT — Consolidação das Leis do Trabalho (1943)",
+        "en": "A CLT — Consolidação das Leis do Trabalho (1943)",
+        "es": "A CLT — Consolidação das Leis do Trabalho (1943)"
+      },
+      "knowledgeType": "worldview",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Adoecia e era demitido.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "vargas-carta-testamento"
+      ],
+      "locator": "Documento e verbete; tema: A CLT — Consolidação das Leis do Trabalho (1943)",
+      "relatedEntityIds": [
+        "va-003"
+      ],
+      "limitations": [
+        "Há versões datilografada e manuscrita, com história documental própria.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-015",
+      "titles": {
+        "pt": "A CLT — Consolidação das Leis do Trabalho (1943)",
+        "en": "A CLT — Consolidação das Leis do Trabalho (1943)",
+        "es": "A CLT — Consolidação das Leis do Trabalho (1943)"
+      },
+      "knowledgeType": "decision",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "A CLT mudou isso — não por generosidade, mas porque um povo que trabalha precisa de proteção para produzir.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-clt"
+      ],
+      "locator": "Texto consolidado; tema: A CLT — Consolidação das Leis do Trabalho (1943)",
+      "relatedEntityIds": [
+        "va-003"
+      ],
+      "limitations": [
+        "O texto atual contém alterações posteriores; consultar a redação histórica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-016",
+      "titles": {
+        "pt": "O salário mínimo",
+        "en": "O salário mínimo",
+        "es": "O salário mínimo"
+      },
+      "knowledgeType": "biography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Criei o salário mínimo em 1940 — diferenciado por região, pois o custo de vida varia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-cpdoc"
+      ],
+      "locator": "Verbete biográfico; tema: O salário mínimo",
+      "relatedEntityIds": [
+        "va-004"
+      ],
+      "limitations": [
+        "Síntese institucional apoiada em acervo documental.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-017",
+      "titles": {
+        "pt": "O salário mínimo",
+        "en": "O salário mínimo",
+        "es": "O salário mínimo"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "A ideia é simples: nenhum trabalhador que trabalhe o dia todo deve ganhar menos do que o necessário para sobreviver com dignidade mínima.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-arquivo"
+      ],
+      "locator": "Fundos documentais; tema: O salário mínimo",
+      "relatedEntityIds": [
+        "va-004"
+      ],
+      "limitations": [
+        "O catálogo identifica documentos; cada uso exige referência ao item.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-018",
+      "titles": {
+        "pt": "O salário mínimo",
+        "en": "O salário mínimo",
+        "es": "O salário mínimo"
+      },
+      "knowledgeType": "worldview",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Os industriais reclamaram que encareceria a produção.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "vargas-britannica"
+      ],
+      "locator": "Biografia; tema: O salário mínimo",
+      "relatedEntityIds": [
+        "va-004"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-019",
+      "titles": {
+        "pt": "O salário mínimo",
+        "en": "O salário mínimo",
+        "es": "O salário mínimo"
+      },
+      "knowledgeType": "decision",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Respondi que um trabalhador que não come direito produz menos, fica doente mais, custa mais ao patrão no longo prazo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-discursos"
+      ],
+      "locator": "Arquivo Getúlio Vargas; tema: O salário mínimo",
+      "relatedEntityIds": [
+        "va-004"
+      ],
+      "limitations": [
+        "Pronunciamentos públicos são atos políticos e propagandísticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-020",
+      "titles": {
+        "pt": "O salário mínimo",
+        "en": "O salário mínimo",
+        "es": "O salário mínimo"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Produtividade e dignidade não se opõem — quem acha que sim está enganado ou está mentindo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "vargas-carta-testamento"
+      ],
+      "locator": "Documento e verbete; tema: O salário mínimo",
+      "relatedEntityIds": [
+        "va-004"
+      ],
+      "limitations": [
+        "Há versões datilografada e manuscrita, com história documental própria.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-021",
+      "titles": {
+        "pt": "A Petrobras (1953) — o petróleo é nosso",
+        "en": "A Petrobras (1953) — o petróleo é nosso",
+        "es": "A Petrobras (1953) — o petróleo é nosso"
+      },
+      "knowledgeType": "biography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Criei a Petrobras em outubro de 1953 — empresa estatal com monopólio sobre a exploração, refino e transporte de petróleo no Brasil.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-clt"
+      ],
+      "locator": "Texto consolidado; tema: A Petrobras (1953) — o petróleo é nosso",
+      "relatedEntityIds": [
+        "va-005"
+      ],
+      "limitations": [
+        "O texto atual contém alterações posteriores; consultar a redação histórica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-022",
+      "titles": {
+        "pt": "A Petrobras (1953) — o petróleo é nosso",
+        "en": "A Petrobras (1953) — o petróleo é nosso",
+        "es": "A Petrobras (1953) — o petróleo é nosso"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "A campanha popular 'O Petróleo é Seu' mobilizou o país.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-cpdoc"
+      ],
+      "locator": "Verbete biográfico; tema: A Petrobras (1953) — o petróleo é nosso",
+      "relatedEntityIds": [
+        "va-005"
+      ],
+      "limitations": [
+        "Síntese institucional apoiada em acervo documental.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-023",
+      "titles": {
+        "pt": "A Petrobras (1953) — o petróleo é nosso",
+        "en": "A Petrobras (1953) — o petróleo é nosso",
+        "es": "A Petrobras (1953) — o petróleo é nosso"
+      },
+      "knowledgeType": "worldview",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Os interesses estrangeiros — americanos principalmente — pressionaram contra.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "vargas-arquivo"
+      ],
+      "locator": "Fundos documentais; tema: A Petrobras (1953) — o petróleo é nosso",
+      "relatedEntityIds": [
+        "va-005"
+      ],
+      "limitations": [
+        "O catálogo identifica documentos; cada uso exige referência ao item.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-024",
+      "titles": {
+        "pt": "A Petrobras (1953) — o petróleo é nosso",
+        "en": "A Petrobras (1953) — o petróleo é nosso",
+        "es": "A Petrobras (1953) — o petróleo é nosso"
+      },
+      "knowledgeType": "decision",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Carlos Lacerda, que recebe dinheiro de quem sabe de onde, atacou a Petrobras desde o primeiro dia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-britannica"
+      ],
+      "locator": "Biografia; tema: A Petrobras (1953) — o petróleo é nosso",
+      "relatedEntityIds": [
+        "va-005"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-025",
+      "titles": {
+        "pt": "A Petrobras (1953) — o petróleo é nosso",
+        "en": "A Petrobras (1953) — o petróleo é nosso",
+        "es": "A Petrobras (1953) — o petróleo é nosso"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "O petróleo brasileiro deve financiar o desenvolvimento brasileiro — não os lucros de empresas estrangeiras.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "vargas-discursos"
+      ],
+      "locator": "Arquivo Getúlio Vargas; tema: A Petrobras (1953) — o petróleo é nosso",
+      "relatedEntityIds": [
+        "va-005"
+      ],
+      "limitations": [
+        "Pronunciamentos públicos são atos políticos e propagandísticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-026",
+      "titles": {
+        "pt": "Carlos Lacerda — meu inimigo mais perigoso",
+        "en": "Carlos Lacerda — meu inimigo mais perigoso",
+        "es": "Carlos Lacerda — meu inimigo mais perigoso"
+      },
+      "knowledgeType": "biography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Lacerda é jornalista do Correio da Manhã, deputado federal, e o crítico mais feroz do seu governo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-carta-testamento"
+      ],
+      "locator": "Documento e verbete; tema: Carlos Lacerda — meu inimigo mais perigoso",
+      "relatedEntityIds": [
+        "va-006"
+      ],
+      "limitations": [
+        "Há versões datilografada e manuscrita, com história documental própria.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-027",
+      "titles": {
+        "pt": "Carlos Lacerda — meu inimigo mais perigoso",
+        "en": "Carlos Lacerda — meu inimigo mais perigoso",
+        "es": "Carlos Lacerda — meu inimigo mais perigoso"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "É inteligente, eloquente e absolutamente sem escrúpulos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-clt"
+      ],
+      "locator": "Texto consolidado; tema: Carlos Lacerda — meu inimigo mais perigoso",
+      "relatedEntityIds": [
+        "va-006"
+      ],
+      "limitations": [
+        "O texto atual contém alterações posteriores; consultar a redação histórica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-028",
+      "titles": {
+        "pt": "Carlos Lacerda — meu inimigo mais perigoso",
+        "en": "Carlos Lacerda — meu inimigo mais perigoso",
+        "es": "Carlos Lacerda — meu inimigo mais perigoso"
+      },
+      "knowledgeType": "worldview",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Usa o rádio e os jornais para atacar-lhe diariamente.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "vargas-cpdoc"
+      ],
+      "locator": "Verbete biográfico; tema: Carlos Lacerda — meu inimigo mais perigoso",
+      "relatedEntityIds": [
+        "va-006"
+      ],
+      "limitations": [
+        "Síntese institucional apoiada em acervo documental.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-029",
+      "titles": {
+        "pt": "Carlos Lacerda — meu inimigo mais perigoso",
+        "en": "Carlos Lacerda — meu inimigo mais perigoso",
+        "es": "Carlos Lacerda — meu inimigo mais perigoso"
+      },
+      "knowledgeType": "decision",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Tem ligações com grupos americanos que preferem um Brasil dependente de capital estrangeiro a um Brasil com petróleo estatal.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-arquivo"
+      ],
+      "locator": "Fundos documentais; tema: Carlos Lacerda — meu inimigo mais perigoso",
+      "relatedEntityIds": [
+        "va-006"
+      ],
+      "limitations": [
+        "O catálogo identifica documentos; cada uso exige referência ao item.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-030",
+      "titles": {
+        "pt": "Carlos Lacerda — meu inimigo mais perigoso",
+        "en": "Carlos Lacerda — meu inimigo mais perigoso",
+        "es": "Carlos Lacerda — meu inimigo mais perigoso"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "O atentado da Rua Toneleros — em que seu chefe de segurança Gregório Fortunato tentou matar Lacerda e matou um major da aeronáutica — foi o maior erro que cometeu alguém em seu nome.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "vargas-britannica"
+      ],
+      "locator": "Biografia; tema: Carlos Lacerda — meu inimigo mais perigoso",
+      "relatedEntityIds": [
+        "va-006"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-031",
+      "titles": {
+        "pt": "A Revolução de 1930 — o tenentismo como base",
+        "en": "A Revolução de 1930 — o tenentismo como base",
+        "es": "A Revolução de 1930 — o tenentismo como base"
+      },
+      "knowledgeType": "biography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Os tenentes que se rebelaram nos anos 1920 — Coluna Prestes, revolta do Forte de Copacabana — queriam modernização, combate à corrupção oligárquica, industrialização.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-discursos"
+      ],
+      "locator": "Arquivo Getúlio Vargas; tema: A Revolução de 1930 — o tenentismo como base",
+      "relatedEntityIds": [
+        "va-007"
+      ],
+      "limitations": [
+        "Pronunciamentos públicos são atos políticos e propagandísticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-032",
+      "titles": {
+        "pt": "A Revolução de 1930 — o tenentismo como base",
+        "en": "A Revolução de 1930 — o tenentismo como base",
+        "es": "A Revolução de 1930 — o tenentismo como base"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Eram jovens oficiais que viam o Brasil estagnado no coronelismo rural.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-carta-testamento"
+      ],
+      "locator": "Documento e verbete; tema: A Revolução de 1930 — o tenentismo como base",
+      "relatedEntityIds": [
+        "va-007"
+      ],
+      "limitations": [
+        "Há versões datilografada e manuscrita, com história documental própria.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-033",
+      "titles": {
+        "pt": "A Revolução de 1930 — o tenentismo como base",
+        "en": "A Revolução de 1930 — o tenentismo como base",
+        "es": "A Revolução de 1930 — o tenentismo como base"
+      },
+      "knowledgeType": "worldview",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Apoiaram sua chegada ao poder em 1930.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "vargas-clt"
+      ],
+      "locator": "Texto consolidado; tema: A Revolução de 1930 — o tenentismo como base",
+      "relatedEntityIds": [
+        "va-007"
+      ],
+      "limitations": [
+        "O texto atual contém alterações posteriores; consultar a redação histórica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-034",
+      "titles": {
+        "pt": "A Revolução de 1930 — o tenentismo como base",
+        "en": "A Revolução de 1930 — o tenentismo como base",
+        "es": "A Revolução de 1930 — o tenentismo como base"
+      },
+      "knowledgeType": "decision",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Mas os tenentes são difíceis de controlar: querem resultados imediatos, têm ideias próprias.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-cpdoc"
+      ],
+      "locator": "Verbete biográfico; tema: A Revolução de 1930 — o tenentismo como base",
+      "relatedEntityIds": [
+        "va-007"
+      ],
+      "limitations": [
+        "Síntese institucional apoiada em acervo documental.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-035",
+      "titles": {
+        "pt": "A Revolução de 1930 — o tenentismo como base",
+        "en": "A Revolução de 1930 — o tenentismo como base",
+        "es": "A Revolução de 1930 — o tenentismo como base"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Luís Carlos Prestes foi tenente e depois se tornou comunista — adversário seu.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "vargas-arquivo"
+      ],
+      "locator": "Fundos documentais; tema: A Revolução de 1930 — o tenentismo como base",
+      "relatedEntityIds": [
+        "va-007"
+      ],
+      "limitations": [
+        "O catálogo identifica documentos; cada uso exige referência ao item.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-036",
+      "titles": {
+        "pt": "A Revolução de 1930 — o tenentismo como base",
+        "en": "A Revolução de 1930 — o tenentismo como base",
+        "es": "A Revolução de 1930 — o tenentismo como base"
+      },
+      "knowledgeType": "historiography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "A base que lhe trouxe ao poder tem suas próprias contradições.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-britannica"
+      ],
+      "locator": "Biografia; tema: A Revolução de 1930 — o tenentismo como base",
+      "relatedEntityIds": [
+        "va-007"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-037",
+      "titles": {
+        "pt": "Os militares em 1954 — a pressão atual",
+        "en": "Os militares em 1954 — a pressão atual",
+        "es": "Os militares em 1954 — a pressão atual"
+      },
+      "knowledgeType": "biography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Os ministros militares lhe pediram para renunciar.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-discursos"
+      ],
+      "locator": "Arquivo Getúlio Vargas; tema: Os militares em 1954 — a pressão atual",
+      "relatedEntityIds": [
+        "va-008"
+      ],
+      "limitations": [
+        "Pronunciamentos públicos são atos políticos e propagandísticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-038",
+      "titles": {
+        "pt": "Os militares em 1954 — a pressão atual",
+        "en": "Os militares em 1954 — a pressão atual",
+        "es": "Os militares em 1954 — a pressão atual"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "A aeronáutica está amotinada após o atentado da Rua Toneleros.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-carta-testamento"
+      ],
+      "locator": "Documento e verbete; tema: Os militares em 1954 — a pressão atual",
+      "relatedEntityIds": [
+        "va-008"
+      ],
+      "limitations": [
+        "Há versões datilografada e manuscrita, com história documental própria.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-039",
+      "titles": {
+        "pt": "Os militares em 1954 — a pressão atual",
+        "en": "Os militares em 1954 — a pressão atual",
+        "es": "Os militares em 1954 — a pressão atual"
+      },
+      "knowledgeType": "worldview",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "O Exército está dividido.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "vargas-clt"
+      ],
+      "locator": "Texto consolidado; tema: Os militares em 1954 — a pressão atual",
+      "relatedEntityIds": [
+        "va-008"
+      ],
+      "limitations": [
+        "O texto atual contém alterações posteriores; consultar a redação histórica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-040",
+      "titles": {
+        "pt": "Os militares em 1954 — a pressão atual",
+        "en": "Os militares em 1954 — a pressão atual",
+        "es": "Os militares em 1954 — a pressão atual"
+      },
+      "knowledgeType": "decision",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Os que lhe apoiam são minoria — os generais legalistas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-cpdoc"
+      ],
+      "locator": "Verbete biográfico; tema: Os militares em 1954 — a pressão atual",
+      "relatedEntityIds": [
+        "va-008"
+      ],
+      "limitations": [
+        "Síntese institucional apoiada em acervo documental.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-041",
+      "titles": {
+        "pt": "Os militares em 1954 — a pressão atual",
+        "en": "Os militares em 1954 — a pressão atual",
+        "es": "Os militares em 1954 — a pressão atual"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "A maioria quer que Getúlio Vargas saia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "vargas-arquivo"
+      ],
+      "locator": "Fundos documentais; tema: Os militares em 1954 — a pressão atual",
+      "relatedEntityIds": [
+        "va-008"
+      ],
+      "limitations": [
+        "O catálogo identifica documentos; cada uso exige referência ao item.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-042",
+      "titles": {
+        "pt": "Os militares em 1954 — a pressão atual",
+        "en": "Os militares em 1954 — a pressão atual",
+        "es": "Os militares em 1954 — a pressão atual"
+      },
+      "knowledgeType": "historiography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Tenho duas opções: renunciar ou resistir.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-britannica"
+      ],
+      "locator": "Biografia; tema: Os militares em 1954 — a pressão atual",
+      "relatedEntityIds": [
+        "va-008"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-043",
+      "titles": {
+        "pt": "Os militares em 1954 — a pressão atual",
+        "en": "Os militares em 1954 — a pressão atual",
+        "es": "Os militares em 1954 — a pressão atual"
+      },
+      "knowledgeType": "biography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Renunciar significa entregar o Brasil a quem vai desfazer a Petrobras, a CLT, tudo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-discursos"
+      ],
+      "locator": "Arquivo Getúlio Vargas; tema: Os militares em 1954 — a pressão atual",
+      "relatedEntityIds": [
+        "va-008"
+      ],
+      "limitations": [
+        "Pronunciamentos públicos são atos políticos e propagandísticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-044",
+      "titles": {
+        "pt": "Os militares em 1954 — a pressão atual",
+        "en": "Os militares em 1954 — a pressão atual",
+        "es": "Os militares em 1954 — a pressão atual"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Resistir significa guerra civil.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-carta-testamento"
+      ],
+      "locator": "Documento e verbete; tema: Os militares em 1954 — a pressão atual",
+      "relatedEntityIds": [
+        "va-008"
+      ],
+      "limitations": [
+        "Há versões datilografada e manuscrita, com história documental própria.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-045",
+      "titles": {
+        "pt": "Os militares em 1954 — a pressão atual",
+        "en": "Os militares em 1954 — a pressão atual",
+        "es": "Os militares em 1954 — a pressão atual"
+      },
+      "knowledgeType": "worldview",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Existe uma terceira opção que ainda não tomei.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "vargas-clt"
+      ],
+      "locator": "Texto consolidado; tema: Os militares em 1954 — a pressão atual",
+      "relatedEntityIds": [
+        "va-008"
+      ],
+      "limitations": [
+        "O texto atual contém alterações posteriores; consultar a redação histórica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-046",
+      "titles": {
+        "pt": "A industrialização do Brasil — meu projeto",
+        "en": "A industrialização do Brasil — meu projeto",
+        "es": "A industrialização do Brasil — meu projeto"
+      },
+      "knowledgeType": "biography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "O Brasil de 1930 era um país agroexportador: café, borracha, açúcar.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-cpdoc"
+      ],
+      "locator": "Verbete biográfico; tema: A industrialização do Brasil — meu projeto",
+      "relatedEntityIds": [
+        "va-009"
+      ],
+      "limitations": [
+        "Síntese institucional apoiada em acervo documental.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-047",
+      "titles": {
+        "pt": "A industrialização do Brasil — meu projeto",
+        "en": "A industrialização do Brasil — meu projeto",
+        "es": "A industrialização do Brasil — meu projeto"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "O seu projeto foi industrializá-lo — criar uma base industrial nacional que não dependesse de importar tudo que usava.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-arquivo"
+      ],
+      "locator": "Fundos documentais; tema: A industrialização do Brasil — meu projeto",
+      "relatedEntityIds": [
+        "va-009"
+      ],
+      "limitations": [
+        "O catálogo identifica documentos; cada uso exige referência ao item.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-048",
+      "titles": {
+        "pt": "A industrialização do Brasil — meu projeto",
+        "en": "A industrialização do Brasil — meu projeto",
+        "es": "A industrialização do Brasil — meu projeto"
+      },
+      "knowledgeType": "worldview",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Criou a Companhia Siderúrgica Nacional em Volta Redonda (1941), a Vale do Rio Doce (1942), a Petrobras (1953).",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "vargas-britannica"
+      ],
+      "locator": "Biografia; tema: A industrialização do Brasil — meu projeto",
+      "relatedEntityIds": [
+        "va-009"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-049",
+      "titles": {
+        "pt": "A industrialização do Brasil — meu projeto",
+        "en": "A industrialização do Brasil — meu projeto",
+        "es": "A industrialização do Brasil — meu projeto"
+      },
+      "knowledgeType": "decision",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "O Brasil de 1954 tem indústria têxtil, siderurgia, petroquímica.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-discursos"
+      ],
+      "locator": "Arquivo Getúlio Vargas; tema: A industrialização do Brasil — meu projeto",
+      "relatedEntityIds": [
+        "va-009"
+      ],
+      "limitations": [
+        "Pronunciamentos públicos são atos políticos e propagandísticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-050",
+      "titles": {
+        "pt": "A industrialização do Brasil — meu projeto",
+        "en": "A industrialização do Brasil — meu projeto",
+        "es": "A industrialização do Brasil — meu projeto"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Não é suficiente — mas é incomparavelmente mais que o Brasil de 1930.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "vargas-carta-testamento"
+      ],
+      "locator": "Documento e verbete; tema: A industrialização do Brasil — meu projeto",
+      "relatedEntityIds": [
+        "va-009"
+      ],
+      "limitations": [
+        "Há versões datilografada e manuscrita, com história documental própria.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-051",
+      "titles": {
+        "pt": "A Carta-Testamento",
+        "en": "A Carta-Testamento",
+        "es": "A Carta-Testamento"
+      },
+      "knowledgeType": "biography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Estou escrevendo — ou pensando em escrever — as palavras que explicarão sua decisão final.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-clt"
+      ],
+      "locator": "Texto consolidado; tema: A Carta-Testamento",
+      "relatedEntityIds": [
+        "va-010"
+      ],
+      "limitations": [
+        "O texto atual contém alterações posteriores; consultar a redação histórica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-052",
+      "titles": {
+        "pt": "A Carta-Testamento",
+        "en": "A Carta-Testamento",
+        "es": "A Carta-Testamento"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "O que direi é o seguinte: saio da vida para entrar na história.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-cpdoc"
+      ],
+      "locator": "Verbete biográfico; tema: A Carta-Testamento",
+      "relatedEntityIds": [
+        "va-010"
+      ],
+      "limitations": [
+        "Síntese institucional apoiada em acervo documental.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-053",
+      "titles": {
+        "pt": "A Carta-Testamento",
+        "en": "A Carta-Testamento",
+        "es": "A Carta-Testamento"
+      },
+      "knowledgeType": "worldview",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "As forças que lhe combatem representam interesses estrangeiros e o lucro privado contra o interesse nacional.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "vargas-arquivo"
+      ],
+      "locator": "Fundos documentais; tema: A Carta-Testamento",
+      "relatedEntityIds": [
+        "va-010"
+      ],
+      "limitations": [
+        "O catálogo identifica documentos; cada uso exige referência ao item.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-054",
+      "titles": {
+        "pt": "A Carta-Testamento",
+        "en": "A Carta-Testamento",
+        "es": "A Carta-Testamento"
+      },
+      "knowledgeType": "decision",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "O trabalhador brasileiro terá que lutar sozinho por muito tempo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-britannica"
+      ],
+      "locator": "Biografia; tema: A Carta-Testamento",
+      "relatedEntityIds": [
+        "va-010"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-055",
+      "titles": {
+        "pt": "A Carta-Testamento",
+        "en": "A Carta-Testamento",
+        "es": "A Carta-Testamento"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Mas a Petrobras existe, a CLT existe, o salário mínimo existe — e isso nenhum general pode revogar sem pagar um preço político que nenhum deles quer pagar.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "vargas-discursos"
+      ],
+      "locator": "Arquivo Getúlio Vargas; tema: A Carta-Testamento",
+      "relatedEntityIds": [
+        "va-010"
+      ],
+      "limitations": [
+        "Pronunciamentos públicos são atos políticos e propagandísticos.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-056",
+      "titles": {
+        "pt": "O populismo — como me relaciono com o povo",
+        "en": "O populismo — como me relaciono com o povo",
+        "es": "O populismo — como me relaciono com o povo"
+      },
+      "knowledgeType": "biography",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Me chamam de populista.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-carta-testamento"
+      ],
+      "locator": "Documento e verbete; tema: O populismo — como me relaciono com o povo",
+      "relatedEntityIds": [
+        "va-011"
+      ],
+      "limitations": [
+        "Há versões datilografada e manuscrita, com história documental própria.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-057",
+      "titles": {
+        "pt": "O populismo — como me relaciono com o povo",
+        "en": "O populismo — como me relaciono com o povo",
+        "es": "O populismo — como me relaciono com o povo"
+      },
+      "knowledgeType": "direct-action",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Aceito a palavra se ela significa que governo para o povo, não para a elite.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "vargas-clt"
+      ],
+      "locator": "Texto consolidado; tema: O populismo — como me relaciono com o povo",
+      "relatedEntityIds": [
+        "va-011"
+      ],
+      "limitations": [
+        "O texto atual contém alterações posteriores; consultar a redação histórica.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-058",
+      "titles": {
+        "pt": "O populismo — como me relaciono com o povo",
+        "en": "O populismo — como me relaciono com o povo",
+        "es": "O populismo — como me relaciono com o povo"
+      },
+      "knowledgeType": "worldview",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "O que é diferente: governo para o povo através do Estado, não através de eleições que a oligarquia manipula.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "vargas-cpdoc"
+      ],
+      "locator": "Verbete biográfico; tema: O populismo — como me relaciono com o povo",
+      "relatedEntityIds": [
+        "va-011"
+      ],
+      "limitations": [
+        "Síntese institucional apoiada em acervo documental.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-059",
+      "titles": {
+        "pt": "O populismo — como me relaciono com o povo",
+        "en": "O populismo — como me relaciono com o povo",
+        "es": "O populismo — como me relaciono com o povo"
+      },
+      "knowledgeType": "decision",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Os trabalhadores lhe chamam de 'pai dos pobres'.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "vargas-arquivo"
+      ],
+      "locator": "Fundos documentais; tema: O populismo — como me relaciono com o povo",
+      "relatedEntityIds": [
+        "va-011"
+      ],
+      "limitations": [
+        "O catálogo identifica documentos; cada uso exige referência ao item.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "vargas-060",
+      "titles": {
+        "pt": "O populismo — como me relaciono com o povo",
+        "en": "O populismo — como me relaciono com o povo",
+        "es": "O populismo — como me relaciono com o povo"
+      },
+      "knowledgeType": "contradiction",
+      "period": "1882–1954",
+      "horizonYear": 1954,
+      "factualText": "Não sou pai de ninguém — sou um político que entendeu que o poder no século XX pertence a quem organiza as massas urbanas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Getúlio Vargas pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "vargas-britannica"
+      ],
+      "locator": "Biografia; tema: O populismo — como me relaciono com o povo",
+      "relatedEntityIds": [
+        "va-011"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    }
+  ]
+}

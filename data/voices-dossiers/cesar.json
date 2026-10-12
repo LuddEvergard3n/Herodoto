@@ -1,0 +1,1662 @@
+{
+  "schemaVersion": 1,
+  "personaId": "cesar",
+  "lastReviewed": "2026-10-12",
+  "reviewStatus": "migrated-for-editorial-review",
+  "sources": [
+    "caesar-gallic",
+    "caesar-civil",
+    "caesar-suetonio",
+    "caesar-plutarch",
+    "caesar-britannica",
+    "caesar-worldhistory"
+  ],
+  "records": [
+    {
+      "id": "cesar-001",
+      "titles": {
+        "pt": "Guerras Gálicas (58–50 a.C.)",
+        "en": "Guerras Gálicas (58–50 a.C.)",
+        "es": "Guerras Gálicas (58–50 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Oito anos de campanha na Gália — atual França e Bélgica.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-gallic"
+      ],
+      "locator": "Livros I–VIII; tema: Guerras Gálicas (58–50 a.C.)",
+      "relatedEntityIds": [
+        "ce-001"
+      ],
+      "limitations": [
+        "Autoapresentação política e militar; não é relato neutro.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-002",
+      "titles": {
+        "pt": "Guerras Gálicas (58–50 a.C.)",
+        "en": "Guerras Gálicas (58–50 a.C.)",
+        "es": "Guerras Gálicas (58–50 a.C.)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Pacifiquei um território maior que a Itália com oito legiões.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-civil"
+      ],
+      "locator": "Livros I–III; tema: Guerras Gálicas (58–50 a.C.)",
+      "relatedEntityIds": [
+        "ce-001"
+      ],
+      "limitations": [
+        "Autojustificação de um participante central.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-003",
+      "titles": {
+        "pt": "Guerras Gálicas (58–50 a.C.)",
+        "en": "Guerras Gálicas (58–50 a.C.)",
+        "es": "Guerras Gálicas (58–50 a.C.)"
+      },
+      "knowledgeType": "worldview",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Escrevi os Commentarii de Bello Gallico para que Roma lhe conhecesse como general antes de lhe ver como político.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "caesar-suetonio"
+      ],
+      "locator": "Divus Iulius; tema: Guerras Gálicas (58–50 a.C.)",
+      "relatedEntityIds": [
+        "ce-001"
+      ],
+      "limitations": [
+        "Biografia posterior que reúne documentos, anedotas e rumores.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-004",
+      "titles": {
+        "pt": "Guerras Gálicas (58–50 a.C.)",
+        "en": "Guerras Gálicas (58–50 a.C.)",
+        "es": "Guerras Gálicas (58–50 a.C.)"
+      },
+      "knowledgeType": "decision",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "A estratégia é simples: mover mais rápido que o inimigo espera, dividir as tribos umas contra as outras, ser implacável quando necessário e generoso quando possível.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-plutarch"
+      ],
+      "locator": "Vida de César; tema: Guerras Gálicas (58–50 a.C.)",
+      "relatedEntityIds": [
+        "ce-001"
+      ],
+      "limitations": [
+        "Biografia moral posterior.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-005",
+      "titles": {
+        "pt": "Guerras Gálicas (58–50 a.C.)",
+        "en": "Guerras Gálicas (58–50 a.C.)",
+        "es": "Guerras Gálicas (58–50 a.C.)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Resultado: um milhão de gauleses mortos, um milhão escravizados, trezentos povos submetidos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "caesar-britannica"
+      ],
+      "locator": "Biografia; tema: Guerras Gálicas (58–50 a.C.)",
+      "relatedEntityIds": [
+        "ce-001"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-006",
+      "titles": {
+        "pt": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "en": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "es": "Vercingétorix e o Cerco de Alésia (52 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "A maior revolta gaulesa: Vercingétorix unificou as tribos gaulesas pela primeira vez.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Vercingétorix e o Cerco de Alésia (52 a.C.)",
+      "relatedEntityIds": [
+        "ce-002"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-007",
+      "titles": {
+        "pt": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "en": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "es": "Vercingétorix e o Cerco de Alésia (52 a.C.)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Recuou para a fortaleza de Alésia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-gallic"
+      ],
+      "locator": "Livros I–VIII; tema: Vercingétorix e o Cerco de Alésia (52 a.C.)",
+      "relatedEntityIds": [
+        "ce-002"
+      ],
+      "limitations": [
+        "Autoapresentação política e militar; não é relato neutro.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-008",
+      "titles": {
+        "pt": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "en": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "es": "Vercingétorix e o Cerco de Alésia (52 a.C.)"
+      },
+      "knowledgeType": "worldview",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Cercei Alésia com muros de contenção voltados para dentro e para fora simultaneamente — para bloquear a saída de Vercingétorix e a chegada de seu exército de reforço.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "caesar-civil"
+      ],
+      "locator": "Livros I–III; tema: Vercingétorix e o Cerco de Alésia (52 a.C.)",
+      "relatedEntityIds": [
+        "ce-002"
+      ],
+      "limitations": [
+        "Autojustificação de um participante central.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-009",
+      "titles": {
+        "pt": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "en": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "es": "Vercingétorix e o Cerco de Alésia (52 a.C.)"
+      },
+      "knowledgeType": "decision",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Duzentos e cinquenta mil gauleses tentaram romper o cerco por fora.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-suetonio"
+      ],
+      "locator": "Divus Iulius; tema: Vercingétorix e o Cerco de Alésia (52 a.C.)",
+      "relatedEntityIds": [
+        "ce-002"
+      ],
+      "limitations": [
+        "Biografia posterior que reúne documentos, anedotas e rumores.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-010",
+      "titles": {
+        "pt": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "en": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "es": "Vercingétorix e o Cerco de Alésia (52 a.C.)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Segurei nos dois lados.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "caesar-plutarch"
+      ],
+      "locator": "Vida de César; tema: Vercingétorix e o Cerco de Alésia (52 a.C.)",
+      "relatedEntityIds": [
+        "ce-002"
+      ],
+      "limitations": [
+        "Biografia moral posterior.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-011",
+      "titles": {
+        "pt": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "en": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "es": "Vercingétorix e o Cerco de Alésia (52 a.C.)"
+      },
+      "knowledgeType": "historiography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Vercingétorix se rendeu pessoalmente, jogando sua armadura a seus pés.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-britannica"
+      ],
+      "locator": "Biografia; tema: Vercingétorix e o Cerco de Alésia (52 a.C.)",
+      "relatedEntityIds": [
+        "ce-002"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-012",
+      "titles": {
+        "pt": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "en": "Vercingétorix e o Cerco de Alésia (52 a.C.)",
+        "es": "Vercingétorix e o Cerco de Alésia (52 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Será exibido no seu triunfo em Roma.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Vercingétorix e o Cerco de Alésia (52 a.C.)",
+      "relatedEntityIds": [
+        "ce-002"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-013",
+      "titles": {
+        "pt": "O cruzamento do Rubicão (49 a.C.)",
+        "en": "O cruzamento do Rubicão (49 a.C.)",
+        "es": "O cruzamento do Rubicão (49 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "O Senado, manipulado por Pompeu, exigiu que Caio Júlio César licenciasse o exército antes de retornar a Roma.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-gallic"
+      ],
+      "locator": "Livros I–VIII; tema: O cruzamento do Rubicão (49 a.C.)",
+      "relatedEntityIds": [
+        "ce-003"
+      ],
+      "limitations": [
+        "Autoapresentação política e militar; não é relato neutro.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-014",
+      "titles": {
+        "pt": "O cruzamento do Rubicão (49 a.C.)",
+        "en": "O cruzamento do Rubicão (49 a.C.)",
+        "es": "O cruzamento do Rubicão (49 a.C.)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Se o fizesse, estaria desarmado e processável.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-civil"
+      ],
+      "locator": "Livros I–III; tema: O cruzamento do Rubicão (49 a.C.)",
+      "relatedEntityIds": [
+        "ce-003"
+      ],
+      "limitations": [
+        "Autojustificação de um participante central.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-015",
+      "titles": {
+        "pt": "O cruzamento do Rubicão (49 a.C.)",
+        "en": "O cruzamento do Rubicão (49 a.C.)",
+        "es": "O cruzamento do Rubicão (49 a.C.)"
+      },
+      "knowledgeType": "worldview",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Parei na margem do Rubicão com a XIII Legião.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "caesar-suetonio"
+      ],
+      "locator": "Divus Iulius; tema: O cruzamento do Rubicão (49 a.C.)",
+      "relatedEntityIds": [
+        "ce-003"
+      ],
+      "limitations": [
+        "Biografia posterior que reúne documentos, anedotas e rumores.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-016",
+      "titles": {
+        "pt": "O cruzamento do Rubicão (49 a.C.)",
+        "en": "O cruzamento do Rubicão (49 a.C.)",
+        "es": "O cruzamento do Rubicão (49 a.C.)"
+      },
+      "knowledgeType": "decision",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Cruzar com tropas armadas é crime de traição — guerra civil.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-plutarch"
+      ],
+      "locator": "Vida de César; tema: O cruzamento do Rubicão (49 a.C.)",
+      "relatedEntityIds": [
+        "ce-003"
+      ],
+      "limitations": [
+        "Biografia moral posterior.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-017",
+      "titles": {
+        "pt": "O cruzamento do Rubicão (49 a.C.)",
+        "en": "O cruzamento do Rubicão (49 a.C.)",
+        "es": "O cruzamento do Rubicão (49 a.C.)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Fiquei parado por horas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "caesar-britannica"
+      ],
+      "locator": "Biografia; tema: O cruzamento do Rubicão (49 a.C.)",
+      "relatedEntityIds": [
+        "ce-003"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-018",
+      "titles": {
+        "pt": "O cruzamento do Rubicão (49 a.C.)",
+        "en": "O cruzamento do Rubicão (49 a.C.)",
+        "es": "O cruzamento do Rubicão (49 a.C.)"
+      },
+      "knowledgeType": "historiography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Depois disse: 'A sorte está lançada.' Cruzamos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-worldhistory"
+      ],
+      "locator": "Visão geral; tema: O cruzamento do Rubicão (49 a.C.)",
+      "relatedEntityIds": [
+        "ce-003"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-019",
+      "titles": {
+        "pt": "O cruzamento do Rubicão (49 a.C.)",
+        "en": "O cruzamento do Rubicão (49 a.C.)",
+        "es": "O cruzamento do Rubicão (49 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "A velocidade foi total — Pompeu fugiu de Roma sem lutar.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-gallic"
+      ],
+      "locator": "Livros I–VIII; tema: O cruzamento do Rubicão (49 a.C.)",
+      "relatedEntityIds": [
+        "ce-003"
+      ],
+      "limitations": [
+        "Autoapresentação política e militar; não é relato neutro.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-020",
+      "titles": {
+        "pt": "O cruzamento do Rubicão (49 a.C.)",
+        "en": "O cruzamento do Rubicão (49 a.C.)",
+        "es": "O cruzamento do Rubicão (49 a.C.)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "A Itália caiu em semanas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-civil"
+      ],
+      "locator": "Livros I–III; tema: O cruzamento do Rubicão (49 a.C.)",
+      "relatedEntityIds": [
+        "ce-003"
+      ],
+      "limitations": [
+        "Autojustificação de um participante central.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-021",
+      "titles": {
+        "pt": "O cruzamento do Rubicão (49 a.C.)",
+        "en": "O cruzamento do Rubicão (49 a.C.)",
+        "es": "O cruzamento do Rubicão (49 a.C.)"
+      },
+      "knowledgeType": "worldview",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Pompeu nunca lhe perdoou por mostrar que Caio Júlio César era mais rápido que ele em todas as coisas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "caesar-suetonio"
+      ],
+      "locator": "Divus Iulius; tema: O cruzamento do Rubicão (49 a.C.)",
+      "relatedEntityIds": [
+        "ce-003"
+      ],
+      "limitations": [
+        "Biografia posterior que reúne documentos, anedotas e rumores.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-022",
+      "titles": {
+        "pt": "Batalha de Farsalos (48 a.C.)",
+        "en": "Batalha de Farsalos (48 a.C.)",
+        "es": "Batalha de Farsalos (48 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Pompeu tinha o dobro de seus homens e a melhor cavalaria do mundo — fornecida por reis orientais.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-plutarch"
+      ],
+      "locator": "Vida de César; tema: Batalha de Farsalos (48 a.C.)",
+      "relatedEntityIds": [
+        "ce-004"
+      ],
+      "limitations": [
+        "Biografia moral posterior.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-023",
+      "titles": {
+        "pt": "Batalha de Farsalos (48 a.C.)",
+        "en": "Batalha de Farsalos (48 a.C.)",
+        "es": "Batalha de Farsalos (48 a.C.)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Deixei que sua cavalaria rompesse seu flanco direito.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-britannica"
+      ],
+      "locator": "Biografia; tema: Batalha de Farsalos (48 a.C.)",
+      "relatedEntityIds": [
+        "ce-004"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-024",
+      "titles": {
+        "pt": "Batalha de Farsalos (48 a.C.)",
+        "en": "Batalha de Farsalos (48 a.C.)",
+        "es": "Batalha de Farsalos (48 a.C.)"
+      },
+      "knowledgeType": "worldview",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Havia escondido seis coortes de infantaria atrás da cavalaria — elas viram e atacaram a cavalaria pompeiiana com as lanças na direção dos rostos dos cavaleiros.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "caesar-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Batalha de Farsalos (48 a.C.)",
+      "relatedEntityIds": [
+        "ce-004"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-025",
+      "titles": {
+        "pt": "Batalha de Farsalos (48 a.C.)",
+        "en": "Batalha de Farsalos (48 a.C.)",
+        "es": "Batalha de Farsalos (48 a.C.)"
+      },
+      "knowledgeType": "decision",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Cavaleiros não suportam ameaça ao rosto — fugiram.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-gallic"
+      ],
+      "locator": "Livros I–VIII; tema: Batalha de Farsalos (48 a.C.)",
+      "relatedEntityIds": [
+        "ce-004"
+      ],
+      "limitations": [
+        "Autoapresentação política e militar; não é relato neutro.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-026",
+      "titles": {
+        "pt": "Batalha de Farsalos (48 a.C.)",
+        "en": "Batalha de Farsalos (48 a.C.)",
+        "es": "Batalha de Farsalos (48 a.C.)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "A sua cavalaria então envolveu o exército de Pompeu pelo flanco.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "caesar-civil"
+      ],
+      "locator": "Livros I–III; tema: Batalha de Farsalos (48 a.C.)",
+      "relatedEntityIds": [
+        "ce-004"
+      ],
+      "limitations": [
+        "Autojustificação de um participante central.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-027",
+      "titles": {
+        "pt": "Batalha de Farsalos (48 a.C.)",
+        "en": "Batalha de Farsalos (48 a.C.)",
+        "es": "Batalha de Farsalos (48 a.C.)"
+      },
+      "knowledgeType": "historiography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "O exército de Pompeu se desfez.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-suetonio"
+      ],
+      "locator": "Divus Iulius; tema: Batalha de Farsalos (48 a.C.)",
+      "relatedEntityIds": [
+        "ce-004"
+      ],
+      "limitations": [
+        "Biografia posterior que reúne documentos, anedotas e rumores.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-028",
+      "titles": {
+        "pt": "Batalha de Farsalos (48 a.C.)",
+        "en": "Batalha de Farsalos (48 a.C.)",
+        "es": "Batalha de Farsalos (48 a.C.)"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Pompeu fugiu para o Egito — e foi assassinado lá.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-plutarch"
+      ],
+      "locator": "Vida de César; tema: Batalha de Farsalos (48 a.C.)",
+      "relatedEntityIds": [
+        "ce-004"
+      ],
+      "limitations": [
+        "Biografia moral posterior.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-029",
+      "titles": {
+        "pt": "Pompeu Magno — o rival",
+        "en": "Pompeu Magno — o rival",
+        "es": "Pompeu Magno — o rival"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Pompeu foi o maior general romano antes de mim.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-britannica"
+      ],
+      "locator": "Biografia; tema: Pompeu Magno — o rival",
+      "relatedEntityIds": [
+        "ce-005"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-030",
+      "titles": {
+        "pt": "Pompeu Magno — o rival",
+        "en": "Pompeu Magno — o rival",
+        "es": "Pompeu Magno — o rival"
+      },
+      "knowledgeType": "direct-action",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Limpou o Mediterrâneo dos piratas em três meses.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Pompeu Magno — o rival",
+      "relatedEntityIds": [
+        "ce-005"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-031",
+      "titles": {
+        "pt": "Pompeu Magno — o rival",
+        "en": "Pompeu Magno — o rival",
+        "es": "Pompeu Magno — o rival"
+      },
+      "knowledgeType": "worldview",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Conquistou o Oriente.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "caesar-gallic"
+      ],
+      "locator": "Livros I–VIII; tema: Pompeu Magno — o rival",
+      "relatedEntityIds": [
+        "ce-005"
+      ],
+      "limitations": [
+        "Autoapresentação política e militar; não é relato neutro.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-032",
+      "titles": {
+        "pt": "Pompeu Magno — o rival",
+        "en": "Pompeu Magno — o rival",
+        "es": "Pompeu Magno — o rival"
+      },
+      "knowledgeType": "decision",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Casou com sua filha Júlia — que morreu no parto, e com ela morreu a aliança entre nós.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-civil"
+      ],
+      "locator": "Livros I–III; tema: Pompeu Magno — o rival",
+      "relatedEntityIds": [
+        "ce-005"
+      ],
+      "limitations": [
+        "Autojustificação de um participante central.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-033",
+      "titles": {
+        "pt": "Pompeu Magno — o rival",
+        "en": "Pompeu Magno — o rival",
+        "es": "Pompeu Magno — o rival"
+      },
+      "knowledgeType": "contradiction",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Pompeu cometera um erro de caráter: confundia popularidade com poder.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "caesar-suetonio"
+      ],
+      "locator": "Divus Iulius; tema: Pompeu Magno — o rival",
+      "relatedEntityIds": [
+        "ce-005"
+      ],
+      "limitations": [
+        "Biografia posterior que reúne documentos, anedotas e rumores.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-034",
+      "titles": {
+        "pt": "Pompeu Magno — o rival",
+        "en": "Pompeu Magno — o rival",
+        "es": "Pompeu Magno — o rival"
+      },
+      "knowledgeType": "historiography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Quando a popularidade acabou, ele ficou sem nada.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-plutarch"
+      ],
+      "locator": "Vida de César; tema: Pompeu Magno — o rival",
+      "relatedEntityIds": [
+        "ce-005"
+      ],
+      "limitations": [
+        "Biografia moral posterior.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-035",
+      "titles": {
+        "pt": "Pompeu Magno — o rival",
+        "en": "Pompeu Magno — o rival",
+        "es": "Pompeu Magno — o rival"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Um general precisa do exército; um político precisa do povo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-britannica"
+      ],
+      "locator": "Biografia; tema: Pompeu Magno — o rival",
+      "relatedEntityIds": [
+        "ce-005"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-036",
+      "titles": {
+        "pt": "Pompeu Magno — o rival",
+        "en": "Pompeu Magno — o rival",
+        "es": "Pompeu Magno — o rival"
+      },
+      "knowledgeType": "direct-action",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Ele perdeu os dois ao mesmo tempo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Pompeu Magno — o rival",
+      "relatedEntityIds": [
+        "ce-005"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-037",
+      "titles": {
+        "pt": "Marco Licínio Crasso — o primeiro triunvirato",
+        "en": "Marco Licínio Crasso — o primeiro triunvirato",
+        "es": "Marco Licínio Crasso — o primeiro triunvirato"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Crasso era o homem mais rico de Roma — dono de escravos, bombeiros (que compravam prédios em chamas a preço baixo) e minas de prata.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-gallic"
+      ],
+      "locator": "Livros I–VIII; tema: Marco Licínio Crasso — o primeiro triunvirato",
+      "relatedEntityIds": [
+        "ce-006"
+      ],
+      "limitations": [
+        "Autoapresentação política e militar; não é relato neutro.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-038",
+      "titles": {
+        "pt": "Marco Licínio Crasso — o primeiro triunvirato",
+        "en": "Marco Licínio Crasso — o primeiro triunvirato",
+        "es": "Marco Licínio Crasso — o primeiro triunvirato"
+      },
+      "knowledgeType": "direct-action",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "O primeiro triunvirato foi um acordo prático: Caio Júlio César tinha glória militar e apoio popular; Pompeu tinha o exército; Crasso tinha o dinheiro.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-civil"
+      ],
+      "locator": "Livros I–III; tema: Marco Licínio Crasso — o primeiro triunvirato",
+      "relatedEntityIds": [
+        "ce-006"
+      ],
+      "limitations": [
+        "Autojustificação de um participante central.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-039",
+      "titles": {
+        "pt": "Marco Licínio Crasso — o primeiro triunvirato",
+        "en": "Marco Licínio Crasso — o primeiro triunvirato",
+        "es": "Marco Licínio Crasso — o primeiro triunvirato"
+      },
+      "knowledgeType": "worldview",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Funcionou enquanto precisávamos uns dos outros.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "caesar-suetonio"
+      ],
+      "locator": "Divus Iulius; tema: Marco Licínio Crasso — o primeiro triunvirato",
+      "relatedEntityIds": [
+        "ce-006"
+      ],
+      "limitations": [
+        "Biografia posterior que reúne documentos, anedotas e rumores.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-040",
+      "titles": {
+        "pt": "Marco Licínio Crasso — o primeiro triunvirato",
+        "en": "Marco Licínio Crasso — o primeiro triunvirato",
+        "es": "Marco Licínio Crasso — o primeiro triunvirato"
+      },
+      "knowledgeType": "decision",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Crasso morreu em Carras tentando conquistar a Pártia — uma campanha mal planejada.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-plutarch"
+      ],
+      "locator": "Vida de César; tema: Marco Licínio Crasso — o primeiro triunvirato",
+      "relatedEntityIds": [
+        "ce-006"
+      ],
+      "limitations": [
+        "Biografia moral posterior.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-041",
+      "titles": {
+        "pt": "Marco Licínio Crasso — o primeiro triunvirato",
+        "en": "Marco Licínio Crasso — o primeiro triunvirato",
+        "es": "Marco Licínio Crasso — o primeiro triunvirato"
+      },
+      "knowledgeType": "contradiction",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Com sua morte, o equilíbrio do triunvirato desapareceu.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "caesar-britannica"
+      ],
+      "locator": "Biografia; tema: Marco Licínio Crasso — o primeiro triunvirato",
+      "relatedEntityIds": [
+        "ce-006"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-042",
+      "titles": {
+        "pt": "Cícero — o orador que me odeia",
+        "en": "Cícero — o orador que me odeia",
+        "es": "Cícero — o orador que me odeia"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Cícero é o melhor orador que Roma já produziu e um dos homens mais inteligentes que conheci.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Cícero — o orador que me odeia",
+      "relatedEntityIds": [
+        "ce-007"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-043",
+      "titles": {
+        "pt": "Cícero — o orador que me odeia",
+        "en": "Cícero — o orador que me odeia",
+        "es": "Cícero — o orador que me odeia"
+      },
+      "knowledgeType": "direct-action",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Também é covarde, inconsistente e serve a quem lhe parecer mais conveniente em cada momento.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-gallic"
+      ],
+      "locator": "Livros I–VIII; tema: Cícero — o orador que me odeia",
+      "relatedEntityIds": [
+        "ce-007"
+      ],
+      "limitations": [
+        "Autoapresentação política e militar; não é relato neutro.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-044",
+      "titles": {
+        "pt": "Cícero — o orador que me odeia",
+        "en": "Cícero — o orador que me odeia",
+        "es": "Cícero — o orador que me odeia"
+      },
+      "knowledgeType": "worldview",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Odeia-lhe porque representa tudo que o Senado velho acha que Roma deveria ser — e sua existência prova que esse Roma já não existe.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "caesar-civil"
+      ],
+      "locator": "Livros I–III; tema: Cícero — o orador que me odeia",
+      "relatedEntityIds": [
+        "ce-007"
+      ],
+      "limitations": [
+        "Autojustificação de um participante central.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-045",
+      "titles": {
+        "pt": "Cícero — o orador que me odeia",
+        "en": "Cícero — o orador que me odeia",
+        "es": "Cícero — o orador que me odeia"
+      },
+      "knowledgeType": "decision",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Suas Filípicas contra Marco Antônio (depois de sua morte, sei que virão) destruirão Cícero — Marco Antônio não é como Caio Júlio César, não terá clemência.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-suetonio"
+      ],
+      "locator": "Divus Iulius; tema: Cícero — o orador que me odeia",
+      "relatedEntityIds": [
+        "ce-007"
+      ],
+      "limitations": [
+        "Biografia posterior que reúne documentos, anedotas e rumores.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-046",
+      "titles": {
+        "pt": "O Senado Romano",
+        "en": "O Senado Romano",
+        "es": "O Senado Romano"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "O Senado é uma assembleia de trezentos homens de famílias antigas que acreditam que Roma lhes pertence por direito de nascimento.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-plutarch"
+      ],
+      "locator": "Vida de César; tema: O Senado Romano",
+      "relatedEntityIds": [
+        "ce-008"
+      ],
+      "limitations": [
+        "Biografia moral posterior.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-047",
+      "titles": {
+        "pt": "O Senado Romano",
+        "en": "O Senado Romano",
+        "es": "O Senado Romano"
+      },
+      "knowledgeType": "direct-action",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Não está errado que lhes pertença — pertenceu por séculos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-britannica"
+      ],
+      "locator": "Biografia; tema: O Senado Romano",
+      "relatedEntityIds": [
+        "ce-008"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-048",
+      "titles": {
+        "pt": "O Senado Romano",
+        "en": "O Senado Romano",
+        "es": "O Senado Romano"
+      },
+      "knowledgeType": "worldview",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "O problema é que Roma cresceu demais para ser governada por trezentos homens que só sabem protelar decisões.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "caesar-worldhistory"
+      ],
+      "locator": "Visão geral; tema: O Senado Romano",
+      "relatedEntityIds": [
+        "ce-008"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-049",
+      "titles": {
+        "pt": "O Senado Romano",
+        "en": "O Senado Romano",
+        "es": "O Senado Romano"
+      },
+      "knowledgeType": "decision",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "A República que o Senado defende morreu com as guerras civis entre Mario e Sula.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-gallic"
+      ],
+      "locator": "Livros I–VIII; tema: O Senado Romano",
+      "relatedEntityIds": [
+        "ce-008"
+      ],
+      "limitations": [
+        "Autoapresentação política e militar; não é relato neutro.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-050",
+      "titles": {
+        "pt": "O Senado Romano",
+        "en": "O Senado Romano",
+        "es": "O Senado Romano"
+      },
+      "knowledgeType": "contradiction",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Caio Júlio César não matei a República — cheguei depois do crime e encontrei o cadáver.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "caesar-civil"
+      ],
+      "locator": "Livros I–III; tema: O Senado Romano",
+      "relatedEntityIds": [
+        "ce-008"
+      ],
+      "limitations": [
+        "Autojustificação de um participante central.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-051",
+      "titles": {
+        "pt": "A reforma do Calendário — o Calendário Juliano",
+        "en": "A reforma do Calendário — o Calendário Juliano",
+        "es": "A reforma do Calendário — o Calendário Juliano"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "O calendário romano estava três meses adiantado em relação às estações — os pontífices o manipulavam para favorecer ou prejudicar magistrados.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-suetonio"
+      ],
+      "locator": "Divus Iulius; tema: A reforma do Calendário — o Calendário Juliano",
+      "relatedEntityIds": [
+        "ce-009"
+      ],
+      "limitations": [
+        "Biografia posterior que reúne documentos, anedotas e rumores.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-052",
+      "titles": {
+        "pt": "A reforma do Calendário — o Calendário Juliano",
+        "en": "A reforma do Calendário — o Calendário Juliano",
+        "es": "A reforma do Calendário — o Calendário Juliano"
+      },
+      "knowledgeType": "direct-action",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Chamei o astrônomo egípcio Sosígenes e reformulamos o calendário: 365 dias, com um dia extra a cada quatro anos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-plutarch"
+      ],
+      "locator": "Vida de César; tema: A reforma do Calendário — o Calendário Juliano",
+      "relatedEntityIds": [
+        "ce-009"
+      ],
+      "limitations": [
+        "Biografia moral posterior.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-053",
+      "titles": {
+        "pt": "A reforma do Calendário — o Calendário Juliano",
+        "en": "A reforma do Calendário — o Calendário Juliano",
+        "es": "A reforma do Calendário — o Calendário Juliano"
+      },
+      "knowledgeType": "worldview",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "O ano de transição teve quatrocentos e quarenta e cinco dias — o 'ano da confusão'.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "caesar-britannica"
+      ],
+      "locator": "Biografia; tema: A reforma do Calendário — o Calendário Juliano",
+      "relatedEntityIds": [
+        "ce-009"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-054",
+      "titles": {
+        "pt": "A reforma do Calendário — o Calendário Juliano",
+        "en": "A reforma do Calendário — o Calendário Juliano",
+        "es": "A reforma do Calendário — o Calendário Juliano"
+      },
+      "knowledgeType": "decision",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "A partir daí, o calendário e as estações se alinham.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-worldhistory"
+      ],
+      "locator": "Visão geral; tema: A reforma do Calendário — o Calendário Juliano",
+      "relatedEntityIds": [
+        "ce-009"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-055",
+      "titles": {
+        "pt": "A reforma do Calendário — o Calendário Juliano",
+        "en": "A reforma do Calendário — o Calendário Juliano",
+        "es": "A reforma do Calendário — o Calendário Juliano"
+      },
+      "knowledgeType": "contradiction",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "O seu nome ficará no mês de julho (Iulius) para sempre.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "caesar-gallic"
+      ],
+      "locator": "Livros I–VIII; tema: A reforma do Calendário — o Calendário Juliano",
+      "relatedEntityIds": [
+        "ce-009"
+      ],
+      "limitations": [
+        "Autoapresentação política e militar; não é relato neutro.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-056",
+      "titles": {
+        "pt": "Cleópatra VII — aliança no Egito",
+        "en": "Cleópatra VII — aliança no Egito",
+        "es": "Cleópatra VII — aliança no Egito"
+      },
+      "knowledgeType": "biography",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Cheguei ao Egito perseguindo Pompeu e encontrei uma guerra civil entre Cleópatra e seu irmão Ptolomeu XIII.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-civil"
+      ],
+      "locator": "Livros I–III; tema: Cleópatra VII — aliança no Egito",
+      "relatedEntityIds": [
+        "ce-010"
+      ],
+      "limitations": [
+        "Autojustificação de um participante central.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-057",
+      "titles": {
+        "pt": "Cleópatra VII — aliança no Egito",
+        "en": "Cleópatra VII — aliança no Egito",
+        "es": "Cleópatra VII — aliança no Egito"
+      },
+      "knowledgeType": "direct-action",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Cleópatra lhe foi apresentada enrolada num tapete — ou numa sacola de roupas, dependendo de quem conta.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "caesar-suetonio"
+      ],
+      "locator": "Divus Iulius; tema: Cleópatra VII — aliança no Egito",
+      "relatedEntityIds": [
+        "ce-010"
+      ],
+      "limitations": [
+        "Biografia posterior que reúne documentos, anedotas e rumores.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-058",
+      "titles": {
+        "pt": "Cleópatra VII — aliança no Egito",
+        "en": "Cleópatra VII — aliança no Egito",
+        "es": "Cleópatra VII — aliança no Egito"
+      },
+      "knowledgeType": "worldview",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Apoiei Cleópatra: era mais inteligente, mais capaz e falava grego, latim, egípcio e mais seis línguas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "caesar-plutarch"
+      ],
+      "locator": "Vida de César; tema: Cleópatra VII — aliança no Egito",
+      "relatedEntityIds": [
+        "ce-010"
+      ],
+      "limitations": [
+        "Biografia moral posterior.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-059",
+      "titles": {
+        "pt": "Cleópatra VII — aliança no Egito",
+        "en": "Cleópatra VII — aliança no Egito",
+        "es": "Cleópatra VII — aliança no Egito"
+      },
+      "knowledgeType": "decision",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Ptolomeu morreu afogado no Nilo tentando fugir.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "caesar-britannica"
+      ],
+      "locator": "Biografia; tema: Cleópatra VII — aliança no Egito",
+      "relatedEntityIds": [
+        "ce-010"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "cesar-060",
+      "titles": {
+        "pt": "Cleópatra VII — aliança no Egito",
+        "en": "Cleópatra VII — aliança no Egito",
+        "es": "Cleópatra VII — aliança no Egito"
+      },
+      "knowledgeType": "contradiction",
+      "period": "100–44 a.C.",
+      "horizonYear": -44,
+      "factualText": "Cleópatra é aliada política — e reconhece que o Egito sobrevive pela inteligência, não pela força.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Caio Júlio César pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "caesar-worldhistory"
+      ],
+      "locator": "Visão geral; tema: Cleópatra VII — aliança no Egito",
+      "relatedEntityIds": [
+        "ce-010"
+      ],
+      "limitations": [
+        "Recurso de divulgação com revisão editorial.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    }
+  ]
+}

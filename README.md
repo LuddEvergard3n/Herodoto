@@ -6,7 +6,7 @@ Interactive history learning platform with a knowledge graph, chronological navi
 [![D3.js](https://img.shields.io/badge/D3.js-v7-F9A03C?logo=d3dotjs&logoColor=white)](https://d3js.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![PWA](https://img.shields.io/badge/PWA-Offline-5A0FC8?logo=pwa&logoColor=white)](https://web.dev/explore/progressive-web-apps)
-[![Tests](https://img.shields.io/badge/Tests-145%20passing-2EA44F)](#tests)
+[![Tests](https://img.shields.io/badge/Tests-147%20passing-2EA44F)](#tests)
 
 > "Herodotus of Halicarnassus presents here the results of his inquiry, so that time may not erase the deeds of humankind." — *Histories*, c. 440 BCE
 
@@ -29,7 +29,7 @@ The dataset spans human history from the earliest hominins to the present, with 
 | Languages | Portuguese, English, Spanish |
 | Bibliography topics | 38 |
 | Bibliographic references | Approximately 500 |
-| Automated tests | 145 passing |
+| Automated tests | 147 passing |
 
 ## Highlights
 
@@ -136,6 +136,8 @@ The optional semantic model is pinned and documented in `data/model-manifest.jso
 The V8 rollout is isolated on `feat/herodoto-8-mobile-vozes`. Four temporary switches control the mobile shell, Voices, adaptive timeline, and Lusophone datasets. Add `?legacy=1` to the main URL to disable every V8 surface without changing stored preferences.
 
 The safety tag `herodoto-v7.64-pre-revamp` identifies the exact pre-reform commit. Functional checkpoints are independent and can be undone with `git revert <commit>`. No legacy module was removed. See [docs/HERODOTO-8.md](docs/HERODOTO-8.md) for architecture and validation limits.
+
+Herodoto 8.1 adds a local, grounded drafting layer to Voices of History. Historical datasets and persona dossiers remain the only factual sources; the optional language model may only rewrite retrieved evidence. The 117 MB lite model is prepared automatically only when browser capability, connection and storage checks pass. The 483 MB enhanced model is manual and desktop-only. Both use WebGPU in a Worker and fall back to the deterministic composer. Model identity, revision, license, size and artifact hash are pinned in `data/voices-models.json`. See [docs/HERODOTO-8.1-VOICES.md](docs/HERODOTO-8.1-VOICES.md).
 
 ## Editorial principles
 

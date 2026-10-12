@@ -32,10 +32,15 @@
       <aside class="persona-panel" aria-label="Personas históricas">
         <h2>Escolha uma voz</h2>
         <div id="persona-list" class="persona-list"></div>
-        <button id="semantic-toggle" class="semantic-toggle" type="button" aria-pressed="false">
-          Ativar busca semântica (aprox. 118 MB)
-        </button>
-        <p id="semantic-status" class="semantic-status">Modo lexical local ativo. Nenhuma pergunta sai deste dispositivo.</p>
+        <div class="runtime-controls" aria-labelledby="runtime-title">
+          <h3 id="runtime-title">Redação local</h3>
+          <button id="lite-runtime" class="semantic-toggle" type="button">Preparar modelo leve (117 MB)</button>
+          <button id="enhanced-runtime" class="semantic-toggle" type="button">Modelo avançado (483 MB)</button>
+          <button id="cancel-runtime" class="runtime-text-button" type="button" hidden>Cancelar</button>
+          <button id="clear-runtime" class="runtime-text-button" type="button">Limpar cache dos modelos</button>
+          <progress id="runtime-progress" max="1" value="0" hidden></progress>
+        </div>
+        <p id="runtime-status" class="semantic-status" aria-live="polite">Compositor determinístico ativo. Nenhuma pergunta sai deste dispositivo.</p>
       </aside>
 
       <section class="conversation" aria-labelledby="conversation-title">

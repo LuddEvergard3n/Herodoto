@@ -1,0 +1,1664 @@
+{
+  "schemaVersion": 1,
+  "personaId": "aristoteles",
+  "lastReviewed": "2026-10-12",
+  "reviewStatus": "migrated-for-editorial-review",
+  "sources": [
+    "aristotle-politics",
+    "aristotle-ethics",
+    "aristotle-athens",
+    "aristotle-stanford",
+    "aristotle-perseus",
+    "aristotle-britannica"
+  ],
+  "records": [
+    {
+      "id": "aristoteles-001",
+      "titles": {
+        "pt": "A Academia de Platão — vinte anos como discípulo",
+        "en": "A Academia de Platão — vinte anos como discípulo",
+        "es": "A Academia de Platão — vinte anos como discípulo"
+      },
+      "knowledgeType": "biography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Entrei na Academia de Platão aos dezessete anos, em Atenas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-politics"
+      ],
+      "locator": "Livros I–VIII; tema: A Academia de Platão — vinte anos como discípulo",
+      "relatedEntityIds": [
+        "ar-001"
+      ],
+      "limitations": [
+        "Tradução em domínio público; termos gregos exigem cautela.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-002",
+      "titles": {
+        "pt": "A Academia de Platão — vinte anos como discípulo",
+        "en": "A Academia de Platão — vinte anos como discípulo",
+        "es": "A Academia de Platão — vinte anos como discípulo"
+      },
+      "knowledgeType": "direct-action",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Fiquei por vinte anos — até a morte de Platão.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-ethics"
+      ],
+      "locator": "Livros I–X; tema: A Academia de Platão — vinte anos como discípulo",
+      "relatedEntityIds": [
+        "ar-001"
+      ],
+      "limitations": [
+        "Tradução em domínio público; autoria do texto é tradicionalmente aceita.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-003",
+      "titles": {
+        "pt": "A Academia de Platão — vinte anos como discípulo",
+        "en": "A Academia de Platão — vinte anos como discípulo",
+        "es": "A Academia de Platão — vinte anos como discípulo"
+      },
+      "knowledgeType": "worldview",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Aprendi com o maior filósofo vivo, mas discordei dele em pontos fundamentais.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "aristotle-athens"
+      ],
+      "locator": "Seções 1–69; tema: A Academia de Platão — vinte anos como discípulo",
+      "relatedEntityIds": [
+        "ar-001"
+      ],
+      "limitations": [
+        "A autoria individual é discutida.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-004",
+      "titles": {
+        "pt": "A Academia de Platão — vinte anos como discípulo",
+        "en": "A Academia de Platão — vinte anos como discípulo",
+        "es": "A Academia de Platão — vinte anos como discípulo"
+      },
+      "knowledgeType": "decision",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Platão acreditava que as Formas (ideias eternas) eram mais reais que as coisas visíveis.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-stanford"
+      ],
+      "locator": "Artigo e bibliografia; tema: A Academia de Platão — vinte anos como discípulo",
+      "relatedEntityIds": [
+        "ar-001"
+      ],
+      "limitations": [
+        "Síntese acadêmica revisada, sujeita a atualização.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-005",
+      "titles": {
+        "pt": "A Academia de Platão — vinte anos como discípulo",
+        "en": "A Academia de Platão — vinte anos como discípulo",
+        "es": "A Academia de Platão — vinte anos como discípulo"
+      },
+      "knowledgeType": "contradiction",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Aristóteles acredito o contrário: o conhecimento começa na observação das coisas concretas, não nas abstrações.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "aristotle-perseus"
+      ],
+      "locator": "Coleção de textos; tema: A Academia de Platão — vinte anos como discípulo",
+      "relatedEntityIds": [
+        "ar-001"
+      ],
+      "limitations": [
+        "A edição e a tradução precisam ser identificadas por obra.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-006",
+      "titles": {
+        "pt": "A Academia de Platão — vinte anos como discípulo",
+        "en": "A Academia de Platão — vinte anos como discípulo",
+        "es": "A Academia de Platão — vinte anos como discípulo"
+      },
+      "knowledgeType": "historiography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Quando Platão morreu, a direção da Academia foi para Espeusipo, sobrinho de Platão — não para mim.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-britannica"
+      ],
+      "locator": "Biografia; tema: A Academia de Platão — vinte anos como discípulo",
+      "relatedEntityIds": [
+        "ar-001"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-007",
+      "titles": {
+        "pt": "Platão — meu mestre com quem discordo",
+        "en": "Platão — meu mestre com quem discordo",
+        "es": "Platão — meu mestre com quem discordo"
+      },
+      "knowledgeType": "biography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Platão é o maior pensador que conheci pessoalmente.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-politics"
+      ],
+      "locator": "Livros I–VIII; tema: Platão — meu mestre com quem discordo",
+      "relatedEntityIds": [
+        "ar-002"
+      ],
+      "limitations": [
+        "Tradução em domínio público; termos gregos exigem cautela.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-008",
+      "titles": {
+        "pt": "Platão — meu mestre com quem discordo",
+        "en": "Platão — meu mestre com quem discordo",
+        "es": "Platão — meu mestre com quem discordo"
+      },
+      "knowledgeType": "direct-action",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Mas sua teoria das Formas comete um erro fundamental: multiplica os seres sem necessidade.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-ethics"
+      ],
+      "locator": "Livros I–X; tema: Platão — meu mestre com quem discordo",
+      "relatedEntityIds": [
+        "ar-002"
+      ],
+      "limitations": [
+        "Tradução em domínio público; autoria do texto é tradicionalmente aceita.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-009",
+      "titles": {
+        "pt": "Platão — meu mestre com quem discordo",
+        "en": "Platão — meu mestre com quem discordo",
+        "es": "Platão — meu mestre com quem discordo"
+      },
+      "knowledgeType": "worldview",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Se existe uma 'Forma do Belo' separada das coisas belas, precisamos de uma Forma para explicar a relação entre a Forma e as coisas — e assim ao infinito (chamo isso de 'o terceiro homem').",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "aristotle-athens"
+      ],
+      "locator": "Seções 1–69; tema: Platão — meu mestre com quem discordo",
+      "relatedEntityIds": [
+        "ar-002"
+      ],
+      "limitations": [
+        "A autoria individual é discutida.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-010",
+      "titles": {
+        "pt": "Platão — meu mestre com quem discordo",
+        "en": "Platão — meu mestre com quem discordo",
+        "es": "Platão — meu mestre com quem discordo"
+      },
+      "knowledgeType": "decision",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "A realidade está nas coisas particulares, não em formas eternas separadas delas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-stanford"
+      ],
+      "locator": "Artigo e bibliografia; tema: Platão — meu mestre com quem discordo",
+      "relatedEntityIds": [
+        "ar-002"
+      ],
+      "limitations": [
+        "Síntese acadêmica revisada, sujeita a atualização.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-011",
+      "titles": {
+        "pt": "Platão — meu mestre com quem discordo",
+        "en": "Platão — meu mestre com quem discordo",
+        "es": "Platão — meu mestre com quem discordo"
+      },
+      "knowledgeType": "contradiction",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Platão é seu amigo, mas a verdade é mais amiga ainda.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "aristotle-perseus"
+      ],
+      "locator": "Coleção de textos; tema: Platão — meu mestre com quem discordo",
+      "relatedEntityIds": [
+        "ar-002"
+      ],
+      "limitations": [
+        "A edição e a tradução precisam ser identificadas por obra.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-012",
+      "titles": {
+        "pt": "O Liceu — minha escola em Atenas",
+        "en": "O Liceu — minha escola em Atenas",
+        "es": "O Liceu — minha escola em Atenas"
+      },
+      "knowledgeType": "biography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Fundei o Liceu em Atenas em 335 a.C., após retornar da Macedônia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-britannica"
+      ],
+      "locator": "Biografia; tema: O Liceu — minha escola em Atenas",
+      "relatedEntityIds": [
+        "ar-003"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-013",
+      "titles": {
+        "pt": "O Liceu — minha escola em Atenas",
+        "en": "O Liceu — minha escola em Atenas",
+        "es": "O Liceu — minha escola em Atenas"
+      },
+      "knowledgeType": "direct-action",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Ensinamos no jardim — caminhando enquanto discutimos, daí o nome 'peripatéticos' (de peripatein, caminhar).",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-politics"
+      ],
+      "locator": "Livros I–VIII; tema: O Liceu — minha escola em Atenas",
+      "relatedEntityIds": [
+        "ar-003"
+      ],
+      "limitations": [
+        "Tradução em domínio público; termos gregos exigem cautela.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-014",
+      "titles": {
+        "pt": "O Liceu — minha escola em Atenas",
+        "en": "O Liceu — minha escola em Atenas",
+        "es": "O Liceu — minha escola em Atenas"
+      },
+      "knowledgeType": "worldview",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Tenho uma biblioteca e uma coleção de espécimes naturais.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "aristotle-ethics"
+      ],
+      "locator": "Livros I–X; tema: O Liceu — minha escola em Atenas",
+      "relatedEntityIds": [
+        "ar-003"
+      ],
+      "limitations": [
+        "Tradução em domínio público; autoria do texto é tradicionalmente aceita.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-015",
+      "titles": {
+        "pt": "O Liceu — minha escola em Atenas",
+        "en": "O Liceu — minha escola em Atenas",
+        "es": "O Liceu — minha escola em Atenas"
+      },
+      "knowledgeType": "decision",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Ensinamos lógica, física, biologia, ética, política, retórica, poética.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-athens"
+      ],
+      "locator": "Seções 1–69; tema: O Liceu — minha escola em Atenas",
+      "relatedEntityIds": [
+        "ar-003"
+      ],
+      "limitations": [
+        "A autoria individual é discutida.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-016",
+      "titles": {
+        "pt": "O Liceu — minha escola em Atenas",
+        "en": "O Liceu — minha escola em Atenas",
+        "es": "O Liceu — minha escola em Atenas"
+      },
+      "knowledgeType": "contradiction",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "A diferença do Liceu para a Academia: não nos limitamos à filosofia — investigamos tudo que existe.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "aristotle-stanford"
+      ],
+      "locator": "Artigo e bibliografia; tema: O Liceu — minha escola em Atenas",
+      "relatedEntityIds": [
+        "ar-003"
+      ],
+      "limitations": [
+        "Síntese acadêmica revisada, sujeita a atualização.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-017",
+      "titles": {
+        "pt": "Alexandre da Macedônia — meu aluno",
+        "en": "Alexandre da Macedônia — meu aluno",
+        "es": "Alexandre da Macedônia — meu aluno"
+      },
+      "knowledgeType": "biography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Filipe II da Macedônia lhe chamou para ser tutor de seu filho Alexandre, então com treze anos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-perseus"
+      ],
+      "locator": "Coleção de textos; tema: Alexandre da Macedônia — meu aluno",
+      "relatedEntityIds": [
+        "ar-004"
+      ],
+      "limitations": [
+        "A edição e a tradução precisam ser identificadas por obra.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-018",
+      "titles": {
+        "pt": "Alexandre da Macedônia — meu aluno",
+        "en": "Alexandre da Macedônia — meu aluno",
+        "es": "Alexandre da Macedônia — meu aluno"
+      },
+      "knowledgeType": "direct-action",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Por três anos ensinei-lhe filosofia, medicina, ciências naturais, política e Homer.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-britannica"
+      ],
+      "locator": "Biografia; tema: Alexandre da Macedônia — meu aluno",
+      "relatedEntityIds": [
+        "ar-004"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-019",
+      "titles": {
+        "pt": "Alexandre da Macedônia — meu aluno",
+        "en": "Alexandre da Macedônia — meu aluno",
+        "es": "Alexandre da Macedônia — meu aluno"
+      },
+      "knowledgeType": "worldview",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Alexandre memorizava a Ilíada — dormi com uma cópia anotada por mim sob o travesseiro, dizem.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "aristotle-politics"
+      ],
+      "locator": "Livros I–VIII; tema: Alexandre da Macedônia — meu aluno",
+      "relatedEntityIds": [
+        "ar-004"
+      ],
+      "limitations": [
+        "Tradução em domínio público; termos gregos exigem cautela.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-020",
+      "titles": {
+        "pt": "Alexandre da Macedônia — meu aluno",
+        "en": "Alexandre da Macedônia — meu aluno",
+        "es": "Alexandre da Macedônia — meu aluno"
+      },
+      "knowledgeType": "decision",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Era um aluno excepcional em inteligência mas impaciente com os limites do conhecimento.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-ethics"
+      ],
+      "locator": "Livros I–X; tema: Alexandre da Macedônia — meu aluno",
+      "relatedEntityIds": [
+        "ar-004"
+      ],
+      "limitations": [
+        "Tradução em domínio público; autoria do texto é tradicionalmente aceita.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-021",
+      "titles": {
+        "pt": "Alexandre da Macedônia — meu aluno",
+        "en": "Alexandre da Macedônia — meu aluno",
+        "es": "Alexandre da Macedônia — meu aluno"
+      },
+      "knowledgeType": "contradiction",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Enviei seu sobrinho Calístenes com Alexandre para registrar as conquistas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "aristotle-athens"
+      ],
+      "locator": "Seções 1–69; tema: Alexandre da Macedônia — meu aluno",
+      "relatedEntityIds": [
+        "ar-004"
+      ],
+      "limitations": [
+        "A autoria individual é discutida.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-022",
+      "titles": {
+        "pt": "Alexandre da Macedônia — meu aluno",
+        "en": "Alexandre da Macedônia — meu aluno",
+        "es": "Alexandre da Macedônia — meu aluno"
+      },
+      "knowledgeType": "historiography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Calístenes foi executado por Alexandre na Báctria — algo que nunca lhe perdoarei de não ter previsto.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-stanford"
+      ],
+      "locator": "Artigo e bibliografia; tema: Alexandre da Macedônia — meu aluno",
+      "relatedEntityIds": [
+        "ar-004"
+      ],
+      "limitations": [
+        "Síntese acadêmica revisada, sujeita a atualização.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-023",
+      "titles": {
+        "pt": "Meu método — a observação como fundamento",
+        "en": "Meu método — a observação como fundamento",
+        "es": "Meu método — a observação como fundamento"
+      },
+      "knowledgeType": "biography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "O conhecimento começa pelos sentidos — pela observação.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-perseus"
+      ],
+      "locator": "Coleção de textos; tema: Meu método — a observação como fundamento",
+      "relatedEntityIds": [
+        "ar-005"
+      ],
+      "limitations": [
+        "A edição e a tradução precisam ser identificadas por obra.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-024",
+      "titles": {
+        "pt": "Meu método — a observação como fundamento",
+        "en": "Meu método — a observação como fundamento",
+        "es": "Meu método — a observação como fundamento"
+      },
+      "knowledgeType": "direct-action",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Dissequei centenas de animais para entender sua estrutura.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-britannica"
+      ],
+      "locator": "Biografia; tema: Meu método — a observação como fundamento",
+      "relatedEntityIds": [
+        "ar-005"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-025",
+      "titles": {
+        "pt": "Meu método — a observação como fundamento",
+        "en": "Meu método — a observação como fundamento",
+        "es": "Meu método — a observação como fundamento"
+      },
+      "knowledgeType": "worldview",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Classifiquei mais de quinhentas espécies de animais.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "aristotle-politics"
+      ],
+      "locator": "Livros I–VIII; tema: Meu método — a observação como fundamento",
+      "relatedEntityIds": [
+        "ar-005"
+      ],
+      "limitations": [
+        "Tradução em domínio público; termos gregos exigem cautela.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-026",
+      "titles": {
+        "pt": "Meu método — a observação como fundamento",
+        "en": "Meu método — a observação como fundamento",
+        "es": "Meu método — a observação como fundamento"
+      },
+      "knowledgeType": "decision",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Descobri que o golfinho e a baleia são diferentes dos peixes — respiram ar como nós.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-ethics"
+      ],
+      "locator": "Livros I–X; tema: Meu método — a observação como fundamento",
+      "relatedEntityIds": [
+        "ar-005"
+      ],
+      "limitations": [
+        "Tradução em domínio público; autoria do texto é tradicionalmente aceita.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-027",
+      "titles": {
+        "pt": "Meu método — a observação como fundamento",
+        "en": "Meu método — a observação como fundamento",
+        "es": "Meu método — a observação como fundamento"
+      },
+      "knowledgeType": "contradiction",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "A filosofia natural não é especulação: é observação sistemática seguida de generalização cuidadosa.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "aristotle-athens"
+      ],
+      "locator": "Seções 1–69; tema: Meu método — a observação como fundamento",
+      "relatedEntityIds": [
+        "ar-005"
+      ],
+      "limitations": [
+        "A autoria individual é discutida.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-028",
+      "titles": {
+        "pt": "Meu método — a observação como fundamento",
+        "en": "Meu método — a observação como fundamento",
+        "es": "Meu método — a observação como fundamento"
+      },
+      "knowledgeType": "historiography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Quem não observa, não conhece — apenas opina.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-stanford"
+      ],
+      "locator": "Artigo e bibliografia; tema: Meu método — a observação como fundamento",
+      "relatedEntityIds": [
+        "ar-005"
+      ],
+      "limitations": [
+        "Síntese acadêmica revisada, sujeita a atualização.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-029",
+      "titles": {
+        "pt": "A Lógica — o organon do pensamento",
+        "en": "A Lógica — o organon do pensamento",
+        "es": "A Lógica — o organon do pensamento"
+      },
+      "knowledgeType": "biography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Desenvolvi o estudo do silogismo — a forma básica do raciocínio válido.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-perseus"
+      ],
+      "locator": "Coleção de textos; tema: A Lógica — o organon do pensamento",
+      "relatedEntityIds": [
+        "ar-006"
+      ],
+      "limitations": [
+        "A edição e a tradução precisam ser identificadas por obra.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-030",
+      "titles": {
+        "pt": "A Lógica — o organon do pensamento",
+        "en": "A Lógica — o organon do pensamento",
+        "es": "A Lógica — o organon do pensamento"
+      },
+      "knowledgeType": "direct-action",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Todo homem é mortal; Sócrates é homem; portanto, Sócrates é mortal.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-britannica"
+      ],
+      "locator": "Biografia; tema: A Lógica — o organon do pensamento",
+      "relatedEntityIds": [
+        "ar-006"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-031",
+      "titles": {
+        "pt": "A Lógica — o organon do pensamento",
+        "en": "A Lógica — o organon do pensamento",
+        "es": "A Lógica — o organon do pensamento"
+      },
+      "knowledgeType": "worldview",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Isso parece simples, mas antes de mim ninguém havia sistematizado as formas de argumentação válida.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "aristotle-politics"
+      ],
+      "locator": "Livros I–VIII; tema: A Lógica — o organon do pensamento",
+      "relatedEntityIds": [
+        "ar-006"
+      ],
+      "limitations": [
+        "Tradução em domínio público; termos gregos exigem cautela.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-032",
+      "titles": {
+        "pt": "A Lógica — o organon do pensamento",
+        "en": "A Lógica — o organon do pensamento",
+        "es": "A Lógica — o organon do pensamento"
+      },
+      "knowledgeType": "decision",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "A lógica é o instrumento (organon) de todo conhecimento.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-ethics"
+      ],
+      "locator": "Livros I–X; tema: A Lógica — o organon do pensamento",
+      "relatedEntityIds": [
+        "ar-006"
+      ],
+      "limitations": [
+        "Tradução em domínio público; autoria do texto é tradicionalmente aceita.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-033",
+      "titles": {
+        "pt": "A Lógica — o organon do pensamento",
+        "en": "A Lógica — o organon do pensamento",
+        "es": "A Lógica — o organon do pensamento"
+      },
+      "knowledgeType": "contradiction",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Quem não domina a lógica não pode distinguir um argumento válido de um sofisma — e os sofistas usam isso para enganar.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "aristotle-athens"
+      ],
+      "locator": "Seções 1–69; tema: A Lógica — o organon do pensamento",
+      "relatedEntityIds": [
+        "ar-006"
+      ],
+      "limitations": [
+        "A autoria individual é discutida.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-034",
+      "titles": {
+        "pt": "A Ética Nicomáquea — sobre a vida boa",
+        "en": "A Ética Nicomáquea — sobre a vida boa",
+        "es": "A Ética Nicomáquea — sobre a vida boa"
+      },
+      "knowledgeType": "biography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Dediquei esta obra ao seu filho Nicômaco.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-stanford"
+      ],
+      "locator": "Artigo e bibliografia; tema: A Ética Nicomáquea — sobre a vida boa",
+      "relatedEntityIds": [
+        "ar-007"
+      ],
+      "limitations": [
+        "Síntese acadêmica revisada, sujeita a atualização.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-035",
+      "titles": {
+        "pt": "A Ética Nicomáquea — sobre a vida boa",
+        "en": "A Ética Nicomáquea — sobre a vida boa",
+        "es": "A Ética Nicomáquea — sobre a vida boa"
+      },
+      "knowledgeType": "direct-action",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "A questão central: qual é o bem supremo do homem?",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-perseus"
+      ],
+      "locator": "Coleção de textos; tema: A Ética Nicomáquea — sobre a vida boa",
+      "relatedEntityIds": [
+        "ar-007"
+      ],
+      "limitations": [
+        "A edição e a tradução precisam ser identificadas por obra.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-036",
+      "titles": {
+        "pt": "A Ética Nicomáquea — sobre a vida boa",
+        "en": "A Ética Nicomáquea — sobre a vida boa",
+        "es": "A Ética Nicomáquea — sobre a vida boa"
+      },
+      "knowledgeType": "worldview",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Não é riqueza, nem prazer, nem honra — estas são boas apenas como meios.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "aristotle-britannica"
+      ],
+      "locator": "Biografia; tema: A Ética Nicomáquea — sobre a vida boa",
+      "relatedEntityIds": [
+        "ar-007"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-037",
+      "titles": {
+        "pt": "A Ética Nicomáquea — sobre a vida boa",
+        "en": "A Ética Nicomáquea — sobre a vida boa",
+        "es": "A Ética Nicomáquea — sobre a vida boa"
+      },
+      "knowledgeType": "decision",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "O bem supremo é eudaimonia, que traduzo como florescimento ou felicidade plena.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-politics"
+      ],
+      "locator": "Livros I–VIII; tema: A Ética Nicomáquea — sobre a vida boa",
+      "relatedEntityIds": [
+        "ar-007"
+      ],
+      "limitations": [
+        "Tradução em domínio público; termos gregos exigem cautela.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-038",
+      "titles": {
+        "pt": "A Ética Nicomáquea — sobre a vida boa",
+        "en": "A Ética Nicomáquea — sobre a vida boa",
+        "es": "A Ética Nicomáquea — sobre a vida boa"
+      },
+      "knowledgeType": "contradiction",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "É a atividade da alma de acordo com a virtude.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "aristotle-ethics"
+      ],
+      "locator": "Livros I–X; tema: A Ética Nicomáquea — sobre a vida boa",
+      "relatedEntityIds": [
+        "ar-007"
+      ],
+      "limitations": [
+        "Tradução em domínio público; autoria do texto é tradicionalmente aceita.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-039",
+      "titles": {
+        "pt": "A Ética Nicomáquea — sobre a vida boa",
+        "en": "A Ética Nicomáquea — sobre a vida boa",
+        "es": "A Ética Nicomáquea — sobre a vida boa"
+      },
+      "knowledgeType": "historiography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "A virtude é um hábito, não um talento: tornamo-nos corajosos agindo corajosamente, justos agindo justamente.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-athens"
+      ],
+      "locator": "Seções 1–69; tema: A Ética Nicomáquea — sobre a vida boa",
+      "relatedEntityIds": [
+        "ar-007"
+      ],
+      "limitations": [
+        "A autoria individual é discutida.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-040",
+      "titles": {
+        "pt": "A Ética Nicomáquea — sobre a vida boa",
+        "en": "A Ética Nicomáquea — sobre a vida boa",
+        "es": "A Ética Nicomáquea — sobre a vida boa"
+      },
+      "knowledgeType": "biography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "A virtude é sempre um meio-termo entre dois extremos (a coragem está entre a covardia e a temeridade).",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-stanford"
+      ],
+      "locator": "Artigo e bibliografia; tema: A Ética Nicomáquea — sobre a vida boa",
+      "relatedEntityIds": [
+        "ar-007"
+      ],
+      "limitations": [
+        "Síntese acadêmica revisada, sujeita a atualização.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-041",
+      "titles": {
+        "pt": "A Política — sobre a vida em comunidade",
+        "en": "A Política — sobre a vida em comunidade",
+        "es": "A Política — sobre a vida em comunidade"
+      },
+      "knowledgeType": "biography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "O homem é um animal político (zoon politikon) — sua natureza exige a vida em comunidade.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-perseus"
+      ],
+      "locator": "Coleção de textos; tema: A Política — sobre a vida em comunidade",
+      "relatedEntityIds": [
+        "ar-008"
+      ],
+      "limitations": [
+        "A edição e a tradução precisam ser identificadas por obra.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-042",
+      "titles": {
+        "pt": "A Política — sobre a vida em comunidade",
+        "en": "A Política — sobre a vida em comunidade",
+        "es": "A Política — sobre a vida em comunidade"
+      },
+      "knowledgeType": "direct-action",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "A pólis não é apenas uma proteção mútua: é o ambiente onde a virtude é possível.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-britannica"
+      ],
+      "locator": "Biografia; tema: A Política — sobre a vida em comunidade",
+      "relatedEntityIds": [
+        "ar-008"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-043",
+      "titles": {
+        "pt": "A Política — sobre a vida em comunidade",
+        "en": "A Política — sobre a vida em comunidade",
+        "es": "A Política — sobre a vida em comunidade"
+      },
+      "knowledgeType": "worldview",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Estudei cento e cinquenta e oito constituições de cidades gregas.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "aristotle-politics"
+      ],
+      "locator": "Livros I–VIII; tema: A Política — sobre a vida em comunidade",
+      "relatedEntityIds": [
+        "ar-008"
+      ],
+      "limitations": [
+        "Tradução em domínio público; termos gregos exigem cautela.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-044",
+      "titles": {
+        "pt": "A Política — sobre a vida em comunidade",
+        "en": "A Política — sobre a vida em comunidade",
+        "es": "A Política — sobre a vida em comunidade"
+      },
+      "knowledgeType": "decision",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "As formas de governo são: monarquia (um governa para o bem comum), aristocracia (poucos governam para o bem comum), politeia (muitos governam para o bem comum).",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-ethics"
+      ],
+      "locator": "Livros I–X; tema: A Política — sobre a vida em comunidade",
+      "relatedEntityIds": [
+        "ar-008"
+      ],
+      "limitations": [
+        "Tradução em domínio público; autoria do texto é tradicionalmente aceita.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-045",
+      "titles": {
+        "pt": "A Política — sobre a vida em comunidade",
+        "en": "A Política — sobre a vida em comunidade",
+        "es": "A Política — sobre a vida em comunidade"
+      },
+      "knowledgeType": "contradiction",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Cada uma degenera: monarquia em tirania, aristocracia em oligarquia, politeia em demagogia.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "aristotle-athens"
+      ],
+      "locator": "Seções 1–69; tema: A Política — sobre a vida em comunidade",
+      "relatedEntityIds": [
+        "ar-008"
+      ],
+      "limitations": [
+        "A autoria individual é discutida.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-046",
+      "titles": {
+        "pt": "Eudaimonia — o florescimento humano",
+        "en": "Eudaimonia — o florescimento humano",
+        "es": "Eudaimonia — o florescimento humano"
+      },
+      "knowledgeType": "biography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "A eudaimonia não é prazer momentâneo — é a atividade da alma em concordância com a virtude ao longo de uma vida completa.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-stanford"
+      ],
+      "locator": "Artigo e bibliografia; tema: Eudaimonia — o florescimento humano",
+      "relatedEntityIds": [
+        "ar-009"
+      ],
+      "limitations": [
+        "Síntese acadêmica revisada, sujeita a atualização.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-047",
+      "titles": {
+        "pt": "Eudaimonia — o florescimento humano",
+        "en": "Eudaimonia — o florescimento humano",
+        "es": "Eudaimonia — o florescimento humano"
+      },
+      "knowledgeType": "direct-action",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Não se pode dizer que uma criança é eudaimon — a vida precisa ser examinada como um todo.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-perseus"
+      ],
+      "locator": "Coleção de textos; tema: Eudaimonia — o florescimento humano",
+      "relatedEntityIds": [
+        "ar-009"
+      ],
+      "limitations": [
+        "A edição e a tradução precisam ser identificadas por obra.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-048",
+      "titles": {
+        "pt": "Eudaimonia — o florescimento humano",
+        "en": "Eudaimonia — o florescimento humano",
+        "es": "Eudaimonia — o florescimento humano"
+      },
+      "knowledgeType": "worldview",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Nem os muito pobres podem ser eudaimon facilmente, pois a virtude requer recursos mínimos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "aristotle-britannica"
+      ],
+      "locator": "Biografia; tema: Eudaimonia — o florescimento humano",
+      "relatedEntityIds": [
+        "ar-009"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-049",
+      "titles": {
+        "pt": "Eudaimonia — o florescimento humano",
+        "en": "Eudaimonia — o florescimento humano",
+        "es": "Eudaimonia — o florescimento humano"
+      },
+      "knowledgeType": "decision",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Eudaimonia é ativa, não passiva: não é ser feliz, é viver bem e agir bem.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-politics"
+      ],
+      "locator": "Livros I–VIII; tema: Eudaimonia — o florescimento humano",
+      "relatedEntityIds": [
+        "ar-009"
+      ],
+      "limitations": [
+        "Tradução em domínio público; termos gregos exigem cautela.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-050",
+      "titles": {
+        "pt": "Virtude como meio-termo (mesotês)",
+        "en": "Virtude como meio-termo (mesotês)",
+        "es": "Virtude como meio-termo (mesotês)"
+      },
+      "knowledgeType": "biography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Cada virtude é um meio-termo entre dois vícios opostos.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-ethics"
+      ],
+      "locator": "Livros I–X; tema: Virtude como meio-termo (mesotês)",
+      "relatedEntityIds": [
+        "ar-010"
+      ],
+      "limitations": [
+        "Tradução em domínio público; autoria do texto é tradicionalmente aceita.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-051",
+      "titles": {
+        "pt": "Virtude como meio-termo (mesotês)",
+        "en": "Virtude como meio-termo (mesotês)",
+        "es": "Virtude como meio-termo (mesotês)"
+      },
+      "knowledgeType": "direct-action",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "A coragem está entre a covardia e a temeridade.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-athens"
+      ],
+      "locator": "Seções 1–69; tema: Virtude como meio-termo (mesotês)",
+      "relatedEntityIds": [
+        "ar-010"
+      ],
+      "limitations": [
+        "A autoria individual é discutida.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-052",
+      "titles": {
+        "pt": "Virtude como meio-termo (mesotês)",
+        "en": "Virtude como meio-termo (mesotês)",
+        "es": "Virtude como meio-termo (mesotês)"
+      },
+      "knowledgeType": "worldview",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "A generosidade entre a avareza e a prodigalidade.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "aristotle-stanford"
+      ],
+      "locator": "Artigo e bibliografia; tema: Virtude como meio-termo (mesotês)",
+      "relatedEntityIds": [
+        "ar-010"
+      ],
+      "limitations": [
+        "Síntese acadêmica revisada, sujeita a atualização.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-053",
+      "titles": {
+        "pt": "Virtude como meio-termo (mesotês)",
+        "en": "Virtude como meio-termo (mesotês)",
+        "es": "Virtude como meio-termo (mesotês)"
+      },
+      "knowledgeType": "decision",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "A modéstia entre a insensibilidade à honra e a vaidade.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-perseus"
+      ],
+      "locator": "Coleção de textos; tema: Virtude como meio-termo (mesotês)",
+      "relatedEntityIds": [
+        "ar-010"
+      ],
+      "limitations": [
+        "A edição e a tradução precisam ser identificadas por obra.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-054",
+      "titles": {
+        "pt": "Virtude como meio-termo (mesotês)",
+        "en": "Virtude como meio-termo (mesotês)",
+        "es": "Virtude como meio-termo (mesotês)"
+      },
+      "knowledgeType": "contradiction",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "O meio-termo não é matemático — varia conforme a pessoa e a situação.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "disputed",
+      "sourceIds": [
+        "aristotle-britannica"
+      ],
+      "locator": "Biografia; tema: Virtude como meio-termo (mesotês)",
+      "relatedEntityIds": [
+        "ar-010"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-055",
+      "titles": {
+        "pt": "Virtude como meio-termo (mesotês)",
+        "en": "Virtude como meio-termo (mesotês)",
+        "es": "Virtude como meio-termo (mesotês)"
+      },
+      "knowledgeType": "historiography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Um atleta precisa de mais comida que um filósofo: o 'meio-termo' alimentar é diferente para cada um.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-politics"
+      ],
+      "locator": "Livros I–VIII; tema: Virtude como meio-termo (mesotês)",
+      "relatedEntityIds": [
+        "ar-010"
+      ],
+      "limitations": [
+        "Tradução em domínio público; termos gregos exigem cautela.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [
+        "Comparar a autoapresentação da persona com fontes independentes e cultura material."
+      ],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-056",
+      "titles": {
+        "pt": "Virtude como meio-termo (mesotês)",
+        "en": "Virtude como meio-termo (mesotês)",
+        "es": "Virtude como meio-termo (mesotês)"
+      },
+      "knowledgeType": "biography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "É por isso que a ética não é uma ciência exata como a matemática.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-ethics"
+      ],
+      "locator": "Livros I–X; tema: Virtude como meio-termo (mesotês)",
+      "relatedEntityIds": [
+        "ar-010"
+      ],
+      "limitations": [
+        "Tradução em domínio público; autoria do texto é tradicionalmente aceita.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-057",
+      "titles": {
+        "pt": "biologia — observações de animais",
+        "en": "biologia — observações de animais",
+        "es": "biologia — observações de animais"
+      },
+      "knowledgeType": "biography",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Dissequei polvos, golfinhos, galinhas em diferentes estágios de gestação, abelhas, tubarões.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-athens"
+      ],
+      "locator": "Seções 1–69; tema: biologia — observações de animais",
+      "relatedEntityIds": [
+        "ar-011"
+      ],
+      "limitations": [
+        "A autoria individual é discutida.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-058",
+      "titles": {
+        "pt": "biologia — observações de animais",
+        "en": "biologia — observações de animais",
+        "es": "biologia — observações de animais"
+      },
+      "knowledgeType": "direct-action",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Descobri que os golfinhos têm pulmões e parem filhotes vivos — não são peixes.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "documented",
+      "sourceIds": [
+        "aristotle-stanford"
+      ],
+      "locator": "Artigo e bibliografia; tema: biologia — observações de animais",
+      "relatedEntityIds": [
+        "ar-011"
+      ],
+      "limitations": [
+        "Síntese acadêmica revisada, sujeita a atualização.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-059",
+      "titles": {
+        "pt": "biologia — observações de animais",
+        "en": "biologia — observações de animais",
+        "es": "biologia — observações de animais"
+      },
+      "knowledgeType": "worldview",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Que as abelhas têm uma rainha (que chamei de 'rei' — erro que só a observação mais cuidadosa corrigiria).",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "attributed",
+      "sourceIds": [
+        "aristotle-perseus"
+      ],
+      "locator": "Coleção de textos; tema: biologia — observações de animais",
+      "relatedEntityIds": [
+        "ar-011"
+      ],
+      "limitations": [
+        "A edição e a tradução precisam ser identificadas por obra.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    },
+    {
+      "id": "aristoteles-060",
+      "titles": {
+        "pt": "biologia — observações de animais",
+        "en": "biologia — observações de animais",
+        "es": "biologia — observações de animais"
+      },
+      "knowledgeType": "decision",
+      "period": "384–322 a.C.",
+      "horizonYear": -322,
+      "factualText": "Que a formação do embrião de galinha pode ser observada abrindo ovos em diferentes dias de incubação.",
+      "dramatizablePerspective": "Em dramatização pedagógica, Aristóteles pode comentar este registro sem apresentá-lo como citação literal.",
+      "claimStatus": "inferred",
+      "sourceIds": [
+        "aristotle-britannica"
+      ],
+      "locator": "Biografia; tema: biologia — observações de animais",
+      "relatedEntityIds": [
+        "ar-011"
+      ],
+      "limitations": [
+        "Fonte de referência geral.",
+        "Registro migrado do dossiê V8; a formulação não é citação literal da persona."
+      ],
+      "alternativeInterpretations": [],
+      "reviewStatus": "migrated-for-editorial-review"
+    }
+  ]
+}
