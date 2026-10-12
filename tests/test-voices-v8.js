@@ -3,6 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const childProcess = require('child_process');
+const { pathToFileURL } = require('url');
 const A = require('./assert');
 
 const root = path.join(__dirname, '..');
@@ -77,10 +78,29 @@ A.suite('Voices 8.1 — grounded generative runtime', () => {
 
   A.it('keeps deterministic fallback and validates generated details', () => {
     A.ok(engine.includes('unsupportedDetails'));
+    A.ok(engine.includes('isDegenerateText'));
     A.ok(engine.includes("'deterministic_fallback'"));
     A.ok(engine.includes('attempt < 2'));
     A.ok(engine.includes('historical_horizon'));
     A.ok(!worker.toLowerCase().includes('webllm'));
+    A.ok(worker.includes('do_sample: false'));
+    A.ok(worker.includes('max_new_tokens: 140'));
+  });
+
+  A.it('rejects degenerate output without rejecting normal prose', () => {
+    const moduleUrl = pathToFileURL(path.join(root, 'js', 'voice-output-quality.mjs')).href;
+    const script = `import { isDegenerateText } from ${JSON.stringify(moduleUrl)};
+      console.log(JSON.stringify([
+        isDegenerateText('Ostrimiminoeinsomnioinsomnioinsomnioinsomnioinsomnioinsomnioinsomnio'),
+        isDegenerateText('história história história história história história história história história história história história'),
+        isDegenerateText('Heródoto registrou versões diferentes e indicou quando dependia de relatos recebidos.'),
+      ]));`;
+    const result = JSON.parse(childProcess.execFileSync(process.execPath, ['--input-type=module', '--eval', script], { encoding: 'utf8' }));
+    A.deepEqual(result, [true, true, false]);
+  });
+
+  A.it('expands history-documentation questions before lexical retrieval', () => {
+    for (const term of ['documentar', 'registrar', 'investigacao', 'acontecimentos']) A.ok(engine.includes(term));
   });
 
   A.it('passes the 160-question lexical retrieval benchmark', () => {

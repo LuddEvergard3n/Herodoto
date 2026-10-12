@@ -26,10 +26,9 @@ async function generate(message) {
   if (!generator) throw new Error('runtime_not_ready');
   cancelled = false;
   const output = await generator(message.messages, {
-    max_new_tokens: 220,
-    temperature: message.temperature ?? 0.55,
-    do_sample: true,
-    repetition_penalty: 1.08,
+    max_new_tokens: 140,
+    do_sample: false,
+    repetition_penalty: 1.1,
   });
   if (cancelled) return;
   const generated = output?.[0]?.generated_text;

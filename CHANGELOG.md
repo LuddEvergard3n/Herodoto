@@ -11,6 +11,8 @@
 - SmolLM2-135M-Instruct leve e Qwen2.5-0.5B-Instruct avançado como redatores locais opcionais em Web Worker.
 - Condições explícitas para download automático, progresso, cancelamento e limpeza do cache.
 - Validador de datas, números, nomes e citações com uma regeneração restrita e fallback determinístico.
+- Decodificação determinística e filtro linguístico impedem loops de tokens e respostas repetitivas.
+- Expansão lexical cobre perguntas sobre registrar, documentar e preservar a história.
 - Nenhuma obra protegida, caminho da biblioteca local, conversa ou dado pessoal integra os arquivos publicados.
 
 ---

@@ -33,7 +33,7 @@ The browser cache is managed by Transformers.js. The interface can cancel an act
 
 ## Grounding validation
 
-Generated output is limited to 180 words. Dates, numbers, multiword proper names and quoted text must occur in the question, persona description or selected evidence. One invalid answer triggers a stricter regeneration. A second failure returns to the deterministic composer.
+Generation uses deterministic decoding and is limited to 140 new tokens and 180 displayed words. Dates, numbers, multiword proper names and quoted text must occur in the question, persona description or selected evidence. Repeated fragments, abnormally long tokens, very low lexical diversity and malformed text are also rejected. One invalid answer triggers a stricter regeneration. A second failure returns to the deterministic composer.
 
 This validator reduces unsupported details but is not a proof of historical truth. Source quality and locator review remain editorial responsibilities.
 

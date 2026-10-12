@@ -4,7 +4,7 @@
  * Permite uso offline completo após primeira visita.
  */
 
-const CACHE_VERSION = 'herodoto-v8-1-0';
+const CACHE_VERSION = 'herodoto-v8-1-1';
 const CACHE_STATIC  = `${CACHE_VERSION}-static`;
 const CACHE_DATA    = `${CACHE_VERSION}-data`;
 
@@ -29,6 +29,7 @@ const STATIC_ASSETS = [
   './js/mobile-shell.js',
   './js/timeline-mobile.js',
   './js/voices-grounded.js',
+  './js/voice-output-quality.mjs',
   './js/voices-runtime.js',
   './js/voices-runtime-worker.js',
   './js/voices-preload.js',

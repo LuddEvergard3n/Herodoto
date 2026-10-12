@@ -6,8 +6,17 @@ import {
   prepareVoiceRuntime, getVoiceRuntimeStatus, cancelVoiceRuntimePreparation,
   clearVoiceModelCache, generateWithVoiceRuntime,
 } from './voices-runtime.js';
+import { isDegenerateText } from './voice-output-quality.mjs';
 
 const STOPWORDS = new Set(['a','o','as','os','de','da','do','das','dos','e','em','um','uma','que','como','por','para','com','sem','sobre','foi','era','ser','ter','seu','sua','the','and','of','to','in','was','were','el','la','los','las','del','con','una']);
+const QUERY_EXPANSIONS = Object.freeze({
+  documentar: ['registrar', 'historia', 'historias', 'investigacao', 'acontecimentos'],
+  documentou: ['registrar', 'historia', 'historias', 'investigacao', 'acontecimentos'],
+  registrar: ['documentar', 'historia', 'historias', 'investigacao', 'acontecimentos'],
+  registrou: ['documentar', 'historia', 'historias', 'investigacao', 'acontecimentos'],
+  historia: ['historias', 'registro', 'investigacao', 'acontecimentos', 'memoria'],
+  historias: ['historia', 'registro', 'investigacao', 'acontecimentos', 'memoria'],
+});
 const OPENINGS = Object.freeze({
   herodoto: 'Assim recolhi em minhas investigações:', aristoteles: 'É necessário distinguir o que sabemos do que apenas supomos:',
   alexandre: 'Uma decisão só pode ser julgada diante do terreno e das forças disponíveis:', cesar: 'Examinemos os fatos como quem examina uma campanha:',
@@ -27,7 +36,10 @@ let evidenceCache = [];
 let sourceCatalog = new Map();
 
 const normalize = (value = '') => String(value).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
-const tokens = value => normalize(value).split(/[^a-z0-9]+/).filter(token => token.length > 1 && !STOPWORDS.has(token));
+const tokens = value => {
+  const base = normalize(value).split(/[^a-z0-9]+/).filter(token => token.length > 1 && !STOPWORDS.has(token));
+  return [...new Set(base.flatMap(token => [token, ...(QUERY_EXPANSIONS[token] || [])]))];
+};
 
 async function fetchJson(path) {
   const response = await fetch(path);
@@ -128,7 +140,7 @@ async function generatedAnswer(persona, question, evidence, history) {
     try {
       const result = await generateWithVoiceRuntime(promptMessages(persona, question, evidence, history, attempt === 1), { temperature: attempt ? 0.2 : 0.55 });
       const text = result.text.trim();
-      if (text && text.split(/\s+/).length <= 180 && unsupportedDetails(text, persona, question, evidence).length === 0) {
+      if (!isDegenerateText(text) && text.split(/\s+/).length <= 180 && unsupportedDetails(text, persona, question, evidence).length === 0) {
         return { text, tier: result.tier, status: attempt ? 'regenerated' : 'generated' };
       }
     } catch (error) {
